@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<font value="Verdana" replace="M+ 2c medium">
+		<size value="10" replace="12"/>
+		<size value="11" replace="12"/>
+		<size value="12" replace="13"/>
+	</font>
+	
+	<font value="Verdana_10pt_st" replace="M+ 2c medium">
+		<size value="10" replace="12"/>
+	</font>
+	
+	<font value="Verdana_11pt_st" replace="M+ 2c medium">
+		<size value="11" replace="12"/>
+	</font>
+	
+	<font value="Verdana_12pt_st" replace="M+ 2c medium">
+		<size value="12" replace="13"/>
+	</font>
+	
+	<font value="Verdana_13pt_st" replace="M+ 2c medium"/>
+	<font value="Verdana_14pt_st" replace="M+ 2c medium"/>
+	<font value="Verdana_15pt_st" replace="M+ 2c medium"/>
+	<font value="Verdana_16pt_st" replace="M+ 2c medium"/>
+	<font value="Verdana_16pt_st" replace="M+ 2c medium"/>
+	
+	<font value="Georgia" replace="M+ 2c medium">
+		<size value="10" replace="12"/>
+		<size value="11" replace="12"/>
+		<size value="12" replace="13"/>
+	</font>
+	
+	<font value="Georgia_10pt_st" replace="M+ 2c medium">
+		<size value="10" replace="12"/>
+	</font>
+	
+	<font value="Georgia_11pt_st" replace="M+ 2c medium">
+		<size value="11" replace="12"/>
+	</font>
+	
+	<font value="Georgia_12pt_st" replace="M+ 2c medium">
+		<size value="12" replace="13"/>
+	</font>
+	
+	<font value="Georgia_13pt_st" replace="M+ 2c medium"/>
+	
+	<font value="Georgia_14pt_st" replace="M+ 2c medium"/>
+	<font value="Georgia_15pt_st" replace="M+ 2c medium"/>
+	<font value="Georgia_16pt_st" replace="M+ 2c medium"/>
+	<font value="Georgia_16pt_st" replace="M+ 2c medium"/>
+	
+	<font value="Myriad Pro" replace="M+ 2c medium">
+		<size value="25" replace="21"/>
+		<size value="30" replace="26"/>
+	</font>
+		
+	<font value="MoolBoran" replace="M+ 2c medium">
+		<size value="25" replace="18"/>
+		<size value="30" replace="20"/>
+		<size value="40" replace="25"/>
+		<size value="50" replace="30"/>
+	</font>
+	
+	<!--
+	<font value="Verdana_10pt_st" replace="M+ 2c medium_10pt_st"/>
+	<font value="Verdana_11pt_st" replace="M+ 2c medium_11pt_st"/>
+	<font value="Verdana_12pt_st" replace="M+ 2c medium_12pt_st"/>
+	<font value="Verdana_13pt_st" replace="M+ 2c medium_13pt_st"/>
+	<font value="Verdana_14pt_st" replace="M+ 2c medium_14pt_st"/>
+	<font value="Verdana_15pt_st" replace="M+ 2c medium_15pt_st"/>
+	<font value="Verdana_16pt_st" replace="M+ 2c medium_16pt_st"/>
+	<font value="Verdana_16pt_st" replace="M+ 2c medium_16pt_st"/>
+	-->
+</data>
