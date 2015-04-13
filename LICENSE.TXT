@@ -1,0 +1,4 @@
+Copyright (c) 2012-2015 Level Up Labs, LLC
+All Rights Reserved.
+
+(We're working on some submission terms, this is a placeholder license in the meantime)
