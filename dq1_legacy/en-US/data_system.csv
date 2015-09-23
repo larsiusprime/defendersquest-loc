@@ -5,7 +5,7 @@
 "$TITLE_START","Start",
 "$TITLE_QUIT","Quit",
 "$TITLE_EULA_1","By playing this you agree to our",
-"$TITLE_EULA_2","End User License Agreement",""
+"$TITLE_EULA_2","End User License Agreement",
 "$TITLE_PLEASE_WAIT","<RE>$MISC_PLEASE_WAIT","COMMENT: this is a redirect, the text for $MISC_PLEASE_WAIT will be duplicated here. The <RE> invocation at the beginning of the string signals a redirect, and will not show up in the final text",
 "$TITLE_BONUS_GOODIES","Bonus Goodies",
 "$TITLE_BONUS_GOODIES_2","Secrets?",
