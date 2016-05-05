@@ -1,0 +1,20 @@
+flag	name
+$BONUS_1_TITLE	Desafío 1
+$BONUS_2_TITLE	Desafío 2
+$BONUS_3_TITLE	Desafío 3
+$BONUS_4_TITLE	Infinito 1
+$BONUS_5_TITLE	Desafío 4
+$BONUS_6_TITLE	Desafío 5
+$BONUS_7_TITLE	Infinito 2
+$BONUS_1_DESC	Enemigos acuáticos muy escurridizos.
+$BONUS_2_DESC	Sin arqueros ni dragones<C> y sólo 6 puestos para defensores. ¿Qué vas a hacer?
+$BONUS_3_DESC	Una batalla con múltiples frentes.
+$BONUS_4_DESC	¡Enfréntate a un desafío interminable de enemigos!
+$BONUS_5_DESC	Nadar a contracorriente entre oleadas.
+$BONUS_6_DESC	Mucho tráfico en la parte central y amenazas en los flancos.
+$BONUS_7_DESC	Otro desafío interminable<C> pero esta vez no atacan. ¿Cuánto daño por segundo puedes conseguir?
+$BONUS_RECORD_WAVE	(Récord: oleada <WAVE_NUM>)
+$BONUS_REWARDS	RECOMPENSAS
+$BONUS_HIGH_SCORE	Máxima puntuación
+$BONUS_REACH_WAVE	Alcanza la oleada <WAVE_NUM>
+$BONUS_BEAT_WAVE	Supera la oleada <WAVE_NUM>

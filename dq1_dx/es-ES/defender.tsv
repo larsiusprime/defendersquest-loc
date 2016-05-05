@@ -1,0 +1,136 @@
+flag	name
+$CLASS_MCGUFFIN	Bibliotecaria
+$CLASS_MCGUFFIN_PL	Bibliotecarias
+$CLASS_KNIGHT	Caballero
+$CLASS_KNIGHT_PL	Caballeros
+$CLASS_RANGER	Cazadora
+$CLASS_RANGER_PL	Cazadoras
+$CLASS_BERSERKER	Berserker
+$CLASS_BERSERKER_PL	Berserkers
+$CLASS_HEALER	Sanador
+$CLASS_HEALER_PL	Sanadores
+$CLASS_MAGE	Maga gélida
+$CLASS_MAGE_PL	Magas gélidas
+$CLASS_DRAGON	Dragón
+$CLASS_DRAGON_PL	Dragones
+$CLASS_SORCEROR	Hechicero
+$CLASS_SORCEROR_PL	Hechiceros
+$CLASS_ANTIMCGUFFIN	Hechicera
+$CLASS_ANTIMCGUFFIN_PL	Hechiceras
+$SPELL_ENEMY_ZAP	<RE>$SKILL_MCGUFFIN_A_LIGHTNING
+$SPELL_ENEMY_FRENZY	<RE>$SKILL_MCGUFFIN_A_FRENZY
+$SPELL_ENEMY_HEAL	<RE>$SKILL_MCGUFFIN_A_HEALING
+$SPELL_ENEMY_FIRE	<RE>$SKILL_MCGUFFIN_A_DRAGON_FIRE
+$SKILL_MCGUFFIN_A_LIGHTNING	Rayo
+$SKILL_MCGUFFIN_A_FRENZY	Frenesí
+$SKILL_MCGUFFIN_A_HEALING	Curación
+$SKILL_MCGUFFIN_A_CRYSTAL	Cristal
+$SKILL_MCGUFFIN_A_PUSHBACK	Empujón
+$SKILL_MCGUFFIN_A_DRAGON_FIRE	Fuego draconiano
+$SKILL_MCGUFFIN_A_LIGHTNING_DESC	Causa $X de daño a un único enemigo. Consume psi y reduce la cantidad de psi recibida del enemigo.
+$SKILL_MCGUFFIN_A_FRENZY_DESC	Incrementa la velocidad de ataque de TODOS los defensores en $X% durante $Y segundos.
+$SKILL_MCGUFFIN_A_HEALING_DESC	Restaura $X PV a todos los defensores.
+$SKILL_MCGUFFIN_A_CRYSTAL_DESC	Coloca cristales que causan $X de daño a los enemigos en un radio de $Y casillas. Explosiona a los $Z segundos o al ser golpeado por un rayo.
+$SKILL_MCGUFFIN_A_PUSHBACK_DESC	Empuja hacia atrás a los enemigos $X casillas hacia el inicio del laberinto.
+$SKILL_MCGUFFIN_A_DRAGON_FIRE_DESC	Causa $X de daño a todos los enemigos en pantalla y los hace arder durante $Y segundos.
+$SKILL_MCGUFFIN_fake_attackEXPLOSION	Explosión
+$SKILL_ANTIMCGUFFIN_A_LIGHTNING	Rayo
+$SKILL_ANTIMCGUFFIN_A_HEALING	Curación
+$SKILL_ANTIMCGUFFIN_A_FRENZY	Frenesí
+$SKILL_ANTIMCGUFFIN_A_CRYSTAL	Cristal
+$SKILL_ANTIMCGUFFIN_A_PUSHBACK	Empujón
+$SKILL_ANTIMCGUFFIN_A_DRAGON_FIRE	Fuego draconiano
+$SKILL_ANTIMCGUFFIN_A_LIGHTNING_DESC	Causa $X de daño a un único enemigo. Consume psi y reduce la cantidad de psi recibida del enemigo.
+$SKILL_ANTIMCGUFFIN_A_FRENZY_DESC	Incrementa la velocidad de ataque de TODOS los defensores en $X% durante $Y segundos.
+$SKILL_ANTIMCGUFFIN_A_HEALING_DESC	Restaura $X PV a todos los defensores.
+$SKILL_ANTIMCGUFFIN_A_CRYSTAL_DESC	Coloca cristales que causan $X de daño a los enemigos en un radio de $Y casillas. Explota a los $Z segundos o al ser golpeado por un rayo.
+$SKILL_ANTIMCGUFFIN_A_PUSHBACK_DESC	Empuja hacia atrás a los enemigos $X casillas hacia el inicio del laberinto.
+$SKILL_ANTIMCGUFFIN_A_DRAGON_FIRE_DESC	Causa $X de daño a todos los enemigos en pantalla y los hace arder durante $Y segundos.
+$SKILL_SORCEROR_A_LIGHTNING-Z	Rayo
+$SKILL_SORCEROR_A_HEALING-Z	Curación
+$SKILL_SORCEROR_A_FRENZY-Z	Frenesí
+$SKILL_SORCEROR_A_PUSHBACK-Z	Empujón
+$SKILL_SORCEROR_A_DRAGON_FIRE-Z	Fuego draconiano
+$SKILL_SORCEROR_A_LIGHTNING_DESC	Causa $X de daño a un único enemigo. Consume psi y reduce la cantidad de psi recibida del enemigo.
+$SKILL_SORCEROR_A_FRENZY-Z_DESC	Incrementa la velocidad de ataque de TODOS los defensores en $X% durante $Y segundos.
+$SKILL_SORCEROR_A_HEALING-Z_DESC	Restaura $X PV a todos los defensores.
+$SKILL_SORCEROR_A_PUSHBACK-Z_DESC	Empuja hacia atrás a los enemigos $X casillas hacia el inicio del laberinto.
+$SKILL_SORCEROR_A_DRAGON_FIRE-Z_DESC	Causa $X de daño a todos los enemigos en pantalla y los hace arder durante $Y segundos.
+$SKILL_KNIGHT_A_SWING	Corte
+$SKILL_KNIGHT_P_ARMOR_PIERCE	Perf. de armadura
+$SKILL_KNIGHT_A_SMASH	Destrozo
+$SKILL_KNIGHT_P_ARMOR_BREAK	Rotura de armadura
+$SKILL_KNIGHT_P_ARMOR_TRAINING	Entr. de armadura
+$SKILL_KNIGHT_P_HARD_KNOCK	Choque fuerte
+$SKILL_KNIGHT_A_COUNTER	Contra
+$SKILL_KNIGHT_A_LUNGE	Embestida
+$SKILL_KNIGHT_P_STUN_STAB	Puñalada aturdidora
+$SKILL_KNIGHT_P_SWORD_TRAINING	Entr. de espada
+$SKILL_KNIGHT_A_CLEAVE	Cercenar
+$SKILL_BERSERKER_A_SLASH	Tajo
+$SKILL_BERSERKER_A_DOUBLE_HIT	Mandoble
+$SKILL_BERSERKER_P_SWIFTNESS	Rapidez
+$SKILL_BERSERKER_A_FLURRY	Ráfaga
+$SKILL_BERSERKER_P_RESILIENCE	Resistencia
+$SKILL_BERSERKER_A_SWIPE	Cuchillada
+$SKILL_BERSERKER_P_RAGE	Ira
+$SKILL_BERSERKER_P_REFLEXES	Reflejos
+$SKILL_BERSERKER_P_MADNESS	Locura
+$SKILL_BERSERKER_A_WHIRLWIND	Tornado
+$SKILL_HEALER_A_AID	Cura
+$SKILL_HEALER_A_ETHER_FLASH	Destello de éter
+$SKILL_HEALER_P_BULK_UP	Fortaleza
+$SKILL_HEALER_P_BLINDING	Ceguera
+$SKILL_HEALER_A_GROUP_HEAL	Cura ampliada
+$SKILL_HEALER_A_HOLY_LIGHT	Luz sagrada
+$SKILL_HEALER_A_ZEAL	Fervor
+$SKILL_HEALER_P_INSPIRE	Inspirar
+$SKILL_MAGE_A_ICE_BALL	Bola de hielo
+$SKILL_MAGE_P_CHILL	Escalofrío
+$SKILL_MAGE_A_ICE_SHARD	Esquirla de hielo
+$SKILL_MAGE_P_FREEZE	Congelación
+$SKILL_MAGE_A_SLEET	Granizo
+$SKILL_MAGE_P_ICE_SPEAR	Lanza de hielo
+$SKILL_MAGE_A_ICE_SPLASH	Lluvia helada
+$SKILL_MAGE_A_BLIZZARD	Ventisca
+$SKILL_DRAGON_A_BITE	Mordisco
+$SKILL_DRAGON_A_CLAW	Desgarrar
+$SKILL_DRAGON_P_EPIC_HALITOSIS	Halitosis bestial
+$SKILL_DRAGON_A_FIRE_BREATH	Aliento de fuego
+$SKILL_DRAGON_P_STRENGTH	Fuerza
+$SKILL_DRAGON_A_ROAR	Rugido
+$SKILL_DRAGON_P_FATTEN_UP	Cebar
+$SKILL_DRAGON_P_NOM	Ñam
+$SKILL_DRAGON_A_FIRE_BALL	Bola de fuego
+$SKILL_RANGER_A_BASIC_SHOT	Disparo básico
+$SKILL_RANGER_P_SHARP_SHOOTER	Tirador agudo
+$SKILL_RANGER_A_TRIPLE_SHOT	Disparo triple
+$SKILL_RANGER_P_DEEP_SHOT	Disparo profundo
+$SKILL_RANGER_A_RAPID_SHOT	Disparo rápido
+$SKILL_RANGER_P_RANGE_FOCUS	Rango ampliado
+$SKILL_RANGER_P_PIERCING_SHOT	Disparo penetrante
+$SKILL_RANGER_P_POISON_SHOT	Disparo venenoso
+$SKILL_RANGER_A_SPREAD_SHOT	Disparo extensivo
+$SKILL_RANGER_A_BLACK_OUT_THE_SUN	Andanada celeste
+$TYPE_RANGED	A distancia
+$TYPE_MELEE	Cuerpo a cuerpo
+$TYPE_ULTIMATE	Definitiva
+$BLURB_BERSERKER	Los ataques más veloces.<N>Impacta rápidamente a muchos objetivos causando daño medio.<N>¡Mejor contra grupos de enemigos débiles!
+$BLURB_RANGER	El mejor rango.<N>Impacta a los objetivos desde lejos causando daño bajo.<N>¡La unidad ideal que sirve para todo!
+$BLURB_KNIGHT	La clase más lenta.<N>Impacta a objetivos únicos causando daño alto.<N>Puede perforar/destruir la armadura.<N>¡Mejor contra enemigos fuertes o con armadura!
+$BLURB_MAGE	Ralentiza y congela a los enemigos.<N>Velocidad de ataque media y daño bajo.<N>¡Mejor contra enemigos rápidos!
+$BLURB_DRAGON	Gran daño.<N>Puede comerse a los enemigos y quemarlos.<N>Es caro, pero es impresionante.
+$BLURB_HEALER	Cura a tus aliados.<N>Tiene unos cuantos ataques de luz.<N>¡Ubícalo sabiamente para maximizar su potencial!
+$COLOR_EYE	Ojos
+$COLOR_SKIN	Piel
+$COLOR_HAIR	Pelo
+$COLOR_PANTS	Pantalones
+$COLOR_WEAPON	Arma
+$COLOR_ARMOR	Armadura
+$COLOR_DETAIL	Detalle
+$COLOR_TUNIC	Túnica
+$COLOR_CLOAK	Capa
+$COLOR_ROBE	Túnica
+$COLOR_HIDE	Piel
+$COLOR_OUTLINE	Contorno
+$END	Terminar

@@ -9,7 +9,7 @@
 "$ENTRY_JOURNAL_INDEX_LEFT_60",,,,"4º giorno: @Il mondo a metà strada@",,,,
 "$ENTRY_JOURNAL_INDEX_LEFT_70",,,,"5º giorno: @<ranger_hero>@",,,,
 "$ENTRY_JOURNAL_INDEX_LEFT_80",,,,"8º giorno: @Addendum@",,,,
-"$ENTRY_JOURNAL_INDEX_LEFT_90",,,,"7º notte: @The Burning of Karsk@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_90",,,,"7º notte: @Il rogo di Karsk@",,,,
 "$ENTRY_JOURNAL_INDEX_LEFT_100",,,,"8º giorno: @Laksos@",,,,
 "$ENTRY_JOURNAL_INDEX_LEFT_110",,,,"9º giorno: @<mcguffin_hero>@",,,,
 "$ENTRY_JOURNAL_INDEX_LEFT_120",,,,"10º giorno: @La morte di Ozimal@",,,,
@@ -22,8 +22,8 @@
 "$ENTRY_JOURNAL_INDEX_RIGHT_10",,,,"18º giorno: @<knight_hero>@",,,,
 "$ENTRY_JOURNAL_INDEX_RIGHT_20",,,,"19º giorno: @Una lettera da <knight_hero>@",,,,
 "$ENTRY_JOURNAL_INDEX_RIGHT_30",,,,"19º notte: @La mia risposta: 1º bozza@",,,,
-"$ENTRY_JOURNAL_INDEX_RIGHT_40",,,,"20º giorno: @<knight_hero_pos> Reply@",,,,
-"$ENTRY_JOURNAL_INDEX_RIGHT_50",,,,"21º giorno: @Letter from <LQ><knight_hero_up><RQ>@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_40",,,,"20º giorno: @La risposta di <knight_hero_pos>@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_50",,,,"21º giorno: @Lettera da <LQ><knight_hero_up><RQ>@",,,,
 "$ENTRY_JOURNAL_INDEX_RIGHT_60",,,,"21º notte: @ATTN: <berserker_hero>@",,,,
 "$ENTRY_JOURNAL_INDEX_RIGHT_70",,,,"22º notte: @<dragon_hero>@",,,,
 "$ENTRY_JOURNAL_INDEX_RIGHT_80",,,,"24º giorno: @Addendum@",,,,
@@ -37,242 +37,240 @@
 "$ENTRY_JOURNAL_INDEX_RIGHT_160",,,,"@Epilogo@",,,,
 "$ENTRY_JOURNAL_INTRO_TITLE",,,,"",,,,
 "$ENTRY_JOURNAL_INTRO_LEFT_00",,,,"1º giorno - Dove sono?",,,,
-"$ENTRY_JOURNAL_INTRO_LEFT_10",,,,"Probabilmente sono impazzita, ma cercherò nondimeno di registrare gli eventi che si stanno svolgendo dinanzi ai miei occhi. Il lettore potrà trarre le sue conclusioni; io descriverò semplicemente gli avvenimenti percepiti dalla mia mente febbricitante.
-So per certa di aver contratto la piaga che sta devastando la nostra bella capitale. So anche che, come gli altri malati prima di me, sono stata portata fuori dalla citta e gettata nella Fossa. Da lì si è succeduta una serie di eventi così strani e terrificanti che ancora mi chiedo se sogno o son desta.
-Quando mi prese la febbre, mi ritrovai in un luogo oscuro. Di fronte a me stava un'altra vittima.",,,,
-"$ENTRY_JOURNAL_INTRO_RIGHT_00",,,,"Lì apparse un magnifico trono, e su di esso sedeva un uomo, diverso da chiunque avessi mai visto prima. Splendente come oro in ogni sua parte. All'inizio pensai che dovesse essere una statua, ma un'istante dopo lo udii lanciare un ordine.
-La sua voce era anch'essa dorata, e i suoi bordi sfrigolavano con il potere del tuono. Non era un linguaggio che avessi mai sentito It was no language I had ever heard or read in all the great library of Ash, but my body leapt to its command. My veins strained as if the blood would burst from my body and rush to join him.
-My heart races just to think of it. 
+"$ENTRY_JOURNAL_INTRO_LEFT_10",,,,"Probabilmente sono impazzita, ma cercherò nondimeno di registrare gli eventi che si stanno svolgendo davanti ai miei occhi. Il lettore potrà trarre le sue conclusioni; io mi limiterò semplicemente a descrivere gli avvenimenti come percepiti dalla mia mente febbricitante.
+So per certa di aver contratto la piaga che sta devastando la nostra splendida capitale. So anche che, come gli altri malati prima di me, sono stata portata fuori dalla citta e gettata nella Valle. Da lì si è succeduta una serie di eventi così strani e terrificanti che ancora mi chiedo se non stia sognando.
+Quando mi colse la febbre, mi destai in un luogo oscuro. Dinanzi a me si trovava un'altra vittima.",,,,
+"$ENTRY_JOURNAL_INTRO_RIGHT_00",,,,"Là apparse un magnifico trono, e su di esso sedeva un uomo, diverso da chiunque avessi mai visto prima. Splendente d'oro dalla testa ai piedi. Inizialmente pensai che dovesse essere una statua, ma nell'istante successivo lo udii lanciare un ordine.
+La sua voce era anch'essa dorata, e le sue parole crepitavano con il potere del tuono. Era un linguaggio completamente sconosciuto, ma il mio corpo scattò al suo comando. Sentii le mie vene tendersi come se il sangue volesse erompere dal mio corpo e precipitarsi al suo fianco.
+Al solo pensarci, il cuore riprende a battermi all'impazzata. 
 -<mcguffin_hero> Livbar",,,,
 "$ENTRY_JOURNAL_SLAK_TITLE",,,,"",,,,
 "$ENTRY_JOURNAL_SLAK_LEFT_0_00",,,,"1º notte - <berserker_hero>",,,,
-"$ENTRY_JOURNAL_SLAK_LEFT_0_10",,,,"When I come to write about <berserker_hero>, I find I must leave behind the austere language of the capitol and adopt a vernacular more fitting the subject. 
-<berserker_hero> is a dumbass. He is an ass who is also dumb.
-What he lacks in intellect, he makes up for in smell. If two burning dungheaps could mate and sire offspring, their putrid progeny would quail at the stench that emanates from <berserker_hero>'s uncovered armpits. Indeed, the animate corpses that stalk us are each an exquisite perfume by comparison.
-But <berserker_hero> is more than just a pretty face. He also possess a most winning personality I can only describe as <LQ>pants-on-head insane.<RQ>
-Yestergiorno he argued for fifteen minutes with a rock he stubbed his toe on. And he lost.",,,,
-"$ENTRY_JOURNAL_SLAK_RIGHT_0_00",,,,"Truly, I am blessed to travel in such company.",,,,
-"$ENTRY_JOURNAL_SLAK_RIGHT_0_10",,,,"giorno 3 - addendum",,,,
-"$ENTRY_JOURNAL_SLAK_RIGHT_0_20",,,,"In the interest of fairness, I must admit that he is also the bravest man I have ever seen. His whole body is a web of battle-scars, though I am somewhat less impressed when I remember that he refuses to wear any sort of clothing or armor on his torso. I suppose the bottom line is this - he is both an intolerable buffoon and a shockingly competent warrior, and I am begrudgingly happy to have him with me.",,,,
-"$ENTRY_JOURNAL_SLAK_RIGHT_0_30",,,,"AWWW I LOVE YOU TOO! XOXOXO
+"$ENTRY_JOURNAL_SLAK_LEFT_0_10",,,,"Mentre mi accingo a scrivere di <berserker_hero>, mi accorgo di dover abbandonare l'austero linguaggio della capitale, per adottare un vernacolo più consono all'argomento. <berserker_hero> è un cretino integrale. È la quintessenza della cretinaggine. Chiamarlo cretino è un insulto a tutti gli altri cretini.
+Ciò che gli manca sul piano intellettuale, però, lo compensa con l'odore. Se due cumuli di letame bruciato potessero accoppiarsi e generare dei discendenti, la loro putrida progenie scapperebbe di fronte fetore emanato dalle ascelle di <berserker_hero>. In verità, i cadaveri animati che ci danno la caccia hanno al confronto uno squisito profumo. Ma <berserker_hero> è più di un bel faccino. Possiede anche una personalità vincente che io posso solo descrivere come <LQ>completamente fuori di capa<RQ>.
+Ieri ha litigato per un quarto d'ora col sasso su cui aveva sbattuto l'alluce. Ed ha perso. Invero, sono davvero fortunata a viaggiare in sua compagnia.",,,,
+"$ENTRY_JOURNAL_SLAK_RIGHT_0_00",,,," ",,,,
+"$ENTRY_JOURNAL_SLAK_RIGHT_0_10",,,,"3º giorno - addendum",,,,
+"$ENTRY_JOURNAL_SLAK_RIGHT_0_20",,,,"Per correttezza, sono costretta ad ammettere che è anche l'uomo più coraggioso che abbia mai conosciuto. Il suo corpo è una ragnatela di cicatrici, anche se questo non è poi così sorprendente visto il suo rifiuto di coprirsi il torace con un qualunque genere di vestito o armatura. Immagino che alla fine il punto sia questo - è sia un pagliaccio insopportabile che un guerriero incredibilmente capace, e devo ammettere con riluttanza di essere contenta di averlo con me.",,,,
+"$ENTRY_JOURNAL_SLAK_RIGHT_0_30",,,,"<N><N>AWWW TI AMO ANCH'IO! XOXOXO
 							
-I DO NOT SLEEP I MERELY FLEX LAYING DOWN IT WORKS MY GLUTES",,,,
-"$ENTRY_JOURNAL_SLAK_RIGHT_0_40",,,,"Also, apparently he can read and write! Where on Earth did this blood-thirsty drifter get an education?
+<N>IO NON DORMO FACCIO SEMPLICEMENTE FLESSIONI DA SDRAIATO MI RASSODA I GLUTEI",,,,
+"$ENTRY_JOURNAL_SLAK_RIGHT_0_40",,,,"<N><N>Inoltre, sembra che sia capace di leggere e scrivere! Dove mai avrà ricevuto un'educazione questo vagabondo sanguinario?
 
-P.S. If you ever steal my journal again, I will brain you in your sleep.",,,,
-"$ENTRY_JOURNAL_SLAK_LEFT_1_00",,,,"notte 3 - second addendum",,,,
-"$ENTRY_JOURNAL_SLAK_LEFT_1_10",,,,"Ok, for the record, <berserker_hero> sleeps naked. All attempts at revenge will take place during the giorno from now on.
-And yes, the scars don't stop at the waistline.
+<N>P.S. Se mi rubi di nuovo il diario, ti prenderò a legnate mentre dormi.",,,,
+"$ENTRY_JOURNAL_SLAK_LEFT_1_00",,,,"3º notte - secondo addendum",,,,
+"$ENTRY_JOURNAL_SLAK_LEFT_1_10",,,,"Bene, per la cronaca, <berserker_hero> dorme nudo. Tutti i miei tentativi di vendetta d'ora in poi avverranno durante il giorno.
+E, sì, le cicatrici non si fermano alla cintola.
 
-I hate you.",,,,
-"$ENTRY_JOURNAL_SLAK_LEFT_1_20",,,,"WHAT YOU THINK KHAN AND CHARISSA WOULDN'T FIGHT TOO?",,,,
+Ti odio.",,,,
+"$ENTRY_JOURNAL_SLAK_LEFT_1_20",,,,"<N>COME, CREDEVI CHE KHAN E CHARISSA NON COMBATTESSERO?",,,,
 "$ENTRY_JOURNAL_PRISON_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_PRISON_LEFT_0_00",,,,"giorno 3 - Prison",,,,
-"$ENTRY_JOURNAL_PRISON_LEFT_0_10",,,,"Three giornos ago I had thought this Pit a prison.  Now I find that even in hell there is always worse.
-The man holding us is named Ozimal Kaz.  He is a cruel, petty, loathsome human being.  How a fellow countryman could become so irredeemably warped is beyond my comprehension.  
-I would expect this from the Quaid, who have spent the last two decades refining their cruelty on the eastern provinces.  Even the most ruthless of Nomad chieftains  would temper his blood-rage more than this degenerate.
-And from the capitol, by his accent!  This monster grew up in the shadow of the Temple itself!",,,,
-"$ENTRY_JOURNAL_PRISON_RIGHT_0_00",,,,"I sit here with his other captives, taken indiscriminately: bandits and brigands, men, women, children, Ash, Nomad, Quaid, all awaiting death at the hands of this man.  
-giorno and notte we hear the continuous groans of his kept Revenant, a deafening cacophony punctuated only by the dying screams of the latest victim.  And here I am, incapable of anything!  If I were only in the coliseum with these hapless victims they would at least stand a fighting chance.  
-For all his bravado, Ozimal seems hesitant to <LQ>execute<RQ> me a second time.  Perhaps Ozimal fears to lose too many of his kept Revenant - they cannot be easy to capture or maintain, and his petty empire seems to require them to keep his vassals in check.",,,,
-"$ENTRY_JOURNAL_PRISON_LEFT_1_00",,,,"The words of my mysterious helper echo constantly in my mind.  Ozimal wishes to demonstrate my skills to a <LQ>Man in Red.<RQ>  Who is this Man in Red?  And who is this mysterious stranger so intent on saving me?  Why am I of any importance?  
-In this torrent of questions I am certain of one thing: I have so far only engaged in violence against those already dead, but if I ever get my hands on Ozimal, this policy will be subject to change.",,,,
+"$ENTRY_JOURNAL_PRISON_LEFT_0_00",,,,"3º giorno - Prigione",,,,
+"$ENTRY_JOURNAL_PRISON_LEFT_0_10",,,,"Tre giorni fa, pensavo alla Valle come a una prigione.  Ora mi rendo conto che anche all'inferno si può trovare sempre di peggio.
+L'uomo che ci trattiene si chiama Ozimal Kaz.  È un essere crudele, meschino, odioso.  Come un compatriota abbia potuto diventare così irrimediabilmente contorto va oltre la mia comprensione.  
+Me lo sarei aspettata dai Quaid, che hanno trascorso gli ultimi due decenni a perfezionare la loro crudeltà sulle province orientali.  Anche il più spietato dei capotribù Nomadi controllerebbe meglio la sua furia assassina di questo degenerato.
+E viene dalla capitale, a giudicare dal suo accento!  Questo mostro è cresciuto all'ombra del Tempio stesso!",,,,
+"$ENTRY_JOURNAL_PRISON_RIGHT_0_00",,,,"Siedo qui con gli altri prigionieri, presi indiscriminatamente: briganti e banditi, uomini, donne, bambini, Ashiani, Nomadi, Quaid, tutti in attesa di morire per mano di quest'uomo.  
+Giorno e notte udiamo i continui versi dei suoi Revenant, un'assordante cacofonia intervallata solo dai gridi di morte della loro ultima vittima.  Ed eccomi qua, incapace di fare qualsiasi cosa!  Se solo mi trovassi nel colosseo con quelle sfortunate vittime, almeno potrebbero avere una possibilità di combattere.  
+Nonostante la sua spavalderia, Ozimal sembra esitare a farmi <LQ>giustiziare<RQ> una seconda volta.  Forse Ozimal teme di perdere troppi dei suoi Revenant - non possono essere facili da catturare o mantenere, e il suo insignificante impero sembra aver bisogno di loro per conservare l'ordine fra i suoi vassalli.",,,,
+"$ENTRY_JOURNAL_PRISON_LEFT_1_00",,,,"Le parole del mio misterioso complice continuano a risuonarmi nella mente.  Ozimal vuole dare una dimostrazione delle mie abilità ad un <LQ>Uomo in Rosso.<RQ>  Chi è quest'Uomo vestito di Rosso?  E chi è questo misterioso straniero così determinato a salvarmi?  Perchè sono importante?  
+In questo fiume di domande sono certa di una cosa: fino ad ora ho recato violenza solo a coloro che già erano morti, ma se mai dovessi mettere le mani su Ozimal, questa linea di condotta sarà oggetto di cambiamento.",,,,
 "$ENTRY_JOURNAL_HALFWAY_WORLD_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_HALFWAY_WORLD_LEFT_0_00",,,,"giorno 4 - The Half-way World",,,,
-"$ENTRY_JOURNAL_HALFWAY_WORLD_LEFT_0_10",,,,"<LQ>Half-way world<RQ> is the best my feeble words can do to describe the place I find myself in - and draw others to.
-Once, when I was very young, I nearly drowned swimming in the shallows of the Kevel.  It is the only experience I can draw any parallels to.  There is the same panic, the same breathless agony as my heart tries to tear itself out of my chest.  But this time father's hand will not drag me to safety.  There is no shore to cling to, only the moment of death stretching for an eternity.
-The mechanics of how I arrive in this place are beyond my understanding.  All I know is that I go there when I need to be.  Once there I can feel out my fellows, not with any sight, but in the same way that I am aware of my limbs without looking at them.",,,,
-"$ENTRY_JOURNAL_HALFWAY_WORLD_RIGHT_0_00",,,,"I merely know that they are there and call on them with the strength that I have.  This strength is little, and I exercise these powers with the feebleness of an infant moving his body, but it is enough to save my life.  As much as I loathe journeying into this terrifying half-way world, it is certainly better than the fate I would face without it.",,,,
+"$ENTRY_JOURNAL_HALFWAY_WORLD_LEFT_0_00",,,,"4º giorno - Il Mondo di Mezzo",,,,
+"$ENTRY_JOURNAL_HALFWAY_WORLD_LEFT_0_10",,,,"<LQ>Mondo di Mezzo<RQ> è il meglio che le mie deboli parole possono fare per descrivere il luogo in cui mi sono ritrovata - ed in cui ho attirato altri.
+Una volta, quand'ero molto giovane, sono quasi annegata mentre nuotavo nelle secche del Kevel.  È l'unica esperienza con cui possa tracciare dei paragoni.  Vi è lo stesso panico, la stessa agonia del non poter respirare mentre il cuore cerca di balzarmi fuori dal petto.  Ma questa volta la mano di mio padre non mi trascinerà in salvo.  Non c'è riva a cui aggrapparsi, solo il momento della morte teso verso l'eternità.
+La dinamica di come arrivi in quel luogo va oltre la mia comprensione.  So solo che è lì che vado quando ce n'è bisogno.  Una volta là posso sentire i miei compagni, non con la vista, ma allo stesso modo in cui sono coscente di mie braccia e gambe senza bisogno di guardarle.",,,,
+"$ENTRY_JOURNAL_HALFWAY_WORLD_RIGHT_0_00",,,,"So semplicemente che sono lì e li chiamo con la forza che ho.  Questa forza è poca, ed esercito questi poteri con la fiacchezza di un neonato che sta imparando a muovere il suo corpo, ma è quanto basta a salvarmi la vita.  Per quanto odi avventurarmi in quel terrificante mondo di mezzo, è certamente meglio del destino che mi aspetterebbe altrimenti.",,,,
 "$ENTRY_JOURNAL_KETTA_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_KETTA_LEFT_0_00",,,,"giorno 5 - <ranger_hero>",,,,
-"$ENTRY_JOURNAL_KETTA_LEFT_0_10",,,,"I think that the thing I like the most about <ranger_hero> is that she smells like goats.
-I mean, it's a hard choice with all the other winning traits like rampant immaturity, constant belittling comments, dim-witted sarcasm, a penchant for petty theft, and horrific eating habits, but when you share a tent with someone, it's the pungent scent of goats that stands above the rest.
-Some nottes a cross-breeze whistles through the men's side of the camp, bearing on its airy arms the unmistakable smell of <berserker_hero>. The resulting medley of aromas can only be described as ambrosial. It is on these nottes that I actually get the best sleep, as my body seems to choose unconsciousness over attempting to comprehend the aromatic stimuli confronting its senses.",,,,
-"$ENTRY_JOURNAL_KETTA_RIGHT_0_00",,,,"giorno 8 - Addendum",,,,
-"$ENTRY_JOURNAL_KETTA_RIGHT_0_10",,,,"Last notte <ranger_hero> woke me yelling in Nomad. The cry roughly translates to <LQ>Woman of questionable moral quality, he is mine!<RQ> She then ripped out a handful of my hair, stuffed it under her pillow and promptly fell asleep again.
-<ranger_hero> has been uncharacteristically apologetic, even going so far as to show me how to braid horse-hair into my own to mask the bald spot. She claims that she has no idea what dream prompted the outburst. I remain unconvinced.",,,,
+"$ENTRY_JOURNAL_KETTA_LEFT_0_00",,,,"5º giorno - <ranger_hero>",,,,
+"$ENTRY_JOURNAL_KETTA_LEFT_0_10",,,,"Credo che la cosa che mi piace di più di <ranger_hero> è che puzza come una capra.
+Voglio dire, è una scelta difficile considerate tutte le sue altre piacevoli caratteristiche, come un'immaturità sfrenata, i continui commenti denigratori, sarcasmo idiota, la propensione ai piccoli furti, e delle abitudini alimentari orribili, ma quando dividi la tenda con qualcuno, è il pungente odore di capra che trionfa sul resto.
+Certe notti la brezza soffia attraverso la zona del campo degli uomini, trasportando tra le sue braccia ariose l'inconfondibile odore di <berserker_hero>. Il risultante miscuglio di aromi può solo essere descritto come ambrosiale. È in quelle notti che dormo il sonno migliore, come se il mio corpo scegliesse di sprofondare nell'incoscienza piuttosto che tentare di elaborare gli stimoli aromatici che battono alle porte dei sensi.",,,,
+"$ENTRY_JOURNAL_KETTA_RIGHT_0_00",,,,"8º giorno - Addendum",,,,
+"$ENTRY_JOURNAL_KETTA_RIGHT_0_10",,,,"Ieri notte <ranger_hero> mi ha svegliato gridando qualcosa in dialetto Nomade. L'urlo significava più o meno <LQ>Lui è mio, donna di dubbia moralità!<RQ> Poi mi ha strappato una ciocca di capelli, l'ha messa sotto il cuscino, ed ha prontamente ripreso a dormire.
+<ranger_hero> si è mostrata insolitamente pentita, arrivando addirittura a mostrarmi come intrecciare crine di cavallo ai miei capelli per nascondere il punto calvo. Dichiara di non avere idea di che genere di sogno abbia provocato il suo scatto. Io rimango scettica.",,,,
 "$ENTRY_JOURNAL_AZRA_BY_SLAK_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_AZRA_BY_SLAK_LEFT_0_00",,,,"giorno 10 - <mcguffin_hero> sucks!",,,,
-"$ENTRY_JOURNAL_AZRA_BY_SLAK_LEFT_0_10",,,,"SO YOU THINK THAT JUST BECUASE I CANT READ YOUR FANCY-ASS LANGUAGE MEANS I WONT FIND OUT WHAT YOUVE BEEN WRITING ABOUT ME?
-WELL GUESS WHAT, PRINCESS? WE'RE GOING TO WRITE A JOURNAL ENTRY ON YOU!
-WHAT SHOULD I SAY ABOUT <mcguffin_hero_up>? THAT HER FACE IS SO THIN THAT SHE LOOKS LIKE A FISH? ALSO HER NECK IS SO SO SO TOO LONG FOR HER BODY.
-AND HER EARS LOOK LIKE WITHERED APRICOTS. AND HER HAIR IS STUPID AND STRINGY. AND HER PERSONAL HYGIENE IS NOWHERE NEAR AS PERFECT AS SHE BELIEVES.",,,,
-"$ENTRY_JOURNAL_AZRA_BY_SLAK_RIGHT_0_00",,,,"HOWS IT FEEL, SUCKER? NOW I GUESS I KNOW WHO MY REAL FRIENDS ARE.
+"$ENTRY_JOURNAL_AZRA_BY_SLAK_LEFT_0_00",,,,"10º giorno - <mcguffin_hero> è una sfigata!",,,,
+"$ENTRY_JOURNAL_AZRA_BY_SLAK_LEFT_0_10",,,,"ALLORA CREDI CHE SOLO PERCHÈ NON RIESCO A CAPIRE IL TUO LINGUAGGIO FORBITRICO VUOL DIRE CHE NON MI ACCORGO CHE STAI SCRIVENDO DI ME?
+BEH INDOVINA UN PO', PRINCIPESSA? ORA SCRIVIAMO NOI SU DI TE!
+COSA DIRE DI <mcguffin_hero_up>? CHE HA LA FACCIA COSÌ STRETTA CHE SEMBRA UN PESCE? E POI HA IL COLLO TROPPO TROPPO TROPPO LUNGO.
+E LE SUE ORECCHIE SEMBRANO ALBICOCCHE APPASSITE. E HA I CAPELLI BRUTTI E STOPPOSI. E IL SUO IGIENE PERSONALE NON È PERFETTO COME CREDE.",,,,
+"$ENTRY_JOURNAL_AZRA_BY_SLAK_RIGHT_0_00",,,,"CHE TE NE PARE, SFIGATA? ORA CREDO DI SAPERE CHI SONO I MIEI VERI AMICI.
 
-SINCERELY,
-<ranger_hero_up> WHO LIKES TO EAT POOP HEY <berserker_hero_up> WHY IS MY NAME TAKING SO LONG TO WRITE?",,,,
+CORDIALMENTE,
+<ranger_hero_up> A CUI PIACE MANGIARE POPÒ EHI <berserker_hero_up> PERCHÈ CI METTI COSÌ TANTO A SCRIVERE IL MIO NOME?",,,,
 "$ENTRY_JOURNAL_KARSK_BURNED_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_KARSK_BURNED_LEFT_0_00",,,,"notte 7 - The Burning of Karsk",,,,
-"$ENTRY_JOURNAL_KARSK_BURNED_LEFT_0_10",,,,"I have been no stranger to death. The last nine months of plague in the capitol have stripped away whatever childish ignorance my privileged position had afforded me on the subject. But I have never before seen such violent destruction. Even the corpse fires outside the Temple Gates pale in comparison. 
-I have no words.
-I understand now something of our enemy's nature.",,,,
+"$ENTRY_JOURNAL_KARSK_BURNED_LEFT_0_00",,,,"7º notte - Il rogo di Karsk",,,,
+"$ENTRY_JOURNAL_KARSK_BURNED_LEFT_0_10",,,,"Non sono estranea alla morte. Nove mesi di pestilenza nella capitale mi hanno spogliata di qualunque infantile ignoranza che la mia posizione privilegiata mi aveva concesso sull'argomento. Ma mai avevo assistito a una così violenta distruzione. Anche le pire dei cadaveri fuori dai Cancelli del Tempio impallidiscono al confronto. 
+Non ho parole.
+Ora capisco qualcosa sulla natura del nostro nemico.",,,,
 "$ENTRY_JOURNAL_LAKSOS_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_LAKSOS_LEFT_0_00",,,,"giorno 8 - Laksos",,,,
-"$ENTRY_JOURNAL_LAKSOS_LEFT_0_10",,,,"We witnessed a strange Nomad ritual while at Laksos. A new child had been born to the chief of the Karada, a small but still functional tribe. The parents presented the child before two large wooden idols. 
-The chief produced a small block of wood which he laid on the head of each idol and then on the head of the child. He then took out a small knife and carved the block, allowing the shavings to fall over the infant's face. Having finished his work, he strung the carving on an animal sinew and placed it around the child's neck. 
-There was a great cry and all at once the tribesmen in attendance began dancing and chanting and celebrating in typical raucus nomad fashion. I never saw what it was that the chief had carved.",,,,
-"$ENTRY_JOURNAL_LAKSOS_RIGHT_0_00",,,,"I later asked <ranger_hero> what this ritual meant and she produced a small wooden fox from around her neck. She said her spirit was the servant of her tribal gods, given at birth as a guardian and guide and to be buried with her at death to guarantee safe passage into Paradise. Just as the tribal gods were given out by the Creator at the time of the tribe's genesis, so the personal spirits were given out to each member of the tribe at their birth. 
-I asked <ranger_hero> if losing a personal idol was as catastrophic for the individual as losing tribal idols is for the tribe. She smiled and showed me seven idols she had taken from enemies, explaining that now their souls would spend many ages struggling to find paradise on their own. I asked if it bothered her to have done this to her fellow nomads and she gave me a glassy look, asked if it bothered me that my ears were way too big for my face and then walked off singing about eating goats' tongues. Some giorno I am going to hit her in the head with a rock.",,,,
+"$ENTRY_JOURNAL_LAKSOS_LEFT_0_00",,,,"8º giorno - Laksos",,,,
+"$ENTRY_JOURNAL_LAKSOS_LEFT_0_10",,,,"Siamo stati testimoni di uno strano rituale nomade mentre eravamo a Laksos. Il capo dei Karada, una piccola ma efficente tribù, ha appena avuto un figlio. I genitori hanno presentato il bambino di fronte a due grandi idoli di legno. 
+Il capo ha tirato fuori un piccolo blocco di legno, che ha poi poggiato sulla testa di ciascun idolo e poi su quella del piccolo. Ha poi preso un coltellino ed ha intagliato il blocchetto, lasciando cadere i trucioli sul volto dell'infante. Dopo aver finito il lavoro, ha appeso l'intaglio a dei tendini di animale e l'ha messo al collo del bambino. 
+C'è stato un enorme grido e tutti insieme gli uomini della tribù hanno cominciato a danzare, cantare e celebrare rumorosamente alla tipica maniera dei nomadi. Non sono riuscita a vedere che cosa ha intagliato il capotribù.",,,,
+"$ENTRY_JOURNAL_LAKSOS_RIGHT_0_00",,,,"Più tardi ho chiesto a <ranger_hero> il significato del rituale e lei mi ha fatto vedere una piccola volpe di legno che tiene appesa al collo. Ha detto che il suo spirito serve gli dei della sua tribù, e che le è stato dato alla nascita come protettore e guida, e per essere seppellito con lei alla morte allo scopo di garantirle un passaggio sicuro per il Paradiso. Proprio come gli dei tribali sono stati donati dal Creatore al momento della fondazione della tribù, così gli spiriti guida vengono dati alla nascita a tutti i suoi membri. 
+Ho chiesto a <ranger_hero> se per un individuo perdere il proprio idolo personale sia catastrofico come perdere gli idoli tribali per la tribù. Ha sorriso e mi ha mostrato sette idoli presi da nemici, spiegando che ora le loro anime avrebbero impiegato un'eternità a trovare il paradiso da sole. Ho chiesto se si sentisse in colpa per aver fatto questo ad altri nomadi e mi ha lanciato un'occhiata vacua, mi ha chiesto se mi sento in colpa per avere le orecchie troppo grandi e se n'è andata canticchiando qualcosa a proposito di mangiare lingue di capra. Un giorno o l'altro finirò per tirarle in testa una pietra.",,,,
 "$ENTRY_JOURNAL_OZIMAL_DEAD_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_OZIMAL_DEAD_LEFT_0_00",,,,"giorno 10 - Ozimal's Death",,,,
-"$ENTRY_JOURNAL_OZIMAL_DEAD_LEFT_0_10",,,,"I thought I would gain some small satisfaction with Ozimal's death.  I haven't.
-He was merely one more glassy eyed shambling corpse bent to our enemy's will, a pawn even before his death.  The earth is rid of a wicked, cruel man.  Here in the Pit, will it even be noticed?",,,,
+"$ENTRY_JOURNAL_OZIMAL_DEAD_LEFT_0_00",,,,"10º giorno - La morte di Ozimal",,,,
+"$ENTRY_JOURNAL_OZIMAL_DEAD_LEFT_0_10",,,,"<N>Credevo che avrei avuto un po' di soddisfazione dalla morte di Ozimal. Non è stato così.
+Era solo un altro strascicante cadavere dagli occhi vitrei piegato al volere del nemico, una marionetta anche prima di morire.  Il mondo si è disfatto di un uomo malvagio e crudele.  Qui nella Valle, qualcuno noterà la differenza?",,,,
 "$ENTRY_JOURNAL_MONASTERY_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_MONASTERY_LEFT_0_00",,,,"notte 10 - The Monastery",,,,
-"$ENTRY_JOURNAL_MONASTERY_LEFT_0_10",,,,"I suppose it was foolish of me to expect anything in the Pit to resemble home, but I was still shocked to see the Selini monastery here.  It is an imposing, ominous structure, more fortress than temple.  I understand the necessity of these precautions, but it is difficult to reconcile with the Temple Fountain I grew up with, where even the guards carry blunt weapons lest they sow chaos and destruction in the birthplace of harmony.
-What a reassuring thing it was to dip my hands into the Fountain, knowing that I stood in the same place as every believer before me, all the way back to Selinadt himself.  Here I was a humble servant, separated from kings and prophets by nothing more than time.
-<LQ>Just as water rises as mist over the valley, falls as snow on the mountains, rushes in rivers down to the sea, so each man, born of the same essence, must serve",,,,
-"$ENTRY_JOURNAL_MONASTERY_RIGHT_0_00",,,,"the different roles of his time and station and so achieve harmony within the Celestial Machine.<RQ>
-I wonder now what role I am to play in this lawless and terrible place, where harmony and wisdom seem far away fantasies.
-There is some comfort, I suppose, in this fortress temple.  Are not these monks serving their purpose?  These imposing walls and warlike defenses are nothing more than the adaptations that allow the spirit of Selinadt to be served here in this lawless place.
-As the great man said himself, <LQ>The truth remains the truth, be it written in any language.<RQ>  These defenses are nothing more than the language of the Pit; the truth inside remains true.<RQ>",,,,
+"$ENTRY_JOURNAL_MONASTERY_LEFT_0_00",,,,"10º notte - Il Monastero",,,,
+"$ENTRY_JOURNAL_MONASTERY_LEFT_0_10",,,,"Suppongo sia stato sciocco da parte mia aspettarmi di trovare nella Valle qualcosa che ricordasse casa, ma è stato comunque scioccante vedere il monastero Selini qui.  È un'imponente, minacciosa struttura, più fortezza che tempio.  Capisco la necessità di tali precauzioni, ma è difficile riconciliare tutto questo con il ricordo della Fontana del Tempio con cui sono cresciuta, dove persino le guardie portavano solo armi contundenti per non seminare scompiglio e distruzione nel luogo dell'armonia.
+Che cosa rassicurante era immergere le mani nella Fontana, sapendo di trovarmi nello stesso luogo di tutti i credenti prima di me, fino a risalire allo stesso Selinadt.  Lì ero un'umile servitrice, separata da re e profeti soltanto dal tempo.
+<LQ>Proprio come l'acqua si leva sulla valle come nebbia, cade come neve sulle montagne, scorre in fiumi fino al mare, così ogni uomo, nato dalla stessa essenza, deve servire",,,,
+"$ENTRY_JOURNAL_MONASTERY_RIGHT_0_00",,,,"i differenti ruoli del suo tempo e della sua condizione, e così arrivare all'armonia all'interno dell'Apparato Celeste.<RQ>
+Mi chiedo ora che ruolo mi spetta in questo terribile e anarchico luogo, dove armonia e saggezza sembrano fantasticherie remote.
+C'è un po' di conforto, suppongo, in questa fortezza-tempio.  Questi monaci non svolgono forse il loro compito?  Queste imponenti mura e le difese militari non sono altro che gli adattamenti che permettono allo spirito di Selinadt di poter essere servito anche in questo luogo senza legge.
+Proprio come lui disse una volta, <LQ>La verità rimane la verità, in qualunque linguaggio venga scritta.<RQ>  Queste difese non sono altro che il linguaggio della Valle; la verità al suo interno rimane autentica.<RQ>",,,,
 "$ENTRY_JOURNAL_BAKAL_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_BAKAL_LEFT_0_00",,,,"giorno 11 - Elder <healer_hero>",,,,
-"$ENTRY_JOURNAL_BAKAL_LEFT_0_10",,,,"Reverend Elder <healer_hero> is an oasis of sanity in this den of chaos.  Though the speed of our flight leaves little time for conversation, the few fleeting words I can exchange with him have helped my spirits greatly.
-I wish I could offer him the same.  There is some internal anguish tormenting him.  I can see it now and again broiling beneath his placid monk's face.  It is very obvious that he was once a soldier: the scars, the bearing and mannerisms all point to a warrior's life.  
-I discovered at the monastery that he is not actually of the priesthood, though all that know him call him Reverend Elder anyways.  In fact, he holds no position of authority, at least not in any official capacity.  Yet his peers regularly seek his counsel and follow it as if he were a superior.  The Lord Abbot himself seemed little more than a close disciple.",,,,
-"$ENTRY_JOURNAL_BAKAL_RIGHT_0_00",,,,"This current adventure seems to both agitate and inspire <healer_hero>, as if his soul somehow hangs in the balance.  I can understand now why <ranger_hero> would fear him.  Every now and then I see a determination in his eyes that rivals that of our pursuer.  I just pray that <healer_hero> will one giorno be able to find for himself the peace that he gives to others.",,,,
+"$ENTRY_JOURNAL_BAKAL_LEFT_0_00",,,,"11º giorno - <healer_hero>",,,,
+"$ENTRY_JOURNAL_BAKAL_LEFT_0_10",,,,"Il Reverendo <healer_hero> rappresenta un oasi di buon senso in questa terra caotica.  Anche se l'urgenza della fuga lascia poco spazio alla conversazione, le poche fugaci parole che abbiamo scambiato hanno enormemente sollevato il mio spirito.
+Vorrei poter fare lo stesso per lui. C'è una qualche angoscia interiore che lo tormenta.  Posso vederla ribollire, ogni tanto, dietro il suo placido volto di monaco. È evidente che una volta era un soldato: le cicatrici, il portamento e le maniere accennano tutte ad una vita da guerriero.  
+Nel monastero ho scoperto che non fa veramente parte del clero, ma tutti lo chiamano comunque Reverendo Anziano.  In verità, non ricopre nessuna posizione di autorità, o almeno non in veste ufficiale.  E tuttavia i suoi pari cercano regolarmente il suo consiglio e lo seguono come se fosse un loro superiore.  Persino lo stesso Abate sembra essere un suo fedele discepolo.",,,,
+"$ENTRY_JOURNAL_BAKAL_RIGHT_0_00",,,,"La presente avventura sembra sia agitare che ispirare <healer_hero>, come se la sua anima in qualche modo fosse in bilico.  Posso capire perchè <ranger_hero> ne ha paura.  Ogni tanto vedo nei suoi occhi una determinazione che rivaleggia con quella del nostro inseguitore.  Spero solo che un giorno <healer_hero> possa trovare per sè la pace che regala agli altri.",,,,
 "$ENTRY_JOURNAL_WRENNA_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_WRENNA_LEFT_0_00",,,,"giorno 13 - <mage_hero_fu>",,,,
-"$ENTRY_JOURNAL_WRENNA_LEFT_0_10",,,,"Polimon's description of Quaid royalty is no exaggeration. <mage_hero> is indeed <LQ>paler than the moon and twice as distant.<RQ> If I may expand upon a classic, I would add <LQ>four times as mercurial.<RQ> I have never seen anyone shift through so many stages of madness at such speed. Even <berserker_hero> is consistent in his insanity. <mage_hero> is a raging ocean, one moment she seems devilishly knowing and the next hopelessly naive. Often her actions have the feeling of a well played ruse, yet just when I feel my suspicions confirmed, she will be taken by some childishly dangerous madness no rational actor would expose themselves to. 
-Sometimes I think I can see behind the madness to a girl much like myself: scared and alone and saddled with terrifying power. I wonder if she can see this herself.",,,,
+"$ENTRY_JOURNAL_WRENNA_LEFT_0_00",,,,"13º giorno - <mage_hero_fu>",,,,
+"$ENTRY_JOURNAL_WRENNA_LEFT_0_10",,,,"La descrizione di Polimon dei reali del Quaid non è un'esagerazione. <mage_hero> è davvero <LQ>più pallida della luna e due volte più distante.<RQ> Se mi è permesso aggiungere il mio parere, scriverei anche <LQ>quattro volte più volubile.<RQ> Non ho mai visto nessuno attraversare così tanti stadi della pazzia così velocemente. Persino <berserker_hero> è coerente nella sua follia. <mage_hero> è un oceano in tempesta, un istante sembra diabolicamente scaltra e il prossimo irrimediabilmente ingenua. Spesso le sue azioni danno l'impressione di una farsa ben congeniata, e tuttavia proprio quando mi convinco che i miei sospetti sono fondati, lei viene colta da una qualche infantile e pericolosa follia a cui nessuna mente razionale si esporrebbe volontariamente. 
+A volte dietro questa follia credo di poter scorgere una ragazza molto simile a me: spaventata, sola e oberata da un potere terrificante. Mi chiedo se anche lei riesce a vedere questo lato di se stessa.",,,,
 "$ENTRY_JOURNAL_NOMADS_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_NOMADS_LEFT_0_00",,,,"giorno 14 - Nomads",,,,
-"$ENTRY_JOURNAL_NOMADS_LEFT_0_10",,,,"It has been very interesting seeing first hand the Nomad tribes, the indigenous people occupying the steppes and mountains between the cities of Ash and the Quaid Empire. Over one hundred different tribes were documented by Kantimal Polimon during his great excursion to the east, though I believe many of these to have been lost to the ravages of war. Here in the Pit I have met members of twenty-seven* different tribes, how many survive in the outside world is impossible to tell.
-As the name suggests, the tribes live nomadically, raising goats and horses across the steppes. Little of this lifestyle has translated to the Pit, where protection necessitates permanent defences.",,,,
-"$ENTRY_JOURNAL_NOMADS_LEFT_0_20",,,,"*Less than half now function as full tribes.",,,,
-"$ENTRY_JOURNAL_NOMADS_RIGHT_0_00",,,,"Functional tribes will create villages like Karsk, eeking out a living on goats and rudimentary agriculture. 
-Unattached Nomads (those whose tribes have been destroyed or dispersed) will find shelter in the more cosmopolitan settlements like Laksos, or become rangers - ferrying messages and guarding trade between the Pit's villages.",,,,
+"$ENTRY_JOURNAL_NOMADS_LEFT_0_00",,,,"14º giorno - I Nomadi",,,,
+"$ENTRY_JOURNAL_NOMADS_LEFT_0_10",,,,"È stato molto interessante vedere di persona le tribù dei Nomadi, la popolazione indigena che occupa le steppe e le montagne tra le città Ashiane e l'Impero Quaid. Oltre un centinaio di tribù distinte furono documentate da Kantimal Polimon durante il suo grande viaggio verso oriente, anche se credo che molte di queste siano state estinte dalle devastazioni della guerra. Qui nella Valle ho incontrato membri di ventisette* diverse tribù, quante altre sopravvivano nel mondo esterno è impossibile da dire.
+Come suggerisce il nome, le tribù vivono nomadicamente, allevando  capre e cavalli nelle steppe. Ben poco di questo stile di vita si è tradotto nella Valle, dove la protezione richiede difese permanenti.",,,,
+"$ENTRY_JOURNAL_NOMADS_LEFT_0_20",,,,"*meno della metà sono tribù autosufficenti.",,,,
+"$ENTRY_JOURNAL_NOMADS_RIGHT_0_00",,,,"Le tribù meglio organizzate creano villaggi come Karsk, ricavando il necessario per vivere dalle pecore e da una rudimentale agricoltura. 
+Nomadi indipendenti (le cui tribù sono state distrutte o disperse) troveranno rifugio negli insediamenti più cosmopoliti come Laksos, o diventeranno ranger - trasportando messaggi e e proteggendo il commercio tra i villaggi della Valle.",,,,
 "$ENTRY_JOURNAL_DREAM1_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_DREAM1_LEFT_0_00",,,,"giorno 15 - Strange Dream",,,,
-"$ENTRY_JOURNAL_DREAM1_LEFT_0_10",,,,"It has been a long time since I have dreamt anything.  The horrific sensations of the halfway world seem to so dominate my spirit that even in sleep I feel nothing but their echoes.  Yet last notte, for the first time since the fever visions of my early illness, I dreamt.
-It was a dream so intense as to drive from my mind all the horrors of everything I have seen.  Indeed, all the experiences of my 23 years seemed to fade away in its presence.  
-I stood on a high balcony.  I was not myself.  My arms were dark and shapely, covered in strange symbols and encircled by gold bands.  My dress was a multitude of jewels, such that the wealth of an entire nation could not make up more than the hem of my garment.",,,,
-"$ENTRY_JOURNAL_DREAM1_RIGHT_0_00",,,,"The moon hung low in the sky, gigantic and fiery red.  I could reach up and brush it with my fingertips.
-A voice called to me and I turned.  There was a man standing next to me on the balcony.  He was tall, taller than any man I've ever seen.  His hair and beard were midnotte black, long and adorned with gold rings.  His presence made the world dim and shrink.
-He looked at me with onyx eyes and I understood that we were one.  I drew down the fire moon and divided it between us.
-I awoke trembling, clutching my hand to my heart as if it still held that red moon.  Such a great longing seized me that I wept.  In that waking moment I would have done anything to return to the dream.",,,,
+"$ENTRY_JOURNAL_DREAM1_LEFT_0_00",,,,"15º giorno - Strano sogno",,,,
+"$ENTRY_JOURNAL_DREAM1_LEFT_0_10",,,,"È passato molto tempo dall'ultima volta che ho sognato.  Le terrificanti sensazioni del mondo di mezzo sembrano dominare così tanto il mio spirito che anche nel sonno non provo nient'altro che i loro echi.  Tuttavia ieri notte, per la prima volta dalle visioni febbrili della mia malattia, ho sognato.
+È stato un sogno così intenso da scacciare dalla mia mente tutti gli orrori di cui sono stata testimone.  In verità, tutte le esperienze dei miei 23 anni sembrarono svanire al suo cospetto.  
+Mi trovavo su un alto terrazzo.  E non ero me stessa.  Le mie braccia erano scure e modellate, coperte da strani simboli e ornate da bracciali d'oro.  La mia veste era una moltitudine di gioielli, e la ricchezza di un'intera nazione non sarebbe bastata a costituirne niente di più che l'orlo.",,,,
+"$ENTRY_JOURNAL_DREAM1_RIGHT_0_00",,,,"La luna pendeva bassa in cielo, enorme e d'un rosso acceso.  Potevo allungare il braccio e sfiorarla con la punta delle dita.
+Una voce mi ha chiamato ed io mi sono voltata.  C'era un uomo vicino a me nel balcone.  Era alto, l'uomo più che abbia mai visto.  I suoi capelli e barba erano scuri come la notte, lunghi e adornati di anelli d'oro.  La sua presenza rendeva il mondo piccolo e vacuo.
+Mi ha guardato con quegli occhi color onice ed ho capito che eravamo una cosa sola. Ho tirato giù la luna di fuoco e l'ho divisa tra noi.
+Mi sono svegliata tremando, portando la mano al cuore come se ancora stringesse quella luna rossa.  Sono stata presa da un così grande senso di perdita che ho pianto.  Nel momento del risveglio avrei dato qualunque cosa per ritornare nel sogno.",,,,
 "$ENTRY_JOURNAL_DESERT_FORTRESS_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_DESERT_FORTRESS_LEFT_0_00",,,,"giorno 17 - Jewel-of-the-Desert",,,,
-"$ENTRY_JOURNAL_DESERT_FORTRESS_LEFT_0_10",,,,"I had often wondered how the homes of our great enemies to the East would appear. The war seemed an intangible terror in the capitol, communicated only in the grim reports of daily losses and the lamentations of the numerous crippled veterans begging in the streets. 
-After a life of shapeless fear the sight of an actual Quaid city is a strange experience. I am struck by the beauty and ingenuity of its design, but more than anything else, I am shocked by its familiarity. 
-I see all the details that mark a city's life: the worn cobblestones of the well-trodden street, the monument augmented by the vandalism of generations of youths, the market stalls arranged just as they would be in any other city.",,,,
-"$ENTRY_JOURNAL_DESERT_FORTRESS_RIGHT_0_00",,,,"It is no difficulty at all to see my own father sitting at the street corner, laughing and cursing and swapping stories with the other old men of the city. 
-And yet the people of this place destroyed Terna and killed it's inhabitants, every man, woman, and child.",,,,
+"$ENTRY_JOURNAL_DESERT_FORTRESS_LEFT_0_00",,,,"17º giorno - Gioiello-del-Deserto",,,,
+"$ENTRY_JOURNAL_DESERT_FORTRESS_LEFT_0_10",,,,"<N>Spesso mi sono chiesta che aspetto potessero avere le case dei nostri grandi nemici dell'Est. La guerra sembrava un terrore intangibile nella capitale, comunicata solo attraverso gli infausti rapporti sulle perdite quotidiane e i lamenti dei numerosi reduci che, rimasti storpi, chiedevano l'elemosina nelle strade. 
+Dopo una vita di paura senza forma, la vista di una vera città Quaid è una strana esperienza. Sono colpita dalla bellezza e l'ingegno delle sue forme, ma più di ogni altra cosa, sono scioccata dalla sua familiarità. 
+Vedo tutti i dettagli che segnano la vita di una città: i ciottoli consumati delle strade molto trafficate, il monumento arricchito dal vandalismo di generazioni di giovani, le bancarelle del mercato sistemate come in qualunque altra città.",,,,
+"$ENTRY_JOURNAL_DESERT_FORTRESS_RIGHT_0_00",,,,"Non è per niente difficile immaginare il mio stesso padre seduto all'angolo della strada, ridendo, bestemmiando e scambiando storie con gli altri anziani della città. 
+E tuttavia gli abitanti di questo posto hanno distrutto Terna e ucciso tutti i suoi abitanti, uomini, donne e bambini.",,,,
 "$ENTRY_JOURNAL_MARKOS_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_MARKOS_LEFT_0_00",,,,"giorno 18 - <knight_hero>",,,,
-"$ENTRY_JOURNAL_MARKOS_LEFT_0_10",,,,"Have I become so accustomed to the company of lunatics that no longer believe in sanity?
-<knight_hero> is courteous, intelligent, generally well-intentioned, sometimes even funny - hell, he even believes in personal hygiene... and I keep waiting for the other shoe to drop.
-There's got to be something wrong with him!  Some quirk, some pet peeve, some irrationality.  If I have learned one thing through this entire adventure, it's that there's no normalcy in the Pit.
-It's the mustache, isn't it?  He's hiding all the crazy behind the mustache.",,,,
+"$ENTRY_JOURNAL_MARKOS_LEFT_0_00",,,,"18º giorno - <knight_hero>",,,,
+"$ENTRY_JOURNAL_MARKOS_LEFT_0_10",,,,"Sono così abituata alla compagnia dei pazzi da non credere più nella normalità?
+<knight_hero> è cortese, intelligente, generalmente ben intenzionato, a volte persino divertente - diamine, crede addirittura nell'igiene personale... ed io continuo ad aspettare di perdere anche l'altra scarpa.
+Ci dev'essere qualcosa che non va in lui!  Qualche vizio, qualche stranezza, qualche irrazionalità.  Se ho imparato una cosa da tutta questa avventura, è che la normalità non esiste nella Valle.
+Sono i baffi, vero?  Sta nascondendo tutte le stranezze dietro i mustacchi.",,,,
 "$ENTRY_JOURNAL_LETTER_MARKOS_1_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_LETTER_MARKOS_1_LEFT_0_00",,,,"giorno 19",,,,
-"$ENTRY_JOURNAL_LETTER_MARKOS_1_LEFT_0_10",,,,"To Lady <mcguffin_hero> Livbar from <knight_hero_fu> Kashantir, knight of the Host of Ash.
-Lady, with extreme deference to your position as commander of this party, I would like to raise some reservations about your choice of company.   Namely, I cannot guarantee your safety, or indeed the safety of this entire enterprise, as long as we continue to travel with <mage_hero_fu> Lan Laxmi.
-You may assure me that she is <LQ>not that bad<RQ> and that the Quaid War is over, but I assure you that it is most decidely not over for her.  She is fanatically dedicated to something which no longer exists.  There is no command structure to check her madness.  If <mage_hero_fu> believed that the glory of the Quaid required all our throats to be slit in our sleep, not a one of our company would wake to see the dawn.",,,,
-"$ENTRY_JOURNAL_LETTER_MARKOS_1_RIGHT_0_00",,,,"I advise that you sever ties with her as soon and as delicately as possible.
-Your humble servant,
+"$ENTRY_JOURNAL_LETTER_MARKOS_1_LEFT_0_00",,,,"19º giorno",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_1_LEFT_0_10",,,,"A Lady <mcguffin_hero> Livbar da <knight_hero_fu> Kashantir, cavaliere della Compagnia di Ash.
+Signorina, con il massimo rispetto della vostra posizione di comandante del gruppo, vorrei sollevare qualche perplessità sui vostri compagni.  Nello specifico, non posso garantire la vostra sicurezza, ovvero la sicurezza dell'intera spedizione, fino a quando continueremo a viaggiare con <mage_hero_fu> Lan Laxmi.
+Potreste assicurarmi che lei <LQ>non è così male<RQ> e che la guerra col Quaid è finita, ma vi assicuro che per lei decisamente non è così.  È fanaticamente devota a qualcosa che non esiste più.  Non c'è una gerarchia di comando in grado di tenere a freno la sua follia.  Se <mage_hero_fu> credesse che tagliarci la gola durante il sonno sia necessario per gloria del Quaid, nessuno nella nostra compagnia vedrebbe la prossima alba.",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_1_RIGHT_0_00",,,,"Vi suggerisco che tagliare ogni legame con lei il più presto e delicatamente possibile.
+Il vostro umile servitore,
 <knight_hero_fu> Kashantir",,,,
 "$ENTRY_JOURNAL_LETTER_MARKOS_2_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_LETTER_MARKOS_2_LEFT_0_00",,,,"notte 19 - Letter to <knight_hero_fu>, Rough Draft No. 1",,,,
-"$ENTRY_JOURNAL_LETTER_MARKOS_2_LEFT_0_10",,,,"Dear <knight_hero_fu>,
-In response to your letter, I would like to raise three points.
-First, why would you write me a letter when you can walk like, ten feet, and talk to me in person?  Is there something wrong with my personal hygiene?  Are people secretly making fun of me for it?
-Second, stop calling me Lady already.
-Thirdy, leave <mage_hero> alone or I will...I don't know, set your sideburns on fire or something.",,,,
-"$ENTRY_JOURNAL_LETTER_MARKOS_2_RIGHT_0_00",,,,"P.S. - I'm just joking about your sideburns, I would never set them on fire because then you would look weird and I would have to come up with a new nickname to call you behind your back, and Mr. Magnifistache has such a great ring to it.  Anyways, all I'm saying is that <mage_hero_fu> has had a very hard time, so why not pick on someone who deserves it, like <berserker_hero_up>, who seems to think that I won't know he's reading over my shoulder even though he's a mouth-breathing moron who smells like two piles of",,,,
-"$ENTRY_JOURNAL_LETTER_MARKOS_2_RIGHT_0_10",,,,"I LOVE YOU <knight_hero_up> I WANT TO MARRY YOUR MUSTACHE EVEN THOUGH YOU ARE MUCH LESS AWESOME THAN <berserker_hero_up> AND ALSO YOU WEAR A SKIRT HAHAHAHA LETS GET MARRIED!!!!",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_2_LEFT_0_00",,,,"19º notte - Lettera a <knight_hero_fu>, bozza n. 1",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_2_LEFT_0_10",,,,"Caro <knight_hero_fu>,
+In risposta alla vostra lettera, vorrei sollevare tre punti.
+Primo, perchè mandarmi una lettera, quando sarebbe bastato fare tre metri e parlarmi di persona? C'è qualcosa che non va nel mio igiene personale?  Forse la gente ne parla alle mie spalle?
+Secondo, piantatela di chiamarmi Signorina.
+Terzo, lasciate in pace <mage_hero> oppure io... non lo so, darò fuoco alle vostre basette o qualcosa del genere.",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_2_RIGHT_0_00",,,,"P.S. - Stavo solo scherzando sulle basette, non gli darei mai fuoco perchè poi sembrereste strano e dovrei inventarmi un'altro soprannome con cui prendervi in giro, e Mr. Magnifistacchio suona già benissimo.  Comunque, tutto quello che intendo dire è che <mage_hero_fu> ha obiettivamente passato dei momenti terribili, quindi perchè non prendersela con qualcuno che se lo merita, come <berserker_hero_up>, che sembra pensare che non mi sia accorta che sta leggendo da sopra la mia spalla anche se è un ebete sbavante che puzza come due pile di",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_2_RIGHT_0_10",,,,"<N>TI AMO <knight_hero_up> VOGLIO SPOSARE I TUOI MUSTACCHI ANCHE SE SEI MOLTO MENO FIGO DI <berserker_hero_up> E PORTI ANCHE LA GONNA HAHAHAHA SPOSIAMOCI!!!!",,,,
 "$ENTRY_JOURNAL_LETTER_MARKOS_3_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_LETTER_MARKOS_3_LEFT_0_00",,,,"giorno 20",,,,
-"$ENTRY_JOURNAL_LETTER_MARKOS_3_LEFT_0_10",,,,"Lady <mcguffin_hero_fu>,
-I assume that I was not intended to receive your last letter, seeing that it was delivered by <berserker_hero_fu> who was subsequently pursued out of the camp and beaten savagely with a soup ladle by yourself.  
-All this is to say I am returning the letter unread.  Also, please wash that ladle before using it again.  Thank you.
-P.S. - Mr. Magnifistache?  Really?  That's the best you could come up with?
+"$ENTRY_JOURNAL_LETTER_MARKOS_3_LEFT_0_00",,,,"20º giorno ",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_3_LEFT_0_10",,,,"Signorina <mcguffin_hero_fu>,
+Presumo che non avrei mai dovuto ricevere la vostra ultima lettera, considerato che mi è stata consegnata da <berserker_hero_fu>, il quale è poi stato subito dopo inseguito da voi stessa fuori dal campo e selvaggiamente picchiato con un mestolo per la zuppa.  
+Tutto questo è per dirvi che vi restituisco la lettera senza averla letta.  Vi prego inoltre di lavare quel mestolo prima di usarlo di nuovo.  Grazie.
+P.S. - Mr. Magnifistacchio?  Seriamente?  Era il meglio che potevate fare?
 -<knight_hero_fu> Kashantir",,,,
 "$ENTRY_JOURNAL_LETTER_MARKOS_SLAK_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_LETTER_MARKOS_SLAK_LEFT_0_00",,,,"giorno 21",,,,
-"$ENTRY_JOURNAL_LETTER_MARKOS_SLAK_LEFT_0_10",,,,"HEY <mcguffin_hero_up> I AM <knight_hero_up> I WANT TO HAVE YOUR BABIES BECAUSE I AM A LADY THATS WHY I WEAR A SKIRT ALSO <berserker_hero_up> IS AWESOME
-SINCERELY
-TOTALLY <knight_hero_up>",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_SLAK_LEFT_0_00",,,,"21º giorno",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_SLAK_LEFT_0_10",,,,"EHI <mcguffin_hero_up> SONO <knight_hero_up> VOGLIO AVERE I TUOI BAMBINI PERCHÈ SONO UNA DONNA È PER QUESTO CHE INDOSSO UNA GONNA E POI <berserker_hero_up> È FANTASTICO
+CORDIALMENTE
+IL VERO <knight_hero_up>",,,,
 "$ENTRY_JOURNAL_LETTER_AZRA_SLAK_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_LETTER_AZRA_SLAK_LEFT_0_00",,,,"notte 21",,,,
-"$ENTRY_JOURNAL_LETTER_AZRA_SLAK_LEFT_0_10",,,,"Dear <berserker_hero_fu>,
-If you are reading this, it means that you have once again sneaked into my tent to deface my journal and/or spread poorly-written impersonations.  Well, it's not going to happen this time.  You see that tent flap behind you?  Guess what's behind that tent flap? 
-I'll give you a hint: it's holding a soup ladle and it doesn't like you very much.",,,,
-"$ENTRY_JOURNAL_LETTER_AZRA_SLAK_LEFT_0_20",,,,"HAHA I ALMOST BELIEVED YOU FOR A SECOND ALSO MY NAME IS <knight_hero_up> AND I LOVE WEARING PRETTY DRESSES AND BR",,,,
+"$ENTRY_JOURNAL_LETTER_AZRA_SLAK_LEFT_0_00",,,,"21º notte ",,,,
+"$ENTRY_JOURNAL_LETTER_AZRA_SLAK_LEFT_0_10",,,,"Caro <berserker_hero_fu>,
+Se stai leggendo questo messaggio, vuol dire che ti sei ancora una volta intrufolato nella mia tenda per imbrattare il mio diario e/o fare un'altra delle tue pessime imitazioni.  Bene, stavolta non succederà.  Vedi quell'apertura nella tenda dietro di te?  Indovina cosa c'è lì dietro? 
+Ti do un indizio: ha in mano un mestolo e non le sei molto simpatico.",,,,
+"$ENTRY_JOURNAL_LETTER_AZRA_SLAK_LEFT_0_20",,,,"HAHA PER UN SECONDO TI HO QUASI CREDUTO COMUNQUE IL MIO NOME È <knight_hero_up> E AMO INDOSSARE DEI BEI VESTITINI E PO",,,,
 "$ENTRY_JOURNAL_NIRU_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_NIRU_LEFT_0_00",,,,"notte 22 - <dragon_hero>",,,,
-"$ENTRY_JOURNAL_NIRU_LEFT_0_10",,,,"I have heard about dragons many times.  They were a childhood obsession of my cousin's, and she hungrily devoured any legend I could find at the library, from Polimon's scientific postulations to Nomad folktales.  These stories were then regurgitated to me in typical childish fashion: backwards and scrambled and without pauses for breath.  Despite the quality of the lectures, a good deal of the material lodged in recesses of my mind.  Now that I keep company with a flesh and blood dragon, I find these childish lessons flooding back.
-Over the course of this adventure I have learned to expect my preconceptions to be largely inaccurate when confronted with the living subject of my study.  However, in this instance I find my education spot on: <dragon_hero> is a fat, greedy, selfish, haughty overgrown lizard, given to hoarding and allusions of divinity.",,,,
-"$ENTRY_JOURNAL_NIRU_RIGHT_0_00",,,,"Such a powerful creature is indeed a very real danger.  She has expressed no qualms whatsoever about consuming members of our party, killing anything that mildly irritates her and generally treats all <LQ>mortal<RQ> things as beneath her.
-Superiority is often the champion of ignorance.  <dragon_hero> has in her possession a treasured <LQ>dragon sized goblet<RQ>.  Had she not felt the written language of Ash beneath her, she would know that the inscription actually states that the artifact in question is nothing less than <LQ>Lord Redamal's Chamber Pot<RQ>.  Whenever I become exasperated with her airs, I need only think of her gleeful use of this <LQ>goblet.<RQ>",,,,
-"$ENTRY_JOURNAL_NIRU_LEFT_1_00",,,,"notte 24 - Addendum",,,,
-"$ENTRY_JOURNAL_NIRU_LEFT_1_10",,,,"For all of her general ambivalence to everything outside herself, <dragon_hero> is a remarkably caring parent.
-When I see her fret over her brood's well-being I cannot help but remember my own mother.  It is a strange thought to have of a gigantic monster that threatens to immolate or devour you on a near daily basis, but it is what I felt.  
-I know such sympathy would get me killed, but I cannot fathom the loss she must feel over her young that the Revenant carried away.  It seems this great tragedy of our times touches even the most powerful and aloof among us.",,,,
+"$ENTRY_JOURNAL_NIRU_LEFT_0_00",,,,"22º notte - <dragon_hero>",,,,
+"$ENTRY_JOURNAL_NIRU_LEFT_0_10",,,,"Ho sentito parlare di draghi molte volte. Da bambina erano un'ossessione di mia cugina, che divorava avidamente qualunque leggenda potessi trovare in biblioteca, dagli assiomi scientifici di Polimon ai racconti popolari dei Nomadi.  Queste storie venivano poi a me rigurgitate nella maniera tipica dei bambini: al contrario e alla rinfusa e senza fermarsi a respirare.  Nonostante la qualità delle lezioni, una gran parte di quel materiale si è adagiato nei recessi della mia memoria.  Ora che sono in compagnia di un drago in carne e ossa, i ricordi di quelle lezioni infantili si rifanno prepotentemente vivi.
+Nel corso di questa avventura ho imparato ad aspettarmi di trovare i miei preconcetti completamente inadeguati rispetto alla realtà.  Tuttavia, in questo caso trovo il mio bagaglio di conoscenze perfettamente accurato: <dragon_hero> è una grassa, avida, egoista, presuntuosa lucertola troppo cresciuta, dedicata ad accumulare tesori e alludere alla sua divinità.",,,,
+"$ENTRY_JOURNAL_NIRU_RIGHT_0_00",,,,"Una creatura così potente è in effetti un pericolo molto tangibile. Non ha espresso nessuna remora sul voler mangiare alcuni membri del nostro gruppo, uccidere qualunque cosa la irriti, e in generale tratta tutto ciò che ha a che vedere con i <LQ>mortali<RQ> come qualcosa indegno di lei.
+La superiorità è spesso il paladino dell'ignoranza.  <dragon_hero> possiede una preziosa <LQ>coppa per draghi<RQ>.  Se non avesse ritenuto la lingua di Ash indegna di lei, saprebbe dall'iscrizione sul lato che l'artifatto in questione è in realtà nientepopodimenoche <LQ>Il Vaso da Notte di Lord Redamal<RQ>.  Ogni volta che sono esasperata dalle sue maniere, mi basta pensare al gioioso uso che fa di questo <LQ>calice.<RQ>",,,,
+"$ENTRY_JOURNAL_NIRU_LEFT_1_00",,,,"24º notte - Addendum",,,,
+"$ENTRY_JOURNAL_NIRU_LEFT_1_10",,,,"Nonostante tutta la sua generale ambivalenza nei confronti di tutto ciò che non la riguarda personalmente, <dragon_hero> è una genitrice notevolmente premurosa.
+Quando la vedo agitarsi per il benessere della sua covata non posso fare a meno di pensare a mia madre.  Uno strano pensiero nei riguardi di un mostro gigante che minaccia di immolarti o divorarti quasi giornalmente, ma è quello che ho provato.  
+So che una simile simpatia mi farebbe ammazzare, ma non posso immaginare la perdita che deve aver provato per i piccoli che i Revenant hanno portato via.  Sembra che questa enorme tragedia dei nostri tempi coinvolga anche i più potenti e distaccati fra noi.",,,,
 "$ENTRY_JOURNAL_DREAM2_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_DREAM2_LEFT_0_00",,,,"giorno 25 - Second Dream",,,,
-"$ENTRY_JOURNAL_DREAM2_LEFT_0_10",,,,"The dream came to me again last notte.  It was a different form, but I could tell it was the same dream - or at least I was the same dreamer.
-I was standing in a great hall.  Its walls stretched up above me, towering so high that the ceiling was made of clouds.  Each wall was golden-bright and adorned with wondrous jewels as far as my eye could see.  In my hands was a goblet, carved from some lustrous material, wine-dark and cold to the touch.  
-Despite all the wonders that surrounded me, I treasured the goblet above all things, carrying it so as to not spill a single drop from its lip. Suddenly the hall darkened and a filthy rabble surged into it. They struck me and abused me and tore the goblet from my hands. I screamed and drew a sharp dagger from my robes, slashing and striking out at them until the hall was dark with blood.",,,,
-"$ENTRY_JOURNAL_DREAM2_RIGHT_0_00",,,,"Despite their losses the throng pressed against me till I was forced out of the hall, into a dim antechamber. I fought, but all around the horde struck back till I was completely broken. I collapsed, and the rabble rushed over me, eager to tear down the bright jewels from the walls. 
-I lay for a long time, believing myself to have died. When I finally could climb to my feet, the hall was empty. The walls had been torn down and smashed, and everything was covered in soot and filth. I looked, but the goblet was nowhere. I wandered the hall for an eternity, crying out, but I was alone. The goblet had been taken from me. 
-I sat down in the ruin and wept.",,,,
+"$ENTRY_JOURNAL_DREAM2_LEFT_0_00",,,,"25º giorno - Secondo sogno",,,,
+"$ENTRY_JOURNAL_DREAM2_LEFT_0_10",,,,"Il sogno è ritornato da me ieri notte.  It was a different form, but I could tell it was the same dream - o almeno ero la stessa sognatrice.
+Mi trovavo in una grande sala.  Le sue mura si allungavano sopra di me, torreggiando così in alto che il soffitto era fatto di nuvole.  Ogni muro era d'oro splendente e adornato con meravigliosi gioielli a perdita d'occhio.  Nelle mie mani c'era un calice, intagliato da qualche materiale lucente, scuro come il vino e freddo al tatto.  
+Nonostante tutte le meraviglie che mi circondavano, tenevo al calice molto più di ogni altra cosa, portandolo in modo da non versare una singola goccia dal suo orlo. All'improvviso la sala si fece scura e una lurida plebaglia la invase. Mi colpirono e maltrattarono e presero il calice dalle mie mani. Urlai, e sfoderai una daga affilata dalla mia veste, tagliando e colpendo finchè la sala divenne scura come il sangue.",,,,
+"$ENTRY_JOURNAL_DREAM2_RIGHT_0_00",,,,"Nonostante le perdite la folla continuò a incalzare, finchè fui costretta ad abbandonare la sala, finendo in un'anticamera semibuia. Continuai a combattere, ma tutt'intorno l'orda rispondeva ai colpi fino a quando fui completamente sconfitta. Caddi a terra, e la marmaglia mi travolse, impaziente di strappare i brillanti gioielli dalle mura. 
+Rimasi lì per lungo tempo, credendo di essere morta. Quando finalmente riuscii a rimettermi in piedi, la sala era vuota. Le mura erano state abbattute e spaccate, e tutto era coperto di fuliggine e sporcizia. Ho cercato, ma il calice non era da nessuna parte. Ho vagato la sala per un'eternità, piangendo, ma ero sola. Il calice mi era stato portato via. 
+Sedetti tra le rovine e piansi.",,,,
 "$ENTRY_JOURNAL_ZELEMIR_DEAD_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_ZELEMIR_DEAD_LEFT_0_00",,,,"giorno 28 - Zelemir's Death",,,,
-"$ENTRY_JOURNAL_ZELEMIR_DEAD_LEFT_0_10",,,,"Regicide is an odd feeling.  I understand that I did the only reasonable thing, but I have still spilled the royal blood of Ash.  He had so deviated from his purpose as to endanger the entire order of being.  Still, the feeling haunts me.  It is the first time I have killed a true man of flesh and blood.
-<mage_hero> oscillates between glee and anger, cursing his name as if she could kill the dead all over again.  I suppose this isn't an entirely vain desire, given our actions over the last weeks.
-What haunts me most of all is the Revenant that still hound us.  Their leader and creator is dead.  How can his will still drive them?
-I ask the question and already know the answer, though I do not wish to admit it.  It is not his will.  The feel is different.  Another hand guides them.",,,,
-"$ENTRY_JOURNAL_ZELEMIR_DEAD_RIGHT_0_00",,,,"I have felt the strange power Zelemir spoke of, the evil sealed by the blood of sacrifice.  Eztli-Tenoch.",,,,
+"$ENTRY_JOURNAL_ZELEMIR_DEAD_LEFT_0_00",,,,"28º giorno - La morte di Zelemir",,,,
+"$ENTRY_JOURNAL_ZELEMIR_DEAD_LEFT_0_10",,,,"<N>Il regicidio è una strana sensazione.  Mi rendo conto che era l'unica cosa da fare, ma ho comunque versato il sangue reale di Ash.  Si era così allontanato dal suo scopo da mettere a repentaglio l'intero ordine delle cose.  E tuttavia, la sensazione mi perseguita.  È la prima volta che uccido un uomo in carne e ossa.
+<mage_hero> oscilla tra la gioia e la rabbia, maledicendo il suo nome come se potesse di nuovo uccidere il defunto.  Suppongo che non sia un desiderio completamente privo di base, considerate le vicessitudini delle ultime settimane.
+Ciò che mi tormenta di più è che i Revenant ci danno ancora la caccia.  Il loro creatore e condottiero è morto.  Come può la sua volontà guidarli ancora?
+Mentre formulo la domanda conosco già la risposta, anche se non vorrei ammetterlo.  Non è la sua volontà.  Avverto la differenza.  È un'altra mano a guidarli.",,,,
+"$ENTRY_JOURNAL_ZELEMIR_DEAD_RIGHT_0_00",,,,"Ho sentito lo strano potere di cui ha parlato Zelemir, la malvagità imprigionata dal sacrificio di sangue.  Eztli-Tenoch.",,,,
 "$ENTRY_JOURNAL_DREAM3_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_DREAM3_LEFT_0_00",,,,"giorno 29 - Third Dream",,,,
-"$ENTRY_JOURNAL_DREAM3_LEFT_0_10",,,,"I dreamed again last notte.
-I was standing in a desolate place.  Before me stood a gigantic crystal, rising up a hundred feet into the sky.  I was weeping.  The tears ran down my body, across my gold and charms, and out onto the ground.  They snaked across the dusty earth towards the crystal and I realized that they were no longer tears but rivulets of blood.  
-There was a host of corpses at my feet - men, women, and children.  My hands were caked with their gore.  I turned and saw an army behind me, covered, as I was, in blood.  They waited for me to speak.  
-I raised my red arms to the sky and shouted in a voice like thunder.",,,,
-"$ENTRY_JOURNAL_DREAM3_RIGHT_0_00",,,,"The army took up the cry.  It was a word I had never heard before, but I immediately knew its meaning.  The word was blood.  The cry went up until the earth trembled.",,,,
+"$ENTRY_JOURNAL_DREAM3_LEFT_0_00",,,,"29º giorno - Terzo sogno",,,,
+"$ENTRY_JOURNAL_DREAM3_LEFT_0_10",,,,"Ieri notte ho sognato ancora.
+Mi trovavo in un luogo desolato.  Davanti a me un gigantesco cristallo, che si ergeva per un centinaio di piedi verso il cielo.  Stavo piangendo.  Le lacrime scorrevano giù sulla mia pelle, attraverso l'oro e gli amuleti, sino ad arrivare a terra.  Serpeggiarono sulla terra polverosa verso il cristallo, e in quel momento mi sono resa conto che non erano lacrime ma rivoli di sangue.  
+C'era un ammasso di cadaveri ai miei piedi - uomini, donne e bambini.  Le mie mani erano ricoperte del loro sangue.  Mi sono girata e ho visto un esercito dietro di me, coperto, come lo ero io, di sangue.  Aspettavano che io parlassi.  
+Ho alzato le mani al cielo e gridato con voce di tuono.",,,,
+"$ENTRY_JOURNAL_DREAM3_RIGHT_0_00",,,,"L'armata si è unita al grido.  Era una parola che non avevo mai sentito prima, ma ne colsi immediatamente il significato.  La parola era sangue.  Il grido si intensificò fino a far tremare la terra.",,,,
 "$ENTRY_JOURNAL_THRONE_ROOM_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_THRONE_ROOM_LEFT_0_00",,,,"giorno 35 - Eztli's Throne",,,,
-"$ENTRY_JOURNAL_THRONE_ROOM_LEFT_0_10",,,,"<berserker_hero> sits casually on the throne as I write this.  Eztli-Tenoch's throne.
-It was an act that made me greatly uneasy at first.  But why should it?  What respect does evil command?  This golden man is nothing more than a bully grasping at godhood.  There is something fundamentally pathetic in this kind of evil.  It smacks of the same self-delusion of would-be great men.  Look at this place: an entire palace dedicated to reinforcing a self-created image.  Look at me, it screams, I am the true face of power.  Eztli-Tenoch the god, impotent in his crystal cage.
-Yet there is another side of me that understands.  A side of me that has walked these halls, that has known godhood.  I have sat by his side, judging the rabble.  I have felt our divine calling.",,,,
-"$ENTRY_JOURNAL_THRONE_ROOM_RIGHT_0_00",,,,"Perhaps it is this taste, come to me in my dreams, that drives my disdain.  I have seen both what he is and what he believes himself to be.",,,,
+"$ENTRY_JOURNAL_THRONE_ROOM_LEFT_0_00",,,,"35º giorno - Il trono di Eztli",,,,
+"$ENTRY_JOURNAL_THRONE_ROOM_LEFT_0_10",,,,"<berserker_hero> siede noncurante sul trono mentre scrivo queste righe.  Il trono di Eztli-Tenoch.
+È un atto che di primo acchito mi ha messo molto a disagio.  Ma perchè dovrebbe?  Quale rispetto merita la malvagità?  Quest'uomo dorato non è nient'altro che un bullo aggrappato alla divinità.  C'è qualcosa di profondamente patetico in questo genere di malvagità.  Puzza della stessa autosuggestione dei sedicenti uomini di potere.  Basta guardare questo posto: un intero palazzo dedicato a rinforzare la sua egocentrica immagine.  Guardatemi, sembra dire, io sono l'incarnazione del vero potere.  Eztli-Tenoch il dio, impotente nella sua gabbia di cristallo.
+E nondimeno c'è un'altra parte di me che capisce.  Una parte di me che ha già camminato in queste sale, che ha conosciuto la divinità.  Ho seduto al suo fianco, giudicando la plebaglia.  Ho sentito la nostra divina vocazione.",,,,
+"$ENTRY_JOURNAL_THRONE_ROOM_RIGHT_0_00",,,,"Forse è questo sapore, il sapore dei sogni, che alimenta il mio disprezzo.  Ho visto sia ciò che lui è e sia ciò che crede di essere.",,,,
 "$ENTRY_JOURNAL_ANTIAZRA_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_ANTIAZRA_LEFT_0_00",,,,"giorno 37 - Tletl-Meztli",,,,
-"$ENTRY_JOURNAL_ANTIAZRA_LEFT_0_10",,,,"I have very little understanding, at least in facts, of what transpired in the treasure room.
-I have seen myself die; or at least a self.  Tletl-Meztli, the fire moon.
-It is a very strange feeling to look at someone and say <LQ>I have been this person.<RQ>  But I have.  The power, the loss, the retribution.  I have lived, at least in part, the things that made her.  Now I have witnessed the sacrifice that unmade her.",,,,
+"$ENTRY_JOURNAL_ANTIAZRA_LEFT_0_00",,,,"37º giorno - Tletl-Meztli",,,,
+"$ENTRY_JOURNAL_ANTIAZRA_LEFT_0_10",,,,"Ho capito molto poco, almeno nei fatti, di ciò che è accaduto nella camera del tesoro.
+Mi sono vista morire; o almeno una parte di me.  Tletl-Meztli, la luna di fuoco.
+È una sensazione molto strana guardare qualcuno e dire <LQ>io ero questa persona.<RQ>  Ma è così.  Il potere, la perdita, il castigo.  Ho vissuto, almeno in parte, le cose che l'hanno definita.  Ora ho assistito al sacrificio che l'ha distrutta.",,,,
 "$ENTRY_JOURNAL_ESCAPE_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_ESCAPE_LEFT_0_00",,,,"giorno 39 - Escape?",,,,
-"$ENTRY_JOURNAL_ESCAPE_LEFT_0_10",,,,"Zelemir has returned.  He brings with him an insidious offer: our freedom, the salvation of the world.  All at the cost of a few thousand lives.  One more drop in the raging ocean of blood.
-<dragon_hero> is beside herself.  <mage_hero> practically froths at the mouth.
-Here is our escape!
-Every choice is fraught with danger: to oppose Zelemir I risk my life, and the lives of everyone that would fall before Eztli-Tenoch freed.  I risk the fate of the world!  But to allow his plan I risk my soul.
-I wish I could have died in Ash.  I wish anything to be spared this choice.",,,,
+"$ENTRY_JOURNAL_ESCAPE_LEFT_0_00",,,,"39º giorno - Fuga?",,,,
+"$ENTRY_JOURNAL_ESCAPE_LEFT_0_10",,,,"Zelemir è tornato.  Porta con se un'offerta insidiosa: la nostra libertà, la salvezza del mondo.  Tutto ciò al prezzo di qualche migliaio di vite.  Un'altra goccia in un ribollente mare di sangue.
+<dragon_hero> è fuori di sè.  <mage_hero> praticamente ha la schiuma alla bocca.
+Ecco la nostra fuga!
+Ogni scelta è gravida di pericoli: opponendomi a Zelemir metterei a repentaglio la mia vita, e le vite di tutti coloro che cadranno di fronte ad un Eztli-Tenoch libero.  Rischierei il destino del mondo!  Ma accettando il suo piano metterei a repentaglio la mia anima.
+Vorrei essere morta ad Ash.  Qualsiasi cosa purchè mi venga risparmiata questa scelta.",,,,
 "$ENTRY_JOURNAL_FOLLOWING_ZELEMIR_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_FOLLOWING_ZELEMIR_LEFT_0_00",,,,"giorno 40 - Following Zelemir",,,,
-"$ENTRY_JOURNAL_FOLLOWING_ZELEMIR_LEFT_0_10",,,,"I can no longer call Zelemir's solution insanity.  It is well reasoned, well thought out - the work of a master strategist solving a terrible curse.
-And it is abominable.
-The one who fights chaos with the murder of innocents betrays his own cause.
-I have fought him once.  I will do it as many times as I must to protect these people.  Or I will die trying.",,,,
+"$ENTRY_JOURNAL_FOLLOWING_ZELEMIR_LEFT_0_00",,,,"40º giorno  - Seguendo Zelemir",,,,
+"$ENTRY_JOURNAL_FOLLOWING_ZELEMIR_LEFT_0_10",,,,"<N>Non posso più etichettare il piano di Zelemir come follia.  È razionale, ben congeniato - il lavoro di un maestro stratega che ha risolto una terribile maledizione.
+Ed è abominevole.
+Chi combatte il caos assassinando degli innocenti tradisce la sua stessa causa.
+L'ho combattuto una volta. Lo farò ogni volta che sarà necessario per proteggere queste persone.  O morirò nel tentativo.",,,,
 "$ENTRY_JOURNAL_EPILOGUE_TITLE",,,,"",,,,
-"$ENTRY_JOURNAL_EPILOGUE_LEFT_0_00",,,,"Epilogue",,,,
-"$ENTRY_JOURNAL_EPILOGUE_LEFT_0_10",,,,"What an odd feeling it is to stand still and say <LQ>Nothing at all is trying to kill me right now.<RQ>
-I'm still not sure I believe it.  I keep waiting for murderous sheep to charge down the library halls.  So far it's just been a mouse, which was quickly dispatched with Polimon's Treatise on the Right Functioning of Plants.
-<knight_hero> has become quite a regular at the library.  This last month he has wanted to see practically every military treatise I could lay my hands on and, having exhausted sensible subjects, has branched out into just about anything I can pull off the shelf.  I think the last thing he looked up was a manual on ferret breeding which I swear he picked at random, and then spent the entire visit talking to me instead of reading.  I knew something had to be crazy about him.",,,,
-"$ENTRY_JOURNAL_EPILOGUE_RIGHT_0_00",,,,"Still, it's nice to have someone to talk to while restocking the shelves.  So many books were burned as fuel during the plague, the library has been decimated.  The shelves were almost skeletally empty when I arrived.  
-<knight_hero> has donated several he's purchased from Nomad traders and yestergiorno I received a mysterious package addressed <LQ>TO <mcguffin_hero_up> AT HER BORING JOB THAT IS MUCH LESS AWESOME THAN MINE WHICH IS KILLING THINGS<RQ>
-Inside were several incredibly rare Western texts dating back at least three centuries, as well as a series of crudely drawn stick figures labeled <LQ>ME<RQ>, each killing various monstrosities.  All of these will be saved for posterity in the renovated East Wing, along with this record, as soon as it is finished.
-I often wonder how my old companions are faring.",,,,
-"$ENTRY_JOURNAL_EPILOGUE_LEFT_1_00",,,,"It has only been two months time, but I know that two months is several hundred adventures for the likes of <berserker_hero> and <ranger_hero>.
-I have heard little word on <mage_hero>, though every now and again Nomad traders mention the <LQ>Mad Empress of the Ruins,<RQ> which I can only assume means that she is doing well in her reconquest.
-Sometimes I fear for her - with the plague and its Revenant vanished, the Quaid Empire will be an inviting territory for every would-be warlord and bandit king, not to mention the kingdoms of the North.  Still, if anyone can fight the whole world and win smiling, it would be <mage_hero>.
-<healer_hero> has returned to his monastery.  I receive letters on occasion, detailing the Pit's slow transformation.  Traders, travellers and pilgrims are slowly making inroads, though it will be some time before the stigma",,,,
-"$ENTRY_JOURNAL_EPILOGUE_RIGHT_1_00",,,,"of the place has faded.  I may take up his invitation to visit some time in the coming month.  The city is rebuilding and with it comes the hectic city life that I no longer thrive on.
-My eyes crave open land and the distant horizon.  Perhaps there is some adventurer in me after all.  I have no doubt <knight_hero> and his guards would accompany me, so the trip would hold little to no danger and, if he can be coaxed to sing again, little to no boredom.
-I believed <dragon_hero> to have permanently removed herself from the world of <LQ>mortals,<RQ> but I am no longer certain.  Last week a bundle of gold-bound books were left on top of the Library roof.  It would take a skilled climber indeed to take such a great weight up such a great height. I would like to believe our mysterious benefactor had the gift of flight, which would mean a certain self proclaimed god has found a mate to train her children.",,,,
-"$ENTRY_JOURNAL_EPILOGUE_LEFT_2_00",,,,"It is a happy thought, and I will stick with it.
+"$ENTRY_JOURNAL_EPILOGUE_LEFT_0_00",,,,"Epilogo",,,,
+"$ENTRY_JOURNAL_EPILOGUE_LEFT_0_10",,,,"Che strana sensazione è stare ferma e dire <LQ>Non c'è assolutamente niente che sta cercando di uccidermi in questo momento.<RQ>
+Ancora non sono sicura di crederci.  Continuo ad aspettarmi una carica di pecore assassine tra le sale della libreria.  Per ora c'è stato solo un topo, prontamente sconfitto dal Trattato di Polimon sulla Giusta Cura delle Piante.
+<knight_hero> è diventato un visitatore regolare della biblioteca.  Lo scorso mese ha voluto vedere praticamente tutti i saggi militari che potessi trovare e, avendo esaurito gli argomenti pertinenti, si è spostato verso praticamente qualunque cosa potessi tirar giù dagli scaffali.  Credo che l'ultima cosa a cui si è dedicato sia un manuale per l'allevamento dei furetti che potrei giurare ha preso totalmente a caso, e poi ha passato l'intera visita a parlare con me invece di leggere.  Sapevo che anche lui doveva avere qualcosa di strano.",,,,
+"$ENTRY_JOURNAL_EPILOGUE_RIGHT_0_00",,,,"Comunque, è bello avere qualcuno con cui parlare mentre rifornisco gli scaffali.  Così tanti libri sono stati bruciati come carburante durante la piaga, che il contenuto della biblioteca è stato decimato.  Gli scaffali erano quasi scheletricamente vuoti quando sono arrivata.  
+<knight_hero> ne ha donato alcuni, acquistati da mercanti nomadi, e ieri ho ricevuto un pacchetto indirizzato <LQ>A <mcguffin_hero_up> AL SUO NOIOSO POSTO DI LAVORO CHE È MOLTO MENO FANTASTICO DEL MIO CHE È UCCIDERE COSE<RQ>
+Dentro c'erano diversi testi Occidentali incredibilmente rari, datati almeno tre secoli fa, ed una serie di omini stilizzati etichettati <LQ>IO<RQ>, ognuno rozzamente disegnato nell'atto di uccidere varie mostruosità.  Tutto questo sarà conservato per i posteri nella recentemente restaurata Ala Est, insieme a questa cronaca, non appena sarà finita.
+Mi chiedo spesso come se la stanno cavando i miei vecchi compagni.",,,,
+"$ENTRY_JOURNAL_EPILOGUE_LEFT_1_00",,,,"Sono solo passati due mesi, ma so che due mesi corrispondono a diverse centinaia di avventure per quelli come <berserker_hero> e <ranger_hero>.
+Non ho saputo molto di <mage_hero>, anche se ogni tanto i commercianti nomadi accennano alla <LQ>Pazza Imperatrice delle Rovine,<RQ> il che posso solo immaginare significhi che la sua riconquista sta andando bene.
+A volte ho paura per lei - con la scomparsa della piaga e dei Revenant, l'Impero Quaid è diventato un bersaglio invitante per ogni re bandito e signore della guerra della domenica, per non parlare dei vari regni del Nord.  Comunque, se c'è qualcuno che può combattere il mondo intero e vincere con il sorriso, quella è <mage_hero>.
+<healer_hero> è ritornato al suo monastero.  Ogni tanto ricevo le sue lettere, che descrivono la lenta trasformazione della Valle.  Commercianti, viaggiatori e pellegrini stanno timidamente iniziando ad avventurarvisi, anche se ci vorrà del tempo prima che la stigmatizzazione",,,,
+"$ENTRY_JOURNAL_EPILOGUE_RIGHT_1_00",,,,"del luogo scompaia.  Potrei accettare il suo invito a fargli visita durante il prossimo mese.  La città è in ricostruzione e con essa arriva la frenetica vita di città in cui non sono più a mio agio.
+I miei occhi bramano un orizzonte distante e spazi aperti.  Forse c'è un'avventuriera in me, dopotutto.  Non dubito che <knight_hero> e le sue guardie mi accompagnerebbero, quindi il viaggio non dovrebbe presentare pericoli, e se riuscissi a convincerlo a cantare di nuovo, non ci sarà sicuramente da annoiarsi.
+Credevo che <dragon_hero> avesse permanentemente abbandonato il mondo dei <LQ>mortali,<RQ> ma non ne sono più così certa.  La scorsa settimana una pila di libri rilegati in oro è stata lasciata in cima al tetto della Libreria.  Ci vorrebbe uno scalatore davvero formidabile per portare un peso del genere a così grande altezza. Preferisco pensare che il nostro misterioso benefattore abbia avuto il dono del volo, il che significa che una certa sedicente dea ha trovato un compagno per insegnare ai suoi piccoli.",,,,
+"$ENTRY_JOURNAL_EPILOGUE_LEFT_2_00",,,,"È un pensiero carino, e me lo terrò stretto.
 It is strange to speak to people outside of our little party.  The few I have even begun to confide in have either scoffed at my claims or already been spoiled by the widely exaggerated stories of the returning refugees.  
 This morning two children stopped me in the street and begged me to melt the face off of a bully that was tormenting them.  Always with the face melting.  An angry glare sent him scurrying home for a change of clothes, which went over better with my audience than a melted face ever would have.  I have had others rush up to me in the street, asking me to heal their bunions, bless their donkeys, curse their annoying neighbors, the list goes on.
 Perhaps that is why I am so happy to see <knight_hero> come into the Library.",,,,
@@ -281,4 +279,4 @@ I wonder, will we all ever see each other again?
 -<mcguffin_hero> Yalkie Livbar",,,,
 "$ENTRY_JOURNAL_EPILOGUE_RIGHT_2_10",,,,"I WONDER WILL YOU EVER LEARN TO KEEP THIS JOURNAL IN A BETTER HIDING SPOT HAHA PROBABLY NOT BECAUSE IM TOO AWESOME ALSO MY NAME IS <knight_hero_up> AND I AM NOT AWESOME AT ALL I LIKE TO WEAR PRETTY FLOWERS IN MY HAIR AND DANCE AROUND IN MY FRILLY PURPLE SKIRT SINGING LALALALALA
 ALSO SERIOUSLY WITH <knight_hero_up> DO I HAVE TO SPELL THIS OUT FOR YOU?  YOU SO WA",,,,
-"$ENTRY_JOURNAL_EPILOGUE_RIGHT_2_20",,,,"I have kept the soup ladle.",,,,
+"$ENTRY_JOURNAL_EPILOGUE_RIGHT_2_20",,,,"Ho conservato il mestolo.",,,,

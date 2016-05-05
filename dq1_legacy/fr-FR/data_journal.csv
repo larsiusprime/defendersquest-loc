@@ -1,0 +1,283 @@
+"flag",,,,"content",,,,
+"$ENTRY_JOURNAL_INDEX_TITLE",,,,"INDEX",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_00",,,,"Entrées du journal",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_10",,,,"Jour 1 : @Où suis-je ?@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_20",,,,"Nuit 1 : @<berserker_hero>@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_30",,,,"Jour 3 : @Addendum@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_40",,,,"Nuit 3 : @Addendum@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_50",,,,"Jour 3 : @La prison@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_60",,,,"Jour 4 : @Le Monde à Mi-Chemin@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_70",,,,"Jour 5 : @<ranger_hero>@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_80",,,,"Jour 8 : @Addendum@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_90",,,,"Nuit 7 : @L'incendie de Karsk@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_100",,,,"Jour 8 : @Laksos@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_110",,,,"Jour 9 : @<mcguffin_hero>@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_120",,,,"Jour 10 : @La mort d'Ozimal@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_130",,,,"Nuit 10 : @Le Monastère@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_140",,,,"Jour 11 : @L'Ancien <healer_hero>@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_150",,,,"Jour 13 : @<mage_hero>@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_160",,,,"Jour 14 : @Les Nomades@",,,,
+"$ENTRY_JOURNAL_INDEX_LEFT_170",,,,"Jour 15 : @Un étrange rêve@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_00",,,,"Jour 17 : @Joyau-du-Désert@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_10",,,,"Jour 18 : @<knight_hero>@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_20",,,,"Jour 19 : @Lettre de <knight_hero>@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_30",,,,"Nuit 19 : @Ma réponse : premier jet@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_40",,,,"Jour 20 : @Réponse de <knight_hero>@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_50",,,,"Jour 21 : @Lettre de <LQ><knight_hero_up><RQ>@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_60",,,,"Nuit 21 : @Pour <berserker_hero>@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_70",,,,"Nuit 22 : @<dragon_hero>@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_80",,,,"Jour 24 : @Addendum@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_90",,,,"Jour 25 : @Le second rêve@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_100",,,,"Jour 28 : @La mort de Zelemir@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_110",,,,"Jour 29 : @Le troisième rêve@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_120",,,,"Jour 35 : @Le trône d'Eztli@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_130",,,,"Jour 37 : @Tletl-Meztli@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_140",,,,"Jour 39 : @Fuir ?@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_150",,,,"Jour 40 : @Suivre Zelemir@",,,,
+"$ENTRY_JOURNAL_INDEX_RIGHT_160",,,,"@Épilogue@",,,,
+"$ENTRY_JOURNAL_INTRO_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_INTRO_LEFT_00",,,,"Jour 1 - Où suis-je ?",,,,
+"$ENTRY_JOURNAL_INTRO_LEFT_10",,,,"J'ai probablement perdu la tête, mais je vais tout de même essayer de noter les évènements qui se déroulent sous mes yeux. Le lecteur en tirera les conclusions qu'il voudra... Je ne fais que rendre compte des faits qui se sont produits tel que mon esprit enfiévré a pu les appréhender.
+Je sais avec certitude que j'ai contracté la peste qui ravage notre belle capitale. Je sais également que, comme les autres victimes avant moi, j'ai été emmenée hors de la cité et jetée dans la Fosse. La série d'évènements qui a suivi s'est avérée si étrange et si terrifiante que je me demande encore si je rêve ou si je suis éveillée.
+Lorsque la fièvre m'a emportée, je me suis retrouvée en un lieu obscur, en compagnie d'une autre victime.",,,,
+"$ENTRY_JOURNAL_INTRO_RIGHT_00",,,,"Un glorieux trône a alors fait son apparition, et un homme tel que je n'en avais jamais vu y siégeait. Il m'a semblé entièrement doré. J'ai d'abord songé qu'il devait s'agir d'une statue, jusqu'à ce qu'il m'intime un ordre.
+Sa voix aussi m'est apparue dorée, et elle semblait comme frissonner de la puissance du tonnerre. Je n'avais jamais entendu ce langage, ni lu quoi que ce soit s'en rapprochant dans la grande bibliothèque d'Ash, mais mon corps obéit aussitôt. Mes veines se contractèrent comme si mon sang allait jaillir de mon corps et accourir pour le rejoindre.
+Mon cœur s'emballe encore rien que d'y repenser...
+-<mcguffin_hero> Livbar",,,,
+"$ENTRY_JOURNAL_SLAK_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_SLAK_LEFT_0_00",,,,"Nuit 1 - <berserker_hero>",,,,
+"$ENTRY_JOURNAL_SLAK_LEFT_0_10",,,,"Lorsque j'en viens à vouloir parler de <berserker_hero>, je me vois dans l'obligation d'abandonner le langage austère de la capitale afin d'adopter un jargon plus adapté au sujet.
+<berserker_hero> est un crétin. J'irais même jusqu'à dire qu'il est l'incarnation même de la crétinerie. Il compense sa totale absence d'intelligence par une odeur particulièrement exacerbée. Si deux tas de fumier venaient à s'accoupler et à engendrer une descendance, leur progéniture putride tremblerait face à la puanteur qui se dégage des aisselles de <berserker_hero>. Les cadavres animés qui nous traquent exhalent un parfum exquis en comparaison.
+Mais <berserker_hero> a bien plus à offrir que cette charmante particularité. Il possède également une personnalité que je ne saurais décrire autrement que comme relevant de la <LQ>débilité furieuse<RQ>.
+Hier, il a passé quinze minutes à réprimander un caillou contre lequel il s'était cogné l'orteil. Et il n'a pas eu le dernier mot...",,,,
+"$ENTRY_JOURNAL_SLAK_RIGHT_0_00",,,,"Je me sens vraiment privilégiée de devoir voyager en telle compagnie...",,,,
+"$ENTRY_JOURNAL_SLAK_RIGHT_0_10",,,,"Jour 3 - Addendum",,,,
+"$ENTRY_JOURNAL_SLAK_RIGHT_0_20",,,,"En toute équité, je me dois d'admettre qu'il est également l'homme le plus courageux que j'aie jamais vu. Son corps tout entier n'est qu'un tissage de cicatrices, même si ce fait perd un peu de son panache lorsque l'on prend en compte son refus systématique de porter le moindre vêtement ou la moindre pièce d'armure sur le torse. Il faut donc en arriver à la conclusion qu'il est à la fois un clown insupportable et un guerrier d'une redoutable efficacité, et que je me vois heureuse à contrecœur de l'avoir à mes côtés.",,,,
+"$ENTRY_JOURNAL_SLAK_RIGHT_0_30",,,,"<N><N>OOOOH MOI AUSSI ZE T'AIME !!! BIZOUU !!
+
+JE DORS PAS JE FAIS JUSTE DES POMPES SUR LE DOS PARCE QUE C'EST BON POUR LES FESSIERS ",,,,
+"$ENTRY_JOURNAL_SLAK_RIGHT_0_40",,,,"<N><N>Apparemment, il sait aussi lire et écrire ! Mais où donc ce paumé assoiffé de sang a-t-il bien pu recevoir une telle éducation ?
+<N><N>P.S. : Piquez-moi encore une fois mon journal, et je vous réduis la cervelle en purée pendant votre sommeil. ",,,,
+"$ENTRY_JOURNAL_SLAK_LEFT_1_00",,,,"Nuit 3 - Second addendum",,,,
+"$ENTRY_JOURNAL_SLAK_LEFT_1_10",,,,"Alors, pour info, <berserker_hero> dort complètement nu. Toute tentative de vengeance se déroulera dorénavant en plein jour.
+Et... effectivement, ses cicatrices ne s'arrêtent pas à la taille.
+
+Je vous hais.",,,,
+"$ENTRY_JOURNAL_SLAK_LEFT_1_20",,,,"<N><N>PARCE QUE TU CROIS QUE KHAN ET CHARISSA SE LAISSERONT FAIRE ?",,,,
+"$ENTRY_JOURNAL_PRISON_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_PRISON_LEFT_0_00",,,,"Jour 3 - La prison",,,,
+"$ENTRY_JOURNAL_PRISON_LEFT_0_10",,,,"Il y a trois jours encore, je considérais la Fosse comme une prison. Je découvre aujourd'hui que même en Enfer, on peut toujours trouver pire.
+L'homme qui nous retient prisonniers se nomme Ozimal Kaz. C'est un être cruel, mesquin et méprisable. Comment un compatriote a bien pu se pervertir à ce point, cela dépasse vraiment toute compréhension.
+Je me serais attendu à cela venant des Quaidiens qui ont passé les deux dernières décennies à peaufiner leur cruauté contre les provinces de l'est. Même le plus impitoyable des chefs de clans nomades saurait mieux tempérer sa rage sanguinaire que ce dégénéré.
+Et il vient de la capitale en plus, à en juger par son accent ! Ce monstre a grandi à l'ombre du Temple !",,,,
+"$ENTRY_JOURNAL_PRISON_RIGHT_0_00",,,,"Je suis assise ici avec ses autres prisonniers, mêlés sans discrimination... Des bandits, des brigands, des hommes, des femmes, des enfants, des Ashani, des Nomades, des Quaidiens... Tous attendent la mort entre les mains de cet homme.
+Jour et nuit, nous entendons les grognements de son cheptel de Revenants, une cacophonie assourdissante ponctuée uniquement par les cris d'agonie de leurs dernières victimes. Et me voilà, incapable de faire quoi que ce soit ! Si au moins je me trouvais dans le colisée aux côtés de ces pauvres victimes, elles auraient au moins une chance de pouvoir se défendre !
+Malgré sa bravade, Ozimal a semblé hésitant à l'idée de me faire <LQ>exécuter<RQ> une seconde fois. Peut-être Ozimal craint-il de perdre trop de ses Revenants ? Ils ne doivent pas être faciles à capturer et à entretenir, et il semble compter sur eux pour s'assurer le respect des vassaux de son misérable empire.",,,,
+"$ENTRY_JOURNAL_PRISON_LEFT_1_00",,,,"Les paroles de ce mystérieux étranger continuent de me tourner dans la tête. Ozimal tiendrait à offrir une démonstration de mes talents à un <LQ>Homme en Rouge<RQ>. Qui est cet Homme en Rouge ? Et qui est ce mystérieux étranger qui semble à tout prix chercher à me sauver ? Quelle peut bien être mon importance ?
+Au milieu de ce torrent de questions, je ne suis sûre que d'une chose : je n'ai jusqu'à présent fait usage de la violence que face à des êtres déjà morts, mais s'il m'arrivait de pouvoir mettre la main sur Ozimal, ma politique sur ce sujet pourrait bien changer de manière radicale...",,,,
+"$ENTRY_JOURNAL_HALFWAY_WORLD_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_HALFWAY_WORLD_LEFT_0_00",,,,"Jour 4 - Le Monde à Mi-Chemin",,,,
+"$ENTRY_JOURNAL_HALFWAY_WORLD_LEFT_0_10",,,,"<N><LQ>Le Monde à Mi-Chemin<RQ>, c'est le mieux que mes faibles mots peuvent faire pour décrire le lieu dans lequel je me retrouve, et dans lequel j'attire les autres.
+Quand j'étais jeune, j'ai failli me noyer en nageant dans les hauts-fonds du Kevel. C'est la seule expérience avec laquelle je puisse établir un parallèle. Cela provoque la même panique, la même sensation atroce de manquer d'air, tandis que mon cœur tente de toutes ses forces de s'arracher de ma poitrine. Mais cette fois, la main de mon père ne viendra pas me sauver. Il n'y a nulle rive à laquelle me raccrocher, mais seulement l'instant de la mort, étiré sur une éternité.
+Le mécanisme qui me permet d'atteindre ce lieu dépasse ma compréhension. Tout ce que je sais, c'est que je m'y rends lorsque cela est nécessaire. Une fois sur place, je peux percevoir mes compagnons, pas par la vue, mais de la même façon que je suis consciente de mes membres sans avoir à les regarder.",,,,
+"$ENTRY_JOURNAL_HALFWAY_WORLD_RIGHT_0_00",,,,"Je sais juste qu'ils sont là et je fais appel à eux avec toute la force dont je dispose. Cette force n'est guère immense, et j'use de ces pouvoirs avec la faiblesse d'un nourrisson qui cherche à déplacer son corps, mais cela suffit pour me sauver la vie. J'ai beau détester mes voyages dans ce terrifiant Monde à Mi-Chemin, cela vaut toujours mieux que le destin qui m'attendrait sans eux.",,,,
+"$ENTRY_JOURNAL_KETTA_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_KETTA_LEFT_0_00",,,,"Jour 5 - <ranger_hero>",,,,
+"$ENTRY_JOURNAL_KETTA_LEFT_0_10",,,,"Je crois que la chose que j'apprécie le plus chez <ranger_hero>, c'est qu'elle empeste le bouc.
+Je dois avouer que le choix est difficile face à ses stupéfiantes autres qualités, telles son immaturité chronique, sa tendance à tout commenter de manière dénigrante, son sarcasme pervers, ses penchants pour la cleptomanie, ses atroces habitudes alimentaires... Mais lorsque l'on partage une tente avec quelqu'un, c'est la puissante puanteur de bouc qui se démarque le plus rapidement.
+Certaines nuits, une brise perfide vient souffloter depuis le côté des hommes de notre campement, en nous apportant sous ses aisselles poilues l'odeur caractéristique de <berserker_hero>. Le mélange résultant d'effluves ne peut être qualifié que d'ambroisien. C'est en général ces nuits-là que j'arrive le mieux à dormir, car mon corps semble préférer sombrer dans l'inconscience plutôt que de tenter d'interpréter les stimuli olfactifs auxquels il se trouve confronté.",,,,
+"$ENTRY_JOURNAL_KETTA_RIGHT_0_00",,,,"Jour 8 - Addendum",,,,
+"$ENTRY_JOURNAL_KETTA_RIGHT_0_10",,,,"La nuit dernière <ranger_hero> m'a réveillée en hurlant dans la langue des Nomades. Son cri pourrait approximativement être traduit par <LQ>Femme à la morale plus que discutable, il est à moi !<RQ> Elle m'a ensuite arraché une grosse poignée de cheveux, l'a fourrée sous son oreiller, puis s'est aussitôt rendormie.
+<ranger_hero> s'est excusée avec une insistance assez peu caractéristique de son personnage, allant même jusqu'à me montrer comment tresser du crin de cheval avec ma propre chevelure afin de masquer la zone dégarnie. Elle prétend ne pas se souvenir du rêve ayant pu provoquer une telle réaction. Mais je demeure sceptique...",,,,
+"$ENTRY_JOURNAL_AZRA_BY_SLAK_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_AZRA_BY_SLAK_LEFT_0_00",,,,"Jour 10 - <mcguffin_hero> elle est trop naze !",,,,
+"$ENTRY_JOURNAL_AZRA_BY_SLAK_LEFT_0_10",,,,"<N>ALORS TU CROIS QUE C'EST PARCE QUE JE PEUX PAS LIRE TA LANGUE DE PROUT-PROUT-J'ME-LA-PÈTE QUE JE COMPRENDS PAS CE QUE T'AS ÉCRIT SUR MOI ?
+EH BEN TU SAIS QUOI, PRINCESSE ? ON VA ÉCRIRE UNE NOTE DANS TON JOURNAL SUR TOI !
+ALORS QUE DIRE DE <mcguffin_hero_up> ? QUE SON VISAGE EST TELLEMENT FIN QU'ON DIRAIT UN POISSON ? OU ALORS QUE SON COU IL EST GRAVE TROP TROP TROP LONG POUR SON CORPS ?
+ET PUIS SES OREILLES, ON DIRAIT DEUX ABRICOTS TROP MÛRS ! ET SES CHEVEUX, ILS SONT MOCHES ET TOUT FILASSES ! ET SON HYGIÈNE PERSONNELLE EST LOIN D'ÊTRE AUSSI PARFAITE QU'ELLE LE PENSE.",,,,
+"$ENTRY_JOURNAL_AZRA_BY_SLAK_RIGHT_0_00",,,,"ALORS, ÇA TE FAIT QUOI, PAUVRE NAZE ? MAINTENANT AU MOINS, JE SAIS QUI SONT MES VRAIS AMIS !
+
+CORDIALEMENT,
+<ranger_hero_up> QUI MANGE SON CACA
+<berserker_hero_up> POURQUOI IL EST SI LONG À ÉCRIRE MON NOM ?",,,,
+"$ENTRY_JOURNAL_KARSK_BURNED_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_KARSK_BURNED_LEFT_0_00",,,,"Nuit 7 - L'incendie de Karsk",,,,
+"$ENTRY_JOURNAL_KARSK_BURNED_LEFT_0_10",,,,"La mort ne m'est pas étrangère. Les neuf derniers mois de peste dans la capitale m'ont arraché le peu d'ignorance infantile que ma position privilégiée avait pu m'accorder sur le sujet. Mais jamais auparavant je n'avais assisté à si violente destruction. Même les bûchers de cadavres devant les Portes du Temple font pâle figure en comparaison.
+Je ne trouve pas les mots...
+Je comprends un peu mieux aujourd'hui la nature de notre ennemi.",,,,
+"$ENTRY_JOURNAL_LAKSOS_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_LAKSOS_LEFT_0_00",,,,"Jour 8 - Laksos",,,,
+"$ENTRY_JOURNAL_LAKSOS_LEFT_0_10",,,,"Nous avons été témoins d'un étrange rituel nomade à Laksos. Il s'agissait de fêter la naissance du nouvel enfant du chef des Karada, une tribu mineure mais encore fonctionnelle. Les parents ont présenté l'enfant devant deux grandes idoles de bois. Le chef a ensuite sorti un petit bloc de bois qu'il a déposé sur la tête de chaque idole, puis sur la tête de l'enfant. Il a alors pris un petit couteau, et a entrepris de graver le bloc, en laissant les copeaux tomber sur le visage de l'enfant. Une fois son travail terminé, il a accroché sa gravure à un tendon d'animal et l'a placée autour du cou de l'enfant.
+Il y a eu un grand cri, et tous les membres de la tribu présents se sont soudain mis à danser, à chanter et à faire la fête à la manière typiquement grivoise des Nomades. Je n'ai jamais réussi à voir ce que le chef avait gravé.
+J'ai plus tard demandé à <ranger_hero> quel était le sens de ce rituel, et elle m'a montré le petit renard en bois qu'elle porte autour du cou.",,,,
+"$ENTRY_JOURNAL_LAKSOS_RIGHT_0_00",,,,"Elle m'a expliqué que son esprit est le serviteur de ses dieux tribaux, et qu'il lui a été offert à la naissance afin de lui servir de gardien et de guide, destiné à être enterré avec elle à sa mort afin de lui garantir l'accès au Paradis. Tout comme les dieux tribaux auraient été offerts par le Créateur à l'époque de la genèse de la tribu, les esprits personnels sont offerts à chaque membre de la tribu à leur naissance.
+J'ai demandé à <ranger_hero> si la perte d'une idole personnelle était aussi catastrophique pour un individu que la perte des idoles tribales pour une tribu. Elle a souri et m'a montré sept idoles arrachées à ses ennemis, en m'expliquant que leurs âmes passeraient plusieurs âges à lutter pour trouver par eux-mêmes le Paradis. Je lui ai demandé si cela ne la dérangeait pas d'avoir infligé un tel sort à des compatriotes nomades, et elle m'a jeté un regard glacé, avant de me demander si cela ne me dérangeait pas d'avoir des oreilles trop grandes pour mon visage. Puis elle est partie en entonnant un chant parlant de manger des langues de chèvres...
+Je pense qu'un jour, je vais lui défoncer le crâne à l'aide d'un caillou.",,,,
+"$ENTRY_JOURNAL_OZIMAL_DEAD_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_OZIMAL_DEAD_LEFT_0_00",,,,"Jour 10 - La mort d'Ozimal",,,,
+"$ENTRY_JOURNAL_OZIMAL_DEAD_LEFT_0_10",,,,"Je pensais que la mort d'Ozimal m'apporterait une certaine forme de satisfaction. Je me trompais.
+Il n'était rien de plus qu'un autre cadavre traînassant à l'œil vitreux, soumis à la volonté de notre ennemi. Un pion, même avant sa mort... Le monde a été débarrassé d'un homme cruel et vicieux. Ici, dans la Fosse, y aura-t-il seulement quelqu'un pour s'en apercevoir ?",,,,
+"$ENTRY_JOURNAL_MONASTERY_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_MONASTERY_LEFT_0_00",,,,"Nuit 10 - Le Monastère",,,,
+"$ENTRY_JOURNAL_MONASTERY_LEFT_0_10",,,,"Je suppose qu'il était stupide de ma part d'espérer que quoi que ce soit dans la Fosse puisse ressembler à chez moi, mais j'ai tout de même été choquée de découvrir ici le Monastère de Selini. Il s'agit d'une structure menaçante et imposante, qui tient plus de la forteresse que du temple. Je comprends bien la nécessité de telles précautions, mais il m'est difficile de concilier cela avec la Fontaine du Temple auprès de laquelle j'ai grandi, et où même les gardes sont équipés d'armes émoussées, de peur de semer le chaos et la destruction sur le lieu de naissance de l'harmonie.
+Qu'il était rassurant de plonger les mains dans la Fontaine, en sachant que je me trouvais au même endroit que tant de croyants avant moi, et ce en remontant jusqu'à Selinadt lui-même ! Là, je n'étais qu'une humble servante, uniquement séparée des rois et des prophètes par le temps.
+<LQ>Tout comme l'eau s'élève sous forme de brume au-dessus de la vallée, tombe sous forme de neige sur les",,,,
+"$ENTRY_JOURNAL_MONASTERY_RIGHT_0_00",,,," montagnes, s'engouffre dans les rivières jusqu'à la mer, chaque homme également, né de la même essence, doit servir les différents rôles de son époque et de son poste, afin d'atteindre l'harmonie au sein de la Machine Céleste.<RQ>
+Je m'interroge à présent sur le rôle que je suis censée jouer en ce lieu terrible et dépourvu de lois, où l'harmonie et la sagesse ne semblent plus être que de lointaines chimères...
+On peut trouver un certain réconfort, je suppose, dans ce temple-forteresse. Ces moines n'y remplissent-ils pas leur rôle ? Ces murailles imposantes et ces défenses de temps de guerre ne sont rien d'autre que les adaptations qui permettent à l'esprit de Selinadt d'être servi ici, en ce lieu d'anarchie. Comme l'a dit lui-même le grand homme, <LQ>La vérité reste la vérité, quelle que soit la langue dans laquelle elle est écrite<RQ>. Ces défenses ne sont rien d'autre que le langage de la Fosse. La vérité qui s'y trouve demeure vraie.",,,,
+"$ENTRY_JOURNAL_BAKAL_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_BAKAL_LEFT_0_00",,,,"Jour 11 - L'Ancien <healer_hero>",,,,
+"$ENTRY_JOURNAL_BAKAL_LEFT_0_10",,,,"Le Vénérable Ancien <healer_hero> est une oasis de raison au sein de cet antre du chaos. Même si la vitesse de notre fuite ne nous accorde guère de temps pour la conversation, les quelques mots que j'ai pu échanger avec lui m'ont grandement réconforté.
+J'aimerais pouvoir lui en offrir autant en retour. Il semble qu'une angoisse interne le tourmente. Je l'aperçois de temps en temps qui rôde derrière son visage placide de moine. Il est clair qu'il a autrefois été soldat : ses cicatrices, sa posture et ses manières trahissent une vie de guerrier.
+J'ai découvert au Monastère qu'il n'est en fait pas membre du clergé, même si tous ceux qui le connaissent l'appellent toute de même Vénérable Ancien. En fait, il n'occupe aucune position d'autorité, du moins pas officiellement. Pourtant, ses pairs viennent régulièrement lui demander conseil et lui obéissent comme s'il était leur supérieur. Le Seigneur Abbot lui-même m'est apparu comme n'étant rien d'autre qu'un proche disciple...",,,,
+"$ENTRY_JOURNAL_BAKAL_RIGHT_0_00",,,,"L'aventure actuelle semble autant agiter qu'inspirer <healer_hero>, comme si son âme était dans la balance. Je comprends à présent pourquoi <ranger_hero> le craint. De temps à autre, j'aperçois une détermination dans ses yeux qui pourrait rivaliser avec celle de notre poursuivant. J'espère juste que <healer_hero> sera un jour capable de trouver pour lui-même la paix qu'il apporte aux autres.",,,,
+"$ENTRY_JOURNAL_WRENNA_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_WRENNA_LEFT_0_00",,,,"Jour 13 - <mage_hero_fu>",,,,
+"$ENTRY_JOURNAL_WRENNA_LEFT_0_10",,,,"La description de la royauté de Quaid par Polimon n'est pas exagérée. <mage_hero> est effectivement <LQ>plus pâle que la lune et deux fois plus distante.<RQ>. Et si je peux me permettre de compléter un classique, j'ajouterais <LQ>quatre fois plus changeante<RQ>. Je n'ai jamais vu quelqu'un basculer entre diverses phases de la folie avec une telle célérité. Même <berserker_hero> demeure cohérent dans sa propre folie. <mage_hero> est un océan furieux. Un instant, elle paraît d'une intelligence diabolique, et l'instant d'après d'une naïveté désespérante. Souvent, ses actions donnent l'impression de n'être qu'une ruse habilement jouée, mais dès que j'ai l'impression de voir mes doutes se confirmer, elle se laisse emporter par une dangereuse démence infantile à laquelle aucun acteur rationnel n'oserait s'exposer.
+Parfois j'ai l'impression de voir transparaître derrière cette folie une jeune fille qui me ressemble : effrayée, seule et soudainement dotée de pouvoirs terrifiants. Je me demande si elle est elle-même capable de le percevoir...",,,,
+"$ENTRY_JOURNAL_NOMADS_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_NOMADS_LEFT_0_00",,,,"Jour 14 - Les Nomades",,,,
+"$ENTRY_JOURNAL_NOMADS_LEFT_0_10",,,,"J'ai trouvé très intéressant de pouvoir observer par moi-même les tribus nomades, les populations indigènes qui occupent les steppes et les montagnes situées entre les cités d'Ash et l'Empire de Quaid. Plus d'une centaine de tribus différentes ont été référencées par Kantimal Polimon au cours de sa grande excursion dans l'est, même si je soupçonne que la majeure partie d'entre-elles aient été perdues dans les ravages de la guerre. Ici, dans la Fosse, j'ai rencontré les membres de vingt-sept* tribus différentes. Il est impossible de dire combien d'autres ont survécu dans le monde extérieur.
+Comme leur nom le suggère, les tribus ont adopté un mode de vie nomade, élevant des chèvres et des chevaux à travers les steppes. Bien peu d'éléments de ce mode de vie ont pu être repris au sein de la Fosse, où la protection nécessite des défenses permanentes.",,,,
+"$ENTRY_JOURNAL_NOMADS_LEFT_0_20",,,,"<N>* Moins de la moitié fonctionnent encore réellement en tant que tribus.",,,,
+"$ENTRY_JOURNAL_NOMADS_RIGHT_0_00",,,,"Les tribus fonctionnelles créent des villages tels que Karsk, et s'arrangent pour survivre avec quelques chèvres et une agriculture rudimentaire.
+Les Nomades sans attaches (ceux dont les tribus ont été détruites ou dispersées) trouvent refuge dans les installations plus cosmopolites telles que Laksos, ou deviennent des rangers, chargés de transmettre des messages et de protéger le commerce entre les villages de la Fosse.",,,,
+"$ENTRY_JOURNAL_DREAM1_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_DREAM1_LEFT_0_00",,,,"Jour 15 - Un rêve étrange",,,,
+"$ENTRY_JOURNAL_DREAM1_LEFT_0_10",,,,"Cela faisait bien longtemps que je n'avais pas rêvé de quoi que ce soit. Les sensations horrifiques du Monde à Mi-Chemin semblent tellement dominer mon esprit, que même dans mon sommeil, je ne perçois rien d'autre que leurs échos. Pourtant, la nuit dernière, pour la première fois depuis les visions enfiévrées de la maladie, j'ai rêvé.
+C'était un rêve si intense qu'il est parvenu à chasser de mon esprit les horreurs de tout ce dont j'ai été témoin. En fait, toutes les expériences de mes 23 années m'ont semblé s'estomper en sa présence.
+Je me tenais sur un balcon surélevé. Je n'étais pas moi-même. Mes bras étaient sombres et musclés, couverts d'étranges symboles et ornés de bracelets d'or. Ma robe était couverte d'une telle multitude de joyaux que la richesse d'une nation tout entière n'aurait pas suffit à égaler ne serait-ce que la parure de son ourlet.",,,,
+"$ENTRY_JOURNAL_DREAM1_RIGHT_0_00",,,,"La lune était basse dans le ciel, gigantesque et d'un rouge incandescent. J'aurais pu tendre le bras et la caresser de la pointe de mes doigts.
+Une voix m'appela, et je me tournais. Il y avait un homme à côté de moi sur le balcon. Il était grand, plus grand que n'importe quel homme que j'aie jamais croisé. Sa chevelure et sa barbe étaient d'un noir de jais, longues et ornées d'anneaux d'or. Sa présence semblait rendre le monde terne et insignifiant.
+Il me regarda avec des yeux d'onyx, et je compris que nous ne faisions qu'un. Je décrochais la lune de feu, et je la partageais avec lui...
+Je me suis réveillée tremblante, la main agrippant mon cœur comme si je tenais encore cette lune rouge. J'ai été submergée par une telle nostalgie que j'en ai fondu en larmes. En cet instant précis, j'aurais pu faire n'importe quoi pour regagner ce rêve.
+",,,,
+"$ENTRY_JOURNAL_DESERT_FORTRESS_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_DESERT_FORTRESS_LEFT_0_00",,,,"Jour 17 - Joyau-du-Désert",,,,
+"$ENTRY_JOURNAL_DESERT_FORTRESS_LEFT_0_10",,,,"Je m'étais souvent demandé à quoi pouvaient ressembler les demeures de nos grands ennemis de l'est. La guerre nous était toujours apparue comme une terreur intangible dans la capitale, transmise uniquement par les rapports funestes des pertes journalières et les lamentations des nombreux vétérans mutilés mendiant dans les rues. Après une vie de peur informe, la vision d'une authentique cité quaidienne est une étrange expérience. Je suis frappée par la beauté et par l'ingéniosité de sa conception, mais plus que tout le reste, je suis choquée par son côté familier. J'y vois tous les détails qui marquent la vie d'une cité : les pavés usés des rues très fréquentées, le monument agrémenté du vandalisme des jeunes générations, les étals du marché arrangés tout comme ils le seraient dans n'importe quelle autre cité.",,,,
+"$ENTRY_JOURNAL_DESERT_FORTRESS_RIGHT_0_00",,,,"Je n'ai aucun mal à imaginer mon propre père assis au coin de la rue, riant, jurant et échangeant des histoires avec les autres hommes de la cité.
+Pourtant, les habitants de ce lieu ont détruit Terna et exterminé toute sa population... Hommes, femmes et enfants.",,,,
+"$ENTRY_JOURNAL_MARKOS_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_MARKOS_LEFT_0_00",,,,"Jour 18 - <knight_hero>",,,,
+"$ENTRY_JOURNAL_MARKOS_LEFT_0_10",,,,"Me suis-je donc à ce point habituée à vivre en compagnie de forcenés qui ne croient plus en la raison ?
+<knight_hero> est courtois, intelligent, globalement bien intentionné, parfois même amusant... Et il est même convaincu des vertus de l'hygiène personnelle ! Mais on dirait que cela ne suffit encore pas à me convaincre.
+Il doit bien y avoir un problème chez lui ! Un tic, une lubie, une quelconque irrationalité. S'il y a bien une chose que j'ai apprise au cours de cette aventure, c'est que la normalité n'existe pas dans la Fosse.
+C'est sa moustache, n'est-ce pas ? Il doit dissimuler sa folie derrière sa moustache...",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_1_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_1_LEFT_0_00",,,,"Jour 19",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_1_LEFT_0_10",,,,"À l'intention de milady <mcguffin_hero> Livbar, de la part de <knight_hero_fu> Kashantir, Chevalier de l'Ost d'Ash.
+Milady, avec l'extrême déférence que je dois à votre position de commandant de cette troupe, je souhaiterais émettre quelques réserves concernant le choix de votre compagnie. Pour être plus précis, je ne pourrai garantir votre sécurité, ou du moins la sécurité de la globalité de cette entreprise, tant que nous persisterons à nous encombrer de <mage_hero_fu> Lan Laxmi.
+Vous pouvez persister à m'assurer qu'elle n'est <LQ>pas si mauvaise que cela<RQ> et que la Guerre Quaidienne est terminée, mais je peux vous certifier qu'elle n'est clairement pas terminée pour elle ! Elle fait preuve d'un dévouement fanatique envers quelque chose qui n'existe même plus. Il n'y a aucune structure de commandement pour tenir en laisse sa démence.",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_1_RIGHT_0_00",,,,"Si <mage_hero_fu> en venait à se convaincre que la gloire de Quaid nécessiterait de nous couper à tous la gorge pendant notre sommeil, aucun membre de notre compagnie ne vivrait assez longtemps pour voir un nouveau jour se lever. Je vous recommande de trancher les liens avec elle au plus vite, et avec autant de délicatesse que possible.
+Votre humble serviteur,
+<knight_hero_fu> Kashantir",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_2_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_2_LEFT_0_00",,,,"Nuit 19 - Lettre à <knight_hero_fu>, premier jet",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_2_LEFT_0_10",,,,"Cher <knight_hero_fu>,
+En réponse à votre lettre, je souhaiterais vous faire remarquer trois choses.
+Tout d'abord, pourquoi m'écrire une lettre alors qu'il vous suffirait de vous rapprocher de trois mètres pour venir me parler en personne ? Y a-t-il un problème avec mon hygiène personnelle ? Les autres se moquent-ils de moi en secret à ce propos ?
+Ensuite, pourriez-vous arrêter de m'appeler milady ?
+Enfin, laissez tranquille <mage_hero>, sinon je... Je ne sais pas trop. Mais je pourrais mettre le feu à vos favoris, ou quelque chose dans le genre !",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_2_RIGHT_0_00",,,,"P.S. : Je rigolais à propos de vos favoris. Jamais il ne me viendrait à l'idée d'y mettre le feu, car sans eux vous auriez vraiment une drôle d'allure, et je serais obligée de vous trouver un nouveau surnom pour parler de vous dans votre dos, ce qui serait dommage vu que je trouve que M. Magnifistache sonne plutôt bien. Enfin bref, ce que je veux dire, c'est que <mage_hero_fu> a beaucoup souffert, et que vous feriez mieux de vous en prendre à quelqu'un qui le mérite, comme <berserker_hero_up>, qui semble s'imaginer que je n'ai pas remarqué qu'il est en train de lire par-dessus mon épaule, en dépit du fait qu'il ne soit qu'un crétin congénital qui pue la",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_2_RIGHT_0_10",,,,"<N><N>JE VOUS AIME <knight_hero_up> JE VEUX ME MARIER AVEC VOTRE MOUSTACHE MÊME SI VOUS ÊTES PAS AUSSI FANTASTIQUE QUE <berserker_hero_up> ET QUE EN PLUS VOUS PORTEZ UNE JUPE
+AH AH AH AH ! ÉPOUSEZ-MOI !!!",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_3_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_3_LEFT_0_00",,,,"Jour 20",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_3_LEFT_0_10",,,,"Milady <mcguffin_hero_fu>,
+J'imagine que je n'étais pas censé recevoir votre dernière lettre, étant donné qu'elle m'a été délivrée par <berserker_hero_fu>, qui a par la suite été poursuivi à travers tout le campement et frappé à de multiples reprises avec une louche par vos soins.
+Tout cela pour dire que je vous retourne ladite lettre sans l'avoir lue. Je vous prierai de soigneusement laver cette louche avant de chercher à vous en servir à nouveau. Merci.
+P.S. : M. Magnifistache ? Vraiment ? Vous n'avez pas pu trouver mieux ?
+<knight_hero_fu> Kashantir",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_SLAK_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_SLAK_LEFT_0_00",,,,"Jour 21",,,,
+"$ENTRY_JOURNAL_LETTER_MARKOS_SLAK_LEFT_0_10",,,,"HÉ <mcguffin_hero_up> C'EST <knight_hero_up>
+JE VEUX TES BÉBÉS PARCE QUE JE SUIS UNE FILLE C'EST POUR ÇA QUE JE PORTE UNE JUPE ET PUIS <berserker_hero_up> IL DÉCHIRE TROP
+SALUTATIONS
+<knight_hero_up> LE VRAI",,,,
+"$ENTRY_JOURNAL_LETTER_AZRA_SLAK_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_LETTER_AZRA_SLAK_LEFT_0_00",,,,"Nuit 21",,,,
+"$ENTRY_JOURNAL_LETTER_AZRA_SLAK_LEFT_0_10",,,,"Cher <berserker_hero_fu>,
+Si vous lisez ceci, cela signifie que vous vous êtes une fois de plus faufilé dans ma tente afin de venir souiller mon journal et/ou de tenter de vous faire passer pour quelqu'un que vous n'êtes pas. Eh bien cela ne marchera pas cette fois ! Vous voyez ce rabat de tente, derrière vous ? Essayez de deviner ce qui se trouve de l'autre côté. Allez, je vous donne un indice : c'est armé d'une louche, et ça ne vous apprécie pas beaucoup.",,,,
+"$ENTRY_JOURNAL_LETTER_AZRA_SLAK_LEFT_0_20",,,,"HA HA ! J'AI FAILLI TE CROIRE PENDANT UNE SECONDE MAIS DE TOUTE MANIÈRE JE M'APPELLE <knight_hero_up> ET J'ADORE PORTER DES JOLIES ROBES ET PUIS DES SOUTI",,,,
+"$ENTRY_JOURNAL_NIRU_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_NIRU_LEFT_0_00",,,,"Nuit 22 - <dragon_hero>",,,,
+"$ENTRY_JOURNAL_NIRU_LEFT_0_10",,,,"J'ai eu bien des occasions d'entendre parler des dragons. Ma cousine a passé toute son enfance littéralement obsédée par ces créatures, et elle dévorait avidement toutes les légendes que je pouvais lui ramener de la bibliothèque, des postulats scientifiques de Polimon jusqu'aux contes des Nomades. Ces histoires m'étaient ensuite régurgitées d'une manière typiquement enfantine : à l'envers, embrouillées, et sans prendre le temps de respirer.
+En dépit de la qualité de ces comptes-rendus, une bonne partie des informations ont tout de même réussi à se trouver une place dans un recoin de mon esprit. Et aujourd'hui, alors que je tiens compagnie à un dragon en chair et en os, ces leçons de l'enfance me reviennent par vagues.
+Au fil de cette aventure, j'ai appris à m'attendre à ce que mes idées préconçues soient particulièrement inexactes face à la nature réelle de mes sujets d'étude. Cependant, dans ce cas précis, mon éducation s'avère tout à fait juste : <dragon_hero> n'est qu'un lézard",,,,
+"$ENTRY_JOURNAL_NIRU_RIGHT_0_00",,,," surdimensionné, gras, cupide, égoïste et hautain, qui n'aspire qu'à l'accumulation de butin et s'enivre d'illusions de divinité.<N><N>Une créature aussi puissante constitue effectivement un danger très réel. Elle n'aurait aucun scrupule à dévorer les membres de notre compagnie, habituée qu'elle est à tuer tout ce qui l'importune un tant soit peu, ainsi qu'à traiter tout ce qui est <LQ>mortel<RQ> comme inférieur.
+La supériorité est souvent la championne de l'ignorance. <dragon_hero> a en sa possession un <LQ>gobelet à taille de dragon<RQ> qu'elle chérit tout particulièrement. Si elle avait un tant soit peu connaissance de la langue écrite d'Ash, elle saurait que l'inscription qui orne l'artefact en question indique qu'il s'agit en fait du <LQ>Pot de Chambre du Seigneur Redamal<RQ>. Lorsqu'elle en arrive à vraiment m'exaspérer avec ses grands airs, il me suffit de songer avec jubilation à l'usage qu'elle fait de ce <LQ>gobelet<RQ>...",,,,
+"$ENTRY_JOURNAL_NIRU_LEFT_1_00",,,,"Nuit 24 - Addendum",,,,
+"$ENTRY_JOURNAL_NIRU_LEFT_1_10",,,,"En dépit de son ambivalence générale eut égard à tout ce qui n'est pas elle-même, <dragon_hero> semble être une mère particulièrement attentionnée.
+Lorsque je la vois se faire du souci à propos du bien-être de sa couvée, je ne peux m'empêcher de songer à ma propre mère. Il est assez étrange d'avoir de telles pensées à propos d'un monstre gigantesque qui menace quotidiennement de vous immoler ou de vous dévorer, mais c'est néanmoins mon ressenti.
+Je suis conscience qu'une telle marque de sympathie pourrait causer ma perte, mais j'arrive à peine à concevoir le sentiment de perte qu'elle doit éprouver envers ses jeunes que les Revenants ont emportés. Il semblerait que cette grande tragédie de notre époque affecte même les plus puissants et les plus distants d'entre nous...",,,,
+"$ENTRY_JOURNAL_DREAM2_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_DREAM2_LEFT_0_00",,,,"Jour 25 - Le second rêve",,,,
+"$ENTRY_JOURNAL_DREAM2_LEFT_0_10",,,,"J'ai encore fait ce rêve, la nuit dernière. Sa forme était différente, mais j'ai bien senti qu'il s'agissait du même rêve... Ou du moins, j'étais la même rêveuse.
+Je me tenais dans un grand hall. Ses murs se dressaient si loin au-dessus de moi que le plafond était fait de nuages. Chacun des murs brillait comme de l'or et était serti de merveilleux joyaux à perte de vue. Entre les mains, je tenais une coupe ornée de somptueuses gravures, sombre comme le vin et froide au toucher.
+Malgré toutes les merveilles qui m'entouraient, je chérissais cette coupe plus que tout le reste, et je la transportais avec délicatesse, de peur de perdre la moindre goutte de son contenu.
+Soudain, le hall s'assombrit, et une meute crasseuse surgit de nulle part. Je fus frappée, malmenée, et la coupe me fut arrachée des mains. Je hurlais et j'extirpais une longue dague de mes robes, frappant et fendant jusqu'à ce que le hall soit noirci de leur sang.",,,,
+"$ENTRY_JOURNAL_DREAM2_RIGHT_0_00",,,,"En dépit de ses pertes, la cohue me submergea, et finit par m'expulser du hall, jusqu'à une antichambre lugubre. J'eus beau lutter, la horde riposta jusqu'à ce que je sois totalement brisée. Alors que je m'effondrais, la meute se précipita dans le hall, avide de pouvoir arracher les joyaux étincelants des murs. Je restais allongée un temps, me croyant morte. Lorsqu'enfin je pus me remettre sur pieds, le hall était désert. Les murs avaient été brisés et démantelés, et tout était recouvert de suie et de crasse. J'eus beau chercher, la coupe demeura introuvable. J'errais dans le hall pendant une éternité, appelant de toutes mes forces, mais j'étais seule. On m'avait pris la coupe.
+Je m'assis dans les ruines, et je pleurais.",,,,
+"$ENTRY_JOURNAL_ZELEMIR_DEAD_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_ZELEMIR_DEAD_LEFT_0_00",,,,"Jour 28 - La mort de Zelemir",,,,
+"$ENTRY_JOURNAL_ZELEMIR_DEAD_LEFT_0_10",,,,"Le régicide suscite d'étranges sensations. Je suis consciente d'avoir fait ce que la raison dictait, mais j'ai tout de même fait couler le sang de la lignée royale d'Ash. Il avait dévié de sa route au point de mettre en danger la totalité de l'ordre des choses. Néanmoins, ce sentiment me hante encore. J'ai véritablement tué un homme de chair et de sang, pour la première fois.
+<mage_hero> oscille entre l'allégresse et la colère, maudissant son nom comme si elle pouvait le tuer à nouveau. Je suppose qu'il ne s'agit pas là d'un vain désir, comme tenu de nos occupations de ces dernières semaines...
+Ce qui me hante le plus, ce sont les Revenants qui continuent à nous traquer. Leur chef et créateur est mort. Comment sa volonté peut-elle continuer à les animer ?
+Je pose cette question, mais j'en connais déjà la réponse, même si je refuse de l'admettre. Ce n'est pas par sa volonté... La sensation est différente. Une autre",,,,
+"$ENTRY_JOURNAL_ZELEMIR_DEAD_RIGHT_0_00",,,," main les guide.<N><N>J'ai perçu l'étrange pouvoir dont Zelemir a parlé, le mal scellé par le sang du sacrifice... Eztli-Tenoch.",,,,
+"$ENTRY_JOURNAL_DREAM3_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_DREAM3_LEFT_0_00",,,,"Jour 29 - Le troisième rêve",,,,
+"$ENTRY_JOURNAL_DREAM3_LEFT_0_10",,,,"J'ai encore rêvé la nuit dernière.
+Je me trouvais en un lieu désolé. Devant moi se dressait un gigantesque cristal d'au moins 30 mètres de haut. J'étais en larmes. Les larmes dégoulinaient sur tout mon corps, sur mon or et mes amulettes, avant de toucher le sol. Elles s'insinuaient à travers la terre poudreuse jusqu'au cristal, et c'est alors que je réalisais qu'il ne s'agissait plus de larmes, mais de ruisselets de sang.
+À mes pieds gisaient de nombreux cadavres, hommes, femmes et enfants. Mes mains étaient couvertes de leurs entrailles. Je me retournais, et je vis une armée derrière moi, maculée de sang tout comme moi. Les soldats attendaient que je parle.
+Je levais au ciel mes bras écarlates, et je criais d'une voix aussi puissante que le tonnerre.",,,,
+"$ENTRY_JOURNAL_DREAM3_RIGHT_0_00",,,,"L'armée reprit mon cri. Il s'agissait d'un mot que je n'avais jamais entendu, mais j'en connus aussitôt le sens. Ce mot signifiait <LQ>sang<RQ>. Le cri s'amplifia, au point de faire trembler la terre.",,,,
+"$ENTRY_JOURNAL_THRONE_ROOM_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_THRONE_ROOM_LEFT_0_00",,,,"Jour 35 - Le trône d'Eztli",,,,
+"$ENTRY_JOURNAL_THRONE_ROOM_LEFT_0_10",,,,"<berserker_hero> est nonchalamment installé sur le trône tandis que j'écris ces lignes. Le trône d'Eztli-Tenoch...
+Cet acte m'a tout d'abord mise profondément mal à l'aise. Mais après tout, pourquoi ? Quelle forme de respect doit-on au mal ? Cet homme doré n'est rien d'autre qu'un petit tyran aspirant à devenir un dieu. Il y a quelque chose de fondamentalement pathétique dans ce genre de mal. Cela relève de la même folie des grandeurs que chez ceux qui aspirent à devenir de grands hommes. Il suffit de regarder cet endroit : un palais entier conçu dans le seul but de renforcer une image créée par lui-même. Regardez-moi, semble-t-il hurler, je suis le vrai visage du pouvoir ! Eztli-Tenoch le dieu, impuissant dans sa cage de cristal...
+Pourtant, une autre partie de moi parvient à le comprendre. Une partie qui a déjà parcouru ces couloirs, qui a connu la divinité... J'ai siégé à ses côtés, en prenant de haut la populace. J'ai ressenti notre aspiration divine.",,,,
+"$ENTRY_JOURNAL_THRONE_ROOM_RIGHT_0_00",,,,"C'est peut-être ce goût, venu à moi en rêve, qui suscite mon dédain. J'ai vu à la fois ce qu'il est, et ce qu'il s'imagine être.",,,,
+"$ENTRY_JOURNAL_ANTIAZRA_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_ANTIAZRA_LEFT_0_00",,,,"Jour 37 - Tletl-Meztli",,,,
+"$ENTRY_JOURNAL_ANTIAZRA_LEFT_0_10",,,,"Je n'ai qu'une compréhension très superficielle, du moins dans les faits, de ce qui s'est produit dans la salle au trésor.
+Je me suis vue mourir, ou du moins une version de moi... Tletl-Meztli, la lune de feu. Regarder quelqu'un d'autre en pouvant affirmer <LQ>j'ai été cette personne<RQ> suscite une très étrange sensation. Mais c'est bien le cas. Le pouvoir, la perte, la vengeance... J'ai vécu, du moins en partie, les choses qui ont fait d'elle ce qu'elle était. Et je viens d'assister au sacrifice qui a causé sa perte.",,,,
+"$ENTRY_JOURNAL_ESCAPE_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_ESCAPE_LEFT_0_00",,,,"Jour 39 - Fuir ?",,,,
+"$ENTRY_JOURNAL_ESCAPE_LEFT_0_10",,,,"Zelemir est de retour. Et il est porteur d'une offre des plus insidieuses : notre liberté, le salut du monde. Tout cela au prix de quelques milliers de vies. Une goutte de plus dans cet océan de sang en furie...
+<dragon_hero> est hors d'elle. <mage_hero> en a quasiment la bave aux lèvres.
+Voilà notre occasion de nous échapper !
+Chaque choix présente des dangers qui lui sont propres. En m'opposant à Zelemir, je risque ma vie, ainsi que les vies de tous ceux qui périront face à un Eztli-Tenoch libéré. Je mets en péril le destin du monde ! Mais en lui permettant de mener à bien son plan, c'est mon âme que je mettrai en péril.
+Je souhaiterais avoir succombé à Ash... Tout plutôt que de devoir faire un tel choix.",,,,
+"$ENTRY_JOURNAL_FOLLOWING_ZELEMIR_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_FOLLOWING_ZELEMIR_LEFT_0_00",,,,"Jour 40 - Suivre Zelemir",,,,
+"$ENTRY_JOURNAL_FOLLOWING_ZELEMIR_LEFT_0_10",,,,"Je ne peux plus considérer la solution de Zelemir comme de la démence. Elle est le fruit d'un raisonnement logique, d'une réflexion censée... L'œuvre d'un maître stratège cherchant à mettre un terme à une terrible malédiction.
+Et elle est abominable.
+Celui qui combat le chaos par le meurtre d'innocents trahit sa propre cause.
+Je l'ai combattu par le passé. Je recommencerai autant de fois qu'il le faudra pour protéger la population. Ou bien je périrai en tentant de le faire.",,,,
+"$ENTRY_JOURNAL_EPILOGUE_TITLE",,,,"",,,,
+"$ENTRY_JOURNAL_EPILOGUE_LEFT_0_00",,,,"Épilogue",,,,
+"$ENTRY_JOURNAL_EPILOGUE_LEFT_0_10",,,,"Quelle étrange sensation que de pouvoir rester immobile en disant <LQ>Il n'y a rien qui cherche à me tuer en ce moment<RQ>. Je ne suis pas encore vraiment sûre d'y croire. Je m'attends encore à ce que des moutons enragés surgissent au détour d'un couloir de la bibliothèque et se mettent à me charger. Pour l'instant, je n'ai croisé qu'une souris, dont je me suis rapidement débarrassée avec l'aide de l'imposant Traité de Polimon sur le Bon Fonctionnement des Plantes.
+<knight_hero> passe très régulièrement à la bibliothèque. Le mois dernier, il a demandé à consulter quasiment tous les traités militaires que j'ai pu lui trouver, mais ayant épuisé tous les sujets sensibles, il s'intéresse désormais à tout ce que je peux lui dénicher sur une étagère. Il me semble que le dernier ouvrage qu'il a consulté était un manuel sur l'élevage des furets qu'il a, j'en suis persuadée, choisi totalement au hasard. Il a ensuite passé toute la durée de sa visite à discuter avec moi plutôt qu'à lire. Je me doutais bien qu'il devait être un peu zinzin...",,,,
+"$ENTRY_JOURNAL_EPILOGUE_RIGHT_0_00",,,,"Enfin bon, il est tout de même agréable d'avoir quelqu'un à qui parler pendant que je restocke les étagères. Tant de livres ont fini comme combustible pendant la peste, que la bibliothèque en a été littéralement sinistrée. Les étagères étaient dans un état squelettique à mon arrivée...
+<knight_hero> a fait don de plusieurs ouvrages achetés aux marchands nomades, et j'ai reçu hier un mystérieux paquet adressé <LQ>POUR <mcguffin_hero_up> À SON BOULOT TROP RELOUD QUI EST CARRÉMENT MOINS DÉLIRE QUE LE MIEN OÙ QUE JE BUTE PLEIN DE TRUCS<RQ>.
+À l'intérieur se trouvaient plusieurs textes Occidentaux extrêmement rares vieux d'au moins trois siècles, ainsi qu'une série de dessins assez rudimentaires de petits bonshommes identifiés comme <LQ>MOI<RQ>, en train de tuer diverses monstruosités. Ces... œuvres seront préservées pour la postérité dans l'Aile Est récemment rénovée, aux côtés de ce compte-rendu, une fois qu'il sera terminé.
+Je me demande souvent ce que sont devenus mes anciens compagnons...",,,,
+"$ENTRY_JOURNAL_EPILOGUE_LEFT_1_00",,,,"Cela ne fait que deux mois, mais je sais que deux mois représentent des centaines d'aventures pour des gens comme <berserker_hero> et <ranger_hero>.
+Je n'ai eu que peu de nouvelles de <mage_hero>, même si de temps en temps des marchands nomades mentionnent <LQ>l'Impératrice des Ruines<RQ>, ce dont je déduis que sa campagne de reconquête se déroule bien.
+Je crains parfois pour sa vie... La peste et les Revenants ayant disparu, l'Empire de Quaid va devenir un territoire très attirant pour tous les aspirants seigneurs de guerre et les rois-bandits, sans parler des royaumes du Nord. Cependant, s'il y a bien quelqu'un qui pourrait affronter le monde entier et remporter la victoire le sourire aux lèvres, c'est <mage_hero>.
+<healer_hero> a regagné son monastère. Je reçois des lettres de temps en temps, me détaillant la lente transformation de la Fosse. Les marchands, les voyageurs et les pèlerins tracent progressivement des routes, mais il faudra sûrement encore longtemps pour que les stigmates de ce lieu ne s'estompent.",,,,
+"$ENTRY_JOURNAL_EPILOGUE_RIGHT_1_00",,,,"J'accepterai peut-être son invitation à passer lui rendre visite le mois prochain. La cité se reconstruit, et avec elle renaît la vie urbaine trépidante qui ne me fait plus vraiment vibrer.
+Mes yeux n'aspirent qu'à contempler des territoires vierges et l'horizon distant. Peut-être reste-t-il encore un peu d'aventurière en moi, finalement ? Je ne doute pas une seconde que <knight_hero> et ses gardes seraient prêts à m'accompagner, ce qui éliminerait quasiment tout danger, et que je devrais parvenir à le contraindre de chanter à nouveau, ce qui éliminerait toute forme d'ennui.
+Je pensais que <dragon_hero> s'était définitivement retirée du monde des <LQ>mortels<RQ>, mais je n'en suis plus aussi sûre... La semaine dernière, plusieurs livres reliés d'or ont été déposés sur le toit de la bibliothèque. Il faudrait vraiment être très doué pour l'escalade pour atteindre une telle hauteur en transportant un tel poids. Je me plais à penser que notre mystérieuse bienfaitrice était capable de voler, ce qui pourrait signifier qu'une certaine déesse auto-proclamée a dû trouver un compagnon pour entraîner ses enfants.",,,,
+"$ENTRY_JOURNAL_EPILOGUE_LEFT_2_00",,,,"C'est là une pensée heureuse, et je pense m'y accrocher.
+Je trouve étrange de discuter avec des personnes étrangères à notre petit groupe. Les rares à qui j'ai commencé à me confier se sont surtout moquées de mes récits, quand elles n'avaient pas déjà été abreuvées des versions déformées et largement exagérées répandues par les réfugiés.
+Ce matin, deux enfants m'ont arrêtée dans la rue pour me supplier de <LQ>faire fondre la tronche<RQ> d'une petite brute qui les tourmentait. On n'en sort pas... Un simple regard furieux a suffi à le faire détaler chez lui à toute vitesse pour changer son pantalon souillé, ce qui a finalement été encore plus apprécié par mon auditoire que n'aurait pu l'être un visage fondu. D'autres personnes se sont précipitées vers moi dans la rue pour me demander de soigner leurs cors au pied, de bénir leurs ânes, de maudire leurs voisins, et ainsi de suite...
+C'est peut-être pour cela que je suis si heureuse lorsque <knight_hero> me rend visite à la bibliothèque.",,,,
+"$ENTRY_JOURNAL_EPILOGUE_RIGHT_2_00",,,,"Nous ne parlons jamais de nos aventures passées, mais il y a une forme de compréhension, un terrain commun que je ne partagerai jamais avec quelqu'un n'ayant pas fait partie de notre compagnie.
+Je me demande si nous nous reverrons tous un jour...
+<mcguffin_hero> Yalkie Livbar",,,,
+"$ENTRY_JOURNAL_EPILOGUE_RIGHT_2_10",,,,"JE ME DEMANDE SI TU APPRENDRAS UN JOUR À MIEUX CACHER CE JOURNAL 
+HA HA SÛREMENT PAS PARCE QUE JE SUIS TROP MORTEL ET PUIS JE M'APPELLE <knight_hero_up> ET JE SUIS TOUT POURRI ET PUIS J'AIME BIEN METTRE DES JOLIES FLEURS DANS MES CHEVEUX QUAND JE DANSE AVEC MA PETITE JUPETTE VIOLETTE AVEC DES DENTELLES LA LA LALALA
+ET PUIS SÉRIEUX TOI AVEC <knight_hero_up> ÇA SE VOIT TROP GRAVE QUE T'AS TROP ENVIE QU'IL TE",,,,
+"$ENTRY_JOURNAL_EPILOGUE_RIGHT_2_20",,,,"<N><N><N>J'ai conservé la louche.",,,,

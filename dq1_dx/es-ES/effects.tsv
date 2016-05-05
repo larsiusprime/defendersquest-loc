@@ -1,0 +1,60 @@
+flag	name
+$FLAV_DAMAGE	Daño
+$FLAV_FRENZY	Frenesí
+$FLAV_FIRE	Fuego
+$FLAV_BURN	Quemadura
+$FLAV_POISON	Veneno
+$FLAV_EVER_POISON	Veneno constante
+$FLAV_TOXIC	Toxicidad
+$FLAV_EVER_TOXIC	Toxicidad constante
+$FLAV_WOUND	Herido
+$FLAV_BLEED	Sangría
+$FLAV_EVER_BLEED	Sangría constante
+$FLAV_BLINDED	Ceguera
+$FLAV_CONFUSED	Confusión
+$FLAV_DISEASE	Infección
+$FLAV_PSI_BURN	Abrasión de Psi
+$FLAV_INSPIRE	Inspirar
+$FLAV_INSPIRED_HIT	Golpe inspirado
+$FLAV_STUN	Aturdir
+$FLAV_SINGLE_STUN	Aturdir individual
+$FLAV_CHILL	Escalofrío
+$FLAV_SLOW	Ralentizar
+$FLAV_FREEZE	Congelación
+$FLAV_LIGHT	Luz
+$FLAV_AREA	Área
+$FLAV_DARK	Oscuro
+$FLAV_GROW_ARMOR	Aumentar armadura
+$FLAV_PHASED	Intermitente
+$FLAV_MAGIC	Mágico
+$FLAV_PHYSICAL	Físico
+$FLAV_PHYSICAL-RANGED	Físico a distancia
+$FLAV_MELEE	Cuerpo a cuerpo
+$FLAV_RANGED	A distancia
+$FLAV_UNDODGEABLE	Inevitable
+$FLAV_REDUCE_HEALTH	Diezmar
+$FLAV_ARMOR_PIERCE	Perf. armadura
+$FLAV_ARMOR_IGNORE	Ignorar armadura
+$FLAV_ARMOR_BREAK	Romper armadura
+$FLAV_CRITICAL	Crítico
+$FLAV_KNOCKBACK	Empujón
+$FLAV_KNOCK_BACK	Empujón
+$FLAV_AUTOKILL	Automuerte
+$FLAV_DEVOUR	Devorar
+$FLAV_STRIKE_THROUGH	Atravesar
+$FLAV_DE_INVINCIBLE	Sin invencibilidad
+$FLAV_DELAY_DAMAGE	Daño retrasado
+$FLAV_ANONYMOUS	Anónimo
+$FLAV_TROLL	Estado actual: TROLOLOLOL
+$FLAV_FB_HAPPY	Estado actual: ¡Feliz!
+$FLAV_FB_SAD	Estado actual: Triste.
+$FLAV_FB_LOL	Estado actual: ¡LOL!
+$FLAV_FB_OMG	Estado actual: ¡OMG!
+$FLAV_FB_EXISTENTIAL	Estado actual: Existencial.
+$FLAV_FB_BORED	Estado actual: Aburrido.
+$FLAV_PHYSICAL	Físico
+$FLAV_MAGIC	Mágico
+$FLAV_RANGED	A distancia
+$FLAV_PHYSICAL_RANGED	Físico a distancia
+$FLAV_PSI_SHIELD	Escudo de psi
+$FLAV_AREA	Área

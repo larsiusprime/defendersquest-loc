@@ -1,0 +1,144 @@
+"flag","nick_name","flavor_name","flavor_text",
+"$EN_NORMAL_NOMONEY_PLUS","NORMAL+","Revenant+","Cadavre réanimé|Dans la Fosse, les cadavres se relèvent souvent plusieurs jours après leur mort.
+Ces monstres sont appelés des « Revenants ».",
+"$EN_NORMAL_PLUS","NORMAL+","Revenant+","Cadavre réanimé|Dans la Fosse, les cadavres se relèvent souvent plusieurs jours après leur mort.
+Ces monstres sont appelés des « Revenants ».",
+"$EN_CULTIST_PLUS","PRÉDICATEUR+","Prédicateur+","Sanguinaire Transmuté|Le Culte des Sanguinaires a pris naissance au sein d'une secte nomade réputée pour ses cérémonies sanglantes.
+Lorsque cette religion a évolué vers la vénération hénothéiste de la divinité Eztli-Tenoch, ses disciples se sont mis à attaquer les autres tribus.
+Le plus gros de ce que l'on sait d'eux nous a été transmis par les survivants du massacre de la tribu Geka. Il est souvent fait mention de leur capacité à se transformer en Revenants à volonté.",
+"$EN_ARMORED CULTIST_PLUS","PRÊTRE+","Prêtre+","Prêtre Sanguinaire|Le Culte des Sanguinaires a pris naissance au sein d'une secte nomade réputée pour ses cérémonies sanglantes.
+Lorsque cette religion a évolué vers la vénération hénothéiste de la divinité Eztli-Tenoch, ses disciples se sont mis à attaquer les autres tribus.
+Le plus gros de ce que l'on sait d'eux nous a été transmis par les survivants du massacre de la tribu Geka. Il est souvent fait mention de leur capacité à se transformer en Revenants à volonté.",
+"$EN_INSANE CULTIST_PLUS","PRÉDICATEUR FOU+","Grand Prêtre+","Grand Prêtre Sanguinaire|Le Culte des Sanguinaires a pris naissance au sein d'une secte nomade réputée pour ses cérémonies sanglantes.
+Lorsque cette religion a évolué vers la vénération hénothéiste de la divinité Eztli-Tenoch, ses disciples se sont mis à attaquer les autres tribus.
+Le plus gros de ce que l'on sait d'eux nous a été transmis par les survivants du massacre de la tribu Geka. Il est souvent fait mention de leur capacité à se transformer en Revenants à volonté.",
+"$EN_NORMAL_EXP_PLUS","NORMAL+","Revenant+","Cadavre réanimé|Dans la Fosse, les cadavres se relèvent souvent plusieurs jours après leur mort.
+Ces monstres sont appelés des « Revenants ».",
+"$EN_NORMAL_EXP_PSI_PLUS","NORMAL+","Revenant+","Cadavre réanimé|Dans la Fosse, les cadavres se relèvent souvent plusieurs jours après leur mort.
+Ces monstres sont appelés des « Revenants ».",
+"$EN_NORMAL_W_PLUS","NORMAL+","Mal Aquatique+","Revenant Aquatique|Ces Revenants exsudent une substance poisseuse qui rend leur corps imperméable.
+Leur abdomen est rempli de gaz toxique, ce qui leur évite de couler.",
+"$EN_ARMORED_PLUS","CUIRASSÉ+","Chevalier Déchu+","Revenant Cuirassé|Ces Revenants sont d'anciens Chevaliers ayant péri au combat.
+Bien qu'ils n'aient rien conservé de l'intelligence et des compétences dont ils bénéficiaient de leur vivant, ils ont toujours leur armure.",
+"$EN_SPEEDY_PLUS","RAPIDE+","Ver+","Engeance Rapide de Revenant|Ces sortes de vers très rapides sont dotés de plusieurs rangées de crocs acérés.
+De nombreux témoins prétendent les avoir vus surgir du corps de gros Revenants enflés, après des semaines de putréfaction.",
+"$EN_SPEEDY_W_PLUS","RAPIDE+","Serpent+","Engeance Rapide Aquatique|On raconte que ces vers aquatiques seraient issus de corps de Revenants laissés à la dérive.
+D'autres suggèrent qu'ils proviendraient des cadavres des poissons et des serpents des rivières.",
+"$EN_ARMORED SPEEDY_PLUS","RAPIDE+","Ver Cuirassé+","Engeance Rapide Cuirassée|Ces vers ont développé une épaisse carapace. Une théorie voudrait que cette cuirasse soit composée des os digérés du cadavre originel.",
+"$EN_ARMORED_SPEEDY_W_PLUS","RAPIDE+","Serpent Cuirassé+","Engeance Rapide Cuirassée Aquatique|Ces vers aquatiques ont à la fois développé une capacité à nager et une épaisse carapace.
+Leur odeur d'os digérés et de gaz de décomposition est particulièrement écœurante.",
+"$EN_ATTACKER_PLUS","COMBATTANT+","Goule Folle+","Revenant Combattant|Certains Revenants sont plus agressifs que les autres.
+Alors que les Revenants standards s'obstinent à traquer une unique victime, ceux-ci s'en prennent véritablement à tout ce qui bouge.",
+"$EN_DARK ATTACKER_PLUS","CAMOUFLEUR+","Goule Noire+","Revenant Combattant Noir|Les gaz qui s'accumulent dans l'abdomen de ce Revenant s'échappent par les pores de sa peau, ce qui enveloppe la créature dans un épais nuage de fumée toxique qui le dissimule, tout en plongeant ses ennemis dans la confusion.",
+"$EN_ATTACKER_W_PLUS","COMBATTANT+","Goule des Rivières+","Revenant Combattant Aquatique|Les récits de cadavres puants surgissant des eaux pour attaquer les villageois assoiffés abondent dans la Fosse.
+Personne ne part jamais chercher de l'eau tout seul, et seuls les fous s'aventurent à piquer une tête...",
+"$EN_ARMORED ATTACKER_PLUS","COMBATTANT+","Chevalier Fou+","Revenant Combattant Cuirassé|Ces Chevaliers déchus sont aussi forts que vicieux.
+Leurs hurlements inhumains résonnent à travers les catacombes et vont se perdre dans le désert.",
+"$EN_APC_PLUS","DIVISEUR+","Monstruosité+","Hôte d'Engeance|Ces cadavres bouffis peuvent à peine se déplacer et semblent prêts à éclater à tout instant.
+Plusieurs bouches garnies de crocs émergent de leurs flancs. Ils sont également trop gros pour être repoussés ou dévorés.",
+"$EN_APC_W_PLUS","DIVISEUR+","Cadavre Fétide+","Hôte d'Engeance Aquatique|Ces Revenants puent comme un sac de poisson pourri qui aurait mariné dans des eaux d'égout...
+Ils flottent facilement, et semblent prêts à éclater à tout instant.",
+"$EN_ARMORED APC_PLUS","CUIRASSÉ DIVISEUR+","Bête Cuirassée+","Hôte d'Engeance Cuirassé|Une carapace géante protège cette monstrueuse masse de chair digérée. On la soupçonne d'être totalement dépourvue d'os.",
+"$EN_DOUBLE APC_PLUS","DOUBLE DIVISEUR+","Abomination+","Hôte d'Engeance Diviseur|Ce monstre étrange est à la fois décoloré et bouffi. Que cela peut-il signifier ?",
+"$EN_ARMORED RANGED ATTACKER_PLUS","À DISTANCE+","Chevalier Vipère+","Revenant Cracheur|Au fil des semaines, un étrange processus semble digérer et transformer le corps des Revenants.
+Des témoins affirment avoir été attaqués par des « hommes-serpent » dépourvus d'yeux et crachant une bile nauséabonde.",
+"$EN_RANGED ATTACKER_PLUS","À DISTANCE+","Goule Vipère+","Revenant Cracheur|Au fil des semaines, un étrange processus semble digérer et transformer le corps des Revenants.
+Des témoins affirment avoir été attaqués par des « hommes-serpent » dépourvus d'yeux et crachant une bile nauséabonde.",
+"$EN_RANGED ATTACKER_W_PLUS","À DISTANCE+","Goule Serpent+","Revenant Cracheur Aquatique|Au fil des semaines, un étrange processus semble digérer et transformer le corps des Revenants.
+Des témoins affirment avoir été attaqués par des « hommes-serpent » dépourvus d'yeux et crachant une bile nauséabonde.",
+"$EN_DARK_PLUS","OBSCUR+","Ver des Ombres+","Engeance Noire Rapide|Ces vers sont enveloppés dans une épaisse brume noire qui les rend quasiment impossibles à toucher.",
+"$EN_BRUTE_PLUS","CORIACE+","Ver de la Mort+","Engeance Coriace de Revenant|Ces créatures pâles apparentées à des vers se déplacent lentement, et sont dotées d'une peau cuireuse robuste à la place de l'habituelle membrane extérieure fragile.
+Bien que faciles à distancer, elles triomphent en général de leurs proies en les poursuivant sans relâche, jusqu'à l'épuisement.",
+"$EN_SHEEP_PLUS","MOUTON+","Mouton+","Délicieux Mammifère|Les Dragons peuvent rester des années sans manger, mais lorsqu'ils se nourrissent, ils peuvent engloutir plusieurs fois leur propre poids en une seule journée. Ce fait représente une source d'inconfort majeure pour les bergers nomades et pour leurs troupeaux.",
+"$EN_PSI SHEEP_PLUS","MOUTON+","Mouton+","Délicieux Mammifère|Les Dragons peuvent rester des années sans manger, mais lorsqu'ils se nourrissent, ils peuvent engloutir plusieurs fois leur propre poids en une seule journée. Ce fait représente une source d'inconfort majeure pour les bergers nomades et pour leurs troupeaux.",
+"$EN_SPEEDY SHEEP_PLUS","MOUTON RAPIDE+","Mouton Rapide+","Délicieux Mammifère Rapide|Certains moutons ont su s'adapter aux conditions hostiles de la Fosse en développant des muscles hautement spécialisés à contraction rapide. Ils ne leur sont pas très utiles pour échapper aux Dragons, mais ils leur permettent au moins de distancer les autres moutons.",
+"$EN_SUPER SHEEP_PLUS","SUPER MOUTON+","Super Mouton+","Délicieux Mammifère Mythique|Les légendes des Dragons parlent à mi-mots et sur un ton très révérencieux de ce mouton très rare, l'Axxima Vatta Muttanaxxor, et les écrits sacrés des Dragons détaillent un rituel élaboré qui devra être exécuté lors de son arrivée. Les penseurs traditionnels ont tendance à ranger les écrits des Dragons aux côtés des textes religieux, mais de récentes recherches tendraient à suggérer qu'il faudrait les reclasser en compagnie des livres de cuisine...",
+"$EN_OZIMAL_PLUS","OZIMAL+","Ozimal Kaz+","Revenant Esclave|Les sorciers tels que Zelemir sont réputés pour être capables de transformer directement des créatures vivantes en bonne santé, en esclaves non-morts.
+Le sort nécessite une longue préparation, car le sorcier doit introduire un poison particulier dans la nourriture du sujet pendant plusieurs jours.
+Cette pratique est une sorte « d'assurance », au cas où les acolytes du sorcier chercheraient à se retourner contre lui.",
+"$EN_TWIN_PLUS","JUMEAU+","Jumeau+","Frère Revenant|BLARGH YAAAARGH GAR GAR HUR.",
+"$EN_RIGHT_INDEX_FINGER_PLUS","INDEX+","Index+","Doigt Monstrueux|Bien que tranché de sa main, ce doigt se déplace par sa propre volonté.",
+"$EN_RIGHT_THUMB_PLUS","POUCE+","Pouce+","Pouce Monstrueux|Bien que tranché de sa main, ce pouce se déplace par sa propre volonté.",
+"$EN_RIGHT_MIDDLE_FINGER_PLUS","MAJEUR+","Majeur+","Doigt Monstrueux|Ce doigt tranché semble faire un geste obscène. Quelle grossièreté !",
+"$EN_RIGHT_RING_FINGER_PLUS","ANNULAIRE+","Annulaire+","Doigt Monstrueux|Bien que tranché de sa main, ce doigt se déplace par sa propre volonté.",
+"$EN_RIGHT_PINKY_FINGER_PLUS","AURICULAIRE+","Auriculaire+","Doigt Monstrueux|Bien que tranché de sa main, ce doigt se déplace par sa propre volonté.",
+"$EN_RIGHT_EYE_PLUS","L'OEIL D'EZTLI+","L'Oeil d'Eztli+","Oeil Monstrueux|Cet œil malveillant brille d'un pouvoir maléfique et se déplace avec une rapidité surnaturelle.",
+"$EN_RIGHT_HAND_PLUS","LA MAIN D'EZTLI+","La Main d'Eztli+","Main Monstrueuse|Le chef des Sanguinaires a appelé ce monstre « La Main Droite d'Eztli-Tenoch ». Compte tenu du peu de choses connues à propos d'Eztli-Tenoch, il n'est pas évident d'affirmer qu'il s'agit vraiment de la main du terrible magicien, ou si ce n'est qu'une création de sa magie noire.",
+"$EN_FINGER_PLUS","LE DOIGT D'EZTLI+","",
+"$EN_ZELEMIR-CITADEL_PLUS","ZELEMIR+","Zelemir+","Sorcier Nécromancien|Une détermination résolue brille dans le regard de Zelemir.",
+"$EN_ZELEMIR_PLUS","ZELEMIR+","Zelemir+","Sorcier Nécromancien|Une détermination résolue brille dans le regard de Zelemir.",
+"$EN_EZTLI_PLUS","EZTLI-TENOCH+","Eztli-Tenoch+","Antique Magicien Légendaire|Une force antique, depuis longtemps en sommeil, et à présent éveillée. Eztli-Tenoch régnait autrefois sur le monde en tant que Roi-Dieu autoproclamé. Son pouvoir et sa malveillance n'ont d'égal que sa patience à toute épreuve.",
+"$EN_NORMAL_LOWXP_PLUS","NORMAL+","Revenant+","Cadavre réanimé|Dans la Fosse, les cadavres se relèvent souvent plusieurs jours après leur mort.
+Ces monstres sont appelés des « Revenants ».",
+"$EN_CULTIST_LOWXP_PLUS","PRÉDICATEUR+","Prédicateur+","Sanguinaire Transmuté|Le Culte des Sanguinaires a pris naissance au sein d'une secte nomade réputée pour ses cérémonies sanglantes.
+Lorsque cette religion a évolué vers la vénération hénothéiste de la divinité Eztli-Tenoch, ses disciples se sont mis à attaquer les autres tribus.
+Le plus gros de ce que l'on sait d'eux nous a été transmis par les survivants du massacre de la tribu Geka. Il est souvent fait mention de leur capacité à se transformer en Revenants à volonté.",
+"$EN_ARMORED CULTIST_LOWXP_PLUS","PRÊTRE+","Prêtre+","Prêtre Sanguinaire|Le Culte des Sanguinaires a pris naissance au sein d'une secte nomade réputée pour ses cérémonies sanglantes.
+Lorsque cette religion a évolué vers la vénération hénothéiste de la divinité Eztli-Tenoch, ses disciples se sont mis à attaquer les autres tribus.
+Le plus gros de ce que l'on sait d'eux nous a été transmis par les survivants du massacre de la tribu Geka. Il est souvent fait mention de leur capacité à se transformer en Revenants à volonté.",
+"$EN_NORMAL_EXP_LOWXP_PLUS","NORMAL+","Revenant+","Cadavre réanimé|Dans la Fosse, les cadavres se relèvent souvent plusieurs jours après leur mort.
+Ces monstres sont appelés des « Revenants ».",
+"$EN_NORMAL_W_LOWXP_PLUS","NORMAL+","Mal Aquatique+","Revenant Aquatique|Ces Revenants exsudent une substance poisseuse qui rend leur corps imperméable.
+Leur abdomen est rempli de gaz toxique, ce qui leur évite de couler.",
+"$EN_ARMORED_LOWXP_PLUS","CUIRASSÉ+","Chevalier Déchu+","Revenant Cuirassé|Ces Revenants sont d'anciens Chevaliers ayant péri au combat.
+Bien qu'ils n'aient rien conservé de l'intelligence et des compétences dont ils bénéficiaient de leur vivant, ils ont toujours leur armure.",
+"$EN_SPEEDY_LOWXP_PLUS","RAPIDE+","Ver+","Engeance Rapide de Revenant|Ces sortes de vers très rapides sont dotés de plusieurs rangées de crocs acérés.
+De nombreux témoins prétendent les avoir vus surgir du corps de gros Revenants enflés, après des semaines de putréfaction.",
+"$EN_SPEEDY_W_LOWXP_PLUS","RAPIDE+","Serpent+","Engeance Rapide Aquatique|On raconte que ces vers aquatiques seraient issus de corps de Revenants laissés à la dérive.
+D'autres suggèrent qu'ils proviendraient des cadavres des poissons et des serpents des rivières.",
+"$EN_ARMORED SPEEDY_LOWXP_PLUS","RAPIDE+","Ver+","Engeance Rapide Cuirassée|Ces vers ont développé une épaisse carapace. Une théorie voudrait que cette cuirasse soit composée des os digérés du cadavre originel.",
+"$EN_ARMORED_SPEEDY_W_LOWXP_PLUS","RAPIDE+","Serpent Cuirassé+","Engeance Rapide Cuirassée Aquatique|Ces vers aquatiques ont à la fois développé une capacité à nager et une épaisse carapace.
+Leur odeur d'os digérés et de gaz de décomposition est particulièrement écœurante.",
+"$EN_ATTACKER_LOWXP_PLUS","COMBATTANT+","Goule Folle+","Revenant Combattant|Certains Revenants sont plus agressifs que les autres.
+Alors que les Revenants standards s'obstinent à traquer une unique victime, ceux-ci s'en prennent véritablement à tout ce qui bouge.",
+"$EN_DARK ATTACKER_LOWXP_PLUS","CAMOUFLEUR+","Goule Noire+","Revenant Combattant Noir|Les gaz qui s'accumulent dans l'abdomen de ce Revenant s'échappent par les pores de sa peau, ce qui enveloppe la créature dans un épais nuage de fumée toxique qui le dissimule, tout en plongeant ses ennemis dans la confusion.",
+"$EN_ATTACKER_W_LOWXP_PLUS","COMBATTANT+","Goule des Rivières+","Revenant Combattant Aquatique|Les récits de cadavres puants surgissant des eaux pour attaquer les villageois assoiffés abondent dans la Fosse.
+Personne ne part jamais chercher de l'eau tout seul, et seuls les fous s'aventurent à piquer une tête...",
+"$EN_ARMORED ATTACKER_LOWXP_PLUS","COMBATTANT+","Chevalier Fou+","Revenant Combattant Cuirassé|Ces Chevaliers déchus sont aussi forts que vicieux.
+Leurs hurlements inhumains résonnent à travers les catacombes et vont se perdre dans le désert.",
+"$EN_APC_LOWXP_PLUS","DIVISEUR+","Monstruosité+","Hôte d'Engeance|Ces cadavres bouffis peuvent à peine se déplacer et semblent prêts à éclater à tout instant.
+Plusieurs bouches garnies de crocs émergent de leurs flancs. Ils sont également trop gros pour être repoussés ou dévorés.",
+"$EN_APC_W_LOWXP_PLUS","DIVISEUR+","Cadavre Fétide+","Hôte d'Engeance Aquatique|Ces Revenants puent comme un sac de poisson pourri qui aurait mariné dans des eaux d'égout...
+Ils flottent facilement, et semblent prêts à éclater à tout instant.",
+"$EN_ARMORED APC_LOWXP_PLUS","CUIRASSÉ DIVISEUR+","Bête Cuirassée+","Hôte d'Engeance Cuirassé|Une carapace géante protège cette monstrueuse masse de chair digérée. On la soupçonne d'être totalement dépourvue d'os.",
+"$EN_DOUBLE APC_LOWXP_PLUS","DOUBLE DIVISEUR+","Abomination+","Hôte d'Engeance Diviseur|Ce monstre étrange est à la fois décoloré et bouffi. Que cela peut-il signifier ?",
+"$EN_ARMORED RANGED ATTACKER_LOWXP_PLUS","À DISTANCE+","Chevalier Vipère+","Revenant Cracheur|Au fil des semaines, un étrange processus semble digérer et transformer le corps des Revenants.
+Des témoins affirment avoir été attaqués par des « hommes-serpent » dépourvus d'yeux et crachant une bile nauséabonde.",
+"$EN_RANGED ATTACKER_LOWXP_PLUS","À DISTANCE+","Goule Vipère+","Revenant Cracheur|Au fil des semaines, un étrange processus semble digérer et transformer le corps des Revenants.
+Des témoins affirment avoir été attaqués par des « hommes-serpent » dépourvus d'yeux et crachant une bile nauséabonde.",
+"$EN_RANGED ATTACKER_W_LOWXP_PLUS","À DISTANCE+","Goule Serpent+","Revenant Cracheur Aquatique|Au fil des semaines, un étrange processus semble digérer et transformer le corps des Revenants.
+Des témoins affirment avoir été attaqués par des « hommes-serpent » dépourvus d'yeux et crachant une bile nauséabonde.",
+"$EN_DARK_LOWXP_PLUS","OBSCUR+","Ver des Ombres+","Engeance Noire Rapide|Ces vers sont enveloppés dans une épaisse brume noire qui les rend quasiment impossibles à toucher.",
+"$EN_BRUTE_LOWXP_PLUS","CORIACE+","Ver de la Mort+","Engeance Coriace de Revenant|Ces créatures pâles apparentées à des vers se déplacent lentement, et sont dotées d'une peau cuireuse robuste à la place de l'habituelle membrane extérieure fragile.
+Bien que faciles à distancer, elles triomphent en général de leurs proies en les poursuivant sans relâche, jusqu'à l'épuisement.",
+"$EN_CULTIST_NOATTACK_LOWXP_PLUS","PRÉDICATEUR+","Prédicateur+","Sanguinaire Transmuté|Le Culte des Sanguinaires a pris naissance au sein d'une secte nomade réputée pour ses cérémonies sanglantes.
+Lorsque cette religion a évolué vers la vénération hénothéiste de la divinité Eztli-Tenoch, ses disciples se sont mis à attaquer les autres tribus.
+Le plus gros de ce que l'on sait d'eux nous a été transmis par les survivants du massacre de la tribu Geka. Il est souvent fait mention de leur capacité à se transformer en Revenants à volonté.",
+"$EN_APC_NOATTACK_LOWXP_PLUS","DIVISEUR+","Monstruosité+","Hôte d'Engeance|Ces cadavres bouffis peuvent à peine se déplacer et semblent prêts à éclater à tout instant.
+Plusieurs bouches garnies de crocs émergent de leurs flancs. Ils sont également trop gros pour être repoussés ou dévorés.",
+"$EN_SHEEP_LOWXP_PLUS","MOUTON+","Mouton+","Délicieux Mammifère|Les Dragons peuvent rester des années sans manger, mais lorsqu'ils se nourrissent, ils peuvent engloutir plusieurs fois leur propre poids en une seule journée. Ce fait représente une source d'inconfort majeure pour les bergers nomades et pour leurs troupeaux.",
+"$EN_PSI SHEEP_LOWXP_PLUS","MOUTON+","Mouton+","Délicieux Mammifère|Les Dragons peuvent rester des années sans manger, mais lorsqu'ils se nourrissent, ils peuvent engloutir plusieurs fois leur propre poids en une seule journée. Ce fait représente une source d'inconfort majeure pour les bergers nomades et pour leurs troupeaux.",
+"$EN_SPEEDY SHEEP_LOWXP_PLUS","MOUTON RAPIDE+","Mouton Rapide+","Délicieux Mammifère Rapide|Certains moutons ont su s'adapter aux conditions hostiles de la Fosse en développant des muscles hautement spécialisés à contraction rapide. Ils ne leur sont pas très utiles pour échapper aux Dragons, mais ils leur permettent au moins de distancer les autres moutons.",
+"$EN_NORMAL_SQ7_PLUS","NORMAL+","Revenant++","Cadavre réanimé|Dans la Fosse, les cadavres se relèvent souvent plusieurs jours après leur mort.
+Ces monstres sont appelés des « Revenants ».",
+"$EN_SPEEDY_SQ7_PLUS","RAPIDE+","Ver++","Engeance Rapide de Revenant|Ces sortes de vers très rapides sont dotés de plusieurs rangées de crocs acérés.
+De nombreux témoins prétendent les avoir vus surgir du corps de gros Revenants enflés, après des semaines de putréfaction.",
+"$EN_ARMORED_SQ7_PLUS","CUIRASSÉ+","Chevalier Déchu++","Revenant Cuirassé|Ces Revenants sont d'anciens Chevaliers ayant péri au combat.
+Bien qu'ils n'aient rien conservé de l'intelligence et des compétences dont ils bénéficiaient de leur vivant, ils ont toujours leur armure.",
+"$EN_ATTACKER_W_SQ7_PLUS","COMBATTANT+","Goule des Rivières++","Revenant Combattant Aquatique|Les récits de cadavres puants surgissant des eaux pour attaquer les villageois assoiffés abondent dans la Fosse.
+Personne ne part jamais chercher de l'eau tout seul, et seuls les fous s'aventurent à piquer une tête...",
+"$EN_APC_SQ7_PLUS","DIVISEUR+","Monstruosité++","Hôte d'Engeance|Ces cadavres bouffis peuvent à peine se déplacer et semblent prêts à éclater à tout instant.
+Plusieurs bouches garnies de crocs émergent de leurs flancs. Ils sont également trop gros pour être repoussés ou dévorés.",
+"$EN_ARMORED ATTACKER_SQ7_PLUS","COMBATTANT+","Chevalier Fou++","Revenant Combattant Cuirassé|Ces Chevaliers déchus sont aussi forts que vicieux.
+Leurs hurlements inhumains résonnent à travers les catacombes et vont se perdre dans le désert.",
+"$EN_DARK_SQ7_PLUS","OBSCUR+","Ver des Ombres++","Engeance Noire Rapide|Ces vers sont enveloppés dans une épaisse brume noire qui les rend quasiment impossibles à toucher.",
+"$EN_ARMORED SPEEDY_SQ7_PLUS","RAPIDE+","Ver Cuirassé++","Engeance Rapide Cuirassée|Ces vers ont développé une épaisse carapace. Une théorie voudrait que cette cuirasse soit composée des os digérés du cadavre originel.",
+"$EN_RANGED ATTACKER_W_SQ7_PLUS","À DISTANCE+","Goule Serpent++","Revenant Cracheur Aquatique|Au fil des semaines, un étrange processus semble digérer et transformer le corps des Revenants.
+Des témoins affirment avoir été attaqués par des « hommes-serpent » dépourvus d'yeux et crachant une bile nauséabonde.",
+"$EN_BRUTE_SQ7_PLUS","CORIACE+","Ver de la Mort++","Engeance Coriace de Revenant|Ces créatures pâles apparentées à des vers se déplacent lentement, et sont dotées d'une peau cuireuse robuste à la place de l'habituelle membrane extérieure fragile.
+Bien que faciles à distancer, elles triomphent en général de leurs proies en les poursuivant sans relâche, jusqu'à l'épuisement.",
+"$EN_CULTIST_SQ7_PLUS","PRÊTRE+","Prédicateur++","Prêtre Sanguinaire|Le Culte des Sanguinaires a pris naissance au sein d'une secte nomade réputée pour ses cérémonies sanglantes.
+Lorsque cette religion a évolué vers la vénération hénothéiste de la divinité Eztli-Tenoch, ses disciples se sont mis à attaquer les autres tribus.
+Le plus gros de ce que l'on sait d'eux nous a été transmis par les survivants du massacre de la tribu Geka. Il est souvent fait mention de leur capacité à se transformer en Revenants à volonté.",
+"$EN_SHEEP_SQ7_PLUS","MOUTON+","Mouton++","Délicieux Mammifère|Les Dragons peuvent rester des années sans manger, mais lorsqu'ils se nourrissent, ils peuvent engloutir plusieurs fois leur propre poids en une seule journée. Ce fait représente une source d'inconfort majeure pour les bergers nomades et pour leurs troupeaux.",
+"$END","",""

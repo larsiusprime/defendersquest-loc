@@ -1,0 +1,136 @@
+flag	name
+$SKILL_MCGUFFIN_A_LIGHTNING	Blitz
+$SKILL_MCGUFFIN_A_FRENZY	Kampfrausch
+$SKILL_MCGUFFIN_A_HEALING	Heilen
+$SKILL_MCGUFFIN_A_CRYSTAL	Kristall
+$SKILL_MCGUFFIN_A_PUSHBACK	Rückstoß
+$SKILL_MCGUFFIN_A_DRAGON_FIRE	Drachenfeuer
+$SKILL_MCGUFFIN_fake_attackEXPLOSION	Explosion
+$SPELL_ENEMY_ZAP	<RE>$SKILL_MCGUFFIN_A_LIGHTNING
+$SPELL_ENEMY_FRENZY	<RE>$SKILL_MCGUFFIN_A_FRENZY
+$SPELL_ENEMY_HEAL	<RE>$SKILL_MCGUFFIN_A_HEALING
+$SPELL_ENEMY_FIRE	<RE>$SKILL_MCGUFFIN_A_DRAGON_FIRE
+$SKILL_ANTIMCGUFFIN_A_LIGHTNING	$SKILL_MCGUFFIN_A_LIGHTNING
+$SKILL_ANTIMCGUFFIN_A_HEALING	$SKILL_MCGUFFIN_A_HEALING
+$SKILL_ANTIMCGUFFIN_A_FRENZY	$SKILL_MCGUFFIN_A_FRENZY
+$SKILL_ANTIMCGUFFIN_A_CRYSTAL	$SKILL_MCGUFFIN_A_CRYSTAL
+$SKILL_ANTIMCGUFFIN_A_PUSHBACK	$SKILL_MCGUFFIN_A_PUSHBACK
+$SKILL_ANTIMCGUFFIN_A_DRAGON_FIRE	$SKILL_MCGUFFIN_A_DRAGON_FIRE
+$SKILL_SORCEROR_A_LIGHTNING-Z	$SKILL_MCGUFFIN_A_LIGHTNING
+$SKILL_SORCEROR_A_HEALING-Z	$SKILL_MCGUFFIN_A_HEALING
+$SKILL_SORCEROR_A_FRENZY-Z	$SKILL_MCGUFFIN_A_FRENZY
+$SKILL_SORCEROR_A_PUSHBACK-Z	$SKILL_MCGUFFIN_A_PUSHBACK
+$SKILL_SORCEROR_A_DRAGON_FIRE-Z	$SKILL_MCGUFFIN_A_DRAGON_FIRE
+$SKILL_KNIGHT_A_SWING	Schwung
+$SKILL_KNIGHT_P_ARMOR_PIERCE	Rüstungsknacker
+$SKILL_KNIGHT_A_SMASH	Zerschlagen
+$SKILL_KNIGHT_P_ARMOR_BREAK	Rüstungsbrecher
+$SKILL_KNIGHT_P_ARMOR_TRAINING	Rüstungstraining
+$SKILL_KNIGHT_P_HARD_KNOCK	Harter Stoß
+$SKILL_KNIGHT_A_COUNTER	Konter
+$SKILL_KNIGHT_A_LUNGE	Überraschungs- angriff
+$SKILL_KNIGHT_P_STUN_STAB	Lähmender Stich
+$SKILL_KNIGHT_P_SWORD_TRAINING	Schwerttraining
+$SKILL_KNIGHT_A_CLEAVE	Spalten
+$SKILL_BERSERKER_A_SLASH	Schlitzen
+$SKILL_BERSERKER_A_DOUBLE_HIT	Doppelschlag
+$SKILL_BERSERKER_P_SWIFTNESS	Schnelligkeit
+$SKILL_BERSERKER_A_FLURRY	Hast
+$SKILL_BERSERKER_P_RESILIENCE	Belastbarkeit
+$SKILL_BERSERKER_A_SWIPE	Hieb
+$SKILL_BERSERKER_P_RAGE	Zorn
+$SKILL_BERSERKER_P_REFLEXES	Reflexe
+$SKILL_BERSERKER_P_MADNESS	Wahnsinn
+$SKILL_BERSERKER_A_WHIRLWIND	Wirbelwind
+$SKILL_HEALER_A_AID	Heilen
+$SKILL_HEALER_A_ETHER_FLASH	Ätherblitz
+$SKILL_HEALER_P_BULK_UP	Muskeln aufbauen
+$SKILL_HEALER_P_BLINDING	Blenden
+$SKILL_HEALER_A_GROUP_HEAL	Massenheilung
+$SKILL_HEALER_A_HOLY_LIGHT	Heiliges Licht
+$SKILL_HEALER_A_ZEAL	Eifer
+$SKILL_HEALER_P_INSPIRE	Begeistern
+$SKILL_MAGE_A_ICE_BALL	Eisball
+$SKILL_MAGE_P_CHILL	Frost
+$SKILL_MAGE_A_ICE_SHARD	Eisscherbe
+$SKILL_MAGE_P_FREEZE	Einfrieren
+$SKILL_MAGE_A_SLEET	Schneeregen
+$SKILL_MAGE_P_ICE_SPEAR	Eisspeer
+$SKILL_MAGE_A_ICE_SPLASH	Eisspritzer
+$SKILL_MAGE_A_BLIZZARD	Blizzard
+$SKILL_DRAGON_A_BITE	Biss
+$SKILL_DRAGON_A_CLAW	Klaue
+$SKILL_DRAGON_P_EPIC_HALITOSIS	Phänomenaler Mundgeruch
+$SKILL_DRAGON_A_FIRE_BREATH	Feueratem
+$SKILL_DRAGON_P_STRENGTH	Stärke
+$SKILL_DRAGON_A_ROAR	Brüllen
+$SKILL_DRAGON_P_FATTEN_UP	Fett machen
+$SKILL_DRAGON_P_NOM	Happs
+$SKILL_DRAGON_A_FIRE_BALL	Feuerball
+$SKILL_RANGER_A_BASIC_SHOT	Schuss
+$SKILL_RANGER_P_SHARP_SHOOTER	Scharfschütze
+$SKILL_RANGER_A_TRIPLE_SHOT	Fester Schuss
+$SKILL_RANGER_P_DEEP_SHOT	Tiefgehender Schuss
+$SKILL_RANGER_A_RAPID_SHOT	Schnellschuss
+$SKILL_RANGER_P_RANGE_FOCUS	Reichweiten-Fokus
+$SKILL_RANGER_P_PIERCING_SHOT	Durchschlagender Schuss
+$SKILL_RANGER_P_POISON_SHOT	Giftschuss
+$SKILL_RANGER_A_SPREAD_SHOT	Streuschuss
+$SKILL_RANGER_A_BLACK_OUT_THE_SUN	Sonnenfinsternis
+$CLASS_MCGUFFIN	Bibliothekar
+$CLASS_MCGUFFIN_PL	Bibliothekare
+$CLASS_KNIGHT	Ritter
+$CLASS_KNIGHT_PL	Ritter
+$CLASS_RANGER	Waldläufer
+$CLASS_RANGER_PL	Waldläufer
+$CLASS_BERSERKER	Berserker
+$CLASS_BERSERKER_PL	Berserker
+$CLASS_HEALER	Heiler
+$CLASS_HEALER_PL	Heiler
+$CLASS_MAGE	Eis-Magier
+$CLASS_MAGE_PL	Eis-Magier
+$CLASS_DRAGON	Drache
+$CLASS_DRAGON_PL	Drachen
+$CLASS_SORCEROR	Hexenmeister
+$CLASS_SORCEROR_PL	Hexenmeister
+$CLASS_ANTIMCGUFFIN	Hexe
+$CLASS_ANTIMCGUFFIN_PL	Hexen
+$SKILL_MCGUFFIN_A_LIGHTNING_DESC	Fügt einem einzelnen Gegner $X Schaden zu. Verbrennt Psi, sodass es weniger Psi als Belohnung für den Gegner gibt.
+$SKILL_MCGUFFIN_A_FRENZY_DESC	Erhöht die Angriffsrate ALLER Verteidiger um $X% für $Y Sekunden.
+$SKILL_MCGUFFIN_A_HEALING_DESC	Heilt bei allen Verteidigern $X TP.
+$SKILL_MCGUFFIN_A_CRYSTAL_DESC	Platziert einen Kristall, der Gegnern $X Schaden in einem Bereich von $Y Kacheln zufügt. Explodiert nach $Z Sekunden oder durch einen Blitzschlag.
+$SKILL_MCGUFFIN_A_PUSHBACK_DESC	Schiebt Feinde $X Kacheln in Richtung Start zurück.
+$SKILL_MCGUFFIN_A_DRAGON_FIRE_DESC	Fügt allen Gegnern auf dem Bildschirm $X Schaden zu und setzt sie für $Y Sekunden in Brand.
+$SKILL_ANTIMCGUFFIN_A_LIGHTNING_DESC	Fügt einem einzelnen Gegner $X Schaden zu. Verbrennt Psi, sodass es weniger Psi als Belohnung für den Gegner gibt.
+$SKILL_ANTIMCGUFFIN_A_FRENZY_DESC	Erhöht die Angriffsrate ALLER Verteidiger um $X% für $Y Sekunden.
+$SKILL_ANTIMCGUFFIN_A_HEALING_DESC	Heilt bei allen Verteidigern $X TP.
+$SKILL_ANTIMCGUFFIN_A_CRYSTAL_DESC	Platziert einen Kristall, der Gegnern $X Schaden in einem Bereich von $Y Kacheln zufügt. Explodiert nach $Z Sekunden oder durch einen Blitzschlag.
+$SKILL_ANTIMCGUFFIN_A_PUSHBACK_DESC	Schiebt Feinde $X Kacheln in Richtung Start zurück.
+$SKILL_ANTIMCGUFFIN_A_DRAGON_FIRE_DESC	Fügt allen Gegnern auf dem Bildschirm $X Schaden zu und setzt sie für $Y Sekunden in Brand.
+$SKILL_SORCEROR_A_LIGHTNING_DESC	Fügt einem einzelnen Gegner $X Schaden zu. Verbrennt Psi, sodass es weniger Psi als Belohnung für den Gegner gibt.
+$SKILL_SORCEROR_A_FRENZY-Z_DESC	Erhöht die Angriffsrate ALLER Verteidiger um $X% für $Y Sekunden.
+$SKILL_SORCEROR_A_HEALING-Z_DESC	Heilt bei allen Verteidigern $X TP.
+$SKILL_SORCEROR_A_PUSHBACK-Z_DESC	Schiebt Feinde $X Kacheln in Richtung Start zurück.
+$SKILL_SORCEROR_A_DRAGON_FIRE-Z_DESC	Fügt allen Gegnern auf dem Bildschirm $X Schaden zu und setzt sie für $Y Sekunden in Brand.
+$TYPE_RANGED	Fernkampf
+$TYPE_MELEE	Nahkampf
+$TYPE_ULTIMATE	Ultimativ
+$BLURB_BERSERKER	Schnellste Angriffe.<N>Trifft schnell viele Ziele für mittleren Schaden.<N>Am besten gegen Gruppen schwacher Gegner!
+$BLURB_RANGER	Beste Reichweite.<N>Trifft Ziele aus großer Entfernung für niedrigen Schaden.<N>Beste Allzweck-Einheit!
+$BLURB_KNIGHT	Langsamste Klasse.<N>Trifft einzelne Ziele für hohen Schaden.<N>Kann Rüstung durchbrechen/zerstören.<N>Am besten gegen starke oder gepanzerte Feinde!
+$BLURB_MAGE	Verlangsamt Feinde und friert sie ein.<N>Angriffe haben mittlere Geschwindigkeit und fügen wenig Schaden zu.<N>Am besten gegen schnelle Gegner!
+$BLURB_DRAGON	Hoher Schaden.<N>Kann Feinde essen und sie in Brand setzen.<N>Teuer, aber super.
+$BLURB_HEALER	Heilt deine Verbündeten<N>Hat ein paar schwache Angriffe.<N>Platziere für den größten Effekt mit Bedacht!
+$COLOR_EYE	Auge
+$COLOR_SKIN	Haut
+$COLOR_HAIR	Haar
+$COLOR_PANTS	Hose
+$COLOR_WEAPON	Waffe
+$COLOR_ARMOR	Rüstung
+$COLOR_DETAIL	Detail
+$COLOR_TUNIC	Tunika
+$COLOR_CLOAK	Umhang
+$COLOR_ROBE	Robe
+$COLOR_HIDE	Tierhäute
+$COLOR_OUTLINE	Umrandung
+$END	Ende

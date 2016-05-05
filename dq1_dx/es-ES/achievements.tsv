@@ -1,0 +1,62 @@
+flag	value
+$ACHV_AZRA_LVL_10_TITLE	Introducción a la Biblioteconomía
+$ACHV_AZRA_LVL_10_DESC	Alcanza el nivel 10 con la Bibliotecaria
+$ACHV_AZRA_LVL_25_TITLE	Bibliotecología intermedia
+$ACHV_AZRA_LVL_25_DESC	Alcanza el nivel 25 con la Bibliotecaria
+$ACHV_HAVE_ALL_CLASSES_TITLE	Mi propio ejército personal
+$ACHV_HAVE_ALL_CLASSES_DESC	Desbloquea 6 clases de personajes (sin contar Bibliotecaria)
+$ACHV_BEAT_ANY_EXTREME_TITLE	¡Has conseguido una estrella dorada!
+$ACHV_BEAT_ANY_EXTREME_DESC	Supera cualquier nivel en Extremo.
+$ACHV_HAVE_SKILL_LVL_20_TITLE	Habilidades impresionantes
+$ACHV_HAVE_SKILL_LVL_20_DESC	Desbloquea una habilidad de nivel 20
+$ACHV_BOOST_TECH_5_TITLE	¡Yo tengo el poder!
+$ACHV_BOOST_TECH_5_DESC	Mejora a un personaje hasta el nivel máximo de mejora en una batalla
+$ACHV_AZRA_LVL_40_TITLE	Bibliotecofísica avanzada
+$ACHV_AZRA_LVL_40_DESC	Alcanza el nivel 40 con la Bibliotecaria
+$ACHV_AZRA_LVL_60_TITLE	Bibliotecomancia superior
+$ACHV_AZRA_LVL_60_DESC	Alcanza el nivel 60 con la Bibliotecaria
+$ACHV_HAVE_ALL_WEAPONS_UNIQUE_TITLE	Espada suiza
+$ACHV_HAVE_ALL_WEAPONS_UNIQUE_DESC	Consigue todas las armas únicas en el modo normal
+$ACHV_HAVE_ALL_ARMOR_UNIQUE_TITLE	Coraza suiza
+$ACHV_HAVE_ALL_ARMOR_UNIQUE_DESC	Consigue todas las armaduras únicas en el modo normal
+$ACHV_HAVE_ALL_BOOKS_NORMAL_TITLE	Gusano de biblioteca
+$ACHV_HAVE_ALL_BOOKS_NORMAL_DESC	Consigue todos los libros de los desafíos de Bonus en normal
+$ACHV_ENDLESS_100_NORMAL_TITLE	Resistencia
+$ACHV_ENDLESS_100_NORMAL_DESC	Alcanza la oleada 100 en el Desafío infinito 2 en normal
+$ACHV_BEAT_GAME_NORMAL_TITLE	¡Y el ganador es... tú!
+$ACHV_BEAT_GAME_NORMAL_DESC	Completa el modo normal
+$ACHV_BEAT_ALL_SIDEQUESTS_TITLE	Un final sin cabos sueltos
+$ACHV_BEAT_ALL_SIDEQUESTS_DESC	Completa todas las misiones secundarios en Nueva partida+
+$ACHV_HAVE_201_STARS_BLUE_TITLE	Finalizador
+$ACHV_HAVE_201_STARS_BLUE_DESC	Consigue 201 estrellas azules
+$ACHV_UPGRADE_ALL_WEAPONS_UNIQUE_TITLE	Cachivaches para matar
+$ACHV_UPGRADE_ALL_WEAPONS_UNIQUE_DESC	Mejora todas las armas únicas en Nueva partida+
+$ACHV_UPGRADE_ALL_ARMOR_UNIQUE_TITLE	Chismes para sobrevivir
+$ACHV_UPGRADE_ALL_ARMOR_UNIQUE_DESC	Mejora todas las armaduras únicas en Nueva partida+
+$ACHV_HAVE_ALL_BOOKS_PLUS_TITLE	Libro del dragón
+$ACHV_HAVE_ALL_BOOKS_PLUS_DESC	Consigue todos los libros de Bonus en Nueva partida+
+$ACHV_ENDLESS_100_PLUS_TITLE	Maratón
+$ACHV_ENDLESS_100_PLUS_DESC	Alcanza la oleada 100 en el Desafío infinito 2 en Nueva partida+
+$ACHV_BEAT_GAME_PLUS_TITLE	¡Y el ganador+ es... tú!
+$ACHV_BEAT_GAME_PLUS_DESC	Completa el juego en el modo nueva partida+
+$ACHV_BEAT_SUPER_SHEEP_NORMAL_TITLE	Mataovejas
+$ACHV_BEAT_SUPER_SHEEP_NORMAL_DESC	Vence a la Superoveja en el modo normal
+$ACHV_HERO_MODE_TITLE	Modo héroe
+$ACHV_HERO_MODE_DESC	Supera el modo normal sin ningún recluta genérico
+$ACHV_HERO_MODE_PLUS_TITLE	Modo héroe+
+$ACHV_HERO_MODE_PLUS_DESC	Supera el juego en nueva partida+ sin ningún recluta genérico
+$ACHV_HAVE_201_STARS_GOLD_TITLE	Superfinalizador
+$ACHV_HAVE_201_STARS_GOLD_DESC	Consigue 201 estrellas doradas
+$ACHV_BEAT_SUPER_SHEEP_PLUS_TITLE	Destrozaovejas
+$ACHV_BEAT_SUPER_SHEEP_PLUS_DESC	Vence a la Superoveja en el modo nueva partida+
+$ACHV_HERO_MODE_PLUS_PLUS_TITLE	Modo héroe++
+$ACHV_HERO_MODE_PLUS_PLUS_DESC	Consigue 180 estrellas doradas sin ningún recluta genérico*Modo héroe++ es muy difícil, ¡recomendamos aumentar la ganancia de EXP. hasta el 300% en el menú de opciones!
+$ACHV_USE_TARGETS_TITLE	Fijación exacta de objetivo
+$ACHV_USE_TARGETS_DESC	Usa una opción de fijación de objetivo avanzada
+$ACHV_MENU_ACCESS_TITLE	Acceso garantizado
+$ACHV_MENU_ACCESS_DESC	Visita el menú de accesibilidad<N>(opciones->accesibilidad)
+$ACHV_MENU_CONTROLS_TITLE	¡No me controles!
+$ACHV_MENU_CONTROLS_DESC	Visita el menú de controles<N>(opciones->controles)
+$ACHV_MENU_TIPS_TITLE	Hinca los codos
+$ACHV_MENU_TIPS_DESC	Visita el menú de consejos<N>(mapa del mundo->consejos)
+$ACHV_MENU_NULL	Null

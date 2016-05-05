@@ -1,0 +1,654 @@
+flag	name	comment
+$BLANK		COMMENT: Diese Datei enthält alle Texte aus dem Tutorial aus den Karten-Dateien (Levels) des Spiels.
+$1_1_WHERE_AM_I_00_TITLE	TALK_$MCG_POWER	
+$1_1_WHERE_AM_I_00_TEXT	Wo bin ich?	
+$1_1_WHERE_AM_I_10_TITLE		
+$1_1_WHERE_AM_I_10_TEXT	<N>Dies ist dein Hauptcharakter, $MCG.<N>Sie kann sich nicht bewegen.	
+$1_1_WHERE_AM_I_20_TITLE		
+$1_1_WHERE_AM_I_20_TEXT	<N>Feinde kommen von hier.<N>Lass sie nicht $MCG erreichen!	
+$1_1_WHERE_AM_I_30_TITLE		
+$1_1_WHERE_AM_I_30_TEXT	<N>Im „Neues Spiel+“-Modus sind die Gegner viel stärker und haben neue Fähigkeiten.	
+$1_1_WHERE_AM_I_40_TITLE		
+$1_1_WHERE_AM_I_40_TEXT	<N>Zum Beispiel regenerieren alle Wiedergänger jetzt ihre Gesundheit.	
+$1_1_WHERE_AM_I_50_TITLE	TALK_$MCG_POWER	
+$1_1_WHERE_AM_I_50_TEXT	Hey, Fremder! Wo bist du?	
+$1_1_WHERE_AM_I_60_TITLE		
+$1_1_WHERE_AM_I_60_TEXT	<N>Klicke hier, um das BERSERKER-Menü auszuwählen.	
+$1_1_WHERE_AM_I_70_TITLE		
+$1_1_WHERE_AM_I_70_TEXT	<N>Momentan hast du nur Berserker. Wenn du den nächsten Helden in der Geschichte findest, wirst du alle Charaktere der Klasse freischalten.	
+$1_1_WHERE_AM_I_80_TITLE	TALK_$BER_SURPRISE	
+$1_1_WHERE_AM_I_80_TEXT	Was hast du mit mir gemacht??	
+$1_1_WHERE_AM_I_90_TITLE	TALK_$MCG_POWER	
+$1_1_WHERE_AM_I_90_TEXT	Ich weiß es nicht! Hinter mir sind Monster her! Hilfe!	
+$1_1_WHERE_AM_I_100_TITLE	TALK_$BER_SURPRISE	
+$1_1_WHERE_AM_I_100_TEXT	Warum bin ich durchsichtig? Wo ist mein Körper?	
+$1_1_WHERE_AM_I_110_TITLE		
+$1_1_WHERE_AM_I_110_TEXT	<N>Dies zeigt dir alle BERSERKER in deiner Gruppe.<N>Momentan hast du nur diesen Kerl.	
+$1_1_WHERE_AM_I_120_TITLE		
+$1_1_WHERE_AM_I_120_TEXT	<N>Klicke hier, um ihn auzuwählen!	
+$1_1_WHERE_AM_I_130_TITLE		
+$1_1_WHERE_AM_I_130_TEXT	<N>Deine alten Charaktere haben alle Werte, Talente und Ausrüstungen aus dem letzten Spiel.	
+$1_1_WHERE_AM_I_140_TITLE	TALK_$MCG_POWER	
+$1_1_WHERE_AM_I_140_TEXT	Ich habe gerufen … und dich in meinem Geist gespürt …	
+$1_1_WHERE_AM_I_150_TITLE	TALK_$MCG_POWER	
+$1_1_WHERE_AM_I_150_TEXT	Entgleite mir nicht! Ich muss mich konzentrieren!	
+$1_1_WHERE_AM_I_160_TITLE	TALK_$MCG_POWER	
+$1_1_WHERE_AM_I_160_TEXT	Wenn ich mich konzentriere – kann ich dich vielleicht herbringen!	
+$1_1_WHERE_AM_I_170_TITLE	TALK_$BER_SURPRISE	
+$1_1_WHERE_AM_I_170_TEXT	Öhm … Okay.	
+$1_1_WHERE_AM_I_180_TITLE	TALK_$BER_LOOKBACK	
+$1_1_WHERE_AM_I_180_TEXT	Ich hätte wirklich nicht den Echseneintopf essen sollen …	
+$1_1_WHERE_AM_I_190_TITLE		
+$1_1_WHERE_AM_I_190_TEXT	<N>Klicke dorthin, wo du deinen Verteidiger platzieren möchtest.<N><N>Dies ist ein guter Ort!	
+$1_1_WHERE_AM_I_200_TITLE	TALK_$BER_SMILE	
+$1_1_WHERE_AM_I_200_TEXT	Heeeeeey!<N>So gefällts mir besser!	
+$1_1_WHERE_AM_I_210_TITLE		
+$1_1_WHERE_AM_I_210_TEXT	<N>$MCG benutzt Psi-Energie, um Verteidiger zu beschwören.<N>Das Töten von Feinden lädt dein Psi wieder auf.	
+$1_1_WHERE_AM_I_220_TITLE	TALK_$MCG_POWER	
+$1_1_WHERE_AM_I_220_TEXT	Super!<N>Jetzt mach auch was!	
+$1_1_WHERE_AM_I_230_TITLE	TALK_$BER_SMILE	
+$1_1_WHERE_AM_I_230_TEXT	Was hast du gesagt?<N>Dich mit männlicher Gewalt beeindrucken?	
+$1_1_WHERE_AM_I_240_TITLE	TALK_$BER_DERANGED	
+$1_1_WHERE_AM_I_240_TEXT	Von mir aus gerne!	
+$1_1_WHERE_AM_I_250_TITLE		
+$1_1_WHERE_AM_I_250_TEXT	<N>Verteidiger können sich nicht bewegen<N>und sie greifen Gegner AUTOMATISCH an.	
+$1_1_WHERE_AM_I_260_TITLE		
+$1_1_WHERE_AM_I_260_TEXT	<N>Momentan ist das Spiel PAUSIERT.	
+$1_1_WHERE_AM_I_270_TITLE		
+$1_1_WHERE_AM_I_270_TEXT	<N>Klicke hier, um die Sache ins Rollen zu bringen.	
+$1_1_WHERE_AM_I_280_TITLE	TALK_$BER_DERANGED	
+$1_1_WHERE_AM_I_280_TEXT	Kommt schon, ihr sabbernden Schufte!<N>Eure Zerstückelung steht bevor!	
+$1_1_WHERE_AM_I_290_TITLE	TALK_$BER_LOOKBACK	
+$1_1_WHERE_AM_I_290_TEXT	Das ist toll und so, aber ich hab unweigerlich das Gefühl, ich sollte noch exzellenter sein.	
+$1_1_WHERE_AM_I_300_TITLE	TALK_$BER_LOOKBACK	
+$1_1_WHERE_AM_I_300_TEXT	Bist du dir sicher, du hast meinen GANZEN Körper? Nichts … fehlt?	
+$1_1_WHERE_AM_I_310_TITLE	TALK_$MCG_POWER	
+$1_1_WHERE_AM_I_310_TEXT	Ich glaube, ich kann mehr Energie zu dir leiten …	
+$1_1_WHERE_AM_I_320_TITLE		
+$1_1_WHERE_AM_I_320_TEXT	<N>Das ist die STÄRKEN-LEISTE von $BER.<N> $BER VERSTÄRKEN wird ihn stärker und schneller machen.	
+$1_1_WHERE_AM_I_330_TITLE		
+$1_1_WHERE_AM_I_330_TEXT	<N>Ab STÄRKE Level 2<N>kann $BER seine zweite Technik, DOPPELSCHLAG, einsetzen.	
+$1_1_WHERE_AM_I_340_TITLE		
+$1_1_WHERE_AM_I_340_TEXT	<N>Klicke jetzt auf VERSTÄRKEN!<N>Du wirst es nicht bereuen!	
+$1_1_WHERE_AM_I_350_TITLE	TALK_$BER_DERANGED	
+$1_1_WHERE_AM_I_350_TEXT	Das gefällt mir besser!	
+$1_2_THE_SHADOW_WORLD_00_TITLE	TALK_$MCG_POWER	
+$1_2_THE_SHADOW_WORLD_00_TEXT	$BER! Es hat funktioniert!	
+$1_2_THE_SHADOW_WORLD_10_TITLE	TALK_$MCG_POWER	
+$1_2_THE_SHADOW_WORLD_10_TEXT	Ich bin wieder an diesem seltsamen Ort .. Diesem Halbaußenort …	
+$1_2_THE_SHADOW_WORLD_20_TITLE	TALK_$BER_SURPRISE	
+$1_2_THE_SHADOW_WORLD_20_TEXT	Hol mich dazu! Ich fühl mich, als ob ich im All schwebte!	
+$1_2_THE_SHADOW_WORLD_30_TITLE		
+$1_2_THE_SHADOW_WORLD_30_TEXT	<N>Vergiss nicht:<N>klicke hier, um das BERSERKER-Menü auszuwählen.	
+$1_2_THE_SHADOW_WORLD_40_TITLE	TALK_$BER_SMILE	
+$1_2_THE_SHADOW_WORLD_40_TEXT	Oh ja, lass es krachen!	
+$1_2_THE_SHADOW_WORLD_50_TITLE		
+$1_2_THE_SHADOW_WORLD_50_TEXT	<N>WÄHLE $BER AUS, indem du auf ihn klickst.	
+$1_2_THE_SHADOW_WORLD_60_TITLE		
+$1_2_THE_SHADOW_WORLD_60_TEXT	<N>Diese Knöpfe weisen $BER an, welcher Gegner angegriffen werden soll.	
+$1_2_THE_SHADOW_WORLD_70_TITLE		
+$1_2_THE_SHADOW_WORLD_70_TEXT	<N>Vergiss nicht, diese Knöpfe<N>verändern das Spieltempo.	
+$1_2_THE_SHADOW_WORLD_80_TITLE	Hinweis	
+$1_2_THE_SHADOW_WORLD_80_TEXT	<N>Du kannst sogar Sachen machen, wenn das Spiel PAUSIERT ist.<N>Benutze <PAUSE>, um schnell zur Pause zu wechseln.	
+$1_2_THE_SHADOW_WORLD_90_TITLE		
+$1_2_THE_SHADOW_WORLD_90_TEXT	<N>Vergiss nicht, $BER zu VERSTÄRKEN.<N>Es ist eine wesentliche Taktik.	
+$1_2_THE_SHADOW_WORLD_100_TITLE	TALK_$BER_DERANGED	
+$1_2_THE_SHADOW_WORLD_100_TEXT	OH JA!<N>Spüre die Kraft!	
+$1_2_THE_SHADOW_WORLD_110_TITLE		
+$1_2_THE_SHADOW_WORLD_110_TEXT	<N>OH NEIN!<N>$BER kann die nächste Feindwelle nicht erreichen!	
+$1_2_THE_SHADOW_WORLD_120_TITLE		
+$1_2_THE_SHADOW_WORLD_120_TEXT	<N>Benutze den BLITZ-Zauber von $MCG, um sie zu erwischen!	
+$1_2_THE_SHADOW_WORLD_130_TITLE		
+$1_2_THE_SHADOW_WORLD_130_TEXT	<N>Toll!<N>Benutze Blitze, um Gegner zu kriegen, die sonst entwischen.	
+$1_2_THE_SHADOW_WORLD_140_TITLE		
+$1_2_THE_SHADOW_WORLD_140_TEXT	<N>Sei damit aber sparsam.<N>Die Benutzung kostet PSI.	
+$1_3_COLISEUM_1_00_TITLE	TALK_$RAN_NORMAL	
+$1_3_COLISEUM_1_00_TEXT	Was zur – was machst du?	
+$1_3_COLISEUM_1_10_TITLE	TALK_$BER_NORMAL	
+$1_3_COLISEUM_1_10_TEXT	Fühlt sich komisch an, oder?	
+$1_3_COLISEUM_1_20_TITLE	TALK_$RAN_NORMAL	
+$1_3_COLISEUM_1_20_TEXT	Ich fühl mich wie … damals, als ich die Seuche hatte …	
+$1_3_COLISEUM_1_30_TITLE	TALK_$RAN_NORMAL	
+$1_3_COLISEUM_1_30_TEXT	Als ich dachte, ich würde sterben …	
+$1_3_COLISEUM_1_40_TITLE	TALK_$RAN_NORMAL	
+$1_3_COLISEUM_1_40_TEXT	Als ob ich halb dort war …	
+$1_3_COLISEUM_1_50_TITLE	TALK_$BER_DERANGED	
+$1_3_COLISEUM_1_50_TEXT	Nun, lass uns in einige Ärsche treten, statt zu sterben!	
+$1_3_COLISEUM_1_60_TITLE	TALK_$BER_SMILE	
+$1_3_COLISEUM_1_60_TEXT	Das bevorzuge ich zumindest dem Tod gegenüber.	
+$1_3_COLISEUM_1_70_TITLE	Der Waldläufer	
+$1_3_COLISEUM_1_70_TEXT	$MCG kann nun zwischen zwei Klassen wählen, indem das Berserker- oder Waldläufer-Menü gewählt wird.	
+$1_3_COLISEUM_1_80_TITLE		
+$1_3_COLISEUM_1_80_TEXT	<N>Bewege die Maus über die Gegner, um mehr Details zu erhalten.	
+$1_3_COLISEUM_1_90_TITLE		
+$1_3_COLISEUM_1_90_TEXT	<N>Beispielsweise können diese ROTEN Gegner zurückschlagen!	
+$1_3_COLISEUM_1_100_TITLE		
+$1_3_COLISEUM_1_100_TEXT	<N>Beachte außerdem dieses Symbol. Dort wird die nächste Gegnerwelle erscheinen.	
+$1_4_COLISEUM_2_00_TITLE		
+$1_4_COLISEUM_2_00_TEXT	Wenn du mehr Berserker angeheuert hast,<N>kann $MCG sie in die Halbaußenwelt beschwören, indem sie im BERSERKER-Menü gewählt werden.	
+$1_4_COLISEUM_2_10_TITLE	Hinweis	
+$1_4_COLISEUM_2_10_TEXT	$BER ist immer noch unser bester Kämpfer –<N>verstärke ihn, um seine „Doppelschlag“-Attacke zu benutzen.	
+$2_2_UNDEAD_RANGERS_00_TITLE		
+$2_2_UNDEAD_RANGERS_00_TEXT	Diese untoten Waldläufer haben einen großen Angriffsradius – plane entsprechend!	
+$2_4_MONASTERY_00_TITLE	Rückruf	
+$2_4_MONASTERY_00_TEXT	<N>Du kannst Verteidiger aus dem Kampf zurückrufen, um<N> etwas Psi wiederzubekommen und sie woanders zu positionieren.	
+$2_4_MONASTERY_10_TITLE	Rückruf	
+$2_4_MONASTERY_10_TEXT	<N>Dazu wähle einen Verteidiger und klicke auf <LQ>Zurückrufen,<RQ> oder drücke <RECALL>.	
+$2_4_MONASTERY_20_TITLE	Volle Rückerstattung	
+$2_4_MONASTERY_20_TEXT	<N>Bis die erste Welle der Feine ankommt,<N>geben Rückrufe 100% des PSIs wieder.	
+		
+$3_1_TO_THE_PASS_00_TITLE	TALK_$HEA_NORMAL	
+$3_1_TO_THE_PASS_00_TEXT	Das Krankenhaus ist gleich auf der anderen Seite des Flusses …	
+$3_1_TO_THE_PASS_10_TITLE	TALK_$MCG_POWER	
+$3_1_TO_THE_PASS_10_TEXT	Ich kann sie fühlen … sie WISSEN, dass ich hier bin.	
+$3_1_TO_THE_PASS_20_TITLE	TALK_$BER_SMILE	
+$3_1_TO_THE_PASS_20_TEXT	Entspann dich, $MCG! Wir können uns an der abgewandten Seite des Flusses verstecken!	
+$3_1_TO_THE_PASS_30_TITLE	TALK_$BER_SMILE	
+$3_1_TO_THE_PASS_30_TEXT	Und mit <LQ>verstecken<RQ> meine ich <LQ>ermorden<RQ> und mit <LQ>abgewandte Seite des Flusses<RQ> mein ich …	
+$3_1_TO_THE_PASS_40_TITLE	TALK_$BER_DERANGED	
+$3_1_TO_THE_PASS_40_TEXT	<LQ>ALLES, WAS SICH BEWEGT!!!<RQ>	
+$3_1_TO_THE_PASS_50_TITLE	TALK_$MCG_POWER	
+$3_1_TO_THE_PASS_50_TEXT	Moment … liegt es an mir, oder scheint es so, als ob diese Dinger schwimmen können?	
+$3_1_TO_THE_PASS_60_TITLE	TALK_$BER_NORMAL	
+$3_1_TO_THE_PASS_60_TEXT	Eher wie ein Hund paddeln. Euer Stil ist Mist!	
+$3_1_TO_THE_PASS_70_TITLE	TALK_$BER_DERANGED	
+$3_1_TO_THE_PASS_70_TEXT	Hört ihr das? Ich hab euch gerade Hunde genannt!	
+$3_1_TO_THE_PASS_80_TITLE	TALK_$RAN_NORMAL	
+$3_1_TO_THE_PASS_80_TEXT	Ist dir mal aufgefallen, dass immer wenn du deinen Mund öffnest, Blödsinn raus kommt?	
+$3_2_HOSPITAL_ATTACK_00_TITLE		
+$3_2_HOSPITAL_ATTACK_00_TEXT	Eis-Magier können Angreifer verlangsamen, was bei kurzen Wegen und schnellen Gegnern sehr nützlich ist.	
+$3_2_HOSPITAL_ATTACK_10_TITLE	TALK_$MAG_FRIENDLY	
+$3_2_HOSPITAL_ATTACK_10_TEXT	Jetzt singt mein Herz das Kampflied.	
+$3_2_HOSPITAL_ATTACK_20_TITLE	TALK_$MAG_FROWN	
+$3_2_HOSPITAL_ATTACK_20_TEXT	Wir sehen, wie Frost dem Feuer dient …	
+$3_2_HOSPITAL_ATTACK_30_TITLE	TALK_$MAG_PISSED	
+$3_2_HOSPITAL_ATTACK_30_TEXT	Und wie unsere Feinde in ihrem eigenen Blut ertrinken.	
+$3_4_ARMORED_CREEPS_00_TITLE		
+$3_4_ARMORED_CREEPS_00_TEXT	Diese neuen Wiedergänger haben Rüstung, die viel von dem Schaden, der ihnen zugefügt wird, abfängt.	
+$3_4_ARMORED_CREEPS_10_TITLE	TALK_$BER_DERANGED	
+$3_4_ARMORED_CREEPS_10_TEXT	Hey Weicheier! Echte Männer kämpfen ohne Hemd!	
+$3_4_ARMORED_CREEPS_20_TITLE	TALK_$RAN_NORMAL	
+$3_4_ARMORED_CREEPS_20_TEXT	Hey, wenn die sich einpacken wollen, lass sie.	
+$3_4_ARMORED_CREEPS_30_TITLE	TALK_$RAN_NORMAL	
+$3_4_ARMORED_CREEPS_30_TEXT	Je weniger zombifizierte … eklige Stücke ich sehen muss, desto besser.	
+$3_4_ARMORED_CREEPS_40_TITLE	TALK_$BER_SURPRISE	
+$3_4_ARMORED_CREEPS_40_TEXT	Ich weiß, ich bin super toll und so, aber wie soll ich Typen bekämpfen, die komplett von Rüstung umgeben sind?	
+$3_4_ARMORED_CREEPS_50_TITLE	TALK_$HEA_NORMAL	
+$3_4_ARMORED_CREEPS_50_TEXT	Ich habe eine Idee!	
+$3_4_ARMORED_CREEPS_60_TITLE	TALK_$HEA_NORMAL	
+$3_4_ARMORED_CREEPS_60_TEXT	$MCG, zünde einen dieser Kristalle mit Blitzen, wenn ein Feind daran vorbei geht!	
+$3_5_MEET_THE_KNIGHT_00_TITLE		
+$3_5_MEET_THE_KNIGHT_00_TEXT	Der Ritter hat ein „Rüstung brechen“-Talent, das Rüstung mit jedem Treffer schwächt.	
+$3_5_MEET_THE_KNIGHT_10_TITLE	TALK_$KNI_NORMAL	
+$3_5_MEET_THE_KNIGHT_10_TEXT	Ich kann die Rüstung diesen Unholden einfach runterschlagen!	
+$3_5_MEET_THE_KNIGHT_20_TITLE	TALK_$KNI_SQUINT	
+$3_5_MEET_THE_KNIGHT_20_TEXT	… wenn ich … einen Körper hätte …	
+$3_5_MEET_THE_KNIGHT_30_TITLE	TALK_$KNI_SQUINT	
+$3_5_MEET_THE_KNIGHT_30_TEXT	Was passiert hier?	
+$3_6_INTO_THE_CITY_00_TITLE	TALK_$MCG_POWER	
+$3_6_INTO_THE_CITY_00_TEXT	$BER, was um Himmels Willen tust du?!	
+$3_6_INTO_THE_CITY_10_TITLE	TALK_$BER_DERANGED	
+$3_6_INTO_THE_CITY_10_TEXT	So kämpfen echte Männer!	
+$3_6_INTO_THE_CITY_20_TITLE	TALK_$MCG_POWER	
+$3_6_INTO_THE_CITY_20_TEXT	Zieh deine Hosen sofort wieder an.	
+$3_6_INTO_THE_CITY_30_TITLE	TALK_$BER_DERANGED	
+$3_6_INTO_THE_CITY_30_TEXT	Niemals!	
+$3_6_INTO_THE_CITY_40_TITLE	TALK_$MCG_POWER	
+$3_6_INTO_THE_CITY_40_TEXT	Tu's jetzt oder ich werd dich nicht mit dem Rest von uns hier hinziehen.	
+$3_6_INTO_THE_CITY_50_TITLE	TALK_$BER_NORMAL	
+$3_6_INTO_THE_CITY_50_TEXT	… na gut.	
+$3_11_CITADEL_BOSS_00_TITLE	TALK_$BER_NORMAL	
+$3_11_CITADEL_BOSS_00_TEXT	Wie soll ich diese Typen treffen, wenn ich sie nicht sehen kann?!	
+$3_11_CITADEL_BOSS_10_TITLE	TALK_$HEA_NORMAL	
+$3_11_CITADEL_BOSS_10_TEXT	Sie scheinen eine Art Wolke um sich herum zu erzeugen.	
+$3_11_CITADEL_BOSS_20_TITLE	TALK_$MCG_POWER	
+$3_11_CITADEL_BOSS_20_TEXT	Wie können wir sie dann abwehren?	
+$3_11_CITADEL_BOSS_30_TITLE	TALK_$HEA_NORMAL	
+$3_11_CITADEL_BOSS_30_TEXT	Ich glaub, ich kann diese Dunkelheit vertreiben … aber nur für einen Moment.	
+$3_11_CITADEL_BOSS_40_TITLE	TALK_$BER_DERANGED	
+$3_11_CITADEL_BOSS_40_TEXT	Mehr brauch ich nicht!	
+$3_13_DESTROY_CITY_00_TITLE	TALK_ZELEMIR_POWER	
+$3_13_DESTROY_CITY_00_TEXT	Gut.	
+$3_13_DESTROY_CITY_10_TITLE	TALK_ZELEMIR_POWER	
+$3_13_DESTROY_CITY_10_TEXT	Es endet hier.	
+$4_1_EZTLIS_FORCES_00_TITLE		
+$4_1_EZTLIS_FORCES_00_TEXT	Diese seltsamen Kultisten sind furchterregend mächtige Wiedergänger geworden. Langsam, aber tödlich, lassen sie sich nur durch die vereinten Kräfte vieler Verteidiger besiegen.	
+$4_2_WIZARDS_REALM_00_TITLE	TALK_$RAN_SQUINT	
+$4_2_WIZARDS_REALM_00_TEXT	Was um Himmels Willen ist das Ding?	
+$4_2_WIZARDS_REALM_10_TITLE	TALK_$RAN_SQUINT	
+$4_2_WIZARDS_REALM_10_TEXT	Es sieht so aus, als würde es jederzeit aufplatzen!	
+$4_2_WIZARDS_REALM_20_TITLE	TALK_$BER_NORMAL	
+$4_2_WIZARDS_REALM_20_TEXT	Ja, es ist wie damals, als ich das gegorene Pilzgulasch gegessen hab …	
+$4_2_WIZARDS_REALM_30_TITLE	TALK_$BER_LOOKBACK	
+$4_2_WIZARDS_REALM_30_TEXT	Nur verteilen die hier überall Baby-Wiedergänger statt –	
+$4_2_WIZARDS_REALM_40_TITLE	TALK_$RAN_SERIOUSLY	
+$4_2_WIZARDS_REALM_40_TEXT	Ok, wir haben's verstanden.	
+$4_5_RIGHT_HAND_00_TITLE	TALK_CULTIST_PRIEST	
+$4_5_RIGHT_HAND_00_TEXT	ERKENNT EUREN TOD!	
+$4_5_RIGHT_HAND_10_TITLE	TALK_$BER_SURPRISE	
+$4_5_RIGHT_HAND_10_TEXT	Ist das eine … gigantische … Hand?	
+$4_5_RIGHT_HAND_20_TITLE	TALK_$BER_LOOKBACK	
+$4_5_RIGHT_HAND_20_TEXT	Gibt es noch weitere Körperteile mit ungewöhnlichen Ausmaßen, die aus dem Boden bersten wollen?	
+$4_5_RIGHT_HAND_30_TITLE	TALK_CULTIST_PRIEST	
+$4_5_RIGHT_HAND_30_TEXT	STERBT.	
+$4_5_RIGHT_HAND_40_TITLE	TALK_$BER_SURPRISE	
+$4_5_RIGHT_HAND_40_TEXT	Gängi! Du bist zurückgekommen?!!	
+$4_5_RIGHT_HAND_50_TITLE	TALK_$BER_DERANGED	
+$4_5_RIGHT_HAND_50_TEXT	Komm zu mir, damit ich dich töten kann!	
+$4_5_RIGHT_HAND_60_TITLE	TALK_CULTIST_PRIEST	
+$4_5_RIGHT_HAND_60_TEXT	Diese närrischen Bluthaften glauben, der Kampf sei vorbei …	
+$4_5_RIGHT_HAND_70_TITLE	TALK_CULTIST_PRIEST	
+$4_5_RIGHT_HAND_70_TEXT	Aber die zerstörte Kreatur aus Fleisch und Geist ist nicht, was sie glauben.	
+$4_5_RIGHT_HAND_80_TITLE	TALK_CULTIST_PRIEST	
+$4_5_RIGHT_HAND_80_TEXT	Mit der Inbrunst des Meisters gefüllt … BIN ICH DIE RECHTE HAND EZTLI-TENOCHS	
+$4_5_RIGHT_HAND_90_TITLE	TALK_CULTIST_PRIEST	
+$4_5_RIGHT_HAND_90_TEXT	ICH BIN TOD.	
+$4_5_RIGHT_HAND_100_TITLE	TALK_ZELEMIR_POWER	
+$4_5_RIGHT_HAND_100_TEXT	Genug davon.	
+$4_5_RIGHT_HAND_110_TITLE	TALK_$MCG_POWER	
+$4_5_RIGHT_HAND_110_TEXT	Zelemir?! Was macht Ihr hier?	
+$4_5_RIGHT_HAND_120_TITLE	TALK_ZELEMIR_POWER	
+$4_5_RIGHT_HAND_120_TEXT	Euer Leben retten.	
+$12_4_FINAL_00_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_00_TEXT	Zelemir?	
+$12_4_FINAL_10_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_10_TEXT	Ich werde nicht einfach untätig zusehen, wie die Monster, die ich lange Zeit bekämpfte, entfliehen.	
+$12_4_FINAL_20_TITLE	TALK_$MAG_PISSED	
+$12_4_FINAL_20_TEXT	Du Mörder! Du glaubst, wir werden –	
+$12_4_FINAL_30_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_30_TEXT	Jetzt ist nicht die Zeit dazu! Entweder töten wir ihn oder alles ist verloren!	
+$12_4_FINAL_40_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_40_TEXT	Danach könnt Ihr eure Rache nehmen.	
+$12_4_FINAL_50_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_50_TEXT	Es ist zwecklos! Seine Magie beschützt ihn!	
+$12_4_FINAL_60_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_60_TEXT	Was können wir nur machen?	
+$12_4_FINAL_70_TITLE	TALK_NOMAD_MALE_1	
+$12_4_FINAL_70_TEXT	Meine Dame, wir sind hier mit Euch …	
+$12_4_FINAL_80_TITLE	TALK_ASH_FEMALE_1	
+$12_4_FINAL_80_TEXT	Bis jetzt habt Ihr Eure Macht anderen geliehen.	
+$12_4_FINAL_90_TITLE	TALK_QUAID_MALE_1	
+$12_4_FINAL_90_TEXT	Aber jetzt leihen wir unsere Euch.	
+$12_4_FINAL_100_TITLE		
+$12_4_FINAL_100_TEXT	<N>Zum ersten Mal<N> kann $MCG selbst verstärkt werden!	
+$12_4_FINAL_110_TITLE		
+$12_4_FINAL_110_TEXT	<N>Nutze diese Macht, um Eztli-Tenoch zu besiegen!	
+$12_4_FINAL_120_TITLE	TALK_NOMAD_FEMALE_1	
+$12_4_FINAL_120_TEXT	Meine Dame, lasst uns Euch helfen … 	
+$12_4_FINAL_130_TITLE	TALK_NOMAD_FEMALE_2	
+$12_4_FINAL_130_TEXT	Meine Dame, unsere Gebete sind mit Euch!	
+$12_4_FINAL_140_TITLE	TALK_QUAID_MALE_2	
+$12_4_FINAL_140_TEXT	Unser aller Macht … 	
+$12_4_FINAL_150_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_150_TEXT	In einer Person vereinigt.	
+$12_4_FINAL_160_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_160_TEXT	Soll ich mit dem Hund in seiner eigenen Sprache reden?	
+$12_4_FINAL_170_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_170_TEXT	Der Pöbel der mich anflehte, sein König zu werden, reckt nun seine Fäuste gen Himmel und vergiftet die Luft mit leeren Drohungen.	
+$12_4_FINAL_180_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_180_TEXT	In welcher Welt könnt IHR denn MIR gegenüberstehen?	
+$12_4_FINAL_190_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_190_TEXT	Ich bin EZTLI-TENOCH!	
+$12_4_FINAL_200_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_200_TEXT	Du bist ein großes Wesen, über viele verteilt.	
+$12_4_FINAL_210_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_210_TEXT	Aber viele sind in mir vereint.	
+$12_4_FINAL_220_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_220_TEXT	Ich bin, was sie verbindet.	
+$12_4_FINAL_230_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_230_TEXT	Wir alle werden dich als eins vernichten.	
+$12_4_FINAL_240_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_240_TEXT	Narr!	
+$12_4_FINAL_250_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_250_TEXT	Dies ist mein Reich!	
+$12_4_FINAL_260_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_260_TEXT	Du schaffst es vielleicht, mit kraftlosen Schritten halb nach draußen zu kommen …	
+$12_4_FINAL_270_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_270_TEXT	… Aber nur ich kann die Wege des Geistes beschreiten.	
+$12_4_FINAL_280_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_280_TEXT	Was passiert?	
+$12_4_FINAL_290_TITLE	TALK_$HEA_NORMAL	
+$12_4_FINAL_290_TEXT	Er ist vollständig … auf der anderen Seite …	
+$12_4_FINAL_300_TITLE	TALK_$HEA_NORMAL	
+$12_4_FINAL_300_TEXT	Wir können ihn nicht von dieser Halbaußenwelt aus erreichen.	
+$12_4_FINAL_310_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_310_TEXT	Es gibt einen Weg …	
+$12_4_FINAL_320_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_320_TEXT	$MCG, du bist wie ich … Du kannst andere in diese Halbaußenwelt rufen …	
+$12_4_FINAL_330_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_330_TEXT	Aber mit all diesen Menschen hier … die uns ihre Kraft leihen …	
+$12_4_FINAL_340_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_340_TEXT	Ich kann es fühlen …	
+$12_4_FINAL_350_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_350_TEXT	Mit all unserer verbündeten Kraft kann ich die andere Welt vollständig betreten …	
+$12_4_FINAL_360_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_360_TEXT	Und dort werde ich den elenden Zauberer töten!	
+$12_4_FINAL_370_TITLE	TALK_$HEA_NORMAL	
+$12_4_FINAL_370_TEXT	Du kannst das nicht alleine schaffen, Bruder.	
+$12_4_FINAL_380_TITLE	TALK_$HEA_NORMAL	
+$12_4_FINAL_380_TEXT	Nimm mich mit dir.	
+$12_4_FINAL_390_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_390_TEXT	Nein, es ist meine Schuld.	
+$12_4_FINAL_400_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_400_TEXT	Ich werde den Preis alleine zahlen.	
+$12_4_FINAL_410_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_410_TEXT	Narrenpack! Ihr denkt, ein Hund kann –	
+$12_4_FINAL_420_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_420_TEXT	$MCG! Jetzt ist die Zeit! Konzentriert Euch!	
+$12_4_FINAL_430_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_430_TEXT	...	
+$12_4_FINAL_440_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_440_TEXT	Zelemir, geh.	
+$12_4_FINAL_450_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_450_TEXT	Beende es.	
+$12_4_FINAL_460_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_460_TEXT	Soll ich mit dem Hund in seiner eigenen Sprache reden?	
+$12_4_FINAL_470_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_470_TEXT	Der Pöbel der mich anflehte, sein König zu werden, reckt nun seine Fäuste gen Himmel und vergiftet die Luft mit leeren Drohungen.	
+$12_4_FINAL_480_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_480_TEXT	In welcher Welt könnt IHR denn MIR gegenüberstehen?	
+$12_4_FINAL_490_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_490_TEXT	Ich bin EZTLI-TENOCH!	
+$12_4_FINAL_500_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_500_TEXT	Du bist ein großes Wesen, über viele verteilt.	
+$12_4_FINAL_510_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_510_TEXT	Aber viele sind in mir vereint.	
+$12_4_FINAL_520_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_520_TEXT	Ich bin, was sie verbindet.	
+$12_4_FINAL_530_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_530_TEXT	Wir alle werden dich als eins vernichten.	
+$12_4_FINAL_540_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_540_TEXT	Narr!	
+$12_4_FINAL_550_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_550_TEXT	Dies ist mein Reich!	
+$12_4_FINAL_560_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_560_TEXT	Du schaffst es vielleicht, mit kraftlosen Schritten halb nach draußen zu kommen …	
+$12_4_FINAL_570_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_570_TEXT	… Aber nur ich kann die Wege des Geistes beschreiten.	
+$12_4_FINAL_580_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_580_TEXT	Was passiert?	
+$12_4_FINAL_590_TITLE	TALK_$HEA_NORMAL	
+$12_4_FINAL_590_TEXT	Er ist vollständig … auf der anderen Seite …	
+$12_4_FINAL_600_TITLE	TALK_$HEA_NORMAL	
+$12_4_FINAL_600_TEXT	Wir können ihn nicht von dieser Halbaußenwelt aus erreichen.	
+$12_4_FINAL_610_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_610_TEXT	Es gibt einen Weg …	
+$12_4_FINAL_620_TITLE	TALK_ZELEMIR_POWER	
+$12_4_FINAL_620_TEXT	$MCG, ich sterbe … Aber mit der Kraft, die ich noch habe …	
+$12_4_FINAL_630_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_630_TEXT	$MCG, du bist wie ich … Du kannst andere in diese Halbaußenwelt rufen …	
+$12_4_FINAL_640_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_640_TEXT	Aber mit all diesen Menschen hier … die uns ihre Kraft leihen …	
+$12_4_FINAL_650_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_650_TEXT	Ich kann es fühlen …	
+$12_4_FINAL_660_TITLE	TALK_ZELEMIR_WOUNDED	
+$12_4_FINAL_660_TEXT	Mit all unserer vereinten Kraft kann ich die andere Welt vollständig betreten …	
+$12_4_FINAL_670_TITLE	TALK_ZELEMIR_POWER	
+$12_4_FINAL_670_TEXT	Mit meiner sterbenden Kraft … werde ich den Zauberer töten.	
+$12_4_FINAL_680_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_680_TEXT	Ein einsamer, sterbender Mann. Gegen einen Gott?	
+$12_4_FINAL_690_TITLE	TALK_$HEA_NORMAL	
+$12_4_FINAL_690_TEXT	Bruder, du kannst das nicht alleine schaffen.	
+$12_4_FINAL_700_TITLE	TALK_$HEA_NORMAL	
+$12_4_FINAL_700_TEXT	Lass es uns beenden, wie wir es angefangen haben.	
+$12_4_FINAL_710_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_710_TEXT	Ältester?	
+$12_4_FINAL_720_TITLE	TALK_ZELEMIR_POWER	
+$12_4_FINAL_720_TEXT	Es ist gut … dich wiederzuhaben, alter Freund … 	
+$12_4_FINAL_730_TITLE	TALK_$HEA_NORMAL	
+$12_4_FINAL_730_TEXT	Ebenso.	
+$12_4_FINAL_740_TITLE	TALK_ZELEMIR_POWER	
+$12_4_FINAL_740_TEXT	$MCG! Es ist Zeit! Konzentriert euch!	
+$12_4_FINAL_750_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_750_TEXT	...	
+$12_4_FINAL_760_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_760_TEXT	Geh. Beende es.	
+$12_4_FINAL_770_TITLE	TALK_ZELEMIR_POWER	
+$12_4_FINAL_770_TEXT	Es ist … zu viel … 	
+$12_4_FINAL_780_TITLE	TALK_ZELEMIR_POWER	
+$12_4_FINAL_780_TEXT	Meine Wunden …	
+$12_4_FINAL_790_TITLE	TALK_ZELEMIR_POWER	
+$12_4_FINAL_790_TEXT	$MCG, du darfst ihm nicht erlauben …	
+$12_4_FINAL_800_TITLE	TALK_ZELEMIR_POWER	
+$12_4_FINAL_800_TEXT	...	
+$12_4_FINAL_810_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_810_TEXT	Zelemir!	
+$12_4_FINAL_820_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_820_TEXT	Ich habe ihn verloren …	
+$12_4_FINAL_830_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_830_TEXT	Soll ich mit dem Hund in seiner eigenen Sprache reden?	
+$12_4_FINAL_840_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_840_TEXT	Der Pöbel der mich anflehte, sein König zu werden, reckt nun seine Fäuste gen Himmel und vergiftet die Luft mit leeren Drohungen.	
+$12_4_FINAL_850_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_850_TEXT	In welcher Welt könnt IHR denn MIR gegenüberstehen?	
+$12_4_FINAL_860_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_860_TEXT	Ich bin EZTLI-TENOCH!	
+$12_4_FINAL_870_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_870_TEXT	Du bist ein großes Wesen, über viele verteilt.	
+$12_4_FINAL_880_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_880_TEXT	Aber viele sind in mir vereint.	
+$12_4_FINAL_890_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_890_TEXT	Ich bin, was sie verbindet.	
+$12_4_FINAL_900_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_900_TEXT	Wir alle werden dich als eins vernichten.	
+$12_4_FINAL_910_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_910_TEXT	Narr!	
+$12_4_FINAL_920_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_920_TEXT	Dies ist mein Reich!	
+$12_4_FINAL_930_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_930_TEXT	Du schaffst es vielleicht, mit kraftlosen Schritten halb nach draußen zu kommen …	
+$12_4_FINAL_940_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$12_4_FINAL_940_TEXT	… Aber nur ich kann die Wege des Geistes beschreiten.	
+$12_4_FINAL_950_TITLE	TALK_$MCG_POWER	
+$12_4_FINAL_950_TEXT	Was passiert?	
+$12_4_FINAL_960_TITLE	TALK_$HEA_NORMAL	
+$12_4_FINAL_960_TEXT	Er ist vollständig … auf der anderen Seite …	
+$12_4_FINAL_970_TITLE	TALK_$HEA_NORMAL	
+$12_4_FINAL_970_TEXT	Wir können ihn nicht von dieser Halbaußenwelt aus erreichen.	
+$12_4_FINAL_980_TITLE	TALK_$HEA_NORMAL	
+$12_4_FINAL_980_TEXT	...	
+$SIDEQUEST_7_00_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$SIDEQUEST_7_00_TEXT	Was ist aus dir geworden, Tletl-Meztli?	
+$SIDEQUEST_7_10_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$SIDEQUEST_7_10_TEXT	Zusammen sind wir aus dem Sumpf aus Dreck aufgestiegen.	
+$SIDEQUEST_7_20_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$SIDEQUEST_7_20_TEXT	Wir haben uns gegen die Engherzigkeit der Sterblichkeit verteidigt.	
+$SIDEQUEST_7_30_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$SIDEQUEST_7_30_TEXT	Wir haben die Niedrigkeit des Menschseins vernichtet und haben Ruhm erlangt!	
+$SIDEQUEST_7_40_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$SIDEQUEST_7_40_TEXT	Hast du so viel Zeit in der Welt der Menschen verbracht, dass du vergessen hast, dass du ein Gott bist?	
+$SIDEQUEST_7_50_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$SIDEQUEST_7_50_TEXT	Wir tragen die schreckliche Bürde der Göttlichkeit auf unseren Schultern!	
+$SIDEQUEST_7_60_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$SIDEQUEST_7_60_TEXT	Sollen wir zulassen, dass der Pöbel uns durch seine Anschuldigungen unsere Berufung verwehrt?	
+$SIDEQUEST_7_70_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$SIDEQUEST_7_70_TEXT	Unsere Augen haben die Geheimnisse des Geists erblickt und du möchtest dich jetzt freiwillig selbst blenden?	
+$SIDEQUEST_7_80_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$SIDEQUEST_7_80_TEXT	Ich kann dir nicht auf diesen Weg der Selbstzerstörung folgen.	
+$SIDEQUEST_7_90_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$SIDEQUEST_7_90_TEXT	Soll ich dich wegwerfen wie dieses Gefäß aus erbärmlichen Fleisch? Bist du nicht mehr?	
+$SIDEQUEST_7_100_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$SIDEQUEST_7_100_TEXT	Wir wurden, was wir zu werden brauchten! Was wir werden mussten! Wir können nicht zurück!	
+$SIDEQUEST_7_110_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$SIDEQUEST_7_110_TEXT	Wie kannst du dein Herz mir gegenüber versteinern? Wie kannst du mich zwingen das zu zerstören, was ich liebe?	
+$SIDEQUEST_7_120_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$SIDEQUEST_7_120_TEXT	Du wirfst all das weg, was wir sind? Alles, was wir erschaffen haben?	
+$SIDEQUEST_7_130_TITLE	TALK_EZTLI-TENOCH_NORMAL	
+$SIDEQUEST_7_130_TEXT	… Nun muss ich mich von den letzten Resten meiner Sterblichkeit trennen.	
+$INDEX_SLAK_DIE_00_TITLE	TALK_$BER_NORMAL	
+$INDEX_SLAK_DIE_00_TEXT	$MCG! Du hast meinen Körper verloren!	
+$INDEX_SLAK_DIE_10_TITLE	TALK_$MCG_POWER	
+$INDEX_SLAK_DIE_10_TEXT	Sorry, es ist schwer sich zu konzentrieren, wenn du so häufig getroffen wirst!	
+$INDEX_SLAK_DIE_20_TITLE	TALK_$BER_NORMAL	
+$INDEX_SLAK_DIE_20_TEXT	Beeil dich einfach und zieh mich wieder rein! Ich verpasse es, Dinge zu töten!	
+$INDEX_BER_DIE_30_TITLE	TALK_$BER_SURPRISE	
+$INDEX_BER_DIE_30_TEXT	Hey $MCG! Einer meiner Freunde ist gefallen! Zieh ihn wieder rein! Wir müssen doch töten!	
+$INDEX_KETTA_DIE_40_TITLE	TALK_$RAN_NORMAL	
+$INDEX_KETTA_DIE_40_TEXT	Hey! Ich wurde rausgeworfen!	
+$INDEX_KETTA_DIE_50_TITLE	TALK_$MCG_POWER	
+$INDEX_KETTA_DIE_50_TEXT	Halte still. Ich werd dich jeden Moment zurück bringen.	
+$INDEX_KETTA_DIE_60_TITLE	TALK_$RAN_NORMAL	
+$INDEX_KETTA_DIE_60_TEXT	Beeil dich, das fühlt sich wirklich komisch an.	
+$INDEX_RAN_DIE_70_TITLE	TALK_$RAN_NORMAL	
+$INDEX_RAN_DIE_70_TEXT	Hey! Wir verlieren Leute hier! Bring sie zurück!	
+$INDEX_BOOST_SLAK_80_TITLE	TALK_$BER_DERANGED	
+$INDEX_BOOST_SLAK_80_TEXT	HAHAHA! ICH BIN DER SEXY GOTT DER GEWALT!	
+$INDEX_BOOST_SLAK_90_TITLE	TALK_$BER_DERANGED	
+$INDEX_BOOST_SLAK_90_TEXT	SCHAUT AUF MEINEN WASCHBRETTBAUCH, IHR MÄCHTIGEN, UND VERZWEIFELT!	
+$INDEX_FIRST_LEVEL_100_TITLE		
+$INDEX_FIRST_LEVEL_100_TEXT	<N>Klicke hier, um anzufangen.	
+$INDEX_SECOND_LEVEL_110_TITLE		
+$INDEX_SECOND_LEVEL_110_TEXT	<N>Klicke hier, um fortzufahren.	
+$INDEX_LVL_DUDE_120_TITLE	Tutorial	
+$INDEX_LVL_DUDE_120_TEXT	<N>Gratulation! Ein Verteidiger ist ein Level aufgestiegen!	
+$INDEX_LVL_DUDE_130_TITLE	Tutorial	
+$INDEX_LVL_DUDE_130_TEXT	<N>Klicke auf den Verteidiger, um seine Talente zu verbessern.	
+$INDEX_CLICK_DUDE_140_TITLE	Tutorial	
+$INDEX_CLICK_DUDE_140_TEXT	Dies ist der TALENTBAUM des Verteidigers.	
+$INDEX_CLICK_DUDE_150_TITLE	Techniken	
+$INDEX_CLICK_DUDE_150_TEXT	<N>Die RUNDEN Talente sind TECHNIKEN,<N>die im Kampf aktiv genutzt werden.	
+$INDEX_CLICK_DUDE_160_TITLE	Traits	
+$INDEX_CLICK_DUDE_160_TEXT	<N>Die QUADRATISCHEN Talente sind MERKMALE,<N>sie sind passive Fähigkeiten.	
+$INDEX_SKILL_DUDE_170_TITLE	Tutorial	
+$INDEX_SKILL_DUDE_170_TEXT	<N>Fährst du mit der Maus über das Talent, siehst du, was sich ändert, wenn du es verbesserst.	
+$INDEX_SKILL_DUDE_180_TITLE	Tutorial	
+$INDEX_SKILL_DUDE_180_TEXT	<N>Klicke auf das Talent, um es um 1 Punkt zu verbessern.	
+$INDEX_A_190_TITLE	Tutorial	
+$INDEX_A_190_TEXT	<N>Gratulation! $MCG ist ein Level aufgestiegen!	
+$INDEX_A_200_TITLE	Tutorial	
+$INDEX_A_200_TEXT	<N>Klicke auf $MCG, um ihre Zauber zu verbessern.	
+$INDEX_B_210_TITLE	Tutorial	
+$INDEX_B_210_TEXT	<N>Dies ist der TALENTBAUM von $MCG. Alle Talente von $MCG sind ZAUBER.	
+$INDEX_B_220_TITLE	Tutorial	
+$INDEX_B_220_TEXT	<N>$MCG hat einen TALENTPUNKT zur Verfügung.<N>Fahre mit der Maus hierüber, um den BLITZ-Zauber zu sehen.	
+$INDEX_C_230_TITLE	Tutorial	
+$INDEX_C_230_TEXT	<N>Fährst du mit der Maus über das Talent, siehst du, was sich ändert, wenn du es verbesserst.	
+$INDEX_C_240_TITLE	Tutorial	
+$INDEX_C_240_TEXT	<N>Klicke auf die Kugel, um dieses Talent um 1 Punkt zu verbessern.	
+$INDEX_BUY_STUFF_250_TITLE		
+$INDEX_BUY_STUFF_250_TEXT	<N>Du kannst Ausrüstung und neue Verteidiger in Städten kaufen.	
+$INDEX_BUY_STUFF_260_TITLE		
+$INDEX_BUY_STUFF_260_TEXT	Du solltest jetzt BERSERKER anheuern und WAFFEN kaufen.<N><N>(Beachte: Jedes Anheuern macht es teurer.)	
+$INDEX_HOW_TO_BUY_270_TITLE	Waffen kaufen	
+$INDEX_HOW_TO_BUY_270_TEXT	Dies sind die zu Verkauf stehenden Waffen.<N>Klicke auf einen Waffentyp, um den „KAUFEN“-Knopf auftauchen zu lassen.	
+$INDEX_DIFF_TOWN_280_TITLE	Mehr über Städte:	
+$INDEX_DIFF_TOWN_280_TEXT	<N>Unterschiedliche Städte haben unterschiedliche Sachen anzubieten.	
+$INDEX_DIFF_TOWN_290_TITLE	Mehr über Städte:	
+$INDEX_DIFF_TOWN_290_TEXT	<N>Zum Beispiel kannst du in dieser Stadt WALDLÄUFER anheuern und RÜSTUNG kaufen.	
+$INDEX_DIFF_TOWN_300_TITLE	Mehr über Städte:	
+$INDEX_DIFF_TOWN_300_TEXT	<N>Vergiss nicht, größere Armeen kosten mehr – jedes neue Anheuern kostet mehr als das letzte.	
+$INDEX_1_1_WHERE_AM_I_TITLE	Die Halbaußen-Welt	
+$INDEX_1_1_WHERE_AM_I_TEXT	Einsam und allein findet sich $MCG irgendwo zwischen Leben und Tod wieder.	
+$INDEX_1_2_THE_SHADOW_WORLD_TITLE	Karawane der Toten	
+$INDEX_1_2_THE_SHADOW_WORLD_TEXT	$MCG begegnet einer Handelskarawane, die vor Waren überquillt.	
+$INDEX_1_3_COLISEUM_1_TITLE	Das Kolosseum	
+$INDEX_1_3_COLISEUM_1_TEXT	Unsere Helden sind gezwungen, die Wiedergänger in Ozimals Kolosseum zu bekämpfen.	
+$INDEX_JAIL_TITLE	Ozimals Gefängnis	
+$INDEX_JAIL_TEXT	Ozimals Gefängnisstadt für Sklaven und Gladiatoren. Ein Mix aus kläglichem Abschaum und unschuldigen Pechvögeln, die alle auf Flucht aus der Grube sind.	
+$INDEX_JAIL_DESTROY_TEXT	Das Gefängnis ist leer – irgendwer hat ein Loch in die Wand gesprengt und alle Gefangenen sind geflüchtet.	
+$INDEX_1_4_COLISEUM_2_TITLE	Rückkehr ins Kolosseum	
+$INDEX_1_4_COLISEUM_2_TEXT	Ozimal demonstriert die Fähigkeiten von $MCG einem seltsamen Gast …	
+$INDEX_1_5_RIVER_ESCAPE_TITLE	Flussflucht	
+$INDEX_1_5_RIVER_ESCAPE_TEXT	Ein gewagter Ausbruch aus dem Kolosseum führt die Gruppe über einen Fluss.	
+$INDEX_SHANTY_TITLE	Elendsviertel	
+$INDEX_SHANTY_TEXT	Eine zerfallene Barackenstadt – scheint, als hätten die entflohenen Gefangenen hier Zuflucht gesucht.	
+$INDEX_SIDEQUEST_1_TITLE	Die Katakomben	
+$INDEX_SIDEQUEST_1_TEXT	Auf der Flucht vor Ozimal kehrt $MCG zurück, um die noch immer in den Katakomben unter dem Gefängnis befindlichen Gefangenen zu retten.	
+$INDEX_RANGER_TOWN_TITLE	Karsk	
+$INDEX_RANGER_TOWN_TEXT	Ein Lager der Nomaden. Karsk bezahlt hohe Abgaben an Ozimal, um Überfällen zu entgehen.	
+$INDEX_RANGER_TOWN_DESTROY_TEXT	Von Karsk ist nur eine dicke Schicht Ruß über. Nirgends sind die Leichen der Bewohner zu finden.	
+$INDEX_2_1_SAVE_RANGER_TOWN_TITLE	Der Kampf um Karsk	
+$INDEX_2_1_SAVE_RANGER_TOWN_TEXT	Ozimals Streitkräfte belagern Karsk.	
+$INDEX_2_2_UNDEAD_RANGERS_TITLE	Alte Freunde, neue Feinde	
+$INDEX_2_2_UNDEAD_RANGERS_TEXT	Opfer des Angriffs auf Karsk erheben sich als Feinde mit hoher Reichweite.	
+$INDEX_2_3_MONASTERY_GATES_TITLE	Die Tore des Klosters	
+$INDEX_2_3_MONASTERY_GATES_TEXT	Ein gewaltiger Kampf bricht an den Toren des Klosters aus.	
+$INDEX_LAKSOS_TITLE	Laksos	
+$INDEX_LAKSOS_TEXT	Ein Lager Überlebender am Fuß eines Bergs. Ein häufiges Ziel von Ozimals Raubzügen.	
+$INDEX_2_4_MONASTERY_TITLE	Aufstieg zum Kloster	
+$INDEX_2_4_MONASTERY_TEXT	Feinde stürmen die abschreckenden Kloster-Treppen hinauf.	
+$INDEX_MONASTERY_TITLE	Das Kloster	
+$INDEX_MONASTERY_TEXT	Ein Selini Ordenshaus, ein Kloster der Hauptreligion im Ash-Königreich.	
+$INDEX_SIDEQUEST_2_TITLE	Angeln	
+$INDEX_SIDEQUEST_2_TEXT	$MCG säubert den Wiedergänger-Befall im Fluss, sodass er wieder zum Angeln genutzt werden kann.	
+$INDEX_3_1_TO_THE_PASS_TITLE	Reise zum Krankenhaus	
+$INDEX_3_1_TO_THE_PASS_TEXT	$MCG eilt, um das Krankenhaus bei einem Überraschungsangriff zu verteidigen.	
+$INDEX_3_2_HOSPITAL_ATTACK_TITLE	Angriff auf das Krankenhaus	
+$INDEX_3_2_HOSPITAL_ATTACK_TEXT	Die Gruppe hilft, das belagerte Krankenhaus zu verteidigen.	
+$INDEX_HOSPITAL_TITLE	Krankenhaus	
+$INDEX_HOSPITAL_TEXT	Ein Selini-Haus der Gnade, ein Ort der Zuflucht und Heilung der Verwundeten und Kranken	
+$INDEX_SIDEQUEST_3_TITLE	Die Söhne des Krast	
+$INDEX_SIDEQUEST_3_TEXT	$RAN hält widerwillig ein Versprechen, das sie einem anderen Geka-Mitglied gab.	
+$INDEX_SIDEQUEST_4_TITLE	In die Schatten	
+$INDEX_SIDEQUEST_4_TEXT	Während $MCG und $RAN weg sind, werden $BER und $HEA von einer seltsamen Frau fortgezaubert.	
+$INDEX_3_3_DESERT_STRONGHOLD_TITLE	Eingang der Wüstenfestung	
+$INDEX_3_3_DESERT_STRONGHOLD_TEXT	Verfolgt von einer Gruppe Wiedergänger leistet die Gruppe Widerstand, bevor sie die Wüstenfestung betritt.	
+$INDEX_3_4_ARMORED_CREEPS_TITLE	Nacht der lebendigen Ritter	
+$INDEX_3_4_ARMORED_CREEPS_TEXT	Auf der Suche nach Zuflucht in der Festung findet die Gruppe Böses in der Dunkelheit.	
+$INDEX_3_5_MEET_THE_KNIGHT_TITLE	Rüstung ist für Weicheier	
+$INDEX_3_5_MEET_THE_KNIGHT_TEXT	Ein einsamer Ritter schließt sich der Gruppe an und stellt seine rüstungsbrechenden Talente unter Beweis.	
+$INDEX_GUARD_TOWN_TITLE	Wachen-Versteck	
+$INDEX_GUARD_TOWN_TEXT	Ein durch frühere Wachen der Grube bewohntes Fort, die sich vor rachsüchtigen Überlebenden der Seuche versteckten.	
+$INDEX_SIDEQUEST_5_TITLE	Rückkehr in die Schatten	
+$INDEX_SIDEQUEST_5_TEXT	Die seltsame Frau kehrt zurück und entführt $BER und $KNI.	
+$INDEX_3_6_INTO_THE_CITY_TITLE	Tiefer in die Festung	
+$INDEX_3_6_INTO_THE_CITY_TEXT	$KNI führt die Gruppe auf der Suche nach Antworten tiefer in die Festung hinein.	
+$INDEX_3_7_UNWELCOME_GUESTS_TITLE	Unerwünschte Gäste	
+$INDEX_3_7_UNWELCOME_GUESTS_TEXT	Die Gruppe findet in den Katakomben einen unerwarteten Verbündeten.	
+$INDEX_3_8_DEFEND_NEST_TITLE	Verteidigt das Nest	
+$INDEX_3_8_DEFEND_NEST_TEXT	$DRA verspricht zu helfen, wenn die Helden ihr Nest verteidigen.	
+$INDEX_DRAGON_LAIR_TITLE	Drachennest	
+$INDEX_DRAGON_LAIR_TEXT	Das mit Schätzen gefüllte Nest von $DRA, Heim ihrer Jungen.	
+$INDEX_3_9_GOAT_STEW_TITLE	Stürmt die Schafe	
+$INDEX_3_9_GOAT_STEW_TEXT	$DRA hat Hunger. $MCG bietet eine Alternative zu Menschenfleisch.	
+$INDEX_3_10_THE_CITADEL_TITLE	Das königliche Archiv	
+$INDEX_3_10_THE_CITADEL_TEXT	Die Gruppe bahnt sich den Weg zu einem alten Archiv in der Hoffnung, Antworten zu finden.	
+$INDEX_FIRE_SHRINE_TITLE	Quaid-Feuerschrein	
+$INDEX_FIRE_SHRINE_TEXT	Dies ist ein Quaid-Feuerschrein.	
+$INDEX_SIDEQUEST_6_TITLE	Der gefallene Tempel	
+$INDEX_SIDEQUEST_6_TEXT	$MAG und $MCG läutern einen geschändeten Quaid-Feuerschrein.	
+$INDEX_DESTROYED_RANGER_TOWN_TITLE	Zerstörte Waldläufer-Stadt	
+$INDEX_DESTROYED_RANGER_TOWN_TEXT	Die Überreste der Waldläuferstadt. Einige Waldläufer verbleiben inmitten des Schutts.	
+$INDEX_3_11_CITADEL_BOSS_TITLE	Flucht durch den Tunnel	
+$INDEX_3_11_CITADEL_BOSS_TEXT	Die Gruppe flieht aus der Zitadelle durch einen Abwasserkanal, durch den sie von einer Truppe Wiedergänger verfolgt wird.	
+$INDEX_3_12_TUNNEL_ESCAPE_TITLE	Sprengt die Minen	
+$INDEX_3_12_TUNNEL_ESCAPE_TEXT	$HEA plant, die Minen zu sprengen, wenn $MCG die Armee der Wiedergänger lang genug zurückhalten kann.	
+$INDEX_3_13_DESTROY_CITY_TITLE	Zelemir erscheint	
+$INDEX_3_13_DESTROY_CITY_TEXT	Zelemir stellt sich zwischen die Gruppe und den Ausweg.	
+$INDEX_GHOST_TOWN_TITLE	Geisterstadt	
+$INDEX_GHOST_TOWN_TEXT	Ein beinahe verlassenes Dorf, lediglich von ein paar Söldnern und Quaid-Überlebenden bevölkert.	
+$INDEX_4_1_EZTLIS_FORCES_TITLE	Eztli-Tenochs Streitkräfte	
+$INDEX_4_1_EZTLIS_FORCES_TEXT	Auf dem Weg zur Ostseite der Grube durchquert die Gruppe das Reich Eztli-Tenochs.	
+$INDEX_4_2_WIZARDS_REALM_TITLE	Reich des Zauberers	
+$INDEX_4_2_WIZARDS_REALM_TEXT	Die Gruppe findet sich in den altertümlichen Ruinen einer seltsamen Stadt wieder. Was ist das für ein Ort?	
+$INDEX_4_3_THE_HALLS_TITLE	Die Hallen des Gottkönigs	
+$INDEX_4_3_THE_HALLS_TEXT	Der frühere Thronraum von Eztli-Tenoch selbst, jetzt Schauplatz für eine weitere Schlacht.	
+$INDEX_TREASURE_CHAMBER_TITLE	Schatzkammer	
+$INDEX_TREASURE_CHAMBER_TEXT	Die Entdeckung von $DRA ist sowohl ein Zufluchtsort als auch ein Lager zum Aufstocken … falls du das Geld hast.	
+$INDEX_SIDEQUEST_7_TITLE	Die Schattenkönigin	
+$INDEX_SIDEQUEST_7_TEXT	Die Identität der seltsamen Frau ist endlich offenbart.	
+$INDEX_4_4_FREEDOM_DASH_TITLE	Ein verzweifelter Sprint in die Freiheit	
+$INDEX_4_4_FREEDOM_DASH_TEXT	Richtung Bergpass hetzend ist die Gruppe gezwungen, einen Fluss zu überqueren.	
+$INDEX_4_5_RIGHT_HAND_TITLE	Eztli-Tenochs rechte Hand	
+$INDEX_4_5_RIGHT_HAND_TEXT	Ein seltsamer Feind greift an.	
+$INDEX_4_7_FOLLOW_ZELEMIR_TITLE	Zelemir folgen	
+$INDEX_4_7_FOLLOW_ZELEMIR_TEXT	$MCG befindet Zelemirs Plan als zu schrecklich und macht sich auf den Weg, ihn aufzuhalten.	
+$INDEX_4_6_THE_WAY_OUT_TITLE	Der Weg nach draußen	
+$INDEX_4_6_THE_WAY_OUT_TEXT	$MCG akzeptiert Zelemirs Angebot und macht sich auf den Weg, aus der Grube zu fliehen.	
+$INDEX_4_8_THE_ARMY_TITLE	Zelemirs Armee	
+$INDEX_4_8_THE_ARMY_TEXT	Nach dem Besiegen der Nachhut steht die Armee von $MCG der von Zelemir gegenüber.	
+$INDEX_4_9_ZELEMIR_TITLE	Im Angesicht des Wahnsinns	
+$INDEX_4_9_ZELEMIR_TEXT	$MCG eilt, um Zelemir davon abzuhalten, die Kristalle zu entzünden und damit die Grube gänzlich zu zerstören.	
+$INDEX_12_4_FINAL_TITLE	Der Gottkönig wandelt wieder	
+$INDEX_12_4_FINAL_TEXT	Durch das Blut von $MCG befreit, erhebt sich Eztli-Tenoch.	
+$INDEX_HERMIT_1_TITLE	Eremitage	
+$INDEX_HERMIT_1_TEXT	Ein exzentrischer Eremit aus einem der Nomadenstämme lebt hier.	
+$INDEX_HERMIT_2_TITLE	Eremitage	
+$INDEX_HERMIT_2_TEXT	Der Wohnsitz eines weiteren Eremiten, der dem ersten seltsam ähnlich ist.	
+$INDEX_HERMIT_3_TITLE	Eremitage	
+$INDEX_HERMIT_3_TEXT	Ein dritter Eremit hat seine Bleibe tief im Wald.	
+$INDEX_HERMIT_4_TITLE	Eremitage	
+$INDEX_HERMIT_4_TEXT	Der letzte Eremit hat sich als Wohnort die Wüste ausgesucht.	
+$INDEX_OBELISK_TITLE	Seltsames Monument	
+$INDEX_OBELISK_TEXT	In der Wüste ist ein seltsames Monument.	
+$BLANK		

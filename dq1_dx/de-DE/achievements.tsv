@@ -1,0 +1,62 @@
+flag	value
+$ACHV_AZRA_LVL_10_TITLE	Büchereinräumer
+$ACHV_AZRA_LVL_10_DESC	Bringe deine Bibliothekarin auf Level 10
+$ACHV_AZRA_LVL_25_TITLE	Bibliotheksverantwortlich
+$ACHV_AZRA_LVL_25_DESC	Bringe deine Bibliothekarin auf Level 25
+$ACHV_HAVE_ALL_CLASSES_TITLE	Meine eigene Armee
+$ACHV_HAVE_ALL_CLASSES_DESC	Schalte alle 6 Charakterklassen frei (ohne Bibliothekar)
+$ACHV_BEAT_ANY_EXTREME_TITLE	Ein Goldstern für dich!
+$ACHV_BEAT_ANY_EXTREME_DESC	Schaffe irgendein Level auf Extrem
+$ACHV_HAVE_SKILL_LVL_20_TITLE	Unglaublich talentiert
+$ACHV_HAVE_SKILL_LVL_20_DESC	Schalte ein Level-20-Talent frei
+$ACHV_BOOST_TECH_5_TITLE	I've Got the Power!
+$ACHV_BOOST_TECH_5_DESC	Verstärke einen Charakter in einem Kampf maximal
+$ACHV_AZRA_LVL_40_TITLE	Bibliophysiker
+$ACHV_AZRA_LVL_40_DESC	Bringe deine Bibliothekarin auf Level 40
+$ACHV_AZRA_LVL_60_TITLE	Bibliomane
+$ACHV_AZRA_LVL_60_DESC	Bringe deine Bibliothekarin auf Level 60
+$ACHV_HAVE_ALL_WEAPONS_UNIQUE_TITLE	Schweizer Armeeschwert
+$ACHV_HAVE_ALL_WEAPONS_UNIQUE_DESC	Verdiene alle einzigartigen Waffen im Standardspiel
+$ACHV_HAVE_ALL_ARMOR_UNIQUE_TITLE	Schweizer Armeeplatte
+$ACHV_HAVE_ALL_ARMOR_UNIQUE_DESC	Verdiene alle einzigartigen Rüstungen im Standardspiel
+$ACHV_HAVE_ALL_BOOKS_NORMAL_TITLE	Bücherwurm
+$ACHV_HAVE_ALL_BOOKS_NORMAL_DESC	Kriege alle Herausforderungsbücher im Standardspiel
+$ACHV_ENDLESS_100_NORMAL_TITLE	Ausdauer
+$ACHV_ENDLESS_100_NORMAL_DESC	Erreiche Welle 100 in der Endlos 2 im Standardspiel
+$ACHV_BEAT_GAME_NORMAL_TITLE	Ein Gewinner bist du!
+$ACHV_BEAT_GAME_NORMAL_DESC	Schließe das Standardspiel ab
+$ACHV_BEAT_ALL_SIDEQUESTS_TITLE	Keine losen Enden
+$ACHV_BEAT_ALL_SIDEQUESTS_DESC	Schaffe alle Nebenaufgaben in einem neuen Spiel+
+$ACHV_HAVE_201_STARS_BLUE_TITLE	Vervollständiger
+$ACHV_HAVE_201_STARS_BLUE_DESC	Verdiene 201 blaue Sterne
+$ACHV_UPGRADE_ALL_WEAPONS_UNIQUE_TITLE	Große Box tötenden Zeugs
+$ACHV_UPGRADE_ALL_WEAPONS_UNIQUE_DESC	Verbessere alle einzigartigen Waffen in einem neuen Spiel+
+$ACHV_UPGRADE_ALL_ARMOR_UNIQUE_TITLE	Große Box des Nichtsterbens
+$ACHV_UPGRADE_ALL_ARMOR_UNIQUE_DESC	Verbessere alle einzigartigen Rüstungen in einem neuen Spiel+
+$ACHV_HAVE_ALL_BOOKS_PLUS_TITLE	Bücherdrache
+$ACHV_HAVE_ALL_BOOKS_PLUS_DESC	Kriege alle Herausforderungsbücher in einem neuen Spiel+
+$ACHV_ENDLESS_100_PLUS_TITLE	Marathon
+$ACHV_ENDLESS_100_PLUS_DESC	Erreiche Welle 100 in der Endlos 2 in einem neuen Spiel+
+$ACHV_BEAT_GAME_PLUS_TITLE	Ein Gewinner+ bist du!
+$ACHV_BEAT_GAME_PLUS_DESC	Schließe das Spiel in als neues Spiel+ ab
+$ACHV_BEAT_SUPER_SHEEP_NORMAL_TITLE	Schafschlächter
+$ACHV_BEAT_SUPER_SHEEP_NORMAL_DESC	Besiege das Superschaf im Standardspiel
+$ACHV_HERO_MODE_TITLE	Heldenmodus
+$ACHV_HERO_MODE_DESC	Schaffe das Standardspiel ohne generische Rekruten
+$ACHV_HERO_MODE_PLUS_TITLE	Heldenmodus+
+$ACHV_HERO_MODE_PLUS_DESC	Schaffe das neue Spiel+ ohne generische Rekruten
+$ACHV_HAVE_201_STARS_GOLD_TITLE	Super-Vervollständiger
+$ACHV_HAVE_201_STARS_GOLD_DESC	Verdiene 201 goldene Sterne
+$ACHV_BEAT_SUPER_SHEEP_PLUS_TITLE	Ultra-Schafschlächter
+$ACHV_BEAT_SUPER_SHEEP_PLUS_DESC	Besiege das Superschaf in einem neuen Spiel+
+$ACHV_HERO_MODE_PLUS_PLUS_TITLE	Heldenmodus++
+$ACHV_HERO_MODE_PLUS_PLUS_DESC	Verdiene 180 Goldsterne ohne generische Rekruten*Heldenmodus++ ist sehr schwer – wir empfehlen, Erfahrungsboni auf 300% im Optionsmenü zu erhöhen.
+$ACHV_USE_TARGETS_TITLE	Präzisionszielen
+$ACHV_USE_TARGETS_DESC	Benutze eine erweiterte Zielfunktion
+$ACHV_MENU_ACCESS_TITLE	Keine Barrieren
+$ACHV_MENU_ACCESS_DESC	Besuche das Barrierefreiheitsmenü
+$ACHV_MENU_CONTROLS_TITLE	Keine Kontrolle!
+$ACHV_MENU_CONTROLS_DESC	Besuche das Steuerungsmenü$N(Optionen->Steuerung)
+$ACHV_MENU_TIPS_TITLE	Bücher wälzen
+$ACHV_MENU_TIPS_DESC	Besuche das Tipps-Menü$N(Oberwelt->Tipps)
+$ACHV_MENU_NULL	Null

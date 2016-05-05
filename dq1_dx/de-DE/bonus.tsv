@@ -1,0 +1,27 @@
+flag	name
+$BONUS_1_TITLE	Herausforderung 1
+$BONUS_2_TITLE	Herausforderung 2
+$BONUS_3_TITLE	Herausforderung 3
+$BONUS_4_TITLE	Endlos 1
+$BONUS_5_TITLE	Herausforderung 4
+$BONUS_6_TITLE	Herausforderung 5
+$BONUS_7_TITLE	Endlos 2
+$BONUS_1_DESC	Diese heimtückischen schwimmenden Kriecher.
+$BONUS_2_DESC	Keine Bogenschützen oder Drachen<C> und nur 6 Verteidigerpunkte. Was tun?
+$BONUS_3_DESC	Eine Mehrfrontenschlacht.
+$BONUS_4_DESC	Stelle dich einer endlosen Herausforderung von Gegnern.
+$BONUS_5_DESC	Gegen den Strom schwimmen.
+$BONUS_6_DESC	Viel Verkehr in der Mitte und Bedrohungen über die Flanken.
+$BONUS_7_DESC	Eine weitere endlose Herausforderung,<C> aber dieses Mal greifen sie nicht an – wie viel Schaden pro Sekunde kriegst du hin?
+$BONUS_1_NUMS	size:14,off_x:-5,off_y:-1,btn_off_x:25,star_off_x:-5,star_off_y:-8
+$BONUS_2_NUMS	size:14,off_x:-5,off_y:-1,btn_off_x:25,star_off_x:-5,star_off_y:-8
+$BONUS_3_NUMS	size:14,off_x:-5,off_y:-1,btn_off_x:25,star_off_x:-5,star_off_y:-8
+$BONUS_4_NUMS	size:14,off_x:0,off_y:1,btn_off_x:25,star_off_x:-5,star_off_y:-8
+$BONUS_5_NUMS	size:14,off_x:-5,off_y:-1,btn_off_x:25,star_off_x:-5,star_off_y:-8
+$BONUS_6_NUMS	size:14,off_x:-5,off_y:-1,btn_off_x:25,star_off_x:-5,star_off_y:-8
+$BONUS_7_NUMS	size:14,off_x:0,off_y:1,btn_off_x:25,star_off_x:-5,star_off_y:-8
+$BONUS_RECORD_WAVE	(Rekord: Welle <WAVE_NUM>)
+$BONUS_REWARDS	BELOHNUNGEN
+$BONUS_HIGH_SCORE	Highscore
+$BONUS_REACH_WAVE	Erreiche Welle <WAVE_NUM>
+$BONUS_BEAT_WAVE	Bezwinge Welle <WAVE_NUM>

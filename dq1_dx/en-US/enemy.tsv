@@ -1,0 +1,81 @@
+flag	nick_name	flavor_name	flavor_text
+$EN_SLUGWORM	FAST	Worm	Swift Revenant Spawn|These fast-moving worm-like creatures have several rows of sharp teeth.,<N><N>Eyewitness accounts speak of them bursting from large, bloated Revenant that have festered for weeks.
+$EN_NORMAL	NORMAL	Revenant	Reanimated Corpse|In the pit, corpses often rise again several days after death.<N><N>These monsters are known as <LQ>Revenant,<RQ> meaning, <LQ>Those who Return.<RQ>
+$EN_CULTIST_SECT			The <LQ>Cult of the Blood-Mad<RQ> began with a nomadic sect known for ceremonial blood-letting.
+$EN_CULTIST_ACCOUNT			These accounts are from survivors of the Geka tribe massacre. Many report cultists transforming into Revenant at will.
+$EN_CULTIST_BASIC			<RE>[$EN_CULTIST_SECT_FLAVOR_TEXT]<N><N>Little is known about their worship or beliefs beyond the name of their deity, <LQ>Eztli-Tenoch,<RQ> and their constant hunt for fresh victims.<N><N><RE>[$EN_CULTIST_ACCOUNT_FLAVOR_TEXT]
+$EN_CULTIST	CULTIST	Cultist	Transmogrified Cultist|<RE>[$EN_CULTIST_BASIC_FLAVOR_TEXT]
+$EN_ARMORED CULTIST	CULTIST PRIEST	Cultist Priest	Cultist Priest|<RE>[$EN_CULTIST_SECT_FLAVOR_TEXT]<N><N>Acts of ritualistic violence are carried out by cultist priests, who often exhibit extensive self-mutilation.<N><N><RE>[$EN_CULTIST_ACCOUNT_FLAVOR_TEXT]
+$EN_INSANE CULTIST	INSANE CULTIST	High Priest	Cultist High Priest|<RE>[$EN_CULTIST_SECT_FLAVOR_TEXT]<N><N>Some Quaid historical records claim the cult was organized under a matriarchal office termed the <LQ>Queen of Many Devils.<RQ> This central power structure appears to have vanished in recent centuries in favor of a looser assembly of high priests.
+$EN_NORMAL_W	<RE>$EN_NORMAL_NICK_NAME	Water Fiend	Swimming Revenant|These Revenant exude a sticky slime that water-proofs their body.<N><N>Noxious gases fill their abdomen, which keeps them from sinking
+$EN_ARMORED	ARMORED	Fallen Knight	Armored Revenant|These Revenant were once knights that fell in battle.<N><N>Although they retain none of the intelligence and skill they had in life, they still retain their armor.
+$EN_SPEEDY	FAST	Worm	Swift Revenant Spawn|These fast-moving worm-like creatures have several rows of sharp teeth.<N><N>Eyewitnesses accounts speak of them bursting out of large, bloated Revenant that have festered for weeks.
+$EN_SPEEDY_W	<RE>$EN_SPEEDY_NICK_NAME	Serpent	Swift Swimming Spawn|Some say these swimming worm-Revenant split off from buoyant human Revenant.<N><N>Others suggest they grew from the corpses of fish and river snakes.
+$EN_ARMORED SPEEDY	<RE>$EN_SPEEDY_NICK_NAME	Shell Worm	Swift Armored Spawn|These worm-Revenant have developed a thick carapace.<N><N>Many theorize that the armored shell is composed of bone digested from the original corpse.
+$EN_ARMORED_SPEEDY_W	<RE>$EN_SPEEDY_NICK_NAME	Shell Serpent	Swift Armored Swimming Spawn|These swimming worm-Revenant have developed both an armored carapace and the ability to swim.<N><N>The smell of digested bone and noxious gas is overpowering.
+$EN_ATTACKER	FIGHTER	Mad Ghoul	Fighting Revenant|Some Revenant are more aggressive than others.<N><N>Whereas normal Revenant single-mindedly stalk a single victim, these are known to attack everything in sight.
+$EN_DARK ATTACKER	SHADOW BOXER	Dark Ghoul	Dark Fighting Revenant|The gases that build up in a Revenant's abdomen escape through pores in the skin, surrounding the creature in a noxious cloud of dense, overpowering smoke that both obscures it from view and confuses its victims.
+$EN_ATTACKER_W	<RE>$EN_ATTACKER_NICK_NAME	River Ghoul	Fighting Swimming Revenant|Tales of stinking corpses rising from the water and attacking thirsty villagers abound in the pit.<N><N>No one fetches water alone, and only the mad dare to swim.
+$EN_ARMORED ATTACKER	<RE>$EN_ATTACKER_NICK_NAME	Mad Knight	Fighting Armored Revenant|These fallen knights are both vicious and strong.<N><N>Their unearthly cries echo through the catacombs and across the wasteland.
+$EN_RAPID_ATTACKER	RAPID ATTACK	 
+$EN_APC	SPLITTER	Monstrosity	Spawn Host|These bloated corpses can barely move and look ready to pop at any moment.<N><N>Several mouths filled with teeth sprout from their sides. They are also too big to knock back or devour.
+$EN_APC_W	<RE>$EN_APC_NICK_NAME	Fetid Corpse	Swimming Spawn Host|These Revenant smell like a sack of rotten fish wrapped in sewage and death.<N><N>They float easily, and look ready to pop at any moment.
+$EN_ARMORED APC	ARMORED SPLIT	Shell Beast	Armored Spawn Host|A giant carapace protects this monstrous blob of digested flesh.<N><N>One suspects it has no bones left at all.
+$EN_DOUBLE APC	DOUBLE SPLIT	Abomination	Splitting Spawn Host|This strange monster is discolored as well as bloated.<N><N>What could it mean?
+$EN_RANGED ATTACKER_BASIC			As the weeks go on, some strange process starts to digest and warp the body of the Revenant.<N><N>Witnesses report being attacked by eyeless <LQ>snake-men<RQ> spewing rank bile.
+$EN_RANGED ATTACKER	RANGED	Snake Ghoul	Projectile Revenant|<RE>[$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT]
+$EN_ARMORED RANGED ATTACKER	<RE>$EN_RANGED ATTACKER_NICK_NAME	Snake Ghoul	Armored Projectile Revenant<RE>[$EN_RANGED ATTACKER_FLAVOR_TEXT]
+$EN_RANGED ATTACKER_W	<RE>$EN_RANGED ATTACKER_NICK_NAME	River Snake Ghoul	Swimming Projectile Revenant|<RE>[$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT]
+$EN_DARK	DARK	Shadow Worm	Swift Dark Spawn|These worms are shrouded in a thick black mist that make them nearly impossible to hit.
+$EN_BRUTE	TOUGH	Death Worm	Tough Revenant Spawn|These pale and worm-like creatures move slowly, and feature tough, leathery skin instead of a fragile outer membrane.<N><N>Although easily outrun, they usually overcome their prey through relentless, unending pursuit.
+$EN_ERROR	ERROR	Error	I Am Error|If you're reading this it means that someone probably has a typo in the enemy data. This is the enemy we show when the intended one can't be found
+$EN_SHEEP	SHEEP	Sheep	Delicious Mammal|Dragons can go for years without eating, but when they do feed can consume many times their body weight in a single day.  This fact is a source of great discomfort to nomadic shepherds and their flocks.
+$EN_SPEEDY SHEEP	SPEEDY SHEEP	Swift Sheep	Swift Delicious Mammal|Certain sheep have adapted to the hostile conditions in the pit with highly developed fast-twitch muscles.  This is of no use in outrunning dragons, but does allow them to at least outrun the other sheep.
+$EN_SUPER SHEEP	SUPER SHEEP	Super Sheep	Mythically Delicious Mammal|Dragon legends speak of this rare sheep, the Axxima Vatta Muttanaxxor, in hushed, reverent tones, and the sacred Dragon scriptures detail an elaborate ritual to be performed at its arrival.  Traditional scholarship groups the Dragon scriptures with other religious texts, but new research suggests it be re-classified as a cookbook.
+$EN_OZIMAL	OZIMAL	Ozimal Kaz	Revenant Slave|The once great Warlord of the Pit, now nothing more than Zelemir's mindless minion.<N>His robe still pretty snazzy, though.
+$EN_TWIN	TWIN	Twin	Revenant Brother|BLARGH YAAAARGH GAR GAR HUR.
+$EN_RIGHT_INDEX_FINGER	INDEX FINGER	Index Finger	Monstrous Finger|Although severed from its hand, this finger moves of its own accord.
+$EN_RIGHT_THUMB	THUMB	Thumb	Monstrous Thumb|Although severed from its hand, this thumb moves of its own accord.
+$EN_RIGHT_MIDDLE_FINGER	MIDDLE FINGER	Middle Finger	Monstrous Finger|This severed finger seems to be making an obscene gesture. How Rude!
+$EN_RIGHT_RING_FINGER	RING FINGER	Ring Finger	<RE>$EN_RIGHT_INDEX_FINGER_FLAVOR_TEXT
+$EN_RIGHT_PINKY_FINGER	PINKY FINGER	Pinky Finger	<RE>$EN_RIGHT_INDEX_FINGER_FLAVOR_TEXT
+$EN_RIGHT_EYE	EZTLI'S EYE	Eztli's Eye	Monstrous Eye|This malevolent eye glows with dark power and moves with an unnatural swiftness.
+$EN_RIGHT_HAND	EZTLI'S HAND	Eztli's Hand	Monstrous Hand|The cultist leader called this monster the <LQ>The Right Hand of Eztli-Tenoch.<RQ> Given how little is known about Eztli-Tenoch, it is unclear whether this is really the dread wizard's own hand or merely a creation of his dark magic. On closer inspection, it seems to be a LEFT hand. How sinister.
+$EN_ZELEMIR	ZELEMIR	Zelemir	Necromantic Sorceror|Zelemir's eyes glow with resolute determination.
+$EN_EZTLI	EZTLI-TENOCH	Eztli-Tenoch	Ancient Legendary Wizard|An ancient force, long slumbering, now awakened. Eztli-Tenoch once ruled the known world as self-proclaimed God-King. His power and malevolence are outmatched only by his unflinching patience.
+$EN_ZELEMIR-CITADEL	<RE>$EN_ZELEMIR_NICK_NAME	<RE>$EN_ZELEMIR_FLAVOR_NAME	<RE>$EN_ZELEMIR_FLAVOR_TEXT
+$EN_NORMAL_NOMONEY	<RE>$EN_NORMAL_NICK_NAME	<RE>$EN_NORMAL_FLAVOR_NAME	<RE>$EN_NORMAL_FLAVOR_TEXT
+$EN_NORMAL_EXP	<RE>$EN_NORMAL_NICK_NAME	<RE>$EN_NORMAL_FLAVOR_NAME	<RE>$EN_NORMAL_FLAVOR_TEXT
+$EN_NORMAL_EXP_PSI	<RE>$EN_NORMAL_NICK_NAME	<RE>$EN_NORMAL_FLAVOR_NAME	<RE>$EN_NORMAL_FLAVOR_TEXT
+$EN_NORMAL_LOWXP	<RE>$EN_NORMAL_NICK_NAME	<RE>$EN_NORMAL_FLAVOR_NAME	<RE>$EN_NORMAL_FLAVOR_TEXT
+$EN_CULTIST_LOWXP	<RE>$EN_CULTIST_NICK_NAME	<RE>$EN_CULTIST_FLAVOR_NAME	<RE>$EN_CULTIST_FLAVOR_TEXT
+$EN_ARMORED CULTIST_LOWXP	<RE>$EN_ARMORED CULTIST_NICK_NAME	<RE>$EN_ARMORED CULTIST_FLAVOR_NAME	<RE>$EN_ARMORED CULTIST_FLAVOR_TEXT
+$EN_NORMAL_W_LOWXP	<RE>$EN_NORMAL_NICK_NAME	<RE>$EN_NORMAL_W_FLAVOR_NAME	<RE>$EN_NORMAL_W_FLAVOR_TEXT
+$EN_ARMORED_LOWXP	<RE>$EN_ARMORED_NICK_NAME	<RE>$EN_ARMORED_FLAVOR_NAME	<RE>$EN_ARMORED_FLAVOR_TEXT
+$EN_SPEEDY_LOWXP	<RE>$EN_SPEEDY_NICK_NAME	<RE>$EN_SPEEDY_FLAVOR_NAME	<RE>$EN_SPEEDY_FLAVOR_TEXT
+$EN_SPEEDY_W_LOWXP	<RE>$EN_SPEEDY_NICK_NAME	<RE>$EN_SPEEDY_W_FLAVOR_NAME	<RE>$EN_SPEEDY_W_FLAVOR_TEXT
+$EN_ARMORED SPEEDY_LOWXP	<RE>$EN_SPEEDY_NICK_NAME	<RE>$EN_ARMORED SPEEDY_FLAVOR_NAME	<RE>$EN_ARMORED SPEEDY_FLAVOR_TEXT
+$EN_ARMORED_SPEEDY_W_LOWXP	<RE>$EN_SPEEDY_NICK_NAME	<RE>$EN_ARMORED_SPEEDY_W_FLAVOR_NAME	<RE>$EN_ARMORED_SPEEDY_W_FLAVOR_TEXT
+$EN_ATTACKER_LOWXP	<RE>$EN_ATTACKER_NICK_NAME	<RE>$EN_ATTACKER_FLAVOR_NAME	<RE>$EN_ATTACKER_FLAVOR_TEXT
+$EN_DARK ATTACKER_LOWXP	<RE>$EN_DARK ATTACKER_NICK_NAME	<RE>$EN_DARK ATTACKER_FLAVOR_NAME	<RE>$EN_DARK ATTACKER_FLAVOR_TEXT
+$EN_ATTACKER_W_LOWXP	<RE>$EN_ATTACKER_NICK_NAME	<RE>$EN_ATTACKER_W_FLAVOR_NAME	<RE>$EN_ATTACKER_W_FLAVOR_TEXT
+$EN_ARMORED ATTACKER_LOWXP	<RE>$EN_ATTACKER_NICK_NAME	<RE>$EN_ARMORED ATTACKER_FLAVOR_NAME	<RE>$EN_ARMORED ATTACKER_FLAVOR_TEXT
+$EN_RAPID_ATTACKER_LOWXP	<RE>$EN_RAPID_ATTACKER_NICK_NAME	<RE>$EN_RAPID_ATTACKER_FLAVOR_NAME	<RE>$EN_RAPID_ATTACKER_FLAVOR_TEXT
+$EN_APC_LOWXP	<RE>$EN_APC_NICK_NAME	<RE>$EN_APC_FLAVOR_NAME	<RE>$EN_APC_FLAVOR_TEXT
+$EN_APC_W_LOWXP	<RE>$EN_APC_NICK_NAME	<RE>$EN_APC_W_FLAVOR_NAME	<RE>$EN_APC_W_FLAVOR_TEXT
+$EN_ARMORED APC_LOWXP	<RE>$EN_ARMORED APC_NICK_NAME	<RE>$EN_ARMORED APC_FLAVOR_NAME	<RE>$EN_ARMORED APC_FLAVOR_TEXT
+$EN_DOUBLE APC_LOWXP	<RE>$EN_DOUBLE APC_NICK_NAME	<RE>$EN_DOUBLE APC_FLAVOR_NAME	<RE>$EN_DOUBLE APC_FLAVOR_TEXT
+$EN_ARMORED RANGED ATTACKER_LOWXP	<RE>$EN_RANGED ATTACKER_NICK_NAME	<RE>$EN_ARMORED RANGED ATTACKER_FLAVOR_NAME	<RE>$EN_ARMORED RANGED ATTACKER_FLAVOR_TEXT
+$EN_RANGED ATTACKER_LOWXP	<RE>$EN_RANGED ATTACKER_NICK_NAME	<RE>$EN_RANGED ATTACKER_FLAVOR_NAME	<RE>$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT
+$EN_RANGED ATTACKER_W_LOWXP	<RE>$EN_RANGED ATTACKER_NICK_NAME	<RE>$EN_RANGED ATTACKER_W_FLAVOR_NAME	<RE>$EN_RANGED ATTACKER_W_FLAVOR_TEXT
+$EN_DARK_LOWXP	<RE>$EN_DARK_NICK_NAME	<RE>$EN_DARK_FLAVOR_NAME	<RE>$EN_DARK_FLAVOR_TEXT
+$EN_BRUTE_LOWXP	<RE>$EN_BRUTE_NICK_NAME	<RE>$EN_BRUTE_FLAVOR_NAME	<RE>$EN_BRUTE_FLAVOR_TEXT
+$EN_APC_NOATTACK_LOWXP	<RE>$EN_APC_NICK_NAME	<RE>$EN_APC_FLAVOR_NAME	<RE>$EN_APC_FLAVOR_TEXT
+$EN_CULTIST_NOATTACK_LOWXP	<RE>$EN_CULTIST_NICK_NAME	<RE>$EN_CULTIST_FLAVOR_NAME	<RE>$EN_CULTIST_FLAVOR_TEXT
+$EN_PSI SHEEP	<RE>$EN_SHEEP_NICK_NAME	<RE>$EN_SHEEP_FLAVOR_NAME	<RE>$EN_SHEEP_FLAVOR_TEXT
+$EN_3_11_BOSS	BOSS	
+$EN_FINGER	EZTLI'S FINGER	
+$EN_HEALIE	HEALIE	Healie	Secret Boss|Description
+$EN_MEANIE	MEANIE	Meanie	Secret Boss|Description
+$EN_STEALY	STEALY	Stealy	Secret Boss|Description
+$EN_CRAZY	CRAZY	Crazy	Secret Boss|Description
