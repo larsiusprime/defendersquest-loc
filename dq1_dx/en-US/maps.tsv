@@ -14,6 +14,8 @@ $1_1_WHERE_AM_I_50_TITLE	TALK_$MCG_POWER
 $1_1_WHERE_AM_I_50_TEXT	Hey, Stranger! Where are you?
 $1_1_WHERE_AM_I_60_TITLE	
 $1_1_WHERE_AM_I_60_TEXT	Click here to select the BERSERKER menu.
+$1_1_WHERE_AM_I_61_TITLE	
+$1_1_WHERE_AM_I_61_TEXT	Press <DEFENDERS> or <UP> to select the BERSERKER menu.
 $1_1_WHERE_AM_I_70_TITLE	
 $1_1_WHERE_AM_I_70_TEXT	Right now you only have your berserkers. When you meet the next hero in the story, you'll unlock all the characters of that class.
 $1_1_WHERE_AM_I_80_TITLE	TALK_$BER_SURPRISE
@@ -26,6 +28,8 @@ $1_1_WHERE_AM_I_110_TITLE
 $1_1_WHERE_AM_I_110_TEXT	This shows all the BERSERKERS in your party.<N>Right now you only have this guy.
 $1_1_WHERE_AM_I_120_TITLE	
 $1_1_WHERE_AM_I_120_TEXT	Click here to select him!
+$1_1_WHERE_AM_I_121_TITLE	
+$1_1_WHERE_AM_I_121_TEXT	Press <DOWN>, then <SELECT> to select him!
 $1_1_WHERE_AM_I_130_TITLE	
 $1_1_WHERE_AM_I_130_TEXT	Your old characters have all the strength, skills, and equipment from the last game.
 $1_1_WHERE_AM_I_140_TITLE	TALK_$MCG_POWER
@@ -40,6 +44,8 @@ $1_1_WHERE_AM_I_180_TITLE	TALK_$BER_LOOKBACK
 $1_1_WHERE_AM_I_180_TEXT	I really shouldn't have eaten that lizard stew....
 $1_1_WHERE_AM_I_190_TITLE	
 $1_1_WHERE_AM_I_190_TEXT	Click where you want to place your defender.<N><N>This is a good spot!
+$1_1_WHERE_AM_I_191_TITLE	
+$1_1_WHERE_AM_I_191_TEXT	Use <TILE_MOVE> to move, then <SELECT> to place.<N><N>This is a good spot!
 $1_1_WHERE_AM_I_200_TITLE	TALK_$BER_SMILE
 $1_1_WHERE_AM_I_200_TEXT	Heeeeeey!<N>This is more like it!
 $1_1_WHERE_AM_I_210_TITLE	
@@ -56,6 +62,8 @@ $1_1_WHERE_AM_I_260_TITLE
 $1_1_WHERE_AM_I_260_TEXT	Right now, the game is PAUSED.
 $1_1_WHERE_AM_I_270_TITLE	
 $1_1_WHERE_AM_I_270_TEXT	Click here to get things started.
+$1_1_WHERE_AM_I_271_TITLE	
+$1_1_WHERE_AM_I_271_TEXT	Press <PAUSE> to get things started.
 $1_1_WHERE_AM_I_280_TITLE	TALK_$BER_DERANGED
 $1_1_WHERE_AM_I_280_TEXT	Come on, you drooling wretches!<N>Your evisceration awaits!
 $1_1_WHERE_AM_I_290_TITLE	TALK_$BER_LOOKBACK
@@ -70,6 +78,8 @@ $1_1_WHERE_AM_I_330_TITLE
 $1_1_WHERE_AM_I_330_TEXT	At BOOST level 2, $BER can use his second technique, DOUBLE HIT.
 $1_1_WHERE_AM_I_340_TITLE	
 $1_1_WHERE_AM_I_340_TEXT	Click BOOST now!<N>You won't regret it!
+$1_1_WHERE_AM_I_341_TITLE	
+$1_1_WHERE_AM_I_341_TEXT	Press BOOST with <SELECT>!<N>You won't regret it!
 $1_1_WHERE_AM_I_350_TITLE	TALK_$BER_DERANGED
 $1_1_WHERE_AM_I_350_TEXT	This is more like it!
 $1_2_THE_SHADOW_WORLD_00_TITLE	TALK_$MCG_POWER
@@ -80,10 +90,14 @@ $1_2_THE_SHADOW_WORLD_20_TITLE	TALK_$BER_SURPRISE
 $1_2_THE_SHADOW_WORLD_20_TEXT	Bring me in! I feel like I'm floating in space!
 $1_2_THE_SHADOW_WORLD_30_TITLE	
 $1_2_THE_SHADOW_WORLD_30_TEXT	Remember,<N>click here to select the BERSERKER menu.
+$1_2_THE_SHADOW_WORLD_31_TITLE	
+$1_2_THE_SHADOW_WORLD_31_TEXT	Remember,<N>press <DEFENDERS> or <UP> to select the BERSERKER menu.
 $1_2_THE_SHADOW_WORLD_40_TITLE	TALK_$BER_SMILE
 $1_2_THE_SHADOW_WORLD_40_TEXT	Oh yeah, let's rumble!
 $1_2_THE_SHADOW_WORLD_50_TITLE	
 $1_2_THE_SHADOW_WORLD_50_TEXT	SELECT $BER by clicking on him.
+$1_2_THE_SHADOW_WORLD_51_TITLE	
+$1_2_THE_SHADOW_WORLD_51_TEXT	Use <TILE_MOVE> and <SELECT> to select $BER.
 $1_2_THE_SHADOW_WORLD_60_TITLE	
 $1_2_THE_SHADOW_WORLD_60_TEXT	These buttons tell $BER which enemy to attack.
 $1_2_THE_SHADOW_WORLD_70_TITLE	
@@ -92,12 +106,16 @@ $1_2_THE_SHADOW_WORLD_80_TITLE	Hint
 $1_2_THE_SHADOW_WORLD_80_TEXT	You can do stuff even when time is PAUSED.<N>Use <PAUSE> to quickly toggle pause.
 $1_2_THE_SHADOW_WORLD_90_TITLE	
 $1_2_THE_SHADOW_WORLD_90_TEXT	Don't forget to BOOST $BER.<N>It's an essential tactic.
+$1_2_THE_SHADOW_WORLD_91_TITLE	
+$1_2_THE_SHADOW_WORLD_91_TEXT	Don't forget to BOOST $BER with <SELECT>.<N>It's an essential tactic.
 $1_2_THE_SHADOW_WORLD_100_TITLE	TALK_$BER_DERANGED
 $1_2_THE_SHADOW_WORLD_100_TEXT	OH YEAH!<N>Feel the power!
 $1_2_THE_SHADOW_WORLD_110_TITLE	
 $1_2_THE_SHADOW_WORLD_110_TEXT	OH NO!<N>$BER can't reach this next wave of enemies!
 $1_2_THE_SHADOW_WORLD_120_TITLE	
 $1_2_THE_SHADOW_WORLD_120_TEXT	Use $MCG's LIGHTNING spell to get them!
+$1_2_THE_SHADOW_WORLD_121_TITLE	
+$1_2_THE_SHADOW_WORLD_121_TEXT	Use $MCG's LIGHTNING spell to get them!<N>Press <SPELLS>, then <SELECT>.
 $1_2_THE_SHADOW_WORLD_130_TITLE	
 $1_2_THE_SHADOW_WORLD_130_TEXT	Nice!<N>Use lightning to get enemies that slip by.
 $1_2_THE_SHADOW_WORLD_140_TITLE	
@@ -528,10 +546,14 @@ $INDEX_FIRST_LEVEL_100_TITLE
 $INDEX_FIRST_LEVEL_100_TEXT	Click here to begin.
 $INDEX_SECOND_LEVEL_110_TITLE	
 $INDEX_SECOND_LEVEL_110_TEXT	Click here to advance.
+$INDEX_SECOND_LEVEL_111_TITLE	
+$INDEX_SECOND_LEVEL_111_TEXT	Press <MOVE_MAP_DOWN> to advance.
 $INDEX_LVL_DUDE_120_TITLE	Tutorial
 $INDEX_LVL_DUDE_120_TEXT	Congratulations! A defender gained a level!
 $INDEX_LVL_DUDE_130_TITLE	Tutorial
 $INDEX_LVL_DUDE_130_TEXT	Click on that defender to upgrade skills.
+$INDEX_LVL_DUDE_131_TITLE	Tutorial
+$INDEX_LVL_DUDE_131_TEXT	Press <MENU_MENU> to switch to your characters.
 $INDEX_CLICK_DUDE_140_TITLE	Tutorial
 $INDEX_CLICK_DUDE_140_TEXT	This is the defender's SKILL TREE.
 $INDEX_CLICK_DUDE_150_TITLE	Techniques
@@ -542,10 +564,26 @@ $INDEX_SKILL_DUDE_170_TITLE	Tutorial
 $INDEX_SKILL_DUDE_170_TEXT	Mousing over the skill shows what will happen when you upgrade it.
 $INDEX_SKILL_DUDE_180_TITLE	Tutorial
 $INDEX_SKILL_DUDE_180_TEXT	Click on the skill to increase it by 1 point.
+$INDEX_CLICK_DUDE1_190_TITLE	Tutorial
+$INDEX_CLICK_DUDE1_190_TEXT	Press <MENU_SELECT> to inspect this character.
+$INDEX_SKILL_DUDE1_200_TITLE	Tutorial
+$INDEX_SKILL_DUDE1_200_TEXT	Press <MENU_DOWN>, then <MENU_SELECT> to inspect this character's SKILL TREE.
+$INDEX_ORB_DUDE1_210_TITLE	Tutorial
+$INDEX_ORB_DUDE1_210_TEXT	<RE>$INDEX_CLICK_DUDE_140_TEXT
+$INDEX_ORB_DUDE1_220_TITLE	Tutorial
+$INDEX_ORB_DUDE1_220_TEXT	<RE>$INDEX_CLICK_DUDE_150_TEXT
+$INDEX_ORB_DUDE1_230_TITLE	Tutorial
+$INDEX_ORB_DUDE1_230_TEXT	<RE>$INDEX_CLICK_DUDE_160_TEXT
+$INDEX_ORB_DUDE1_240_TITLE	Tutorial
+$INDEX_ORB_DUDE1_240_TEXT	This panel shows what will happen when you upgrade the skill.
+$INDEX_ORB_DUDE1_250_TITLE	Tutorial
+$INDEX_ORB_DUDE1_250_TEXT	<RE>$INDEX_D1_290_TEXT
 $INDEX_A_190_TITLE	Tutorial
 $INDEX_A_190_TEXT	Congratulations! $MCG gained a level!
 $INDEX_A_200_TITLE	Tutorial
 $INDEX_A_200_TEXT	Click on $MCG to upgrade her spells.
+$INDEX_A_201_TITLE	Tutorial
+$INDEX_A_201_TEXT	Press <MENU_MENU> to switch to your characters.
 $INDEX_B_210_TITLE	Tutorial
 $INDEX_B_210_TEXT	This is $MCG's SKILL TREE.<N>$MCG's skills are all SPELLS.
 $INDEX_B_220_TITLE	Tutorial
@@ -554,6 +592,16 @@ $INDEX_C_230_TITLE	Tutorial
 $INDEX_C_230_TEXT	Mousing over shows what will happen when you upgrade this skill.
 $INDEX_C_240_TITLE	Tutorial
 $INDEX_C_240_TEXT	Click the orb to increase this skill by 1 point.
+$INDEX_B1_250_TITLE	Tutorial
+$INDEX_B1_250_TEXT	Press <MENU_SELECT> to inspect $MCG.
+$INDEX_C1_260_TITLE	Tutorial
+$INDEX_C1_260_TEXT	Press <MENU_DOWN>, then <MENU_SELECT> to inspect $MCG's SKILL TREE.
+$INDEX_D1_270_TITLE	Tutorial
+$INDEX_D1_270_TEXT	<RE>$INDEX_B_210_TEXT
+$INDEX_D1_280_TITLE	Tutorial
+$INDEX_D1_280_TEXT	$MCG has one SKILL POINT to spend.<N>This shows what will happen when you upgrade this skill.
+$INDEX_D1_290_TITLE	Tutorial
+$INDEX_D1_290_TEXT	Press <MENU_SELECT> to increase this skill by 1 point.
 $INDEX_BUY_STUFF_250_TITLE	
 $INDEX_BUY_STUFF_250_TEXT	You can purchase equipment and hire new defenders in towns.
 $INDEX_BUY_STUFF_260_TITLE	
@@ -579,7 +627,7 @@ $INDEX_1_4_COLISEUM_2_TITLE	Return to The Coliseum
 $INDEX_1_4_COLISEUM_2_TEXT	Ozimal demonstrates $MCG's talents for a strange guest...
 $INDEX_1_5_RIVER_ESCAPE_TITLE	River Escape
 $INDEX_1_5_RIVER_ESCAPE_TEXT	A bold escape from the coliseum takes the party over a river.
-$INDEX_SHANTY_TITLE	Shanty 
+$INDEX_SHANTY_TITLE	Shanty
 $INDEX_SHANTY_TEXT	A dilapidated shanty town - looks like the escaped prisoners took refuge here.
 $INDEX_SIDEQUEST_1_TITLE	The Catacombs
 $INDEX_SIDEQUEST_1_TEXT	While on the run from Ozimal, $MCG returns to save those still trapped in the catacombs below the prison.
