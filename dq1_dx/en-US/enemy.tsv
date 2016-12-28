@@ -17,14 +17,14 @@ $EN_ATTACKER	FIGHTER	Mad Ghoul	Fighting Revenant|Some Revenant are more aggressi
 $EN_DARK ATTACKER	SHADOW BOXER	Dark Ghoul	Dark Fighting Revenant|The gases that build up in a Revenant's abdomen escape through pores in the skin, surrounding the creature in a noxious cloud of dense, overpowering smoke that both obscures it from view and confuses its victims.
 $EN_ATTACKER_W	<RE>$EN_ATTACKER_NICK_NAME	River Ghoul	Fighting Swimming Revenant|Tales of stinking corpses rising from the water and attacking thirsty villagers abound in the pit.<N><N>No one fetches water alone, and only the mad dare to swim.
 $EN_ARMORED ATTACKER	<RE>$EN_ATTACKER_NICK_NAME	Mad Knight	Fighting Armored Revenant|These fallen knights are both vicious and strong.<N><N>Their unearthly cries echo through the catacombs and across the wasteland.
-$EN_RAPID_ATTACKER	RAPID ATTACK	 
+$EN_RAPID_ATTACKER	RAPID ATTACK	
 $EN_APC	SPLITTER	Monstrosity	Spawn Host|These bloated corpses can barely move and look ready to pop at any moment.<N><N>Several mouths filled with teeth sprout from their sides. They are also too big to knock back or devour.
 $EN_APC_W	<RE>$EN_APC_NICK_NAME	Fetid Corpse	Swimming Spawn Host|These Revenant smell like a sack of rotten fish wrapped in sewage and death.<N><N>They float easily, and look ready to pop at any moment.
 $EN_ARMORED APC	ARMORED SPLIT	Shell Beast	Armored Spawn Host|A giant carapace protects this monstrous blob of digested flesh.<N><N>One suspects it has no bones left at all.
 $EN_DOUBLE APC	DOUBLE SPLIT	Abomination	Splitting Spawn Host|This strange monster is discolored as well as bloated.<N><N>What could it mean?
 $EN_RANGED ATTACKER_BASIC			As the weeks go on, some strange process starts to digest and warp the body of the Revenant.<N><N>Witnesses report being attacked by eyeless <LQ>snake-men<RQ> spewing rank bile.
 $EN_RANGED ATTACKER	RANGED	Snake Ghoul	Projectile Revenant|<RE>[$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT]
-$EN_ARMORED RANGED ATTACKER	<RE>$EN_RANGED ATTACKER_NICK_NAME	Snake Ghoul	Armored Projectile Revenant<RE>[$EN_RANGED ATTACKER_FLAVOR_TEXT]
+$EN_ARMORED RANGED ATTACKER	<RE>$EN_RANGED ATTACKER_NICK_NAME	Snake Ghoul	Armored Projectile Revenant|<RE>[$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT]
 $EN_RANGED ATTACKER_W	<RE>$EN_RANGED ATTACKER_NICK_NAME	River Snake Ghoul	Swimming Projectile Revenant|<RE>[$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT]
 $EN_DARK	DARK	Shadow Worm	Swift Dark Spawn|These worms are shrouded in a thick black mist that make them nearly impossible to hit.
 $EN_BRUTE	TOUGH	Death Worm	Tough Revenant Spawn|These pale and worm-like creatures move slowly, and feature tough, leathery skin instead of a fragile outer membrane.<N><N>Although easily outrun, they usually overcome their prey through relentless, unending pursuit.
