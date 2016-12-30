@@ -1,0 +1,62 @@
+flag	value
+$ACHV_AZRA_LVL_10_TITLE	La science des bibliothèques
+$ACHV_AZRA_LVL_10_DESC	Améliorer votre Érudite jusqu'au NIV 10
+$ACHV_AZRA_LVL_25_TITLE	Bibliothècologie
+$ACHV_AZRA_LVL_25_DESC	Améliorer votre Érudite jusqu'au NIV 25
+$ACHV_HAVE_ALL_CLASSES_TITLE	Mon armée personnelle
+$ACHV_HAVE_ALL_CLASSES_DESC	Déverrouiller les 6 classes de défenseurs
+$ACHV_BEAT_ANY_EXTREME_TITLE	Une Étoile d'Or !
+$ACHV_BEAT_ANY_EXTREME_DESC	Réussir un niveau en mode Extrême
+$ACHV_HAVE_SKILL_LVL_20_TITLE	Hyper compétent
+$ACHV_HAVE_SKILL_LVL_20_DESC	Déverrouiller une compétence de niveau 20
+$ACHV_BOOST_TECH_5_TITLE	Je suis tout-puissant !
+$ACHV_BOOST_TECH_5_DESC	Au combat, booster un défenseur au niveau maximum
+$ACHV_AZRA_LVL_40_TITLE	Bibliophysique appliquée
+$ACHV_AZRA_LVL_40_DESC	Améliorer votre Érudite jusqu'au NIV 40
+$ACHV_AZRA_LVL_60_TITLE	Bibliomancie d'élite
+$ACHV_AZRA_LVL_60_DESC	Améliorer votre Érudite jusqu'au NIV 60
+$ACHV_HAVE_ALL_WEAPONS_UNIQUE_TITLE	Couteau suisse
+$ACHV_HAVE_ALL_WEAPONS_UNIQUE_DESC	Posséder toutes les armes uniques d'une partie standard
+$ACHV_HAVE_ALL_ARMOR_UNIQUE_TITLE	Plastron suisse
+$ACHV_HAVE_ALL_ARMOR_UNIQUE_DESC	Posséder toutes les armures uniques d'une partie standard
+$ACHV_HAVE_ALL_BOOKS_NORMAL_TITLE	Rat de bibliothèque
+$ACHV_HAVE_ALL_BOOKS_NORMAL_DESC	Posséder tous les livres des défis bonus d'une partie standard
+$ACHV_ENDLESS_100_NORMAL_TITLE	Endurance
+$ACHV_ENDLESS_100_NORMAL_DESC	Atteindre la vague 100 en mode Défi Infini 2 d'une partie standard
+$ACHV_BEAT_GAME_NORMAL_TITLE	Et vous avez gagné !
+$ACHV_BEAT_GAME_NORMAL_DESC	Terminer le jeu standard
+$ACHV_BEAT_ALL_SIDEQUESTS_TITLE	Dans les moindres détails
+$ACHV_BEAT_ALL_SIDEQUESTS_DESC	Terminer toutes les quêtes secondaires d'une partie+
+$ACHV_HAVE_201_STARS_BLUE_TITLE	Complétiste
+$ACHV_HAVE_201_STARS_BLUE_DESC	Obtenir 201 Étoiles Bleues
+$ACHV_UPGRADE_ALL_WEAPONS_UNIQUE_TITLE	Un max de trucs qui tuent
+$ACHV_UPGRADE_ALL_WEAPONS_UNIQUE_DESC	Améliorer toutes les armes uniques d'une nouvelle partie+
+$ACHV_UPGRADE_ALL_ARMOR_UNIQUE_TITLE	J'veux pas mourir !
+$ACHV_UPGRADE_ALL_ARMOR_UNIQUE_DESC	Améliorer toutes les armures uniques d'une nouvelle partie+
+$ACHV_HAVE_ALL_BOOKS_PLUS_TITLE	Dragon de bibliothèque
+$ACHV_HAVE_ALL_BOOKS_PLUS_DESC	Posséder tous les livres des défis bonus d'une nouvelle partie+
+$ACHV_ENDLESS_100_PLUS_TITLE	Marathon
+$ACHV_ENDLESS_100_PLUS_DESC	Atteindre la vague 100 en mode Défi Infini 2 d'une partie+
+$ACHV_BEAT_GAME_PLUS_TITLE	Et vous avez gagné+ !
+$ACHV_BEAT_GAME_PLUS_DESC	Terminer le jeu en nouvelle partie+
+$ACHV_BEAT_SUPER_SHEEP_NORMAL_TITLE	Tueur de mouton
+$ACHV_BEAT_SUPER_SHEEP_NORMAL_DESC	Vaincre le Super Mouton en mode standard
+$ACHV_HERO_MODE_TITLE	Mode Hero
+$ACHV_HERO_MODE_DESC	Terminer le jeu standard sans recruter d'unité générique
+$ACHV_HERO_MODE_PLUS_TITLE	Mode Hero+
+$ACHV_HERO_MODE_PLUS_DESC	Terminer le jeu en partie+ sans recruter d'unité générique
+$ACHV_HAVE_201_STARS_GOLD_TITLE	Super complétiste
+$ACHV_HAVE_201_STARS_GOLD_DESC	Obtenir 201 Étoiles d'Or
+$ACHV_BEAT_SUPER_SHEEP_PLUS_TITLE	Ultra tueur de mouton
+$ACHV_BEAT_SUPER_SHEEP_PLUS_DESC	Vaincre le Super Mouton en mode nouvelle partie+
+$ACHV_HERO_MODE_PLUS_PLUS_TITLE	Mode Hero++
+$ACHV_HERO_MODE_PLUS_PLUS_DESC	Obtenir 180 Étoiles d'Or sans recruter d'unité générique*Le Mode Hero++ est très difficile, nous recommandons d'augmenter les gains d'EXP de 300 % dans le menu options !
+$ACHV_USE_TARGETS_TITLE	Ciblage de précision
+$ACHV_USE_TARGETS_DESC	Utiliser une option de ciblage avancé
+$ACHV_MENU_ACCESS_TITLE	Accessible
+$ACHV_MENU_ACCESS_DESC	Visiter le menu Accessibilité<N>(options->accessibilité)
+$ACHV_MENU_CONTROLS_TITLE	On ne me contrôle pas !
+$ACHV_MENU_CONTROLS_DESC	Visiter le menu Contrôles<N>(options->contrôles)
+$ACHV_MENU_TIPS_TITLE	Le nez dans les bouquins
+$ACHV_MENU_TIPS_DESC	Visiter le menu Astuces<N>(monde->astuces)
+$ACHV_MENU_NULL	Null

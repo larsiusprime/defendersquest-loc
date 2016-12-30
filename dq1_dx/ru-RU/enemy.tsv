@@ -1,0 +1,81 @@
+flag	nick_name	flavor_name	flavor_text
+$EN_3_11_BOSS	BOSS
+$EN_APC	SPLITTER	Чудовище	Порождает потомство|Эти раздутые трупы едва могут двигаться и выглядят так, словно готовы лопнуть в любой момент.<N><N>Несколько рядов зубов торчат во все стороны изо рта. Они настолько большие, что их нельзя отбросить назад и невозможно сожрать.
+$EN_APC_LOWXP	<RE>$EN_APC_NICK_NAME	<RE>$EN_APC_FLAVOR_NAME	<RE>$EN_APC_FLAVOR_TEXT
+$EN_APC_NOATTACK_LOWXP	<RE>$EN_APC_NICK_NAME	<RE>$EN_APC_FLAVOR_NAME	<RE>$EN_APC_FLAVOR_TEXT
+$EN_APC_W	<RE>$EN_APC_NICK_NAME	Зловонный труп	Порождает водное потомство|От этих загробников несет как от мешка гнилой рыбы, который выкинули в канализацию и там оставили разлагаться.<N>Они легко передвигаются по воде и могут лопнуть в любой момент.
+$EN_APC_W_LOWXP	<RE>$EN_APC_NICK_NAME	<RE>$EN_APC_W_FLAVOR_NAME	<RE>$EN_APC_W_FLAVOR_TEXT
+$EN_ARMORED	ARMORED	Падший рыцарь	Бронированный загробник|Эти загробники когда-то были рыцарями, что пали в бою.<N>Они не сохранили свое мышление и навыки, что были у них при жизни, но броня осталась при них.
+$EN_ARMORED APC	ARMORED SPLIT	Панцирный зверь	Порождает панцирное потомство|Гигантский панцирь защищает этот чудовищный шар переваривающейся плоти.<N><N>Многие считают, что у него не осталось костного скелета.
+$EN_ARMORED APC_LOWXP	<RE>$EN_ARMORED APC_NICK_NAME	<RE>$EN_ARMORED APC_FLAVOR_NAME	<RE>$EN_ARMORED APC_FLAVOR_TEXT
+$EN_ARMORED ATTACKER	<RE>$EN_ATTACKER_NICK_NAME	Сумасшедший рыцарь	Атакующий бронированный загробник|Эти падшие рыцари ужасны и сильны.<N><N>Их неземные крики эхом разносятся по катакомбам и всей пустоши.
+$EN_ARMORED ATTACKER_LOWXP	<RE>$EN_ATTACKER_NICK_NAME	<RE>$EN_ARMORED ATTACKER_FLAVOR_NAME	<RE>$EN_ARMORED ATTACKER_FLAVOR_TEXT
+$EN_ARMORED CULTIST	CULTIST PRIEST	Жрец-сектант	Жрец-сектант|<RE>[$EN_CULTIST_SECT_FLAVOR_TEXT]<N><N>Акты ритуального насилия, которые совершают Жрецы-сектанты, часто сопровождаются серьезным членовредительством.<N><N><RE>[$EN_CULTIST_ACCOUNT_FLAVOR_TEXT]
+$EN_ARMORED CULTIST_LOWXP	<RE>$EN_ARMORED CULTIST_NICK_NAME	<RE>$EN_ARMORED CULTIST_FLAVOR_NAME	<RE>$EN_ARMORED CULTIST_FLAVOR_TEXT
+$EN_ARMORED RANGED ATTACKER	<RE>$EN_RANGED ATTACKER_NICK_NAME	Змей-вурдалак	Бронированный плюющийся загробник|<RE>[$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT]
+$EN_ARMORED RANGED ATTACKER_LOWXP	<RE>$EN_RANGED ATTACKER_NICK_NAME	<RE>$EN_ARMORED RANGED ATTACKER_FLAVOR_NAME	<RE>$EN_ARMORED RANGED ATTACKER_FLAVOR_TEXT
+$EN_ARMORED SPEEDY	<RE>$EN_SPEEDY_NICK_NAME	Панцирный червь	Быстрое бронированное порождение|Этому червеобразному загробнику удалось отрастить толстый панцирь.<N>Многие предполагают, что бронированный панцирь состоит из переваренных костей мертвецов.
+$EN_ARMORED SPEEDY_LOWXP	<RE>$EN_SPEEDY_NICK_NAME	<RE>$EN_ARMORED SPEEDY_FLAVOR_NAME	<RE>$EN_ARMORED SPEEDY_FLAVOR_TEXT
+$EN_ARMORED_LOWXP	<RE>$EN_ARMORED_NICK_NAME	<RE>$EN_ARMORED_FLAVOR_NAME	<RE>$EN_ARMORED_FLAVOR_TEXT
+$EN_ARMORED_SPEEDY_W	<RE>$EN_SPEEDY_NICK_NAME	Панцирный змей 	Быстрое бронированное водное порождение|Этот водный червь-загробник отрастил крепкий панцирь и научился плавать.<N>Запах переваренных костей и вредного газа невыносим.
+$EN_ARMORED_SPEEDY_W_LOWXP	<RE>$EN_SPEEDY_NICK_NAME	<RE>$EN_ARMORED_SPEEDY_W_FLAVOR_NAME	<RE>$EN_ARMORED_SPEEDY_W_FLAVOR_TEXT
+$EN_ATTACKER	FIGHTER	Безумный вурдалак	Атакующий загробник|Некоторые загробники более агрессивны.<N><N>В то время как нормальные загробники целеустремленно атакуют одну жертву, эти атакуют всех поблизости.
+$EN_ATTACKER_LOWXP	<RE>$EN_ATTACKER_NICK_NAME	<RE>$EN_ATTACKER_FLAVOR_NAME	<RE>$EN_ATTACKER_FLAVOR_TEXT
+$EN_ATTACKER_W	<RE>$EN_ATTACKER_NICK_NAME	Речной вурдалак	Атакующий водный загробник|Ходят слухи о зловонных трупах, изобилующих в преисподней, выходящих из воды и нападающих на измученных жаждой деревенских жителей.<N><N>Никто не осмеливается подойти к воде в одиночку и только безумец рискнет плавать.
+$EN_ATTACKER_W_LOWXP	<RE>$EN_ATTACKER_NICK_NAME	<RE>$EN_ATTACKER_W_FLAVOR_NAME	<RE>$EN_ATTACKER_W_FLAVOR_TEXT
+$EN_BRUTE	TOUGH	Смертельный червь	Сильное порождение загробник|Эти бледные и червеобразные существа медленно двигаются и имеют очень прочную кожу, вместо хрупкой наружной мембраны.<N>Хотя их легко обогнать, они обычно настигают свою добычу за счет неустанного и бесконечного преследования.
+$EN_BRUTE_LOWXP	<RE>$EN_BRUTE_NICK_NAME	<RE>$EN_BRUTE_FLAVOR_NAME	<RE>$EN_BRUTE_FLAVOR_TEXT
+$EN_CRAZY	CRAZY	Псих	Секретный босс|Описание
+$EN_CULTIST	CULTIST	Сектант	Превращенный сектант|<RE>[$EN_CULTIST_BASIC_FLAVOR_TEXT]
+$EN_CULTIST_ACCOUNT			Эти сказания дошли до нас от выживших Гека после великой резни. Говорят, что сектанты превращаются в загробников по своей воле.
+$EN_CULTIST_BASIC			<RE>[$EN_CULTIST_SECT_FLAVOR_TEXT]<N><N>Мало что известно про их веру и поклонение своему божеству, <LQ>Эзтли-Теноху,<RQ> и их постоянной охоте за новыми жертвами.<N><N><RE>[$EN_CULTIST_ACCOUNT_FLAVOR_TEXT]
+$EN_CULTIST_LOWXP	<RE>$EN_CULTIST_NICK_NAME	<RE>$EN_CULTIST_FLAVOR_NAME	<RE>$EN_CULTIST_FLAVOR_TEXT
+$EN_CULTIST_NOATTACK_LOWXP	<RE>$EN_CULTIST_NICK_NAME	<RE>$EN_CULTIST_FLAVOR_NAME	<RE>$EN_CULTIST_FLAVOR_TEXT
+$EN_CULTIST_SECT			<LQ>Секта одержимых кровью<RQ> зародилась как секта кочевников, известная своими кровавыми обрядами.
+$EN_DARK	DARK	Теневой червь	Быстрое темное порождение|Эти черви окутаны густым черным туманом, из-за которого в них почти невозможно попасть.
+$EN_DARK ATTACKER	SHADOW BOXER	Темный вурдалак	Темный атакующий загробник|Газы накапливаются в животе загробника и выделяются через поры в коже, окружая толстое существо вредным плотным облаком, делая его менее заметным и запутывая жертв.
+$EN_DARK ATTACKER_LOWXP	<RE>$EN_DARK ATTACKER_NICK_NAME	<RE>$EN_DARK ATTACKER_FLAVOR_NAME	<RE>$EN_DARK ATTACKER_FLAVOR_TEXT
+$EN_DARK_LOWXP	<RE>$EN_DARK_NICK_NAME	<RE>$EN_DARK_FLAVOR_NAME	<RE>$EN_DARK_FLAVOR_TEXT
+$EN_DOUBLE APC	DOUBLE SPLIT	Мерзость	Порождает плюющееся потомство|Этот странный монстр обесцвечен и сильно раздут.<N>Что бы это значило?
+$EN_DOUBLE APC_LOWXP <RE>$EN_DOUBLE APC_NICK_NAME <RE>$EN_DOUBLE APC_FLAVOR_NAME <RE>$EN_DOUBLE APC_FLAVOR_TEXT
+$EN_ERROR	ERROR	Ошибка	Я ошибка|Если вы читаете этот текст, значит, кто-то ошибся в наборе данных. Этот враг появляется, когда невозможно найти нужного
+$EN_EZTLI	EZTLI-TENOCH	Эзтли-Тенох	Древний легендарный колдун|Древняя сила, дремлющая веками, теперь пробудилась. Эзтли-Тенох, некогда управлявший миром, был известен как самопровозглашенный Божественный король. Его сила и злоба сравнимы лишь с непоколебимым терпением.
+$EN_FINGER	EZTLI'S FINGER
+$EN_HEALIE	HEALIE	Лечилка	Секретный босс|Описание
+$EN_INSANE CULTIST	INSANE CULTIST	Верховный жрец	Верховный жрец-сектант|<RE>[$EN_CULTIST_SECT_FLAVOR_TEXT]<N><N>Некоторые исторические записи Куэйдов утверждают, что культ был организован в рамках матриархальной организации под названием <LQ>Королева дьяволов<RQ>. Эта централизованная структура, видимо, исчезла в течение последнего века в пользу более свободной формы: собрания верховных жрецов.
+$EN_MEANIE	MEANIE	Жадина	Секретный босс|Описание
+$EN_NORMAL	NORMAL	Загробник	Оживший мертвец|В преисподней трупы часто воскресают через несколько дней после смерти.<N><N>Эти монстры известны как <LQ>загробники<RQ>, что означает: <LQ>тот, кто возвратился<RQ>.
+$EN_NORMAL_EXP	<RE>$EN_NORMAL_NICK_NAME	<RE>$EN_NORMAL_FLAVOR_NAME	<RE>$EN_NORMAL_FLAVOR_TEXT
+$EN_NORMAL_EXP_PSI	<RE>$EN_NORMAL_NICK_NAME	<RE>$EN_NORMAL_FLAVOR_NAME	<RE>$EN_NORMAL_FLAVOR_TEXT
+$EN_NORMAL_LOWXP	<RE>$EN_NORMAL_NICK_NAME	<RE>$EN_NORMAL_FLAVOR_NAME	<RE>$EN_NORMAL_FLAVOR_TEXT
+$EN_NORMAL_NOMONEY	<RE>$EN_NORMAL_NICK_NAME	<RE>$EN_NORMAL_FLAVOR_NAME	<RE>$EN_NORMAL_FLAVOR_TEXT
+$EN_NORMAL_W	<RE>$EN_NORMAL_NICK_NAME	Демон воды	Плавающий загробник|Этот загробник выделяет липкую слизь, делая свое тело водонепроницаемым.<N><N>А благодаря ядовитым газам, заполнившим его живот, он не тонет
+$EN_NORMAL_W_LOWXP	<RE>$EN_NORMAL_NICK_NAME	<RE>$EN_NORMAL_W_FLAVOR_NAME	<RE>$EN_NORMAL_W_FLAVOR_TEXT
+$EN_OZIMAL	OZIMAL	Озимал Каз	Озимал Каз|Некогда великий полководец ямы, теперь не более чем бездумный приспешник Зелемира.<N>Однако, его мантия по-прежнему шикарна.
+$EN_PSI SHEEP	<RE>$EN_SHEEP_NICK_NAME	<RE>$EN_SHEEP_FLAVOR_NAME	<RE>$EN_SHEEP_FLAVOR_TEXT
+$EN_RANGED ATTACKER	RANGED	Змей-вурдалак	Плюющийся загробник|<RE>[$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT]
+$EN_RANGED ATTACKER_BASIC			Спустя несколько недель странный процесс начинает переваривать и деформировать тело загробника.<N><N>Свидетели сообщают о нападении безглазых <LQ>змеелюдей<RQ>, извергающих зловонную желчь.
+$EN_RANGED ATTACKER_LOWXP	<RE>$EN_RANGED ATTACKER_NICK_NAME	<RE>$EN_RANGED ATTACKER_FLAVOR_NAME	<RE>$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT
+$EN_RANGED ATTACKER_W	<RE>$EN_RANGED ATTACKER_NICK_NAME	Речной змей-вурдалак	Водный плюющийся загробник|<RE>[$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT]
+$EN_RANGED ATTACKER_W_LOWXP	<RE>$EN_RANGED ATTACKER_NICK_NAME	<RE>$EN_RANGED ATTACKER_W_FLAVOR_NAME	<RE>$EN_RANGED ATTACKER_W_FLAVOR_TEXT
+$EN_RAPID_ATTACKER	RAPID ATTACK
+$EN_RAPID_ATTACKER_LOWXP	<RE>$EN_RAPID_ATTACKER_NICK_NAME	<RE>$EN_RAPID_ATTACKER_FLAVOR_NAME	<RE>$EN_RAPID_ATTACKER_FLAVOR_TEXT
+$EN_RIGHT_EYE	EZTLI'S EYE	Око Эзтли	Чудовищный глаз|Этот злобный глаз сияет темной силой и движется с неимоверной быстротой.
+$EN_RIGHT_HAND	EZTLI'S HAND	Рука Эзтли	Чудовищная рука|Лидер сектантов назвал это чудовище: <LQ>Правая рука Эзтли-Теноха<RQ>. Учитывая то, как мало известно об Эзтли-Тенохе, неизвестно, принадлежит ли эта рука самому Мастеру или ее просто создали при помощи темной магии. При ближайшем рассмотрении, видно, что это ЛЕВАЯ рука. Вот же жуть.
+$EN_RIGHT_INDEX_FINGER	INDEX FINGER	Указательный палец	Чудовищный палец|Хотя он отделен от руки, этот палец движется по своей собственной воле.
+$EN_RIGHT_MIDDLE_FINGER	MIDDLE FINGER	Средний палец	Чудовищный палец|Этот оторванный палец, кажется, делает непристойный жест. Как грубо!
+$EN_RIGHT_PINKY_FINGER	PINKY FINGER	Мизинец	<RE>$EN_RIGHT_INDEX_FINGER_FLAVOR_TEXT
+$EN_RIGHT_RING_FINGER	RING FINGER	Безымянный палец	<RE>$EN_RIGHT_INDEX_FINGER_FLAVOR_TEXT
+$EN_RIGHT_THUMB	THUMB	Большой палец	Чудовищный большой палец|Хотя он отделен от руки, этот палец движется по своей собственной воле.
+$EN_SHEEP	SHEEP	Овца	Вкусное млекопитающее|Драконы могут обходиться без еды в течение многих лет, но когда едят, то съедают за день объем, во много раз превышающий их массу. Этот факт приносит большое неудобство для пастухов-кочевников и их стад.
+$EN_SLUGWORM	FAST	Червь	Быстрое порождение загробник|Это быстро движущееся червеобразное существо имеет несколько рядов острых зубов.,<N>Очевидцы говорят, что они вырываются из большого, раздутого загробника, который разлагался неделями.
+$EN_SPEEDY	FAST	Червь	Быстрое порождение загробник|Это быстро движущееся червеобразное существо имеет несколько рядов острых зубов.<N>Очевидцы говорят, что они вырываются из большого, раздутого загробника, который разлагался неделями.
+$EN_SPEEDY SHEEP	SPEEDY SHEEP	Быстрая овца	Быстрое вкусное млекопитающее|Некоторые овцы приспособились к неблагоприятным условиям в преисподней и развили сильную мускулатуру. Конечно, от дракона они не убегут, зато обгонят других овец.
+$EN_SPEEDY_LOWXP	<RE>$EN_SPEEDY_NICK_NAME	<RE>$EN_SPEEDY_FLAVOR_NAME	<RE>$EN_SPEEDY_FLAVOR_TEXT
+$EN_SPEEDY_W	FAST	Змей	Быстрое плавающее порождение|Говорят, что эти быстрые плавающие черви-загробники отделяются от плавающего человеческого загробника.<N><N>Другие предполагают, что они вышли из трупов рыб и речных змей.
+$EN_SPEEDY_W_LOWXP	<RE>$EN_SPEEDY_NICK_NAME	<RE>$EN_SPEEDY_W_FLAVOR_NAME	<RE>$EN_SPEEDY_W_FLAVOR_TEXT
+$EN_STEALY	STEALY	Воришка	Секретный босс|Описание
+$EN_SUPER SHEEP	SUPER SHEEP	Супер-овца	Мифическое вкусное млекопитающее|Драконьи легенды повествуют о редкой овце, по имени Аксксима Ватта Муттанаксксор, с приглушенным, почтительным тоном, а в священных писаниях драконов подробно описывается ритуал, который будет выполнен при ее прибытии. Традиционно священные писания драконов считаются религиозным текстом, но последние изыскания показывают, что это скорее поваренная книга.
+$EN_TWIN	TWIN	Близнец	Брат-загробник|БЛАРГХ ЯААААРГХ ГАР ГАР ХУР.
+$EN_ZELEMIR	ZELEMIR	Зелемир	Колдун-некромант|Глаза Зелемира светятся непоколебимой решимостью.
+$EN_ZELEMIR-CITADEL	<RE>$EN_ZELEMIR_NICK_NAME	<RE>$EN_ZELEMIR_FLAVOR_NAME	<RE>$EN_ZELEMIR_FLAVOR_TEXT

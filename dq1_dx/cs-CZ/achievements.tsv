@@ -1,0 +1,62 @@
+flag	value
+$ACHV_AZRA_LVL_10_TITLE	Úvod do knihovnictví
+$ACHV_AZRA_LVL_10_DESC	Dostaň svou knihovnici na úroveň 10
+$ACHV_AZRA_LVL_25_TITLE	Pokročilé knihovnobádání
+$ACHV_AZRA_LVL_25_DESC	Dostaň svou knihovnici na úroveň 25
+$ACHV_HAVE_ALL_CLASSES_TITLE	Moje vlastní armáda
+$ACHV_HAVE_ALL_CLASSES_DESC	Odemkni všech 6 tříd obránců (nepočítaje knihovnice)
+$ACHV_BEAT_ANY_EXTREME_TITLE	Zlaté hvězdy!
+$ACHV_BEAT_ANY_EXTREME_DESC	Dokonči jakoukoliv úroveň na extrémní obtížnost.
+$ACHV_HAVE_SKILL_LVL_20_TITLE	Šílené schopnosti
+$ACHV_HAVE_SKILL_LVL_20_DESC	Odemkni schopnost na 20. úrovni
+$ACHV_BOOST_TECH_5_TITLE	Jsem všemocný!
+$ACHV_BOOST_TECH_5_DESC	Dostaň v bitvě nějakého obránce na nejvyšší úroveň vylepšení
+$ACHV_AZRA_LVL_40_TITLE	Pokročilá knihovnologie
+$ACHV_AZRA_LVL_40_DESC	Dostaň svou knihovnici na úroveň 40
+$ACHV_AZRA_LVL_60_TITLE	Elitní knihovnomancie
+$ACHV_AZRA_LVL_60_DESC	Dostaň svou knihovnici na úroveň 60
+$ACHV_HAVE_ALL_WEAPONS_UNIQUE_TITLE	Švýcarský armádní nožík
+$ACHV_HAVE_ALL_WEAPONS_UNIQUE_DESC	Získej všechny unikátní zbraně v normální hře
+$ACHV_HAVE_ALL_ARMOR_UNIQUE_TITLE	Švýcarské armádní brnění
+$ACHV_HAVE_ALL_ARMOR_UNIQUE_DESC	Získej všechna unikátní brnění v normální hře
+$ACHV_HAVE_ALL_BOOKS_NORMAL_TITLE	Knihomol
+$ACHV_HAVE_ALL_BOOKS_NORMAL_DESC	Získej všechny knihy z bonusových Výzev v normální hře
+$ACHV_ENDLESS_100_NORMAL_TITLE	Vytrvalost
+$ACHV_ENDLESS_100_NORMAL_DESC	Dostaň se do vlny 100 v Nekonečné 2 v normální hře
+$ACHV_BEAT_GAME_NORMAL_TITLE	V jako vítězství!
+$ACHV_BEAT_GAME_NORMAL_DESC	Dokonči standardní hru
+$ACHV_BEAT_ALL_SIDEQUESTS_TITLE	Žádné nedodělky
+$ACHV_BEAT_ALL_SIDEQUESTS_DESC	Dokonči všechny boční úkoly v nové hře+
+$ACHV_HAVE_201_STARS_BLUE_TITLE	Všechno, prostě všechno
+$ACHV_HAVE_201_STARS_BLUE_DESC	Získej 201 modrých hvězd
+$ACHV_UPGRADE_ALL_WEAPONS_UNIQUE_TITLE	Kupa Smrtících Věcí
+$ACHV_UPGRADE_ALL_WEAPONS_UNIQUE_DESC	Vylepši všechny unikátní zbraně v nové hře+
+$ACHV_UPGRADE_ALL_ARMOR_UNIQUE_TITLE	Kupa Nezničitelnosti
+$ACHV_UPGRADE_ALL_ARMOR_UNIQUE_DESC	Vylepši všechna unikátní brnění v nové hře+
+$ACHV_HAVE_ALL_BOOKS_PLUS_TITLE	Knihodrak
+$ACHV_HAVE_ALL_BOOKS_PLUS_DESC	Získej všechny knihy z bonusových Výzev v nové hře+
+$ACHV_ENDLESS_100_PLUS_TITLE	Maratón
+$ACHV_ENDLESS_100_PLUS_DESC	Dostaň se do vlny 100 v Nekonečné 2 v nové hře+
+$ACHV_BEAT_GAME_PLUS_TITLE	V jako vítězství+
+$ACHV_BEAT_GAME_PLUS_DESC	Dokonči novou hru+
+$ACHV_BEAT_SUPER_SHEEP_NORMAL_TITLE	Ovcovrah
+$ACHV_BEAT_SUPER_SHEEP_NORMAL_DESC	Zabij Super Ovci v normální hře
+$ACHV_HERO_MODE_TITLE	Hrdina
+$ACHV_HERO_MODE_DESC	Dokonči standardní hru bez najímání postav
+$ACHV_HERO_MODE_PLUS_TITLE	Hrdina+
+$ACHV_HERO_MODE_PLUS_DESC	Dokonči novou hru+ bez najímání postav
+$ACHV_HAVE_201_STARS_GOLD_TITLE	Super všechno
+$ACHV_HAVE_201_STARS_GOLD_DESC	Získej 201 zlatých hvězd
+$ACHV_BEAT_SUPER_SHEEP_PLUS_TITLE	Ultraovcovrah
+$ACHV_BEAT_SUPER_SHEEP_PLUS_DESC	Zabij Super Ovci v nové hře+
+$ACHV_HERO_MODE_PLUS_PLUS_TITLE	Hrdina++
+$ACHV_HERO_MODE_PLUS_PLUS_DESC	Získej 180 zlatých hvězd bez najímání postav.
+$ACHV_USE_TARGETS_TITLE	Přesná palba
+$ACHV_USE_TARGETS_DESC	Použij pokročilé nastavení výběru cíle
+$ACHV_MENU_ACCESS_TITLE	Přístupnost nade vše
+$ACHV_MENU_ACCESS_DESC	Navštiv menu Přístupnost <N>(Možnosti->Přístupnost)
+$ACHV_MENU_CONTROLS_TITLE	Tady vládnu já!
+$ACHV_MENU_CONTROLS_DESC	Navštiv menu Ovládání<N>(Možnosti->Ovládání)
+$ACHV_MENU_TIPS_TITLE	Učit se, učit se
+$ACHV_MENU_TIPS_DESC	Navštiv menu Rady a tipy<N>(Mapa světa->Rady a tipy)
+$ACHV_MENU_NULL	Null

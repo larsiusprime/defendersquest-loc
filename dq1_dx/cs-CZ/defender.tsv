@@ -1,0 +1,138 @@
+flag	name
+$CLASS_MCGUFFIN	Knihovnice
+$CLASS_MCGUFFIN_PL	$CLASS_MCGUFFIN
+$CLASS_KNIGHT	Rytíř
+$CLASS_KNIGHT_PL	Rytíři
+$CLASS_RANGER	Lovec
+$CLASS_RANGER_PL	Lovci
+$CLASS_BERSERKER	Berserk
+$CLASS_BERSERKER_PL	Berserkové
+$CLASS_HEALER	Léčitel
+$CLASS_HEALER_PL	Léčitelé
+$CLASS_MAGE	Mrazilka
+$CLASS_MAGE_PL	Mrazilky
+$CLASS_DRAGON	Drak
+$CLASS_DRAGON_PL	Draci
+$CLASS_SORCEROR	Kouzelník
+$CLASS_SORCEROR_PL	Kouzelníci
+$CLASS_ANTIMCGUFFIN	Kouzelnice
+$CLASS_ANTIMCGUFFIN_PL	CLASS_ANTIMCGUFFIN
+$SPELL_ENEMY_ZAP	<RE>$SKILL_MCGUFFIN_A_LIGHTNING
+$SPELL_ENEMY_FRENZY	<RE>$SKILL_MCGUFFIN_A_FRENZY
+$SPELL_ENEMY_HEAL	<RE>$SKILL_MCGUFFIN_A_HEALING
+$SPELL_ENEMY_FIRE	<RE>$SKILL_MCGUFFIN_A_DRAGON_FIRE
+$SKILL_MCGUFFIN_A_LIGHTNING	Blesk
+$SKILL_MCGUFFIN_A_FRENZY	Běsnění
+$SKILL_MCGUFFIN_A_HEALING	Uzdravení
+$SKILL_MCGUFFIN_A_CRYSTAL	Krystal
+$SKILL_MCGUFFIN_A_PUSHBACK	Zpátečka
+$SKILL_MCGUFFIN_A_DRAGON_FIRE	Dračí dech
+$SKILL_MCGUFFIN_A_LIGHTNING_DESC	Způsobí $X poškození jednomu nepříteli. Snižuje PSI odměnu z nepřítele.
+$SKILL_MCGUFFIN_A_FRENZY_DESC	Zvýší o $X % rychlost útoku VŠECH obránců na $Y sekund
+$SKILL_MCGUFFIN_A_HEALING_DESC	Uzdraví všechny obránce o $X HP.
+$SKILL_MCGUFFIN_A_CRYSTAL_DESC	Krystal, který způsobí $X poškození všem nepřátelům v okruhu $Y polí. Vybuchne za $Z sekund nebo po zásahu bleskem.
+$SKILL_MCGUFFIN_A_PUSHBACK_DESC	Postrčí všechny nepřátele o $X polí zpět ke startu mapy.
+$SKILL_MCGUFFIN_A_DRAGON_FIRE_DESC	Způsobí $X poškození všem nepřátelům a zapálí je na $Y sekund
+$SKILL_MCGUFFIN_fake_attackEXPLOSION	Výbuch
+$SKILL_ANTIMCGUFFIN_A_LIGHTNING	Blesk
+$SKILL_ANTIMCGUFFIN_A_HEALING	Uzdravení
+$SKILL_ANTIMCGUFFIN_A_FRENZY	Běsnění
+$SKILL_ANTIMCGUFFIN_A_CRYSTAL	Krystal
+$SKILL_ANTIMCGUFFIN_A_PUSHBACK	Zpátečka
+$SKILL_ANTIMCGUFFIN_A_DRAGON_FIRE	Dračí dech
+$SKILL_ANTIMCGUFFIN_A_LIGHTNING_DESC	Způsobí $X poškození jednomu nepříteli. Snižuje PSI odměnu z nepřítele.
+$SKILL_ANTIMCGUFFIN_A_FRENZY_DESC	Zvýší o $X %rychlost útoku VŠECH obránců na $Y sekund
+$SKILL_ANTIMCGUFFIN_A_HEALING_DESC	Uzdraví všechny obránce o $X HP.
+$SKILL_ANTIMCGUFFIN_A_CRYSTAL_DESC	Krystal, který způsobí $X poškození všem nepřátelům v okruhu $Y polí. Vybuchne za $Z sekund nebo po zásahu bleskem.
+$SKILL_ANTIMCGUFFIN_A_PUSHBACK_DESC	Postrčí všechny nepřátele o $X polí zpět ke startu mapy.
+$SKILL_ANTIMCGUFFIN_A_DRAGON_FIRE_DESC	Způsobí $X poškození všem nepřátelům a zapálí je na $Y sekund
+$SKILL_SORCEROR_A_LIGHTNING-Z	Blesk
+$SKILL_SORCEROR_A_HEALING-Z	Uzdravení
+$SKILL_SORCEROR_A_FRENZY-Z	Běsnění
+$SKILL_SORCEROR_A_PUSHBACK-Z	Zpátečka
+$SKILL_SORCEROR_A_DRAGON_FIRE-Z	Dračí dech
+$SKILL_SORCEROR_A_LIGHTNING_DESC	Způsobí $X poškození jednomu nepříteli. Snižuje PSI odměnu z nepřítele.
+$SKILL_SORCEROR_A_FRENZY-Z_DESC	Zvýší o $X %rychlost útoku VŠECH obránců na $Y sekund
+$SKILL_SORCEROR_A_HEALING-Z_DESC	Uzdraví všechny obránce o $X HP.
+$SKILL_SORCEROR_A_PUSHBACK-Z_DESC	Postrčí všechny nepřátele o $X polí zpět ke startu mapy.
+$SKILL_SORCEROR_A_DRAGON_FIRE-Z_DESC	Způsobí $X poškození všem nepřátelům a zapálí je na $Y sekund
+$SKILL_KNIGHT_A_SWING	Švih
+$SKILL_KNIGHT_P_ARMOR_PIERCE	Skrz brnění
+$SKILL_KNIGHT_A_SMASH	Drtivý úder
+$SKILL_KNIGHT_P_ARMOR_BREAK	Rozbij brnění
+$SKILL_KNIGHT_P_ARMOR_TRAINING	Trénink s brněním
+$SKILL_KNIGHT_P_HARD_KNOCK	Velká rána
+$SKILL_KNIGHT_A_COUNTER	Protiútok
+$SKILL_KNIGHT_A_LUNGE	Výpad
+$SKILL_KNIGHT_P_STUN_STAB	Omračující úder
+$SKILL_KNIGHT_P_SWORD_TRAINING	Trénink s mečem
+$SKILL_KNIGHT_A_CLEAVE	Rozetnuní
+$SKILL_BERSERKER_A_SLASH	Sek
+$SKILL_BERSERKER_A_DOUBLE_HIT	Dvojitý zásah
+$SKILL_BERSERKER_P_SWIFTNESS	Rychlost
+$SKILL_BERSERKER_A_FLURRY	Příval
+$SKILL_BERSERKER_P_RESILIENCE	Odolnost
+$SKILL_BERSERKER_A_SWIPE	Zametání
+$SKILL_BERSERKER_P_RAGE	Vztek
+$SKILL_BERSERKER_P_REFLEXES	Reflexy
+$SKILL_BERSERKER_P_MADNESS	Šílenství
+$SKILL_BERSERKER_A_WHIRLWIND	Smršť
+$SKILL_HEALER_A_AID	Léčení
+$SKILL_HEALER_A_ETHER_FLASH	Éterický záblesk
+$SKILL_HEALER_P_BULK_UP	Fyzička
+$SKILL_HEALER_P_BLINDING	Oslepení
+$SKILL_HEALER_A_GROUP_HEAL	Skupinové léčení
+$SKILL_HEALER_A_HOLY_LIGHT	Svaté Světlo
+$SKILL_HEALER_A_ZEAL	Zápal
+$SKILL_HEALER_P_INSPIRE	Inspirace
+$SKILL_MAGE_A_ICE_BALL	Ledová koule
+$SKILL_MAGE_P_CHILL	Ochlazení
+$SKILL_MAGE_A_ICE_SHARD	Ledová tříska
+$SKILL_MAGE_P_FREEZE	Zmrazení
+$SKILL_MAGE_A_SLEET	Plískanice
+$SKILL_MAGE_P_ICE_SPEAR	Ledový oštěp
+$SKILL_MAGE_A_ICE_SPLASH	Ledový střik
+$SKILL_MAGE_A_BLIZZARD	Sněhová bouře
+$SKILL_DRAGON_A_BITE	Kousnutí
+$SKILL_DRAGON_A_CLAW	Pařát
+$SKILL_DRAGON_P_EPIC_HALITOSIS	Hrozný zápach
+$SKILL_DRAGON_A_FIRE_BREATH	Ohnivý dech
+$SKILL_DRAGON_P_STRENGTH	Síla
+$SKILL_DRAGON_A_ROAR	Řev
+$SKILL_DRAGON_P_FATTEN_UP	Vykrmení
+$SKILL_DRAGON_P_NOM	Mňam
+$SKILL_DRAGON_A_FIRE_BALL	Ohnivá koule
+$SKILL_RANGER_A_BASIC_SHOT	Střela
+$SKILL_RANGER_P_SHARP_SHOOTER	Odstřelovač
+$SKILL_RANGER_A_TRIPLE_SHOT	Trojitá střela
+$SKILL_RANGER_P_DEEP_SHOT	Hluboký zásah
+$SKILL_RANGER_A_RAPID_SHOT	Rychlopalba
+$SKILL_RANGER_P_RANGE_FOCUS	Větší dosah
+$SKILL_RANGER_P_PIERCING_SHOT	Průbojná střela
+$SKILL_RANGER_P_POISON_SHOT	Otrávené šípy
+$SKILL_RANGER_A_SPREAD_SHOT	Plošná střelba
+$SKILL_RANGER_A_BLACK_OUT_THE_SUN	Zatmění slunce
+$TYPE_RANGED	Na dálku
+$TYPE_MELEE	Na blízko
+$TYPE_ULTIMATE	Ultimátní
+$BLURB_BERSERKER	Nejrychlejší útoky.<N>Trefuje mnoho nepřátel rychle s průměrným poškozením.<N>Nejlepší proti skupinkám slabších nepřátel!
+$BLURB_RANGER	Největší dosah.<N>Trefuje nepřátele z velké dálky s malým poškozením.<N>Univerzální obránce!
+$BLURB_KNIGHT	Nejpomalejší.<N>Trefuje jednotlivé nepřátele s velkým poškozením.<N>Může prorazit nebo zničit brnění.<N>Nejlepší proti silným nebo obrněným nepřátelům!
+$BLURB_MAGE	Zpomaluje a zmrazuje nepřátele.<N>Útočí průměrnou rychlostí s malým poškozením.<N>Nejlepší proti rychlým nepřátelům!
+$BLURB_DRAGON	Velké poškození.<N>Může nepřítele sežrat, otrávit nebo zapálit.<N>Drahý, ale úžasný.
+$BLURB_HEALER	Uzdravuje spolubojovníky.<N>Má pár slabých útoků.<N>Dobré umístění dělá divy!
+$COLOR_EYE	Oči
+$COLOR_SKIN	Kůže
+$COLOR_HAIR	Vlasy
+$COLOR_PANTS	Kalhoty
+$COLOR_WEAPON	Zbraň
+$COLOR_ARMOR	Brnění
+$COLOR_DETAIL	Detaily
+$COLOR_TUNIC	Tunika
+$COLOR_CLOAK	Plášť
+$COLOR_ROBE	Róba
+$COLOR_HIDE	Křídla
+$COLOR_OUTLINE	Obrysy
+$END	konec	 
+$COLOR_CLOTHES	Clothes
+$SKILL_MCGUFFIN_A_DRAGONFIRE	<RE>$SKILL_MCGUFFIN_A_DRAGON_FIRE

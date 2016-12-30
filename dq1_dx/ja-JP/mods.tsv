@@ -1,0 +1,15 @@
+flag	content
+$T0N0	おはようございます
+$T0N1	title:MOD<N>workshop:スチームワークショップ<N>browse:マイMOD<N>new:新規作成<N>install_zip:Zipからインストール<N>selected:ブラウズ
+$T0N2	title:MOD<N>browse:マイMOD<N>new:新規作成<N>install_zip:Zipからインストール<N>selected:ブラウズ
+$T0N6	
+$T0N9	title:MOD<N>$T0N10	title:title:MODテンプレート設定<N>body:MODにゲームデータをコピーします:<N>export_data:コアデータファイル<N>export_maps:バトルマップ<N>export_sprites:スプライト<N>export_cutscenes:カットシーン<N>export_backgrounds:背景画像 <N>export_sfx:SFX<N>export_music:音楽<N>selected:データ書き出し<N>
+$T0N10	title:Mod Template Settings<N>body:Game data to copy as a starting point for your mod:<N>export_data:Core data files<N>export_maps:Battle Maps<N>export_sprites:Sprites<N>export_cutscenes:Cutscene art<N>export_backgrounds:Background art<N>export_sfx:Sound Effects<N>export_music:Music<N>selected:export_data<N>
+$T0N11	title:MODネーム<N>新しいMODネーム:
+$T0N12	title:MODを作成中・・・
+$T0N13	title:書き出しが完了しました！<N>body:MODテンプレートの場所:<LOCATION><N>browse:My Mods<N>explore:検索<N>close:閉じる<N>
+$T0N15	title:MODをインストールしています・・・
+$T0N16	title:インストールが完了しました！<N>body:MODのインストール場所:<LOCATION><N>browse:マイMOD<N>explore:検索<N>close:閉じる
+$T0N22	title:<N>body:少々お待ちください・・・
+$T0N26	title:エラー！<N>body:<ERROR><N>close:閉じる
+$T0N30	title:<N>body:MODをロードせずにゲームをリスタートしますか？<N>okay:OK<N>cancel:閉じる

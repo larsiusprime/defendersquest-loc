@@ -1,0 +1,15 @@
+flag	content
+$T0N0	Buenos días
+$T0N1	title:Modificaciones<N>workshop:Steam Workshop<N>browse:Mis Mods<N>new:Crear nuevo<N>install_zip:Instalar desde zip<N>selected:buscar
+$T0N2	title:Modificaciones<N>browse:Mis Mods<N>new:Crear nuevo<N>install_zip:Instalar desde zip<N>selected:buscar
+$T0N6	
+$T0N9	title:Modificaciones<N>
+$T0N10	title:Ajustes de plantilla de Mod<N>body:Datos del juego para copiar como punto de partida para tu mod:<N>export_data:Archivos de datos principales<N>export_maps:Mapas de batalla<N>export_sprites:Sprites<N>export_cutscenes:Imágenes de cinemáticas<N>export_backgrounds:Imágenes de escenario<N>export_sfx:Efectos de sonido<N>export_music:Música<N>selected:datos_exportados<N>
+$T0N11	title:Nombre del mod<N>new_mod_name:
+$T0N12	title:Creando mod...
+$T0N13	title:¡Exportación completada!<N>body:La plantilla de tu mod está aquí:<LOCATION><N>browse:Mis mods<N>explore:Explorar<N>close:Cerrar<N>
+$T0N15	title:Instalando mod...
+$T0N16	title:¡Instalación completada!<N>body:Tu mod se ha instalado aquí:<LOCATION><N>browse:Mis Mods<N>explore:Explorar<N>close:Cerrar
+$T0N22	title:<N>body:Espera, por favor...
+$T0N26	title:¡Error!<N>body:<ERROR><N>close:Cerrar
+$T0N30	title:<N>body:¿Quitar mod y reiniciar el juego?<N>okay:Vale<N>cancel:Cancelar

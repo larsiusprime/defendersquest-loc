@@ -1,0 +1,654 @@
+flag	name	comment
+$BLANK	COMMENT: This file contains all the tutorial text from the game's map (level) files.
+$1_1_WHERE_AM_I_00_TITLE	TALK_$MCG_POWER
+$1_1_WHERE_AM_I_00_TEXT	여긴 어디지?
+$1_1_WHERE_AM_I_10_TITLE	
+$1_1_WHERE_AM_I_10_TEXT	<N>이것이 당신의 메인 캐릭터인 $MCG 입니다.<N>그녀는 움직일 수 없습니다.
+$1_1_WHERE_AM_I_20_TITLE	
+$1_1_WHERE_AM_I_20_TEXT	<N>이곳에서 적들이 나옵니다.<N>$MCG에게 도달하게 해서는 안 됩니다!
+$1_1_WHERE_AM_I_30_TITLE	
+$1_1_WHERE_AM_I_30_TEXT	<N>New Game+ 모드에서는, 적들은 더욱 강력하고, 새로운 능력을 갖춥니다.
+$1_1_WHERE_AM_I_40_TITLE	
+$1_1_WHERE_AM_I_40_TEXT	<N>예를 들어, 모든 망령은 체력을 재생합니다.
+$1_1_WHERE_AM_I_50_TITLE	TALK_$MCG_POWER
+$1_1_WHERE_AM_I_50_TEXT	저기, 어디에 있어?
+$1_1_WHERE_AM_I_60_TITLE	
+$1_1_WHERE_AM_I_60_TEXT	<N>이곳을 선택해서 광전사 메뉴로 가십시오.
+$1_1_WHERE_AM_I_70_TITLE	
+$1_1_WHERE_AM_I_70_TEXT	<N>지금 당신은 이 광전사만 가지고 있습니다. 이야기를 진행하면서 다음 영웅을 만나게 되면, 그 클래스의 모든 캐릭터를 해제할 수 있습니다.
+$1_1_WHERE_AM_I_80_TITLE	TALK_$BER_SURPRISE
+$1_1_WHERE_AM_I_80_TEXT	나한테 무슨 짓을 한 거야??
+$1_1_WHERE_AM_I_90_TITLE	TALK_$MCG_POWER
+$1_1_WHERE_AM_I_90_TEXT	모르겠어! 그나저나 괴물들이 내게 몰려오고 있어! 좀 도와줘!
+$1_1_WHERE_AM_I_100_TITLE	TALK_$BER_SURPRISE
+$1_1_WHERE_AM_I_100_TEXT	왜 내가 투명하지? 내 몸은 어디 갔어?
+$1_1_WHERE_AM_I_110_TITLE	
+$1_1_WHERE_AM_I_110_TEXT	<N>이곳은 당신의 파티에 있는 모든 광전사를 보여줍니다.<N>지금은 이 광전사밖에 없습니다.
+$1_1_WHERE_AM_I_120_TITLE	
+$1_1_WHERE_AM_I_120_TEXT	<N>이곳을 눌러 광전사를 선택하세요!
+$1_1_WHERE_AM_I_130_TITLE	
+$1_1_WHERE_AM_I_130_TEXT	<N>당신의 캐릭터들은 이전 스테이지에서 가졌던 힘과 능력, 그리고 장비를 그대로 가지게 됩니다.
+$1_1_WHERE_AM_I_140_TITLE	TALK_$MCG_POWER
+$1_1_WHERE_AM_I_140_TEXT	내가 불렀어…. 너의 존재가 느껴져서….
+$1_1_WHERE_AM_I_150_TITLE	TALK_$MCG_POWER
+$1_1_WHERE_AM_I_150_TEXT	잠시 집중할테니 그동안 사라지지 말아줘!
+$1_1_WHERE_AM_I_160_TITLE	TALK_$MCG_POWER
+$1_1_WHERE_AM_I_160_TEXT	내가 집중한다면- 아마 널 이곳으로 옮길 수 있을 거야!
+$1_1_WHERE_AM_I_170_TITLE	TALK_$BER_SURPRISE
+$1_1_WHERE_AM_I_170_TEXT	음…. 알겠어.
+$1_1_WHERE_AM_I_180_TITLE	TALK_$BER_LOOKBACK
+$1_1_WHERE_AM_I_180_TEXT	그 도마뱀 스튜를 먹지 말았어야 했는데….
+$1_1_WHERE_AM_I_190_TITLE	
+$1_1_WHERE_AM_I_190_TEXT	<N>방어를 원하는 장소를 클릭하세요.<N><N>이곳이 적절하군요!
+$1_1_WHERE_AM_I_200_TITLE	TALK_$BER_SMILE
+$1_1_WHERE_AM_I_200_TEXT	와우!<N>마음에 드는데!
+$1_1_WHERE_AM_I_210_TITLE	
+$1_1_WHERE_AM_I_210_TEXT	<N>$MCG 는 정신력 에너지를 사용해 방어자를 소환합니다.<N>적을 죽이면 정신력이 재충전됩니다.
+$1_1_WHERE_AM_I_220_TITLE	TALK_$MCG_POWER
+$1_1_WHERE_AM_I_220_TEXT	좋아! 이제 뭐라도 좀 해봐!
+$1_1_WHERE_AM_I_230_TITLE	TALK_$BER_SMILE
+$1_1_WHERE_AM_I_230_TEXT	뭐라도? 남자답게 다 때려부숴줄까?
+$1_1_WHERE_AM_I_240_TITLE	TALK_$BER_DERANGED
+$1_1_WHERE_AM_I_240_TEXT	걱정말라구!
+$1_1_WHERE_AM_I_250_TITLE	
+$1_1_WHERE_AM_I_250_TEXT	<N>디펜더는 움직일 수 없습니다,<N>그리고 적은 자동으로 움직입니다.
+$1_1_WHERE_AM_I_260_TITLE	
+$1_1_WHERE_AM_I_260_TEXT	<N>지금은 게임이 일시 정지된 상태입니다.
+$1_1_WHERE_AM_I_270_TITLE	
+$1_1_WHERE_AM_I_270_TEXT	<N>재개하려면 이곳을 클릭하세요.
+$1_1_WHERE_AM_I_280_TITLE	TALK_$BER_DERANGED
+$1_1_WHERE_AM_I_280_TEXT	이리 와봐라! 불쌍한 꼬라지로 침을 질질 흘리는 녀석들! 네놈들의 내장을 끄집어내주마!
+$1_1_WHERE_AM_I_290_TITLE	TALK_$BER_LOOKBACK
+$1_1_WHERE_AM_I_290_TEXT	간단해 보이지만 이게 내가 할 수 있는 일 전부야, 이제 더는 내가 도움을 줄 수 있는 게 없다고.
+$1_1_WHERE_AM_I_300_TITLE	TALK_$BER_LOOKBACK
+$1_1_WHERE_AM_I_300_TEXT	내 몸을 완전히 되돌린 게 맞겠지? 어디…. 빼먹은 데는 없고?
+$1_1_WHERE_AM_I_310_TITLE	TALK_$MCG_POWER
+$1_1_WHERE_AM_I_310_TEXT	더 많은 힘을 너에게 전해줄 수 있을 것 같아…….
+$1_1_WHERE_AM_I_320_TITLE	
+$1_1_WHERE_AM_I_320_TEXT	이것은 $BER의 강화 막대입니다. $BER를 더욱 강하고 빠르게 만들어줄 수 있습니다.
+$1_1_WHERE_AM_I_330_TITLE	
+$1_1_WHERE_AM_I_330_TEXT	<N>강화 레벨이 2가 되면,<N>$BER은(는) 두 번째 기술인 이중 공격을 사용할 수 있습니다.
+$1_1_WHERE_AM_I_340_TITLE	
+$1_1_WHERE_AM_I_340_TEXT	<N>강화를 클릭해 보세요!<N>후회하지 않을 겁니다!
+$1_1_WHERE_AM_I_350_TITLE	TALK_$BER_DERANGED
+$1_1_WHERE_AM_I_350_TEXT	훨씬 낫군!
+$1_2_THE_SHADOW_WORLD_00_TITLE	TALK_$MCG_POWER
+$1_2_THE_SHADOW_WORLD_00_TEXT	$BER! 제대로 됐어!
+$1_2_THE_SHADOW_WORLD_10_TITLE	TALK_$MCG_POWER
+$1_2_THE_SHADOW_WORLD_10_TEXT	다시 이상한 장소로 되돌왔어…. 중간계로…….
+$1_2_THE_SHADOW_WORLD_20_TITLE	TALK_$BER_SURPRISE
+$1_2_THE_SHADOW_WORLD_20_TEXT	빨리 그쪽으로 불러 줘! 마치 우주 공간에 붕 떠 있는 것 같아!
+$1_2_THE_SHADOW_WORLD_30_TITLE	
+$1_2_THE_SHADOW_WORLD_30_TEXT	<N>기억하세요.<N>광전사 메뉴를 클릭해서 선택할 수 있습니다.
+$1_2_THE_SHADOW_WORLD_40_TITLE	TALK_$BER_SMILE
+$1_2_THE_SHADOW_WORLD_40_TEXT	좋아, 해보자고!
+$1_2_THE_SHADOW_WORLD_50_TITLE	
+$1_2_THE_SHADOW_WORLD_50_TEXT	<N>$BER을(를) 클릭해서 선택하세요.
+$1_2_THE_SHADOW_WORLD_60_TITLE	
+$1_2_THE_SHADOW_WORLD_60_TEXT	<N>이 버튼들은 $BER이(가) 어떤 적들을 공격하는지 보여줍니다.
+$1_2_THE_SHADOW_WORLD_70_TITLE	
+$1_2_THE_SHADOW_WORLD_70_TEXT	<N>기억하세요, 이 버튼들은<N>게임 속도를 높이거나 낮춥니다.
+$1_2_THE_SHADOW_WORLD_80_TITLE	힌트
+$1_2_THE_SHADOW_WORLD_80_TEXT	<N>당신은 이 버튼으로 일시 정지가 가능합니다.<N><PAUSE>버튼을 사용하면 빠르게 정지와 재개가 가능합니다.
+$1_2_THE_SHADOW_WORLD_90_TITLE	
+$1_2_THE_SHADOW_WORLD_90_TEXT	<N>$BER을(를) 강화하는 걸 잊지 마세요.<N>핵심적인 전략입니다.
+$1_2_THE_SHADOW_WORLD_100_TITLE	TALK_$BER_DERANGED
+$1_2_THE_SHADOW_WORLD_100_TEXT	오 예!<N>내 힘을 느껴봐라!
+$1_2_THE_SHADOW_WORLD_110_TITLE	
+$1_2_THE_SHADOW_WORLD_110_TEXT	<N>이런!<N>$BER이(가) 다음 단계의 적들에게 다가갈 수 없습니다!
+$1_2_THE_SHADOW_WORLD_120_TITLE	
+$1_2_THE_SHADOW_WORLD_120_TEXT	<N>$MCG의 번개 주문으로 적들을 물리치세요!
+$1_2_THE_SHADOW_WORLD_130_TITLE	
+$1_2_THE_SHADOW_WORLD_130_TEXT	<N>좋아요!<N>번개 마법을 놈들에게 사용하면 멋지게 쓰러트릴 수 있습니다.
+$1_2_THE_SHADOW_WORLD_140_TITLE	
+$1_2_THE_SHADOW_WORLD_140_TEXT	<N>하지만 아껴서 사용해야 합니다.<N>정신력을 소모하니까요.
+$1_3_COLISEUM_1_00_TITLE	TALK_$RAN_NORMAL
+$1_3_COLISEUM_1_00_TEXT	뭐- 뭘 한 거야?
+$1_3_COLISEUM_1_10_TITLE	TALK_$BER_NORMAL
+$1_3_COLISEUM_1_10_TEXT	이상한 느낌이지. 안 그래?
+$1_3_COLISEUM_1_20_TITLE	TALK_$RAN_NORMAL
+$1_3_COLISEUM_1_20_TEXT	느낌이 마치... 역병에 걸렸을 때….
+$1_3_COLISEUM_1_30_TITLE	TALK_$RAN_NORMAL
+$1_3_COLISEUM_1_30_TEXT	내가 죽어가고 있을 때….
+$1_3_COLISEUM_1_40_TITLE	TALK_$RAN_NORMAL
+$1_3_COLISEUM_1_40_TEXT	중간계에 있었을 때 같아….
+$1_3_COLISEUM_1_50_TITLE	TALK_$BER_DERANGED
+$1_3_COLISEUM_1_50_TEXT	자, 죽는 것보단 저놈들 엉덩이라도 뻥 차버리자고!
+$1_3_COLISEUM_1_60_TITLE	TALK_$BER_SMILE
+$1_3_COLISEUM_1_60_TEXT	죽기에 딱 좋은 곳을 찾은 것 같군.
+$1_3_COLISEUM_1_70_TITLE	정찰병 
+$1_3_COLISEUM_1_70_TEXT	$MCG은(는) 광전사와 레인저를 오가며 선택할 수 있습니다.
+$1_3_COLISEUM_1_80_TITLE	
+$1_3_COLISEUM_1_80_TEXT	<N>다가올 적들 위에 마우스를 올리면 추가 정보를 얻을 수 있습니다.
+$1_3_COLISEUM_1_90_TITLE	
+$1_3_COLISEUM_1_90_TEXT	<N>예를 들면, 여기 있는 빨간 적들은 공격할 수 있습니다!
+$1_3_COLISEUM_1_100_TITLE	
+$1_3_COLISEUM_1_100_TEXT	<N>또한, 이 표시를 눈여겨 보세요. 해당 웨이브에서 생성될 적들의 위치입니다.
+$1_4_COLISEUM_2_00_TITLE	
+$1_4_COLISEUM_2_00_TEXT	광전사를 더 고용했다면, <N>$MCG은(는) 광전사 메뉴에서 중간계로 불러들일 수 있습니다.
+$1_4_COLISEUM_2_10_TITLE	힌트
+$1_4_COLISEUM_2_10_TEXT	$BER은(는) 여전히 당신의 가장 훌륭한 투사입니다-<N>그에게 ""이중 공격""을 사용할 수 있게 해 주세요.
+$2_2_UNDEAD_RANGERS_00_TITLE	
+$2_2_UNDEAD_RANGERS_00_TEXT	이 언데드 정찰병들은 장거리 공격을 합니다 - 적절히 대처하세요!
+$2_4_MONASTERY_00_TITLE	귀환
+$2_4_MONASTERY_00_TEXT	<N>당신은 방어자들을 귀환시켜<N>적어진 PSI를 돌려받고 재배치할 수 있습니다.
+$2_4_MONASTERY_10_TITLE	귀환
+$2_4_MONASTERY_10_TEXT	<N>귀환을 시키려면, 디펜더를 클릭하고 <LQ>귀환 버튼이나,<RQ><RECALL> 버튼을 누르면 됩니다.
+$2_4_MONASTERY_20_TITLE	전량 회수
+$2_4_MONASTERY_20_TEXT	<N>첫 번째 적이 나타나기 전이라면,<N>정신력을 100% 돌려받을 수 있습니다.",,
+flag	이름
+$3_1_TO_THE_PASS_00_TITLE	TALK_$HEA_NORMAL
+$3_1_TO_THE_PASS_00_TEXT	저 강 바로 너머에 병원이 있다.
+$3_1_TO_THE_PASS_10_TITLE	TALK_$MCG_POWER
+$3_1_TO_THE_PASS_10_TEXT	난 느낄 수 있어…. 놈들은 내가 여기있다는걸 알고 있어.
+$3_1_TO_THE_PASS_20_TITLE	TALK_$BER_SMILE
+$3_1_TO_THE_PASS_20_TEXT	진정해, $MCG! 우리는 강 건너편에 숨을 수 있으니까!
+$3_1_TO_THE_PASS_30_TITLE	TALK_$BER_SMILE
+$3_1_TO_THE_PASS_30_TEXT	여기서 <LQ>숨는다<RQ> 는 <LQ>살해한다<RQ> 는 뜻이고 <LQ>강 건너<RQ>는…….
+$3_1_TO_THE_PASS_40_TITLE	TALK_$BER_DERANGED
+$3_1_TO_THE_PASS_40_TEXT	<LQ>움직이는 것 전부!!!<RQ>
+$3_1_TO_THE_PASS_50_TITLE	TALK_$MCG_POWER
+$3_1_TO_THE_PASS_50_TEXT	잠깐…. 나한테만 저것들이 수영하는것처럼 보이는 거야?
+$3_1_TO_THE_PASS_60_TITLE	TALK_$BER_NORMAL
+$3_1_TO_THE_PASS_60_TEXT	헤엄치는 꼬라지가 멍멍이 같은데. 수영 폼 꼬락서니 하곤!
+$3_1_TO_THE_PASS_70_TITLE	TALK_$BER_DERANGED
+$3_1_TO_THE_PASS_70_TEXT	듣고 있냐? 니들 멍멍이 같다고!
+$3_1_TO_THE_PASS_80_TITLE	TALK_$RAN_NORMAL
+$3_1_TO_THE_PASS_80_TEXT	너 입만 열면 멍청한 소리 하는거 알고 있어?
+$3_2_HOSPITAL_ATTACK_00_TITLE	
+$3_2_HOSPITAL_ATTACK_00_TEXT	얼음 마법사는 적들을 느리게 하며, 좁은 길이나 빠른 적에게 유용합니다.
+$3_2_HOSPITAL_ATTACK_10_TITLE	TALK_$MAG_FRIENDLY
+$3_2_HOSPITAL_ATTACK_10_TEXT	내 심장이 전쟁을 노래하는군.
+$3_2_HOSPITAL_ATTACK_20_TITLE	TALK_$MAG_FROWN
+$3_2_HOSPITAL_ATTACK_20_TEXT	서리가 화염을 섬긴다는 것을 보여주마….
+$3_2_HOSPITAL_ATTACK_30_TITLE	TALK_$MAG_PISSED
+$3_2_HOSPITAL_ATTACK_30_TEXT	적들은 그들로부터 흩뿌려진 피에 빠져 죽을 것이다.
+$3_4_ARMORED_CREEPS_00_TITLE	
+$3_4_ARMORED_CREEPS_00_TEXT	이 새로운 망령은 상당량의 피해를 감소시키는 갑옷을 입었습니다.
+$3_4_ARMORED_CREEPS_10_TITLE	TALK_$BER_DERANGED
+$3_4_ARMORED_CREEPS_10_TEXT	이 겁쟁이들아! 진정한 남자라면 웃통 정도는 까고 싸우는 거야!
+$3_4_ARMORED_CREEPS_20_TITLE	TALK_$RAN_NORMAL
+$3_4_ARMORED_CREEPS_20_TEXT	쟤들이 옷 입고 싶으면 그냥 입게 냅둬.
+$3_4_ARMORED_CREEPS_30_TITLE	TALK_$RAN_NORMAL
+$3_4_ARMORED_CREEPS_30_TEXT	좀비 녀석들이... 딸랑딸랑거리며 돌아다니는 꼴을 덜 보니까 좋은 걸.
+$3_4_ARMORED_CREEPS_40_TITLE	TALK_$BER_SURPRISE
+$3_4_ARMORED_CREEPS_40_TEXT	난 내가 최고라는 걸 알아, 하지만 갑옷으로 떡칠한 놈들하고 어떻게 싸울 수 있겠어?
+$3_4_ARMORED_CREEPS_50_TITLE	TALK_$HEA_NORMAL
+$3_4_ARMORED_CREEPS_50_TEXT	내게 생각이 있다!
+$3_4_ARMORED_CREEPS_60_TITLE	TALK_$HEA_NORMAL
+$3_4_ARMORED_CREEPS_60_TEXT	$MCG, 적이 보석 위를 지나갈 때, 번개로 보석을 공격하게!
+$3_5_MEET_THE_KNIGHT_00_TITLE	
+$3_5_MEET_THE_KNIGHT_00_TEXT	기사는 공격할 수록 방어력을 감소시키는 갑옷 파괴 능력을 가지고 있습니다.
+$3_5_MEET_THE_KNIGHT_10_TITLE	TALK_$KNI_NORMAL
+$3_5_MEET_THE_KNIGHT_10_TEXT	망령들의 갑옷 따위 모조리 박살내 주겠다!
+$3_5_MEET_THE_KNIGHT_20_TITLE	TALK_$KNI_SQUINT
+$3_5_MEET_THE_KNIGHT_20_TEXT	...만약 내게…. 몸만 있다면….
+$3_5_MEET_THE_KNIGHT_30_TITLE	TALK_$KNI_SQUINT
+$3_5_MEET_THE_KNIGHT_30_TEXT	무슨 일이 일어나는 겁니까?
+$3_6_INTO_THE_CITY_00_TITLE	TALK_$MCG_POWER
+$3_6_INTO_THE_CITY_00_TEXT	$BER, 너 대체 뭐하는 거야?!
+$3_6_INTO_THE_CITY_10_TITLE	TALK_$BER_DERANGED
+$3_6_INTO_THE_CITY_10_TEXT	이것이 바로 진정한 남자가 싸우는 방식이다!
+$3_6_INTO_THE_CITY_20_TITLE	TALK_$MCG_POWER
+$3_6_INTO_THE_CITY_20_TEXT	당장 바지 도로 입어.
+$3_6_INTO_THE_CITY_30_TITLE	TALK_$BER_DERANGED
+$3_6_INTO_THE_CITY_30_TEXT	싫은데!
+$3_6_INTO_THE_CITY_40_TITLE	TALK_$MCG_POWER
+$3_6_INTO_THE_CITY_40_TEXT	당장 입지 않으면 너만 빼고 소환할 거야.
+$3_6_INTO_THE_CITY_50_TITLE	TALK_$BER_NORMAL
+$3_6_INTO_THE_CITY_50_TEXT	...알았다고.
+$3_11_CITADEL_BOSS_00_TITLE	TALK_$BER_NORMAL
+$3_11_CITADEL_BOSS_00_TEXT	보이지 않는 놈들을 대체 어떻게 때리라는 거야?!
+$3_11_CITADEL_BOSS_10_TITLE	TALK_$HEA_NORMAL
+$3_11_CITADEL_BOSS_10_TEXT	녀석들은 스스로 주변에 연막같은 걸 만들어내는 것 같군.
+$3_11_CITADEL_BOSS_20_TITLE	TALK_$MCG_POWER
+$3_11_CITADEL_BOSS_20_TEXT	그들을 어떻게 막죠?
+$3_11_CITADEL_BOSS_30_TITLE	TALK_$HEA_NORMAL
+$3_11_CITADEL_BOSS_30_TEXT	내가 이 어둠을 제거할 수 있을 것 같구나... 잠시뿐이지만.
+$3_11_CITADEL_BOSS_40_TITLE	TALK_$BER_DERANGED
+$3_11_CITADEL_BOSS_40_TEXT	그거면 됐어!
+$3_13_DESTROY_CITY_00_TITLE	TALK_ZELEMIR_POWER
+$3_13_DESTROY_CITY_00_TEXT	그만.
+$3_13_DESTROY_CITY_10_TITLE	TALK_ZELEMIR_POWER
+$3_13_DESTROY_CITY_10_TEXT	여기서 끝내도록 하지.
+$4_1_EZTLIS_FORCES_00_TITLE	
+$4_1_EZTLIS_FORCES_00_TEXT	낯선 광신교도들은 무섭도록 강력한 적이 되었습니다. 느리지만 치명적이며, 많은 방어자들의 협력이 있어야만 그들을 무찌를 수 있을 겁니다.
+$4_2_WIZARDS_REALM_00_TITLE	TALK_$RAN_SQUINT
+$4_2_WIZARDS_REALM_00_TEXT	저게 대체 뭐지?
+$4_2_WIZARDS_REALM_10_TITLE	TALK_$RAN_SQUINT
+$4_2_WIZARDS_REALM_10_TEXT	곧 터질 것 같은데!
+$4_2_WIZARDS_REALM_20_TITLE	TALK_$BER_NORMAL
+$4_2_WIZARDS_REALM_20_TEXT	그래. 마치 예전에 내가 먹었던 썩은 버섯 굴라쉬처럼 생겼는 걸.
+$4_2_WIZARDS_REALM_30_TITLE	TALK_$BER_LOOKBACK
+$4_2_WIZARDS_REALM_30_TEXT	아기 망령들을 사방에 분출하는거만 빼면 말이야….
+$4_2_WIZARDS_REALM_40_TITLE	TALK_$RAN_SERIOUSLY
+$4_2_WIZARDS_REALM_40_TEXT	그래 알았어.
+$4_5_RIGHT_HAND_00_TITLE	TALK_CULTIST_PRIEST
+$4_5_RIGHT_HAND_00_TEXT	죽음을 맞이하라!
+$4_5_RIGHT_HAND_10_TITLE	TALK_$BER_SURPRISE
+$4_5_RIGHT_HAND_10_TEXT	저거... 거대한... 손인가?
+$4_5_RIGHT_HAND_20_TITLE	TALK_$BER_LOOKBACK
+$4_5_RIGHT_HAND_20_TEXT	그럼 땅 속에 엄청나게 큰 신체부분들이 더 있다는 거야?
+$4_5_RIGHT_HAND_30_TITLE	TALK_CULTIST_PRIEST
+$4_5_RIGHT_HAND_30_TEXT	당장 죽어라.
+$4_5_RIGHT_HAND_40_TITLE	TALK_$BER_SURPRISE
+$4_5_RIGHT_HAND_40_TEXT	망령 예쁜이! 돌아왔구나?!
+$4_5_RIGHT_HAND_50_TITLE	TALK_$BER_DERANGED
+$4_5_RIGHT_HAND_50_TEXT	이리 오렴, 내가 널 죽일 수 있게!
+$4_5_RIGHT_HAND_60_TITLE	TALK_CULTIST_PRIEST
+$4_5_RIGHT_HAND_60_TEXT	저 멍청이들은 전투가 끝났다고 생각했겠지….
+$4_5_RIGHT_HAND_70_TITLE	TALK_CULTIST_PRIEST
+$4_5_RIGHT_HAND_70_TEXT	하지만 너희들이 부순 살점과 영혼은 전혀 다른 것.
+$4_5_RIGHT_HAND_80_TITLE	TALK_CULTIST_PRIEST
+$4_5_RIGHT_HAND_80_TEXT	주인님의 열의가 나를 채운다…. 내가 바로 에즈틀리-테노크의 오른손이다.
+$4_5_RIGHT_HAND_90_TITLE	TALK_CULTIST_PRIEST
+$4_5_RIGHT_HAND_90_TEXT	나는 죽음이다.
+$4_5_RIGHT_HAND_100_TITLE	TALK_ZELEMIR_POWER
+$4_5_RIGHT_HAND_100_TEXT	이젠 충분해.
+$4_5_RIGHT_HAND_110_TITLE	TALK_$MCG_POWER
+$4_5_RIGHT_HAND_110_TEXT	젤레마?! 여기서 뭐 하는 거지?
+$4_5_RIGHT_HAND_120_TITLE	TALK_ZELEMIR_POWER
+$4_5_RIGHT_HAND_120_TEXT	널 구하는 중이다.
+$12_4_FINAL_00_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_00_TEXT	젤레마?
+$12_4_FINAL_10_TITLE	TALK_ZELEMIR_WOUNDED
+$12_4_FINAL_10_TEXT	여태껏 싸워왔던 괴물이 풀려나는 것을 그저 보고만 있을 순 없다.
+$12_4_FINAL_20_TITLE	TALK_$MAG_PISSED
+$12_4_FINAL_20_TEXT	이 살인자! 그런다고 우리가 네놈을 -
+$12_4_FINAL_30_TITLE	TALK_ZELEMIR_WOUNDED
+$12_4_FINAL_30_TEXT	지금은 그런 말을 할 때가 아니야! 그를 죽이지 못하면 모든 것이 끝이다!!
+$12_4_FINAL_40_TITLE	TALK_ZELEMIR_WOUNDED
+$12_4_FINAL_40_TEXT	그를 죽인 후에, 네가 바라는 복수를 이루도록 해라.
+$12_4_FINAL_50_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_50_TEXT	소용없어! 마법이 그를 보호하고 있다고!
+$12_4_FINAL_60_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_60_TEXT	우리가 뭘 할 수 있지?
+$12_4_FINAL_70_TITLE	TALK_NOMAD_MALE_1
+$12_4_FINAL_70_TEXT	아가씨, 우리도 함께 하겠습니다….
+$12_4_FINAL_80_TITLE	TALK_ASH_FEMALE_1
+$12_4_FINAL_80_TEXT	지금까지는 다른 사람들에게 힘을 빌려주셨지만.
+$12_4_FINAL_90_TITLE	TALK_QUAID_MALE_1
+$12_4_FINAL_90_TEXT	지금은 우리가 당신께 힘을 빌려줄 때입니다.
+$12_4_FINAL_100_TITLE	
+$12_4_FINAL_100_TEXT	<N>처음으로,<N>$MCG는 스스로 강화될 수 있습니다!
+$12_4_FINAL_110_TITLE	
+$12_4_FINAL_110_TEXT	<N>이 힘을 사용해 에즈틀리-테노크를 쓰러뜨리세요!
+$12_4_FINAL_120_TITLE	TALK_NOMAD_FEMALE_1
+$12_4_FINAL_120_TEXT	아가씨. 저희가 도와드리겠어요….
+$12_4_FINAL_130_TITLE	TALK_NOMAD_FEMALE_2
+$12_4_FINAL_130_TEXT	아가씨, 저희의 기도가 당신과 함께 합니다!
+$12_4_FINAL_140_TITLE	TALK_QUAID_MALE_2
+$12_4_FINAL_140_TEXT	모두 힘을 합쳐.
+$12_4_FINAL_150_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_150_TEXT	하나가 되어.
+$12_4_FINAL_160_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_160_TEXT	개에게는 개의 언어로 말해야겠지?
+$12_4_FINAL_170_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_170_TEXT	자신들의 신이 되어달라며 간청하던 무리들이 이제는 천국을 향해 주먹을 흔들고, 허무한 위협을 하며 공기를 오염시키는구나.
+$12_4_FINAL_180_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_180_TEXT	너희들이 감히 내게 맞설 수 있겠느냐?
+$12_4_FINAL_190_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_190_TEXT	나는 에즈틀리-테노크다!
+$12_4_FINAL_200_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_200_TEXT	확실히, 넌 여기저기에 흩어져있는 많은 사람들보다 훨씬 거대한 존재야.
+$12_4_FINAL_210_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_210_TEXT	하지만 많은 사람들이 내게 모여 하나가 되었지.
+$12_4_FINAL_220_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_220_TEXT	나는 그들의 전달자.
+$12_4_FINAL_230_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_230_TEXT	우리는 하나가 되어 널 쓰러뜨리겠어.
+$12_4_FINAL_240_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_240_TEXT	어리석은 놈!
+$12_4_FINAL_250_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_250_TEXT	이곳은 나의 영역이다!
+$12_4_FINAL_260_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_260_TEXT	네녀석의 나약한 발걸음으로 간신히 중간계까지는 도달할 수 있었으나….
+$12_4_FINAL_270_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_270_TEXT	영혼의 길을 걸을 수 있는 건 오직 나 하나뿐이다!
+$12_4_FINAL_280_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_280_TEXT	어떻게 된거죠?
+$12_4_FINAL_290_TITLE	TALK_$HEA_NORMAL
+$12_4_FINAL_290_TEXT	완전히 가버렸군... 다른 곳으로….
+$12_4_FINAL_300_TITLE	TALK_$HEA_NORMAL
+$12_4_FINAL_300_TEXT	이 중간계에서는 그에게 닿을 수 없어.
+$12_4_FINAL_310_TITLE	TALK_ZELEMIR_WOUNDED
+$12_4_FINAL_310_TEXT	내게 방법이 있다….
+$12_4_FINAL_320_TITLE	TALK_ZELEMIR_WOUNDED
+$12_4_FINAL_320_TEXT	$MCG, 넌 나와 마찬가지로... 이 중간계에 다른 사람을 불러낼 수 있어….
+$12_4_FINAL_330_TITLE	TALK_ZELEMIR_WOUNDED
+$12_4_FINAL_330_TEXT	하지만 여기있는... 모든 사람들이 힘을 보태준다면….
+$12_4_FINAL_340_TITLE	TALK_ZELEMIR_WOUNDED
+$12_4_FINAL_340_TEXT	느껴지는군….
+$12_4_FINAL_350_TITLE	TALK_ZELEMIR_WOUNDED
+$12_4_FINAL_350_TEXT	모두의 힘을 빌어, 나를 완전히 다른 세계에 들어가게 해다오….
+$12_4_FINAL_360_TITLE	TALK_ZELEMIR_WOUNDED
+$12_4_FINAL_360_TEXT	그곳에서, 내가 그 끔찍한 마법사를 죽여버리겠다!
+$12_4_FINAL_370_TITLE	TALK_$HEA_NORMAL
+$12_4_FINAL_370_TEXT	너 혼자 할 수는 없네, 형제여.
+$12_4_FINAL_380_TITLE	TALK_$HEA_NORMAL
+$12_4_FINAL_380_TEXT	날 데려가라.
+$12_4_FINAL_390_TITLE	TALK_ZELEMIR_WOUNDED
+$12_4_FINAL_390_TEXT	아니, 잘못은 나에게 있다.
+$12_4_FINAL_400_TITLE	TALK_ZELEMIR_WOUNDED
+$12_4_FINAL_400_TEXT	대가는 나 혼자서 짊어져야 해.
+$12_4_FINAL_410_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_410_TEXT	어리석은 무리들! 개 주제에 감히 -
+$12_4_FINAL_420_TITLE	TALK_ZELEMIR_WOUNDED
+$12_4_FINAL_420_TEXT	$MCG! 지금이다! 집중해!
+$12_4_FINAL_430_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_430_TEXT	…….
+$12_4_FINAL_440_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_440_TEXT	젤레마, 그곳으로 가.
+$12_4_FINAL_450_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_450_TEXT	모든걸 끝내줘.
+$12_4_FINAL_460_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_460_TEXT	개에게는 개의 언어로 말해야겠지?
+$12_4_FINAL_470_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_470_TEXT	자신들의 신이 되어달라며 간청하던 무리들이 이제는 천국을 향해 주먹을 흔들고, 허무한 위협을 하며 공기를 오염시키는구나.
+$12_4_FINAL_480_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_480_TEXT	너희들이 감히 내게 맞설 수 있겠느냐?
+$12_4_FINAL_490_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_490_TEXT	나는 에즈틀리-테노크다!
+$12_4_FINAL_500_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_500_TEXT	확실히, 넌 여기저기에 흩어져있는 많은 사람들보다 훨씬 거대한 존재야.
+$12_4_FINAL_510_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_510_TEXT	하지만 많은 사람들이 내게 모여 하나가 되었지.
+$12_4_FINAL_520_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_520_TEXT	나는 그들의 전달자.
+$12_4_FINAL_530_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_530_TEXT	우리는 하나가 되어 널 쓰러뜨리겠어.
+$12_4_FINAL_540_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_540_TEXT	어리석은 놈!
+$12_4_FINAL_550_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_550_TEXT	여기는 나의 영역이다!
+$12_4_FINAL_560_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_560_TEXT	네녀석의 나약한 발걸음으로 도달할 수 있는 곳은 중간계까지일 뿐….
+$12_4_FINAL_570_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_570_TEXT	영혼의 길을 걸을 수 있는 건 오직 나 하나뿐이다!
+$12_4_FINAL_580_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_580_TEXT	어떻게 된거죠?
+$12_4_FINAL_590_TITLE	TALK_$HEA_NORMAL
+$12_4_FINAL_590_TEXT	완전히 가버렸군... 다른 곳으로….
+$12_4_FINAL_600_TITLE	TALK_$HEA_NORMAL
+$12_4_FINAL_600_TEXT	이 중간계에서는 그에게 닿을 수 없어.
+$12_4_FINAL_610_TITLE	TALK_ZELEMIR_WOUNDED
+$12_4_FINAL_610_TEXT	내게 방법이 있다….
+$12_4_FINAL_620_TITLE	TALK_ZELEMIR_WOUNDED
+$12_4_FINAL_620_TEXT	$MCG, 나는 죽어가고 있지만... 내 힘으로….
+$12_4_FINAL_630_TITLE	TALK_ZELEMIR_WOUNDED
+$12_4_FINAL_630_TEXT	$MCG, 넌 나와 같이... 이 중간계에 다른 사람을 불러낼 수 있지….
+$12_4_FINAL_640_TITLE	TALK_ZELEMIR_POWER
+$12_4_FINAL_640_TEXT	하지만 여기있는... 모든 사람들이 힘을 보태준다면….
+$12_4_FINAL_650_TITLE	TALK_ZELEMIR_POWER
+$12_4_FINAL_650_TEXT	느껴지는군... 모두가... 함께….
+$12_4_FINAL_660_TITLE	TALK_ZELEMIR_POWER
+$12_4_FINAL_660_TEXT	모두의 힘을 빌어, 나를 완전히 다른 세계에 들어가게 해다오….
+$12_4_FINAL_670_TITLE	TALK_ZELEMIR_POWER
+$12_4_FINAL_670_TEXT	내게 남은 마지막 힘으로... 그 마법사를 죽이겠다.
+$12_4_FINAL_680_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_680_TEXT	외롭게 홀로 죽어가는 이여, 감히 신에게 대항하려 드는 것이냐?
+$12_4_FINAL_690_TITLE	TALK_$HEA_NORMAL
+$12_4_FINAL_690_TEXT	형제여, 자네 혼자서는 해낼 수 없어.
+$12_4_FINAL_700_TITLE	TALK_$HEA_NORMAL
+$12_4_FINAL_700_TEXT	우리가 시작한 일이니 함께 끝낼 수 있도록 해주게.
+$12_4_FINAL_710_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_710_TEXT	사제님?
+$12_4_FINAL_720_TITLE	TALK_ZELEMIR_POWER
+$12_4_FINAL_720_TEXT	오랜 친구가... 돌아와 줘서 기쁘군….
+$12_4_FINAL_730_TITLE	TALK_$HEA_NORMAL
+$12_4_FINAL_730_TEXT	동감이네.
+$12_4_FINAL_740_TITLE	TALK_ZELEMIR_POWER
+$12_4_FINAL_740_TEXT	$MCG! 지금이다! 집중해!
+$12_4_FINAL_750_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_750_TEXT	…….
+$12_4_FINAL_760_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_760_TEXT	가서, 모든걸 끝내줘.
+$12_4_FINAL_770_TITLE	TALK_ZELEMIR_POWER
+$12_4_FINAL_770_TEXT	너무... 많군….
+$12_4_FINAL_780_TITLE	TALK_ZELEMIR_POWER
+$12_4_FINAL_780_TEXT	상처가….
+$12_4_FINAL_790_TITLE	TALK_ZELEMIR_POWER
+$12_4_FINAL_790_TEXT	$MCG, 그자를 절대….
+$12_4_FINAL_800_TITLE	TALK_ZELEMIR_POWER
+$12_4_FINAL_800_TEXT	…….
+$12_4_FINAL_810_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_810_TEXT	젤레마!
+$12_4_FINAL_820_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_820_TEXT	사라져버렸어….
+$12_4_FINAL_830_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_830_TEXT	개에게는 개의 언어로 말해야겠지?
+$12_4_FINAL_840_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_840_TEXT	자신들의 신이 되어달라며 간청하던 무리들이 이제는 천국을 향해 주먹을 흔들고, 허무한 위협을 하며 공기를 오염시키는구나.
+$12_4_FINAL_850_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_850_TEXT	너희들이 감히 내게 맞설 수 있겠느냐?
+$12_4_FINAL_860_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_860_TEXT	나는 에즈틀리-테노크다!
+$12_4_FINAL_870_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_870_TEXT	확실히, 넌 여기저기에 흩어져있는 많은 사람들보다 훨씬 거대한 존재야.
+$12_4_FINAL_880_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_880_TEXT	하지만 많은 사람들이 내게 모여 하나가 되었지.
+$12_4_FINAL_890_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_890_TEXT	나는 그들의 전달자.
+$12_4_FINAL_900_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_900_TEXT	우리는 하나가 되어 널 쓰러뜨리겠어.
+$12_4_FINAL_910_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_910_TEXT	어리석은 녀석!
+$12_4_FINAL_920_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_920_TEXT	이곳은 나의 영역이다!
+$12_4_FINAL_930_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_930_TEXT	네녀석의 나약한 발걸음으로 도달할 수 있는 곳은 중간계까지일 뿐….
+$12_4_FINAL_940_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$12_4_FINAL_940_TEXT	영혼의 길을 걸을 수 있는 건 오직 나 하나뿐이다!
+$12_4_FINAL_950_TITLE	TALK_$MCG_POWER
+$12_4_FINAL_950_TEXT	어떻게 된거죠?
+$12_4_FINAL_960_TITLE	TALK_$HEA_NORMAL
+$12_4_FINAL_960_TEXT	완전히 가버렸군... 다른 곳으로….
+$12_4_FINAL_970_TITLE	TALK_$HEA_NORMAL
+$12_4_FINAL_970_TEXT	이 중간계에서는 그에게 닿을 수 없어.
+$12_4_FINAL_980_TITLE	TALK_$HEA_NORMAL
+$12_4_FINAL_980_TEXT	…….
+$SIDEQUEST_7_00_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$SIDEQUEST_7_00_TEXT	넌 대체 무엇이 된 것인가, 나의 틀레틀-메즈틀리여?
+$SIDEQUEST_7_10_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$SIDEQUEST_7_10_TEXT	당신과 나는 함께 쓰레기의 물결 위에 서지 않았나.
+$SIDEQUEST_7_20_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$SIDEQUEST_7_20_TEXT	우린 필멸의 하찮음에서 우리 스스로를 지켜냈다.
+$SIDEQUEST_7_30_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$SIDEQUEST_7_30_TEXT	우린 인류의 비천함을 찢어내리고 그들을 영광으로 들어 올렸다!
+$SIDEQUEST_7_40_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$SIDEQUEST_7_40_TEXT	인류의 세상 속에서 너무 오랫동안 길을 잃은 나머지 네가 신이라는 걸 잊은 건가?
+$SIDEQUEST_7_50_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$SIDEQUEST_7_50_TEXT	우리는 끔찍한 신성의 의무를 짊어지고 있다!
+$SIDEQUEST_7_60_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$SIDEQUEST_7_60_TEXT	하찮은 무리들이 비방이 우리의 소명을 변질시키는 모습을 내버려 두자는 것이냐?
+$SIDEQUEST_7_70_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$SIDEQUEST_7_70_TEXT	우리의 눈은 영혼의 비밀을 보아왔건만, 너는 스스로 자신의 눈을 멀게 하는가?
+$SIDEQUEST_7_80_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$SIDEQUEST_7_80_TEXT	자멸의 길을 걷는 너를 따라갈 수는 없다.
+$SIDEQUEST_7_90_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$SIDEQUEST_7_90_TEXT	초라한 살덩이에 불과했던 그릇처럼, 나는 널 없애야 한다는 것이냐? 넌 단지 그뿐일 존재란 말이냐?
+$SIDEQUEST_7_100_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$SIDEQUEST_7_100_TEXT	우리가 바라왔던 것이! 우리가 되어야만 했던 것이! 우리는 되고야 만 것이다! 돌아갈 순 없어!
+$SIDEQUEST_7_110_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$SIDEQUEST_7_110_TEXT	어찌 내게 이리도 냉정할 수 있단 말이냐? 어찌하여 내게 사랑하는 너의 존재를 파괴하도록 강요하는 것이냐?
+$SIDEQUEST_7_120_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$SIDEQUEST_7_120_TEXT	넌 우리의 모든 것을 버리는 것인가? 우리가 창조해왔던 모든 것을?
+$SIDEQUEST_7_130_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$SIDEQUEST_7_130_TEXT	...그렇다면 마지막 필멸의 허울을 씻어내주마.
+$INDEX_SLAK_DIE_00_TITLE	TALK_$BER_NORMAL
+$INDEX_SLAK_DIE_00_TEXT	$MCG! 내 몸을 잃었어!
+$INDEX_SLAK_DIE_10_TITLE	TALK_$MCG_POWER
+$INDEX_SLAK_DIE_10_TEXT	미안, 네가 너무 두들겨 맞으면 집중하기 힘들어!
+$INDEX_SLAK_DIE_20_TITLE	TALK_$BER_NORMAL
+$INDEX_SLAK_DIE_20_TEXT	빨리 좀 소환해줘! 저놈들을 죽이는 기회를 놓치고 있잖아!
+$INDEX_BER_DIE_30_TITLE	TALK_$BER_SURPRISE
+$INDEX_BER_DIE_30_TEXT	어이 $MCG! 내 친구 하나가 쓰러졌어! 빨리 다시 소환해줘! 아직 죽일게 많다구!
+$INDEX_KETTA_DIE_40_TITLE	TALK_$RAN_NORMAL
+$INDEX_KETTA_DIE_40_TEXT	어이! 나 당해버렸어!
+$INDEX_KETTA_DIE_50_TITLE	TALK_$MCG_POWER
+$INDEX_KETTA_DIE_50_TEXT	가만히 있어. 바로 돌려놓을거니까.
+$INDEX_KETTA_DIE_60_TITLE	TALK_$RAN_NORMAL
+$INDEX_KETTA_DIE_60_TEXT	서둘러줘. 이 상태로 있는거 진짜 느낌 이상해!
+$INDEX_RAN_DIE_70_TITLE	TALK_$RAN_NORMAL
+$INDEX_RAN_DIE_70_TEXT	어이! 이쪽에 사람들이 없어지고 있어! 다시 소환해줘!
+$INDEX_BOOST_SLAK_80_TITLE	TALK_$BER_DERANGED
+$INDEX_BOOST_SLAK_80_TEXT	하하하! 난 섹시한 폭력의 신이다!
+$INDEX_BOOST_SLAK_90_TITLE	TALK_$BER_DERANGED
+$INDEX_BOOST_SLAK_90_TEXT	내 파문처럼 번지는 복근을 봐라, 웅장한, 그리고 절망의 복근을!
+$INDEX_FIRST_LEVEL_100_TITLE	
+$INDEX_FIRST_LEVEL_100_TEXT	<N>이곳을 눌러 시작하십시오.
+$INDEX_SECOND_LEVEL_110_TITLE	
+$INDEX_SECOND_LEVEL_110_TEXT	<N>이곳을 눌러 진군하십시오.
+$INDEX_LVL_DUDE_120_TITLE	튜토리얼
+$INDEX_LVL_DUDE_120_TEXT	<N>축하합니다! 방어자가 레벨업 했습니다!
+$INDEX_LVL_DUDE_130_TITLE	튜토리얼
+$INDEX_LVL_DUDE_130_TEXT	<N>레벨업한 방어자를 클릭하여 스킬을 업그레이드하세요.
+$INDEX_CLICK_DUDE_140_TITLE	튜토리얼
+$INDEX_CLICK_DUDE_140_TEXT	이것은 방어자의 스킬 트리입니다.
+$INDEX_CLICK_DUDE_150_TITLE	기술
+$INDEX_CLICK_DUDE_150_TEXT	<N>원 모양의 스킬들은 전투에서 사용되는 액티브 스킬입니다.
+$INDEX_CLICK_DUDE_160_TITLE	특성
+$INDEX_CLICK_DUDE_160_TEXT	<N>사각형의 스킬들은 항시 적용되는 패시브 능력입니다.
+$INDEX_SKILL_DUDE_170_TITLE	튜토리얼
+$INDEX_SKILL_DUDE_170_TEXT	<N>스킬에 마우스 커서를 올리시면 그 스킬이 업그레이드될 때 변경되는 사항을 열람할 수 있습니다.
+$INDEX_SKILL_DUDE_180_TITLE	튜토리얼
+$INDEX_SKILL_DUDE_180_TEXT	<N>스킬을 클릭하시면 해당 스킬에 1 포인트를 투자합니다.
+$INDEX_A_190_TITLE	튜토리얼
+$INDEX_A_190_TEXT	<N>축하합니다! $MCG이(가) 레벨업 했습니다!
+$INDEX_A_200_TITLE	튜토리얼
+$INDEX_A_200_TEXT	<N> $MCG을(를) 클릭하여 그녀의 스킬을 업그레이드하세요.
+$INDEX_B_210_TITLE	튜토리얼
+$INDEX_B_210_TEXT	<N>이것은 $MCG의 스킬 트리입니다.<N>$MCG의 스킬들은 모두 주문형 스킬입니다.
+$INDEX_B_220_TITLE	튜토리얼
+$INDEX_B_220_TEXT	<N>$MCG은(는) 하나의 스킬 포인트를 가지고 있습니다.<N>번개 주문에 마우스 커서를 올려서 스킬 내용을 열람하십시오.
+$INDEX_C_230_TITLE	튜토리얼
+$INDEX_C_230_TEXT	<N>스킬에 마우스 커서를 올리시면 그 스킬이 업그레이드될 때 변경되는 내용을 보실 수 있습니다.
+$INDEX_C_240_TITLE	튜토리얼
+$INDEX_C_240_TEXT	<N>원 모양을 클릭하여 이 스킬에 1 포인트를 투자하세요.
+$INDEX_BUY_STUFF_250_TITLE	
+$INDEX_BUY_STUFF_250_TEXT	<N>마을에서 장비를 구입하고 새로운 방어자를 고용할 수 있습니다.
+$INDEX_BUY_STUFF_260_TITLE	
+$INDEX_BUY_STUFF_260_TEXT	이제 광전사를 고용하고 무기를 구입하십시오.<N><N>(주의: 매 고용 시마다 필요 금액이 증가합니다.)
+$INDEX_HOW_TO_BUY_270_TITLE	무기 구매하기
+$INDEX_HOW_TO_BUY_270_TEXT	이곳에서 무기를 판매합니다.<N>클릭하여 무기의 종류를 결정하면 '구매' 버튼이 활성화됩니다.
+$INDEX_DIFF_TOWN_280_TITLE	마을에 대하여:
+$INDEX_DIFF_TOWN_280_TEXT	<N>마을은 각자 다른 종류의 무기를 판매합니다.
+$INDEX_DIFF_TOWN_290_TITLE	마을에 대하여:
+$INDEX_DIFF_TOWN_290_TEXT	<N>예를 들어, 이 마을에서는 레인저의 갑옷을 구입할 수 있습니다.
+$INDEX_DIFF_TOWN_300_TITLE	마을에 대하여:
+$INDEX_DIFF_TOWN_300_TEXT	<N>명심하세요, 커다란 병력을 유지하려면 돈이 많이 듭니다. - 추가 고용할수록 이전보다 가격이 올라갑니다.
+$INDEX_1_1_WHERE_AM_I_TITLE	중간계
+$INDEX_1_1_WHERE_AM_I_TEXT	$MCG은(는) 삶과 죽음 사이의 세계에 홀로 떨어진 자신을 발견했습니다.
+$INDEX_1_2_THE_SHADOW_WORLD_TITLE	죽은 자들의 캐러밴
+$INDEX_1_2_THE_SHADOW_WORLD_TEXT	$MCG는 물건들을 가득 실은 상단과 조우했습니다.
+$INDEX_1_3_COLISEUM_1_TITLE	콜로세움
+$INDEX_1_3_COLISEUM_1_TEXT	우리의 영웅들은 오지말의 콜로세움에서 망령들과 맞서 싸웁니다.
+$INDEX_JAIL_TITLE	오지말의 감옥
+$INDEX_JAIL_TEXT	노예들과 검투사들로 이루어진 오지말의 감옥은. 한심한 인간쓰레기들과 무고한 방관자들이 뒤섞여 있고, 모두 탈출을 갈망하고 있습니다.
+$INDEX_JAIL_DESTROY_TEXT	감옥은 비어있습니다 - 누군가 벽에 구멍을 파놓아 모든 죄수들이 탈출했습니다.
+$INDEX_1_4_COLISEUM_2_TITLE	또다시 콜로세움으로
+$INDEX_1_4_COLISEUM_2_TEXT	오지말은 $MCG에게 괴악한 임무를 주어 그녀의 재능을 보이고 싶어 합니다.
+$INDEX_1_5_RIVER_ESCAPE_TITLE	강으로의 탈출
+$INDEX_1_5_RIVER_ESCAPE_TEXT	이 대담한 투기장에서의 탈출은 강 언저리까지 계속되었습니다.
+$INDEX_SHANTY_TITLE	판자촌
+$INDEX_SHANTY_TEXT	이 매우 낡은 판자촌은 - 죄수들이 이곳으로 피신해 온 걸로 보입니다.
+$INDEX_SIDEQUEST_1_TITLE	지하 묘지
+$INDEX_SIDEQUEST_1_TEXT	오지말로부터 도망쳐 올 때, $MCG는 되돌아가 아직도 지하 묘지 밑 감옥에 갇혀있는 죄수들을 구해 내고자 합니다. 
+$INDEX_RANGER_TOWN_TITLE	카르스크
+$INDEX_RANGER_TOWN_TEXT	생존자들이 유목민 마을을 형성하고 있습니다. 카르스크는 오지말의 공격을 회피하기 위해 많은 양의 공물을 바쳤습니다.
+$INDEX_RANGER_TOWN_DESTROY_TEXT	한때 카르스크였던 이곳에는 까맣게 탄 숯 덩어리만이 남아 있습니다. 목숨을 잃은 자들의 시체는 그 어디에서도 찾아볼 수 없습니다.
+$INDEX_2_1_SAVE_RANGER_TOWN_TITLE	카르스크의 전투
+$INDEX_2_1_SAVE_RANGER_TOWN_TEXT	오지말의 군대가 카르스크 점령을 시도하고 있습니다.
+$INDEX_2_2_UNDEAD_RANGERS_TITLE	오랜 친구, 새로운 적
+$INDEX_2_2_UNDEAD_RANGERS_TEXT	카르스크 공격의 희생자들이 적들로 되살아나고 있습니다.
+$INDEX_2_3_MONASTERY_GATES_TITLE	수도원의 문
+$INDEX_2_3_MONASTERY_GATES_TEXT	대규모 전투가 수도원 정문에서 벌어지고 있습니다.
+$INDEX_LAKSOS_TITLE	렉소스
+$INDEX_LAKSOS_TEXT	산 언저리에 있는 생존자들의 거주지는, 오지말의 약탈단에 의해 자주 공격받습니다.
+$INDEX_2_4_MONASTERY_TITLE	수도원에 오르다
+$INDEX_2_4_MONASTERY_TEXT	적들은 공격을 감행하여 수도원 계단에 압박을 가했습니다.
+$INDEX_MONASTERY_TITLE	수도원
+$INDEX_MONASTERY_TEXT	셀리니 지부회 거처, 애쉬 왕국의 국교 수도원.
+$INDEX_SIDEQUEST_2_TITLE	낚시를 떠나다
+$INDEX_SIDEQUEST_2_TEXT	$MCG은(는) 강에 서려있던 망령 전염병을 정화하여 다시 낚시를 할 수 있게 되었습니다.
+$INDEX_3_1_TO_THE_PASS_TITLE	병원으로의 여정
+$INDEX_3_1_TO_THE_PASS_TEXT	$MCG은(는) 병원으로의 기습 공격에 대비하기 위해 긴급하게 이동했습니다.
+$INDEX_3_2_HOSPITAL_ATTACK_TITLE	병원이 공격받다
+$INDEX_3_2_HOSPITAL_ATTACK_TEXT	일행은 포위된 병원을 방어하는데 협력했습니다.
+$INDEX_HOSPITAL_TITLE	병원
+$INDEX_HOSPITAL_TEXT	셀리니 지부회의 도움으로, 부상과 질병에 걸린 사람들을 피난시킬 장소가 마련되었습니다.
+$INDEX_SIDEQUEST_3_TITLE	크라스트의 아들들
+$INDEX_SIDEQUEST_3_TEXT	$RAN은(는) 마지못해 또 다른 게카 부족원들에 대한 약속을 유지합니다.
+$INDEX_SIDEQUEST_4_TITLE	그림자 속으로
+$INDEX_SIDEQUEST_4_TEXT	$MCG와 $RAN이(가) 떠났을 때, $BER와 $HEA은(는) 의문의 여성에게 납치당합니다.
+$INDEX_3_3_DESERT_STRONGHOLD_TITLE	사막 요새의 입구
+$INDEX_3_3_DESERT_STRONGHOLD_TEXT	망령 무리들에게 끌려온 일행은, 사막 요새로 진입하기 전에 빠져나옵니다.
+$INDEX_3_4_ARMORED_CREEPS_TITLE	살아있는 기사들의 밤
+$INDEX_3_4_ARMORED_CREEPS_TEXT	요새에서 숨을 곳을 찾아다닌 일행은, 어둠 속에서 뭔가 불길한 것을 발견합니다.
+$INDEX_3_5_MEET_THE_KNIGHT_TITLE	시마르모어 갑옷
+$INDEX_3_5_MEET_THE_KNIGHT_TEXT	이 고독한 기사는 일행에 합류하여 갑옷 부수기 기술을 선보입니다.
+$INDEX_GUARD_TOWN_TITLE	경비 은신처
+$INDEX_GUARD_TOWN_TEXT	이 구덩이에 있는 은신처는, 복수심에 불타는 역병 생존자들에게서 은신하기 위해 예전에 있던 경비가 만들었습니다.
+$INDEX_SIDEQUEST_5_TITLE	또다시 그림자 속으로
+$INDEX_SIDEQUEST_5_TEXT	의문의 여성이 돌아와서, $BER과 $KNI을(를) 납치합니다.
+$INDEX_3_6_INTO_THE_CITY_TITLE	요새의 깊은 곳으로
+$INDEX_3_6_INTO_THE_CITY_TEXT	$KNI이(가) 일행을 인도하여 요새 깊은 곳에 있는 해답을 향해 나아갔습니다.
+$INDEX_3_7_UNWELCOME_GUESTS_TITLE	환영받지 못한 자
+$INDEX_3_7_UNWELCOME_GUESTS_TEXT	일행은 지하묘지 깊은 곳에서 우호적이지 않아 보이는 것들을 발견했습니다.
+$INDEX_3_8_DEFEND_NEST_TITLE	둥지를 지켜라
+$INDEX_3_8_DEFEND_NEST_TEXT	$DRA은(는) 만약 영웅들이 그녀의 둥지를 지키는 것에 도움을 준다면, 자신도 도움을 줄 것을 약속했습니다.
+$INDEX_DRAGON_LAIR_TITLE	용의 둥지
+$INDEX_DRAGON_LAIR_TEXT	$DRA의 둥지입니다. 보물들이 곳곳에 쌓여 있고 그녀의 자식들이 거주하는 곳입니다.
+$INDEX_3_9_GOAT_STEW_TITLE	몰아치는 양떼 무리
+$INDEX_3_9_GOAT_STEW_TEXT	$DRA은(는) 배가 고픕니다. $MCG은(는) 인간 고기를 대신할 만한 것을 제안합니다.
+$INDEX_3_10_THE_CITADEL_TITLE	왕실 기록소
+$INDEX_3_10_THE_CITADEL_TEXT	일행은 해답을 찾기 위해 고대 기록보관소에서 전투를 벌입니다.
+$INDEX_FIRE_SHRINE_TITLE	퀘이드 불의 성소
+$INDEX_FIRE_SHRINE_TEXT	이곳은 퀘이드 불의 성소입니다.
+$INDEX_SIDEQUEST_6_TITLE	더럽혀진 사원
+$INDEX_SIDEQUEST_6_TEXT	$MAG과 $MCG은(는) 이 더럽혀진 성소를 정화하기로 합니다.
+$INDEX_DESTROYED_RANGER_TOWN_TITLE	파괴된 방랑자 마을
+$INDEX_DESTROYED_RANGER_TOWN_TEXT	방랑자 마을의 잔해입니다. 소수의 방랑자만이 잔해들 사이에서만 남아 있습니다.
+$INDEX_3_11_CITADEL_BOSS_TITLE	비밀통로
+$INDEX_3_11_CITADEL_BOSS_TEXT	일행은 하수구를 통해 성지에서 탈출합니다. 망령 군대가 일행을 추적하고 있습니다.
+$INDEX_3_12_TUNNEL_ESCAPE_TITLE	광산을 폭파하라
+$INDEX_3_12_TUNNEL_ESCAPE_TEXT	$HEA의 계획은 광산을 폭발시키는 것입니다. $MCG이(가) 충분히 망령들을 붙잡아 놓을 수만 있다면 말입니다.
+$INDEX_3_13_DESTROY_CITY_TITLE	젤레마, 나타나다.
+$INDEX_3_13_DESTROY_CITY_TEXT	젤레마가 일행 사이에서 해결책을 제시합니다.
+$INDEX_GHOST_TOWN_TITLE	유령 도시
+$INDEX_GHOST_TOWN_TEXT	거의 버려진 마을입니다. 매우 소수의 상인들의 왕래와 퀘이드 생존자들로 명맥을 잇고 있습니다.
+$INDEX_4_1_EZTLIS_FORCES_TITLE	에즈틀리-테노크의 군대
+$INDEX_4_1_EZTLIS_FORCES_TEXT	구덩이 동쪽으로 향하는 일행은, 에즈티-테네크의 영역을 지나가게 됩니다.
+$INDEX_4_2_WIZARDS_REALM_TITLE	마법사의 왕국
+$INDEX_4_2_WIZARDS_REALM_TEXT	일행은 신비한 도시의 고대 폐허에서 자신들을 발견하게 됩니다. 이곳은 어디일까요?
+$INDEX_4_3_THE_HALLS_TITLE	신왕의 전당
+$INDEX_4_3_THE_HALLS_TEXT	에즈틀리-테노크의 왕좌가 있던 방은, 이제는 새로운 전투의 장소가 되었습니다.
+$INDEX_TREASURE_CHAMBER_TITLE	보물의 방
+$INDEX_TREASURE_CHAMBER_TEXT	$DRA은(는) 다시 안식처와 보물들을 모아놓을 장소를 발견했습니다. ...이제, 돈만 모아오면 되겠군요.
+$INDEX_SIDEQUEST_7_TITLE	그림자 여왕
+$INDEX_SIDEQUEST_7_TEXT	의문의 여성의 정체가 드디어 밝혀졌습니다.
+$INDEX_4_4_FREEDOM_DASH_TITLE	자유를 향한 절박한 질주
+$INDEX_4_4_FREEDOM_DASH_TEXT	산을 건너기 위해 질주하면서, 일행은 강을 건너서 전투를 벌입니다.
+$INDEX_4_5_RIGHT_HAND_TITLE	에즈틀리-테노크의 오른손
+$INDEX_4_5_RIGHT_HAND_TEXT	의문의 적이 공격했습니다.
+$INDEX_4_7_FOLLOW_ZELEMIR_TITLE	젤레마을 쫓아
+$INDEX_4_7_FOLLOW_ZELEMIR_TEXT	$MCG은(는) 젤레마의 계획이 너무 위험하다고 판단하여 그를 따라나섭니다.
+$INDEX_4_6_THE_WAY_OUT_TITLE	탈출
+$INDEX_4_6_THE_WAY_OUT_TEXT	$MCG는 젤레마의 제안을 받아들여 구덩이를 탈출하기로 합니다.
+$INDEX_4_8_THE_ARMY_TITLE	젤레마의 군대
+$INDEX_4_8_THE_ARMY_TEXT	후방 보초들을 처리하고 나서, $MCG의 병력은 젤레마의 군대와 맞서 싸워야 합니다.
+$INDEX_4_9_ZELEMIR_TITLE	광기에의 직면
+$INDEX_4_9_ZELEMIR_TEXT	$MCG은(는) 젤레마가 수정을 불태우고 구덩이를 영원히 파괴하는 것을 막기 위해 달립니다.
+$INDEX_12_4_FINAL_TITLE	신왕, 다시 발을 내딛다.
+$INDEX_12_4_FINAL_TEXT	$MCG의 피로부터, 에즈티-테네크가 생겨납니다.
+$INDEX_HERMIT_1_TITLE	은둔처
+$INDEX_HERMIT_1_TEXT	유목민 부족에서 태어난 괴짜 은둔자는 여기서 살고 있습니다..
+$INDEX_HERMIT_2_TITLE	은둔처
+$INDEX_HERMIT_2_TEXT	또 다른 은둔자의 거주지는, 이상하게도 첫 번째와 비슷합니다.
+$INDEX_HERMIT_3_TITLE	은둔처
+$INDEX_HERMIT_3_TEXT	세 번째 은둔자는 성채 깊숙한 곳에서 살고 있었습니다.
+$INDEX_HERMIT_4_TITLE	은둔처
+$INDEX_HERMIT_4_TEXT	마지막 은둔자는 사막을 자신의 집으로 삼고있습니다.
+$INDEX_OBELISK_TITLE	이상한 기념탑
+$INDEX_OBELISK_TEXT	사막에 이상한 기념탑이 있습니다.
+$BLANK	 

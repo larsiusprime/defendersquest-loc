@@ -1,0 +1,22 @@
+flag	content
+$T0N0	
+$T0N1	
+$T0N2	title:¿Secretos?<BR>body:Ahora este objeto aparecerá en el inventario de cualquier jugador.<BR>true:Vale
+$T0N4	
+$T0N6	title:¿Secretos?<BR>body:¡Defender's Quest II está en marcha! ¡Echa un vistazo y consigue este premio!<BR>true:¡Vale!<BR>false:Ja ja ja. No.
+$T0N8	
+$T0N9	
+$T0N10	title:¿Secretos?<BR>body:¡Todavía puedes conseguirlo visitando la web de Defenders's Quest II!<BR>true:¡Vale!<BR>false:¡Jamás!
+$T0N12	
+$T1N2	title:Golosinas extra<BR>body:Comparte este juego en tus redes sociales o suscríbete a nuestras noticias y consigue este premio de manera GRATUITA!<BR>true:¡Vale!<BR>false:Ja ja ja. No.
+$T1N4	title:Golosinas extra<BR>body:Ahora este objeto aparecerá en el inventario de cualquier jugador.<BR>true:Vale
+$T1N7	title:Golosinas extra<BR>body:¡Llevas razón, que le den!<N>Quédate esto, anda.<BR>true:Vale
+$T1N8	title:Golosinas extra<BR>body:Ahora este objeto aparecerá en el inventario de cualquier jugador.<BR>true:Vale
+$T1N9	title:Golosinas extra<BR>body:¡Todavía puedes conseguirlo si compartes el juego en las redes sociales o te suscribes a nuestras noticias!<BR>true:¡Vale!<BR>false:¡Jamás!
+$T1N10	title:Golosinas extra<BR>body:¿Estás seguro?<N>¡Mira! ¡Es tan brillante!<BR>true:Bueno... vale.<BR>false:¡He dicho que jamás!<BR>effect:shiny
+$T1N13	title:Golosinas extra<BR>body:¡Vale, tú ganas!<N>Quédatelo de todas formas :)<BR>true:¡La victoria es mía!
+$T1N16	
+$T1N17	title:Golosinas extra<BR>body:¡Gracias por ayudarnos en las redes sociales!<N>¡Ya tienes tu premio!<BR>true:Vale<BR>false:Las redes sociales son un asco
+$T1N21	
+$T1N22	
+$T1N6	title:¿Secretos?<BR>body:¡Defender's Quest II está en marcha! ¡Echa un vistazo y consigue este premio!<BR>true:¡Vale!<BR>false:Ja ja ja. No.

@@ -1,0 +1,1527 @@
+flag	content	comment
+$ACTIONS_BATTLE_BACK	<RE>$BATTLE_BACK
+$ACTIONS_BATTLE_CYCLE_NEXT	Следующий защитник
+$ACTIONS_BATTLE_CYCLE_PREVIOUS	Предыдущий защитник
+$ACTIONS_BATTLE_DEFENDERS	<RE>$BATTLE_DEFENDERS
+$ACTIONS_BATTLE_FINE_MOVE	<RE>$BATTLE_FINE_MOVE
+$ACTIONS_BATTLE_FREE_MOVE	<RE>$BATTLE_FREE_MOVE
+$ACTIONS_BATTLE_MENU	<RE>$BATTLE_MENU
+$ACTIONS_BATTLE_MENU_MOVE	<RE>$BATTLE_MOVE
+$ACTIONS_BATTLE_PAUSE	<RE>$MISC_PAUSE
+$ACTIONS_BATTLE_SELECT	<RE>$BATTLE_SELECT_UNIT
+$ACTIONS_BATTLE_SPEED_MINUS	Медленнее
+$ACTIONS_BATTLE_SPEED_PLUS	Быстрее
+$ACTIONS_BATTLE_SPELL_SPAM	Повторить заклинание 
+$ACTIONS_BATTLE_SPELLS	Заклинания
+$ACTIONS_BATTLE_TILE_MOVE	<RE>$BATTLE_TILE_MOVE
+$ACTIONS_BATTLECONTROLS	Битва
+$ACTIONS_CUTSCENE_NEXT	<RE>$MISC_NEXT
+$ACTIONS_CUTSCENE_PREVIOUS	<RE>$MISC_PREVIOUS
+$ACTIONS_CUTSCENE_SKIP	<RE>$MISC_SKIP
+$ACTIONS_CUTSCENECONTROLS	Ролик
+$ACTIONS_MAP_EXIT	<RE>$MISC_EXIT
+$ACTIONS_MAP_JOURNAL	<RE>$MISC_JOURNAL
+$ACTIONS_MAP_MENU	<RE>$MISC_MENU
+$ACTIONS_MAP_MOVE	Перемещение курсора
+$ACTIONS_MAP_MOVE_MAP	Перемещение по карте
+$ACTIONS_MAP_SCROLL_MAP	Перемещение карты
+$ACTIONS_MAP_SELECT	<RE>$MISC_SELECT
+$ACTIONS_MAPCONTROLS	Карта мира
+$ACTIONS_MENU_CANCEL	Отмена
+$ACTIONS_MENU_MENU	Меню
+$ACTIONS_MENU_MOVE	Перемещение курсора
+$ACTIONS_MENU_SELECT	Выбрать
+$ACTIONS_MENU_THING_1	Выбор 1
+$ACTIONS_MENU_THING_2	Выбор 2
+$ACTIONS_MENU_THING_3	Выбор 3
+$ACTIONS_MENUCONTROLS	Меню
+$ACTIONS_MENUCONTROLSWITHANALOG	Меню
+$BASE_ATTACK	Основная атака
+$BATTLE_BACK	<RE>$MISC_BACK
+$BATTLE_DEFENDERS	<RE>$MISC_DEFENDERS
+$BATTLE_FINE_MOVE	Медленнее
+$BATTLE_FREE_MOVE	Указательный палец
+$BATTLE_MAP	карта
+$BATTLE_MENU	<RE>$MISC_MENU
+$BATTLE_MOVE_MOUSE	Перемещение мыши
+$BATTLE_MOVE	Перемещение
+$BATTLE_SELECT_UNIT	Выбрать персонажа
+$BATTLE_SPELLS	<RE>$STAT_DESC_SPELLS
+$BATTLE_STARTING_FORMATION_TEXT	Использовать ту же стартовую расстановку, что и в прошлый раз?
+$BATTLE_TILE_MOVE	Переместить клетки
+$BONUS_DEFENSE	Бонус защиты
+$BOOK_COOL_MULT	Ожидание заклинания x<X>
+$BOOK_COOLDOWN_OP	Ожидание заклинания <X>
+$BOOK_COST_MULT	Заклинание стоит x<X>
+$BOOK_COST_OP	Заклинание стоит <X>
+$BOOK_PSI_TAX	Расход ПСИ: <X>
+$CONFIRM_QUIT_TEXT	<RE>$CONFIRM_RESTART_TEXT	Комментарий: это редирект, то есть текст из $MISC_PLEASE_WAIT будет здесь продублирован. Отметка <RE> в начале строки говорит о том, что тут редирект, а последующий текст не будет отображаться в окончательном тексте.
+$CONFIRM_QUIT_TITLE	Покинуть битву?
+$CONFIRM_RES_CHANGE	Разрешение изменено.<N>Все в порядке?<N><N>ВОЗВРАТ ЧЕРЕЗ <SECONDS> СЕКУНД.
+$CONFIRM_RESTART_TEXT	Вы потеряете все полученные деньги и опыт.
+$CONFIRM_RESTART_TITLE	Начать битву заново?
+$CONTROL_SWITCH_WARNING	К сожалению, вы не можете переключить основной метод управления в ходе битвы.
+$DATA_DUMP_AUDIO	Экспорт аудио...
+$DATA_DUMP_BACKGROUNDS	<RE>$DATA_DUMP_BKG
+$DATA_DUMP_BKG	Экспорт фоновых картинок...
+$DATA_DUMP_CUTSCENE	Экспорт роликов...
+$DATA_DUMP_CUTSCENES	<RE>$DATA_DUMP_CUTSCENE
+$DATA_DUMP_DATA	Экспорт файлов с данными...
+$DATA_DUMP_EMBED	Экспорт графики...
+$DATA_DUMP_IMAGES	Экспорт картинок...
+$DATA_DUMP_LOCALES	Экспорт локализаций...
+$DATA_DUMP_MAP_FILES	Экспорт данных карты...
+$DATA_DUMP_MAP_IMAGES	Экспорт изображений карты... Комментарий: <N> означает конец строки. <N> то же самое, но не <N> или <n>
+$DATA_DUMP_MAPS	<RE>$DATA_DUMP_MAP_FILES
+$DATA_DUMP_MOD_INFO	Экспорт информации о модах...
+$DATA_DUMP_MUSIC	Экспорт музыки...
+$DATA_DUMP_SFX	Экспорт звуковых эффектов...
+$DATA_DUMP_SPRITES	Экспорт изображений...
+$DATA_DUMP_TABLES	Экспорт таблиц с данными...
+$DECIMATE_BY	Казнь в <PERCENT>% случаев
+$DEMO_OVER_ACTS	Акты<N>III & IV
+$DEMO_OVER_DONT_FORGET	Не забывайте файл сохранения!
+$DEMO_OVER_ENORMOUS	Нажмите кнопку, чтобы продолжить ваше приключение!
+$DEMO_OVER_ENORMOUS_2	Нажмите кнопку, чтобы продолжить ваше приключение!
+$DEMO_OVER_EXPORT_HOW	Переместить файл сохранения с помощью этой кнопки.
+$DEMO_OVER_FULL_GAME	Получить ПОЛНУЮ ВЕРСИЮ!
+$DEMO_OVER_FULL_GAME_SHORT	ПОЛНАЯ<N>ИГРА!	
+$DEMO_OVER_PLAY	Продолжайте играть!
+$DEMO_OVER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
+$DEMO_OVER_THANKS	Спасибо за игру!
+$DEMO_OVER_USE_IT	Используйте это, чтобы продолжить с места, где вы закончили!
+$EN_SPELL_DRAGON_FIRE_1_DESC	<DMG> УРОН
+$EN_SPELL_DRAGON_FIRE_2_DESC	<LOW>-<HIGH> УРОН
+$EN_SPELL_FRENZY_DESC	+<PERCENT> скорости на <SEC> сек
+$EN_SPELL_HEAL_DESC	Вылечить: <PERCENT> здоровья
+$END	end
+$ERROR_CONTEXT	контекст
+$ERROR_MESSAGE	сообщение
+$ERROR_NUMBER	Ошибка #
+$ERROR_STACK	трассировка стека
+$ERROR_TITLE	Произошла ошибка!
+$FB_HARD_SELL_NO	Я сказал: никогда!
+$FB_HARD_SELL_NUMS	yes_font:16,no_font:16,yes_off_y:0,yes_off_x:0,no_off_y:0,no_off_x:0
+$FB_HARD_SELL_TEXT	Вы уверены?<N>Смотрите, как она сверкает!
+$FB_HARD_SELL_YES	Ну... хорошо.
+$FB_LIKE_US_NO	Ха-ха-ха. Нет.
+$FB_LIKE_US_TEXT	Лайкните нас на Facebook и<N>получите этот приз БЕСПЛАТНО!
+$FB_LIKE_US_YES	Хорошо!
+$FB_NUMS	font:16,y_off:0,x_off:0,width_off:0
+$FB_PERSISTENT_NUMS	yes_font:16,no_font:16,yes_off_y:0,yes_off_x:0,no_off_y:0,no_off_x:0
+$FB_PERSISTENT_OK	Победа за мной!
+$FB_PERSISTENT_TEXT	Ладно, ваша взяла!<N>Вы все равно получаете ее :)
+$FB_REBEL_TEXT	Правильно, пошел он!<N>Получите это взамен.
+$FB_SECOND_PITCH	Вы все еще можете получить свой приз,<N>лайкнув нас на Facebook!
+$FB_SECOND_PITCH_NO	Никогда!
+$FB_SECOND_PITCH_YES	Хорошо!
+$FB_THANKS_OK	Хорошо
+$FB_THANKS_SUCKS	Facebook – отстой!
+$FB_THANKS_TEXT	Спасибо за лайк на Facebook!<N>Вы уже получили свой приз!
+$FB_THIS_ITEM_WILL_NOW	Этот предмет теперь будет появляться в инвентаре каждого героя.
+$FLAV_DESC_ARMOR_BREAK_AMT_GRTR_1	Уничтожает <AMT_2DIG><EXTRA> очков брони за каждое очко УРОНА в атаке.
+$FLAV_DESC_ARMOR_BREAK_AMT_LESS_1	Уничтожает 1 очко брони за каждые <INV_AMOUNT><EXTRA> очков УРОНА в атаке.
+$FLAV_DESC_ARMOR_BREAK_DIRECT	Атака уничтожает <AMTDMG><EXTRA> очков брони.
+$FLAV_DESC_ARMOR_BREAK_SHORT	Атака уничтожает несколько очков брони.
+$FLAV_DESC_ARMOR_PIERCE_AMT_GRTR_1	Игнорирует <AMT_1DIG><EXTRA> очков брони за каждое очко УРОНА в атаке.
+$FLAV_DESC_ARMOR_PIERCE_AMT_LESS_1	Игнорирует 1 очко брони за каждые <INV_AMOUNT><EXTRA> очков УРОНА в атаке.
+$FLAV_DESC_ARMOR_PIERCE_DIRECT	Атака игнорирует <AMTDMG><EXTRA> очков брони.
+$FLAV_DESC_ARMOR_PIERCE_SHORT	Атака игнорирует несколько очков брони.
+$FLAV_DESC_AUTO_KILL	Враги со здоровьем ниже <PERCENT>%<EXTRA> автоматически умирают.
+$FLAV_DESC_AUTO_KILL_SHORT	Достаточно слабые враги автоматически умирают.
+$FLAV_DESC_BLEED	Враг получает на <PERCENT>%<EXTRA> больше урона от последующих ударов в течение <TIME><EXTRA_TIME> сек.
+$FLAV_DESC_BLEED_SHORT	Враг временно получает больше урона от последующих ударов.
+$FLAV_DESC_BLINDED	Враг промахивается в <PERCENT>% <EXTRA> случаев в течение <TIME><EXTRA_TIME> сек.
+$FLAV_DESC_BLINDED_SHORT	Атака противника теряет точность в течение нескольких секунд.
+$FLAV_DESC_BURN	Враг получает <AMTDMG><EXTRA> урона/сек в течение <TIME><EXTRA_TIME> сек. Отменяется льдом.
+$FLAV_DESC_BURN_SHORT	Враг некоторое время получает урон. Отменяется льдом.
+$FLAV_DESC_CHILL	Враг замедляется на <PERCENT>%<EXTRA> в течение <TIME><EXTRA_TIME> сек. Отменяется огнем.
+$FLAV_DESC_CHILL_SHORT	Враг замедляется в течение нескольких секунд. Отменяется огнем.
+$FLAV_DESC_CONFUSED	Враг идет в обратном направлении в течение <TIME><EXTRA_TIME> сек.
+$FLAV_DESC_CONFUSED_SHORT	Враг идет в обратном направлении некоторое время.
+$FLAV_DESC_CRITICAL	Урон = <AMT_1DIG>x<EXTRA> нормального.
+$FLAV_DESC_CRITICAL_SHORT	Урон больше, чем нормальный.
+$FLAV_DESC_DISEASE	Регенерация врага снижена на <PERCENT>%<EXTRA>.
+$FLAV_DESC_DISEASE_SHORT	Регенерация врага снижена.
+$FLAV_DESC_FREEZE	Враг не может двигаться  в течение <TIME><EXTRA_TIME> сек. Отменяется огнем.
+$FLAV_DESC_FREEZE_SHORT	Враг временно обездвижен. Отменяется огнем.
+$FLAV_DESC_INSPIRE	Друзья наносят <M_MULT_PERCENT>%<EXTRA> дополнительного урона в течение <TIME><EXTRA_TIME> сек.
+$FLAV_DESC_INSPIRE_SHORT	Союзники временно наносят больше урона.
+$FLAV_DESC_KNOCK_BACK	Враг оттесняется назад на <AMT_1DIG><EXTRA> клетки.
+$FLAV_DESC_KNOCK_BACK_SHORT	Враг оттесняется назад на несколько клеток.
+$FLAV_DESC_LIGHT	ТЕМНЫЕ враги получают +<AMT_2DIG>x<EXTRA> УРОНА и по ним легче попасть в течение <TIME><EXTRA_TIME> сек.
+$FLAV_DESC_LIGHT_SHORT	Темные противники получают дополнительный урон и по ним легче попасть.
+$FLAV_DESC_POISON	Враг получает <PERCENT>%<EXTRA> урона каждую секунду в течение <TIME><EXTRA_TIME> сек.
+$FLAV_DESC_POISON_DIRECT	Враг получает <AMTDMG><EXTRA> урона каждую секунду в течение <TIME><EXTRA_TIME> сек.
+$FLAV_DESC_POISON_SHORT	Враг получает урон некоторое время.
+$FLAV_DESC_SINGLE_STUN	Враг не может двигаться в течение <TIME><EXTRA_TIME> сек. Можно нанести только один раз.
+$FLAV_DESC_SINGLE_STUN_SHORT	Враг не может двигаться несколько секунд. Можно нанести только один раз.
+$FLAV_DESC_SLOW	Враг замедляется на <PERCENT>%<EXTRA> в течение <TIME><EXTRA_TIME> сек.
+$FLAV_DESC_SLOW_SHORT	Враг временно замедляется.
+$FLAV_DESC_STRIKE_THROUGH	Атака может поразить до <INTI><EXTRA> врагов.
+$FLAV_DESC_STRIKE_THROUGH_SHORT	Атака может поразить несколько врагов.
+$FLAV_DESC_STUN	Враг не может двигаться  в течение <TIME><EXTRA_TIME> сек.
+$FLAV_DESC_STUN_SHORT	Враг временно обездвижен.
+$GAMEPAD_A	Кнопка A
+$GAMEPAD_B	Кнопка B
+$GAMEPAD_BACK	Кнопка Back
+$GAMEPAD_BUTTON_SPACER
+$GAMEPAD_DPAD	Навигационная крестовина
+$GAMEPAD_DPAD_DOWN	Крестовина вниз
+$GAMEPAD_DPAD_LEFT	Крестовина влево
+$GAMEPAD_DPAD_RIGHT	Крестовина вправо
+$GAMEPAD_DPAD_UP	Крестовина вверх
+$GAMEPAD_EMPTY	Пусто
+$GAMEPAD_LEFT_ANALOG_STICK	Левый аналоговый стик
+$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS	Левый аналоговый стик, ВЛЕВО
+$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS	Левый аналоговый стик, ВПРАВО
+$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS	Левый аналоговый стик, ВВЕРХ
+$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS	Левый аналоговый стик, ВНИЗ
+$GAMEPAD_LEFT_SHOULDER	Левый курок
+$GAMEPAD_LEFT_STICK_CLICK	Левый аналоговый стик, НАЖАТЬ
+$GAMEPAD_LEFT_TRIGGER	Левый аналоговый триггер
+$GAMEPAD_NOTE	Select для перенастройки
+$GAMEPAD_RIGHT_ANALOG_STICK	Правый аналоговый стик
+$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS	Правый аналоговый стик, ВЛЕВО
+$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS	Правый аналоговый стик, ВПРАВО
+$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS	Правый аналоговый стик, ВВЕРХ
+$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS	Правый аналоговый стик, ВНИЗ
+$GAMEPAD_RIGHT_SHOULDER	Правый курок
+$GAMEPAD_RIGHT_STICK_CLICK	Правый аналоговый стик, НАЖАТЬ
+$GAMEPAD_RIGHT_TRIGGER	Правый аналоговый триггер
+$GAMEPAD_START	Кнопка Start
+$GAMEPAD_TEMP_SPACER	,,,,,,
+$GAMEPAD_X	Кнопка X
+$GAMEPAD_Y	Кнопка Y
+$GETSCRAP1	Куча хлама, тряпок, сломанного инструмента и острые ржавые куски металла. Кому это все нужно?
+$GETSCRAP2	Видимо, жители преисподней используют это барахло в качестве валюты.
+$HERO_BLURB_BAKAL	Тихий старый монах, ищущий прощения за свои грехи...
+$HERO_BLURB_KETTA	Кочевница-охотница, циничная и уставшая от жизни...
+$HERO_BLURB_MARKOS	Гордый молодой рыцарь, стремящийся самореализоваться...
+$HERO_BLURB_NIRU	Агрессивный и таинственный, этот дракон не делится своими секретами...
+$HERO_BLURB_SLAK	Странный юный парень, храбрый и неуравновешенный одновременно...
+$HERO_BLURB_WRENNA	Последняя принцесса Куэйда, наполненная жаждой мести за свое павшее королевство...
+$LOGITECH_A	Кнопка 2 (перед)
+$LOGITECH_B	Кнопка 3 (перед)
+$LOGITECH_BACK	Кнопка 9 (зад)
+$LOGITECH_DPAD	<RE>$GAMEPAD_DPAD
+$LOGITECH_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$LOGITECH_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$LOGITECH_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$LOGITECH_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$LOGITECH_EMPTY	<RE>$GAMEPAD_EMPTY
+$LOGITECH_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$LOGITECH_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$LOGITECH_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$LOGITECH_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$LOGITECH_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$LOGITECH_LEFT_SHOULDER	Кнопка 5 (левый курок)
+$LOGITECH_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$LOGITECH_LEFT_TRIGGER	Триггер 7 (левый аналоговый)
+$LOGITECH_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$LOGITECH_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$LOGITECH_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$LOGITECH_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$LOGITECH_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$LOGITECH_RIGHT_SHOULDER	Кнопка 6 (правое курок)
+$LOGITECH_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$LOGITECH_RIGHT_TRIGGER	Триггер 8 (правый аналоговый)
+$LOGITECH_START	Кнопка 10 (start) 
+$LOGITECH_X	Кнопка 1 (перед)
+$LOGITECH_Y	Кнопка 4 (перед)
+$LQ	“
+$MAP_TEXT_HERMIT	Отшельник
+$MAP_TEXT_LAIR	Логово
+$MAP_TEXT_PRISON	Тюрьма
+$MAP_TEXT_SHRINE	Храм
+$MAP_TEXT_TREASURE	Пещера
+$MAP_TEXT_UNKNOWN	???
+$MCGUFFIN_LEARN_SPELL	<MCG> выучила новое заклинание!
+$MISC_1_FOE	1 враг
+$MISC_1_FRIEND	1 друг
+$MISC_ABSORB_X	поглощение <X>
+$MISC_ABSORB_X_RESIST_Y	поглощение <X>, сопротивление <Y>%
+$MISC_ACCEPT	Принять
+$MISC_ACCEPT_AND_CLOSE	Принять и закрыть
+$MISC_ACHIEVEMENT!	Достижение!
+$MISC_ADJUST_REWARDS	100% - это значение по умолчанию, отрегулируйте вверх или вниз, чтобы изменить размер своей награды.
+$MISC_ADVANCED	сложно
+$MISC_ADVANCED_NUMS	font:11,x_off:0,y_off:0
+$MISC_ADVANCED_SHORT	сложно
+$MISC_ALL_FOES	Все враги в радиусе
+$MISC_ALL_FOES_IN	Все враги в <TILES> клетках
+$MISC_ALL_FRIENDS	Все друзья в радиусе
+$MISC_ALL_FRIENDS_IN	Все друзья в <TILES> клетках
+$MISC_ALL_TARGETS	Цели в радиусе
+$MISC_ALL_TARGETS_IN	Цели в <TILES> клетках
+$MISC_AMOUNT	количество
+$MISC_AMOUNT_SHORT	кол-во
+$MISC_ANONYMOUS	аноним
+$MISC_ARE_YOU_SURE	Вы уверены?
+$MISC_ARMOR	броня
+$MISC_ARMOR_PLURAL	<RE>$MISC_ARMOR
+$MISC_ARMOR_SINGULAR	<RE>$MISC_ARMOR
+$MISC_ARMOR_SHORT	БРОНЯ
+$MISC_ASSIGN_POINTS	Распределить<N>очки
+$MISC_ATTACK	атака
+$MISC_ATTACK_SHORT	атака
+$MISC_BACK	Назад
+$MISC_BASE_ATTACK	базовая атака
+$MISC_BATTLE	Битва
+$MISC_BEGIN	Начать
+$MISC_BONUS	Бонус
+$MISC_BONUS_DEFENSE	базовая защита
+$MISC_BOOST	повышение
+$MISC_BOOST_X	повышение <X>
+$MISC_BREAK_HERO_MODE_TEXT	Вы выбрали, игру в <LQ>Режиме Героя<RQ>, в котором запрещено нанимать персонажей.<N>Покинуть этот режим и нанять персонажа?
+$MISC_BREAK_HERO_MODE_TITLE	Покинуть <LQ>Режим Героя<RQ>?
+$MISC_BUY	купить
+$MISC_CANCEL	Отмена
+$MISC_CANT_AFFORD	Мало бабосов
+$MISC_CANT_EQUIP!	Нельзя надеть
+$MISC_CASUAL	легко
+$MISC_CASUAL_NUMS	font:11,x_off:0,y_off:0
+$MISC_CASUAL_SHORT	легко
+$MISC_CHANCE	шанс
+$MISC_CHANGE	Сменить
+$MISC_CLICK_HERE	нажмите здесь
+$MISC_CLOSE	Закрыть
+$MISC_COMPLETE	пройдено
+$MISC_COMPLETE!	пройдено!
+$MISC_CONFIG_DIR	Системная папка
+$MISC_CONFIRM	подтвердить
+$MISC_CONFIRM_CHANGE	Подтвердить изменение
+$MISC_CONFIRM_RECRUIT	Подтвердить наемника
+$MISC_CONTINUE	Продолжить
+$MISC_COST	цена
+$MISC_COST:	цена:
+$MISC_COUNTER	контрудар
+$MISC_CREDITS	Создатели
+$MISC_CURRENT_SAVE	Текущий файл сохранения:
+$MISC_CUSTOM_SETTINGS	Настроить...
+$MISC_DAMAGE	урон
+$MISC_DAMAGE_RESIST	сопротивление УРОНУ
+$MISC_DAMAGE_SHORT	УРОН
+$MISC_DARK	темнота
+$MISC_DARK_DESC	(уклоняется от 75% атак)
+$MISC_DEATH_SPLASH	смертельные брызги
+$MISC_DEF_SHORT	ЗАЩ
+$MISC_DEFAULT	По умолчанию
+$MISC_DEFAULT_SETTINGS	По умолчанию (рекомендуется для новичков)
+$MISC_DEFEAT	Поражение
+$MISC_DEFEND	защита
+$MISC_DEFENDER	защитник
+$MISC_DEFENDERS	защитники
+$MISC_DEFENSE	защита
+$MISC_DEFENSE_ABS	защита
+$MISC_DEFENSE_SHORT	ЗАЩИТА
+$MISC_DELETE_ACHIEVEMENT	Удалить достижение?
+$MISC_DELETE_BOTH_GOG_ACHIEVEMENT	Удалить локальные и GOG достижения
+$MISC_DELETE_BOTH_STEAM_ACHIEVEMENT	Удалить локальные и Steam достижения
+$MISC_DELETE_LOCAL_ACHIEVEMENT	Удалить только локальные достижения
+$MISC_DEMO_VERSION	Демо-версия
+$MISC_DEMO_VERSION_DESC	Это публичная демо-версия игры Defender's Quest: Valley of the Forgotten, Deluxe Edition.<N><N>Она содержит около 20% всей игры и позволяет экспортировать файлы с сохранениями, так что вы не потеряете свой прогресс, если решите купить полную версию.
+$MISC_DESCRIPTION	описание
+$MISC_DEVICE_DISCONNECTED_TEXT	<NAME> в слоте <SLOT> был отключен!
+$MISC_DEVICE_DISCONNECTED_TITLE	Устройство отключено!
+$MISC_DISABLED	выкл.
+$MISC_DOWNLOAD	скачать
+$MISC_DQ_NEWS	Узнать НОВОСТИ!
+$MISC_DQ_SITE	DefendersQuest.com
+$MISC_EASIER	легко
+$MISC_EASY	нормально
+$MISC_EASY_NUMS	font:11,x_off:0,y_off:0
+$MISC_EASY_SHORT	нормально
+$MISC_EDIT	Редактировать
+$MISC_EMPTY	Пусто
+$MISC_ENABLED	вкл.
+$MISC_ENEMY_LEVELS	Уровень врагов
+$MISC_ENTER	войти
+$MISC_ENTER_TEXT	Ввод текста:
+$MISC_EQUIP	надеть
+$SHOP_EQUIP	Экипировка	В городах
+$EQUIP_THE_THING	Надеть	В группе
+$GO_TO_EQUIP_MENU	Экипировка	В навыках
+$MISC_ERROR	ошибка
+$MISC_ERROR!	ошибка!
+$MISC_ERROR_INVALID_MOD_NAME	Неправильное имя мода!
+$MISC_ERROR_MOD_BAD	Этот мод несовместим с данной версией игры. Очень жаль!
+$MISC_ERROR_MOD_EXISTS	Мод с таким названием уже существует!
+$MISC_ERROR_UNKNOWN	Неизвестная ошибка. Очень жаль!
+$MISC_ERROR_UNZIP	Невозможно распаковать мод. Измените путь к моду в настройках или проверьте место на жестком диске.
+$MISC_EVADE	уклонение
+$MISC_EVADE_SHORT	УКЛОН
+$MISC_EVASION	уклонение
+$MISC_EXIT	выход
+$MISC_EXPERIENCE	Опыт
+$MISC_EXTREME	экстрим
+$MISC_EXTREME_NUMS	font:11,x_off:0,y_off:0
+$MISC_EXTREME_SHORT	экстрим
+$MISC_FAIL_TT_TEXT	Количество опыта и бабосов, которое удерживается при поражении в бою.<N>-50% - это значение по умолчанию, отрегулируйте вверх или вниз, чтобы изменить наказание.
+$MISC_FAIL_TT_TITLE	<RE>$UI_ACCESS_FAILURE_PENALTY
+$MISC_FAST	быстро
+$MISC_FOE_PLURAL	врагов
+$MISC_FOE_SINGULAR	враг
+$MISC_FRIEND_PLURAL	друзья
+$MISC_FRIEND_SINGULAR	друг
+$MISC_GAIN	прибыль
+$MISC_GAME_DATA	Игровые данные
+$MISC_GOLD	Бабосы
+$MISC_GOLD:	бабосы:
+$MISC_GOLD_TT_TEXT	Количество бабосов (денег), которое вы получите после битвы.<N><RE>[$MISC_ADJUST_REWARDS]
+$MISC_GOLD_TT_TITLE	Бабосы
+$MISC_HARD	<RE>$MISC_EXTREME
+$MISC_HARD_SHORT	<RE>$MISC_EXTREME_SHORT
+$MISC_HARDER	сложно
+$MISC_HEAL	исцеляет
+$MISC_HERO_MODE	Режим Героя
+$MISC_HERO_MODE_TEXT	Нанимать персонажей запрещено.<N>Категорически НЕ рекомендуется для первого прохождения!<N><N>Примечание:<N>Вы можете изменить свое решение позже, при попытке нанять персонажа вы увидите предупреждение.<N><N>Мы настоятельно рекомендуем увеличить количество получаемого опыта и бабосов до 300% при использовании <LQ>Режима Героя<RQ>.<N><N>И, наконец, этот параметр не влияет на получение достижения <LQ>Режим Героя<RQ>, - достаточно лишь отсутствия персонажей.
+$MISC_HERO_MODE_TITLE	<RE>$MISC_HERO_MODE
+$MISC_HIRE	НАНЯТЬ
+$MISC_HIRE_Q	Нанять <NAME>  <CLASS> за<N><SCRAP> бабосов?
+$MISC_HP	здоровье
+$MISC_HP_SHORT	ЗД
+$MISC_IMMUNE_TO	Иммунитет к <SOMETHING>
+$MISC_INFO	информация
+$MISC_INPUT_0	Ввод:
+$MISC_INPUT_1	Ввод 1:
+$MISC_INPUT_2	Ввод 2:
+$MISC_INPUT_3	Ввод 3:
+$MISC_INSPECT	проверка
+$MISC_JOURNAL	Дневник
+$MISC_LANGUAGES	Язык
+$MISC_LEADER	Предводитель
+$MISC_LEAVE	Выйти
+$MISC_LEVEL	Уровень
+$MISC_LEVEL_SHORT	Уровень
+$MISC_LEVEL_SHORT_X	уровень <X>
+$MISC_LEVEL_PARTY_GEM	Уровень	В группе
+$MISC_LEVEL_WAVE_BLOCK	УРВ	В бою слева в списке волн
+$MISC_LEVEL_SUPER_SHORT	Ур
+$MISC_LEVEL_UP!	Уровень + 1!
+$MISC_LEVEL_UPX	Уровней +
+$MISC_LEVEL_X	Уровень <X>
+$MISC_LOADING	Загрузка...
+$MISC_LOADING_PERCENT	Загрузка...<PERCENT>%
+$MISC_LOCKED	Закрыто
+$MISC_LVLUP	Новый уровень
+$MISC_MAKE_CHANGE	Принять изменения?
+$MISC_MAX	МАКС
+$MISC_MEDIUM	<RE>$MISC_ADVANCED
+$MISC_MEDIUM_SHORT	<RE>$MISC_ADVANCED_SHORT
+$MISC_MENU	меню
+$MISC_MISS	мимо
+$MISC_MODS	Моды
+$MISC_MORE	еще...
+$MISC_MOVIES	Ролики
+$MISC_NEED_PSI	НЕТ<N>ПСИ
+$MISC_NEW_GAME_SETTINGS	Настройки новой игры
+$MISC_NEXT	Далее
+$MISC_NO	Нет
+$MISC_NO_AFFORD	Не хватает
+$MISC_NO_CHANGE	без изменений
+$MISC_NO_HARDWARE	Ваша система не поддерживает аппаратное ускорение. Игра будет работать, но вам, возможно, придется понизить некоторые настройки графики, чтобы игра не тормозила.
+$MISC_NOBODY	Никто
+$MISC_NOM!	НЯМ!
+$MISC_NONE	Нет
+$MISC_NONE_DEFAULT	Нет *
+$MISC_NORMAL	нормально
+$MISC_NORMAL_SHORT	нормально
+$MISC_NOTHING	ничего
+$MISC_NOTHING!	ничего!
+$MISC_NOTHING_TO_EQUIP	Нечего надеть!
+$MISC_OF_DAMAGE	УРОНА
+$MISC_OK	ОК
+$MISC_OKAY	ОК
+$MISC_OPTIONS	Настройки
+$MISC_OTHER	Другое
+$MISC_PARTY	Группа
+$MISC_PASS	пройдено
+$MISC_PAUSE	пауза
+$MISC_PERFECT	идеально
+$MISC_PERFECT!	идеально!
+$MISC_PERFECT_BONUS	Бонус за идеал:
+$MISC_PHASES	периоды
+$MISC_PLEASE_ENTER_A_NAME!	<N>Пожалуйста, введите имя!
+$MISC_PLEASE_WAIT	Пожалуйста, подождите...
+$MISC_PLUS_X%_TO_ARMOR_MULT	<PLUS_OR_MINUS><X> к ARMOR_MULT
+$MISC_PLUS_X%_TO_DEFENSE_MULT	<PLUS_OR_MINUS><X>% к ЗАЩИТЕ
+$MISC_PLUS_X%_TO_DODGE	<PLUS_OR_MINUS><X> к УКЛОНЕНИЮ
+$MISC_PLUS_X%_TO_EVADE	<RE>$MISC_PLUS_X%_TO_DODGE
+$MISC_PLUS_X%_TO_REGEN_MULT	<PLUS_OR_MINUS><X>% к РЕГЕНЕРАЦИИ
+$MISC_PLUS_X_STAT	+<X> <STAT>
+$MISC_PLUS_X_TO_ARMOR_ABS	<PLUS_OR_MINUS><X> к БРОНЕ
+$MISC_PLUS_X_TO_ATTACK	<PLUS_OR_MINUS><X> к АТАКЕ
+$MISC_PLUS_X_TO_ATTACK_SPEED	<PLUS_OR_MINUS><X> к СКОРОСТИ
+$MISC_PLUS_X_TO_DEFENSE_ABS	<PLUS_OR_MINUS><X> к ЗАЩИТЕ
+$MISC_PLUS_X_TO_HP	<PLUS_OR_MINUS><X> к ЗДОРОВЬЮ
+$MISC_PLUS_X_TO_RANGE	<PLUS_OR_MINUS><X> к ДАЛЬНОСТИ
+$MISC_PLUS_X_TO_REGEN_ABS	<PLUS_OR_MINUS><X> к РЕГЕНЕРАЦИИ
+$MISC_PORCUPINE	шипы
+$MISC_PREV	предыдущий
+$MISC_PREVIOUS	Назад
+$MISC_PROBLEM?	проблема?
+$MISC_PSI	пси
+$MISC_PSI_SHORT	пси
+$MISC_QUIT	оставить
+$MISC_QUIT	выйти
+$MISC_QUIT_BATTLE	Покинуть битву
+$MISC_RANDOM	случайно
+$MISC_RANGE	радиус
+$MISC_RANGE_SHORT	РАДИУС
+$MISC_RECRUIT	Нанять
+$MISC_REFUSE	отказать
+$MISC_REGEN	регенерация
+$MISC_REGEN_LONG	регенерация
+$MISC_REGEN_SHORT	регенерация
+$MISC_RESET	Сброс
+$MISC_RESIST	сопротивление <SOMETHING>
+$MISC_RESIST_X	сопротивление <X>%
+$MISC_RESTART	Начать заново
+$MISC_RESTORE_DEFAULTS	Сбросить настройки
+$MISC_REWARD	Награда:
+$MISC_SAVE_DATA	Папка с сохранениями
+$MISC_SAVE_ERROR_TEXT	Ошибка автосохранения, проверьте разрешения файла.<N>Попробуем позже.
+$MISC_SAVE_ERROR_TITLE	Ошибка автосохранения!
+$MISC_SAVE_FIXED_TEXT	Автосохранение прошло успешно, похоже, что проблема устранена.<Н>Всё в порядке.
+$MISC_SAVE_FIXED_TITLE	Автосохранение работает!
+$MISC_SAVED	сохранено
+$MISC_SAVED!	Сохранено!
+$MISC_SCRAP	Бабосы
+$MISC_SECOND	секунда
+$MISC_SECOND_SHORT	сек
+$MISC_SECONDS	секунд
+$MISC_SECONDS_SHORT	секунд
+$MISC_SELECT	Выбор
+$MISC_SELECT_CHALLENGE	Выберите испытание:
+$MISC_SELL	продать
+$MISC_SEND_NEXT	СЛЕДУЮЩАЯ
+$MISC_SKILL	навык
+$MISC_SKILLS	навыки
+$MISC_SKILLTREE_BOOST_NUMS	font:11,x_off:0,y_off:2,linebreak:0
+$MISC_SKILLTREE_SKILL_NUMS	font:13,x_off:-2,y_off:0
+$MISC_SKILLTREE_TITLE_NUMS	font:11,x_off:0,y_off:3
+$MISC_SKIP	Пропуск
+$MISC_SLOT	слот
+$MISC_SLOW	медленно
+$MISC_SPAWNS	порождает
+$MISC_SPECIAL	особые свойства
+$MISC_SPEED	скорость
+$MISC_SPEED_SHORT	СКОРОСТЬ
+$MISC_SPELL	Заклинание
+$MISC_SPLASH_DAMAGE	Брызги
+$MISC_SPLASH_LINE	<AMT> урон, <TILES> клетках
+$MISC_STATS	АТРИБУТЫ
+$MISC_STATUS	статус
+$MISC_STRANGER	незнакомец
+$MISC_STRENGTHS	мощь
+$MISC_SWIMS	плавает
+$MISC_TALK	Диалог
+$MISC_THORNS	шипы
+$MISC_THRESHOLD	лимит
+$MISC_TIPS	Советы
+$MISC_TITLE_SAFE_TEXT	Двигайте аналоговые стики, пока не будут видны все стрелки.
+$MISC_TO	к
+$MISC_TOWN	Поселение
+$MISC_TRY_AGAIN	Повторить
+$MISC_TYPES	Типы
+$MISC_UNDO	Отмена
+$MISC_UNDO_ALL	отменить все
+$MISC_UNEQUIP	снять
+$MISC_UNIQUE	уникальная
+$MISC_UNKNOWN	неизвестно
+$MISC_UNSAVED	не сохранено
+$MISC_UP_TO_X_FOES	До <NUM> <FOE>
+$MISC_UP_TO_X_FRIENDS	До <NUM> <FRIEND>
+$MISC_UPGRADE	купить
+$MISC_VERSUS	против
+$MISC_VICTORY	Победа
+$MISC_VS	против
+$MISC_WAIT	ЖДИ
+$MISC_WALKS_ON	ходит по
+$MISC_WARNING	Внимание!
+$MISC_WAVE_X	Волна <X>
+$MISC_WAVES	Волн
+$MISC_WEAKNESSES	слабость
+$MISC_WEAPON	<RE>$MISC_WEAPONS
+$MISC_WEAPONS	оружие
+$MISC_WEAPON_SINGULAR	оружие
+$MISC_WEAPON_PLURAL	<RE>$MISC_WEAPONS
+$MISC_ACCESSORY	аксессуар
+$MISC_ACCESSORIES	аксессуары
+$MISC_ACCESSORY_SINGULAR	<RE>$MISC_ACCESSORY
+$MISC_ACCESSORY_PLURAL	<RE>$MISC_ACCESSORIES
+$MISC_X_FOES	<NUM> врагов
+$MISC_X_FRIENDS	<NUM> друзей
+$MISC_X_HITS_FOE	<NUM> на врага
+$MISC_X_HITS_FRIEND	<NUM> для каждого друга
+$MISC_X_HITS_TARGET	<NUM> для каждой цели
+$MISC_X_HITS_TOTAL	<NUM> всего
+$MISC_X_MORE	<X> еще...
+$MISC_X_PSI	<X> ПСИ
+$MISC_XP	Опыт
+$MISC_XP_TT_TEXT	Количество очков опыта, которое вы получите после битвы.<N><RE>[$MISC_ADJUST_REWARDS]
+$MISC_XP_TT_TITLE	Опыт
+$MISC_YES	Да
+$MISC_YOU_SURE	Вы уверены?
+$NEW_GAME_PLUS_NOTE	Перейдите на экран сохранений и выберите 'Новая игра+' на вашем старом сохранении.
+$OUYA_A	Кнопка O
+$OUYA_B	Кнопка A
+$OUYA_BACK	<RE>$GAMEPAD_BACK
+$OUYA_DPAD	<RE>$GAMEPAD_DPAD
+$OUYA_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$OUYA_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$OUYA_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$OUYA_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$OUYA_EMPTY	<RE>$GAMEPAD_EMPTY
+$OUYA_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$OUYA_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$OUYA_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$OUYA_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$OUYA_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$OUYA_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER
+$OUYA_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$OUYA_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER
+$OUYA_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$OUYA_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$OUYA_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$OUYA_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$OUYA_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$OUYA_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER
+$OUYA_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$OUYA_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
+$OUYA_START	<RE>$GAMEPAD_START
+$OUYA_X	Кнопка U
+$OUYA_Y	Кнопка Y
+$PARTY_1_NEW_ACHIEVE	1 новое достижение!
+$PARTY_ACHIEVE_PLURAL	достижения
+$PARTY_ACHIEVE_SINGULAR	достижение
+$PARTY_ATTACK	Атака:<T><T>
+$PARTY_CANT_ARMOR	Без<N>БРОНИ
+$PARTY_CANT_WEAPON	Без<N>ОРУЖИЯ
+$PARTY_CHANGE_NAME	Переименовать
+$PARTY_CHANGE_NAME_NUMS	font:12,off_x:0,off_y:0,leading:0
+$PARTY_CHARACTER	персонаж
+$PARTY_CHARACTERS	персонажи
+$PARTY_CLASS_NAME_NUMS	font:13,x_off:-25,y_off:0
+$PARTY_CONFIRM_CHANGES	Подтвердить изменения
+$PARTY_CONFIRM_POINTS_1_1	Навсегда распределить 1 очко навыков одному персонажу?	Комментарий: имеется 4 варианта развития способностей.
+$PARTY_CONFIRM_POINTS_1_X	Навсегда распределить 1 очко навыков <CHARS> персонажам?
+$PARTY_CONFIRM_POINTS_TITLE	Подтвердить распределение
+$PARTY_CONFIRM_POINTS_X_1	Навсегда распределить <POINTS> очков навыков 1 персонажу?
+$PARTY_CONFIRM_POINTS_X_X	Навсегда распределить <POINTS> очков навыков <CHARS> персонажам?
+$PARTY_DEFEATED_WAVE_X	Победил волн <X>
+$PARTY_DEFEND	Защита:<T>
+$PARTY_EVADE	Уклонение:<T><T>
+$PARTY_FAIL_PENALTY	Штраф за поражение
+$PARTY_FAILED	Уровень провален!
+$PARTY_FAILED_DESC	<MCG> убита.
+$PARTY_FROM_BATTLE	С битвы
+$PARTY_GO_TO_MAP	Перейти к карте
+$PARTY_HP	Здоровье
+$PARTY_NO_AFFORD	Вы не можете себе это позволить!<N>Цена: <COST><N>Бабосы: <SCRAP>
+$PARTY_NO_NEW_ACHIEVE	Нет новых достижений.
+$PARTY_NO_POINTS	Нет очков навыков для перераспределения!
+$PARTY_PASSED	Уровень пройден!
+$PARTY_PASSED_ALLY_DEAD_DESC	<ALLY> был убит,<N>но <MCG> выжила.
+$PARTY_PASSED_DESC	<MCG> выжила в битве,<N>но получила травмы.
+$PARTY_PASSED_WORD	Пройдено
+$PARTY_PASSED+	Уровень пройден!+
+$PARTY_PASSED+_DESC	<MCG> была ранена!<N><ALLY> выжил!
+$PARTY_PASSED++	Уровень пройден!++
+$PARTY_PASSED++_DESC	<MCG> была ранена!<N><ALLY> остался цел!
+$PARTY_PERFECT	ИДЕАЛЬНО!
+$PARTY_PERFECT_ALLY_DEAD_DESC	<MCG> осталась цела, но <ALLY> погиб.
+$PARTY_PERFECT_DESC	<MCG> осталась цела!
+$PARTY_PERFECT_WORD	Идеально
+$PARTY_PERFECT+	ИДЕАЛЬНО!+
+$PARTY_PERFECT+_DESC	<MCG> осталась цела!<N><ALLY> был ранен!
+$PARTY_PERFECT++	ИДЕАЛЬНО!++
+$PARTY_PERFECT++_DESC	<MCG> и <ALLY><N>остались целы!	Комментарий: игра подставит имя Зелемира, Тлетл-Мезтли или любого другого наемника вместо <ALLY>.
+$PARTY_POINT	очко
+$PARTY_POINTS	очки
+$PARTY_PSI	ПСИ
+$PARTY_RANGE	Радиус:<T>
+$PARTY_RE_ASSIGN	Сбросить все умения <NAME>?<N>Цена: <COST><N>Бабосы: <SCRAP>
+$PARTY_REACHED_WAVE_X	Достиг волны <X>
+$PARTY_REDESIGN	Внешность
+$PARTY_REDESIGN_NUMS	font:12,off_x:0,off_y:0,leading:0
+$PARTY_REGEN	Регенерация:<T><T>
+$PARTY_RENAME	Сменить имя
+$PARTY_RESET_POINTS	Сброс ОН
+$PARTY_RESET_POINTS_NUMS	font:12,off_x:0,off_y:0,leading:0
+$PARTY_RETURN_TOWN	Вернуться в город
+$PARTY_SPEED	Скорость:<T>
+$PARTY_TOTAL	Всего
+$PARTY_WELL_DONE	ОТЛИЧНО!
+$PARTY_X_NEW_ACHIEVE	<NUM> новых достижения!
+$PARTY_X_PTS	<X> очков
+$PARTY_XP	ОПЫТ
+$PS3_A	<RE>$PS4_A
+$PS3_B	<RE>$PS4_B
+$PS3_BACK	Кнопка Select
+$PS3_DPAD	<RE>$PS4_DPAD
+$PS3_DPAD_DOWN	<RE>$PS4_DPAD_DOWN
+$PS3_DPAD_LEFT	<RE>$PS4_DPAD_LEFT
+$PS3_DPAD_RIGHT	<RE>$PS4_DPAD_RIGHT
+$PS3_DPAD_UP	<RE>$PS4_DPAD_UP
+$PS3_EMPTY	<RE>$PS4_EMPTY
+$PS3_LEFT_ANALOG_STICK	<RE>$PS4_LEFT_ANALOG_STICK
+$PS3_LEFT_ANALOG_STICK_X_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_X_MINUS
+$PS3_LEFT_ANALOG_STICK_X_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_X_PLUS
+$PS3_LEFT_ANALOG_STICK_Y_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_MINUS
+$PS3_LEFT_ANALOG_STICK_Y_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_PLUS
+$PS3_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER
+$PS3_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$PS3_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER
+$PS3_RIGHT_ANALOG_STICK	<RE>$PS4_RIGHT_ANALOG_STICK
+$PS3_RIGHT_ANALOG_STICK_X_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_MINUS
+$PS3_RIGHT_ANALOG_STICK_X_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_PLUS
+$PS3_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_MINUS
+$PS3_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_PLUS
+$PS3_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER
+$PS3_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$PS3_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
+$PS3_START	<RE>$GAMEPAD_START
+$PS3_X	<RE>$PS4_X
+$PS3_Y	<RE>$PS4_Y
+$PS4_A	Кнопка X
+$PS4_B	Кнопка Circle
+$PS4_BACK	Кнопка Share
+$PS4_DPAD	<RE>$GAMEPAD_DPAD
+$PS4_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$PS4_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$PS4_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$PS4_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$PS4_EMPTY	<RE>$GAMEPAD_EMPTY
+$PS4_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$PS4_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$PS4_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$PS4_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$PS4_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$PS4_LEFT_SHOULDER	Курок L1
+$PS4_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$PS4_LEFT_TRIGGER	Триггер L2
+$PS4_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$PS4_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$PS4_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$PS4_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$PS4_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$PS4_RIGHT_SHOULDER	Курок R1
+$PS4_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$PS4_RIGHT_TRIGGER	Триггер R2
+$PS4_START	Кнопка Options
+$PS4_X	Кнопка Square
+$PS4_Y	Кнопка Triangle
+$PSVITA_A	<RE>$PS4_A
+$PSVITA_B	<RE>$PS4_B
+$PSVITA_BACK	Кнопка Select
+$PSVITA_DPAD	<RE>$PS4_DPAD
+$PSVITA_DPAD_DOWN	<RE>$PS4_DPAD_DOWN
+$PSVITA_DPAD_LEFT	<RE>$PS4_DPAD_LEFT
+$PSVITA_DPAD_RIGHT	<RE>$PS4_DPAD_RIGHT
+$PSVITA_DPAD_UP	<RE>$PS4_DPAD_UP
+$PSVITA_EMPTY	<RE>$PS4_EMPTY
+$PSVITA_LEFT_ANALOG_STICK	<RE>$PS4_LEFT_ANALOG_STICK
+$PSVITA_LEFT_ANALOG_STICK_X_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_X_MINUS
+$PSVITA_LEFT_ANALOG_STICK_X_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_X_PLUS
+$PSVITA_LEFT_ANALOG_STICK_Y_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_MINUS
+$PSVITA_LEFT_ANALOG_STICK_Y_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_PLUS
+$PSVITA_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER
+$PSVITA_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$PSVITA_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER
+$PSVITA_RIGHT_ANALOG_STICK	<RE>$PS4_RIGHT_ANALOG_STICK
+$PSVITA_RIGHT_ANALOG_STICK_X_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_MINUS
+$PSVITA_RIGHT_ANALOG_STICK_X_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_PLUS
+$PSVITA_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_MINUS
+$PSVITA_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_PLUS
+$PSVITA_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER
+$PSVITA_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$PSVITA_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
+$PSVITA_START	<RE>$GAMEPAD_START
+$PSVITA_X	<RE>$PS4_X
+$PSVITA_Y	<RE>$PS4_Y
+$REWARD_FINISH	Конец игры
+$REWARD_GOLD	+ <GOLD> БАБОСОВ
+$REWARD_NEXT_LEVEL	Следующий уровень
+$REWARD_NO_GOLD	Ничего!
+$REWARD_NO_XP	Ничего!
+$REWARD_QUEST	Квест завершен
+$REWARD_XP	+ <XP> ОПЫТА
+$RQ	”
+$SAVE_SLOT_DELETE	Удалить
+$SAVE_SLOT_DELETE_TEXT	Полностью удалить этот слот сохранения с компьютера. Вы ведь знаете, что вы делаете, не так ли?
+$SAVE_SLOT_DELETE_TITLE	Удалить сохранение
+$SAVE_SLOT_EXPORT	Экспорт
+$SAVE_SLOT_EXPORT_TEXT	Резервное копирование вашего сохранения в простой текстовый файл.
+$SAVE_SLOT_EXPORT_TITLE	Экспорт сохранения
+$SAVE_SLOT_IMPORT	Импорт
+$SAVE_SLOT_IMPORT_TEXT	Искать на вашем компьютере файлы сохранения для Defender's Quest.
+$SAVE_SLOT_IMPORT_TITLE	Импорт сохранения
+$SAVE_SLOT_NEW_GAME	Новая игра
+$SAVE_SLOT_NEW_GAME_PLUS	Новая игра +
+$SAVE_SLOT_NEW_GAME_PLUS_TEXT	Начать новую игру с более сложными заданиями, при этом сохраняется весь опыт, навыки и снаряжение. Новая игра+ предлагает новые типы врагов, новые побочные квесты, более мощное снаряжение и значительно расширенный журнал. <N><N>Примечание: Ваш прогресс распространяется и на оригинальную игру и на новую игру+. Вы можете свободно переключаться между ними в любой момент, ничего не теряя.
+$SAVE_SLOT_NEW_GAME_PLUS_TITLE	Начать Новую игру+
+$SAVE_SLOT_PLAY	Играть
+$SAVE_SLOT_PLAY_PLUS	Играть+
+$SAVE_SLOT_PLAY_PLUS_TEXT	Ваш прогресс распространяется и на оригинальную игру и на новую игру+. Вы можете свободно переключаться между ними в любой момент, ничего не теряя.
+$SAVE_SLOT_PLAY_PLUS_TITLE	Продолжить Новую игру+
+$SKILL_DESC_ADDS_CHANCE_TO_ALL	Добавляет <PERCENT>%<EXTRA> шанс на <FLAV>* для всех типов атак.
+$SKILL_DESC_ADDS_CHANCE_TO_ONE	Добавляет <PERCENT>%<EXTRA> шанс на <FLAV>* для атаки <LQ><ATTACK><RQ>.
+$SKILL_DESC_ADDS_TO_ALL	Добавляет <FLAV>* для всех типов атак.
+$SKILL_DESC_ADDS_TO_ONE	Добавляет <FLAV>* для атаки <LQ><ATTACK><RQ>.
+$SKILL_DESC_COOLDOWN	Ожидание
+$SKILL_DESC_DMG	Урон
+$SKILL_DESC_EFFECT	эффект
+$SKILL_DESC_HEAL	Лечение
+$SKILL_DESC_HITS	Удары
+$SKILL_DESC_HITS_NUM	# Ударов
+$SKILL_DESC_PSI_COST	Расход пси
+$SKILL_DESC_SPECIAL
+$SKILL_DESC_SPLASH	Брызги
+$SKILL_DESC_TARGET	Цель
+$SKILL_DESC_TOTAL_BONUS	Общий бонус к <STAT>* станет +<AMOUNT><EXTRA>.
+$SOFT_KEYBOARD_BACKSPACE	Возврат
+$SOFT_KEYBOARD_CLEAR	Очистить
+$SOFT_KEYBOARD_SPACE	Пробел
+$SPECIAL_IMPROVES	Улучшает <FLAVOR>:
+$SPECIAL_PLUS_FLAV	Добавляет <FLAVOR>:
+$SPECIAL_SAVE_VS	Спасает против <FLAVOR> если ЗДОРОВЬЕ >= <PERCENT>%
+$STAT_DESC_ARMOR	БРОНЯ<N>Количество поглощенного урона.
+$STAT_DESC_ARMOR_ENEMY	БРОНЯ<N>Количество поглощенного урона.
+$STAT_DESC_ATTACK	АТАКА<N>Позволяет техникам наносить больше урона.
+$STAT_DESC_ATTACK_ENEMY	АТАКА<N>Урон лучшей атаки противника.
+$STAT_DESC_BARRIER	БАРЬЕР<N>Слои, защищающие от повреждений. Только невероятно мощная магия может пробить их.
+$STAT_DESC_DEFENSE	ЗАЩИТА<N>Количество поглощаемого урона.
+$STAT_DESC_DEFENSE_ENEMY	БРОНЯ<N>Количество поглощаемого урона.
+$STAT_DESC_EVADE	Шанс избежать атаки противника.
+$STAT_DESC_EVADE_ENEMY	Шанс избежать атаки.
+$STAT_DESC_FINAL_HIT	УЩЕРБ<N>Сколько урона <FINAL_HIT_TARGET> получает, если враг дойдет до конца.
+$STAT_DESC_HP	ЗДОРОВЬЕ<N>Если оно достигнет 0, то персонаж покинет поле боя.
+$STAT_DESC_PHASING	"ПЕРИОДИЧНОСТЬ<N>Периодическое появление и скрытие. Нельзя выбрать или ударить по скрытому объекту".
+$STAT_DESC_RANGE	РАДИУС<N>Радиус атаки.
+$STAT_DESC_RANGE_ENEMY	РАДИУС<N>Радиус атаки.
+$STAT_DESC_REGEN	РЕГЕНЕРАЦИЯ<N>Скорость восстановления ЗДОРОВЬЯ в ЗД/сек.
+$STAT_DESC_REGEN_ENEMY	РЕГЕНЕРАЦИЯ<N>Скорость восстановления ЗДОРОВЬЯ  в ЗД/сек.
+$STAT_DESC_SPAWN	ПОРОЖДАЕТ:<N>
+$STAT_DESC_SPEED	СКОРОСТЬ<N>Время ожидания атак:<N>Каждые <SPEED_SHOW_MULT> очков уменьшают время ожидания на 1x
+$STAT_DESC_SPEED_ENEMY	СКОРОСТЬ<N>Насколько быстро противник атакует и передвигается. 1 очко = 1 клетка в секунду.
+$STAT_DESC_SPELLS	ЗАКЛИНАНИЯ
+$STAT_DESC_STRONGS	ПРЕИМУЩЕСТВА
+$STAT_DESC_THORNS	ШИПЫ<N>Наносят мощный урон проходящим по ним врагам.
+$STAT_DESC_WEAKS	НЕДОСТАТКИ
+$STAT_DESC_XP	ОПЫТ<N>
+$STATE_CRASH_DETAILS	Детали:
+$STATE_CRASH_PROMPT	Что бы вы хотели сделать?
+$STATE_CRASH_SEND	Отправить отчет<N>разработчикам
+$STATE_CRASH_SHOW_DUMP	Показать<N>файлы дампа
+$STATE_CRASH_TITLE	Критическая ошибка!
+$STATUS_DESC_ANONYMOUS	+<PERCENT>% к шансу увернуться.
+$STATUS_DESC_BLEED	Получает +<PERCENT>% УРОНА
+$STATUS_DESC_BLINDED	Промахивается <PERCENT>% времени.
+$STATUS_DESC_BURN	<AMT_1DIG> УРОНА/сек<N>Отменяется  льдом.
+$STATUS_DESC_CHILL	-<PERCENT>% скорость.<N>Отменяется огнем.
+$STATUS_DESC_DARK	Уворачивается от одиночных атак <PERCENT>% времени.
+$STATUS_DESC_DARK_FRENZY	<RE>$STATUS_DESC_FRENZY
+$STATUS_DESC_DISEASE	Регенерация сокращается на <PERCENT>%
+$STATUS_DESC_EVER_BLEED	<RE>$STATUS_DESC_BLEED
+$STATUS_DESC_EVER_POISON	<INTI> УРОНА/сек.
+$STATUS_DESC_FB_BORED	Заскучал и не двигается.
+$STATUS_DESC_EXISTENTIAL	-<PERCENT>% скорость, +<PERCENT>% сопротивления урону.
+$STATUS_DESC_FB_HAPPY	+<PERCENT>% скорость.
+$STATUS_DESC_FB_LOL	+<PERCENT>% скорость.
+$STATUS_DESC_FB_OMG	+<PERCENT>% скорость, -<PERCENT>% сопротивление урону.
+$STATUS_DESC_FB_SAD	-<PERCENT>% скорость.
+$STATUS_DESC_FIRE	<RE>$STATUS_DESC_BURN
+$STATUS_DESC_FREEZE	Не может двигаться.<N>Отменяется огнем.
+$STATUS_DESC_FRENZY	Ускоряется на <PERCENT>%
+$STATUS_DESC_INSPIRE	<RE>$STATUS_DESC_INSPIRED
+$STATUS_DESC_INSPIRED	Атака наносит +<M_MULT_PERCENT>% УРОНА.
+$STATUS_DESC_INSPIRED_HIT	<RE>$STATUS_DESC_INSPIRED
+$STATUS_DESC_LIGHT	Снимает темноту.
+$STATUS_DESC_POISON	<INTI> УРОНА/сек в течение <TIME> сек
+$STATUS_DESC_SINGLE_STUN	Не может двигаться. Можно применить один раз за бой
+$STATUS_DESC_SLOW	-<PERCENT>% скорость.
+$STATUS_DESC_STUN	Не может двигаться.
+$STATUS_DESC_TROLL	Уворачивается от атак <PERCENT>% времени.
+$STATUS_TIME_FOREVER	Длится вечно.
+$STATUS_TIME_LEFT	<TIME_LEFT>/<TIME> до конца.
+$STRONG_DMG_MULT	<PERCENT>% сопротивление УРОНУ от <FLAVOR>
+$STRONG_EVADE	<PERCENT>% уклонение <FLAVOR>
+$TALK_ASH	БЕЖЕНЕЦ ЭША
+$TALK_CULTIST	ЖРЕЦ-СЕКТАНТ
+$TALK_NOMAD	БЕЖЕНЕЦ КОЧЕВНИКОВ
+$TALK_QUAID	БЕЖЕНЕЦ КУЭЙДА
+$TARGET_BOSS_TEXT	Если не нажата, то персонаж игнорирует вражеских боссов.
+$TARGET_BOSS_TITLE	Цель - БОСС
+$TARGET_BOTH_TEXT	Персонаж использует техники согласно уровню повышения.
+$TARGET_BOTH_TITLE	Обычный приоритет
+$TARGET_BULLDOG_TEXT	Персонаж никогда не меняет цель, пока враг не оставляет радиус досягаемости или не умирает.<N><N>Для исключительных случаев. Рекомендуется только для опытных игроков!
+$TARGET_BULLDOG_TITLE	Режим упорства
+$TARGET_CHANCE_TEXT	Цель - враг с наименьшей вероятностью увернуться или отбить атаку.
+$TARGET_CHANCE_TITLE	Максимальная вероятность поражения
+$TARGET_CHEAP_TEXT	Персонаж сохраняет мощные техники для целей, которых нельзя убить слабыми техниками.
+$TARGET_CHEAP_TITLE	Экономная техника
+$TARGET_EFFECT_TEXT	Персонаж использует атаки со статусными эффектами против самых крепких врагов.
+$TARGET_EFFECT_TITLE	Эффективная техника
+$TARGET_FAST_TEXT	Цель - враг, движущийся быстрее всех.
+$TARGET_FAST_TITLE	Быстрая цель
+$TARGET_FIGHT_TEXT	Персонаж атакует каждый раз, когда это возможно, даже если техника лечения готова.
+$TARGET_FIGHT_TITLE	Приоритет на сражение
+$TARGET_FIRST_TEXT	Цель - самая первая из возможных.
+$TARGET_FIRST_TITLE	Первая цель
+$TARGET_HEAL_TEXT	Персонаж лечит каждый раз, когда это возможно, даже если атакующая техника готова.
+$TARGET_HEAL_TITLE	Приоритет на исцеление
+$TARGET_LAST_TEXT	Цель - самая последняя из возможных.
+$TARGET_LAST_TITLE	Последняя цель
+$TARGET_SAVE_TEXT	Делает текущие настройки цели базовыми для этого персонажа.
+$TARGET_SAVE_TITLE	Сохранить настройки
+$TARGET_SPECIFIC_TEXT	Персонаж атакует только указанный тип врагов, игнорируя всех остальных.
+$TARGET_SPECIFIC_TITLE	Специфичная цель
+$TARGET_STRONG_TEXT	Цель - враг с наибольшей жизнью и броней.
+$TARGET_STRONG_TITLE	Сильная цель
+$TARGET_WEAK_TEXT	Цель - враг с наименьшей жизнью и броней.
+$TARGET_WEAK_TITLE	Слабая цель
+$TIP_00_TEXT	<N><N>Иногда полезно вернуться назад и пройти ранние битвы на повышенном уровне сложности, чтобы заработать золота и купить снаряжение получше. Также можете попробовать сыграть на упрощенном уровне сложности 'Легко'.
+$TIP_00_TITLE	Застрял?
+$TIP_10_TEXT	Вы можете управлять игрой с клавиатуры!<N><N>- Выбор заклинания<N>- Выбор вызываемого персонажа<N>- Повышение / вызов защитника<N>- Пауза / продолжение игры<N>- Переключение между защитниками<N>- Смена цели / настройки скорости<N>- Навигация по кнопкам интерфейса<N>- Перемещение курсора / выбор<N><N>(Назначьте клавиши в настройках)
+$TIP_10_TITLE	Горячие клавиши
+$TIP_100_TEXT	Отзыв защитников позволит вам вернуть часть Пси, вложенных в них.<N><N>Количество возвращаемых Пси снижается, если защитник имеет травму.
+$TIP_100_TITLE	Отзыв
+$TIP_110_TEXT	Если у вас есть физические недостатки, то обратите внимание на следующее:<N><N>1) Видео - играйте в полноэкранном<N>режиме с масштабированием картинки<N>2) Управление - переназначьте<N>элементы управления<N>3) Ограничения - переключите<N>эффекты, скорость воспроизведения и множитель опыта
+$TIP_110_TITLE	Ограничения
+$TIP_120_TEXT	Эта подсказка добавлена потому, что никто не пытается анализировать код или расшифровывать загадки.
+$TIP_120_TITLE	Социальная реклама
+$TIP_130_TEXT	Выбрав защитника, вы можете указать, какого врага им атаковать: первого, последнего, сильных, слабых или быстрых. Используйте это для оптимизации ваших атак. Например, выбор 'сильных' врагов позволит вам сконцентрироваться на более крупных единицах, выделив их из толпы.
+$TIP_130_TITLE	Выбор цели
+$TIP_140_TEXT	В дополнение к основным параметрам выбора цели, есть четыре дополнительных настройки:<N><N>1) Экономная техника <N>2) Эффективная техника<N>3) Максимальная вероятность поражения <N>4) Режим упорства<N><N>Их не обязательно использовать, но они могут помочь продвинутым игрокам извлечь максимум пользы из стратегии боя. Вы даже можете сохранить настройки выбора цели для данного персонажа!
+$TIP_140_TITLE	Продвинутый выбор цели
+$TIP_150_TEXT	Огонь и лед не могут работать вместе. Холод и заморозка отменят огонь, и наоборот.
+$TIP_150_TITLE	Огонь и лед
+$TIP_160_TEXT	'Сложный' и 'экстрим' уровни сложности, как правило, будут вам не по зубам, если попытаться сыграть в них сразу же.<N><N>Попробуйте вернуться к ним после того, как вы пройдете следующие несколько битв на нормальной сложности.
+$TIP_160_TITLE	Повышенная сложность
+$TIP_170_TEXT	После покупки нового снаряжения для ваших героев, старое снаряжение может еще послужить другим членам вашей группы.
+$TIP_170_TITLE	Снаряжение
+$TIP_180_TEXT	Расстановка защитников близко друг к другу заставляет врагов рассредотачивать свои атаки, что облегчает выживание каждого из защитников.<N><N>Недостатком этой стратегии является то, что вы контролируете меньшую площадь.
+$TIP_180_TITLE	Сила в цифрах
+$TIP_190_TEXT	Если вы хотите настроить темп развития игры, то вы можете изменить глобальный множитель опыта в меню параметров.<N><N>Значение по умолчанию составляет 100%.<N><N>Вы также можете изменить множитель для бабосов.
+$TIP_190_TITLE	Множитель награды
+$TIP_20_TEXT	Каждый защитник получает 1 очко навыков при повышении уровня.<N><N>Распределяйте эти очки в меню группы, чтобы открыть новые способности в бою.<N><N>1) ТЕХНИКИ (круг) - атаки применяемые в бою<N>2) КАЧЕСТВА (квадрат) - пассивные способности.<N><N>Каждая техника соответствует определенному уровню повышения в бою.
+$TIP_20_TITLE	Навыки
+$TIP_200_TEXT	Иногда, одна из техник может мешать вашей тактике (возможно, от огня вашего дракона размораживаются враги), или вы просто хотите сохранить мощную атаку на потом. Тогда, вы можете нажать на защитника и затем щелкнуть на технику в нижнем правом углу, чтобы временно отключить ее.
+$TIP_200_TITLE	Отключение техник
+$TIP_210_TEXT	В меню сохранений, есть кнопка с изображением папки и гаечного ключа.<N><N>Она приведет вас туда, где хранятся ваши сохраненные игры и файл конфигурации.
+$TIP_210_TITLE	Где мои сохранения?
+$TIP_220_TEXT	После завершения обычной игры, вы можете начать новое приключение со своей старой группой, с более сложными боями и невероятными наградами!<N><N><RE>[$NEW_GAME_PLUS_NOTE]
+$TIP_220_TITLE	Новая игра+
+$TIP_230_TEXT	В режиме НОВАЯ ИГРА+ вы сможете заработать специальные артефакты, которые можно использовать для улучшения уникальной экипировки из обычной игры. Эти улучшенные предметы имеют особые способности!
+$TIP_230_TITLE	Улучшенные вещи
+$TIP_240_TEXT	После того, как вы заработаете достаточно звезд, разблокируются бонусные сражения. За прохождение этих специальных миссий, вы получите дополнительные награды.
+$TIP_240_TITLE	Бонусные миссии
+$TIP_250_TEXT	При использовании заклинания Молния 'сгорает Пси'. Это значит, что доля Пси, получаемая в награду, уменьшается пропорционально здоровью противника. Например, если заклинание нанесет 40% урона, то награда Пси будет уменьшена на 40% от обычной.
+$TIP_250_TITLE	Пси сгорает?
+$TIP_260_TEXT	Знаете ли вы, что можете сделать свой собственный мод (модификацию) для игры?<N><N>Нажмите на большую кнопку 'M' в меню сохранения игры. Вы можете изменить практически все: характеристики, уровни, классы, персонажей, ролики, графику, предметы и т.д.
+$TIP_260_TITLE	Поддержка модов
+$TIP_270_TEXT	<N><N>Позвони своей маме, она скучает по тебе.
+$TIP_270_TITLE	Не забывай о маме
+$TIP_30_TEXT	<N><N>После боя, все, кто остается на поле к концу сражения получают опыт.<N><N>Остальные получают половину опыта. Получаемый персонажами опыт не зависит от их количества.<N><N>Вы можете изменить эти условия в меню Ограничения.
+$TIP_30_TITLE	Кто получает опыт?
+$TIP_40_TEXT	Зажмите левую кнопку мыши, чтобы перемещаться по карте, либо управляйте с клавиатуры.<N><N>По умолчанию прокрутка назначена на стрелки.
+$TIP_40_TITLE	Карта мира
+$TIP_50_TEXT	Отзыв защитников, обычно, возвращает лишь часть затраченных Пси.<N><N>Но если вы отзовете защитника до появления первой волны врагов, то получите назад 100% Пси.
+$TIP_50_TITLE	Отзыв за 100% Пси
+$TIP_60_TEXT	Если у вас появился вопрос, то присоединяйтесь к онлайн сообществу на www.defendersquest.com! <N><N>У нас есть форум, где вы можете задать вопросы, совместная вики, а также блог разработчика.
+$TIP_60_TITLE	Веб-сайт и форум
+$TIP_70_TEXT	Вы можете использовать клавиатуру, чтобы размещать защитников.<N><N>По умолчанию управление назначено на стрелки.
+$TIP_70_TITLE	Размещение защитников
+$TIP_80_TEXT	Цвета всплывающих чисел обозначают тип повреждения. Белые - обычный удар, серые - удар частично поглощен броней, красные - кровоточение, оранжевые - горение, фиолетовые - отравление и большие - критический удар. <N><N>Вы можете включить или выключить их в пункте настроек 'Разное'.
+$TIP_80_TITLE	Боевые эффекты
+$TIP_90_TEXT	Играя на высоких уровнях сложности, вы иногда будете получать уникальные предметы. Это мощные коллекционные вещи, их нельзя продать в магазинах.
+$TIP_90_TITLE	Уникальные вещи
+$TITLE_BONUS_GOODIES	Бонусные плюшки
+$TITLE_BONUS_GOODIES_2	Секретики?
+$TITLE_CONNECTING_KONG	Подключаемся к KONG...
+$TITLE_EULA_1	Играя в эту игру
+$TITLE_EULA_2	вы соглашаетесь с лицензионным соглашением.
+$TITLE_FULL_GAME	ПОЛНАЯ ВЕРСИЯ
+$TITLE_OPTIONS	Настройки
+$TITLE_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
+$TITLE_QUIT	Выход
+$TITLE_RELOAD_MOD	Перезагрузить мод
+$TITLE_START	Старт
+$TITLE_START_DEMO	Начать ДЕМО
+$TITLE_START_GAME	Начать игру
+$TITLE_UNLOAD_MOD	Отключить мод
+$TOOLTIP_ADVANCED	Тяжелое испытание с достойной наградой.<N><N>Приходите, когда будете достаточно сильны.
+$TOOLTIP_CASUAL	В этом режиме у врагов понижены здоровье и урон.
+$TOOLTIP_CHANGE_PATH_1	Примечание:
+$TOOLTIP_CHANGE_PATH_2	Ваши старые файлы не будут автоматически перенесены в новое место.<N><N>Они останутся в исходной папке.
+$TOOLTIP_EXTREME	Наисложнейшее испытание с лучшей наградой.<N><N>Будьте готовы!
+$TOOLTIP_NORMAL	Обычное испытание.<N><N>Большинству игроков следует начинать с него.
+$TYPE_ARMOR	В доспехах
+$TYPE_ATTACKER	Атакующий
+$TYPE_BOSS	Босс
+$TYPE_CULTIST	Сектант
+$TYPE_DARK	Темный
+$TYPE_EXALTED	Верховный
+$TYPE_FAST	Быстрый
+$TYPE_NO_END_DAMAGE	Безущербный
+$TYPE_NORMAL	Обычный
+$TYPE_NUKE_ON_KILL	Взрывающийся
+$TYPE_REVENANT	Загробник
+$TYPE_SHEEP	Овца
+$TYPE_SNAIL	Улитка
+$TYPE_SPITTER	Злыдень
+$TYPE_SPLITTER	Лопающийся
+$TYPE_STATIONARY	Неподвижный
+$TYPE_TELEPORTER	Телепортирующийся
+$TYPE_WATER	Водный
+$TYPE_WORM	Червь
+$UI_ACCEPT_NUMS	font:18,off_y:1,off_x:-3	Комментарий: размер шрифта и раскладка x/y – для меток кнопок опций меню
+$UI_ACCESS_ABSENCE	ПРОПУСК
+$UI_ACCESS_DEFAULT	*Настройки по умолчанию
+$UI_ACCESS_FAIL	НЕУДАЧА
+$UI_ACCESS_FAILURE_PENALTY	Штраф за поражение
+$UI_ACCESS_FLASHING	Эффекты мерцания
+$UI_ACCESS_NUMS	font:18,off_y:1,off_x:-2,show_boxes:1,absence_off_x:0,speed_off_x:0
+$UI_ACCESS_PENALTIES	ШТРАФЫ
+$UI_ACCESS_REWARDS	НАГРАДЫ
+$UI_ACCESS_SEE_ALSO	Смотрите также:
+$UI_ACCESS_SPEED	Скорость игры
+$UI_ACCESS_TITLE	Ограничения
+$UI_ACHIEVE_CATEGORIES	Категории
+$UI_ACHIEVE_COMPLETION	Завершено
+$UI_ACHIEVE_EASY	Легко
+$UI_ACHIEVE_HARD	Тяжело
+$UI_ACHIEVE_IMPOSSIBLE	Невозможно
+$UI_ACHIEVE_MEDIUM	Нормально
+$UI_ACHIEVE_POP_UP	Уведомления
+$UI_ACHIEVE_TRAINER	Введение
+$UI_ACHIEVEMENTS_BUTTON_NUMBERS	font:18,offy:-2
+$UI_ACHIEVEMENTS_NUMS	font:18,off_y:0,pop_up_off_y:0
+$UI_ACHIEVEMENTS_TITLE	Достижения
+$UI_ALL_FILES	Все файлы
+$UI_AUDIO_NUMS	font:18,off_y:1,off_x:-2
+$UI_AUDIO_TITLE	Аудио
+$UI_BACK_NUMS	font:18,off_y:1,off_x:-3
+$UI_BATTLE_CASH_OUT	Хватит
+$UI_BATTLE_CASH_OUT?	Хватит?
+$UI_BATTLE_CASH_OUT_TEXT	Закончить битву сейчас и получить заработанные награды?
+$UI_BATTLE_MORE	ЕЩЕ
+$UI_BATTLE_NEXT	СЛЕД.
+$UI_BATTLE_SEND_NEXT	Запуск<N>ВОЛНЫ
+$UI_BATTLE_WAVE	Волна
+$UI_BATTLE_WAVE_BUTT_NUMS	font_next:13,font_cash_out:11,font_next_x_off:0,font_next_y_off:-4,font_cash_out_x_off:0,font_cash_out_y_off:-1
+$UI_BATTLE_WAVES	волн
+$UI_BONUS_BLUE_STARS_LINE	<STAR_NUM> голубых звезд
+$UI_BONUS_BONUS_LEVELS	Бонусные уровни
+$UI_BONUS_GOLD_STARS_LINE	<STAR_NUM> золотых звезд
+$UI_BONUS_NUMS	select_font:12,locked_font:14
+$UI_BONUS_STARS_LINE	<STAR_NUM> <STAR_COLOR> звезд
+$UI_CLOUD_UNKNOWN	Облачное сохранение
+$UI_CLOUD_UNKNOWN_TEXT	<N>Включить облачное сохранение Steam?
+$UI_CLOUD_UNKNOWN_TEXT_2	Вы можете изменить эту настройку<N>в любое время в:<N>Настройки: Разное
+$UI_CONFLICT_BACKUP	Сделать резервную копию конфликтующего файла в:<N><LOC>
+$UI_CONFLICT_BETTER	Кажется, это сохранение лучше
+$UI_CONFLICT_BUTTON	Использовать это
+$UI_CONFLICT_BUTTON_NUMS	font:13,x_off:0,y_off:-8
+$UI_CONFLICT_CLOUD	ОБЛАКО
+$UI_CONFLICT_LOCAL	КОМПЬЮТЕР
+$UI_CONFLICT_MSG	Мы не уверены, что именно нужно поместить в слот <SLOT>.<N>Выберите тот, который хотите сохранить.
+$UI_CONFLICT_NGP	Новая игра+
+$UI_CONFLICT_TITLE	Конфликт облака Steam!
+$UI_CONTROLS_ACCEL	Ускорение
+$UI_CONTROLS_ACCEL_NUMS	font:13,off_x:12,off_y:0,text_off_x:0,text_off_y:0
+$UI_CONTROLS_ACCEPT	Принять
+$UI_CONTROLS_ACCEPT_SELECT	Принять/Выбрать
+$UI_CONTROLS_AUTO	Автоопределение
+$UI_CONTROLS_BACK	Назад
+$UI_CONTROLS_BACK_NUMS	off_x:-8,off_y:-45,btn_off_x:0,btn_off_y:-5
+$UI_CONTROLS_BACK_CANCEL	Назад/Отмена
+$UI_CONTROLS_BOOST	Повысить    
+$UI_CONTROLS_BOOST_NUMS	off_x:0,off_y:-45,btn_off_x:0,btn_off_y:-5
+$UI_CONTROLS_CANCEL	Отмена
+$UI_CONTROLS_CHARACTER	Персонаж
+$UI_CONTROLS_CLASS	Класс
+$UI_CONTROLS_CLICK	Щелчок
+$UI_CONTROLS_CURSOR	Курсор
+$UI_CONTROLS_CYCLE	Смена<N>защитника
+$UI_CONTROLS_CYCLE_NUMS	off_x:-5,off_y:0	Комментарий: передвигает текст 'cycle defenders' и соответствующие кнопки
+$UI_CONTROLS_DEVICE	Устройство
+$UI_CONTROLS_FAST	Быстро
+$UI_CONTROLS_GAMEPAD	Джойстик
+$UI_CONTROLS_GAMEPAD_ACTION_SET	Набор действий
+$UI_CONTROLS_GAMEPAD_ICONS	Иконки
+$UI_CONTROLS_GAMEPAD_MODEL	Модель
+$UI_CONTROLS_KEYBOARD	Мышь и клавиатура
+$UI_CONTROLS_LOGITECH	Logitech
+$UI_CONTROLS_MENU	Меню
+$UI_CONTROLS_MENU_ALT	Меню 2
+$UI_CONTROLS_MINUS_PLUS_SPEED	-/+<N>скорость
+$UI_CONTROLS_MINUS_SPEED	Ниже скорость
+$UI_CONTROLS_MINUS_SPEED_NUMS	off_x:-20,off_y:0
+$UI_CONTROLS_MOVE_CURSOR	Перемещение курсор
+$UI_CONTROLS_NAVIGATE_MENU	Меню навигации
+$UI_CONTROLS_NONE	Нет
+$UI_CONTROLS_NORMAL	Нормально
+$UI_CONTROLS_NUMS	font:18,off_y:1,off_x:-2
+$UI_CONTROLS_OUYA	Ouya
+$UI_CONTROLS_PAUSE	Пауза
+$UI_CONTROLS_PAUSE_NUMS	off_x:-60,off_y:5,btn_off_x:0,btn_off_y:-5
+$UI_CONTROLS_PLUS_SPEED	Выше скорость
+$UI_CONTROLS_PLUS_SPEED_NUMS	off_x:50,off_y:0
+$UI_CONTROLS_POINTER	Указатель
+$UI_CONTROLS_PRESET_AZERTY	Azerty
+$UI_CONTROLS_PRESET_COLEMAK	Colemak
+$UI_CONTROLS_PRESET_CUSTOM	Своя
+$UI_CONTROLS_PRESET_DEFAULT	По умолчанию
+$UI_CONTROLS_PRESET_DVORAK	Dvorak
+$UI_CONTROLS_PRESET_LEFTY	Lefty
+$UI_CONTROLS_PRESET_PS	PlayStation
+$UI_CONTROLS_PRESET_PSJ	Японский PlayStation
+$UI_CONTROLS_PRESET_QWERTY	Qwerty
+$UI_CONTROLS_PRESET_QWERTZ	Qwertz
+$UI_CONTROLS_PRESET_WIIU	WiiU по умолчанию
+$UI_CONTROLS_PRESET_XBOX	XBox по умолчанию
+$UI_CONTROLS_PRESETS	Раскладка
+$UI_CONTROLS_PS3	Playstation 3
+$UI_CONTROLS_PS4	Playstation 4
+$UI_CONTROLS_PSVITA	Playstation Vita
+$UI_CONTROLS_RECALL	Отозвать
+$UI_CONTROLS_RECALL_NUMS	off_x:-60,off_y:5,btn_off_x:0,btn_off_y:-5
+$UI_CONTROLS_SCROLL	Прокрутка карты,<N>поставить защитника
+$UI_CONTROLS_SEE_ALSO	Смотрите также:
+$UI_CONTROLS_SELECT	Выбрать
+$UI_CONTROLS_SLOW	Низко
+$UI_CONTROLS_SLOWEST	Очень низко
+$UI_CONTROLS_SPEED	Скорость
+$UI_CONTROLS_SPEED_NUMS	font:13,off_x:-12,off_y:0,text_off_x:0,text_off_y:0
+$UI_CONTROLS_SPELL	Заклинание
+$UI_CONTROLS_STEAM_CONTROLLER	Контроллер Steam
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG	Настроить
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG_FAIL_TEXT	Невозможно открыть окно настройки. Убедитесь, что Steam находится в режиме Big Picture и работает оверлей Steam!
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG_FAIL_TITLE	Ошибка Steam!
+$UI_CONTROLS_TAB_NAV	Навигация<N>по кнопками
+$UI_CONTROLS_TARGET	Цель
+$UI_CONTROLS_TITLE	Управление
+$UI_CONTROLS_VIRTUAL_MOUSE	Виртуальная мышь
+$UI_CONTROLS_XBOX1	Xbox One
+$UI_CONTROLS_XBOX360	Xbox 360
+$UI_CONTROLS_XINPUT	Xinput
+$UI_DEFENDER_BOOST	Повышение: <PSI> Пси
+$UI_DEFENDER_BOOST_MAX	МАКС. ПОВЫШЕНИЕ
+$UI_DEFENDER_BOOST_NEED	Повышение: <PSI> Пси
+$UI_DEFENDER_BOOST_NEED_NUMS	font:11,x_off:0,y_off:-2
+$UI_DEFENDER_BOOST_NUMS	font:13,x_off:0,y_off:0
+$UI_DEFENDER_BOOST_UNLOCK	Открывается при уровне повышения <LVL>
+$UI_DEFENDER_CLICK_TO	(Нажмите, чтобы включить/выключить)
+$UI_DEFENDER_ORB_NUMS	orb_space:0
+$UI_DEFENDER_RECALL	Отозвать
+$UI_DEFENDER_RECALL_LINE	ОТОЗВАТЬ: +<PSI> Пси
+$UI_DEFENDER_TECHNIQUE	Техника
+$UI_DEFENDER_TECHNIQUES	ТЕХНИКИ
+$UI_DEFENDER_TRAIT	Умение
+$UI_DEFENDER_TRAITS	НАВЫКИ
+$UI_DEFQ_MODS	Мод
+$UI_DEMO_IMPORT_OPTIONS	Импортировать настройки из демо-версии?
+$UI_DEMO_IMPORT_SAVES	Импортировать сохранение из демо?
+$UI_DEMO_OPTIONS_DETECTED	Обнаружены настройки демо-версии!
+$UI_DEMO_SAVES_DETECTED	Обнаружены демо сохранения!
+$UI_DOWNLOAD_BODY	Нажмите кнопку, чтобы загрузить<N>автономную версию игры.<N><N>Она загрузится в новом окне/вкладке.<N>Возможна небольшая задержка, так что подождите<N>минуту и постарайтесь ничего не нажимать.
+$UI_DOWNLOAD_LINUX	Linux
+$UI_DOWNLOAD_MACINTOSH	Macintosh
+$UI_DOWNLOAD_SOUNDTRACK	Саундтрек
+$UI_DOWNLOAD_WARNING	ВЫКЛЮЧИТЕ ВАШ<N>БЛОКИРОВЩИК ВСПЛЫВАЮЩИХ ОКОН!
+$UI_DOWNLOAD_WINDOWS	Windows
+$UI_DQ_SAVE_FILES	DQ<X> Сохранить файлы
+$UI_EQUIP_ALL_A_HEAVY	Вся тяжелая броня надета!
+$UI_EQUIP_ALL_A_HEAVY_EQUIPPED	Вся тяжелая броня надета!
+$UI_EQUIP_ALL_A_LIGHT	Вся легкая броня надета!
+$UI_EQUIP_ALL_A_LIGHT_EQUIPPED	Вся легкая броня надета!
+$UI_EQUIP_ALL_ACC_BOOK	Все книги экипированы!
+$UI_EQUIP_ALL_W_BOW	Все луки экипированы!
+$UI_EQUIP_ALL_W_BOW_EQUIPPED	Все луки экипированы!
+$UI_EQUIP_ALL_W_STAFF	Все посохи экипированы!
+$UI_EQUIP_ALL_W_STAFF_EQUIPPED	Все посохи экипированы!
+$UI_EQUIP_ALL_W_SWORD	Все мечи экипированы!
+$UI_EQUIP_ALL_W_SWORD_EQUIPPED	Все мечи экипированы!
+$UI_EQUIP_CANT_SELL_UNIQUE	Нельзя продать уникальные вещи!
+$UI_EQUIP_CANT_UPGRADE_A_HEAVY	У вас нет тяжелой брони, которую можно улучшить!
+$UI_EQUIP_CANT_UPGRADE_A_LIGHT	У вас нет легкой брони, которую можно улучшить!
+$UI_EQUIP_CANT_UPGRADE_W_BOW	У вас нет луков, которые можно улучшить!
+$UI_EQUIP_CANT_UPGRADE_W_STAFF	У вас нет посохов, которые можно улучшить!
+$UI_EQUIP_CANT_UPGRADE_W_SWORD	У вас нет мечей, которые можно улучшить!
+$UI_EQUIP_CLASS_CANT_A	Этот класс не использует броню!
+$UI_EQUIP_CLASS_CANT_W	Этот класс не использует оружие!
+$UI_EQUIP_COMPARE	сравнить
+$UI_EQUIP_EQUIP_AFTER	Надеть после покупки
+$UI_EQUIP_EQUIP_WHO	Кого экипировать?
+$UI_EQUIP_EQUIPPED	Носит
+$UI_EQUIP_MAX_OWNED	ДОСТИГНУТ МАКСИМУМ
+$UI_EQUIP_NAME	Название
+$UI_EQUIP_NO_A_HEAVY	Нет тяжелой брони!
+$UI_EQUIP_NO_A_HEAVY	Нет тяжелой брони!
+$UI_EQUIP_NO_A_LIGHT	Нет легкой брони!
+$UI_EQUIP_NO_A_LIGHT	Нет легкой брони!
+$UI_EQUIP_NO_ACC_BOOK	Нет книг!
+$UI_EQUIP_NO_W_BOW	Нет луков!
+$UI_EQUIP_NO_W_BOW	Нет лука!
+$UI_EQUIP_NO_W_STAFF	Нет посохов!
+$UI_EQUIP_NO_W_STAFF	Нет посоха!
+$UI_EQUIP_NO_W_SWORD	Нет мечей!
+$UI_EQUIP_NO_W_SWORD	Нет меча!
+$UI_EQUIP_OWNED	в наличии
+$UI_EQUIP_OWNER	Носит
+$UI_EQUIP_PRICE	цена
+$UI_EQUIP_SELL_OLD_ARMOR_FOR	Продать старую броню?
+$UI_EQUIP_SELL_OLD_WEAPON_FOR	Продать старое оружие?
+$UI_EQUIP_SHOW_EQUIPPED	Показать надетое
+$UI_EQUIP_SHOW_EQUIPPED	Показать надетое
+$UI_EQUIP_STAT	Характеристики
+$UI_EQUIP_WHO_WILL	Кого экипировать:
+$UI_EULA_TITLE	ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ
+$UI_GAMEPLAY_ALWAYS	Всегда
+$UI_GAMEPLAY_AUTO_UPDATE	Автообновление
+$UI_GAMEPLAY_BATTLE_NUMBERS	Боевые числа
+$UI_GAMEPLAY_CLOUD_SAVE	Облачные сохранения
+$UI_GAMEPLAY_DEFAULT	В новых боях
+$UI_GAMEPLAY_DIALOGUE	Диалог
+$UI_GAMEPLAY_DISABLE_UPDATER	Отключить автообновление
+$UI_GAMEPLAY_ENABLE_UPDATER	Проверять наличие обновлений при старте
+$UI_GAMEPLAY_HIDE	Скрыть
+$UI_GAMEPLAY_MISCELLANEOUS	Разное
+$UI_GAMEPLAY_NEVER	Никогда
+$UI_GAMEPLAY_OFF	Выключено
+$UI_GAMEPLAY_ON	Включено
+$UI_GAMEPLAY_SHOW	Показать
+$UI_GAMEPLAY_SLOW_FOOTNOTE	Может замедлить игру
+$UI_GAMEPLAY_TRACK_NO	Не следи за мной, бро!
+$UI_GAMEPLAY_TRACK_YES	Разрешить собирать анонимную статистику игры
+$UI_GAMEPLAY_TRACKING	Сбор информации
+$UI_GAMEPLAY_TUTORIALS	Обучение
+$UI_GRAPHICS_HD	HD
+$UI_GRAPHICS_ORIGINAL	Оригинал
+$UI_HIGH	Высоко
+$UI_HIGH()	Высоко(<X>)
+$UI_LEGACY_IMPORT_SAVES	Импортировать сохранения из старой версии Defender's Quest?
+$UI_LEGACY_SAVES_DETECTED	Обнаружены старые сохранения!
+$UI_LOGGING_ALWAYS	Всегда
+$UI_LOGGING_ASK	Спрашивать каждый раз
+$UI_LOGGING_CRASH	Сохранять отчеты о сбоях
+$UI_LOGGING_CRASH_CONTENT	Приложить к отчету о сбое:
+$UI_LOGGING_CRASH_OPTIONS	Настройки игры
+$UI_LOGGING_CRASH_REPLAY	Записи пользователя
+$UI_LOGGING_CRASH_SAVES	Файлы сохранений
+$UI_LOGGING_CRASH_SCREENSHOT	Снимок экрана
+$UI_LOGGING_CRASH_SYSTEM	Информация о системе
+$UI_LOGGING_NEVER	Никогда
+$UI_LOGGING_SEND	Отправить отчет о сбоях разработчикам
+$UI_LOGGING_TITLE	Журнал событий
+$UI_LOW	Низко
+$UI_LOW()	Низко(<X>)
+$UI_MISC_NUMS	font:18,off_y:1,off_x:-2
+$UI_MISC_TITLE	Разное
+$UI_MOD_ALL_FILES	Все файлы (*.*)
+$UI_MOD_AUTHOR	Автор
+$UI_MOD_BKGS	 +42M картинок
+$UI_MOD_BROWSE_QUEUE	Мои моды
+$UI_MOD_BROWSE_WORKSHOP	Мастерская Steam
+$UI_MOD_CREATE_NEW	Создать новый мод
+$UI_MOD_DATA_ONLY	Только данные (1M)
+$UI_MOD_DEFQ_SAVE	Файлы сохранений Defender's Quest (*.dfq)
+$UI_MOD_DOWNLOAD	Мод загружается
+$UI_MOD_DOWNLOAD_TEXT
+$UI_MOD_EDIT	Правка
+$UI_MOD_EXISTS	Найден мод.<N>Загрузить его?
+$UI_MOD_EXPORT_CANCEL	Экспорт отменен!
+$UI_MOD_EXPORT_CANCEL_TEXT	Файлы расположены в:
+$UI_MOD_EXPORT_CHURN	Задача <TASK_PROGRESS><N><N><TASK><N><PROGRESS>
+$UI_MOD_EXPORT_FAIL	Ошибка экспорта!
+$UI_MOD_EXPORT_FAIL_TEXT	Произошла ошибка!
+$UI_MOD_EXPORT_FINISH	Экспорт завершен!
+$UI_MOD_EXPORT_FINISH_TEXT	Ваш мод расположен в:
+$UI_MOD_EXPORTING	Экспорт данных
+$UI_MOD_INSTALL_ERROR	Мод с таким именем уже существует.<N>Попробовать установить с суффиксом?
+$UI_MOD_INSTALL_ERROR2	К сожалению, установить мод невозможно.
+$UI_MOD_INSTALL_STANDALONE	Установить из ZIP
+$UI_MOD_LATER	Позже
+$UI_MOD_LOAD_EXISTING	Загрузить существующий мод
+$UI_MOD_LOAD_FAIL	Загрузка не удалась!
+$UI_MOD_LOAD_FAIL_TEXT	Ошибка при загрузке мода:
+$UI_MOD_LOAD_FINISH	Загрузка завершена
+$UI_MOD_LOAD_FINISH_TEXT	Мод успешно загружен.<N>Игра перезагрузится.
+$UI_MOD_LOAD_MOD	Загрузить мод
+$UI_MOD_LOAD_MOD_TEXT	Загрузить мод <LQ><MOD><RQ>?<N>Это перезапустит игру.
+$UI_MOD_LOADING	Загрузка мода...
+$UI_MOD_MISSING	Не найден settings.xml.<N>Либо тут нет мода,<N>либо он испорчен.
+$UI_MOD_MISSING_SUBSCRIBE	Подписывание файлов
+$UI_MOD_MISSING_SUBSCRIBE_TEXT	Хотите загрузить:<N><NUM> подписанных файлов редактора?
+$UI_MOD_MOD_INCOMPAT_TEXT	<N>Этот файл из другого мода,<N>он может быть не совместим.<N><N>Импортировать все равно?
+$UI_MOD_MOVIES	 +13M видеороликов
+$UI_MOD_NAME	Введите имя для мода
+$UI_MOD_NORM_INCOMPAT_TEXT	<N>Мод активен, но этот<N>файл из обычной игры,<N>он может быть не совместим.<N><N>Импортировать все равно?
+$UI_MOD_NOT_DIR	Что?!<N>Это даже не каталог!<N>Попробуйте еще раз.
+$UI_MOD_PATH	Путь файлов модификаций...
+$UI_MOD_PLAY	Играть
+$UI_MOD_PLEASE_WAIT	Пожалуйста, подождите, пока<N> ваш мод загружается
+$UI_MOD_PROGRESS	Задача <TASK><N>Файл <FILE><N>
+$UI_MOD_SELECT_DIR	Выбрать каталог размещения мода
+$UI_MOD_SHARE	Отправить
+$UI_MOD_SHARE_TEXT_LOCAL	Ваш мод будет упакован в один файл для упрощения отправки.
+$UI_MOD_SHARE_TEXT_STEAM	Ваш мод будет упакован и отправлен в мастерскую Steam.
+$UI_MOD_SHARE_TITLE	Отправить мод
+$UI_MOD_SHARED	Отправлено
+$UI_MOD_SPRITES	 +4M изображений
+$UI_MOD_STEAM_SEND	Отправка в Steam
+$UI_MOD_STEAM_UPLOAD	Отправка в Steam...
+$UI_MOD_STEAM_WAIT	Ждем ответа от  Steam...<N>(Надо немного подождать)
+$UI_MOD_SUBSCRIBED	Подписано
+$UI_MOD_TEMPLATE_SETTINGS	Настройка шаблона мода
+$UI_MOD_TITLE	Модификации
+$UI_MOD_TITLE	Модификации
+$UI_MOD_UPDATE	Обновить
+$UI_MOD_UPDATE_STEAM_FINISH	Обновление завершено
+$UI_MOD_UPDATE_STEAM_FINISH_TEXT	Мод успешно обновлен в<N>мастерской Steam
+$UI_MOD_UPDATE_TEXT_STEAM	Ваш мод будет обновлен в мастерской Steam.
+$UI_MOD_WEB_BROWSER	Веб-браузер
+$UI_MOD_WORKSHOP	Редактор
+$UI_MOD_ZIP_FAIL	Упаковка не удалась!
+$UI_MOD_ZIP_FAIL_TEXT	Возникла ошибка в ходе упаковки.
+$UI_MOD_ZIP_FILES	Архивы Zip (*.*)
+$UI_MOD_ZIP_FINISH	Упаковка завершена
+$UI_MOD_ZIP_FINISH_TEXT	Мод упакован успешно.
+$UI_MOD_ZIP_PROGRESS	Задача <TASK><N>Файл <FILE><N>
+$UI_MOD_ZIP_STEAM_FAIL	Отправка не удалась!
+$UI_MOD_ZIP_STEAM_FAIL_TEXT	Невозможно загрузить мод в<N>мастерскую Steam.
+$UI_MOD_ZIP_STEAM_FINISH	Отправка завершена
+$UI_MOD_ZIP_STEAM_FINISH_TEXT	Мод успешно загружен в<N>мастерскую Steam
+$UI_MOD_ZIPPING	Упаковка файлов мода
+$UI_MOVIE_END	конец
+$UI_MOVIE_NUMS	font:11,tabs:4
+$UI_MOVIE_QUEST	 квест
+$UI_MOVIE_SCENE	 Сцена
+$UI_MOVIE_SELECT_A_MOVIE	Выберите ролик
+$UI_MUSIC	Музыка:
+$UI_NORM_MOD_INCOMPAT_TEXT	<N>Этот файл из мода,<N>он может быть не совместим.<N><N>Импортировать все равно?
+$UI_OPTIONS_MENU	Меню настроек
+$UI_OPTIONS_NUMS	font:18,off_y:1,off_x:-2
+$UI_OPTIONS_SPEED	Скорость игры
+$UI_OPTIONS_TITLE	Настройки
+$UI_QUIT_NUMS	font:18,off_y:1,off_x:-2
+$UI_RECRUIT_BERSERKER_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_CLASS_FULL	Мест нет
+$UI_RECRUIT_DRAGON_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_HEALER_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_KNIGHT_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_MAGE_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_RANGER_NUMS	font:14,x_off:0,y_off:0
+$UI_RESOLUTION_CHOICES	Доступно:
+$UI_RESOLUTION_CURRENT	Текущее:
+$UI_RESOLUTION_CURRENT_PARENTHESES	(Текущее)
+$UI_RESOLUTION_TITLE	Разрешение экрана
+$UI_RESTART_NUMS	font:18,off_y:1,off_x:-2
+$UI_REWARD_BOX_COMPLETE_NUMS	font:12,x_off:7,y_off:0
+$UI_REWARD_BOX_PERFECT_NUMS	font:12,x_off:7,y_off:0
+$UI_SAVE_CONFIRM_DELETE	Подтвердить удаление?
+$UI_SAVE_CONFIRM_DELETE_TEXT	Навсегда стереть <N> слот сохранения?
+$UI_SAVE_DEMO_ATTENTION	Внимание!
+$UI_SAVE_DEMO_IMPORT	Импортировать демо
+$UI_SAVE_DEMO_IMPORT_TEXT	Этот файл из ДЕМО. Кое-что нужно подкорректировать.<N>Согласны?
+$UI_SAVE_DEMO_NEWER	Этот файл из более НОВОЙ версии игры,<N>возможно он несовместим.<N>Попробовать все равно?
+$UI_SAVE_DEMO_OLDER	Этот файл из более СТАРОЙ версии игры.<N>Кое-что нужно подкорректировать.<N>Согласны?
+$UI_SAVE_ERROR_INCOMPAT	Несовместимо!
+$UI_SAVE_ERROR_INCOMPAT_TEXT	Ошибка! Вы играете в ДЕМО,<N>а этот файл из ПОЛНОЙ версии
+$UI_SAVE_MENU_CHECK_GOG	Проверить бесплатное обновление на GOG!
+$UI_SAVE_MENU_DOWNLOAD	Получить загружаемую версию
+$UI_SAVE_MENU_FULL_VERSION	Полная версия
+$UI_SAVE_MENU_KONG_DEMO	Демо-версия
+$UI_SAVE_MENU_KONG_DEMO_LOGIN_FULL	Демо-версия. Войдите в kongregate, чтобы получить доступ к полной игре!
+$UI_SAVE_MENU_KONG_DEMO_LOGIN_XDEMO	Демо-версия. Войдите в kongregate для доступа к расширенному содержимому!
+$UI_SAVE_MENU_KONG_XDEMO	Расширенная демо-версия
+$UI_SAVE_MENU_KONG_XDEMO_LOGIN	Расширенное демо - зарегистрируйтесь, чтобы получить доступ к полной игре!
+$UI_SAVE_MENU_LOADED	Загрузка завершена!
+$UI_SAVE_PATH	Путь файлов сохранений...
+$UI_SAVE_SELECT_DIR	Выберите папку для сохранения
+$UI_SELECT_A_FILE_TEXT	Выберите файл сохранения для импорта
+$UI_SELECT_A_FILE_TITLE	Пожалуйста, выберите файл!
+$UI_SFX	Эффекты:
+$UI_SKILLS_CLICK_TO_UPGRADE	Нажмите для улучшения.
+$UI_SKILLS_MAX	МАКСИМУМ
+$UI_SKILLS_MOUSE_OVER	Наведите курсор для изучения.
+$UI_SKILLS_NO_LEARN_SPELL	Это заклинание еще не изучено.
+$UI_SKILLS_NO_POINTS	Нет доступных очков навыков.
+$UI_SKILLS_REQ_1PT	ТРЕБУЕТСЯ: Уровень <LVL>,<N>вложить <PT> очко в навык <SKILL>
+$UI_SKILLS_REQ_XPT	ТРЕБУЕТСЯ: Уровень <LVL>,<N>вложить <PT> очков в навык <SKILL>
+$UI_TIPS_TITLE	Подсказки
+$UI_UPDATER_ASK_DOWNLOAD	Скачать обновление?
+$UI_UPDATER_CANCEL	<RE>$MISC_CANCEL
+$UI_UPDATER_CHECKING	Проверка наличия обновлений...
+$UI_UPDATER_CHECKSUM	Подсчет контрольной суммы...
+$UI_UPDATER_CHECKSUM_MISMATCH	Контрольная сумма не совпадает с ожидаемой.<N><N>Возможные причины – это незавершенная загрузка (скорее всего), проблема безопасности (маловероятно) или космические лучи (всякое бывает!).<N><N>В любом случае, обновление не удалось.
+$UI_UPDATER_CLOSE_WINDOW	Вы должны закрыть окно перед установкой обновления.
+$UI_UPDATER_CONNECT_AGAIN	Повторное соединение
+$UI_UPDATER_CONNECTING	Подключение к серверу...
+$UI_UPDATER_CURRENT_VERSION	Текущая версия:<T>
+$UI_UPDATER_DEB	DEB пакет
+$UI_UPDATER_DETAILS	Подробности:
+$UI_UPDATER_DOWNLOADED	Обновление загружено!
+$UI_UPDATER_DOWNLOADING_FILE	Загрузка файла обновления...
+$UI_UPDATER_DOWNLOADING_SIG	Загрузка подписи обновления...
+$UI_UPDATER_ERROR!	ОШИБКА!
+$UI_UPDATER_EXITING	Выход из приложения...
+$UI_UPDATER_FILE_IS_AT	Ваше обновление расположено в:
+$UI_UPDATER_GIVE_UP	Сдаться
+$UI_UPDATER_IF_NO_WINDOW	Если папка назначения не открывается, то попробуйте перейти туда самостоятельно.
+$UI_UPDATER_INSTALLING	Установить обновление...
+$UI_UPDATER_NAVIGATE_NOW	Перейти к файлу сейчас?
+$UI_UPDATER_NAVIGATING	Переход к файлу...
+$UI_UPDATER_NEWEST_VERSION	Последняя версия:<T>
+$UI_UPDATER_NO_BIG_DEAL	Это не проблема, вы можете продолжить играть, просто сейчас сервер недоступен.
+$UI_UPDATER_NO_DOWNLOAD	Невозможно загрузить файл обновления.
+$UI_UPDATER_NO_INFO	Невозможно найти обновление на сервере.
+$UI_UPDATER_NO_UPDATES	Нет доступных обновлений
+$UI_UPDATER_NO_VERIFY	Не удалось проверить файл обновления.
+$UI_UPDATER_NOTE	Внимание:
+$UI_UPDATER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
+$UI_UPDATER_RPM	RPM пакeт
+$UI_UPDATER_SECURED_WITH	Этот механизм обновления защищен HTTPS,<N>а также проверкой отпечатков пальцев.
+$UI_UPDATER_SECURITY	По причинам, касающимся безопасности, вы должны запустить загруженный установщик самостоятельно.<N><N>Эта программа откроет место расположения файла.
+$UI_UPDATER_SERVER_TIMEOUT	Таймаут сервера!
+$UI_UPDATER_TARGZ	Архив TAR.GZ
+$UI_UPDATER_TRY_AGAIN	Еще раз
+$UI_UPDATER_TRYING_30	Соединение через 30 секунд
+$UI_UPDATER_UPDATE_EXISTS	Доступна обновленная версия!
+$UI_VIDEO_AOE	Подсвечивать атаки по площади
+$UI_VIDEO_BIT_DEPTH	     Цвет
+$UI_VIDEO_CAN_SLOW_GAME	(Может замедлить игру)
+$UI_VIDEO_CHANGE_RES	Изменить разрешение
+$UI_VIDEO_CHANGE_RES_BUTTON	Изменить!
+$UI_VIDEO_DEPTH_NUMS	font:11,x_off:-20,y_off:0
+$UI_VIDEO_CHANGE_RES_TO	Изменить разрешение на <X>
+$UI_VIDEO_CUTSCENES	Ролики
+$UI_VIDEO_FULLSCREEN	Полноэкранный
+$UI_VIDEO_GRAPHICS	Графика
+$UI_VIDEO_HD	Широкий (16:9)
+$UI_VIDEO_IF_DOESNT_WORK	Если новое разрешение не поддерживается,<N>то через несколько секунд будет возвращено предыдущее.
+$UI_VIDEO_MATCH_MONITOR	Соответствует полноэкранному
+$UI_VIDEO_MODE	Режим
+$UI_VIDEO_MOUSE	Курсор мыши
+$UI_VIDEO_MOUSE_DEFAULT	Стандартный
+$UI_VIDEO_MOUSE_FANCY	Красивый
+$UI_VIDEO_NUMS	font:18,off_y:1,off_x:-2
+$UI_VIDEO_PARTICLES	Частицы
+$UI_VIDEO_PIXELS	Пиксели
+$UI_VIDEO_RECOMMENDED	Рекомендуется:
+$UI_VIDEO_REFRESH	Частота
+$UI_VIDEO_REFRESH_NUMS	font:11,x_off:-15,y_off:0
+$UI_VIDEO_RES_CHANGED	Разрешение изменено.<N>Вас оно устраивает?<N><N>Возврат к старым настройкам через <TIME> секунд
+$UI_VIDEO_RESOLUTION	Полноэкранное разрешение
+$UI_VIDEO_SCALE	Масштаб
+$UI_VIDEO_SCREEN_POS	Положение экрана
+$UI_VIDEO_SCREEN_SIZE	Размеры окна
+$UI_VIDEO_SD	Обычный (4:3)
+$UI_VIDEO_SELECT_NEW	Выберите новое...
+$UI_VIDEO_SETTINGS	Настройки видео
+$UI_VIDEO_SHOW_ALL_RES	Показать все разрешения
+$UI_VIDEO_SPRITES	Изображения
+$UI_VIDEO_STANDARD_RATIO	(Обычный 4:3)
+$UI_VIDEO_SWIRL	Анимация перед битвой
+$UI_VIDEO_TITLE	Видео
+$UI_VIDEO_WARNING	Настройки видео отсутствуют в браузерной версии.
+$UI_VIDEO_WARNING2	К сожалению, ваша конфигурация системы не поддерживает смену разрешения :(
+$UI_VIDEO_WARNING3	В режиме совместимости отключена смена разрешения.<N><N>Приносим свои извинения!
+$UI_VIDEO_WIDESCREEN	(Широкий 16:9)
+$UI_VIDEO_WINDOWED	Оконный
+$WEAK_DMG_MULT	+<PERCENT>% дополнительно УРОНА от <FLAVOR>
+$WIIU_A	Кнопка B
+$WIIU_B	Кнопка A
+$WIIU_BACK	Кнопка - (select)
+$WIIU_DPAD	<RE>$GAMEPAD_DPAD
+$WIIU_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$WIIU_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$WIIU_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$WIIU_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$WIIU_EMPTY	<RE>$GAMEPAD_EMPTY
+$WIIU_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$WIIU_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$WIIU_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$WIIU_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$WIIU_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$WIIU_LEFT_SHOULDER	Курок L
+$WIIU_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$WIIU_LEFT_TRIGGER	Триггер ZL
+$WIIU_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$WIIU_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$WIIU_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$WIIU_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$WIIU_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$WIIU_RIGHT_SHOULDER	Курок R
+$WIIU_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$WIIU_RIGHT_TRIGGER	Триггер ZR
+$WIIU_START	Кнопка + (start)
+$WIIU_X	Кнопка Y
+$WIIU_Y	Кнопка X
+$XBOX360_A	<RE>$GAMEPAD_A
+$XBOX360_B	<RE>$GAMEPAD_B
+$XBOX360_BACK	<RE>$GAMEPAD_BACK
+$XBOX360_DPAD	<RE>$GAMEPAD_DPAD
+$XBOX360_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$XBOX360_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$XBOX360_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$XBOX360_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$XBOX360_EMPTY	<RE>$GAMEPAD_EMPTY
+$XBOX360_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$XBOX360_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$XBOX360_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$XBOX360_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$XBOX360_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$XBOX360_LEFT_SHOULDER	<RE>$GAMEPAD_LEFT_SHOULDER
+$XBOX360_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$XBOX360_LEFT_TRIGGER	<RE>$GAMEPAD_LEFT_TRIGGER
+$XBOX360_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$XBOX360_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$XBOX360_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$XBOX360_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$XBOX360_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$XBOX360_RIGHT_SHOULDER	<RE>$GAMEPAD_RIGHT_SHOULDER
+$XBOX360_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$XBOX360_RIGHT_TRIGGER	<RE>$GAMEPAD_RIGHT_TRIGGER
+$XBOX360_START	<RE>$GAMEPAD_START
+$XBOX360_X	<RE>$GAMEPAD_X
+$XBOX360_Y	<RE>$GAMEPAD_Y
+$XBOXONE_A	<RE>$GAMEPAD_A
+$XBOXONE_B	<RE>$GAMEPAD_B
+$XBOXONE_BACK	Кнопка View
+$XBOXONE_DPAD	<RE>$GAMEPAD_DPAD
+$XBOXONE_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$XBOXONE_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$XBOXONE_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$XBOXONE_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$XBOXONE_EMPTY	<RE>$GAMEPAD_EMPTY
+$XBOXONE_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$XBOXONE_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$XBOXONE_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$XBOXONE_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$XBOXONE_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$XBOXONE_LEFT_SHOULDER	<RE>$GAMEPAD_LEFT_SHOULDER
+$XBOXONE_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$XBOXONE_LEFT_TRIGGER	<RE>$GAMEPAD_LEFT_TRIGGER
+$XBOXONE_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$XBOXONE_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$XBOXONE_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$XBOXONE_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$XBOXONE_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$XBOXONE_RIGHT_SHOULDER	<RE>$GAMEPAD_RIGHT_SHOULDER
+$XBOXONE_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$XBOXONE_RIGHT_TRIGGER	<RE>$GAMEPAD_RIGHT_TRIGGER
+$XBOXONE_START	Кнопка Menu
+$XBOXONE_X	<RE>$GAMEPAD_X
+$XBOXONE_Y	<RE>$GAMEPAD_Y
+$YOU_GOT	Вы получили
+$YOU_GOT_JOIN	<NAME>  <CLASS><N>присоединился к вам!
+$YOU_GOT_MONEY	Вы получили <MONEY> бабосов!
+$YOU_GOT_NEW_GAME_PLUS_TEXT	Поздравляем! Теперь вы можете начать новое приключение с вашей старой командой!<N><N>Вы встретите мутировавших врагов с новыми способностями, вдохнете в свое снаряжение новую удивительную силу, и пополните свою библиотеку массой новых книг. Примите участие в многочисленных побочных квестах с дополнительными историями, разблокируете комментарии разработчиков, будете переводить речь Эзтли-Теноха, познакомитесь с новыми персонажами, и многое другое!<N><N><RE>[$NEW_GAME_PLUS_NOTE]<N><N>Вы можете вернуться к вашей <LQ>обычной<RQ> игре в любое время.
+$YOU_GOT_NEW_GAME_PLUS_TITLE	Новая игра+ разблокирована!
+$YOU_GOT_NO_EQUIP	Этот предмет нельзя использовать.
+$YOU_GOT_NO_EQUIP_YET	Пока что никто в вашей группе не может использовать <THING>.<N>Не волнуйтесь, продолжайте играть и найдете новых персонажей, которые смогут использовать эту вещь.
+$YOU_GOT_X	<NUM>x <THING>!

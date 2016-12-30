@@ -1,0 +1,15 @@
+flag	content
+$T0N0	Guten Morgen
+$T0N1	title:Modifikationen<N>workshop:Steam Workshop<N>browse:Meine Mods<N>new:Neu erstellen<N>install_zip:Aus Zip installieren<N>selected:durchsuchen
+$T0N10	title:Mod Vorlagen-Einstellungen<N>body:Spieldateien, die als Ausgang für deine Mod kopiert werden:<N>export_data:Core Data Files<N>export_maps:Battle Maps<N>export_sprites:Sprites<N>export_cutscenes:Cutscene Art<N>export_backgrounds:Background Art<N>export_sfx:Sound Effects<N>export_music:Musik<N>selected:export_data<N>
+$T0N11	title:Mod-Name<N>new_mod_name:
+$T0N12	title:Erstelle Mod...
+$T0N13	title:Export fertig!<N>body:Deine Mod-Vorlage ist hier:<LOCATION><N>browse:Meine Mods<N>explore:Durchsuchen<N>close:Schließen<N>
+$T0N15	title:Installiere Mod...
+$T0N16	title:Installation fertig!<N>body:Deine Mod wurde hier installiert:<LOCATION><N>browse:Meine Mods<N>explore:Durchsuchen<N>close:Schließen
+$T0N2	title:Modifikationen<N>browse:Meine Mods<N>new:Neu erstellen<N>install_zip:Aus Zip installieren<N>selected:durchsuchen
+$T0N22	title:<N>body:Bitte warten...
+$T0N26	title:Fehler!<N>body:<ERROR><N>close:Schließen
+$T0N30	title:<N>body:Mod deaktivieren und Spiel neu starten?<N>okay:Okay<N>cancel:Abbruch
+$T0N6
+$T0N9	title:Modifikationen<N>

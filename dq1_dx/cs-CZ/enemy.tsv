@@ -1,0 +1,81 @@
+flag	nick_name	flavor_name	flavor_text
+$EN_SLUGWORM	FAST	Červ	Rychlý Navrátilec|Tyhle potvory vypadají jako červi, ale jsou velmi rychlé a mají hubu plnou zubů! Svědectví popisují, že vylézají z tlustých Navrátilců, kteří několik týdnů hnili.
+$EN_NORMAL_NOMONEY	NORMAL	Navrátilec	Oživené tělo|V Jámě mrtvoly často pár dní po smrti povstanou, říká se jim ''Navrátilci''
+$EN_NORMAL	NORMAL	Navrátilec	Oživené tělo|V Jámě mrtvoly často pár dní po smrti povstanou, říká se jim ''Navrátilci''
+$EN_CULTIST	CULTIST	Sektář	Transformovaný sektář|'Sekta Šílených po Krvi' vznikla z nomádského kultu krevních obětí. Jak se jejich víra vyvinula v henoteistické uctívání 'Eztli-Tenocha', začali napadat další kmeny, alespoň podle toho, co říkají přeživší masakru kmene Geka. Podle nich se někteří sektáři dobrovolně nechali proměnit v Navrátilce.
+$EN_ARMORED CULTIST	CULTIST PRIEST	Kněz Sekty	Kněz Sekty|'Sekta Šílených po Krvi' vznikla z nomádského kultu krevních obětí. Jak se jejich víra vyvinula v henoteistické uctívání 'Eztli-Tenocha', začali napadat další kmeny, alespoň podle toho, co říkají přeživší masakru kmene Geka. Podle nich se někteří sektáři dobrovolně nechali proměnit v Navrátilce.
+$EN_INSANE CULTIST	INSANE CULTIST	Arcikněz	Arcikněz Sekty|'Sekta Šílených po Krvi' vznikla z nomádského kultu krevních obětí. Jak se jejich víra vyvinula v henoteistické uctívání 'Eztli-Tenocha', začali napadat další kmeny, alespoň podle toho, co říkají přeživší masakru kmene Geka. Podle nich se někteří sektáři dobrovolně nechali proměnit v Navrátilce.
+$EN_NORMAL_EXP	NORMAL	Navrátilec	Oživené tělo|V Jámě mrtvoly často pár dní po smrti povstanou, říká se jim ''Navrátilci''
+$EN_NORMAL_EXP_PSI	NORMAL	Navrátilec	Oživené tělo|V Jámě mrtvoly často pár dní po smrti povstanou, říká se jim ''Navrátilci''
+$EN_NORMAL_W	NORMAL	Utopenec	Plavající Navrátilec|Tihle Navrátilci vylučují sliz, který jejich tělo chrání před vodou. Jejich břicha jsou plná otravných plynů, což je drží nad vodou.
+$EN_ARMORED	ARMORED	Padlý rytíř	Navrátilec v brnění|Tihle Navrátilci jsou rytíři padlí v boji. Bojové schopnosti a zkušenosti jim nezůstaly, brnění ano.
+$EN_SPEEDY	FAST	Červ	Rychlý plazivec|Tyhle potvory vypadají jako červi, ale jsou velmi rychlé a mají hubu plnou zubů! Svědectví popisují, že vylézají z tlustých Navrátilců, kteří několik týdnů hnili.
+$EN_SPEEDY_W	FAST	Hadoun	Rychlý plazivec|Někdo říká, že tihle vodní červi se prostě oddělili od větších lidských forem Navrátilců, někdo si myslí, že jsou to oživlé mrtvoly vodních hadů či úhořů.
+$EN_ARMORED SPEEDY	FAST	Červošnek	Rychlý obrněný plazivec|Tihle červi mají jakousi velmi silnou skořápku. Říká se, že vznikla ze strávených kostí původní mrtvoly.
+$EN_ARMORED_SPEEDY_W	FAST	Vodní červošnek	Rychlý obrněný plavající plazivec|Tihle červi se silnou skořápkou umí ještě navíc plavat. A zápach trávených kostí a zhoubných plynů je opravdu strašný.
+$EN_ATTACKER	FIGHTER	Šílený ghúl	Bojovník Navrátilec|Někteří Navrátilci jsou velmi agresivní a místo zaslepeného pronásledování jednoho nepřítele útočí na všechno v dosahu.
+$EN_DARK ATTACKER	SHADOW BOXER	Temný ghúl	Temný bojovník Navrátilec|Tihle Navrátilci tvoří ve svých útrobách množství plynu, jež vypouštějí celým povrchem těla. Plyn kolem nich vytváří mlhavý smrdutý oblak, který otupuje smysly nepřátel a navíc činí bojovníky téměr neviditelnými.
+$EN_ATTACKER_W	FIGHTER	Říční ghúl	Plavající bojovník Navrátilec|Příběhy o smrdutých tělech, která se vynořují z řek a napadají vše živé, jsou v Jámě často k slyšení. Pro vodu nikdo nechodí sám - a jen úplní blázni by se v řece koupali.
+$EN_ARMORED ATTACKER	FIGHTER	Šílený rytíř	Padlý rytíř bojovník|Tihle padlí rytíři jsou silní a nebezpeční. Jejich řev se rozléhá v katakombách i na pláních.
+$EN_RAPID_ATTACKER	RAPID ATTACK
+$EN_APC	SPLITTER	Obludnost	Hostitel|Tyhle nafouklé mrtvoly se jen tak tak pohybují a vypadá to, že každou chvíli puknou. Po stranách z nich koukají červí tlamy plné zubů. Tahle monstra jsou mohutná - draci je nedokážou sežrat, rytíři je nedokážou odrazit zpět.
+$EN_APC_W	SPLITTER	Smrdutá mrtvola	Plovoucí hostitel|Tyhle nafouklé mrtvoly smrdí jako pytel chcíplých ryb prokládáných splašky a smrtí. Plavou a každou chvíli prasknou a vyvalí se z nich červi.
+$EN_ARMORED APC	ARMORED SPLIT	Monstrum v krunýři	Obrněný hostitel|Obří krunýř chrání tuhle smradlavou hromadu napůl stráveného masa. Vevnitř nejspíš nemá žádné kosti.
+$EN_DOUBLE APC	DOUBLE SPLIT	Příšerná obludnost	Hostitel hostitelů|Tahle obrovská příšera má hnilobně zelenou barvu a je nafouklá k prasknutí. Čím to asi bude?
+$EN_ARMORED RANGED ATTACKER	RANGED	Obrněný hadí ghúl	Obrněný střílející Navrátilec|Během pár týdnů se obyčejní navrátilci nějakým podivným procesem zkroutí a promění v tyhle příšery. Útržky svědectví mluví o bezokých ''hadích mužích'', kteří útočí pliváním odporného žlučovitého slizu.
+$EN_RANGED ATTACKER	RANGED	Hadí ghúl	Střílející Navrátilec|Během pár týdnů se obyčejní navrátilci nějakým podivným procesem zkroutí a promění v tyhle příšery. Útržky svědectví mluví o bezokých ''hadích mužích'', kteří útočí pliváním odporného žlučovitého slizu.
+$EN_RANGED ATTACKER_W	RANGED	Říční hadí ghúl	Plavající střílející Navrátilec|Během pár týdnů se obyčejní navrátilci nějakým podivným procesem zkroutí a promění v tyhle příšery. Útržky svědectví mluví o bezokých ''hadích mužích'', kteří útočí pliváním odporného žlučovitého slizu. Tihle navíc plavou.
+$EN_DARK	DARK	Stínový červ	Rychlý temný plazivec|Tihle červi jsou obklopeni hustou černou mlhou, takže se téměř nedají zasáhnout.
+$EN_BRUTE	TOUGH	Červ smrti	Odolný plazivec|Tyhle bledé potvory vypadají jako červi, ale pohybují se pomalu a jsou velmi odolné - místo křehké membrány jejich povrch kryje tlustá kůže. Můžete jim utéct, ale oni to prostě nevzdají a vytrvale vás budou pronásledovat.
+$EN_NORMAL_LOWXP	NORMAL	Navrátilec	Oživené tělo|V Jámě mrtvoly často pár dní po smrti povstanou, říká se jim ''Navrátilci''
+$EN_CULTIST_LOWXP	CULTIST	Sektář	Transformovaný sektář|'Sekta Šílených po Krvi' vznikla z nomádského kultu krevních obětí. Jak se jejich víra vyvinula v henoteistické uctívání 'Eztli-Tenocha', začali napadat další kmeny, alespoň podle toho, co říkají přeživší masakru kmene Geka. Podle nich se někteří sektáři dobrovolně nechali proměnit v Navrátilce.
+$EN_ARMORED CULTIST_LOWXP	CULTIST PRIEST	Kněz Sekty	Kněz Sekty|'Sekta Šílených po Krvi' vznikla z nomádského kultu krevních obětí. Jak se jejich víra vyvinula v henoteistické uctívání 'Eztli-Tenocha', začali napadat další kmeny, alespoň podle toho, co říkají přeživší masakru kmene Geka. Podle nich se někteří sektáři dobrovolně nechali proměnit v Navrátilce.
+$EN_NORMAL_W_LOWXP	NORMAL	Utopenec	Plavající Navrátilec|Tihle Navrátilci vylučují sliz, který jejich tělo chrání před vodou. Jejich břicha jsou plná otravných plynů, což je drží nad vodou.
+$EN_ARMORED_LOWXP	ARMORED	Padlý rytíř	Navrátilec v brnění|Tihle Navrátilci jsou rytíři padlí v boji. Bojové schopnosti a zkušenosti jim nezůstaly, brnění ano.
+$EN_SPEEDY_LOWXP	FAST	Červ	Rychlý plazivec|Tyhle potvory vypadají jako červi, ale jsou velmi rychlé a mají hubu plnou zubů! Svědectví popisují, že vylézají z tlustých Navrátilců, kteří několik týdnů hnili.
+$EN_SPEEDY_W_LOWXP	FAST	Hadoun	Rychlý plazivec|Někdo říká, že tihle vodní červi se prostě oddělili od větších lidských forem Navrátilců, někdo si myslí, že jsou to oživlé mrtvoly vodních hadů či úhořů.
+$EN_ARMORED SPEEDY_LOWXP	FAST	Červošnek	Rychlý obrněný plazivec|Tihle červi mají jakousi velmi silnou skořápku. Říká se, že vznikla ze strávených kostí původní mrtvoly.
+$EN_ARMORED_SPEEDY_W_LOWXP	FAST	Vodní červošnek	Rychlý obrněný plavající plazivec|Tihle červi se silnou skořápkou umí ještě navíc plavat. A zápach trávených kostí a zhoubných plynů je opravdu strašný.
+$EN_ATTACKER_LOWXP	FIGHTER	Šílený ghúl	Bojovník Navrátilec|Někteří Navrátilci jsou velmi agresivní a místo zaslepeného pronásledování jednoho nepřítele útočí na všechno v dosahu.
+$EN_DARK ATTACKER_LOWXP	SHADOW BOXER	Temný ghúl	Temný bojovník Navrátilec|Tihle Navrátilci tvoří ve svých útrobách množství plynu, jež vypouštějí celým povrchem těla. Plyn kolem nich vytváří mlhavý smrdutý oblak, který otupuje smysly nepřátel a navíc činí bojovníky téměr neviditelnými.
+$EN_ATTACKER_W_LOWXP	FIGHTER	Říční ghúl	Plavající bojovník Navrátilec|Příběhy o smrdutých tělech, která se vynořují z řek a napadají vše živé, jsou v Jámě často k slyšení. Pro vodu nikdo nechodí sám - a jen úplní blázni by se v řece koupali.
+$EN_ARMORED ATTACKER_LOWXP	FIGHTER	Šílený rytíř	Padlý rytíř bojovník|Tihle padlí rytíři jsou silní a nebezpeční. Jejich řev se rozléhá v katakombách i na pláních.
+$EN_RAPID_ATTACKER_LOWXP	RAPID ATTACK
+$EN_APC_LOWXP	SPLITTER	Obludnost	Hostitel|Tyhle nafouklé mrtvoly se jen tak tak pohybují a vypadá to, že každou chvíli puknou. Po stranách z nich koukají červí tlamy plné zubů. Tahle monstra jsou mohutná - draci je nedokážou sežrat, rytíři je nedokážou odrazit zpět.
+$EN_APC_W_LOWXP	SPLITTER	Smrdutá mrtvola	Plovoucí hostitel|Tyhle nafouklé mrtvoly smrdí jako pytel chcíplých ryb prokládáných splašky a smrtí. Plavou a každou chvíli prasknou a vyvalí se z nich červi.
+$EN_ARMORED APC_LOWXP	ARMORED SPLIT	Monstrum v krunýři	Obrněný hostitel|Obří krunýř chrání tuhle smradlavou hromadu napůl stráveného masa. Vevnitř nejspíš nemá žádné kosti.
+$EN_DOUBLE APC_LOWXP	DOUBLE SPLIT	Příšerná obludnost	Hostitel hostitelů|Tahle obrovská příšera má hnilobně zelenou barvu a je nafouklá k prasknutí. Čím to asi bude?
+$EN_ARMORED RANGED ATTACKER_LOWXP	RANGED	Obrněný hadí ghúl	Obrněný střílející Navrátilec|Během pár týdnů se obyčejní navrátilci nějakým podivným procesem zkroutí a promění v tyhle příšery. Útržky svědectví mluví o bezokých ''hadích mužích'', kteří útočí pliváním odporného žlučovitého slizu.
+$EN_RANGED ATTACKER_LOWXP	RANGED	Hadí ghúl	Střílející Navrátilec|Během pár týdnů se obyčejní navrátilci nějakým podivným procesem zkroutí a promění v tyhle příšery. Útržky svědectví mluví o bezokých ''hadích mužích'', kteří útočí pliváním odporného žlučovitého slizu.
+$EN_RANGED ATTACKER_W_LOWXP	RANGED	Říční hadí ghúl	Plavající střílející Navrátilec|Během pár týdnů se obyčejní navrátilci nějakým podivným procesem zkroutí a promění v tyhle příšery. Útržky svědectví mluví o bezokých ''hadích mužích'', kteří útočí pliváním odporného žlučovitého slizu. Tihle navíc plavou.
+$EN_DARK_LOWXP	DARK	Stínový červ	Rychlý temný plazivec|Tihle červi jsou obklopeni hustou černou mlhou, takže se téměř nedají zasáhnout.
+$EN_BRUTE_LOWXP	TOUGH	Červ smrti	Odolný plazivec|Tyhle bledé potvory vypadají jako červi, ale pohybují se pomalu a jsou velmi odolné - místo křehké membrány jejich povrch kryje tlustá kůže. Můžete jim utéct, ale oni to prostě nevzdají a vytrvale vás budou pronásledovat.
+$EN_APC_NOATTACK_LOWXP	SPLITTER	Smrdutá mrtvola	Plovoucí hostitel|Tyhle nafouklé mrtvoly smrdí jako pytel chcíplých ryb prokládáných splašky a smrtí. Plavou a každou chvíli prasknou a vyvalí se z nich červi. Tihle neútočí.
+$EN_CULTIST_NOATTACK_LOWXP	CULTIST	Sektář	Transformovaný sektář|'Sekta Šílených po Krvi' vznikla z nomádského kultu krevních obětí. Jak se jejich víra vyvinula v henoteistické uctívání 'Eztli-Tenocha', začali napadat další kmeny, alespoň podle toho, co říkají přeživší masakru kmene Geka. Podle nich se někteří sektáři dobrovolně nechali proměnit v Navrátilce. Tihle neútočí.
+$EN_ERROR	ERROR	Chyba	Já jsem chyba|Pokud tohle čtete, někdo asi udělal nějaký překlep při editaci nepřátel. Objevím se vždy, když je na seznamu někdo, kdo neexistuje.
+$EN_SHEEP	SHEEP	Ovce	Chutný savec|Draci dokážou vydržet bez jídla dlouhé roky. A proto, když už jedí, jedí pořádně. Dokážou spořádat několikanásobek svojí tělesné váhy během jednoho dne. Nomádští pastevci z toho nejsou zrovna nadšení.
+$EN_PSI SHEEP	SHEEP	Ovce	Chutný savec|Draci dokážou vydržet bez jídla dlouhé roky. A proto, když už jedí, jedí pořádně. Dokážou spořádat několikanásobek svojí tělesné váhy během jednoho dne. Nomádští pastevci z toho nejsou zrovna nadšení.
+$EN_SPEEDY SHEEP	SPEEDY SHEEP	Rychlá ovce	Rychlý chutný savec|Některé ovce se nehostinným podmínkám v Jámě dokázaly přizpůsobit a zvládnou vyvinout nečekanou rychlost. Drakům samozřejmě neutečou, ale dokážou alespoň utéct ostatním ovcím.
+$EN_SUPER SHEEP	SUPER SHEEP	Super ovce	Bájně chutný savec|Dračí legendy mluví o téhle vzácné ovci zvané Axxima Vatta Muttanaxxor jen opatrně a s velkou úctou. V dračích Ceremoniálních spisech je popsán složitý rituál, který musí být vykonán, pokud se objeví. Tedy, většina starších učenců řadí Ceremoniální spisy po bok další náboženské literatury, ale nejnovější výzkumy naznačují, že jde o kuchařku.
+$EN_OZIMAL	OZIMAL	Ozimal Kaz	Otrok Navrátilců|Kouzelníci jako Zelemir dokážou proměnit živého a zdravého člověka v nemrtvého otroka. Proměna zabere čas, kouzelník musí několik dní přidávat do potravy vyhlédnuté oběti speciální substanci. Ale stojí to za námahu, protože takovýhle pomocník se proti svému pánovi nikdy neobrátí.
+$EN_TWIN	TWIN	Dvojče	Bratr Navrátilec|BLARGH YAAAARGH GAR GAR HUR.
+$EN_3_11_BOSS	BOSS
+$EN_RIGHT_INDEX_FINGER	INDEX FINGER	Ukazovák	Obří prst|Přestože byl oddělen od ruky, i nadále se sám pohybuje.
+$EN_RIGHT_THUMB	THUMB	Palec	Obří prst|Přestože byl oddělen od ruky, i nadále se sám pohybuje.
+$EN_RIGHT_MIDDLE_FINGER	MIDDLE FINGER	Prostředník	Obří prst|Tenhle useknutý prst dělá nemravné gesto. No fuj!
+$EN_RIGHT_RING_FINGER	RING FINGER	Prsteník	Obří prst|Přestože byl oddělen od ruky, i nadále se sám pohybuje.
+$EN_RIGHT_PINKY_FINGER	PINKY FINGER	Malík	Obří prst|Přestože byl oddělen od ruky, i nadále se sám pohybuje.
+$EN_RIGHT_EYE	EZTLI'S EYE	Eztliho oko	Veleoko|Tohle zlé oko vyzařuje temnou sílu a pohybuje se až nepřirozeně rychle.
+$EN_RIGHT_HAND	EZTLI'S HAND	Eztliho ruka	Obří ruka|Vůdce sektářů o tomhle mluvil jako o ''Pravé ruce Eztli-Tenocha.'' Vzhledem k tomu, jak málo se o Eztli-Tenochovi ví, těžko říct, jestli je to opravdu jeho vlastní ruka, nebo jen výplod jeho temné magie. Při bližším ohledání je navíc vidět, že je to LEVÁ ruka. Zle nedobře to vypadá.
+$EN_FINGER	EZTLI'S FINGER
+$EN_ZELEMIR-CITADEL	ZELEMIR	Zelemir	Nekromancer|Zelemirovy oči žhnou pevným odhodláním.
+$EN_ZELEMIR	ZELEMIR	Zelemir	Nekromancer|Zelemirovy oči žhnou pevným odhodláním.
+$EN_HEALIE	HEALIE	Healie	Tajný nepřítel|Tajné
+$EN_MEANIE	MEANIE	Meanie	Tajný nepřítel|Tajné
+$EN_STEALY	STEALY	Stealy	Tajný nepřítel|Tajné
+$EN_CRAZY	CRAZY	Crazy	Tajný nepřítel|Tajné
+$EN_EZTLI	EZTLI-TENOCH	Eztli-Tenoch	Prastarý čaroděj|Prastará síla, která dlouho dřímala, ale teď byla probuzena. Eztli-Tenoch kdysi vládnul celému světu jako samozvaný Boží Král. Jeho sílu a zlo předčí jen jeho neochvějná trpělivost.
+$EN_CULTIST_ACCOUNT			These accounts are from survivors of the Geka tribe massacre. Many report cultists transforming into Revenant at will.
+$EN_CULTIST_BASIC			<RE>[$EN_CULTIST_SECT_FLAVOR_TEXT]<N><N>Little is known about their worship or beliefs beyond the name of their deity, <LQ>Eztli-Tenoch,<RQ> and their constant hunt for fresh victims.<N><N><RE>[$EN_CULTIST_ACCOUNT_FLAVOR_TEXT]
+$EN_CULTIST_SECT			The <LQ>Cult of the Blood-Mad<RQ> began with a nomadic sect known for ceremonial blood-letting.
+$EN_RANGED ATTACKER_BASIC			As the weeks go on, some strange process starts to digest and warp the body of the Revenant.<N><N>Witnesses report being attacked by eyeless <LQ>snake-men<RQ> spewing rank bile.

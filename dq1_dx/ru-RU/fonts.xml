@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<font value="moolboran" replace="verdana">
+		<size value="25" replace="18"/>
+		<size value="30" replace="20"/>
+		<size value="40" replace="25"/>
+		<size value="50" replace="30"/>
+	</font>
+</data>

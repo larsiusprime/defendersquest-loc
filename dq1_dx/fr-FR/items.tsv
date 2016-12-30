@@ -1,0 +1,210 @@
+flag	name	description
+$ITEM_SWORD	<RE>$ITM_W_SWORD
+$ITEM_BOW	<RE>$ITM_W_BOW
+$ITEM_STAFF	<RE>$ITM_W_STAFF
+$ITEM_LIGHT	<RE>$ITM_A_LIGHT
+$ITEM_HEAVY	<RE>$ITM_A_HEAVY
+$ITEM_BOOK	<RE>$ITM_ACC_BOOK	
+$ITEM_WEAPON	Arme
+$ITEM_ARMOR	Armure
+$ITM_A_LIGHT	armure légère	<NULL>
+$ITM_A_LIGHT_PLURAL	armure légère	<NULL>
+$ITM_A_HEAVY	armure lourde	<NULL>
+$ITM_A_HEAVY_PLURAL	armure lourde	<NULL>
+$ITM_W_SWORD	épée	<NULL>
+$ITM_W_SWORD_PLURAL	épées	<NULL>
+$ITM_W_BOW	arc	<NULL>
+$ITM_W_BOW_PLURAL	arcs	<NULL>
+$ITM_W_STAFF	bâton	<NULL>
+$ITM_W_STAFF_PLURAL	bâtons	<NULL>
+$ITM_A_LIGHT_PLURAL_SHORT	légère	<NULL>
+$ITM_A_HEAVY_PLURAL_SHORT	lourde	<NULL>
+$ITM_W_SWORD_PLURAL_SHORT	épées	<NULL>
+$ITM_W_STAFF_PLURAL_SHORT	bâtons	<NULL>
+$ITM_W_BOW_PLURAL_SHORT	arcs	<NULL>
+$ITM_A_LIGHT_1	Sac à Patates	Un sac à patates avec des trous pour y passer les bras. Ça gratte horriblement, mais c'est mieux que rien.
+$ITM_A_LIGHT_2	Peau	Des peaux d'animaux séchées et cousues grossièrement pour former une veste épaisse et robuste.
+$ITM_A_LIGHT_3	Tunique de Chef de Clan	Cette tunique de nomade aux couleurs vives est faite de laine épaisse, et ornée de broderies sophistiquées. L'ourlet représente les racines entremêlées de l'Arbre Monde.
+$ITM_A_LIGHT_4	Tunique Lourde en Laine	Une longue tunique épaisse fabriquée à partir de la précieuse laine des bergers nomades.
+$ITM_A_LIGHT_5	Veste en Peau de Tigre	Les motifs de flammes quaidiens sur la ceinture de cuir ouvragée sont la seule indication de l'origine de cette tenue exotique.
+$ITM_A_LIGHT_6	Fourrure	De précieuses fourrures d'animaux assemblées afin de former une veste rembourrée et bien chaude.
+$ITM_A_LIGHT_7	Parure d'Ozimal	Elle sent un peu le fromage...
+$ITM_A_LIGHT_8	Cuir	Du cuir tanné et soigneusement cousu pour en faire un pourpoint de belle facture.
+$ITM_A_LIGHT_9	Habit de Moine Guerrier	Ce lourd habit de moine rembourré est orné de symboles de la 9e Branche de Selini, la Maison Militante, les Défenseurs de la Vérité et de l'Ordre.
+$ITM_A_LIGHT_10	Gambison de Laine	Plusieurs couches de laine fine, méticuleusement piquées les unes aux autres et rembourrées de molleton et de poils d'animaux afin de constituer une défense robuste contre les coups les plus dévastateurs.
+$ITM_A_LIGHT_11	Folie de l'Assassin	Au premier coup d'œil, on pourrait penser qu'il ne s'agit là que d'une chemise de noble. Mais une inspection minutieuse permet de révéler de multiples alignements de fines plaques métalliques cousues sur sa doublure. Une entaille à la base du dos laisse cependant à penser que cette ingénieuse réalisation a fait défaut à au moins un assassin...
+$ITM_A_LIGHT_12	Gambison de Soie	De multiples couches de soie résistante piquées ensemble et rembourrées de crin de cheval afin de constituer une armure capable d'arrêter une flèche sans que le porteur ne se voie infliger la moindre égratignure.
+$ITM_A_LIGHT_13	Maître des Archers	Ce gambison d'Ash est constitué de la soie la plus rare. Il est orné de somptueuses broderies qui identifient son propriétaire en tant que « Maître des Archers du Roi ». Des douzaines de petites reprises à sa surface semblent indiquer que cette armure sans égale a connu de nombreux conflits, et qu'elle a probablement été transmise d'un Maître à un autre sur plusieurs générations.
+$ITM_A_LIGHT_14	La Toison de Platine	Bien plus précieuse qu'une « bête » toison d'or. Arrachée au cadavre de l'Axxima Vatta Muttunaxxor, cette toison à l'éclat aveuglant est véritablement sans égal.
+$ITM_A_LIGHT_15	<RE>[$ITM_A_LIGHT_3_NAME]+	<RE>[$ITM_A_LIGHT_3_DESCRIPTION]	
+$ITM_A_LIGHT_16	<RE>[$ITM_A_LIGHT_5_NAME]+	<RE>[$ITM_A_LIGHT_5_DESCRIPTION]	
+$ITM_A_LIGHT_17	<RE>[$ITM_A_LIGHT_7_NAME]+	<RE>[$ITM_A_LIGHT_7_DESCRIPTION]	
+$ITM_A_LIGHT_18	<RE>[$ITM_A_LIGHT_9_NAME]+	<RE>[$ITM_A_LIGHT_9_DESCRIPTION]	
+$ITM_A_LIGHT_19	<RE>[$ITM_A_LIGHT_11_NAME]+	<RE>[$ITM_A_LIGHT_11_DESCRIPTION]	
+$ITM_A_LIGHT_20	<RE>[$ITM_A_LIGHT_13_NAME]+	<RE>[$ITM_A_LIGHT_13_DESCRIPTION]	
+$ITM_A_LIGHT_21	<RE>[$ITM_A_LIGHT_14_NAME]+	<RE>[$ITM_A_LIGHT_14_DESCRIPTION]	
+$ITM_A_LIGHT_22	<RE>[$ITM_A_LIGHT_1_NAME]+	<RE>[$ITM_A_LIGHT_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_LIGHT_23	<RE>[$ITM_A_LIGHT_2_NAME]+	<RE>[$ITM_A_LIGHT_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_LIGHT_24	<RE>[$ITM_A_LIGHT_4_NAME]+	<RE>[$ITM_A_LIGHT_4_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_LIGHT_25	<RE>[$ITM_A_LIGHT_6_NAME]+	<RE>[$ITM_A_LIGHT_6_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_LIGHT_26	<RE>[$ITM_A_LIGHT_8_NAME]+	<RE>[$ITM_A_LIGHT_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_LIGHT_27	<RE>[$ITM_A_LIGHT_10_NAME]+	<RE>[$ITM_A_LIGHT_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_LIGHT_28	<RE>[$ITM_A_LIGHT_12_NAME]+	<RE>[$ITM_A_LIGHT_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_HEAVY_1	Jaque de Chaînes	Un gambison léger agrémenté de quelques anneaux de métal grossièrement forgés et placés sur l'extérieur des bras afin d'offrir une protection supplémentaire.
+$ITM_A_HEAVY_2	Chemise de Mailles	Une chemise constituée de centaines d'anneaux métalliques entrelacés et rivetés individuellement afin d'empêcher toute rupture.
+$ITM_A_HEAVY_3	Gloire de la Guerre	Cette exquise armure quaidienne est d'un style assez exubérant. Chaque anneau de maille est bleui, et les derniers rangs de la chemise scintillent afin de simuler une dorure. Les plates de renfort sont ornées de motifs dorés, qui mettent en avant le symbole de la famille Impériale. Une inscription en Quaidien a été griffonnée avec un objet pointu dans la surface métallique : <LQ>C'est un peu tard pour penser à ce genre de choses<RQ>. D'autres mots ont été gravés sur certaines plates, mais la chose semble avoir été faite à la hâte, rendant ces inscriptions indéchiffrables.	
+$ITM_A_HEAVY_4	Mailles Mêlées	Une chemise de mailles agrémentée de plates de métal directement liées aux anneaux, afin de procurer une protection du torse supplémentaire. L'équipement standard de l'infanterie de Quaid pendant la guerre.
+$ITM_A_HEAVY_5	Lamellaire de Cavalier	Ce lamellaire de belle facture comporte des protections d'épaules renforcées, ainsi que des tassettes descendant jusqu'aux genoux, ce qui laisse à penser que ce harnois fut conçu pour la cavalerie lourde. Les avant-bras dorés et le gambison de soie révèlent que le précédent propriétaire devait être un guerrier fortuné et de bon goût. Plusieurs plates comportent une petite inscription gravée dans un langage qui ne semble correspondre à aucun dialecte régional. Le fait d'avoir placé ces plates autour du cœur du porteur pourrait laisser penser que ce texte serait une sorte de charme de protection, mais il ne s'agit là que d'une pure conjecture.
+$ITM_A_HEAVY_6	Lamellaire	Plusieurs douzaines de petites plates métalliques reliées ensemble par des cordons de soie robustes.
+$ITM_A_HEAVY_7	Harnois du Traître	Les épaulières dorées de ce manteau de plates ashani indiquent qu'il a très probablement appartenu à un officiel de haut rang. La surface du canevas a été réparée, mais le mot <LQ>traître<RQ> en ashani est encore visible dans la trame du tissu. De grandes taches de sang sont également discernables en dépit de la teinture rouge, bien qu'aucun dégât apparent ne semble avoir été infligé à l'armure.	
+$ITM_A_HEAVY_8	Cotte de Plates	Une excellente protection de torse fabriquée en rivetant plusieurs grandes et lourdes plates de métal sur l'intérieur d'un surcot en canevas solide.
+$ITM_A_HEAVY_9	Force de Wocolan	Cette brigandine en velours vert comporte de larges épaulières polies typiques de l'infanterie lourde de Quaid. Les armoiries dorées représentent le héros quaidien Wocolan en train d'écraser la tête d'un ours à mains nues. En dessous, ses enfants Wastan et Wacella boivent le sang qui s'écoule de la bouche de l'ours, afin de survivre à la marche éreintante imposée par l'exil de leur famille.
+$ITM_A_HEAVY_10	Brigandine	Des centaines de plates de métal rivetées sur l'intérieur d'un canevas, associées à une doublure en velours de soie, forment une protection de torse tout à fait convenable.
+$ITM_A_HEAVY_11	Harnois du Seigneur Gardien	Un insigne identifie le propriétaire de cet excellent harnois de plates comme étant le Seigneur Gardien, l'officiel du Royaume d'Ash affecté à la supervision de la Fosse. Comment il a fini par se retrouver dans sa propre prison, on ne le sait pas... Mais des taches de sang sur les sangles des épaules laissent à penser que l'histoire ne s'est pas bien terminée.
+$ITM_A_HEAVY_12	Harnois de Plates	Des plates d'acier de forme complexe articulées sur une base de cuir permettent d'octroyer un maximum de protection tout en préservant une bonne mobilité. Il s'agit là de la tenue préférée des Chevaliers d'Ash.
+$ITM_A_HEAVY_13	Pureté de la Flamme	Ce harnois de plates particulièrement polies reflète toute lumière avec une intensité quasi infernale. Un examen minutieux révèle des gravures très estompées rappelant le quaidien, mais le dialecte est si archaïque qu'il est quasiment indéchiffrable, en dehors de la phrase <LQ>celle qui consume<RQ>. Ce plastron a probablement été recyclé à de multiples reprises, le reste du harnois s'avérant plutôt moderne. Des pictogrammes cryptiques pourraient suggérer un rôle au cours du Rituel du Feu Impérial.	
+$ITM_A_HEAVY_14	Gardien de la Fontaine	Ce harnois de plates de facture exceptionnelle a été bleui au point d'en devenir quasiment noir. Des motifs dorés sur la surface du plastron représentent la Fontaine du Temple d'Ash, et laissent à penser que cette fabuleuse armure a probablement appartenu à l'un des Gardes d'Élite du Temple. Comment un artefact d'une telle valeur a-t-il bien pu finir au fond de la Fosse, cela demeure un mystère...
+$ITM_A_HEAVY_15	<RE>[$ITM_A_HEAVY_3_NAME]+	<RE>[$ITM_A_HEAVY_3_DESCRIPTION]	
+$ITM_A_HEAVY_16	<RE>[$ITM_A_HEAVY_5_NAME]+	<RE>[$ITM_A_HEAVY_5_DESCRIPTION]	
+$ITM_A_HEAVY_17	<RE>[$ITM_A_HEAVY_7_NAME]+	<RE>[$ITM_A_HEAVY_7_DESCRIPTION]	
+$ITM_A_HEAVY_18	<RE>[$ITM_A_HEAVY_9_NAME]+	<RE>[$ITM_A_HEAVY_9_DESCRIPTION]	
+$ITM_A_HEAVY_19	<RE>[$ITM_A_HEAVY_11_NAME]+	<RE>[$ITM_A_HEAVY_11_DESCRIPTION]	
+$ITM_A_HEAVY_20	<RE>[$ITM_A_HEAVY_13_NAME]+	<RE>[$ITM_A_HEAVY_13_DESCRIPTION]	
+$ITM_A_HEAVY_21	<RE>[$ITM_A_HEAVY_14_NAME]+	<RE>[$ITM_A_HEAVY_14_DESCRIPTION]	
+$ITM_A_HEAVY_22	<RE>[$ITM_A_HEAVY_1_NAME]+	<RE>[$ITM_A_HEAVY_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_HEAVY_23	<RE>[$ITM_A_HEAVY_2_NAME]+	<RE>[$ITM_A_HEAVY_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_HEAVY_24	<RE>[$ITM_A_HEAVY_4_NAME]+	<RE>[$ITM_A_HEAVY_4_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_HEAVY_25	<RE>[$ITM_A_HEAVY_6_NAME]+	<RE>[$ITM_A_HEAVY_6_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_HEAVY_26	<RE>[$ITM_A_HEAVY_8_NAME]+	<RE>[$ITM_A_HEAVY_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_HEAVY_27	<RE>[$ITM_A_HEAVY_10_NAME]+	<RE>[$ITM_A_HEAVY_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_HEAVY_28	<RE>[$ITM_A_HEAVY_12_NAME]+	<RE>[$ITM_A_HEAVY_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_SKULL_1	Crâne de Pierre	Un crâne de pierre polie. Certains suggèrent qu'il pourrait s'agir d'un talisman magique emporté au combat par les Revenants.<N><N><N>Les experts s'accordent sur le fait qu'il devrait être possible de l'échanger contre quelque chose de plutôt sympathique.	
+$ITM_A_SKULL_2	Crâne de Bronze	Un crâne de bronze, peut-être utilisé lors de cérémonies ou d'incantations spéciales.<N>Il a certainement plus de valeur qu'un crâne en pierre polie.		
+$ITM_A_SKULL_3	Crâne d'Obsidienne	Méticuleusement sculpté dans un bloc d'obsidienne, ce crâne d'un noir profond présente un niveau de détail à la fois magnifique et troublant. Particulièrement rare, ce type de crâne est très recherché par les collectionneurs.		
+$ITM_A_SKULL_4	Crâne d'Argent	Ce crâne est en argent pur. À quoi peut-il bien servir ?
+$ITM_A_SKULL_5	Crâne d'Or	Ce crâne est en or pur. À quoi peut-il bien servir ?
+$ITM_A_SKULL_6	Crâne d'Unobtainium	Par définition, ce crâne en unobtainium est impossible à obtenir. Vous le trimballez avec vous depuis le début, mais étrangement, vous ne l'aviez pas remarqué avant.
+$ITM_W_SWORD_1	Surin de Pierre	Un caillou effilé attaché à une poignée de bois. C'est mieux que rien...
+$ITM_W_SWORD_2	Surin de Métal	Une lame de métal de récupération. Grossier, mais efficace.
+$ITM_W_SWORD_3	Épée Rouillée	Une épée rouillée et fort malmenée. La Fosse est jonchée de tels rebuts issus de la guerre.	
+$ITM_W_SWORD_4	Kopal de Représailles	Ce couteau de combat nomade comporte les symboles gravés de la tribu Gasta, recouvrant le symbole d'un groupe rival inconnu, signe indubitable d'une vendetta. Sa poignée d'os est marquée de 17 indentations correspondant chacune à une victime.	
+$ITM_W_SWORD_5	Épée de Fer	Une simple épée de fer. Elle est mal équilibrée et semble avoir été forgée à la va-vite, mais elle est cependant en bon état.
+$ITM_W_SWORD_6	Vindicte de l'Honneur	La poignée ornée et le pommeau de jade trahissent le rôle initial d'épée de duels de cette arme quaidienne. La base de la lame porte l'inscription <LQ>La vindicte est honorable. La Flamme en moi brûle.<RQ> Elle a probablement été créée pour un duel spécifique, afin de résoudre un déshonneur entre deux nobles. 	
+$ITM_W_SWORD_7	Épée de Soldat	Une épée militaire, issue de la production de masse en temps de guerre. Elle est efficace et robuste.
+$ITM_W_SWORD_8	Fil de l'Ordre	Ce tranchoir de manufacture ashani porte une inscription archaïque qui court sur toute la longueur de la lame :<N><LQ>Je suis le Fil de l'Ordre. Je sépare le vertueux du maléfique, les ténèbres de la lumière. Je guide la main qui me brandit vers la m...<RQ> Plusieurs générations de polissage ont tellement estompé le reste du texte qu'il en est devenu indéchiffrable.	
+$ITM_W_SWORD_9	Épée d'Officier	Encore une relique de la guerre. Celle-ci a été fabriquée spécifiquement pour un officier.
+$ITM_W_SWORD_10	Commandant des Légions	La composition élégante, mais néanmoins simple de cette arme ashani indique qu'elle fut créée pour un noble de modeste lignée.<N><N>Une face de la poignée porte l'inscription « Commandant des Légions », tandis que l'autre indique « Serviteur du Déplaceur Immobile ». Le disque du pommeau est orné sur une face des sphères de la Machine Céleste, et sur l'autre d'un pèlerin buvant à la Fontaine du Temple d'Ash.	
+$ITM_W_SWORD_11	Épée de Maître	Forgée et équilibrée avec soin, cette épée est clairement issue du travail d'un maître artisan.	
+$ITM_W_SWORD_12	L'Oeil de la Flamme	Cette épée unique porte une ancienne inscription en quaidien qui court sur tout le long de sa gouttière. L'ancienneté extrême du dialecte et l'usure de la lame l'ont rendue difficilement déchiffrable :<N><LQ>Contemplez... l'Oeil de la Flamme... Gloire... fuit plein de honte... La chose d'un Roi...<RQ> Deux énormes rubis sur le pommeau semblent briller d'un feu interne. La poignée magnifiquement ornée représente le Mur du Souvenir, où les noms des honorables Empereurs de Quaid ont été inscrits. Cette arme remarquable a très probablement appartenu à un membre de la Lignée Royale.	
+$ITM_W_SWORD_13	Evni	L'épée de rêve de tout Berserker. Elle est unique au monde, et son prix semble avoir été fixé en accord avec ce fait...
+$ITM_W_SWORD_14	<RE>[$ITM_W_SWORD_4_NAME]+	<RE>$ITM_W_SWORD_4_DESCRIPTION	
+$ITM_W_SWORD_15	<RE>[$ITM_W_SWORD_6_NAME]+	<RE>$ITM_W_SWORD_6_DESCRIPTION	
+$ITM_W_SWORD_16	<RE>[$ITM_W_SWORD_8_NAME]+	<RE>$ITM_W_SWORD_8_DESCRIPTION	
+$ITM_W_SWORD_17	<RE>[$ITM_W_SWORD_10_NAME]+	<RE>$ITM_W_SWORD_10_DESCRIPTION	
+$ITM_W_SWORD_18	<RE>[$ITM_W_SWORD_12_NAME]+	<RE>$ITM_W_SWORD_12_DESCRIPTION	
+$ITM_W_SWORD_19	<RE>[$ITM_W_SWORD_13_NAME]+	<RE>$ITM_W_SWORD_13_DESCRIPTION	
+$ITM_W_SWORD_20	<RE>[$ITM_W_SWORD_1_NAME]+	<RE>[$ITM_W_SWORD_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_SWORD_21	<RE>[$ITM_W_SWORD_2_NAME]+	<RE>[$ITM_W_SWORD_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_SWORD_22	<RE>[$ITM_W_SWORD_3_NAME]+	<RE>[$ITM_W_SWORD_3_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_SWORD_23	<RE>[$ITM_W_SWORD_5_NAME]+	<RE>[$ITM_W_SWORD_5_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_SWORD_24	<RE>[$ITM_W_SWORD_7_NAME]+	<RE>[$ITM_W_SWORD_7_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_SWORD_25	<RE>[$ITM_W_SWORD_9_NAME]+	<RE>[$ITM_W_SWORD_9_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_SWORD_26	<RE>[$ITM_W_SWORD_11_NAME]+	<RE>[$ITM_W_SWORD_11_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_BOW_1	Arc Vert	Un arc simple en bois tendre, accompagné de flèches en bois.
+$ITM_W_BOW_2	Arc en Bois	Un arc en bois, accompagné de flèches à pointe de pierre.
+$ITM_W_BOW_3	Guerrier Chasseur	Cet arc de chasse nomade semble également avoir servi d'arme de guerre. Le symbole nomade pour « bonne chasse » a été recouvert par le symbole de « la mort ». La face intérieure de l'arc comporte une description d'un dieu familial Sdeka, en train de brandir une tête coupée. Des lignes de victoire rouge aux extrémités indiquent que cette arme a beaucoup servi au cours d'un conflit depuis longtemps oublié.
+$ITM_W_BOW_4	Arc de Chasseur	Un arc robuste en bois d'if, accompagné de flèches à pointe de pierre.	
+$ITM_W_BOW_5	Relique du Nord	Ce bel arc de chasse a été fabriqué en bouleau blanc. La poignée en cuir bleu est agrémentée d'un fil d'or, et une étrange inscription fait le tour des extrémités, peut-être dans l'un des nombreux langages des États-Cités du Nord. Le symbole nomade de la famille Ked a été peint sur un côté, indiquant que cette arme a voyagé vers le sud en compagnie de cette tribu.
+$ITM_W_BOW_6	Arc à Ramure	Un arc puissant fabriqué à partir d'une ramure de cerf.
+$ITM_W_BOW_7	Arc de Guerre de Capitaine	Cet arc de guerre ashani est constitué de plusieurs couches de bois rares collées ensemble. La poignée représente un engrenage en rotation et comporte une inscription dorée : « Capitaine Zantimon, défenseur des traditions ». Il s'agissait probablement du chef d'une des nombreuses patrouilles qui protégeaient les pèlerins du Temple d'Ash contre les bandits et les pillards nomades.
+$ITM_W_BOW_8	Arc du Grand Cerf	Un arc ancien, fabriqué à partir de la ramure d'un grand cerf.
+$ITM_W_BOW_9	Triomphe du Seigneur de Guerre	Cet arc recourbé fabriqué avec une grande expertise est orné d'anneaux d'or et de cuir aux couleurs vives. La poignée ouvragée représente un seigneur de guerre victorieux, dressé sur une montagne d'ennemis massacrés. Plusieurs déités reconnaissables lui offrent leur bénédiction depuis les cieux. Cette arme a clairement appartenu à un chef de clan nomade riche et réputé.
+$ITM_W_BOW_10	Arc de Guerre Composite	Cet arc composite, fabriqué à partir de plusieurs essences de bois, a probablement dû appartenir à un officier.
+$ITM_W_BOW_11	Mort Flavescente	Cet arc de guerre à pointes cornues est orné de nombreux anneaux d'or. La poignée en cuir porte une inscription en quaidien archaïque : <LQ>Lucawan, toi qui as assassiné l'honneur contre de l'or facile, vois ta mort dans l'or de cette arme. Sa flèche te trouvera, et ton cadavre de traître servira de jouet pour les chiens et les vers.<RQ> En dessous, gratté à la surface du cuir, on peut lire les mots <LQ>Cela a été accompli.<RQ>	
+$ITM_W_BOW_12	Arc Long Renforcé	Constitué de chêne épais, cet arc nécessite une force surhumaine pour être bandé. Ses frappes sont mortelles, entre les mains de celui qui est capable de s'en servir.
+$ITM_W_BOW_13	<RE>[$ITM_W_BOW_3_NAME]+	<RE>[$ITM_W_BOW_3_DESCRIPTION]	
+$ITM_W_BOW_14	<RE>[$ITM_W_BOW_5_NAME]+	<RE>[$ITM_W_BOW_5_DESCRIPTION]	
+$ITM_W_BOW_15	<RE>[$ITM_W_BOW_7_NAME]+	<RE>[$ITM_W_BOW_7_DESCRIPTION]	
+$ITM_W_BOW_16	<RE>[$ITM_W_BOW_9_NAME]+	<RE>[$ITM_W_BOW_9_DESCRIPTION]	
+$ITM_W_BOW_17	<RE>[$ITM_W_BOW_11_NAME]+	<RE>[$ITM_W_BOW_11_DESCRIPTION]	
+$ITM_W_BOW_18	<RE>[$ITM_W_BOW_1_NAME]+	<RE>[$ITM_W_BOW_1_DESCRIPTION]	
+$ITM_W_BOW_19	<RE>[$ITM_W_BOW_2_NAME]+	<RE>[$ITM_W_BOW_2_DESCRIPTION]	
+$ITM_W_BOW_20	<RE>[$ITM_W_BOW_4_NAME]+	<RE>[$ITM_W_BOW_4_DESCRIPTION]	
+$ITM_W_BOW_21	<RE>[$ITM_W_BOW_6_NAME]+	<RE>[$ITM_W_BOW_6_DESCRIPTION]	
+$ITM_W_BOW_22	<RE>[$ITM_W_BOW_8_NAME]+	<RE>[$ITM_W_BOW_8_DESCRIPTION]	
+$ITM_W_BOW_23	<RE>[$ITM_W_BOW_10_NAME]+	<RE>[$ITM_W_BOW_10_DESCRIPTION]	
+$ITM_W_BOW_24	Arc Long Renforcé+	Constitué de chêne épais, cet arc nécessite une force surhumaine pour être bandé. Ses frappes sont mortelles, entre les mains de celui qui est capable de s'en servir. Un enchantement l'a rendu plus efficace qu'il n'en a l'air...
+$ITM_W_STAFF_1	Bâton de Marche	Un beau bâton bien costaud.
+$ITM_W_STAFF_2	Houlette de Berger	Une simple houlette de berger.
+$ITM_W_STAFF_3	Bâton de Charlatan	Ce bâton couvert d'ornements sophistiqués comporte un étrange texte gravé qui court sur toute sa longueur. Une inspection détaillée a cependant permis d'arriver à la conclusion qu'il ne s'agit de rien de plus que de charabia destiné à tromper les illettrés. L'extrémité du bâton est dotée de plusieurs compartiments creux contenant des poudres permettant de produire de la fumée colorée, ainsi que ce qui a autrefois dû être un canari vivant...
+$ITM_W_STAFF_4	Bâton de Chêne	Un bâton de chêne finement sculpté, doté d'une robuste poignée en cuir.
+$ITM_W_STAFF_5	Crosse de l'Archiberger	Ce bâton robuste est couvert de charmes rédigés dans de multiples dialectes de quaidien, d'ashani, de nomade, ainsi que dans plusieurs langages non-identifiés. Sur la partie haute du bâton, on peut lire l'inscription en quaidien : <LQ>Maître des Moutons, Gardien des Greniers<RQ>. Les armoiries de Joyau-du-Désert apparaissent en dessous, ce qui indique que l'heureux propriétaire était chargé de veiller sur les terribles moutons sauvages qui prolifèrent sous la cité. La partie inférieure du bâton est couverte de centaines de marques de morsure, et plusieurs dents sont même restées coincées dans la surface du bois.	
+$ITM_W_STAFF_6	Gourdin	Un robuste bâton de chêne dont une extrémité a été creusée et remplie de plomb, afin de l'alourdir.
+$ITM_W_STAFF_7	L'Arme de la Bête	Ce bâton remarquable a été sculpté dans un morceau d'ivoire. La simple pensée qu'un monstre soit en mesure de produire une corne d'une telle taille est tout simplement terrifiante... Des gravures complexes descendent sur toute sa longueur et semblent raconter l'histoire d'un héros inconnu. Le motif ne semble ni ashani, ni nomade, ni quaidien, et aucun mot ne permet de l'identifier. De ce fait, l'identité du sculpteur, tout comme celle du monstre à l'origine de la corne, demeurent un mystère.
+$ITM_W_STAFF_8	Bâton de Bois de Fer	Un excellent bâton sculpté dans un bois très rare.
+$ITM_W_STAFF_9	Gourdin du Bourreau	Ce solide bâton a été recouvert de fer, et l'une de ses extrémités a été évidée et remplie de plomb afin de lui fournir plus d'élan lors de la frappe. D'étranges indentations parsèment la surface du métal. Le langage est inconnu, probablement l'un des nombreux dialectes parlés dans les États-Cités du Nord. Des clés entrecroisées sous une tête de mort symbolisent probablement un poste d'autorité, peut-être un geôlier, un bourreau, ou toute autre fonction jugée indigne de l'usage d'une épée. Des taches de sang sur le bout du bâton laissent à penser que cette autorité était fréquemment exercée...
+$ITM_W_STAFF_10	Bâton à Bouts Ferrés	Un bâton robuste qui a été renforcé avec de longues plaques d'acier.
+$ITM_W_STAFF_11	Gardien de la Flamme	Ce bâton plaqué argent a été terni par des générations de propriétaires. Les zones les moins abîmées semblent couvertes d'inscriptions en quaidien archaïque. La patine de l'argent et l'extrême ancienneté du dialecte les rendent quasiment indéchiffrables. La phrase <LQ>ceux qui détiennent la Flamme<RQ> apparaît plusieurs fois, tout comme <LQ>extase... consume<RQ>. Les deux extrémités du bâton sont quasiment noires à force d'accumuler les traces de brûlure, ce qui laisse supposer un rôle dans le Rituel du Feu Impérial Quaidien.	
+$ITM_W_STAFF_12	Canne de Pèlerin	L'un des nombreux bâtons offerts aux voyageurs par les moines de Selini. L'extrémité est renforcée par de l'acier, et la surface du bois est couverte de prières gravées.
+$ITM_W_STAFF_13	Sceptre de Kozomon	Ce bâton de chêne rustique porte l'inscription <LQ>Kozomon Kastankim<RQ>, dans un dialecte ashani incroyablement archaïque, ce qui ferait de ce simple accessoire la propriété du premier disciple de Selinadt. On pensait cette relique perdue lorsque sa Maison du Chapitre fut pillée au cours des dernières années de la Guerre Quaidienne. L'or et les joyaux qui l'ornaient ont été arrachés il y a bien longtemps, mais le bâton en lui-même est demeuré intact. Ces siècles de vénération et plusieurs incendies ont assombri le bois originel au point de le rendre quasiment noir, mais il a su conserver toute sa force.	
+$ITM_W_STAFF_14	<RE>[$ITM_W_STAFF_3_NAME]+	<RE>[$ITM_W_STAFF_3_DESCRIPTION]	
+$ITM_W_STAFF_15	<RE>[$ITM_W_STAFF_5_NAME]+	<RE>[$ITM_W_STAFF_5_DESCRIPTION]	
+$ITM_W_STAFF_16	<RE>[$ITM_W_STAFF_7_NAME]+	<RE>[$ITM_W_STAFF_7_DESCRIPTION]	
+$ITM_W_STAFF_17	<RE>[$ITM_W_STAFF_9_NAME]+	<RE>[$ITM_W_STAFF_9_DESCRIPTION]	
+$ITM_W_STAFF_18	<RE>[$ITM_W_STAFF_11_NAME]+	<RE>[$ITM_W_STAFF_11_DESCRIPTION]	
+$ITM_W_STAFF_19	<RE>[$ITM_W_STAFF_13_NAME]+	<RE>[$ITM_W_STAFF_13_DESCRIPTION]	
+$ITM_W_STAFF_20	<RE>[$ITM_W_STAFF_1_NAME]+	<RE>[$ITM_W_STAFF_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_STAFF_21	<RE>[$ITM_W_STAFF_2_NAME]+	<RE>[$ITM_W_STAFF_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_STAFF_22	<RE>[$ITM_W_STAFF_4_NAME]+	<RE>[$ITM_W_STAFF_4_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_STAFF_23	<RE>[$ITM_W_STAFF_6_NAME]+	<RE>[$ITM_W_STAFF_6_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_STAFF_24	<RE>[$ITM_W_STAFF_8_NAME]+	<RE>[$ITM_W_STAFF_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_STAFF_25	<RE>[$ITM_W_STAFF_10_NAME]+	<RE>[$ITM_W_STAFF_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_STAFF_26	<RE>[$ITM_W_STAFF_12_NAME]+	<RE>[$ITM_W_STAFF_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_BOOK_1	<RE>$ITM_ACC_BOOK_1_NAME	<RE>$ITM_ACC_BOOK_1_DESCRIPTION	
+$ITM_W_BOOK_2	<RE>$ITM_ACC_BOOK_2_NAME	<RE>$ITM_ACC_BOOK_2_DESCRIPTION	
+$ITM_W_BOOK_3	<RE>$ITM_ACC_BOOK_3_NAME	<RE>$ITM_ACC_BOOK_3_DESCRIPTION	
+$ITM_W_BOOK_4	<RE>$ITM_ACC_BOOK_4_NAME	<RE>$ITM_ACC_BOOK_4_DESCRIPTION	
+$ITM_W_BOOK_5	<RE>$ITM_ACC_BOOK_5_NAME	<RE>$ITM_ACC_BOOK_5_DESCRIPTION	
+$ITM_W_BOOK_6	<RE>$ITM_ACC_BOOK_6_NAME	<RE>$ITM_ACC_BOOK_6_DESCRIPTION	
+$ITM_W_BOOK_7	<RE>$ITM_ACC_BOOK_7_NAME	<RE>$ITM_ACC_BOOK_7_DESCRIPTION	
+$ITM_W_BOOK_8	<RE>$ITM_ACC_BOOK_8_NAME	<RE>$ITM_ACC_BOOK_8_DESCRIPTION	
+$ITM_W_BOOK_9	<RE>$ITM_ACC_BOOK_9_NAME	<RE>$ITM_ACC_BOOK_9_DESCRIPTION	
+$ITM_W_BOOK_10	<RE>$ITM_ACC_BOOK_10_NAME	<RE>$ITM_ACC_BOOK_10_DESCRIPTION	
+$ITM_W_BOOK_11	<RE>$ITM_ACC_BOOK_11_NAME	<RE>$ITM_ACC_BOOK_11_DESCRIPTION	
+$ITM_W_BOOK_12	<RE>$ITM_ACC_BOOK_12_NAME	<RE>$ITM_ACC_BOOK_12_DESCRIPTION	
+$ITM_W_BOOK_13	<RE>$ITM_ACC_BOOK_13_NAME	<RE>$ITM_ACC_BOOK_13_DESCRIPTION	
+$ITM_W_BOOK_14	<RE>$ITM_ACC_BOOK_14_NAME	<RE>$ITM_ACC_BOOK_14_DESCRIPTION	
+$ITM_W_BOOK_15	<RE>$ITM_ACC_BOOK_15_NAME	<RE>$ITM_ACC_BOOK_15_DESCRIPTION	
+$ITM_W_BOOK_16	<RE>$ITM_ACC_BOOK_16_NAME	<RE>$ITM_ACC_BOOK_16_DESCRIPTION	
+$ITM_W_BOOK_17	<RE>$ITM_ACC_BOOK_17_NAME	<RE>$ITM_ACC_BOOK_17_DESCRIPTION	
+$ITM_W_BOOK_18	<RE>$ITM_ACC_BOOK_18_NAME	<RE>$ITM_ACC_BOOK_18_DESCRIPTION	
+$ITM_W_BOOK_19	<RE>$ITM_ACC_BOOK_19_NAME	<RE>$ITM_ACC_BOOK_19_DESCRIPTION	
+$ITM_W_BOOK_20	<RE>$ITM_ACC_BOOK_20_NAME	<RE>$ITM_ACC_BOOK_20_DESCRIPTION	
+$ITM_W_BOOK_21	<RE>$ITM_ACC_BOOK_21_NAME	<RE>$ITM_ACC_BOOK_21_DESCRIPTION	
+$END	End
+$ITM_ACC_BOOK	livre	<NULL>
+$ITM_ACC_BOOK_1	Éclair de Foudre	La foudre électrocute les ennemis, ce qui les paralyse brièvement.
+$ITM_ACC_BOOK_10	Bouclier Psi	Les ennemis qui touchent $MCG lui font perdre du Psi à la place de la Santé. La perte de Psi est réduite pour chaque point de compétence investi dans le sort Cristal.
+$ITM_ACC_BOOK_11	Démarrage Explosif	Invoquer et améliorer les défenseurs provoque une petite explosion.
+$ITM_ACC_BOOK_12	Final Explosif	Une petite explosion se produit lorsqu'un défenseur est vaincu.
+$ITM_ACC_BOOK_13	Livres des Fléaux	Tous les défenseurs à l'exception de $MCG ne peuvent pas se régénérer, et tous les ennemis à l'exception des boss sont toxiques en permanence.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
+$ITM_ACC_BOOK_14	Livre du Sang	Tous les défenseurs et les ennemis, à l'exception de $MCG et des boss, saignent en permanence.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
+$ITM_ACC_BOOK_15	Livre de la Synergie	La glace, l'eau et le feu ne s'annulent plus.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
+$ITM_ACC_BOOK_16	La Vallée des Oubliés	Ce livre n'a aucun pouvoir magique, car il s'agit d'une autobiographie. Il raconte l'histoire d'une jeune érudite ashani qui survit à une épidémie, mais se retrouve prise au piège au sein d'une colonie de pestiférés. Le récit est rédigé sous forme de journal, agrémenté de nombreuses illustrations dessinées avec des matériaux improvisés comme du charbon, du thé, des extraits de plantes et du sang.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
+$ITM_ACC_BOOK_17	Livre de l'Intrépide	Les défenseurs ne peuvent pas être ré-invoqués une fois vaincus ou rappelés.
+$ITM_ACC_BOOK_18	Livre du Silence	$MCG ne peut pas lancer de sorts pendant la bataille.
+$ITM_ACC_BOOK_19	Bouquin de Faces	Ne fonctionne QUE pour les défis EXTRÊMES :<N><N>Les ennemis mettront aléatoirement à jour leur <LQ>statut<RQ> avec de nouveaux visages. Vraiment curieux...
+$ITM_ACC_BOOK_2	Chaîne de Foudre	La foudre frappe 1 cible supplémentaire avec une puissance diminuée pour chaque point de compétence investi dans le sort Foudre.
+$ITM_ACC_BOOK_20	Livre Anonyme	Ne fonctionne QUE pour les défis EXTRÊMES :<N><N>Les défenseurs deviennent anonymes. Ils gagnent +3% de chances d'esquiver.
+$ITM_ACC_BOOK_21	Livre des Secrets	Vous entendez un léger murmure en l'approchant de votre oreille.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
+$ITM_ACC_BOOK_3	Démarrage Furieux	Les défenseurs sont Enragés dès leur invocation.
+$ITM_ACC_BOOK_4	Final Furieux	Les défenseurs dont la Santé tombe sous 25 % deviennent Enragés.
+$ITM_ACC_BOOK_5	Lumière du Jugement	Lancer Soins lance également AVEUGLER sur tous les ennemis.
+$ITM_ACC_BOOK_6	Lumière de la Gloire	Lancer Soins lance également LUMIÈRE sur tous les ennemis.
+$ITM_ACC_BOOK_7	Démarrage au Ralenti	Les ennemis sont temporairement ralentis lorsqu'ils apparaissent.
+$ITM_ACC_BOOK_8	Final au Ralenti	Les ennemis ralentissent lorsqu'ils se rapprochent de $MCG.
+$ITM_ACC_BOOK_9	Amas de Cristaux	$MCG commence le niveau entourée de plusieurs cristaux.
+$ITM_ACC_BOOK_PLURAL	livres	<NULL>
+$ITM_ACC_BOOK_PLURAL_SHORT	livres	<NULL>
+$ITM_BOOK_PERHAPS	<NOTHING>	Vous devriez peut-être emmener ce livre avec vous dans votre prochaine aventure...
+$ITM_PLUS	Objet+	Un mystérieux symbole <LQ>+<RQ> laisse entendre que cet objet est bien plus puissant que la normale.

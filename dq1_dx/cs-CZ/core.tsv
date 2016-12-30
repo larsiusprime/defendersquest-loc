@@ -1,0 +1,1148 @@
+flag	content	comment
+$TITLE_START_DEMO	Spusť DEMO
+$TITLE_FULL_GAME	PLNÁ HRA
+$TITLE_START_GAME	Spusť Hru
+$TITLE_START	Spusť
+$TITLE_QUIT	Konec
+$TITLE_EULA_1	Hraním této hry souhlasíte s naší
+$TITLE_EULA_2	Dohodou s Koncovým Uživatelem
+$TITLE_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT	COMMENT: this is a redirect, the text for $MISC_PLEASE_WAIT will be duplicated here
+$TITLE_BONUS_GOODIES	Bonusy
+$TITLE_BONUS_GOODIES_2	Tajemství?
+$TITLE_CONNECTING_KONG	Připojuji ke KONG...
+$TITLE_UNLOAD_MOD	Odebrat rozšíření
+$TITLE_RELOAD_MOD	Načíst rozšíření znovu
+$DEMO_OVER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
+$DEMO_OVER_DONT_FORGET	Nezapomeň na soubor se svojí uloženou pozicí!
+$DEMO_OVER_EXPORT_HOW	Tímhle tlačítkem uděláš export svojí pozice.
+$DEMO_OVER_USE_IT	Můžeš ho použít a pokračovat tam, kde jsi skončil!
+$DEMO_OVER_PLAY	Hraj dál!
+$DEMO_OVER_THANKS	Díky, že sis zahrál!
+$DEMO_OVER_ENORMOUS	Klikni na tohle velké tlačitko a pokračuj ve svém poslání!
+$DEMO_OVER_ENORMOUS_2	Klikni na nějaké velké tlačitko a pokračuj ve svém poslání!
+$DEMO_OVER_FULL_GAME	Získej PLNOU HRU!
+$DEMO_OVER_FULL_GAME_SHORT	PLNÁ<N>HRA!	COMMENT: <N> means a line break. <N> works too, but not <N> or <n>
+$DEMO_OVER_ACTS	Akty<N>III a IV
+$DEMO_ONLY_LOGIN_TITLE	FREE!
+$DEMO_ONLY_LOGIN_TEXT	Unlocks Acts III & IV!<N>2 more character classes!<N>6 more battle maps!<N><N>@It's FREE:@<N>Register a kong account<N>(or sign in if you have one)<N>then restart the game.<N>
+$DEMO_ONLY_BUY_TEXT	@Includes DOWNLOADABLE game and soundtrack!@<N>Unlocks Acts III - VII!<N>All 6 character classes!<N>All 108 cutscenes!<N>All 39 battle maps!<N>All 14 bonus battles!<N><N>New Game+ mode!<N>Original game x 2!<N>All new enemy types!<N>7 new sidequests!<N>Loot, books, and bonuses!<N><N>
+$DEMO_ONLY_X_KREDS	Jen <X> kreditů!
+$DEMO_FREE_IF_REGISTERED	ZDARMA pro registrované!
+$ERROR_TITLE	Došlo k chybě!
+$ERROR_NUMBER	Chyba #
+$ERROR_CONTEXT	kontext
+$ERROR_MESSAGE	zpráva
+$ERROR_STACK	systémový zásobník
+$PARTY_FROM_BATTLE	Z bitvy
+$PARTY_GO_TO_MAP	Jdi na mapu
+$PARTY_RETURN_TOWN	Vrať se do města
+$PARTY_CANT_WEAPON	Nemůžeš<N>použít<N>zbraně
+$PARTY_CANT_ARMOR	Nemůžeš<N>použít<N>brnění
+$PARTY_RESET_POINTS	Odnauč
+$PARTY_X_PTS	<X> bodů
+$PARTY_REDESIGN	Převlékni
+$PARTY_CONFIRM_CHANGES	Potvrď změny
+$PARTY_FAILED	Prohrál jsi!
+$PARTY_FAILED_DESC	<MCG> byla zabita.
+$PARTY_NO_NEW_ACHIEVE	Žádné nové úspěchy.
+$PARTY_WELL_DONE	DOBRÁ PRÁCE!
+$PARTY_ACHIEVE_SINGULAR	úspěch
+$PARTY_ACHIEVE_PLURAL	úspěchy
+$PARTY_1_NEW_ACHIEVE	1 nový úspěch!
+$PARTY_X_NEW_ACHIEVE	<NUM> nové úspěchy!
+$PARTY_PERFECT_WORD	Perfekt
+$PARTY_PASSED_WORD	Splněno
+$PARTY_FAIL_PENALTY	Postih za selhání
+$PARTY_TOTAL	Celkem
+$PARTY_PERFECT	PERFEKT!
+$PARTY_PERFECT+	PERFEKT!+
+$PARTY_PERFECT++	PERFEKT!++
+$PARTY_PERFECT_DESC	<MCG> přežila bez zranění!
+$PARTY_PERFECT++_DESC	<MCG> a <ALLY><N> přežili bez zranění!	COMMENT: The game will put Zelemir, Tletl-Meztli, or any other alternate mcguffin's name where <ALLY> appears.
+$PARTY_PERFECT+_DESC	<MCG> přežila bez zranění!<N><ALLY> byl zraněn!
+$PARTY_PERFECT_ALLY_DEAD_DESC	<MCG> přežila bez zranění, ale <ALLY> byl zabit.
+$PARTY_PASSED	Vítězství!
+$PARTY_PASSED+	Vítězství!+
+$PARTY_PASSED++	Vítězství!++
+$PARTY_PASSED_DESC	<MCG> přežila,<N>ale byla zraněna.
+$PARTY_PASSED_ALLY_DEAD_DESC	<ALLY> byl zabit,<N>ale <MCG> přežila.
+$PARTY_PASSED+_DESC	<MCG> byla zraněna!<N><ALLY> přežil!
+$PARTY_PASSED++_DESC	<MCG> byla zraněna!<N><ALLY> přežil bez zranění!
+$PARTY_DEFEATED_WAVE_X	Porazil vlnu <X>
+$PARTY_REACHED_WAVE_X	Dosáhl vlnu <X>
+$PARTY_NO_POINTS	Žádné body k přiřazení!
+$PARTY_NO_AFFORD	Na to nemáš!<N>Cena:<COST><N> Prachy:<SCRAP>
+$PARTY_RE_ASSIGN	Přerozdělit všechny body pro <NAME>?<N>Cena:<COST><N>Prachy: <SCRAP>
+$PARTY_CHANGE_NAME	Přejmenuj
+$PARTY_CONFIRM_POINTS_1_1	Trvale přiřadit 1 bod 1 obránci?	COMMENT: There are 4 variants here to handle the various pluralizations
+$PARTY_CONFIRM_POINTS_1_X	Trvale přiřadit 1 bod <CHARS> obráncům?
+$PARTY_CONFIRM_POINTS_X_1	Trvale přiřadit <POINTS> bodů 1 obránci?
+$PARTY_CONFIRM_POINTS_X_X	Trvale přiřadit <POINTS> bodů <CHARS> obráncům?
+$PARTY_POINT	bod
+$PARTY_POINTS	body
+$PARTY_CHARACTER	postava
+$PARTY_CHARACTERS	postavy
+$PARTY_CONFIRM_POINTS_TITLE	Potvrď přiřazení bodů
+$PARTY_RENAME	Přejmenuj
+$PARTY_REDESIGN	Předělej
+$UI_EQUIP_NAME	Jméno
+$UI_EQUIP_STAT	Vlastnost
+$UI_EQUIP_OWNER	Vlastník
+$UI_EQUIP_SHOW_EQUIPPED	Zobraz použité
+$UI_EQUIP_CLASS_CANT_W	Tato třída nemůže použít zbraně!
+$UI_EQUIP_CLASS_CANT_A	Tato třída nemůže použít brnění!
+$UI_EQUIP_ALL_W_SWORD	Všechny meče použity!
+$UI_EQUIP_ALL_W_BOW	Všechny luky použity!
+$UI_EQUIP_ALL_W_STAFF	Všechny hole použity!
+$UI_EQUIP_ALL_A_LIGHT	Všechna lehká brnění použita!
+$UI_EQUIP_ALL_A_HEAVY	Všechna těžká brnění použita!
+$UI_EQUIP_ALL_W_BOOK	Všechny knihy použity!
+$UI_EQUIP_NO_W_SWORD	Nemáš žádné meče!
+$UI_EQUIP_NO_W_BOW	Nemáš žádné luky!
+$UI_EQUIP_NO_W_STAFF	Nemáš žádné hole!
+$UI_EQUIP_NO_W_BOOK	Nemáš žádné knihy!
+$UI_EQUIP_NO_A_LIGHT	Nemáš žádná lehká brnění!
+$UI_EQUIP_NO_A_HEAVY	Nemáš žádná těžká brnění!
+$UI_ACCEPT_NUMS	font:18,off_y:1,off_x:-3	COMMENT: Font size and x/y offsets for options menu button labels
+$UI_BACK_NUMS	font:18,off_y:1,off_x:-3
+$UI_AUDIO_NUMS	font:18,off_y:1,off_x:-2
+$UI_VIDEO_NUMS	font:18,off_y:1,off_x:-2
+$UI_MISC_NUMS	font:18,off_y:1,off_x:-2
+$UI_ACCESS_NUMS	font:18,off_y:1,off_x:-2,show_boxes:1,absence_off_x:0,speed_off_x:0	COMMENT: hide/show accessibility box graphic, offset for 'absence' text, offset for 'speed' text
+$UI_ACHIEVEMENTS_NUMS	font:18,off_y:0
+$UI_RESTART_NUMS	font:18,off_y:1,off_x:-2
+$UI_QUIT_NUMS	font:18,off_y:1,off_x:-2
+$UI_CONTROLS_NUMS	font:18,off_y:1,off_x:-2
+$UI_OPTIONS_NUMS	font:18,off_y:1,off_x:-2
+$UI_CONTROLS_TITLE	Ovládání
+$UI_VIDEO_TITLE	Obraz
+$UI_AUDIO_TITLE	Zvuk
+$UI_ACCESS_TITLE	Přístupnost
+$UI_MISC_TITLE	Různé
+$UI_OPTIONS_TITLE	Volby
+$UI_OPTIONS_MENU	Volby
+$UI_OPTIONS_SPEED	Rychlost hry
+$UI_ACHIEVEMENTS_TITLE	Úspěchy
+$UI_ACHIEVEMENTS_BUTTON_NUMBERS	font:18,offy:-2
+$UI_SFX	Zvuky:
+$UI_MUSIC	Hudba:
+$UI_ACCESS_REWARDS	Odměny
+$UI_ACCESS_PENALTIES	Postihy
+$UI_ACCESS_DEFAULT	Výchozí nastavení
+$UI_ACCESS_FAIL	Prohra
+$UI_ACCESS_ABSENCE	Absence
+$UI_ACCESS_FLASHING	Světelné efekty
+$UI_ACCESS_SPEED	Rychlost hry
+$UI_BONUS_BONUS_LEVELS	Bonusové mapy
+$UI_BONUS_STARS_LINE	<STAR_NUM> <STAR_COLOR> hvězd
+$UI_BONUS_GOLD_STARS_LINE	<STAR_NUM> zlatých
+$UI_BONUS_BLUE_STARS_LINE	<STAR_NUM> modrých
+$UI_MOVIE_NUMS	font:13,tabs:3
+$UI_MOVIE_SELECT_A_MOVIE	Vyber scénu
+$UI_MOVIE_SCENE	scéna
+$UI_MOVIE_QUEST	úkol
+$UI_MOVIE_END	konec
+$UI_TIPS_TITLE	Rady a tipy
+$UI_UPDATER_CANCEL	<RE>$MISC_CANCEL
+$UI_UPDATER_SECURED_WITH	Mechanismus kontroly nových verzí je zabezpečen přes HTTPS<N>a přes ověření veřejného klíče.
+$UI_UPDATER_ASK_DOWNLOAD	Stáhnout aktualizaci?
+$UI_UPDATER_SERVER_TIMEOUT	Server neodpověděl!
+$UI_UPDATER_NO_INFO	Server neposkytl informaci o nové verzi.
+$UI_UPDATER_NO_BIG_DEAL	To vůbec nevadí, můžete si klidně zahrát, jen zrovna není dostupný aktualizační server.
+$UI_UPDATER_DEB	balíček DEB
+$UI_UPDATER_RPM	balíček RPM
+$UI_UPDATER_TARGZ	archiv TAR.GZ
+$UI_UPDATER_CHECKING	Hledám aktualizace...
+$UI_UPDATER_UPDATE_EXISTS	Aktualizace nalezena!
+$UI_UPDATER_CURRENT_VERSION	Nainstalovaná verze:<T>
+$UI_UPDATER_NEWEST_VERSION	Nejnovější verze:<T>
+$UI_UPDATER_NO_UPDATES	Žádné aktualizace nebyly nalezeny
+$UI_UPDATER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
+$UI_UPDATER_TRYING_30	Budu to zkoušet 30 sekund
+$UI_UPDATER_CONNECT_AGAIN	Připojuji znova
+$UI_UPDATER_ERROR!	CHYBA!
+$UI_UPDATER_DETAILS	Podrobnosti:
+$UI_UPDATER_NO_VERIFY	Nemohl jsem ověřit soubor s aktualizací.
+$UI_UPDATER_NO_DOWNLOAD	Nemohl jsem stáhnout soubor s aktualizací.
+$UI_UPDATER_CHECKSUM_MISMATCH	Kontrolní součet aktualizace se neshoduje s očekávanou hodnotou.<N><N>Možná a pravděpodobná příčina je přerušené stahování, bezpečnostní problém (nepravděpodobné) nebo kosmické paprsky (jeden nikdy neví).<N><N>Každopádně se aktualizace nepovedla.
+$UI_UPDATER_GIVE_UP	Vzdej to
+$UI_UPDATER_TRY_AGAIN	Znovu
+$UI_UPDATER_CONNECTING	Připojuji se k serveru...
+$UI_UPDATER_DOWNLOADING_FILE	Stahuji aktualizaci...
+$UI_UPDATER_DOWNLOADING_SIG	Stahuji podpis aktualizace...
+$UI_UPDATER_CHECKSUM	Počítám kontrolní součet...
+$UI_UPDATER_NAVIGATING	Naviguji k souboru...
+$UI_UPDATER_CLOSE_WINDOW	Toto okno musíte před instalací aktualizace zavřít.
+$UI_UPDATER_FILE_IS_AT	Vaše aktualizace je umístěna zde:
+$UI_UPDATER_IF_NO_WINDOW	Pokud se složka neotevře, zkuste ji najít ručně.
+$UI_UPDATER_DOWNLOADED	Aktualizace stažena!
+$UI_UPDATER_NAVIGATE_NOW	Chcete soubor zobrazit?
+$UI_UPDATER_NOTE	Poznámka:
+$UI_UPDATER_SECURITY	Z bezpečnostních důvodů musíte staženou aktualizaci spustit ručně.<N><N>Zobrazím složku se staženou aktualizací.
+$UI_UPDATER_INSTALLING	Instaluji aktualizaci...
+$UI_UPDATER_EXITING	Ukončuji aplikaci...
+$UI_DEFENDER_RECALL_LINE	Odvolej: +<PSI> Psi
+$UI_DEFENDER_BOOST	Vylepši: <PSI> Psi
+$UI_DEFENDER_ORB_NUMS	orb_space:0
+$UI_DEFENDER_BOOST_NEED	Vylepši: Need <PSI> Psi
+$UI_DEFENDER_BOOST_MAX	Vylepšen na max.
+$UI_DEFENDER_BOOST_UNLOCK	K dispozici na úrovni vylepšení <LVL>
+$UI_DEFENDER_CLICK_TO	(Kliknutím vypni/zapni)
+$UI_DEFENDER_TECHNIQUES	TECHNIKY
+$UI_DEFENDER_TECHNIQUE	Technika
+$UI_DEFENDER_TRAITS	VLASTNOSTI
+$UI_DEFENDER_TRAIT	Vlastnost
+$UI_DEFENDER_RECALL	Odvolání
+$UI_SKILLS_CLICK_TO_UPGRADE	Klikni a vylepši.
+$UI_SKILLS_MAX	MAXIMUM
+$MISC_MAX	MAX
+$UI_SKILLS_NO_POINTS	Žádné volné body.
+$UI_SKILLS_REQ_1PT	Vyžaduje: Úroveň <LVL>,<N><PT> bod ve <SKILL>
+$UI_SKILLS_REQ_XPT	Vyžaduje: Úroveň <LVL>,<N><PT> body ve <SKILL>
+$UI_SKILLS_NO_LEARN_SPELL	Tohle kouzlo ještě neumíš.
+$UI_SKILLS_MOUSE_OVER	Najeď myší pro detaily.
+$UI_EQUIP_OWNED	Máš
+$UI_EQUIP_COMPARE	Porovnání
+$UI_EQUIP_PRICE	cena
+$UI_EQUIP_SHOW_EQUIPPED	Ukaž užívané
+$UI_EQUIP_EQUIP_AFTER	Přiřaď po zakoupení
+$UI_EQUIP_EQUIP_WHO	Kdo to dostane?
+$UI_EQUIP_EQUIPPED	V užití
+$UI_EQUIP_MAX_OWNED	MAXIMUM koupeno
+$UI_EQUIP_ALL_W_SWORD_EQUIPPED	Všechny meče použity!
+$UI_EQUIP_ALL_W_STAFF_EQUIPPED	Všechny hole použity!
+$UI_EQUIP_ALL_W_BOW_EQUIPPED	Všechny luky použity!
+$UI_EQUIP_ALL_A_LIGHT_EQUIPPED	Všechna lehká brnění použita!
+$UI_EQUIP_ALL_A_HEAVY_EQUIPPED	Všechna těžká brnění použita!
+$UI_EQUIP_CANT_UPGRADE_W_SWORD	Nemáš žádné meče, které bych mohl vylepšit!
+$UI_EQUIP_CANT_UPGRADE_W_BOW	Nemáš žádné luky, které bych mohl vylepšit!
+$UI_EQUIP_CANT_UPGRADE_W_STAFF	Nemáš žádné hole, které bych mohl vylepšit!
+$UI_EQUIP_CANT_UPGRADE_A_LIGHT	Nemáš žádná lehká brnění, která bych mohl vylepšit!
+$UI_EQUIP_CANT_UPGRADE_A_HEAVY	Nemáš žádná těžká brnění, která bych mohl vylepšit!
+$UI_EQUIP_NO_W_SWORD	Nemáš žádné meče!
+$UI_EQUIP_NO_W_STAFF	Nemáš žádné hole!
+$UI_EQUIP_NO_W_BOW	Nemáš žádné luky!
+$UI_EQUIP_NO_A_LIGHT	Nemáš žádná lehká brnění!
+$UI_EQUIP_NO_A_HEAVY	Nemáš žádná těžká brnění!
+$UI_EULA_TITLE	Dohoda s Koncovým Uživatelem
+$UI_ACHIEVE_COMPLETION	Získáno
+$UI_ACHIEVE_CATEGORIES	Kategorie
+$UI_ACHIEVE_POP_UP	Upozornění
+$UI_ACHIEVE_TRAINER	Nejsnazší
+$UI_ACHIEVE_EASY	Snadné
+$UI_ACHIEVE_MEDIUM	Střední
+$UI_ACHIEVE_HARD	Těžké
+$UI_ACHIEVE_IMPOSSIBLE	Nemožné
+$UI_CONTROLS_SPELL	Kouzlo
+$UI_CONTROLS_CLASS	Třída
+$UI_CONTROLS_CHARACTER	Postava
+$UI_CONTROLS_TARGET	Cíl
+$UI_CONTROLS_PAUSE	Pauza
+$UI_CONTROLS_MINUS_SPEED	- rychlost
+$UI_CONTROLS_PLUS_SPEED	+ rychlost
+$UI_CONTROLS_BOOST	Vylepši
+$UI_CONTROLS_RECALL	Odvolej
+$UI_CONTROLS_BACK	Zpět
+$UI_CONTROLS_PRESETS	Schémata
+$UI_CONTROLS_TAB_NAV	Navigace
+$UI_CONTROLS_CYCLE	Procházej<N>Obránce
+$UI_CONTROLS_CYCLE_NUMS	off_x:-5,off_y:0	COMMENT: moves the 'cycle defenders' text and associated buttons
+$UI_CONTROLS_SCROLL	Posun mapy,<N>Umístění obránců
+$UI_CONTROLS_MOVE_CURSOR	Posun kurzoru
+$UI_CONTROLS_VIRTUAL_MOUSE	Virtuální myš
+$UI_CONTROLS_CLICK	Klik
+$UI_CONTROLS_SPEED	Rychlost
+$UI_CONTROLS_ACCEL	Akcelerace
+$UI_CONTROLS_SLOWEST	Šnečí
+$UI_CONTROLS_SLOW	Pomalá
+$UI_CONTROLS_NORMAL	Normální
+$UI_CONTROLS_FAST	Rychlá
+$UI_CONTROLS_NONE	Žádná
+$UI_CONTROLS_PRESET_QWERTY	Qwerty
+$UI_CONTROLS_PRESET_LEFTY	Lefty
+$UI_CONTROLS_PRESET_AZERTY	Azerty
+$UI_CONTROLS_PRESET_QWERTZ	Qwertz
+$UI_CONTROLS_PRESET_DVORAK	Dvorak
+$UI_CONTROLS_PRESET_CUSTOM	Vlastní
+$UI_DOWNLOAD_WARNING	Vypněte si<N>blokování vyskakovacích oken!
+$UI_DOWNLOAD_BODY	Klikněte pro stažení verze hry<N>pro samostatné počítače.<N><N>Hra bude stažena v novém okně/záložce.<N>Může to chvilku trvat, takže vydržte a neklikejte netrpělivě znova.
+$UI_DOWNLOAD_LINUX	Linux
+$UI_DOWNLOAD_WINDOWS	Windows
+$UI_DOWNLOAD_MACINTOSH	Macintosh
+$UI_DOWNLOAD_SOUNDTRACK	Hudba
+$UI_CONFLICT_TITLE	Konflikt s úložistěm STEAM!
+$UI_CONFLICT_MSG	Nevíme jistě, která z těchto uložených her by měla být v pozici <SLOT>.<N>Vyber, kterou si chceš nechat.
+$UI_CONFLICT_CLOUD	ÚLOŽIŠTĚ
+$UI_CONFLICT_LOCAL	POČÍTAČ
+$UI_CONFLICT_BETTER	Myslíme si, že tahle je lepší
+$UI_CONFLICT_BUTTON	Použij tuhle
+$UI_CONFLICT_BUTTON_NUMS	font:13,x_off:0,y_off:-8
+$UI_CONFLICT_NGP	Nová hra+
+$UI_CONFLICT_BACKUP	Ulož nepoužitou pozici do souboru v:<N><LOC>
+$UI_GAMEPLAY_MISCELLANEOUS	Různé
+$UI_GAMEPLAY_CLOUD_SAVE	Pozice v úložišti
+$UI_GAMEPLAY_OFF	Vypnuto
+$UI_GAMEPLAY_ON	Zapnuto
+$UI_GAMEPLAY_TUTORIALS	Návody
+$UI_GAMEPLAY_DIALOGUE	Dialogy
+$UI_GAMEPLAY_NEVER	Nikdy
+$UI_GAMEPLAY_ALWAYS	Vždy
+$UI_GAMEPLAY_DEFAULT	Jen v nové bitvě
+$UI_GAMEPLAY_BATTLE_NUMBERS	Čísla v boji
+$UI_GAMEPLAY_HIDE	Schovej
+$UI_GAMEPLAY_SHOW	Ukazuj
+$UI_GAMEPLAY_TRACKING	Sběr dat
+$UI_GAMEPLAY_TRACK_YES	Sběr anonymních statistik ze hry
+$UI_GAMEPLAY_TRACK_NO	Ne, kámo, žádný sběr dat!
+$UI_GAMEPLAY_AUTO_UPDATE	Automatické aktualizace
+$UI_GAMEPLAY_ENABLE_UPDATER	Kontrola při spuštění
+$UI_GAMEPLAY_DISABLE_UPDATER	Vypnout
+$UI_GAMEPLAY_SLOW_FOOTNOTE	Může zpomalit hru
+$UI_SAVE_PATH	Uložené pozice...
+$UI_MOD_PATH	Rozšíření...
+$TOOLTIP_CHANGE_PATH_1	Poznámka:
+$TOOLTIP_CHANGE_PATH_2	Vaše staré soubory nebudou automaticky přestěhovány do nového adresáře.<N><N>Zůstanou v původním adresáři.
+$UI_VIDEO_IF_DOESNT_WORK	Pokud nové rozlišení nebude fungovat,<N>za pár vteřin se vrátí původní.
+$UI_VIDEO_RES_CHANGED	Rozlišení změněno.<N>Líbí se Ti to?<N><N>Za <TIME> sekund vrátím původní.
+$UI_VIDEO_SETTINGS	Nastavení grafiky
+$UI_VIDEO_WARNING	Nastavení grafiky je vypnuto při hraní v prohlížeči.
+$UI_VIDEO_WARNING2	Tvůj systém bohužel neumožnuje přepínání rozlišení uvnitř hry :(
+$UI_VIDEO_WARNING3	V režimu kompatibility je přepínání rozlišení vypnuto!
+$UI_VIDEO_MOUSE	Kurzor myši
+$UI_VIDEO_MOUSE_DEFAULT	Standardní
+$UI_VIDEO_MOUSE_FANCY	Pěkný
+$UI_VIDEO_PARTICLES	Částice
+$UI_VIDEO_SWIRL	Animace před bitvou
+$UI_VIDEO_AOE	Zvýraznění<N>plošných útoků
+$UI_VIDEO_CHANGE_RES	Změna rozlišení
+$UI_VIDEO_SCREEN_POS	Pozice na obrazovce
+$UI_VIDEO_CHANGE_RES_BUTTON	Změň!
+$UI_VIDEO_SHOW_ALL_RES	Ukaž všechna rozlišení
+$UI_VIDEO_RECOMMENDED	Doporučeno:
+$UI_VIDEO_STANDARD_RATIO	(Standardní)
+$UI_VIDEO_WIDESCREEN	(Širokoúhlé)
+$UI_VIDEO_PIXELS	Pixely
+$UI_VIDEO_BIT_DEPTH	Barevná hloubka
+$UI_VIDEO_REFRESH	Obnovit
+$UI_VIDEO_SCALE	Škálovat
+$UI_VIDEO_CAN_SLOW_GAME	(Může zpomalit hru)
+$UI_VIDEO_WINDOWED	V okně
+$UI_VIDEO_FULLSCREEN	Na celou obrazovku
+$UI_SAVE_ERROR_INCOMPAT	Nekompatibilní!
+$UI_SAVE_ERROR_INCOMPAT_TEXT	Chyba! Hraješ DEMO<N>a tahle pozice je z PLNÉ hry
+$UI_SAVE_DEMO_IMPORT	Import z dema
+$UI_SAVE_DEMO_IMPORT_TEXT	Tahle pozice je z DEMA. Možná dojde k drobným úpravám.<N>Nevadí to?
+$UI_SAVE_DEMO_NEWER	Tahle pozice je z novější verze hry,<N>možná nebude kompatibilní.<N>Mám to přesto zkusit?
+$UI_NORM_MOD_INCOMPAT_TEXT	<N>Pozice je z rozšíření,<N>možná nebude všechno fungovat, jak má.<N><N>Mám přesto provést import?
+$UI_MOD_NORM_INCOMPAT_TEXT	<N>Je zapnuto rozšíření, ale pozice je <N>z normální hry,<N>možná nebude všechno fungovat, jak má.<N><N>Mám přesto provést import?
+$UI_MOD_MOD_INCOMPAT_TEXT	<N>Pozice je z jiného rozšíření,<N>možná nebude všechno fungovat, jak má.<N><N>Mám přesto provést import?
+$UI_SAVE_DEMO_OLDER	Tahle pozice je ze starší verze hry,<N>možná dojde k drobným úpravám.<N>Nevadí to?
+$UI_SAVE_DEMO_ATTENTION	Pozor!
+$UI_SAVE_MENU_LOADED	Nahrávání ukončeno!
+$UI_SAVE_MENU_CHECK_GOG	Hledám aktualizace na GOGu!
+$UI_SAVE_MENU_DOWNLOAD	Získej verzi ke stažení
+$UI_SAVE_MENU_FULL_VERSION	Plná verze
+$UI_SAVE_MENU_KONG_XDEMO_LOGIN	Rozšířené demo - přihlaš se na Kongregate pro přístup k plné hře!
+$UI_SAVE_MENU_KONG_XDEMO	Rozšířené demo
+$UI_SAVE_MENU_KONG_DEMO_LOGIN_FULL	Demo - přihlaš se na Kongregate pro přístup k plné hře!
+$UI_SAVE_MENU_KONG_DEMO_LOGIN_XDEMO	Demo - přihlaš se na Kongregate pro přístup k rozšířené verzi!
+$UI_SAVE_MENU_KONG_DEMO	Demo
+$UI_SAVE_CONFIRM_DELETE	Opravdu smazat?
+$UI_SAVE_CONFIRM_DELETE_TEXT	TRVALE smazat<N>tuhle pozici?
+$SAVE_SLOT_PLAY	Hraj
+$SAVE_SLOT_PLAY_PLUS	Hraj +
+$SAVE_SLOT_NEW_GAME	Nová hra
+$SAVE_SLOT_NEW_GAME_PLUS	Nová hra +
+$SAVE_SLOT_EXPORT	Exportuj
+$SAVE_SLOT_IMPORT	Importuj
+$SAVE_SLOT_DELETE	Smaž
+$UI_DEMO_SAVES_DETECTED	Našel jsem uložené pozice z dema!
+$UI_DEMO_IMPORT_SAVES	Importovat uložené pozice z dema?
+$UI_CLOUD_UNKNOWN	Pozice v úložišti
+$UI_CLOUD_UNKNOWN_TEXT	Zapnout ukládání pozic v úložišti STEAM?
+$UI_CLOUD_UNKNOWN_TEXT_2	Tohle nastavení můžete kdykoliv změnit v:<N><N>Možnosti:Různé
+$UI_MOD_TITLE	Rozšíření
+$UI_MOD_LOAD_EXISTING	Nahrát rozšíření
+$UI_MOD_CREATE_NEW	Vyrobit nové rozšíření
+$UI_MOD_BROWSE_QUEUE	Moje rozšíření
+$UI_MOD_BROWSE_WORKSHOP	Steam Workshop
+$UI_MOD_WEB_BROWSER	Webový prohlížeč
+$UI_MOD_INSTALL_STANDALONE	Instalovat ze ZIP archivu
+$UI_MOD_INSTALL_ERROR	Složka pro rozšíření s tímto názvem již existuje.<N>Mám zkusit instalovat s přidanou příponou?
+$UI_MOD_INSTALL_ERROR2	Rozšíření se nepodařilo nainstalovat.
+$UI_DEFQ_MODS	Rozšíření
+$UI_MOD_TITLE	Rozšíření
+$UI_MOD_DATA_ONLY	Jen data (1MB)
+$UI_MOD_SPRITES	 +4MB grafiky postav
+$UI_MOD_MOVIES	 +13MB scén
+$UI_MOD_BKGS	 +42MB obrázků pozadí
+$UI_MOD_TEMPLATE_SETTINGS	Nastavení šablon rozšíření
+$UI_MOD_SELECT_DIR	Vyber adresář pro rozšíření
+$UI_SAVE_SELECT_DIR	Vyber adresář pro pozice
+$UI_MOD_LOAD_MOD	Nahraj rozšíření
+$UI_MOD_EXISTS	Rozšíření nalezeno.<N>Nahrát?
+$UI_MOD_MISSING	Nemůžu najít soubor settings.xml.<N>Buď v tomhle adresáři není žádné rozšíření,<N>nebo je porušené.
+$UI_MOD_NOT_DIR	Cože!<N>Vždyť to není adresář!<N>Zkus to znovu.
+$UI_MOD_LOADING	Nahrávám rozšíření...
+$UI_MOD_PLEASE_WAIT	Prosím počkej<N>než se rozšíření nahraje
+$UI_MOD_PROGRESS	Činnost <TASK><N>Soubor <FILE><N>
+$UI_MOD_LOAD_FINISH	Nahrávání ukončeno
+$UI_MOD_LOAD_FINISH_TEXT	Rozšíření bylo nahráno.<N>Hra se teď restartuje.
+$UI_MOD_LOAD_FAIL	Nahrávání selhalo!
+$UI_MOD_LOAD_FAIL_TEXT	Chyba při nahrávání rozšíření:
+$UI_MOD_NAME	Vlož jméno pro tohle rozšíření
+$UI_MOD_EXPORTING	Exportuji data
+$UI_MOD_EXPORT_FINISH	Export hotov!
+$UI_MOD_EXPORT_FINISH_TEXT	Tvoje rozšíření se nachází zde:
+$UI_MOD_EXPORT_CANCEL	Export zrušen!
+$UI_MOD_EXPORT_CANCEL_TEXT	Soubory se nachází zde:
+$UI_MOD_EXPORT_FAIL	Export selhal!
+$UI_MOD_EXPORT_FAIL_TEXT	Došlo k chybě!
+$UI_MOD_EXPORT_CHURN	Činnost <TASK_PROGRESS><N><N><TASK><N><PROGRESS>
+$UI_MOD_DEFQ_SAVE	Uložené pozice Defender's Quest (*.dfq)
+$UI_MOD_ALL_FILES	Všechnt soubory (*.*)
+$UI_MOD_AUTHOR	Autor
+$UI_MOD_PLAY	Hrát
+$UI_MOD_SHARE	Sdílet
+$UI_MOD_UPDATE	Aktualizovat
+$UI_MOD_EDIT	Editovat
+$UI_MOD_WORKSHOP	Workshop
+$UI_MOD_SHARE_TITLE	Sdílet rozšíření
+$UI_MOD_SHARE_TEXT_LOCAL	Zabalí rozšíření do jednoho souboru pro snazší distribuci.
+$UI_MOD_SHARE_TEXT_STEAM	Zabalí rozšíření a nahraje jej do Steam Workshopu.
+$UI_MOD_UPDATE_TEXT_STEAM	Aktualizuje rozšíření ve Steam Workshopu.
+$UI_MOD_ZIP_PROGRESS	Činnost <TASK><N>Soubor <FILE><N>
+$UI_MOD_ZIP_FINISH	Balení hotovo
+$UI_MOD_ZIP_FINISH_TEXT	Rozšíření úspěšně zabaleno.
+$UI_MOD_ZIP_FAIL	Balení selhalo!
+$UI_MOD_ZIP_FAIL_TEXT	Došlo k chybě při vytváření ZIP archivu.
+$UI_MOD_STEAM_UPLOAD	Nahrávám na Steam...
+$UI_MOD_STEAM_WAIT	Čekám na odpověd od Steamu... <N>(Může to chvilku trvat)
+$UI_MOD_STEAM_SEND	Posílám na Steam
+$UI_MOD_SHARED	Sdíleno
+$UI_MOD_SUBSCRIBED	Přihlášeno
+$UI_MOD_ZIP_STEAM_FAIL	Nahrání selhalo!
+$UI_MOD_ZIP_STEAM_FAIL_TEXT	Nepovedlo se nahrát rozšíření do<N>Steam Workshopu.
+$UI_MOD_ZIP_STEAM_FINISH	Nahrání hotovo
+$UI_MOD_ZIP_STEAM_FINISH_TEXT	Rozšíření nahráno do<N>Steam Workshopu
+$UI_MOD_UPDATE_STEAM_FINISH	Aktualizace hotova
+$UI_MOD_UPDATE_STEAM_FINISH_TEXT	Rozšíření ve Steam Workshopu<N>bylo aktualizováno
+$UI_MOD_ZIPPING	Balím soubory rozšíření
+$UI_MOD_MISSING_SUBSCRIBE	Přihlášené soubory
+$UI_MOD_MISSING_SUBSCRIBE_TEXT	Chceš stáhnout:<N><NUM> přihlášených souborů z workshopu?
+$UI_MOD_DOWNLOAD	Stahuji rozšíření
+$UI_MOD_DOWNLOAD_TEXT	
+$UI_MOD_LATER	Později
+$UI_EQUIP_WHO_WILL	Kdo si vezme:
+$UI_EQUIP_CANT_SELL_UNIQUE	Unikátní předměty nelze prodat!
+$UI_EQUIP_SELL_OLD_WEAPON_FOR	Prodat starou zbraň za <SELL_PRICE>?
+$UI_EQUIP_SELL_OLD_ARMOR_FOR	Prodat staré brnění za <SELL_PRICE>?
+$UI_RECRUIT_CLASS_FULL	Třída je plná!
+$UI_RECRUIT_BERSERKER_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_RANGER_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_KNIGHT_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_MAGE_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_HEALER_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_DRAGON_NUMS	font:14,x_off:0,y_off:0
+$UI_BATTLE_MORE	další
+$UI_BATTLE_SEND_NEXT	Pošli<N>DALŠÍ
+$UI_BATTLE_NEXT	DALŠÍ
+$UI_BATTLE_WAVES	Vln
+$UI_BATTLE_WAVE	Vlna
+$UI_BATTLE_WAVE_BUTT_NUMS	
+$UI_BATTLE_CASH_OUT	Konec
+$UI_BATTLE_CASH_OUT?	Konec boje?
+$UI_BATTLE_CASH_OUT_TEXT	Ukončit bitvu? (Za splněné cíle dostaneš odměnu)
+$UI_BATTLE_WAVE_BUTT_NUMS	font_next:13,font_cash_out:11,font_next_x_off:0,font_next_y_off:-4,font_cash_out_x_off:0,font_cash_out_y_off:-1
+$FB_LIKE_US_TEXT	Lajkněte nás na Facebooku <N>a získejte tuhle odměnu ZADARMO!
+$FB_LIKE_US_YES	Jasně!
+$FB_LIKE_US_NO	Ani smykem.
+$FB_THANKS_TEXT	Díky za lajk na Facebooku!<N>Odměnu jste dostali!
+$FB_THANKS_OK	Ok.
+$FB_THANKS_SUCKS	Facebook stojí za prd
+$FB_REBEL_TEXT	Správně, jen jim zasol!<N>a tohle máš za odměnu.
+$FB_SECOND_PITCH	Pořád to můžeš dostat <N>za lajk na Facebooku!
+$FB_SECOND_PITCH_YES	Ok!
+$FB_SECOND_PITCH_NO	Nikdy!
+$FB_NUMS	font:16,y_off:0,x_off:0,width_off:0
+$FB_HARD_SELL_TEXT	Jsi si jistý?<N>Podívej! Krásně se leskne!
+$FB_HARD_SELL_YES	No tak dobře...
+$FB_HARD_SELL_NO	Řekl jsem NE!
+$FB_PERSISTENT_TEXT	No dobře, ukecals mě!<N>Dostaneš to stejně :)
+$FB_PERSISTENT_OK	Vyhrál jsem!
+$FB_HARD_SELL_NUMS	yes_font:16,no_font:16,yes_off_y:0,yes_off_x:0,no_off_y:0,no_off_x:0
+$FB_PERSISTENT_NUMS	yes_font:16,no_font:16,yes_off_y:0,yes_off_x:0,no_off_y:0,no_off_x:0
+$FB_THIS_ITEM_WILL_NOW	Odteď bude tenhle kousek k dispozici ve výbavě všech hráčů.
+$DEFQ2_CLICK_TEXT	Defender's Quest II je na cestě!<N>Koukni na to a dostaneš odměnu!
+$DEFQ2_SECOND_PITCH	Odměna je pořád k dispozici výměnou <N>za návštěvu webu <N>Defender's Quest II!
+$BOOK_PSI_TAX	PSI daň: 
+$BOOK_COST_MULT	Cena kouzla krát 
+$BOOK_COOL_MULT	Obnovení kouzla krát 
+$STATUS_DESC_FB_HAPPY	+<PERCENT>% rychlost.	COMMENT: Status descriptions have LOTS of variables. Ask Lars is you have any questions.
+$STATUS_DESC_FB_SAD	-<PERCENT> % rychlosti.
+$STATUS_DESC_FB_BORED	Nebudu se obtěžovat s pohybem.
+$STATUS_DESC_FB_LOL	+<PERCENT> % rychlosti.
+$STATUS_DESC_FB_OMG	+<PERCENT> % rychlosti, -<PERCENT> % odolnosti.
+$STATUS_DESC_EXISTENTIAL	-<PERCENT> % rychlosti, +<PERCENT> % odolnosti.
+$STATUS_DESC_TROLL	Uhýbá útokům s <PERCENT>% pravděpodobností.
+$STATUS_DESC_ANONYMOUS	+<PERCENT> % šance na uhnutí. Trolly trefí vždy za <PERCENT2> % poškození
+$STATUS_DESC_DARK	Uhýbá cíleným útokům s <PERCENT>% pravděpodobností.
+$STATUS_DESC_LIGHT	Odstraňuje temnotu.
+$STATUS_DESC_FRENZY	Útoky zrychlené o <M_MULT_PERCENT> %
+$STATUS_DESC_BLINDED	Jeho útoky minou s <PERCENT>% pravděpodobností.
+$STATUS_DESC_BLEED	Utrpí navíc +<PERCENT> % poškození.
+$STATUS_DESC_EVER_POISON	<INTI> HP/sek.
+$STATUS_DESC_POISON	<INTI> HP/sek na <TIME> sek
+$STATUS_DESC_TOXIC	<INTI> HP/sek na <TIME> sek, po smrti vybuchne a způsobí poškození <PERCENT2>% HP obránce
+$STATUS_DESC_EVER_TOXIC	<INTI> HP/sek, po smrti vybuchne a způsobí poškození <PERCENT2>% HP obránce
+$STATUS_DESC_DISEASE	Regenerace snížena o <PERCENT> %
+$STATUS_DESC_SINGLE_STUN	Nemůže se hýbat, ale příště už se to nestane.
+$STATUS_DESC_STUN	Nemůže se hýbat.
+$STATUS_DESC_BURN	<AMT_1DIG> HP/sek<N>Led to zruší.
+$STATUS_DESC_INSPIRED	Působí o +<M_MULT_PERCENT> % větší poškození.
+$STATUS_DESC_FREEZE	Nemůže se hýbat.<N>Oheň to zruší.
+$STATUS_DESC_CHILL	-<PERCENT> % rychlosti.<N>Oheň to zruší.
+$STATUS_DESC_SLOW	-<PERCENT> % rychlosti.
+$STATUS_TIME_LEFT	<TIME_LEFT>/<TIME> sekund zbývá.
+$STATUS_TIME_FOREVER	Napořád.
+$FLAV_DESC_LIGHT	TEMNÍ nepřátelé utrpí +<AMT_2DIG>x<EXTRA> poškození a dají se snáze zasáhnout po dobu <TIME><EXTRA_TIME> sek.
+$FLAV_DESC_LIGHT_SHORT	TEMNÍ nepřátelé utrpí více poškození a dají se snáze zasáhnout.
+$FLAV_DESC_BLINDED	Nepřátelské útoky minou s pravděpodobností <PERCENT> % <EXTRA> po dobu <TIME><EXTRA_TIME> sek.
+$FLAV_DESC_BLINDED_SHORT	Nepřátelské útoky pár vteřin občas minou.
+$FLAV_DESC_CONFUSED	Nepřítel půjde špatným směrem po dobu <TIME><EXTRA_TIME> sek.
+$FLAV_DESC_CONFUSED_SHORT	Nepřítel půjde chvíli špatným směrem.
+$FLAV_DESC_BLEED	Nepřítel utrpí o <PERCENT> %<EXTRA> více poškození ze zásahů po dobu <TIME><EXTRA_TIME> sek.
+$FLAV_DESC_BLEED_SHORT	Nepřítel bude chvíli více poškozován zásahy.
+$FLAV_DESC_KNOCK_BACK	Nepřítel je posunut zpět o <AMT_1DIG><EXTRA> polí.
+$FLAV_DESC_KNOCK_BACK_SHORT	Nepřítel je posunut o kousek zpět.
+$FLAV_DESC_DISEASE	Nepřítelova regenerace je snížena o <PERCENT> %<EXTRA>.
+$FLAV_DESC_DISEASE_SHORT	Nepřítelova regenerace je snížena.
+$FLAV_DESC_POISON	Nepřítel utrpí každou vteřinu navíc <PERCENT> %<EXTRA> původního poškození po dobu <TIME><EXTRA_TIME> sek.
+$FLAV_DESC_POISON_DIRECT	Nepřítel utrpí navíc <AMTDMG><EXTRA> HP/sek po dobu <TIME><EXTRA_TIME> sek.
+$FLAV_DESC_POISON_SHORT	Nepřítel trpí poškozením v čase.
+$FLAV_DESC_SINGLE_STUN	Nepřítel se nemůže hýbat po dobu <TIME><EXTRA_TIME> sek. Každého nepřítele to zastaví pouze jednou.
+$FLAV_DESC_SINGLE_STUN_SHORT	Nepřítel se nemůže pár vteřin hýbat. Každého nepřítele to zastaví pouze jednou.
+$FLAV_DESC_STUN	Nepřítel se nemůže hýbat po dobu <TIME><EXTRA_TIME> sek.
+$FLAV_DESC_STUN_SHORT	Nepřítel se nemůže pár vteřin hýbat.
+$FLAV_DESC_AUTO_KILL	Nepřítel poškozený pod <PERCENT> %<EXTRA> HP automaticky zemře.
+$FLAV_DESC_AUTO_KILL_SHORT	Dostatečně oslabený nepřítel automaticky zemře.
+$FLAV_DESC_BURN	Nepřítel utrpí každou vteřinu navíc <AMTDMG><EXTRA> HP/sek po dobu <TIME><EXTRA_TIME> sek. Led to zruší.
+$FLAV_DESC_BURN_SHORT	Nepřítel trpí poškozením v čase. Led to zruší.
+$FLAV_DESC_INSPIRE	Přátelé působí o <M_MULT_PERCENT> %<EXTRA> více poškození po dobu <TIME><EXTRA_TIME> sek.
+$FLAV_DESC_INSPIRE_SHORT	Přátelé dočasně působí větší poškození.
+$FLAV_DESC_FREEZE	Nepřítel se nemůže hýbat po dobu <TIME><EXTRA_TIME> sek. Oheň to zruší.
+$FLAV_DESC_FREEZE_SHORT	Nepřítel se nemůže pár vteřin hýbat. Oheň to zruší.
+$FLAV_DESC_ARMOR_PIERCE_DIRECT	Útok ignoruje <AMTDMG><EXTRA> bodů brnění.
+$FLAV_DESC_ARMOR_PIERCE_AMT_LESS_1	Ignoruje 1 bod brnění za každých <INV_AMOUNT><EXTRA> bodů poškození útoku.
+$FLAV_DESC_ARMOR_PIERCE_AMT_GRTR_1	Ignoruje <AMT_1DIG><EXTRA> bodů brnění za každý bod poškození útoku.
+$FLAV_DESC_ARMOR_PIERCE_SHORT	Útok ignoruje část brnění.
+$FLAV_DESC_ARMOR_BREAK_DIRECT	Útok zničí <AMTDMG><EXTRA> bodů brnění.
+$FLAV_DESC_ARMOR_BREAK_AMT_LESS_1	Zničí 1 bod brnění za každých <INV_AMOUNT><EXTRA> bodů poškození útoku.
+$FLAV_DESC_ARMOR_BREAK_AMT_GRTR_1	Zničí <AMT_2DIG><EXTRA> bodů brnění za každý bod poškození útoku.
+$FLAV_DESC_ARMOR_BREAK_SHORT	Útok ničí část brnění..
+$FLAV_DESC_CHILL	Nepřítel je zpomalen o <PERCENT> %<EXTRA> po dobu <TIME><EXTRA_TIME> sek. Oheň to zruší.
+$FLAV_DESC_CHILL_SHORT	Nepřítel je na pár vteřin zpomalen. Oheň to zruší.
+$FLAV_DESC_SLOW	Nepřítel je zpomalen o <PERCENT> %<EXTRA> po dobu <TIME><EXTRA_TIME> sek.
+$FLAV_DESC_SLOW_SHORT	Nepřítel je dočasně zpomalen.
+$FLAV_DESC_STRIKE_THROUGH	Útok může zasáhnout až <INTI><EXTRA> dalších nepřátel.
+$FLAV_DESC_STRIKE_THROUGH_SHORT	Útok může zasáhnout více nepřátel.
+$FLAV_DESC_CRITICAL	Poškození = <AMT_1DIG>x<EXTRA> normálního.
+$FLAV_DESC_CRITICAL_SHORT	Poškození je vyšší než normálně.
+$STAT_DESC_HP	ŽIVOT<N>Když se sníží na nulu, je obránce vyřazen z boje.
+$STAT_DESC_SPEED	RYCHLOST<N>Rychlost obnovování útoků:<N>Každých <SPEED_SHOW_MULT> bodů zrychlí obnovování o 100 %
+$STAT_DESC_SPEED_ENEMY	RYCHLOST<N>Jak rychle se nepřítel pohybuje a útočí. 1 bod = 1 pole za sekundu.
+$STAT_DESC_ATTACK	ÚTOK<N>Zvyšuje poškození pro všechny techniky.
+$STAT_DESC_ATTACK_ENEMY	ÚTOK<N>Poškození způsobené nejsilnějším útokem.
+$STAT_DESC_DEFENSE	OBRANA<N>Snížení poškození z nepřátelského útoku.
+$STAT_DESC_DEFENSE_ENEMY	BRNĚNÍ<N>Počet bodů poškození, které brnění absorbuje.
+$STAT_DESC_STRONGS	ODOLNOSTI
+$STAT_DESC_WEAKS	SLABINY
+$STAT_DESC_REGEN	REGENERACE<N>Kolik HP obnoví za sekundu.
+$STAT_DESC_REGEN_ENEMY	<RE>$STAT_DESC_REGEN
+$STAT_DESC_EVADE	ÚHYB<N>Šance úplně se vyhnout útoku.
+$STAT_DESC_EVADE_ENEMY	ÚHYB<N>Šance úplně se vyhnout útoku.
+$STAT_DESC_RANGE	DOSAH<N>Dosah útoku v polích.
+$STAT_DESC_RANGE_ENEMY	DOSAH<N>Dosah útoku v polích.
+$STAT_DESC_SPELLS	KOUZLA
+$STAT_DESC_PORCUPINE	TRNY<N>Body poškození, které způsobí každému útočníkovi, který jej napadne nablízko.
+$STAT_DESC_PHASING	FÁZE<N>Periodicky přechází do fáze mimoprostoru a zpět. V mimoprostoru nemůže být napaden cílenými útoky.<N>Význam: pole (ve fázi, mimo fázi).
+$STAT_DESC_BARRIER	OCHRANA<N>Vrstvy magické ochrany před poškozením. Jen nejsilnější magie dokáže ochrannou vrstvu zničit.
+$STAT_DESC_FINAL_HIT	ÚTOK NA KONCI<N>Kolik poškození dostane <FINAL_HIT_TARGET>, když tento nepřítel projde.
+$STRONG_DMG_MULT	<PERCENT>% odolnost vůči typu <FLAVOR>
+$STRONG_EVADE	<PERCENT>% uhýbání <FLAVOR>
+$SKILL_DESC_PSI_COST	Psi cena
+$SKILL_DESC_COOLDOWN	obnovení
+$SKILL_DESC_EFFECT	efekt
+$SKILL_DESC_TARGET	Cíle
+$SKILL_DESC_HITS	Zásahy
+$SKILL_DESC_HITS_NUM	Zásahů
+$SKILL_DESC_SPECIAL	Akce
+$SKILL_DESC_SPLASH	Plošný
+$SKILL_DESC_DMG	Poškození
+$SKILL_DESC_ADDS_CHANCE_TO_ALL	Přidá <PERCENT>%<EXTRA> šanci na <FLAV>* ke všem útokům.
+$SKILL_DESC_ADDS_CHANCE_TO_ONE	Přidá <PERCENT>%<EXTRA> šanci na <FLAV>* ke <LQ><ATTACK><RQ>.
+$SKILL_DESC_ADDS_TO_ALL	Přidá <FLAV>* ke všem útokům.
+$SKILL_DESC_ADDS_TO_ONE	Přidá <FLAV>* ke <LQ><ATTACK><RQ>.
+$SKILL_DESC_TOTAL_BONUS	Celkový bonus k <STAT>*<N>bude +<AMOUNT><EXTRA>.
+$SKILL_SPECIAL_HEAL	<RE>$MISC_HEAL
+$SKILL_SPECIAL_COUNTER	<RE>$MISC_COUNTER
+$SKILL_SPECIAL_ATTACK	<RE>$MISC_ATTACK
+$MISC_FOE_SINGULAR	nepřítel
+$MISC_FOE_PLURAL	nepřátelé
+$MISC_FRIEND_SINGULAR	přítel
+$MISC_FRIEND_PLURAL	přátelé
+$MISC_1_FOE	1 nepřítel
+$MISC_X_FOES	<NUM> nepřátel
+$MISC_1_FRIEND	1 přítel
+$MISC_X_FRIENDS	<NUM> přátel
+$MISC_ALL_FOES	Všichni zlí v dosahu
+$MISC_ALL_FOES_IN	Vš. zlí v dosahu <TILES> polí
+$MISC_ALL_FRIENDS	Všichni hodní v dosahu
+$MISC_ALL_FRIENDS_IN	Vš. hodní v dosahu <TILES> polí
+$MISC_ALL_TARGETS	Cíle v dosahu
+$MISC_ALL_TARGETS_IN	Cíle v dosahu <TILES> polí
+$MISC_X_HITS_FOE	<NUM> na nepřítele
+$MISC_X_HITS_FRIEND	<NUM> na přítele
+$MISC_X_HITS_TARGET	<NUM> na cíl
+$MISC_X_HITS_TOTAL	<NUM> celkem
+$MISC_UP_TO_X_FRIENDS	Až <NUM> <FRIEND>
+$MISC_UP_TO_X_FOES	Až <NUM> <FOE>
+$MISC_SPLASH_DAMAGE	Plošný
+$MISC_SPLASH_LINE	<AMT> poškození, <TILES> polí
+$MISC_SAVED!	BRNĚNÍ!
+$MISC_MISS	UHNUL!
+$MISC_COUNTER	Protiútok
+$MISC_COUNTER!	PROTIÚTOK!
+$MISC_PROBLEM?	problém?
+$MISC_NOM!	MŇAM!
+$MISC_ACHIEVEMENT!	Úspěch!
+$BASE_ATTACK	Základní útok
+$BONUS_DEFENSE	Bonus k obraně
+$DECIMATE_BY	Zdecimuje o <PERCENT> %
+$EN_SPELL_FRENZY_DESC	+<PERCENT> rychlosti na <SEC> sek.
+$EN_SPELL_HEAL_DESC	Uzdrav: <PERCENT> HP
+$EN_SPELL_DRAGON_FIRE_1_DESC	<DMG> poš.
+$EN_SPELL_DRAGON_FIRE_2_DESC	<LOW>-<HIGH> poš.
+$SPECIAL_IMPROVES	Zlepší <FLAVOR>:
+$SPECIAL_PLUS_FLAV	Přidá <FLAVOR>:
+$SPECIAL_SAVE_VS	Ochrání proti . <FLAVOR> pokud jsou HP >= <PERCENT> %
+$TARGET_FIRST_TITLE	Miř na PRVNÍ
+$TARGET_FIRST_TEXT	Miř na nepřítele nejblíže konci.
+$TARGET_LAST_TITLE	Miř na POSLEDNÍ
+$TARGET_LAST_TEXT	Miř na nepřítele nejdále od konce.
+$TARGET_STRONG_TITLE	Miř na NEJSILNĚJŠÍ
+$TARGET_STRONG_TEXT	Miř na nepřítele s nejvíce HP + brnění.
+$TARGET_WEAK_TITLE	Miř na NEJSLABŠÍ
+$TARGET_WEAK_TEXT	Miř na nepřítele s nejméně HP + brnění.
+$TARGET_FAST_TITLE	Miř na NEJRYCHLEJŠÍ
+$TARGET_FAST_TEXT	Miř na nejrychlejšího nepřítele.
+$TARGET_HEAL_TITLE	Priorita LÉČENÍ
+$TARGET_HEAL_TEXT	Kdykoliv je to možné, uzdravuj přátele, i když je k dispozici lepší útočná technika.
+$TARGET_FIGHT_TITLE	Priorita BOJ
+$TARGET_FIGHT_TEXT	Útoč na nepřítele, kdykoliv je to možné, i když je k dispozici lepší léčivá technika.
+$TARGET_BOTH_TITLE	Normální priorita
+$TARGET_BOTH_TEXT	Používej techniky podle úrovně.
+$TARGET_CHEAP_TITLE	NEJSLABŠÍ technika
+$TARGET_CHEAP_TEXT	Šetři si silnější útoky, pokud na zabití cíle stačí nějaký dostupný slabší.
+$TARGET_EFFECT_TITLE	Optimalizuj EFEKT
+$TARGET_EFFECT_TEXT	Vybírej cíl podle toho, který z možných je nejméně ovlivněn statusem Tvých útoků.
+$TARGET_BULLDOG_TITLE	BULDOK
+$TARGET_BULLDOG_TEXT	Jak si jednou vybereš cíl, per to do něj, dokud můžeš.<N><N>Pro pokročilé hráče!
+$TARGET_CHANCE_TITLE	Nejlepší ŠANCE
+$TARGET_CHANCE_TEXT	Miř na nepřítele, který má nejmenší šanci útoku uhnout nebo odolat.
+$TARGET_BOSS_TITLE	Miř na ŠÉFY
+$TARGET_BOSS_TEXT	Když není zapnuto, ignoruj nepřátelské postavy.
+$TARGET_SAVE_TITLE	ULOŽ nastavení
+$TARGET_SAVE_TEXT	Uloží nastavení postavy, použije se automaticky i v dalších bitvách.
+$CONFIRM_RES_CHANGE	Rozlišení bylo změněno.<N>Jsi spokojen?<N><N>Vrátím předchozí nastavení za <SECONDS> sekund.
+$CONFIRM_RESTART_TITLE	Začít znova?
+$CONFIRM_RESTART_TEXT	Přijdeš o získané zkušenosti a peníze z téhle bitvy.
+$CONFIRM_QUIT_TITLE	Zrušit bitvu?
+$CONFIRM_QUIT_TEXT	<RE>$CONFIRM_RESTART_TEXT
+$MISC_LEADER	vůdce
+$MISC_LEVEL	úroveň
+$MISC_LVLUP	nová úroveň
+$MISC_LEVEL_UPX	Nová úroveňx
+$MISC_LEVEL_UP!	Nová úroveň!
+$MISC_ANONYMOUS	anonym
+$MISC_LEVEL_SHORT	ÚR
+$PARTY_HP	HP
+$PARTY_PSI	PSI
+$PARTY_XP	XP
+$PARTY_ATTACK	Útok:<T>
+$PARTY_RANGE	Dosah:<T>
+$PARTY_SPEED	Rychlost:<T>
+$PARTY_DEFEND	Brnění:<T>
+$PARTY_EVADE	Uhýbání:<T>
+$PARTY_REGEN	Regenerace:<T>
+$MISC_HP	život
+$MISC_HP_SHORT	HP
+$MISC_PSI	psi
+$MISC_SPEED	rychlost
+$MISC_SPEED_SHORT	RYCH
+$MISC_ATTACK	útok
+$MISC_ATTACK_SHORT	ÚT
+$MISC_ARMOR	brnění
+$MISC_ARMOR_SHORT	BRN
+$MISC_EVADE	uhýbání
+$MISC_EVADE_SHORT	UH
+$MISC_EVASION	uhýbání
+$MISC_DEFEND	obrana
+$MISC_DEFENSE	obrana
+$MISC_DEFENSE_SHORT	OBR
+$MISC_RANGE	Dosah
+$MISC_RANGE_SHORT	DOS
+$MISC_REGEN_LONG	regenerace
+$MISC_REGEN	regen
+$MISC_REGEN_SHORT	REG
+$MISC_OF_DAMAGE	poškození
+$MISC_DAMAGE	poškození
+$MISC_DAMAGE_SHORT	POŠ
+$MISC_DAMAGE_RESIST	odolnost vůči poškození
+$MISC_RESIST	odolnost vůči <SOMETHING>
+$MISC_VS	proti
+$MISC_TO	na
+$MISC_VERSUS	proti
+$MISC_DEF_SHORT	OBR
+$MISC_PHASES	fázuje
+$MISC_SWIMS	plave
+$MISC_WALKS_ON	chodí po
+$MISC_HEAL	uzdravuje
+$MISC_DEATH_SPLASH	posmrtný výbuch
+$MISC_PORCUPINE	trny
+$MISC_DARK	temný
+$MISC_DARK_DESC	75% šance uhnout útoku
+$MISC_SPAWNS	zrodí
+$MISC_STRENGTHS	Odolnosti
+$MISC_WEAKNESSES	Slabiny
+$MISC_IMMUNE_TO	Imunní na <SOMETHING>
+$MISC_AMOUNT	počet
+$MISC_AMOUNT_SHORT	poč.
+$MISC_SECOND	sekunda
+$MISC_SECONDS	sekund
+$MISC_SECOND_SHORT	sek
+$MISC_SECONDS_SHORT	sek
+$MISC_CHANCE	šance
+$MISC_THRESHOLD	limit
+$MISC_BASE_ATTACK	vlastní útok
+$MISC_BONUS_DEFENSE	vlastní obrana
+$MISC_SAVED	uloženo
+$MISC_UNSAVED	neuloženo
+$MISC_EXIT	odejít
+$MISC_QUIT	odejít
+$MISC_CLOSE	zavřít
+$MISC_TRY_AGAIN	Zkusit znovu
+$MISC_RANDOM	Náhoda
+$MISC_HIRE	Najmi!
+$MISC_CANT_AFFORD	Nemáš na to!
+$MISC_CONFIRM_RECRUIT	Potvrď najmutí
+$MISC_CONFIRM_CHANGE	Potvrď změnu
+$MISC_MAKE_CHANGE	Udělat tyhle změny?
+$MISC_HIRE_Q	Najmout <NAME> <CLASS> za <N><SCRAP> prachů?
+$MISC_MODS	Rozšíření
+$MISC_CONFIG_DIR	Složka s pozicemi
+$MISC_LANGUAGES	Jazyky
+$MISC_PLEASE_ENTER_A_NAME!	<N>Prosim, vlož jméno!
+$MISC_ARE_YOU_SURE	Jsi si jistý?
+$MISC_NEXT	další
+$MISC_PREVIOUS	předchozí
+$MISC_PREV	předchozí
+$MISC_CANCEL	zpět
+$MISC_UNDO_ALL	zrušit vše
+$MISC_UNDO	zrušit
+$MISC_DOWNLOAD	stáhnout
+$MISC_BEGIN	začít
+$MISC_LEAVE	odejít
+$MISC_WEAPONS	zbraně
+$MISC_ARMOR	brnění
+$MISC_RECRUIT	najímání
+$MISC_TALK	mluvit
+$MISC_QUIT	odejít
+$MISC_ENTER	vejít
+$MISC_YES	ano
+$MISC_NO	ne
+$MISC_OK	ok
+$MISC_ACCEPT	OK
+$MISC_BACK	zpět
+$MISC_REFUSE	odmítnout
+$MISC_RESTART	restartovat
+$MISC_OKAY	ok
+$MISC_QUIT_BATTLE	ukončit bitvu
+$MISC_NONE	žádné
+$MISC_SLOW	pomalá
+$MISC_FAST	rychlá
+$MISC_XP	zkuš.
+$MISC_EXPERIENCE	zkušenost
+$MISC_SCRAP	prachy
+$MISC_COST	cena
+$MISC_GAIN	cena
+$MISC_CASUAL	relax
+$MISC_CASUAL_SHORT	relax
+$MISC_EASY	snadné
+$MISC_EASY_SHORT	snadné
+$MISC_NORMAL	normální
+$MISC_NORMAL_SHORT	normální
+$MISC_ADVANCED	těžké
+$MISC_ADVANCED_SHORT	těžké.
+$MISC_EXTREME	extrémní
+$MISC_EXTREME_SHORT	extrémní
+$MISC_SELECT_CHALLENGE	Vyber obtížnost:
+$MISC_REWARD	Odměna:
+$MISC_PERFECT_BONUS	Perfekt bonus:
+$MISC_WAVES	Vlny
+$MISC_ENEMY_LEVELS	Úr. nepřátel
+$MISC_TYPES	Typy
+$MISC_PASS	zvládnuto
+$MISC_PERFECT	perfekt
+$MISC_PERFECT!	perfekt!
+$MISC_COMPLETE	hotovo
+$MISC_COMPLETE!	hotovo!
+$MISC_STRANGER	cizinec
+$MISC_DESCRIPTION	popis
+$MISC_DEFENDER	obránce
+$MISC_DEFENDERS	obránci
+$MISC_STATS	statistiky
+$MISC_STATUS	Stav
+$MISC_NO_AFFORD	NEMÁŠ NA TO
+$MISC_BUY	koupit
+$MISC_UPGRADE	vylepšit
+$MISC_SELL	prodat
+$MISC_NOTHING	nic
+$MISC_NOTHING!	nic!
+$MISC_SPECIAL	speciální
+$MISC_UNKNOWN	neznámý
+$MISC_MORE	dalších...
+$MISC_X_MORE	<X> další...
+$MISC_EQUIP	použít
+$MISC_CANT_EQUIP!	nelze použít
+$MISC_UNEQUIP	odložit
+$MISC_SKILLS	vlastnosti
+$MISC_SKILL	vlastnost
+$MISC_BOOST	vylepšení
+$MISC_SPELL	kouzlo
+$MISC_LOCKED	zamčeno
+$MISC_SKIP	přeskoč
+$MISC_NOTHING_TO_EQUIP	Nic k použití!
+$MISC_ENABLED	zapnuto
+$MISC_DISABLED	vypnuto
+$MISC_CONFIRM	potvrdit
+$MISC_YOU_SURE	Jsi si jistý?
+$MISC_LOADING	Nahrávám...
+$MISC_ENTER_TEXT	Enter Text:
+$MISC_LOADING_PERCENT	Nahrávám...<PERCENT>%
+$MISC_BATTLE	Bitva
+$MISC_TOWN	Město
+$MISC_JOURNAL	Deník
+$MISC_MOVIES	Scény
+$MISC_OPTIONS	Volby
+$MISC_CREDITS	Autoři
+$MISC_PARTY	Skupina
+$MISC_ERROR	chyba
+$MISC_ERROR!	chyba!
+$MISC_BONUS	Bonus
+$MISC_TIPS	Rady
+$MISC_CONTINUE	pokračuj
+$MISC_PLEASE_WAIT	Prosím čekej...
+$MISC_CLICK_HERE	klikni sem
+$MISC_ASSIGN_POINTS	Přiřaď<N>bodů
+$MISC_NOBODY	Nikdo
+$MISC_EMPTY	Nic
+$MISC_CHANGE	Změň
+$MISC_RESET	Zruš
+$MISC_DEFAULT	Původní
+$MISC_SELECT	Vyber
+$MISC_DESELECT_SPELL	Výběr kouzla zrušíš kliknutím mimo bitevní pole
+$DATA_DUMP_LOCALES	Exportuji lokalizace...
+$DATA_DUMP_DATA	Exportuji datové soubory...
+$DATA_DUMP_CUTSCENE	Exportuji scény...
+$DATA_DUMP_BKG	Exportuji pozadí...
+$DATA_DUMP_EMBED	Exportuji grafiku...
+$DATA_DUMP_IMAGES	Exportuji datové obrázky...
+$DATA_DUMP_TABLES	Exportuji tabulky...
+$DATA_DUMP_MOD_INFO	Exportuji info o rozšíření...
+$DATA_DUMP_MAP_FILES	Exportuji mapy...
+$DATA_DUMP_MAP_IMAGES	Exportuji obrázky map...
+$DATA_DUMP_AUDIO	Exportuji zvuky...
+$REWARD_NEXT_LEVEL	Odemkne další úroveň
+$REWARD_FINISH	Ukončí hru
+$REWARD_QUEST	Úkol splněn
+$REWARD_NO_XP	Nic!
+$REWARD_NO_GOLD	Nic!
+$REWARD_XP	+ <XP> XP
+$REWARD_GOLD	+ <GOLD> prachů
+$HERO_BLURB_SLAK	Podivný mladý muž, odvážný a labilní...
+$HERO_BLURB_KETTA	Nomádská lovkyně, cynická a protřelá...
+$HERO_BLURB_BAKAL	Starý mnich s jemným hlasem, hledající odpuštění za své hříchy...
+$HERO_BLURB_WRENNA	Poslední quaidská princezna, hnána touhou pomstít své padlé království...
+$HERO_BLURB_MARKOS	Hrdý mladý rytíř, toužící dokázat své kvality...
+$HERO_BLURB_NIRU	Surová a tajemná, tahle dračice svá tajemství nevyzradí...
+$TALK_ASH	Ashský uprchlík
+$TALK_QUAID	Quaidský uprchlík
+$TALK_NOMAD	Nomádský uprchlík
+$TALK_CULTIST	Kněz sektář
+$MAP_TEXT_LAIR	Doupě
+$MAP_TEXT_SHRINE	Svatyně
+$MAP_TEXT_HERMIT	Poustevník
+$MAP_TEXT_PRISON	Vězení
+$MAP_TEXT_UNKNOWN	???
+$MAP_TEXT_TREASURE	Doupě
+$MCGUFFIN_LEARN_SPELL	<MCG> se naučila nové kouzlo!
+$YOU_GOT_JOIN	<CLASS> <NAME><N>se přidal ke skupině!
+$YOU_GOT	Získal jsi
+$YOU_GOT_SCRAP	<SCRAP> peněz!
+$YOU_GOT_X	<NUM>x <THING>!
+$YOU_GOT_NO_EQUIP_YET	Nikdo ve tvé skupině nemůže <THING> použít.<N>Ale neboj, hraj dál a určitě časem získáš někoho, komu se to bude hodit.
+$YOU_GOT_NO_EQUIP	Tahle věc se nedá nosit.
+$TOOLTIP_CASUAL	V relax módu mají nepřátelé snížené životy a útok.
+$TOOLTIP_NORMAL	Normální mód.<N><N>Tady by měla většina hráčů začít.
+$TOOLTIP_ADVANCED	Těžší mód a větší odměna.<N><N>Vrať se sem, až budete dost silní.
+$TOOLTIP_EXTREME	Opravdová výzva, skvělá odměna.<N><N>Pořádně se připrav!
+$DATA_DUMP_TABLES	Exportuji tabulky...
+$DATA_DUMP_MAP_FILES	Exportuji mapy...
+$DATA_DUMP_MAP_IMAGES	Exportuji obrázky map...
+$DATA_DUMP_MOD_INFO	Exportuji info o rozšíření...
+$DATA_DUMP_LOCALE	Exportuji lokalizace...
+$DATA_DUMP_DATA	Exportuji datové soubory...
+$DATA_DUMP_CUTSCENE	Exportuji grafiku scén...
+$DATA_DUMP_BKG	Exportuji grafiku pozadí...
+$DATA_DUMP_AUDIO	Exportuji zvuky...
+$DATA_DUMP_EMBED	Exportuji vloženou grafiku...
+$DATA_DUMP_IMAGES	Exportuji datové obrázky...
+$TIP_00_TITLE	Nejde to?
+$TIP_00_TEXT	<N><N>Někdy je dobrý nápad vrátit se zpět a zahrát si nějakou předchozí bitvu na vyšší obtížnost a získat zkušenosti a peníze na nákup lepšího vybavení. Také můžeš zkusit obtížnost 'relax'.
+$TIP_10_TITLE	Klávesové zkratky
+$TIP_10_TEXT	Celou hru můžeš ovládat klávesnicí!<N><N>- vybírat kouzla<N>- vybírat obránce k přivolání<N>- vylepšovat a odvolávat obránce<N>- zastavit a spustit hru<N>- procházet aktivní obránce<N>- měnit rychlost a výběr cílů<N>- procházet ovládání tabulátorem<N>- posouvat kurzorem a klikat<N><N>(Všechny klávesové zkratky si můžeš nastavit v menu Volby)
+$TIP_20_TITLE	Vlastnosti
+$TIP_20_TEXT	Každý obránce získá jeden bod pro vlastnosti za každou úroveň.<N><N>Tyhle body můžeš na obrazovce skupiny přidělovat a odemknout tak nové schopnosti postavy v boji.<N><N>1) Techniky (kulaté) - akce v boji<N>2) Vlastnosti (hranaté) - pasivní schopnosti, ovlivňující postavu a její útoky.<N><N>Pokročilé techniky vyžadují vylepšení postavy v boji.
+$TIP_30_TITLE	Kdo získá zkušenosti?
+$TIP_30_TEXT	<N><N>Po bitvě získají stejné množství zkušeností všichni obránci, kteří byli na konci bitvy v boji a naživu.<N><N>Všichni ostatní získají polovinu zkušeností. Počet obránců nemá vliv na výši získaných zkušeností.<N><N>Tenhle postih můžeš změnit v menu Přístupnost.
+$TIP_40_TITLE	Svět
+$TIP_40_TEXT	Mapu světa můžeš posouvat tažením myší nebo pomocí klávesnice<N><N>Výchozí nastavení používá kurzorové klávesy.
+$TIP_50_TITLE	Odvolání za 100% Psi
+$TIP_50_TEXT	Odvolání obránce normálně vrací jen část použité PSI v závislosti na jejich aktuálním zdraví.<N><N>Pokud je ale odvoláš ještě dříve, než se objeví první nepřátelé, dostaneš zpátky 100%.
+$TIP_60_TITLE	Webové stránky a fórum
+$TIP_60_TEXT	Pokud potřebuješ poradit, navštiv web Defender's Quest na www.defendersquest.com!<N><N>Na fóru se můžeš zeptat ostatních hráčů či autorů hry, počíst na wiki nebo v blogu vývojářů.
+$TIP_70_TITLE	Umisťování obránců
+$TIP_70_TEXT	Obránce můžeš umístit do boje i pomocí klávesnice.<N><N>Výchozí nastavení používá kurzorové klávesy.
+$TIP_80_TITLE	Efekty v boji
+$TIP_80_TEXT	Barva čísel poškození je dána jeho typem. Bílé je normální poškozeni, šedé je snížené brněním, červené je krvácení, oranžové je oheň, fialové je jed - a větší číslice značí kritický zásah.<N><N>Zobrazování těchto čísel lze vypnout v menu 'Hra'.
+$TIP_90_TITLE	Unikátní předměty
+$TIP_90_TEXT	Vítězstvím v bitvách na vyšší obtížnost se občas dostaneš k unikátním předmětům. Nedají se prodat a jsou velmi dobré.
+$TIP_100_TITLE	Odvolávání
+$TIP_100_TEXT	Odvoláním přivolaných obránců získáš část použité PSI.<N><N>Množství získané energie klesá úměrně tomu, jak je obránce zraněný.
+$TIP_110_TITLE	Přístupnost
+$TIP_110_TEXT	Pokud máš nějaky fyzický hendikep, v menu Volby by tě mohlo zajímat: <N><N>1) Video - hraní v celoobrazovkovém režimu, všechno bude větší<N>2) Ovládání - všechno si můžeš přizpůsobit<N>3) Přístupnost - nastavení grafických efektů, rychlosti hry a její obtížnosti.
+$TIP_120_TITLE	Oznámení o veřejné službě
+$TIP_120_TEXT	Tohle oznámení slouží k tomu, aby nikdo nezkoušel analyzovat kód.
+$TIP_130_TITLE	Volba cílů
+$TIP_130_TEXT	Když klikneš na obránce, můžeš mu určit, zda má útočit na prvního, posledního, nejsilnějšího nebo nejslabšího nepřítele v dosahu.
+$TIP_140_TITLE	Pokročilá volba cílů
+$TIP_140_TEXT	Kromě základního nastavení jsou zde ještě další čtyři volby:<N><N>1) Nejlevnější technika<N>2) Optimalizace efektů <N>3) Největší šance <N>4) Buldok<N><N>Není nutné je používat, ale pokročilým hráčům pomohou k vylepšení taktiky v těžkých bitvách. Vybrané nastavení si můžeš pro každého obránce zvlášť uložit jako výchozí!
+$TIP_150_TITLE	Oheň a led
+$TIP_150_TEXT	Oheň a led spolu nejdou dohromady. Ochlazení a zmrazení zruší hoření, oheň zase zruší ochlazení a zmražení.
+$TIP_160_TITLE	Vyšší obtížnosti
+$TIP_160_TEXT	'Těžká' a 'Extrémně těžká' obtížnost budou napoprvé nejspíš příliš těžké.<N><N>Můžeš to zkusit, až pár dalších bitev zvládneš na normální obtížnost.
+$TIP_170_TITLE	Vybavení
+$TIP_170_TEXT	Když si pořídíš nové vybavení pro své hrdiny, jejich staré vybavení se nejspíš bude hodit dalším obráncům ve tvé skupině.
+$TIP_180_TITLE	V davu je síla
+$TIP_180_TEXT	Více obránců pohromadě znamená, že nepřátelské útoky budou rozprostřeny na více cílů a zvyšuje šanci na přežití.<N><N>Na druhou stranu pokryješ menší část mapy.
+$TIP_190_TITLE	Násobiče
+$TIP_190_TEXT	V menu můžeš nastavit násobič získaných zkušenosti (a změnit tak rychlost, s jakou postavy získávají úrovně).<N><N>Stejně tak můžeš nastavit násobič peněžní odměny.<N><N>Výchozí hodnota pro oba je 100 %.
+$TIP_200_TITLE	Vypnutí útoků
+$TIP_200_TEXT	Někdy může použití konkrétního útoku nadělat víc škody než užitku (například Ohnivé koule tvého draka rozmrazují zmrzlé nepřátele) nebo si je chceš ušetřit na silného nepřítele. V takovém případě stačí vybrat obránce a v menu vpravo dole na daný útok kliknout. Dočasně vypnuté útoky jsou ztmaveny.
+$TIP_210_TITLE	Kde jsou moje pozice?
+$TIP_210_TEXT	V menu s uloženými pozicemi je tlačítko s obrázkem složky a klíče.<N><N>Tohle tlačítko otevře adresář, kde jsou pozice a konfigurační soubor uloženy.
+$TIP_220_TITLE	Nová hra+
+$TIP_220_TEXT	Až hru dohraješ, můžeš se se svojí skupinou vydat do boje znova! Bitvy budou mnohem těžší a odměny šílené<N><N>Na obrazovce s pozicemi stačí kliknout na Nová hra + u pozice s dohranou hrou.
+$TIP_230_TITLE	Vylepšení předmětů
+$TIP_230_TEXT	V NH+ můžeš získat speciální artefakty, kterými se dají unikátní předměty z normální hry vylepšit. Takto vylepšené předměty získají speciální vlastnosti!
+$TIP_240_TITLE	Bonusové výzvy
+$TIP_240_TEXT	Získáním hvězd také postupně odemkneš bonusové výzvy. Tyhle speciální bitvy jsou extra tuhé a nabízejí extra odměnu včetně kouzelných knih.
+$TIP_250_TITLE	Spálená PSI?
+$TIP_250_TEXT	Kouzlo Blesk pálí PSI energii. Zisk PSI za zabití nepřítele poklesne úměrně tomu, jaké mu Blesk způsobil poškození. Když Blesk nepříteli sebere 40% původních HP, zisk PSI z jeho zabití poklesne o 40%.
+$TIP_260_TITLE	Rozšíření
+$TIP_260_TEXT	Víš, že si můžeš vyrobit vlastní rozšíření hry?<N><N>V menu s pozicemi klikni na tlačitko 'M'. Změnit se dá skoro všechno - statistiky postav, mapy úrovní, třídy, postavy, scény mezi bitvami, grafika, předměty atd.
+$TIP_270_TITLE	Mysli na mámu
+$TIP_270_TEXT	<N><N>Zavolej mámě, už se jí stýská.
+$TYPE_DARK	Temný
+$TYPE_SHEEP	Ovce
+$TYPE_SPLITTER	Obludnost
+$TYPE_WORM	Červ
+$TYPE_BOSS	Boss
+$TYPE_NORMAL	Normální
+$TYPE_CULTIST	Sektář
+$TYPE_WATER	Voda
+$TYPE_FAST	Rychlý
+$TYPE_SNAIL	Šnek
+$TYPE_REVENANT	Navrátilec
+$TYPE_ATTACKER	ˇBojovník
+$TYPE_SPITTER	Střelec
+$TYPE_NUKE_ON_KILL	ZabijeNaDotek
+$TYPE_ARMOR	Obrněný
+$TYPE_STATIONARY	Nepohyblivý
+$TYPE_TELEPORTER	Teleportace
+$TYPE_EXALTED	Unešený
+$TYPE_NO_END_DAMAGE	Neublíží
+$GETSCRAP1	Hromada krámů, hadrů, rozbitých věcí a ostrých zubatých kusů rezavého železa. Kdo by o cokoliv z toho stál?
+$GETSCRAP2	Obyvatelé jámy používají tohle smetí jako měnu.
+$MISC_!	!
+$END	konec
+$BATTLE_STARTING_FORMATION_TEXT	Use the same starting formation as last time?
+$DATA_DUMP_BACKGROUNDS	<RE>$DATA_DUMP_BKG
+$DATA_DUMP_CUTSCENES	<RE>$DATA_DUMP_CUTSCENE
+$DATA_DUMP_MUSIC	Exporting music...
+$DATA_DUMP_SFX	Exporting sound effects...
+$DATA_DUMP_SPRITES	Exporting sprites...
+$LQ	“
+$MISC_ABSORB_X	absorb <X>
+$MISC_ABSORB_X_RESIST_Y	absorb <X>, resist <Y>%
+$MISC_ACCEPT_AND_CLOSE	Accept & close
+$MISC_BOOST_X	boost <X>
+$MISC_COST:	cost:
+$MISC_DEFEAT	Defeat
+$MISC_DEFENSE_ABS	defense
+$MISC_DEMO_VERSION	Demo Version
+$MISC_DEMO_VERSION_DESC	This is an early release public demo of Defender's Quest: Valley of the Forgotten, HD Special Edition.<N><N>It may contain a few bugs, and the graphics and features aren't in their final state.<N><N>Please keep in mind this isn't meant to be a representative picture of the final product.
+$MISC_DQ_NEWS	Get NEWS!
+$MISC_DQ_SITE	DefendersQuest.com
+$MISC_EASIER	easier
+$MISC_ERROR_INVALID_MOD_NAME	Invalid mod name!
+$MISC_ERROR_MOD_BAD	That mod is incompatible with this version of the game. Sorry!
+$MISC_ERROR_MOD_EXISTS	A mod with that name already exists!
+$MISC_ERROR_UNKNOWN	Unknown error. Sorry!
+$MISC_ERROR_UNZIP	Couldn't unzip the mod. Change your mod path in the options menu, or check your hard drive space.
+$MISC_GAME_DATA	Game Data
+$MISC_GOLD	scrap
+$MISC_GOLD:	scrap:
+$MISC_HARD	<RE>$MISC_EXTREME
+$MISC_HARDER	harder
+$MISC_HARD_SHORT	<RE>$MISC_EXTREME_SHORT
+$MISC_INFO	info
+$MISC_LEVEL_SHORT_X	LVL <X>
+$MISC_LEVEL_SUPER_SHORT	L
+$MISC_LEVEL_X	Level <X>
+$MISC_MEDIUM	<RE>$MISC_ADVANCED
+$MISC_MEDIUM_SHORT	<RE>$MISC_ADVANCED_SHORT
+$MISC_MENU	menu
+$MISC_NEED_PSI	NEED<N>PSI
+$MISC_NONE_DEFAULT	None *
+$MISC_NO_CHANGE	no change
+$MISC_OTHER	Other
+$MISC_PLUS_X%_TO_ARMOR_MULT	<PLUS_OR_MINUS><X> to ARMOR_MULT
+$MISC_PLUS_X%_TO_DEFENSE_MULT	<PLUS_OR_MINUS><X>% to DEFENSE
+$MISC_PLUS_X%_TO_DODGE	<PLUS_OR_MINUS><X> to EVASION
+$MISC_PLUS_X%_TO_EVADE	<RE>$MISC_PLUS_X%_TO_DODGE
+$MISC_PLUS_X%_TO_REGEN_MULT	<PLUS_OR_MINUS><X>% to REGENERATION
+$MISC_PLUS_X_STAT	+<X> <STAT>
+$MISC_PLUS_X_TO_ARMOR_ABS	<PLUS_OR_MINUS><X> to ARMOR
+$MISC_PLUS_X_TO_ATTACK	<PLUS_OR_MINUS><X> to ATTACK
+$MISC_PLUS_X_TO_ATTACK_SPEED	<PLUS_OR_MINUS><X> to SPEED
+$MISC_PLUS_X_TO_DEFENSE_ABS	<PLUS_OR_MINUS><X> to DEFENSE
+$MISC_PLUS_X_TO_HP	<PLUS_OR_MINUS><X> to HP
+$MISC_PLUS_X_TO_RANGE	<PLUS_OR_MINUS><X> to RANGE
+$MISC_PLUS_X_TO_REGEN_ABS	<PLUS_OR_MINUS><X> to REGENERATION
+$MISC_PSI_SHORT	psi
+$MISC_RESIST_X	resist <X>%
+$MISC_SAVE_DATA	Save Data
+$MISC_SEND_NEXT	Send NEXT
+$MISC_THORNS	thorns
+$MISC_UNIQUE	unique
+$MISC_VICTORY	Victory
+$MISC_WAIT	WAIT
+$MISC_WEAPON	<RE>$MISC_WEAPONS
+$MISC_X_PSI	<X> PSI
+$RQ	”
+$SKILL_DESC_HEAL	Heal
+$STATE_CRASH_DETAILS	Details:
+$STATE_CRASH_PROMPT	What would you like to do?
+$STATE_CRASH_SEND	Send report<N>to developer
+$STATE_CRASH_SHOW_DUMP	Show crash<N>dump files
+$STATE_CRASH_TITLE	Critical Error!
+$STATUS_DESC_DARK_FRENZY	<RE>$STATUS_DESC_FRENZY
+$STATUS_DESC_EVER_BLEED	<RE>$STATUS_DESC_BLEED
+$STATUS_DESC_FB_EXISTENTIAL	-<PERCENT>% speed, +<PERCENT>% damage resist.
+$STATUS_DESC_FIRE	<RE>$STATUS_DESC_BURN
+$STATUS_DESC_INSPIRE	<RE>$STATUS_DESC_INSPIRED
+$STATUS_DESC_INSPIRED_HIT	<RE>$STATUS_DESC_INSPIRED
+$STAT_DESC_ARMOR	ARMOR<N>Amount of damage absorbed.
+$STAT_DESC_ARMOR_ENEMY	ARMOR<N>Amount of damage absorbed.
+$STAT_DESC_SPAWN	SPAWNS:<N>
+$STAT_DESC_THORNS	THORNS<N>Deals this much damage to a melee attacker.
+$STAT_DESC_XP	EXPERIENCE<N>
+$TARGET_SPECIFIC_TEXT	Manually select a specific enemy to attack, ignoring all others.
+$TARGET_SPECIFIC_TITLE	Target SPECIFIC
+$TITLE_OPTIONS	Options
+$UI_ACCESS_SEE_ALSO	See Also:
+$UI_ALL_FILES	All Files
+$UI_CONTROLS_ACCEPT	Accept
+$UI_CONTROLS_ACCEPT_SELECT	Accept/Select
+$UI_CONTROLS_AUTO	Auto-detect
+$UI_CONTROLS_BACK_CANCEL	Back/Cancel
+$UI_CONTROLS_CANCEL	Cancel
+$UI_CONTROLS_CURSOR	Cursor
+$UI_CONTROLS_DEVICE	Device
+$UI_CONTROLS_GAMEPAD	Gamepad
+$UI_CONTROLS_GAMEPAD_MODEL	Model
+$UI_CONTROLS_KEYBOARD	Mouse & Keyboard
+$UI_CONTROLS_LOGITECH	Logitech
+$UI_CONTROLS_MENU	Menu
+$UI_CONTROLS_MENU_ALT	Menu 2
+$UI_CONTROLS_MINUS_PLUS_SPEED	-/+<N>Speed
+$UI_CONTROLS_NAVIGATE_MENU	Navigate Menu
+$UI_CONTROLS_OUYA	Ouya
+$UI_CONTROLS_POINTER	Pointer
+$UI_CONTROLS_PRESET_COLEMAK	Colemak
+$UI_CONTROLS_PRESET_DEFAULT	Default
+$UI_CONTROLS_PRESET_PS	PlayStation
+$UI_CONTROLS_PRESET_PSJ	PlayStation (Japan)
+$UI_CONTROLS_PRESET_WIIU	WiiU Default
+$UI_CONTROLS_PRESET_XBOX	XBox Default
+$UI_CONTROLS_PS3	Playstation 3
+$UI_CONTROLS_PS4	Playstation 4
+$UI_CONTROLS_SEE_ALSO	See Also:
+$UI_CONTROLS_SELECT	Select
+$UI_CONTROLS_XBOX1	Xbox One
+$UI_CONTROLS_XBOX360	Xbox 360
+$UI_CONTROLS_XINPUT	Xinput
+$UI_DQ_SAVE_FILES	DQ<X> Save Files
+$UI_EQUIP_ALL_ACC_BOOK	All books equipped!
+$UI_EQUIP_NO_ACC_BOOK	No books owned!
+$UI_GRAPHICS_HD	HD
+$UI_GRAPHICS_ORIGINAL	Original
+$UI_HIGH	High
+$UI_HIGH()	High(<X>)
+$UI_LOGGING_ALWAYS	Always
+$UI_LOGGING_ASK	Ask each time
+$UI_LOGGING_CRASH	Record crash logs
+$UI_LOGGING_CRASH_CONTENT	Include with crash log:
+$UI_LOGGING_CRASH_OPTIONS	Game settings
+$UI_LOGGING_CRASH_REPLAY	User input records
+$UI_LOGGING_CRASH_SAVES	Save files
+$UI_LOGGING_CRASH_SCREENSHOT	Screenshot
+$UI_LOGGING_CRASH_SYSTEM	System specs
+$UI_LOGGING_NEVER	Never
+$UI_LOGGING_SEND	Send crash logs to developer
+$UI_LOGGING_TITLE	Logging
+$UI_LOW	Low
+$UI_LOW()	Low(<X>)
+$UI_MOD_LOAD_MOD_TEXT	Load mod <LQ><MOD><RQ>?<N>This will restart the game.
+$UI_MOD_ZIP_FILES	Zip Files (*.*)
+$UI_RESOLUTION_CHOICES	Available:
+$UI_RESOLUTION_CURRENT	Current:
+$UI_RESOLUTION_CURRENT_PARENTHESES	(Current)
+$UI_RESOLUTION_TITLE	Monitor Resolution
+$UI_SELECT_A_FILE_TEXT	Please select a save file to import
+$UI_SELECT_A_FILE_TITLE	Select a file please!
+$UI_VIDEO_CHANGE_RES_TO	Change Resolution to <X>
+$UI_VIDEO_CUTSCENES	Cutscenes
+$UI_VIDEO_GRAPHICS	Graphics
+$UI_VIDEO_HD	Wide (16:9)
+$UI_VIDEO_MATCH_MONITOR	Match Fullscreen
+$UI_VIDEO_MODE	Mode
+$UI_VIDEO_RESOLUTION	Fullscreen Monitor Resolution
+$UI_VIDEO_SCREEN_SIZE	Game Window Size
+$UI_VIDEO_SD	Standard (4:3)
+$UI_VIDEO_SELECT_NEW	Select New...
+$UI_VIDEO_SPRITES	Sprites
+$WEAK_DMG_MULT	+<PERCENT>% extra DMG from <FLAVOR>
+$YOU_GOT_MONEY	You got <MONEY> scrap!

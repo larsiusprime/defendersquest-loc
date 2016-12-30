@@ -1,0 +1,59 @@
+flag	name
+$FLAV_DAMAGE	Урон
+$FLAV_FRENZY	Неистовство
+$FLAV_FIRE	Огонь
+$FLAV_BURN	Ожог
+$FLAV_POISON	Яд
+$FLAV_EVER_POISON	Вечный яд
+$FLAV_WOUND	Рана
+$FLAV_BLEED	Кровоточение
+$FLAV_EVER_BLEED	Вечное кровоточение
+$FLAV_BLINDED	Слепота
+$FLAV_CONFUSED	Замешательство
+$FLAV_DISEASE	Болезнь
+$FLAV_PSI_BURN	Пси-ожог
+$FLAV_INSPIRE	Воодушевление
+$FLAV_INSPIRED_HIT	Воодушевленный удар
+$FLAV_STUN	Ступор
+$FLAV_SINGLE_STUN	Слабое оглушение
+$FLAV_CHILL	Холод
+$FLAV_SLOW	Замедление
+$FLAV_FREEZE	Лед
+$FLAV_LIGHT	Свет
+$FLAV_AREA	Область
+$FLAV_DARK	Тьма
+$FLAV_GROW_ARMOR	Прирост брони
+$FLAV_PHASED	Периодический
+$FLAV_MAGIC	Магия
+$FLAV_PHYSICAL	Физический
+$FLAV_PHYSICAL-RANGED	Физический дальний
+$FLAV_MELEE	Ближний бой
+$FLAV_RANGED	Дальний бой
+$FLAV_UNDODGEABLE	Неуклоняемый
+$FLAV_REDUCE_HEALTH	Уничтожение
+$FLAV_ARMOR_PIERCE	Пробивание брони
+$FLAV_ARMOR_IGNORE	Игнорирование брони
+$FLAV_ARMOR_BREAK	Ослабление брони
+$FLAV_CRITICAL	Критический удар
+$FLAV_KNOCKBACK	Отбрасывание
+$FLAV_KNOCK_BACK	Отбрасывание
+$FLAV_AUTOKILL	Автоматическое убийство
+$FLAV_DEVOUR	Пожирание
+$FLAV_STRIKE_THROUGH	Пробивание
+$FLAV_DE_INVINCIBLE	Непобедимый
+$FLAV_DELAY_DAMAGE	Отложенный урон
+$FLAV_ANONYMOUS	Аноним
+$FLAV_TROLL	Текущий статус: ТРОЛО-ЛО-ЛОЛ
+$FLAV_FB_HAPPY	Текущий статус: Счастливый!
+$FLAV_FB_SAD	Текущий статус: Грустный.
+$FLAV_FB_LOL	Текущий статус: LOL!
+$FLAV_FB_OMG	Текущий статус: OMG!
+$FLAV_FB_EXISTENTIAL	Текущий статус: Жизненный.
+$FLAV_FB_BORED	Текущий статус: Скучно.
+$FLAV_PHYSICAL	Физический
+$FLAV_MAGIC	Магия
+$FLAV_RANGED	Дальний бой
+$FLAV_PHYSICAL_RANGED	Физический дальний
+$FLAV_PSI_SHIELD	Пси-щит
+$FLAV_AREA	Область
+$FLAV_BOSS	Босс

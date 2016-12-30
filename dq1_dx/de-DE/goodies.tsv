@@ -1,0 +1,22 @@
+flag	content
+$T0N0
+$T0N1
+$T0N10	title:Geheimnisse?<BR>body:Das kannst du immer noch bekommen, indem du die Website von Defender's Quest II besuchst!<BR>true:Okay!<BR>false:Niemals!
+$T0N12
+$T0N2	title:Geheimnisse?<BR>body:Dieser Gegenstand wird jetzt immer in deinem Inventar verfügbar sein.<BR>true:Okay
+$T0N4
+$T0N6	title:Geheimnisse?<BR>body:Defender's Quest II kommt bald! Schau's dir an und hol dir diesen Preis!<BR>true:Okay!<BR>false:Hahaha. Nö.
+$T0N8
+$T0N9
+$T1N10	title:Geschenke<BR>body:Bist du sicher?<N>Schau mal, wie es glänzt!<BR>true:Naja... okay.<BR>false:Niemals, sage ich! Niemals!<BR>effect:shiny
+$T1N13	title:Geschenke<BR>body:Okay, du gewinnst!<N>Du bekommst es aber trotzdem :)<BR>true:Der Sieg ist mein!
+$T1N16
+$T1N17	title:Geschenke<BR>body:Danke, dass du uns geholfen hast!<N>Du hast bereits einen Preis bekommen!
+$T1N2	title:Geschenke<BR>body:Teile dieses Spiel mit deinen Freunden oder melde dich für unseren Newsletter an und du bekommst diesen KOSTENLOSEN Preis!<BR>true:Okay!<BR>false:Hahaha. Nö.
+$T1N21
+$T1N22
+$T1N4	title:Geschenke<BR>body:Dieser Gegenstand wird jetzt immer in deinem Inventar verfügbar sein.<BR>true:Okay
+$T1N6	title:Geheimnisse?<BR>body:Defender's Quest II kommt bald! Schau's dir an und hol dir diesen Preis!<BR>true:Okay!<BR>false:Hahaha. Nö.
+$T1N7	title:Geschenke<BR>body:So ist's recht, zeig's dem Establishment!<N>Nimm dies stattdessen!<BR>true:Okay
+$T1N8	title:Geschenke<BR>body:Dieser Gegenstand wird jetzt immer in deinem Inventar verfügbar sein.<BR>true:Okay
+$T1N9	title:Geschenke<BR>body:Du kannst das hier immer noch bekommen, indem du deinen Freunden hiervon erzählst oder dich für unseren Newsletter anmeldest!<BR>true:Okay!<BR>false:Niemals!<BR>true:Okay<BR>false:Social media ist blöd

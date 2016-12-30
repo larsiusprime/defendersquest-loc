@@ -1,0 +1,20 @@
+flag	name
+$BONUS_1_TITLE	Sfida 1
+$BONUS_2_TITLE	Sfida 2
+$BONUS_3_TITLE	Sfida 3
+$BONUS_4_TITLE	Senza fine 1
+$BONUS_5_TITLE	Sfida 4
+$BONUS_6_TITLE	Sfida 5
+$BONUS_7_TITLE	Senza fine 2
+$BONUS_1_DESC	Quei subdoli mostriciattoli acquatici.
+$BONUS_2_DESC	Niente arcieri o draghi<C> e puoi usare solo 6 defensori. Cosa fare?
+$BONUS_3_DESC	Una battaglia su più fronti.
+$BONUS_4_DESC	Affronta una schiera infinita di nemici!
+$BONUS_5_DESC	Nuotando controcorrente.
+$BONUS_6_DESC	Molto traffico al centro e minacce dai fianchi.
+$BONUS_7_DESC	Un'altra sfida senza fine<C> ma stavolta non attaccano - quanti danni al secondo puoi sostenere?
+$BONUS_RECORD_WAVE	(Record: Ondata <WAVE_NUM>)
+$BONUS_REWARDS	RICOMPENSE
+$BONUS_HIGH_SCORE	Punteggio più alto
+$BONUS_REACH_WAVE	Raggiungi l'ondata <WAVE_NUM>
+$BONUS_BEAT_WAVE	Batti l'ondata <WAVE_NUM>

@@ -1,0 +1,20 @@
+flag	name
+$BONUS_1_TITLE	도전 1
+$BONUS_2_TITLE	도전 2
+$BONUS_3_TITLE	도전 3
+$BONUS_4_TITLE	무한 1
+$BONUS_5_TITLE	도전 4
+$BONUS_6_TITLE	도전 5
+$BONUS_7_TITLE	무한 2
+$BONUS_1_DESC	교활하게 헤엄치는 것들.
+$BONUS_2_DESC	궁수 또는 용 없음<C>오직 6 방어 포인트. 어떻게 할까요?
+$BONUS_3_DESC	다중 전선.
+$BONUS_4_DESC	끝없는 적들의 도전에 맞서세요!
+$BONUS_5_DESC	물살을 거슬러
+$BONUS_6_DESC	중앙에 잔뜩 몰리는데 측면에서도 공격해옵니다.
+$BONUS_7_DESC	또 다른 끝없는 도전,<C> 하지만 이번엔 적들이 공격해 오지 않습니다. 당신이 최대한 뽑아낼 수 있는 초당 딜량은?
+$BONUS_RECORD_WAVE	(최고 기록: <WAVE_NUM>단계)
+$BONUS_REWARDS	보상
+$BONUS_HIGH_SCORE	최고 점수
+$BONUS_REACH_WAVE	도달한 단계: <WAVE_NUM>단계
+$BONUS_BEAT_WAVE	최고 기록: <WAVE_NUM>단계

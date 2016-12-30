@@ -1,0 +1,20 @@
+flag	name
+$BONUS_1_TITLE	Défi 1
+$BONUS_2_TITLE	Défi 2
+$BONUS_3_TITLE	Défi 3
+$BONUS_4_TITLE	Infini 1
+$BONUS_5_TITLE	Défi 4
+$BONUS_6_TITLE	Défi 5
+$BONUS_7_TITLE	Infini 2
+$BONUS_1_DESC	Fichues pourritures aquatiques !
+$BONUS_2_DESC	Ni Rangers ni Dragons<C> et seulement 6 points de défenseurs. Comment faire ?
+$BONUS_3_DESC	Bataille sur tous les fronts
+$BONUS_4_DESC	Affrontez un flot infini d'ennemis !
+$BONUS_5_DESC	Nager à contre-courant
+$BONUS_6_DESC	Trafic important au centre et menaces sur les flancs.
+$BONUS_7_DESC	Un autre défi infini<C>mais cette fois, ils n'attaquent pas. Combien de DPS pourrez-vous infliger ?
+$BONUS_RECORD_WAVE	(Record : vague <WAVE_NUM>)
+$BONUS_REWARDS	RÉCOMPENSES
+$BONUS_HIGH_SCORE	Meilleur Score
+$BONUS_REACH_WAVE	Atteindre la vague <WAVE_NUM>
+$BONUS_BEAT_WAVE	Vaincre la vague <WAVE_NUM>

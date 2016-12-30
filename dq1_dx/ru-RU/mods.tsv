@@ -1,0 +1,15 @@
+flag	content
+$T0N0	Доброе утро
+$T0N1	title:Модификации<N>workshop:Steam Workshop<N>browse:Мои моды<N>new:Создать новый<N>install_zip:Установить из Zip архива<N>selected:выбрать
+$T0N2	title:Модификации<N>browse:Мои моды<N>new:Создать новый<N>install_zip:Установить из Zip архива<N>selected:выбрать
+$T0N6
+$T0N9	title:Модификации<N>
+$T0N10	title:Настройки шаблона мода<N>body:Скопировать игровые данные в качестве отправной точки для вашего мода:<N>export_data:Ключевые файлы<N>export_maps:Карты сражений<N>export_sprites:Спрайты<N>export_cutscenes:Видео<N>export_backgrounds:Фоновые картинки<N>export_sfx:Звуки<N>export_music:Музыка<N>selected:export_data<N>
+$T0N11	title:Название мода<N>new_mod_name:
+$T0N12	title:Создание мода...
+$T0N13	title:Экспорт завершен!<N>body:Шаблон вашего мода здесь:<LOCATION><N>browse:Мои моды<N>explore:Посмотреть<N>close:Закрыть<N>
+$T0N15	title:Установка мода...
+$T0N16	title:Установка завершена!<N>body:Ваш мод установлен здесь:<LOCATION><N>browse:Мои моды<N>explore:Посмотреть<N>close:Закрыть
+$T0N22	title:<N>body:Пожалуйста, подождите...
+$T0N26	title:Ошибка!<N>body:<ERROR><N>close:Закрыть
+$T0N30	title:<N>body:Отключить мод и перезагрузить игру?<N>okay:Хорошо<N>cancel:Отмена

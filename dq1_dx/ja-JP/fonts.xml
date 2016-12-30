@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<font value="verdana" replace="mplus2c">
+		<size value="10" replace="12"/>
+		<size value="11" replace="12"/>
+		<size value="12" replace="13"/>
+		<size value="13" replace="13"/>
+		<size value="14" replace="14"/>
+		<size value="15" replace="15"/>
+		<size value="16" replace="16"/>
+		<size value="16" replace="16"/>
+		<size value="17" replace="17"/>
+		<size value="18" replace="18"/>
+		<size value="19" replace="19"/>
+		<size value="20" replace="20"/>
+	</font>
+	
+	<font value="georgia" replace="mplus2c">
+		<size value="10" replace="12"/>
+		<size value="11" replace="12"/>
+		<size value="12" replace="13"/>
+		<size value="13" replace="13"/>
+		<size value="14" replace="14"/>
+		<size value="15" replace="15"/>
+		<size value="16" replace="16"/>
+		<size value="16" replace="16"/>
+		<size value="17" replace="17"/>
+		<size value="18" replace="18"/>
+		<size value="19" replace="19"/>
+		<size value="20" replace="20"/>
+	</font>
+	
+	<font value="georgiab" replace="mplus2cb">
+		<size value="10" replace="12"/>
+		<size value="11" replace="12"/>
+		<size value="12" replace="13"/>
+		<size value="13" replace="13"/>
+		<size value="14" replace="14"/>
+		<size value="15" replace="15"/>
+		<size value="16" replace="16"/>
+		<size value="16" replace="16"/>
+		<size value="17" replace="17"/>
+		<size value="18" replace="18"/>
+		<size value="19" replace="19"/>
+		<size value="20" replace="20"/>
+	</font>
+	
+	<font value="myriadpro" replace="mplus2c">
+		<size value="25" replace="21"/>
+		<size value="30" replace="26"/>
+	</font>
+		
+	<font value="moolboran" replace="mplus2c">
+		<size value="25" replace="18"/>
+		<size value="30" replace="20"/>
+		<size value="40" replace="25"/>
+		<size value="50" replace="30"/>
+	</font>
+</data>

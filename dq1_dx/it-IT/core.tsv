@@ -1,0 +1,1158 @@
+flag	content	comment
+$TITLE_START_DEMO	Inizia il DEMO
+$TITLE_FULL_GAME	Versione completa
+$TITLE_START_GAME	Inizia il gioco
+$TITLE_START	Inizia
+$TITLE_QUIT	Esci
+$TITLE_EULA_1	Giocando accetti il nostro
+$TITLE_EULA_2	Accordo di Licenza con l'Utente Finale
+$TITLE_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT	COMMENT: this is a redirect, the text for $MISC_PLEASE_WAIT will be duplicated here. The <RE> invocation at the beginning of the string signals a redirect, and will not show up in the final text
+$TITLE_BONUS_GOODIES	Contenuti bonus
+$TITLE_BONUS_GOODIES_2	Segreti?
+$TITLE_CONNECTING_KONG	Connessione a KONG...
+$TITLE_UNLOAD_MOD	Esci dal Mod
+$TITLE_RELOAD_MOD	Ricarica Mod
+$DEMO_OVER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
+$DEMO_OVER_DONT_FORGET	Non dimenticare il tuo file di salvataggio!
+$DEMO_OVER_EXPORT_HOW	Esporta il tuo salvataggio con questo pulsante.
+$DEMO_OVER_USE_IT	Usalo per continuare dal punto in cui ti eri fermato!
+$DEMO_OVER_PLAY	Continua a giocare!
+$DEMO_OVER_THANKS	Grazie per aver giocato!
+$DEMO_OVER_ENORMOUS	Clicca sull'enorme pulsante per continuare la tua avventura!
+$DEMO_OVER_ENORMOUS_2	Clicca sull'enorme pulsante per continuare la tua avventura!
+$DEMO_OVER_FULL_GAME	Ottieni il GIOCO COMPLETO!
+$DEMO_OVER_FULL_GAME_SHORT	GIOCO<N>COMPLETO!	COMMENT: <N> means a line break. <N> works too, but not <N> or <n>
+$DEMO_OVER_ACTS	Atti<N>III & IV
+$DEMO_ONLY_X_KREDS	Solo <X> kreds!
+$DEMO_ONLY_LOGIN_TITLE	Gratis!
+$DEMO_ONLY_LOGIN_TEXT	Sblocca gli atti III & IV!<N>2 nuove classi di personaggi!<N>6 nuove mappe!<N><N>@È GRATIS:@<N>Crea un account<N>(o accedi se ne hai già uno)<N>e fai ripartire il gioco.<N>
+$DEMO_ONLY_BUY_TEXT	@Include gioco e colonna sonora SCARICABILI!@<N>Sblocca gli Atti III - VII!<N>Tutte le 6 classi di personaggi!<N>108 scenette!<N>39 mappe!<N>14 battaglie bonus!<N><N>Modalità Nuova Partita+!<N>Il gioco originale x 2!<N>Nuovi tipi di nemici!<N>7 nuove missioni secondarie!<N>Equipaggiamento, libri, e bonus!<N><N>
+$DEMO_FREE_IF_REGISTERED	Gratis se sei registrato!
+$ERROR_TITLE	È accaduto un errore!
+$ERROR_NUMBER	Errore #
+$ERROR_CONTEXT	contesto
+$ERROR_MESSAGE	messaggio
+$ERROR_STACK	stack trace
+$PARTY_FROM_BATTLE	Battaglia
+$PARTY_GO_TO_MAP	Vai alla mappa
+$PARTY_RETURN_TOWN	Torna al villaggio
+$PARTY_CANT_WEAPON	Non può<N>usare<N>ARMI
+$PARTY_CANT_ARMOR	Non può<N>usare<N>ARMATURE
+$PARTY_RESET_POINTS	Riassegna abilità
+$PARTY_RESET_POINTS_NUMS	font:12,off_x:0,off_y:-4,leading:-4
+$PARTY_X_PTS	<X> punti
+$PARTY_REDESIGN	Aspetto
+$PARTY_CONFIRM_CHANGES	Conferma i cambiamenti
+$PARTY_FAILED	Livello fallito!
+$PARTY_FAILED_DESC	<MCG> è stata uccisa.	COMMENT: <MCG> is a variable. In this exact string, the game expects this exact variable, and will replace <MCG> with Azra's name. Any other variable is ignored and will appear as-is.
+$PARTY_NO_NEW_ACHIEVE	Nessun nuovo achievement.
+$PARTY_WELL_DONE	BEN FATTO!
+$PARTY_ACHIEVE_SINGULAR	achievement
+$PARTY_ACHIEVE_PLURAL	achievement
+$PARTY_1_NEW_ACHIEVE	1 nuovo achievement!
+$PARTY_X_NEW_ACHIEVE	<NUM> nuovi achievement!
+$PARTY_PERFECT_WORD	Perfetto
+$PARTY_PASSED_WORD	Superato
+$PARTY_FAIL_PENALTY	Fallimento
+$PARTY_TOTAL	Totale
+$PARTY_PERFECT	PERFETTO!
+$PARTY_PERFECT+	PERFETTO!+
+$PARTY_PERFECT++	PERFETTO!++
+$PARTY_PERFECT_DESC	<MCG> è rimasta illesa!
+$PARTY_PERFECT++_DESC	<MCG> e <ALLY><N> sono illesi!	COMMENT: The game will put Zelemir, Tletl-Meztli, or any other alternate mcguffin's name where <ALLY> appears.
+$PARTY_PERFECT+_DESC	<MCG> è illesa!<N><ALLY> è stato ferito!
+$PARTY_PERFECT_ALLY_DEAD_DESC	<MCG> è illesa, ma <ALLY> è morto.
+$PARTY_PASSED	Livello Completato!
+$PARTY_PASSED+	Livello Completato!+
+$PARTY_PASSED++	Livello Completato!++
+$PARTY_PASSED_DESC	<MCG> è stata ferita,<N>ma è sopravvissuta allo scontro.
+$PARTY_PASSED_ALLY_DEAD_DESC	<ALLY> è stato ucciso,<N>ma <MCG> è sopravvissuta.
+$PARTY_PASSED+_DESC	<MCG> è stata ferita!<N><ALLY> è rimasto illeso!
+$PARTY_PASSED++_DESC	<MCG> è stata ferita!<N><ALLY> è rimasto illeso!
+$PARTY_DEFEATED_WAVE_X	Sconfitta l'ondata <X>
+$PARTY_REACHED_WAVE_X	Raggiunta l'ondata <X>
+$PARTY_NO_POINTS	Non ci sono punti abilità da riassegnare!
+$PARTY_NO_AFFORD	Non te lo puoi permettere!<N>Costa:<T><COST><N><T>Scarti:<T><SCRAP>
+$PARTY_RE_ASSIGN	Resetta tutte le abilità di <NAME>?<N>Costo:<T><COST><N>Scarti:<T><SCRAP>
+$PARTY_CHANGE_NAME	Rinomina
+$PARTY_CONFIRM_POINTS_1_1	Assegna definitivamente 1 punto abilità ad 1 personaggio?	COMMENT: There are 4 variants here to handle the various pluralizations
+$PARTY_CONFIRM_POINTS_1_X	Assegna definitivamente 1 punto abilità a <CHARS> personaggi?
+$PARTY_CONFIRM_POINTS_X_1	Assegna definitivamente <POINTS> punti abilità ad 1 personaggio?
+$PARTY_CONFIRM_POINTS_X_X	Assegna definitivamente <POINTS> punti abilità a <CHARS> personaggi?
+$PARTY_POINT	punto
+$PARTY_POINTS	punti
+$PARTY_CHARACTER	personaggio
+$PARTY_CHARACTERS	personaggi
+$PARTY_CONFIRM_POINTS_TITLE	Conferma punti abilità
+$PARTY_RENAME	Rinomina
+$PARTY_REDESIGN	Aspetto
+$UI_EQUIP_NAME	Nome
+$UI_EQUIP_STAT	Attributi
+$UI_EQUIP_OWNER	Usato da
+$UI_EQUIP_SHOW_EQUIPPED	Mostra equipaggiamento
+$UI_EQUIP_CLASS_CANT_W	Questa classe non può equipaggiare armi!
+$UI_EQUIP_CLASS_CANT_A	Questa classe non può usare armature!
+$UI_EQUIP_ALL_W_SWORD	Tutte le spade sono già equipaggiate!
+$UI_EQUIP_ALL_W_BOW	Tutti gli archi sono già equipaggiati!
+$UI_EQUIP_ALL_W_STAFF	Tutti i bastoni sono già equipaggiati!
+$UI_EQUIP_ALL_A_LIGHT	Tutte le armature leggere sono già equipaggiate!
+$UI_EQUIP_ALL_A_HEAVY	Tutte le armature pesanti sono già equipaggiate!
+$UI_EQUIP_ALL_W_BOOK	Tutti i libri sono già equipaggiati!
+$UI_EQUIP_NO_W_SWORD	Nessuna spada posseduta!
+$UI_EQUIP_NO_W_BOW	Nessun arco posseduto!
+$UI_EQUIP_NO_W_BOOK	Nessun libro posseduto!
+$UI_EQUIP_NO_W_STAFF	Nessun bastone posseduto!
+$UI_EQUIP_NO_A_LIGHT	Nessuna armatura leggera posseduta!
+$UI_EQUIP_NO_A_HEAVY	Nessuna armatura pesante posseduta!
+$UI_ACCEPT_NUMS	font:18,off_y:1,off_x:-3	COMMENT: Font size and x/y offsets for options menu button labels
+$UI_BACK_NUMS	font:18,off_y:1,off_x:-3
+$UI_AUDIO_NUMS	font:18,off_y:1,off_x:-2
+$UI_VIDEO_NUMS	font:18,off_y:1,off_x:-2
+$UI_MISC_NUMS	font:18,off_y:1,off_x:-2
+$UI_ACCESS_NUMS	font:18,off_y:1,off_x:-2,show_boxes:0,absence_off_x:20,speed_off_x:0	COMMENT: hide/show accessibility box graphic, offset for 'absence' text, offset for 'speed' text
+$UI_ACHIEVEMENTS_NUMS	font:18,off_y:0,pop_up_off_y:-15,desc_font:11,title_font:10,popup_font:16,x_off_column:-15,x_space_column:30
+$UI_RESTART_NUMS	font:18,off_y:1,off_x:-2
+$UI_QUIT_NUMS	font:16,off_y:-6,off_x:-2
+$UI_CONTROLS_NUMS	font:18,off_y:1,off_x:-2
+$UI_OPTIONS_NUMS	font:18,off_y:1,off_x:-2
+$UI_CONTROLS_BOOST_NUMS	off_x:0
+$UI_CONTROLS_RECALL_NUMS	off_x:15
+$UI_CONTROLS_BACK_NUMS	off_x:20
+$UI_CONTROLS_PAUSE_NUMS	off_x:40
+$UI_CONTROLS_MINUS_SPEED_NUMS	off_x:45
+$UI_CONTROLS_PLUS_SPEED_NUMS	off_x:15
+$UI_CONTROLS_TITLE	Controlli
+$UI_VIDEO_TITLE	Video
+$UI_AUDIO_TITLE	Audio
+$UI_ACCESS_TITLE	Accessibilità
+$UI_MISC_TITLE	Varie
+$UI_OPTIONS_TITLE	Opzioni
+$UI_OPTIONS_MENU	Menu opzioni
+$UI_OPTIONS_SPEED	Velocità di gioco
+$UI_ACHIEVEMENTS_TITLE	Achievement
+$UI_ACHIEVEMENTS_BUTTON_NUMBERS	font:18,offy:-2
+$UI_SFX	Effetti sonori:
+$UI_MUSIC	Musica:
+$UI_ACCESS_REWARDS	RICOMPENSE
+$UI_ACCESS_PENALTIES	PENALITÀ ESP.
+$UI_ACCESS_DEFAULT	Impostazioni predefinite
+$UI_ACCESS_FAIL	FALLIMENTO
+$UI_ACCESS_ABSENCE	ASSENZA
+$UI_ACCESS_FLASHING	Effetti Lampeggianti
+$UI_ACCESS_SPEED	Velocità di gioco
+$UI_BONUS_BONUS_LEVELS	Livelli Bonus
+$UI_BONUS_STARS_LINE	<STAR_NUM> <STAR_COLOR> stelle
+$UI_BONUS_GOLD_STARS_LINE	<STAR_NUM> stelle d'oro
+$UI_BONUS_BLUE_STARS_LINE	<STAR_NUM> stelle blu
+$UI_MOVIE_NUMS	font:12,tabs:4
+$UI_MOVIE_SELECT_A_MOVIE	Scegli una scena
+$UI_MOVIE_SCENE	scena
+$UI_MOVIE_END	fine
+$UI_MOVIE_QUEST	missione
+$UI_TIPS_TITLE	Trucchi e Consigli
+$UI_UPDATER_CANCEL	<RE>$MISC_CANCEL
+$UI_UPDATER_SECURED_WITH	Questo meccanismo di aggiornamento è protetto con HTTPS,<N>oltre che dalla verifica della firma digitale.
+$UI_UPDATER_ASK_DOWNLOAD	Scarica l'aggiornamento?
+$UI_UPDATER_SERVER_TIMEOUT	Server Timeout!
+$UI_UPDATER_NO_INFO	Non è stato possibile trovare informazioni di aggiornamento sul server.
+$UI_UPDATER_NO_BIG_DEAL	Nulla di grave, puoi ancora usare il gioco, semplicemente non è possibile contattare il server, al momento.
+$UI_UPDATER_DEB	pacchetto DEB
+$UI_UPDATER_RPM	pacchetto RPM
+$UI_UPDATER_TARGZ	archivio TAR.GZ
+$UI_UPDATER_CHECKING	Controllo aggiornamenti...
+$UI_UPDATER_UPDATE_EXISTS	Aggiornamento disponibile!
+$UI_UPDATER_CURRENT_VERSION	Versione corrente:<T>
+$UI_UPDATER_NEWEST_VERSION	Versione più recente:<T>
+$UI_UPDATER_NO_UPDATES	Nessun aggiornamento disponibile
+$UI_UPDATER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
+$UI_UPDATER_TRYING_30	Riprovo per 30 secondi
+$UI_UPDATER_CONNECT_AGAIN	Nuova Connessione...
+$UI_UPDATER_ERROR!	ERRORE!
+$UI_UPDATER_DETAILS	Dettagli:
+$UI_UPDATER_NO_VERIFY	Couldn't verify update file.
+$UI_UPDATER_NO_DOWNLOAD	Couldn't download update file.
+$UI_UPDATER_CHECKSUM_MISMATCH	The file's checksum didn't match what we expected.<N><N>Possible causes are an incomplete download (likely), a security problem (unlikely), or cosmic rays (you never know!).<N><N>Either way, the update failed.
+$UI_UPDATER_GIVE_UP	Annulla
+$UI_UPDATER_TRY_AGAIN	Prova ancora
+$UI_UPDATER_CONNECTING	Connessione al server...
+$UI_UPDATER_DOWNLOADING_FILE	Scaricamento aggiornamento...
+$UI_UPDATER_DOWNLOADING_SIG	Scaricamento firma aggiornamento...
+$UI_UPDATER_CHECKSUM	Calcolo integrità...
+$UI_UPDATER_NAVIGATING	Sto navigando verso il file...
+$UI_UPDATER_CLOSE_WINDOW	Devi chiudere questa finestra prima di poter installare l'aggiornamento.
+$UI_UPDATER_FILE_IS_AT	Il tuo file di aggiornamento si trova qui:
+$UI_UPDATER_IF_NO_WINDOW	Se una cartella di navigazione non si apre, prova ad accedervi manualmente.
+$UI_UPDATER_DOWNLOADED	Aggiornamento Scaricato!
+$UI_UPDATER_NAVIGATE_NOW	Vai al file?
+$UI_UPDATER_NOTE	Nota:
+$UI_UPDATER_SECURITY	Per ragioni di sicurezza, devi aprire manualmente il file di installazione.<N><N>Questo programma ti porterà alla cartella in cui è stato scaricato.
+$UI_UPDATER_INSTALLING	Installazione Aggiornamento...
+$UI_UPDATER_EXITING	Uscita dall'Applicazione...
+$UI_DEFENDER_RECALL_LINE	RICHIAMA: +<PSI> Psi
+$UI_DEFENDER_ORB_NUMS	orb_space:0
+$UI_DEFENDER_BOOST	POTENZIAMENTO: <PSI> Psi
+$UI_DEFENDER_BOOST_NEED	POTENZIAMENTO: <PSI> Psi
+$UI_DEFENDER_BOOST_NUMS	font:11,y_off:2
+$UI_DEFENDER_BOOST_NEED_NUMS	font:11,y_off:2
+$UI_DEFENDER_BOOST_MAX	POTENZIAMENTO MASSIMO
+$UI_DEFENDER_BOOST_UNLOCK	Sbloccato al <LVL> LIVELLO DI POTENZIAMENTO
+$UI_DEFENDER_CLICK_TO	(Clicca per abilitare/disabilitare)
+$UI_DEFENDER_TECHNIQUES	TECNICHE
+$UI_DEFENDER_TECHNIQUE	Tecniche
+$UI_DEFENDER_TRAITS	CARATTERISTICHE
+$UI_DEFENDER_TRAIT	CARATTERISTICA
+$UI_DEFENDER_RECALL	Richiama
+$UI_SKILLS_CLICK_TO_UPGRADE	Clicca per aumentare.
+$UI_SKILLS_MAX	MASSIMO
+$MISC_MAX	MAX
+$UI_SKILLS_NO_POINTS	Nessun punto disponibile.
+$UI_SKILLS_REQ_1PT	RICHIEDE: Personaggio LIV <LVL>,<N><PT> punto in <SKILL>
+$UI_SKILLS_REQ_XPT	RICHIEDE: Personaggio LIV <LVL>,<N><PT> punti in <SKILL>
+$UI_SKILLS_NO_LEARN_SPELL	Non hai ancora imparato questo incantesimo.
+$UI_SKILLS_MOUSE_OVER	Ispeziona con il cursore del mouse.
+$UI_EQUIP_OWNED	posseduto
+$UI_EQUIP_COMPARE	confronta
+$UI_EQUIP_PRICE	prezzo
+$UI_EQUIP_SHOW_EQUIPPED	Mostra equipaggiamento
+$UI_EQUIP_EQUIP_AFTER	Equipaggia dopo l'acquisto
+$UI_EQUIP_EQUIP_WHO	Chi lo userà?
+$UI_EQUIP_EQUIPPED	Equipaggiato
+$UI_EQUIP_MAX_OWNED	MASSIMO POSSEDUTO
+$UI_EQUIP_ALL_W_SWORD_EQUIPPED	Tutte le spade sono equipaggiate!
+$UI_EQUIP_ALL_W_STAFF_EQUIPPED	Tutti i bastoni sono equipaggiati!
+$UI_EQUIP_ALL_W_BOW_EQUIPPED	Tutti gli archi sono equipaggiati!
+$UI_EQUIP_ALL_A_LIGHT_EQUIPPED	Tutte le armature leggere sono equipaggiate!
+$UI_EQUIP_ALL_A_HEAVY_EQUIPPED	Tutte le armature pesanti sono equipaggiate!
+$UI_EQUIP_CANT_UPGRADE_W_SWORD	Non hai spade da migliorare!
+$UI_EQUIP_CANT_UPGRADE_W_BOW	Non hai bastoni da migliorare!
+$UI_EQUIP_CANT_UPGRADE_W_STAFF	Non hai archi da migliorare!
+$UI_EQUIP_CANT_UPGRADE_A_LIGHT	Non hai armature leggere da migliorare!
+$UI_EQUIP_CANT_UPGRADE_A_HEAVY	Non hai armature pesanti da migliorare!
+$UI_EQUIP_NO_W_SWORD	Nessuna spada posseduta!
+$UI_EQUIP_NO_W_STAFF	Nessuna bastone posseduto!
+$UI_EQUIP_NO_W_BOW	Nessun arco posseduto!
+$UI_EQUIP_NO_A_LIGHT	Nessuna armatura leggera posseduta!
+$UI_EQUIP_NO_A_HEAVY	Nessuna armatura pesante posseduta!
+$UI_EULA_TITLE	ACCORDO DI LICENZA CON L'UTENTE FINALE
+$UI_ACHIEVE_COMPLETION	Progresso
+$UI_ACHIEVE_CATEGORIES	Categorie
+$UI_ACHIEVE_POP_UP	Notifiche<N>Pop-up
+$UI_ACHIEVE_TRAINER	Base
+$UI_ACHIEVE_EASY	Facili
+$UI_ACHIEVE_MEDIUM	Medi
+$UI_ACHIEVE_HARD	Difficili
+$UI_ACHIEVE_IMPOSSIBLE	Impossibili
+$UI_CONTROLS_SPELL	Incantesimi
+$UI_CONTROLS_CLASS	Classe
+$UI_CONTROLS_CHARACTER	Personaggio
+$UI_CONTROLS_TARGET	Bersaglio
+$UI_CONTROLS_PAUSE	Pausa
+$UI_CONTROLS_MINUS_SPEED	- Velocità
+$UI_CONTROLS_PLUS_SPEED	+ Velocità
+$UI_CONTROLS_BOOST	Potenzia
+$UI_CONTROLS_RECALL	Richiama
+$UI_CONTROLS_BACK	Indietro
+$UI_CONTROLS_PRESETS	Predefiniti
+$UI_CONTROLS_TAB_NAV	Tab<N>Navigazione
+$UI_CONTROLS_CYCLE	Scorri<N>Difensori
+$UI_CONTROLS_CYCLE_NUMS	off_x:-5,off_y:0	COMMENT: moves the 'cycle defenders' text and associated buttons
+$UI_CONTROLS_SCROLL	Muovi Mappa,<N>Posiziona Difensore
+$UI_CONTROLS_MOVE_CURSOR	Muovi il cursore
+$UI_CONTROLS_VIRTUAL_MOUSE	Mouse Virtuale
+$UI_CONTROLS_CLICK	Clicca
+$UI_CONTROLS_SPEED	Velocità
+$UI_CONTROLS_ACCEL	Accelerazione
+$UI_CONTROLS_SLOWEST	Lentissima
+$UI_CONTROLS_SLOW	Lenta
+$UI_CONTROLS_NORMAL	Normale
+$UI_CONTROLS_FAST	Veloce
+$UI_CONTROLS_NONE	Nessuna
+$UI_CONTROLS_PRESET_QWERTY	Qwerty
+$UI_CONTROLS_PRESET_LEFTY	Lefty
+$UI_CONTROLS_PRESET_AZERTY	Azerty
+$UI_CONTROLS_PRESET_QWERTZ	Qwertz
+$UI_CONTROLS_PRESET_DVORAK	Dvorak
+$UI_CONTROLS_PRESET_CUSTOM	Personalizzati
+$UI_DOWNLOAD_WARNING	DISABILITA IL TUO<N>POP-UP BLOCKER!
+$UI_DOWNLOAD_BODY	Clicca un pulsante per scaricare <N>la versione desktop del gioco.<N><N>Verrà scaricata in una nuova finestra/scheda.<N>Potrebbe esserci un leggero ritardo, quindi per favore<N>aspetta un minuto senza premere di nuovo i pulsanti.
+$UI_DOWNLOAD_LINUX	Linux
+$UI_DOWNLOAD_WINDOWS	Windows
+$UI_DOWNLOAD_MACINTOSH	Macintosh
+$UI_DOWNLOAD_SOUNDTRACK	Colonna sonora
+$UI_CONFLICT_TITLE	Conflitto Steam Cloud!
+$UI_CONFLICT_MSG	Non siamo sicuri quale di questi debba andare nello Slot <SLOT>.<N>Per favore, scegli quello che vuoi mantenere.
+$UI_CONFLICT_CLOUD	CLOUD
+$UI_CONFLICT_LOCAL	COMPUTER
+$UI_CONFLICT_BETTER	Questo ci sembra meglio
+$UI_CONFLICT_BUTTON	Usa questo
+$UI_CONFLICT_BUTTON_NUMS	font:13,x_off:0,y_off:0
+$UI_CONFLICT_NGP	Nuova Partita+
+$UI_CONFLICT_BACKUP	Fai un backup del file che non ho scelto in:<N><LOC>
+$UI_GAMEPLAY_MISCELLANEOUS	Varie
+$UI_GAMEPLAY_CLOUD_SAVE	Salvataggi Cloud
+$UI_GAMEPLAY_CLOUD_NUMS	x_space:70
+$UI_GAMEPLAY_OFF	Off
+$UI_GAMEPLAY_ON	On
+$UI_GAMEPLAY_TUTORIALS	Tutorial
+$UI_GAMEPLAY_DIALOGUE	Dialoghi
+$UI_GAMEPLAY_NEVER	Mai
+$UI_GAMEPLAY_ALWAYS	Sempre
+$UI_GAMEPLAY_DEFAULT	Solo Nuove Battaglie
+$UI_GAMEPLAY_BATTLE_NUMBERS	Mostra numeri in battaglia
+$UI_GAMEPLAY_BATTLE_NUMBERS_NUMS	x_off:0
+$UI_GAMEPLAY_TUTORIAL_NUMS	x_off:-80
+$UI_GAMEPLAY_HIDE	Nascondi
+$UI_GAMEPLAY_SHOW	Mostra
+$UI_GAMEPLAY_TRACKING	Monitoraggio Dati
+$UI_GAMEPLAY_TRACK_YES	Consentici di monitorare anonimamente le statistiche di gioco
+$UI_GAMEPLAY_TRACK_NO	Non tracciarmi, bro!
+$UI_GAMEPLAY_AUTO_UPDATE	Aggiornamenti Automatici
+$UI_GAMEPLAY_ENABLE_UPDATER	Cerca aggiornamenti all'avvio del gioco
+$UI_GAMEPLAY_DISABLE_UPDATER	Disabilita gli aggiornamenti automatici
+$UI_GAMEPLAY_SLOW_FOOTNOTE	Potrebbe rallentare il gioco
+$UI_SAVE_PATH	Cartella dei Salvataggi...
+$UI_MOD_PATH	Cartella dei Mod...
+$TOOLTIP_CHANGE_PATH_1	NOTA:
+$TOOLTIP_CHANGE_PATH_2	I vecchi file non saranno automaticamente trasferiti nella nuova cartella.<N><N>Rimarranno nella cartella originale.
+$UI_VIDEO_IF_DOESNT_WORK	Se la nuova risoluzione non funziona, <N>entro pochi secondi verrà ripristinata quella precedente.
+$UI_VIDEO_RES_CHANGED	Risoluzione cambiata.<N>Va bene?<N><N>Ripristino in <TIME> secondi
+$UI_VIDEO_SETTINGS	Impostazioni Video
+$UI_VIDEO_WARNING	Opzioni Video disattivate in modalità browser.
+$UI_VIDEO_WARNING2	Purtroppo la tua configurazione di sistema non consente di cambiare risoluzione all'interno del gioco :(
+$UI_VIDEO_WARNING3	In MODALITÀ COMPATIBILE, il cambiamento della risoluzione non è abilitato.<N><N>Siamo spiacenti!
+$UI_VIDEO_MOUSE	Cursore del Mouse
+$UI_VIDEO_MOUSE_DEFAULT	Normale
+$UI_VIDEO_MOUSE_FANCY	Alternativo
+$UI_VIDEO_PARTICLES	Particelle
+$UI_VIDEO_SWIRL	Animazione introduttiva
+$UI_VIDEO_AOE	Evidenzia attacchi d'area
+$UI_VIDEO_CHANGE_RES	Cambia Risoluzione
+$UI_VIDEO_SCREEN_POS	Posizione Schermo
+$UI_VIDEO_CHANGE_RES_BUTTON	Cambia!
+$UI_VIDEO_SHOW_ALL_RES	Mostra tutte le risoluzioni
+$UI_VIDEO_RECOMMENDED	Raccommandata:
+$UI_VIDEO_STANDARD_RATIO	(Standard ratio)
+$UI_VIDEO_WIDESCREEN	(Widescreen)
+$UI_VIDEO_PIXELS	Pixel
+$UI_VIDEO_BIT_DEPTH	Colore
+$UI_VIDEO_REFRESH	Frequenza
+$UI_VIDEO_SCALE	Scala
+$UI_VIDEO_CAN_SLOW_GAME	(Può rallentare il gioco)
+$UI_VIDEO_WINDOWED	Finestra
+$UI_VIDEO_FULLSCREEN	Schermo intero
+$UI_SAVE_ERROR_INCOMPAT	Incompatibile!
+$UI_SAVE_ERROR_INCOMPAT_TEXT	Errore! Stai giocando al DEMO<N>e quel file è dalla versione COMPLETA
+$UI_SAVE_DEMO_IMPORT	Importare dal Demo
+$UI_SAVE_DEMO_IMPORT_TEXT	Il file è del DEMO. Potrebbe essere necessario fare degli aggiustamenti.<N>Va bene?
+$UI_SAVE_DEMO_NEWER	Il file è di una NUOVA versione del gioco,<N>potrebbe essere incompatibile.<N>Provo a importarlo lo stesso?
+$UI_SAVE_DEMO_OLDER	Il file è di una VECCHIA versione del gioco<N>potrebbe essere necessario fare degli aggiustamenti.<N>Va bene?
+$UI_NORM_MOD_INCOMPAT_TEXT	<N>Il file è di un MOD,<N>potrebbe essere incompatibile.<N><N>Provo a importarlo lo stesso?
+$UI_MOD_NORM_INCOMPAT_TEXT	<N>Un mod è attivo, ma quel file<N>è del gioco normale,<N>potrebbe essere incompatibile.<N><N>Provo a importarlo lo stesso?
+$UI_MOD_MOD_INCOMPAT_TEXT	<N>Il file è di un altro MOD,<N>potrebbe essere incompatibile.<N><N>Provo a importarlo lo stesso?
+$UI_SAVE_DEMO_ATTENTION	Attenzione!
+$UI_SAVE_MENU_LOADED	Caricamento completato!
+$UI_SAVE_MENU_CHECK_GOG	Cerca aggiornamenti gratuiti su GOG!
+$UI_SAVE_MENU_DOWNLOAD	Ottieni la versione scaricabile
+$UI_SAVE_MENU_FULL_VERSION	Versione Completa
+$UI_SAVE_MENU_KONG_XDEMO_LOGIN	Demo Estesa - Accedi a Kongregate per accedere al gioco completo!
+$UI_SAVE_MENU_KONG_XDEMO	Versione Demo Estesa
+$UI_SAVE_MENU_KONG_DEMO_LOGIN_FULL	Demo - Accedi a Kongregate per accedere al gioco completo!
+$UI_SAVE_MENU_KONG_DEMO_LOGIN_XDEMO	Demo - Accedi a Kongregate per accedere ai nuovi contenuti!
+$UI_SAVE_MENU_KONG_DEMO	Versione Demo
+$UI_SAVE_CONFIRM_DELETE	Confermi?
+$UI_SAVE_CONFIRM_DELETE_TEXT	Vuoi cancellare PERMANENTEMENTE questo <N>salvataggio?
+$SAVE_SLOT_PLAY	Gioca
+$SAVE_SLOT_PLAY_PLUS	Gioca +
+$SAVE_SLOT_NEW_GAME	Nuova Partita
+$SAVE_SLOT_NEW_GAME_NUMS	y_off:-9
+$SAVE_SLOT_NEW_GAME_PLUS	Nuova Partita+
+$SAVE_SLOT_EXPORT	Esporta
+$SAVE_SLOT_IMPORT	Importa
+$SAVE_SLOT_DELETE	Elimina
+$UI_DEMO_SAVES_DETECTED	Rilevati salvataggi dal Demo!
+$UI_DEMO_IMPORT_SAVES	Importa i salvataggi del Demo?
+$UI_CLOUD_UNKNOWN	Salvataggi Cloud
+$UI_CLOUD_UNKNOWN_TEXT	Abilita salvataggi cloud di Steam?
+$UI_CLOUD_UNKNOWN_TEXT_2	Puoi cambiare questa impostazione in qualunque momento in:<N><N>Opzioni:Varie
+$UI_MOD_TITLE	Mod
+$UI_MOD_LOAD_EXISTING	Carica un Mod esistente
+$UI_MOD_CREATE_NEW	Crea un nuovo Mod
+$UI_MOD_BROWSE_QUEUE	I miei Mod
+$UI_MOD_BROWSE_WORKSHOP	Workshop di Steam
+$UI_MOD_WEB_BROWSER	Web Browser
+$UI_MOD_INSTALL_STANDALONE	Installa da un file ZIP
+$UI_MOD_INSTALL_ERROR	Esiste già una cartella con quel nome.<N>Provo a installare aggiungendo un suffisso?", "WIP
+$UI_MOD_INSTALL_ERROR2	Spiacente, non è stato possibile installare il Mod.
+$UI_DEFQ_MODS	Mod
+$UI_MOD_TITLE	Mod
+$UI_MOD_DATA_ONLY	Solo Dati (1MB)
+$UI_MOD_SPRITES	 +4MB di sprite
+$UI_MOD_MOVIES	 +13MB di scenette
+$UI_MOD_BKGS	 +42MB di sfondi
+$UI_MOD_TEMPLATE_SETTINGS	Scegli i file da esportare
+$UI_MOD_SELECT_DIR	Scegli Cartella Mod
+$UI_SAVE_SELECT_DIR	Scegli Cartella Salvataggi
+$UI_MOD_LOAD_MOD	Carica Mod
+$UI_MOD_EXISTS	Il Mod esiste.<N>Caricare?
+$UI_MOD_MISSING	Non è possibile trovare il file settings.xml.<N>O lì non c'è nessun mod,<N>oppure non funziona.
+$UI_MOD_NOT_DIR	Ehi!<N>Quella non è una cartella!<N>Prova ancora.
+$UI_MOD_LOADING	Caricamento Mod...
+$UI_MOD_PLEASE_WAIT	Ti preghiamo di attendere mentre carichiamo il tuo mod
+$UI_MOD_PROGRESS	Operazione <TASK><N>File <FILE><N>
+$UI_MOD_LOAD_FINISH	Caricamento Completato
+$UI_MOD_LOAD_FINISH_TEXT	Il Mod è stato caricato con successo.<N>Ora il gioco verrà riavviato.
+$UI_MOD_LOAD_FAIL	Caricamento fallito!
+$UI_MOD_LOAD_FAIL_TEXT	Errore caricamento mod:
+$UI_MOD_NAME	Dai un nome a questo Mod
+$UI_MOD_EXPORTING	Esportazione dati
+$UI_MOD_EXPORT_FINISH	Esportazione dati completata!
+$UI_MOD_EXPORT_FINISH_TEXT	Il tuo mod si trova nella cartella:
+$UI_MOD_EXPORT_CANCEL	Esportazione dati annullata!
+$UI_MOD_EXPORT_CANCEL_TEXT	I file si trovano nella cartella:
+$UI_MOD_EXPORT_FAIL	Esportazione dati fallita!
+$UI_MOD_EXPORT_FAIL_TEXT	C'è stato un errore!
+$UI_MOD_EXPORT_CHURN	Operazione <TASK_PROGRESS><N><N><TASK><N><PROGRESS>
+$UI_MOD_DEFQ_SAVE	Salvataggi di Defender's Quest (*.dfq)
+$UI_MOD_ALL_FILES	Tutti i File (*.*)
+$UI_MOD_AUTHOR	Autore
+$UI_MOD_PLAY	Gioca
+$UI_MOD_SHARE	Condividi
+$UI_MOD_UPDATE	Aggiorna
+$UI_MOD_EDIT	Modifica
+$UI_MOD_WORKSHOP	Workshop
+$UI_MOD_SHARE_TITLE	Condividi Mod
+$UI_MOD_SHARE_TEXT_LOCAL	Comprimi il mod in un file ZIP, in modo che sia più facile distribuirlo.
+$UI_MOD_SHARE_TEXT_STEAM	Comprimi e invia il tuo mod al Workshop di Steam.
+$UI_MOD_UPDATE_TEXT_STEAM	Aggiorna il tuo mod sul Workshop di Steam.
+$UI_MOD_ZIP_PROGRESS	Operazione <TASK><N>File <FILE><N>
+$UI_MOD_ZIP_FINISH	Assemblamento completato
+$UI_MOD_ZIP_FINISH_TEXT	Il Mod è stato zippato con successo.
+$UI_MOD_ZIP_FAIL	Assemblamento fallito!
+$UI_MOD_ZIP_FAIL_TEXT	C'è stato un errore durante la compressione dei file.
+$UI_MOD_STEAM_UPLOAD	Caricamento su Steam...
+$UI_MOD_STEAM_WAIT	In attesa di risposta da Steam...<N>(Potrebbe essere necessario aspettare un po')
+$UI_MOD_STEAM_SEND	Invio dei dati a Steam
+$UI_MOD_SHARED	Condiviso
+$UI_MOD_SUBSCRIBED	Sottoscritto
+$UI_MOD_ZIP_STEAM_FAIL	Caricamento fallito!
+$UI_MOD_ZIP_STEAM_FAIL_TEXT	Non è stato possibile caricare il mod sul<N>Workshop di Steam.
+$UI_MOD_ZIP_STEAM_FINISH	Caricamento completato
+$UI_MOD_ZIP_STEAM_FINISH_TEXT	Il Mod è stato caricato con successo sul<N>Workshop di Steam
+$UI_MOD_UPDATE_STEAM_FINISH	Aggiornamento completato
+$UI_MOD_UPDATE_STEAM_FINISH_TEXT	Il Mod è stato aggiornato con successo sul<N>Workshop di Steam
+$UI_MOD_ZIPPING	Assemblamento Files del Mod
+$UI_MOD_MISSING_SUBSCRIBE	Sottoscrizioni
+$UI_MOD_MISSING_SUBSCRIBE_TEXT	Vuoi scaricare:<N><NUM> file del workshop sottoscritti?
+$UI_MOD_DOWNLOAD	Scaricamento Mod
+$UI_MOD_DOWNLOAD_TEXT	
+$UI_MOD_LATER	Dopo
+$UI_EQUIP_WHO_WILL	Chi equipaggerà:
+$UI_EQUIP_CANT_SELL_UNIQUE	Impossibile vendere gli oggetti unici!
+$UI_EQUIP_SELL_OLD_WEAPON_FOR	Vendi le vecchie armi per <SELL_PRICE> Scarti?
+$UI_EQUIP_SELL_OLD_ARMOR_FOR	Vendi le vecchie armature per <SELL_PRICE> Scarti?
+$UI_RECRUIT_CLASS_FULL	CLASSE AL COMPLETO
+$UI_RECRUIT_BERSERKER_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_RANGER_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_KNIGHT_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_MAGE_NUMS	font:12,x_off:0,y_off:-10
+$UI_RECRUIT_HEALER_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_DRAGON_NUMS	font:14,x_off:0,y_off:0
+$UI_BATTLE_MORE	ALTRE
+$UI_BATTLE_MORE_NUMS	y_off:-21
+$UI_BATTLE_SEND_NEXT	PROSSIMA
+$UI_BATTLE_NEXT	PROSSIMO", "WIP
+$UI_BATTLE_WAVES	Ondate
+$UI_BATTLE_WAVE	Ondata
+$UI_BATTLE_WAVE_NUMS	y_off:16
+$UI_BATTLE_INFINITE_NUMS	y_off:10
+$UI_BATTLE_CASH_OUT	Riscuoti
+$UI_BATTLE_CASH_OUT?	Confermi?
+$UI_BATTLE_CASH_OUT_TEXT	Vuoi terminare la battaglia e riscuotere le ricompense ottenute finora?
+$UI_BATTLE_WAVE_BUTT_NUMS	font_next:13,font_cash_out:11,font_next_x_off:0,font_next_y_off:-4,font_cash_out_x_off:0,font_cash_out_y_off:-1
+$FB_LIKE_US_TEXT	Clicca "Mi piace" sulla nostra pagina di Facebook e<N>vinci questo premio GRATUITO!
+$FB_LIKE_US_YES	Ok!
+$FB_LIKE_US_NO	Hahaha. No.
+$FB_THANKS_TEXT	Grazie per averci supportato su Facebook!<N>Hai già ottenuto il premio!
+$FB_THANKS_OK	Ok
+$FB_THANKS_SUCKS	Facebook fa schifo
+$FB_REBEL_TEXT	Giusto, fagliela vedere!<N>Tieni questo invece.
+$FB_SECOND_PITCH	Puoi ancora ottenere il premio<N>cliccando mi piace sulla nostra pagina di Facebook!
+$FB_SECOND_PITCH_YES	Ok!
+$FB_SECOND_PITCH_NO	Mai!
+$FB_NUMS	font:14,y_off:0,x_off:0,width_off:10
+$FB_HARD_SELL_TEXT	Davvero?<N>Guarda! È così luccicante!
+$FB_HARD_SELL_YES	Be'... ok.
+$FB_HARD_SELL_NO	Ho detto mai!
+$FB_HARD_SELL_NUMS	yes_font:16,no_font:16,yes_off_y:0,yes_off_x:0,no_off_y:0,no_off_x:0
+$FB_PERSISTENT_NUMS	yes_font:15,no_font:16,yes_off_y:-6,yes_off_x:0,no_off_y:0,no_off_x:0
+$FB_PERSISTENT_TEXT	Ok, hai vinto!<N>Puoi averlo lo stesso :)
+$FB_PERSISTENT_OK	Alla fine ho vinto io!
+$FB_THIS_ITEM_WILL_NOW	Questo oggetto ora apparirà sempre nell'inventario di qualsiasi giocatore.
+$DEFQ2_CLICK_TEXT	Defender's Quest II è in arrivo!<N>Dagli un'occhiata e vinci questo premio!
+$DEFQ2_SECOND_PITCH	Puoi ancora ottenere il premio<N>visitando il sito di<N>Defender's Quest II!
+$BOOK_PSI_TAX	Tassa PSI: 
+$BOOK_COST_MULT	Costo dell'incantesimo x
+$BOOK_COOL_MULT	Ricarica dell'incantesimo x
+$STATUS_DESC_FB_HAPPY	+<PERCENT>% velocità.	COMMENT: Status descriptions have LOTS of variables. Ask Lars is you have any questions.
+$STATUS_DESC_FB_SAD	-<PERCENT>% velocità.
+$STATUS_DESC_FB_BORED	Non ha voglia di muoversi.
+$STATUS_DESC_FB_LOL	+<PERCENT>% velocità.
+$STATUS_DESC_FB_OMG	+<PERCENT>% velocità, -<PERCENT>% resistenza danni.
+$STATUS_DESC_EXISTENTIAL	-<PERCENT>% velocità, +<PERCENT>% resistenza danni.
+$STATUS_DESC_TROLL	Schiva il <PERCENT> % degli attacchi.
+$STATUS_DESC_ANONYMOUS	+<PERCENT>% possibilità di schivare. Colpisce sempre i TROLL per <PERCENT2>% danno
+$STATUS_DESC_DARK	Schiva gli attacchi non ad area d'effetto il <PERCENT>% delle volte.
+$STATUS_DESC_LIGHT	Rimuove oscurità.
+$STATUS_DESC_FRENZY	Aumenta la velocità del <M_MULT_PERCENT>%
+$STATUS_DESC_BLINDED	Gli attacchi mancano il <PERCENT>% delle volte.
+$STATUS_DESC_BLEED	Subisce +<PERCENT>% DAN.
+$STATUS_DESC_EVER_POISON	<INTI> DAN/sec.
+$STATUS_DESC_DISEASE	Rigenerazione ridotta del <PERCENT>%
+$STATUS_DESC_POISON	<INTI> DAN/sec per <TIME> sec
+$STATUS_DESC_TOXIC	<INTI> DAN/sec per <TIME> sec, esplode alla morte per il <PERCENT2>% dei PV del difensore
+$STATUS_DESC_EVER_TOXIC	<INTI> DAN/sec, esplode alla morte per il <PERCENT2>% della vita del difensore
+$STATUS_DESC_SINGLE_STUN	Non può muoversi. Può essere inflitto solo una volta.
+$STATUS_DESC_STUN	Non si può muovere.
+$STATUS_DESC_BURN	<AMT_1DIG> DMG/sec<N>Cancellato dal ghiaccio.
+$STATUS_DESC_INSPIRED	Gli attacchi provocano +<M_MULT_PERCENT>% DAN.
+$STATUS_DESC_FREEZE	Impedisce il movimento.<N>Annullato dal fuoco.
+$STATUS_DESC_CHILL	-<PERCENT>% velocità.<N>Cancellato dal fuoco.
+$STATUS_DESC_SLOW	-<PERCENT>% velocità.
+$STATUS_TIME_LEFT	<TIME_LEFT>/<TIME> secondi rimasti.
+$STATUS_TIME_FOREVER	Durata infinita.
+$FLAV_DESC_LIGHT	I nemici OSCURI subiscono +<AMT_2DIG>x<EXTRA>DAN e sono più facili da colpire per <TIME><EXTRA_TIME> sec.
+$FLAV_DESC_LIGHT_SHORT	I nemici OSCURI sono più facili da colpire e subiscono danni extra.
+$FLAV_DESC_BLINDED	Gli attacchi nemici falliscono il <PERCENT>% <EXTRA>delle volte per <TIME><EXTRA_TIME> sec.
+$FLAV_DESC_BLINDED_SHORT	Gli attacchi nemici sono meno accurati per pochi secondi.
+$FLAV_DESC_CONFUSED	Il nemico cammina all'indietro per <TIME><EXTRA_TIME> sec.
+$FLAV_DESC_CONFUSED_SHORT	Il nemico cammina all'indietro per qualche istante.
+$FLAV_DESC_BLEED	Il nemico subisce il <PERCENT>%<EXTRA> più di danno dai colpi successivi per <TIME><EXTRA_TIME> sec.
+$FLAV_DESC_BLEED_SHORT	Il nemico riceve temporaneamente più danni dai colpi futuri.
+$FLAV_DESC_KNOCK_BACK	Il nemico viene respinto di <AMT_1DIG><EXTRA> caselle.
+$FLAV_DESC_KNOCK_BACK_SHORT	Il nemico viene respinto di qualche casella.
+$FLAV_DESC_DISEASE	La rigenerazione del nemico è ridotta del <PERCENT>%<EXTRA>.
+$FLAV_DESC_DISEASE_SHORT	La rigenerazione della salute del nemico diminuisce.
+$FLAV_DESC_POISON	Il nemico subisce il <PERCENT>%<EXTRA> del danno dell'attacco ogni secondo per <TIME><EXTRA_TIME> sec.
+$FLAV_DESC_POISON_DIRECT	Il nemico subisce <AMTDMG><EXTRA> dan ogni secondo per <TIME><EXTRA_TIME> sec.
+$FLAV_DESC_POISON_SHORT	Il nemico subisce danni per un periodo di tempo limitato.
+$FLAV_DESC_SINGLE_STUN	Il nemico non si può muovere per <TIME><EXTRA_TIME> sec. Può essere inflitto solo una volta.
+$FLAV_DESC_SINGLE_STUN_SHORT	Il nemico non può muoversi per qualche secondo. Può essere inflitto solo una volta.
+$FLAV_DESC_STUN	Il nemicon non si può muovere per <TIME><EXTRA_TIME> sec.
+$FLAV_DESC_STUN_SHORT	Il nemico non può muoversi temporaneamente.
+$FLAV_DESC_AUTO_KILL	I nemici al di sotto del <PERCENT>%<EXTRA> dei PV muoiono automaticamente.
+$FLAV_DESC_AUTO_KILL_SHORT	I nemici sufficentemente deboli muoiono all'istante.
+$FLAV_DESC_BURN	Il nemico subisce <AMTDMG><EXTRA> dan/sec per <TIME><EXTRA_TIME> sec. Annullato dal ghiaccio.
+$FLAV_DESC_BURN_SHORT	Il nemico subisce danni per un breve periodo di tempo. Annullato dal ghiaccio.
+$FLAV_DESC_INSPIRE	Gli alleati provocano il <M_MULT_PERCENT>%<EXTRA> di danni in più per <TIME><EXTRA_TIME> sec.
+$FLAV_DESC_INSPIRE_SHORT	Gli alleati provocano temporaneamente più danni.
+$FLAV_DESC_FREEZE	Il nemico è congelato per <TIME><EXTRA_TIME> sec. Il fuoco annulla l'effetto.
+$FLAV_DESC_FREEZE_SHORT	Il nemico è temporaneamente congelato. Il fuoco annulla l'effetto.
+$FLAV_DESC_ARMOR_PIERCE_DIRECT	Gli attacchi ignorano <AMTDMG><EXTRA> punti armatura.
+$FLAV_DESC_ARMOR_PIERCE_AMT_LESS_1	Ignora 1 punto armatura per ogni <INV_AMOUNT><EXTRA> punti DAN dell'attacco.
+$FLAV_DESC_ARMOR_PIERCE_AMT_GRTR_1	Ignora <AMT_1DIG><EXTRA> punti armatura per ogni punto DAN dell'attacco.
+$FLAV_DESC_ARMOR_PIERCE_SHORT	Gli attacchi ignorano parte dell'armatura.
+$FLAV_DESC_ARMOR_BREAK_DIRECT	Gli attacchi distruggono <AMTDMG><EXTRA> punti armatura.
+$FLAV_DESC_ARMOR_BREAK_AMT_LESS_1	Distrugge 1 punto armatura per ogni <INV_AMOUNT><EXTRA> punti DAN dell'attacco.
+$FLAV_DESC_ARMOR_BREAK_AMT_GRTR_1	Distrugge <AMT_2DIG><EXTRA> punti armatura per ogni punto DAN dell'attacco.
+$FLAV_DESC_ARMOR_BREAK_SHORT	Gli attacchi danneggiano l'armatura.
+$FLAV_DESC_CHILL	Il nemico è rallentato del <PERCENT>%<EXTRA> per <TIME><EXTRA_TIME> sec. Il fuoco cancella questo effetto.
+$FLAV_DESC_CHILL_SHORT	Il nemico è rallentato per qualche secondo. Il fuoco cancella l'effetto.
+$FLAV_DESC_SLOW	Il nemico viene rallentato del <PERCENT>%<EXTRA> per <TIME><EXTRA_TIME> sec.
+$FLAV_DESC_SLOW_SHORT	Il nemico è temporaneamente rallentato.
+$FLAV_DESC_STRIKE_THROUGH	L'attacco può colpire sino a <INTI><EXTRA> nemici.
+$FLAV_DESC_STRIKE_THROUGH_SHORT	L'attacco può colpire bersagli multipli.
+$FLAV_DESC_CRITICAL	Danno = <AMT_1DIG>x<EXTRA> del normale.
+$FLAV_DESC_CRITICAL_SHORT	Il danno è superiore al normale.
+$STAT_DESC_HP	PUNTI VITA<N>Se raggiungono 0, vieni messo KO.
+$STAT_DESC_SPEED	VELOCITÀ<N>Velocità di ricarica degli attacchi:<N>Ogni <SPEED_SHOW_MULT> punti la velocità di ricarica aumenta di 1x
+$STAT_DESC_SPEED_ENEMY	VELOCITÀ<N>Quanto rapidamente il nemico è in grado di muoversi ed attaccare. 1 punto = 1 casella al secondo.
+$STAT_DESC_ATTACK	ATTACCO<N>Aumenta il danno delle tecniche.
+$STAT_DESC_ATTACK_ENEMY	ATTACCO<N>Danno inflitto dall'attacco migliore del nemico.
+$STAT_DESC_DEFENSE	DIFESA<N>Quantità di danni assorbiti.
+$STAT_DESC_DEFENSE_ENEMY	ARMATURA<N>Quantità di danni assorbiti.
+$STAT_DESC_STRONGS	CARATTERISTICHE
+$STAT_DESC_WEAKS	PUNTI DEBOLI
+$STAT_DESC_REGEN	RIGENERAZIONE<N>La velocità con cui i PV vengono recuperati naturalmente, in PV/sec.
+$STAT_DESC_REGEN_ENEMY	RIGENERAZIONE<N>La velocità con cui i PV vengono recuperati naturalmente, in PV/sec.
+$STAT_DESC_EVADE	EVASIONE<N>Probabilità di schivare gli attacchi nemici.
+$STAT_DESC_EVADE_ENEMY	EVASIONE<N>Probabilità di schivare gli attacchi.
+$STAT_DESC_RANGE	RAGGIO<N>Portata degli attacchi.
+$STAT_DESC_RANGE_ENEMY	RAGGIO<N>La portata degli attacchi.
+$STAT_DESC_SPELLS	INCANTESIMI
+$STAT_DESC_PORCUPINE	SPINE<N>Provocano una certa quantità di danni a chi lo colpisce nel corpo a corpo.
+$STAT_DESC_PHASING	PASSAGGIO DI FASE<N>Si muove periodicamente dentro e fuori dalla realtà; non può essere colpito o preso di mira quando non è completamente in questo mondo.
+$STAT_DESC_BARRIER	BARRIERA<N>Strati di protezione dal danno. Soltanto una magia estremamente potente può renderli inefficaci.
+$STAT_DESC_FINAL_HIT	COLPO FINALE<N>Quanto danno riceve <FINAL_HIT_TARGET> quando il nemico arriva alla fine.
+$STRONG_DMG_MULT	<PERCENT>% resistenza DANNI <FLAVOR>
+$STRONG_EVADE	<PERCENT>% evasione danni <FLAVOR>
+$MISC_SKILLTREE_DESC_NUMS	x_off:-8
+$MISC_SKILLTREE_STATS_NUMS	x_off:-8,width_delta:16
+$SKILL_DESC_PSI_COST	Costo Psi
+$SKILL_DESC_COOLDOWN	Ricarica
+$SKILL_DESC_EFFECT	Effetto
+$SKILL_DESC_TARGET	Bersaglio
+$SKILL_DESC_HITS	Colpi
+$SKILL_DESC_HITS_NUM	# Colpi
+$SKILL_DESC_SPECIAL	
+$SKILL_DESC_SPLASH	Area
+$SKILL_DESC_DMG	Danno
+$SKILL_DESC_ADDS_CHANCE_TO_ALL	Aggiunge <PERCENT>%<EXTRA> possibilità di <FLAV>* a tutti gli attacchi.
+$SKILL_DESC_ADDS_CHANCE_TO_ONE	Aggiunge <PERCENT>%<EXTRA> possibilità di <FLAV>* a <LQ><ATTACK><RQ>.
+$SKILL_DESC_ADDS_TO_ALL	Aggiunge <FLAV>* a tutti gli attacchi.
+$SKILL_DESC_ADDS_TO_ONE	Aggiunge <FLAV>* a <LQ><ATTACK><RQ>.
+$SKILL_DESC_TOTAL_BONUS	Il bonus totale a <STAT>*<N>diventa +<AMOUNT><EXTRA>.
+$SKILL_SPECIAL_HEAL	<RE>$MISC_HEAL
+$SKILL_SPECIAL_COUNTER	<RE>$MISC_COUNTER
+$SKILL_SPECIAL_ATTACK	<RE>$MISC_ATTACK
+$MISC_FOE_SINGULAR	nemico
+$MISC_FOE_PLURAL	nemici
+$MISC_FRIEND_SINGULAR	alleato
+$MISC_FRIEND_PLURAL	alleati
+$MISC_1_FOE	1 nemico
+$MISC_X_FOES	<NUM> nemici
+$MISC_1_FRIEND	1 alleato
+$MISC_X_FRIENDS	<NUM> alleati
+$MISC_ALL_FOES	Tutti i nemici a portata di tiro
+$MISC_ALL_FOES_IN	Tutti i nemici entro <TILES> caselle
+$MISC_ALL_FRIENDS	Tutti gli alleati nelle vicinanze
+$MISC_ALL_FRIENDS_IN	Tutti gli alleati entro <TILES> caselle
+$MISC_ALL_TARGETS	Bersagli a portata di tiro
+$MISC_ALL_TARGETS_IN	Bersagli entro <TILES> caselle
+$MISC_X_HITS_FOE	<NUM> per nemico
+$MISC_X_HITS_FRIEND	<NUM> per alleato
+$MISC_X_HITS_TARGET	<NUM> per bersaglio
+$MISC_X_HITS_TOTAL	<NUM> in totale
+$MISC_UP_TO_X_FRIENDS	Fino a <NUM> <FRIEND>
+$MISC_UP_TO_X_FOES	Fino a <NUM> <FOE>
+$MISC_SPLASH_DAMAGE	Area
+$MISC_SPLASH_LINE	<AMT> danno, <TILES> caselle
+$MISC_SAVED!	Salvato!
+$MISC_MISS	mancato
+$MISC_PROBLEM?	problemi?
+$MISC_COUNTER	contrattacco
+$MISC_COUNTER!	CONTRATTACCO!
+$MISC_NOM!	GNAM!
+$MISC_ACHIEVEMENT!	Achievement!
+$BASE_ATTACK	Attacco base
+$BONUS_DEFENSE	Difesa bonus
+$DECIMATE_BY	Riduce i PV del <PERCENT>%
+$EN_SPELL_FRENZY_DESC	+<PERCENT>% velocità per <SEC> sec
+$EN_SPELL_HEAL_DESC	Guarisce: <PERCENT> PV
+$EN_SPELL_DRAGON_FIRE_1_DESC	<DMG> DANNO
+$EN_SPELL_DRAGON_FIRE_2_DESC	<LOW>-<HIGH> DANNO
+$SPECIAL_IMPROVES	Migliora <FLAVOR>:
+$SPECIAL_PLUS_FLAV	Provoca <FLAVOR>:
+$SPECIAL_SAVE_VS	Salvataggio vs. <FLAVOR> se PV >= <PERCENT>%
+$TARGET_FIRST_TITLE	Attacca il PRIMO
+$TARGET_FIRST_TEXT	Attacca il nemico più vicino alla fine.
+$TARGET_LAST_TITLE	Attacca l'ULTIMO
+$TARGET_LAST_TEXT	Attacca il nemico più lontano dalla fine.
+$TARGET_STRONG_TITLE	Attacca il più FORTE
+$TARGET_STRONG_TEXT	Attacca il nemico con PV e Armatura più alti.
+$TARGET_WEAK_TITLE	Attacca il più DEBOLE
+$TARGET_WEAK_TEXT	Attacca il nemico con PV e Armatura più bassi.
+$TARGET_FAST_TITLE	Attacca il più VELOCE
+$TARGET_FAST_TEXT	Attacca il nemico che si muove più velocemente.
+$TARGET_HEAL_TITLE	Prioritizza la GUARIGIONE
+$TARGET_HEAL_TEXT	Guarisce ogni qualvolta è possibile, anche se è disponibile un attacco più potente.
+$TARGET_FIGHT_TITLE	Prioritizza gli ATTACCHI
+$TARGET_FIGHT_TEXT	Usa le abilità di attacco il prima possibile, anche quando è pronta una tecnica di cura più potente.
+$TARGET_BOTH_TITLE	Priorità normale
+$TARGET_BOTH_TEXT	Usa le tecniche in base al livello di potenziamento.
+$TARGET_CHEAP_TITLE	Tecniche MODERATE
+$TARGET_CHEAP_TEXT	Risparmia le tecniche più potenti per i bersagli che non possono essere uccisi con quelle minori.
+$TARGET_EFFECT_TITLE	Ottimizza gli EFFETTI
+$TARGET_EFFECT_TEXT	Usa gli attacchi che provocano effetti secondari contro nemici che non ne sono affetti.
+$TARGET_BULLDOG_TITLE	Modalità BULLDOG
+$TARGET_BULLDOG_TEXT	Non cambia mai bersaglio fino a quando il nemico muore o è fuori portata.<N><N>Difficile da impiegare al meglio, raccomandato solo ai giocatori esperti!
+$TARGET_CHANCE_TITLE	Migliore PROBABILITÀ
+$TARGET_CHANCE_TEXT	Attacca il nemico che ha meno probabilità di schivare o resistere all'attacco.
+$TARGET_BOSS_TITLE	Attacca i BOSS
+$TARGET_BOSS_TEXT	Se disattivato, ignora i boss.
+$TARGET_SAVE_TITLE	Impostazioni di SALVATAGGIO
+$TARGET_SAVE_TEXT	Salva e ricorda le impostazioni di attacco per questo personaggio.
+$CONFIRM_RES_CHANGE	Risoluzione cambiata.<N>Va bene così?<N><N>RIPRISTINO DELLE IMPOSTAZIONI PRECEDENTI IN <SECONDS> SECONDI.
+$CONFIRM_RESTART_TITLE	Ricominciare la battaglia?
+$CONFIRM_RESTART_TEXT	Perderai tutto il denaro e l'esperienza accumulati in questo livello.
+$CONFIRM_QUIT_TITLE	Esci dalla battaglia?
+$CONFIRM_QUIT_TEXT	<RE>$CONFIRM_RESTART_TEXT
+$MISC_LEADER	Capogruppo
+$MISC_LEVEL	livello
+$MISC_LVLUP	LVLUP
+$MISC_LEVEL_UPX	LEVEL UPx
+$MISC_LEVEL_UP!	LEVEL UP!
+$MISC_ANONYMOUS	anonimo
+$MISC_LEVEL_SHORT	LIV
+$PARTY_CLASS_NAME_NUMS	x_off:-16
+$PARTY_HP	PV
+$PARTY_PSI	PSI
+$PARTY_XP	ESP
+$PARTY_ATTACK	Attacco:<T>
+$PARTY_RANGE	Portata:<T>
+$PARTY_SPEED	Velocità:<T>
+$PARTY_DEFEND	Difesa:<T><T>
+$PARTY_EVADE	Evasione:<T>
+$PARTY_REGEN	Rigenerazione:<T>
+$MISC_HP	Punti vita
+$MISC_HP_SHORT	PV
+$MISC_PSI	psi
+$MISC_SPEED	velocità
+$MISC_SPEED_SHORT	VEL
+$MISC_ATTACK	attacco
+$MISC_ATTACK_SHORT	ATT
+$MISC_ARMOR	armatura
+$UI_TOWN_ARMOR_NUMS	font:13,y_off:1
+$MISC_ARMOR_SHORT	ARM
+$MISC_EVADE	evasione
+$MISC_EVADE_SHORT	EVA
+$MISC_EVASION	evasione
+$MISC_DEFEND	difesa
+$MISC_DEFENSE	difesa
+$MISC_DEFENSE_SHORT	DIF
+$MISC_RANGE	portata
+$MISC_RANGE_SHORT	RAG
+$MISC_REGEN_LONG	rigenerazione
+$MISC_REGEN	rigen
+$MISC_REGEN_SHORT	RIG
+$MISC_OF_DAMAGE	di DANNO
+$MISC_DAMAGE	danno
+$MISC_DAMAGE_SHORT	DAN
+$MISC_DAMAGE_RESIST	resistenza DANNO
+$MISC_RESIST	resiste <SOMETHING>
+$MISC_VS	vs
+$MISC_TO	a
+$MISC_VERSUS	versus
+$MISC_DEF_SHORT	DIF
+$MISC_PHASES	cambiamento di fase
+$MISC_SWIMS	nuota
+$MISC_WALKS_ON	cammina su
+$MISC_HEAL	guarigione
+$MISC_DEATH_SPLASH	esplode alla morte
+$MISC_PORCUPINE	spine
+$MISC_DARK	oscuro
+$MISC_DARK_DESC	(evita il 75% degli attacchi)
+$MISC_SPAWNS	genera
+$MISC_STRENGTHS	abilità
+$MISC_WEAKNESSES	debolezze
+$MISC_IMMUNE_TO	Immune a <SOMETHING>
+$MISC_AMOUNT	quantità
+$MISC_AMOUNT_SHORT	qnt
+$MISC_SECOND	secondo
+$MISC_SECONDS	secondi
+$MISC_SECOND_SHORT	sec
+$MISC_SECONDS_SHORT	sec
+$MISC_CHANCE	probabilità
+$MISC_THRESHOLD	limite
+$MISC_BASE_ATTACK	attacco base
+$MISC_BONUS_DEFENSE	difesa base
+$MISC_SAVED	salvato
+$MISC_UNSAVED	non salvato
+$MISC_EXIT	esci
+$MISC_QUIT	abbandona
+$MISC_CLOSE	chiudi
+$MISC_TRY_AGAIN	Prova ancora
+$MISC_RANDOM	casuale
+$MISC_HIRE	ASSOLDA!
+$MISC_CANT_AFFORD	Non te lo puoi permettere
+$MISC_CONFIRM_RECRUIT	Conferma Reclutamento
+$MISC_CONFIRM_CHANGE	Conferma Cambiamenti
+$MISC_MAKE_CHANGE	Vuoi fare questi cambiamenti?
+$MISC_HIRE_Q	Paga <SCRAP> scarti per reclutare <NAME>?
+$MISC_MODS	Mod
+$MISC_CONFIG_DIR	Cartella di configurazione
+$MISC_LANGUAGES	Lingue
+$MISC_PLEASE_ENTER_A_NAME!	<N>Per favore, scrivi un nome!
+$MISC_ARE_YOU_SURE	Sei sicuro?
+$MISC_NEXT	avanti
+$MISC_PREVIOUS	precedente
+$MISC_PREV	prec
+$MISC_CANCEL	annulla
+$MISC_UNDO_ALL	annulla tutto
+$MISC_UNDO	annulla
+$MISC_DOWNLOAD	download
+$MISC_BEGIN	inizia
+$MISC_LEAVE	esci
+$MISC_WEAPONS	armi
+$MISC_ARMOR	armature
+$MISC_RECRUIT	recluta
+$MISC_TALK	parla
+$MISC_QUIT	esci
+$MISC_ENTER	entra
+$MISC_YES	si
+$MISC_NO	no
+$MISC_OK	ok
+$MISC_ACCEPT	accetta
+$MISC_BACK	indietro
+$MISC_REFUSE	rifiuta
+$MISC_RESTART	ricomincia
+$MISC_OKAY	okay
+$MISC_QUIT_BATTLE	esci dalla battaglia
+$MISC_NONE	nessuna
+$MISC_SLOW	lenta
+$MISC_FAST	veloce
+$MISC_XP	esp.
+$MISC_EXPERIENCE	esperienza
+$MISC_SCRAP	scarti
+$MISC_COST	costo
+$MISC_GAIN	guadagno
+$MISC_CASUAL	facile
+$MISC_CASUAL_SHORT	facile
+$MISC_EASY	normale
+$MISC_EASY_SHORT	normale
+$MISC_NORMAL	normale
+$MISC_NORMAL_SHORT	normale
+$MISC_ADVANCED	avanzata
+$MISC_ADVANCED_SHORT	avanz.
+$MISC_EXTREME	estrema
+$MISC_EXTREME_SHORT	estr.
+$MISC_SELECT_CHALLENGE	Seleziona difficoltà:
+$MISC_REWARD	Ricompensa:
+$MISC_PERFECT_BONUS	Bonus Perfez.:
+$MISC_WAVES	Ondate
+$MISC_ENEMY_LEVELS	Livello nemici
+$MISC_TYPES	Tipo
+$MISC_PASS	superamento
+$MISC_PERFECT	perfezione
+$MISC_PERFECT!	perfetto!
+$MISC_COMPLETE	completato
+$MISC_COMPLETE!	completato!
+$MISC_STRANGER	straniero
+$MISC_DESCRIPTION	descrizione
+$MISC_DEFENDER	difensore
+$MISC_DEFENDERS	difensori
+$MISC_STATS	attributi
+$MISC_STATUS	stato
+$MISC_NO_AFFORD	TROPPO COSTOSO
+$MISC_BUY	compra
+$MISC_UPGRADE	migliora
+$MISC_SELL	vendi
+$MISC_NOTHING	niente
+$MISC_NOTHING!	niente!
+$MISC_SPECIAL	proprietà
+$MISC_UNKNOWN	sconosciuto
+$MISC_MORE	altro oggetto...
+$MISC_X_MORE	ancora <X>...
+$MISC_EQUIP	equipaggia
+$UI_SHOP_EQUIP_NUMS	font:10,y_off:4
+$MISC_CANT_EQUIP!	Non si può equipaggiare
+$MISC_UNEQUIP	rimuovi
+$MISC_SKILLS	abilità
+$MISC_SKILLTREE_SKILL_NUMS	font:12,x_off:0,y_off:0
+$MISC_SKILL	abilità
+$MISC_BOOST	liv.
+$MISC_SPELL	incantesimo
+$MISC_LOCKED	bloccato
+$MISC_SKIP	salta
+$MISC_NOTHING_TO_EQUIP	Niente da equipaggiare!
+$MISC_ENABLED	abilita
+$MISC_DISABLED	disabilitato
+$MISC_CONFIRM	conferma
+$MISC_YOU_SURE	Sei sicuro?
+$MISC_LOADING	Caricamento...
+$MISC_ENTER_TEXT	Enter Text:", "WIP
+$MISC_LOADING_PERCENT	Caricamento...<PERCENT>%
+$MISC_BATTLE	Battaglia
+$MISC_TOWN	Cittadina
+$MISC_JOURNAL	Diario
+$MISC_MOVIES	Scene
+$MISC_OPTIONS	Opzioni
+$MISC_CREDITS	Crediti
+$MISC_PARTY	Gruppo
+$MISC_ERROR	errore", 
+$"$MISC_ERROR!	errore!
+$MISC_BONUS	Bonus
+$MISC_TIPS	Consigli
+$MISC_CONTINUE	continua
+$MISC_PLEASE_WAIT	Attendere prego...
+$MISC_CLICK_HERE	clicca qui
+$MISC_ASSIGN_POINTS	Assegna<N>Punti
+$MISC_NOBODY	Nessuno
+$MISC_EMPTY	Vuoto
+$MISC_CHANGE	Cambia
+$MISC_RESET	Resetta
+$MISC_DEFAULT	Default
+$MISC_SELECT	Seleziona
+$MISC_DESELECT_SPELL	Clicca al di fuori del terreno di battaglia per deselezionare gli incantesimi
+$DATA_DUMP_LOCALES	Esportazione localizzazione...", "WIP
+$DATA_DUMP_DATA	Esportazione file di dati...
+$DATA_DUMP_CUTSCENE	Esportazione immagini scenette...
+$DATA_DUMP_BKG	Esportazione sfondi...
+$DATA_DUMP_EMBED	Esportazione grafica integrata...
+$DATA_DUMP_IMAGES	Esportazione immagini dati...
+$DATA_DUMP_TABLES	Esportazione tabelle dati...
+$DATA_DUMP_MOD_INFO	Esportazione informazioni mod...
+$DATA_DUMP_MAP_FILES	Esportazione file della mappa...
+$DATA_DUMP_MAP_IMAGES	Esportazione immagini della mappa...
+$DATA_DUMP_AUDIO	Esportazione audio...
+$REWARD_NEXT_LEVEL	Sblocca il prossimo livello
+$REWARD_FINISH	Finisce il gioco
+$REWARD_QUEST	Missione completata
+$REWARD_NO_XP	Niente!
+$REWARD_NO_GOLD	Niente!
+$REWARD_XP	+ <XP> ESP
+$REWARD_GOLD	+ <GOLD> Scarti
+$HERO_BLURB_SLAK	Uno strano giovane, tanto coraggioso quanto instabile...
+$HERO_BLURB_KETTA	Una cacciatrice nomade, cinica e disillusa...
+$HERO_BLURB_BAKAL	Un vecchio monaco dai modi gentili, in cerca di perdono per i suoi peccati...
+$HERO_BLURB_WRENNA	L'ultima principessa Quaid, dal cuore pieno di vendetta per il suo regno perduto...
+$HERO_BLURB_MARKOS	Un giovane e valente cavaliere, ansioso di dar prova di sè...
+$HERO_BLURB_NIRU	Violenta e misteriosa, questa draghessa è gelosa dei suoi segreti...
+$TALK_ASH	PROFUGO ASH
+$TALK_QUAID	PROFUGO QUAID
+$TALK_NOMAD	PROFUGO NOMADE
+$TALK_CULTIST	SACERDOTE CULTISTA
+$MAP_TEXT_LAIR	Antro
+$MAP_TEXT_SHRINE	Santuario
+$MAP_TEXT_HERMIT	Eremita
+$MAP_TEXT_PRISON	Prigione
+$MAP_TEXT_UNKNOWN	???
+$MAP_TEXT_TREASURE	Caverna
+$MCGUFFIN_LEARN_SPELL	<MCG> ha imparato un nuovo incantesimo!
+$YOU_GOT_JOIN	<NAME><N>si unisce al gruppo!
+$YOU_GOT	Hai ottenuto
+$YOU_GOT_SCRAP	<SCRAP> scarti!
+$YOU_GOT_X	<NUM>x <THING>!
+$YOU_GOT_NO_EQUIP_YET	Nessuno nel tuo gruppo è in grado di usare questo <THING>.<N>Non preoccuparti, continua a giocare e troverai nuovi personaggi a cui tornerà utile.
+$YOU_GOT_NO_EQUIP	Questo oggetto non può essere equipaggiato.
+$TOOLTIP_CASUAL	In modalità facile, i nemici sono più fragili e provocano meno danni.
+$TOOLTIP_NORMAL	Difficoltà normale.<N><N>La maggior parte dei giocatori dovrebbe iniziare qui.
+$TOOLTIP_ADVANCED	Una sfida impegnativa, con ricompense migliori.<N><N>Ritorna quando sarai abbastanza forte.
+$TOOLTIP_EXTREME	La sfida più difficile, con le ricompense migliori in assoluto.<N><N>Preparati!
+$TIP_00_TITLE	Non riesci a proseguire?
+$TIP_00_TEXT	<N><N>A volte è utile ripetere una battaglia precedente per aumentare di livello, guadagnare oro, e comprare equipaggia-<N>mento migliore.<N> Puoi anche provare la difficoltà 'Facile' per una sfida un po' meno impegnativa.
+$TIP_10_TITLE	Hotkeys
+$TIP_10_TEXT	Puoi controllare il gioco tramite tastiera!<N><N>- Seleziona incantesimi<N>- Scegli i personaggi da evocare<N>- Potenzia / richiama i difensori<N>- Metti in pausa / riprendi il gioco<N>- Seleziona i difensori evocati<N>- Cambia le opzioni di combattimento/velocità<N>- Naviga l'interfaccia con Tab<N>- Muovi il cursore/clicca con la tastiera<N><N>(Modifica i tasti dal menu opzioni)
+$TIP_20_TITLE	Abilità
+$TIP_20_TEXT	Ogni difensore guadagna un punto abilità quando aumenta di livello.<N><N>Assegna questi punti nel menù del gruppo per sbloccare nuove abilità di combattimento.<N><N>1) TECNICHE (cerchi) - attacchi usati in battaglia<N>2) CARATTERISTICHE (quadrati) - abilità passive, che funzionano sempre.<N><N>Le tecniche più avanzate possono essere usate in battaglia solo potenziando i personaggi.
+$TIP_30_TITLE	Chi guadagna esperienza?
+$TIP_30_TEXT	<N><N>Dopo una battaglia, tutti i personaggi ancora attivi sulla mappa ricevono la stessa quantità di esperienza.<N><N>Tutti gli altri ne ricevono la metà. L'esperienza per personaggio rimane la stessa a prescindere dal numero dei personaggi.<N><N>Puoi cambiare questi valori nel menu Accessibilità.
+$TIP_40_TITLE	Mappa
+$TIP_40_TEXT	Puoi cliccare e trascinare il mouse per muoverti nella mappa, o navigare con la tastiera.<N><N>Puoi scorrere la mappa con i tasti freccia.
+$TIP_50_TITLE	Richiamare unità per il 100% di Psi
+$TIP_50_TEXT	Normalmente, richiamare i difensori recupera solo una parte dell'energia Psi spesa.<N><N>Ma se li richiami prima dell'arrivo del primo nemico, ne recuperi il 100%!
+$TIP_60_TITLE	Sito Web e Forum
+$TIP_60_TEXT	Se hai delle domande, unisciti alla comunità online di Defender's Quest a www.defendersquest.com!<N><N>Abbiamo un forum dove puoi chiedere informazioni, una wiki, ed anche un blog.
+$TIP_70_TITLE	Posiziona i difensori
+$TIP_70_TEXT	Puoi usare la tastiera per posizionare i difensori in battaglia.<N><N>I controlli predefiniti sono i tasti freccia.
+$TIP_80_TITLE	Effetti in battaglia
+$TIP_80_TEXT	Il colore dei numeri indica il tipo di danno. Bianco è normale, grigio è ridotto da armatura, rosso è danno extra da sanguinamento, viola è veleno, arancione è fuoco, ed i numeri più grandi del normale sono colpi critici. <N><N>Puoi attivarli/disattivarli dal menu opzioni -> 'Varie.'
+$TIP_90_TITLE	Oggetti Unici
+$TIP_90_TEXT	Giocando ai livelli di difficoltà più alti, troverai occasionalmente degli oggetti unici.  Sono potenti artefatti collezionabili che non possono essere venduti nei negozi.
+$TIP_100_TITLE	Richiamare i difensori
+$TIP_100_TEXT	Richiamare i difensori evocati ti permetterà di recuperare parte dello Psi che hai investito su di loro.<N><N>L'ammontare recuperato diminuisce se il difensore è ferito.
+$TIP_110_TITLE	Accessibilità
+$TIP_110_TEXT	Se hai delle disabilità, controlla le seguenti opzioni nei rispettivi menu:<N><N>1) Video - gioca in modalità a schermo intero, ingrandisci la visuale<N>2) Controlli - riconfigura i tasti<N>3) Accessibilità - togli gli effetti, modifica la velocità di gioco e il moltiplicatore dell'esperienza
+$TIP_120_TITLE	Comunicazione di servizio
+$TIP_120_TEXT	Questo consiglio è stato incluso in modo che nessuno cerchi di di analizzare i codici o decifrare gli enigmi.
+$TIP_130_TITLE	Opzioni di attacco
+$TIP_130_TEXT	Se clicchi su un difensore, puoi impostare le sue opzioni in modo che prioritizzi l'attacco dei nemici vicini, lontani, forti, deboli, o veloci - usa questi comandi per ottimizzare gli attacchi. Per esempio, scegliere 'forti' può aiutarti a concentrare il fuoco sulle unità più grandi o ad ammorbidire un intero gruppo.
+$TIP_140_TITLE	Modalità di Attacco
+$TIP_140_TEXT	Oltre alle opzioni basilari di attacco, ci sono altre quattro impostazioni:<N><N>1) Tecniche moderate <N>2) Ottimizza Effetti <N>3) Probabilità Migliore <N>4) Modalità Bulldog <N><N>Non sono fondamentali, ma possono aiutare i giocatori più abili ad ottimizzare le loro strategie di battaglia. Puoi anche salvare queste impostazioni per ogni personaggio!
+$TIP_150_TITLE	Fuoco e ghiaccio
+$TIP_150_TEXT	Fuoco e ghiaccio non vanno d'accordo. Freddo e ghiaccio cancellano il fuoco, e il fuoco cancella gli effetti del ghiaccio.
+$TIP_160_TITLE	Difficoltà Avanzate
+$TIP_160_TEXT	La difficoltà 'Avanzata' ed 'Estrema' saranno di solito troppo difficili da affrontare subito.<N><N>Provaci dopo aver superato un po' di battaglie normali.
+$TIP_170_TITLE	Equipaggiamento
+$TIP_170_TEXT	Quando compri nuovo equipaggiamento per i tuoi personaggi principali, ricorda che quello vecchio potrebbe tornare utile alle tue reclute.
+$TIP_180_TITLE	La Forza dei Numeri
+$TIP_180_TEXT	Raggruppare i difensori l'uno vicino all'altro fa si che i nemici dividano i loro attacchi, rendendo più facile che ognuno di loro sopravviva.<N><N>Lo svantaggio di questa strategia è che coprirai un'area minore.
+$TIP_190_TITLE	Moltiplicatore delle Ricompense
+$TIP_190_TEXT	Se vuoi modificare la velocità con cui il gioco ti fa avanzare di livello, puoi cambiare il moltiplicatore globale di esperienza dal menu opzioni.<N><N>L'impostazione predefinita è 100%.<N><N>Puoi anche cambiare il moltiplicatore degli scarti.
+$TIP_200_TITLE	Disabilitare Tecniche
+$TIP_200_TEXT	A volte una certa tecnica può interferire con i tuoi piani (magari i tuoi draghi stanno sciogliendo tutto il ghiaccio), oppure vuoi conservare un attacco particolarmente potente per i momenti cruciali. Se è così, puoi cliccare su un difensore, e poi cliccare su una tecnica nel menu in basso a destra per disattivarla temporaneamente.
+$TIP_210_TITLE	Dove sono i miei salvataggi?
+$TIP_210_TEXT	Nel menu dei salvataggi, c'è un pulsante con l'icona di una cartella con una chiave inglese.<N><N>Cliccaci sopra per arrivare alla cartella dove sono archiviati i tuoi salvataggi e le tue preferenze.
+$TIP_220_TITLE	Nuova Partita+
+$TIP_220_TEXT	Dopo aver finito il gioco normale, puoi iniziare una nuova avventura col tuo vecchio gruppo, con battaglie più difficili e ricompense pazzesche!<N><N>Vai alla schermata dei salvataggi e scegli Nuova Partita+ sul tuo vecchio salvataggio.
+$TIP_230_TITLE	Miglioramenti
+$TIP_230_TEXT	In modalità NP+, sarai in grado di guadagnare degli speciali artefatti che puoi usare per migliorare gli oggetti unici ottenuti nella partita normale. Una volta migliorati questi oggetti ottengono poteri speciali!
+$TIP_240_TITLE	Missioni Bonus
+$TIP_240_TEXT	Una volta ottenute abbastanza stelle, inizierai a sbloccare le battaglie bonus. Queste missioni speciali sono più difficili e danno ricompense extra.
+$TIP_250_TITLE	Penalità Psi
+$TIP_250_TEXT	L'incantesimo Fulmine 'brucia' l'energia Psi del nemico, riducendone la quantità ottenibile in proporzione al danno causato. Se l'incantesimo lo danneggia per il 40% dei suoi punti vita totali, varrà il 40% di Psi in meno, e così via.
+$TIP_260_TITLE	Supporto per i Mod
+$TIP_260_TEXT	Sapevi che puoi fare i tuoi mod (modifiche) per Defender's Quest?<N><N>Clicca sul grande pulsante 'M' nel menu dei salvataggi.  Puoi cambiare quasi tutto - attributi, livelli, classi, personaggi, scenette, grafica, oggetti, etc.
+$TIP_270_TITLE	Ricordati della Mamma
+$TIP_270_TEXT	<N><N>Telefona a mammà, che le manchi!
+$TYPE_DARK	Oscuro
+$TYPE_SHEEP	Pecora
+$TYPE_SPLITTER	Mostri sdoppianti
+$TYPE_WORM	Verme
+$TYPE_BOSS	Boss
+$TYPE_NORMAL	Normale
+$TYPE_CULTIST	Cultista
+$TYPE_WATER	Acqua
+$TYPE_FAST	Veloce
+$TYPE_SNAIL	Lumaca
+$TYPE_REVENANT	Revenant
+$TYPE_ATTACKER	Attaccante
+$TYPE_SPITTER	Sputatore
+$TYPE_NUKE_ON_KILL	NukeOnKill
+$TYPE_ARMOR	Corazzato
+$TYPE_STATIONARY	Stazionario
+$TYPE_TELEPORTER	Teletrasporto
+$TYPE_EXALTED	Esaltato
+$TYPE_NO_END_DAMAGE	NessunDannoFinale
+$GETSCRAP1	Una pila di cianfrusaglie, stracci, utensili rotti, e scheggie affilate di metallo arrugginito. Chi potrebbe mai volere questa roba?
+$GETSCRAP2	A quanto pare, i residenti della valle utilizzano questa spazzatura come valuta.
+$MISC_!	!
+$END	fine
+$BATTLE_STARTING_FORMATION_TEXT	Use the same starting formation as last time?
+$DATA_DUMP_BACKGROUNDS	<RE>$DATA_DUMP_BKG
+$DATA_DUMP_CUTSCENES	<RE>$DATA_DUMP_CUTSCENE
+$DATA_DUMP_MUSIC	Exporting music...
+$DATA_DUMP_SFX	Exporting sound effects...
+$DATA_DUMP_SPRITES	Exporting sprites...
+$LQ	“
+$MISC_ABSORB_X	absorb <X>
+$MISC_ABSORB_X_RESIST_Y	absorb <X>, resist <Y>%
+$MISC_ACCEPT_AND_CLOSE	Accept & close
+$MISC_BOOST_X	boost <X>
+$MISC_COST:	cost:
+$MISC_DEFEAT	Defeat
+$MISC_DEFENSE_ABS	defense
+$MISC_DEMO_VERSION	Demo Version
+$MISC_DEMO_VERSION_DESC	This is an early release public demo of Defender's Quest: Valley of the Forgotten, HD Special Edition.<N><N>It may contain a few bugs, and the graphics and features aren't in their final state.<N><N>Please keep in mind this isn't meant to be a representative picture of the final product.
+$MISC_DQ_NEWS	Get NEWS!
+$MISC_DQ_SITE	DefendersQuest.com
+$MISC_EASIER	easier
+$MISC_ERROR_INVALID_MOD_NAME	Invalid mod name!
+$MISC_ERROR_MOD_BAD	That mod is incompatible with this version of the game. Sorry!
+$MISC_ERROR_MOD_EXISTS	A mod with that name already exists!
+$MISC_ERROR_UNKNOWN	Unknown error. Sorry!
+$MISC_ERROR_UNZIP	Couldn't unzip the mod. Change your mod path in the options menu, or check your hard drive space.
+$MISC_GAME_DATA	Game Data
+$MISC_GOLD	scrap
+$MISC_GOLD:	scrap:
+$MISC_HARD	<RE>$MISC_EXTREME
+$MISC_HARDER	harder
+$MISC_HARD_SHORT	<RE>$MISC_EXTREME_SHORT
+$MISC_INFO	info
+$MISC_LEVEL_SHORT_X	LVL <X>
+$MISC_LEVEL_SUPER_SHORT	L
+$MISC_LEVEL_X	Level <X>
+$MISC_MEDIUM	<RE>$MISC_ADVANCED
+$MISC_MEDIUM_SHORT	<RE>$MISC_ADVANCED_SHORT
+$MISC_MENU	menu
+$MISC_NEED_PSI	NEED<N>PSI
+$MISC_NONE_DEFAULT	None *
+$MISC_NO_CHANGE	no change
+$MISC_OTHER	Other
+$MISC_PLUS_X%_TO_ARMOR_MULT	<PLUS_OR_MINUS><X> to ARMOR_MULT
+$MISC_PLUS_X%_TO_DEFENSE_MULT	<PLUS_OR_MINUS><X>% to DEFENSE
+$MISC_PLUS_X%_TO_DODGE	<PLUS_OR_MINUS><X> to EVASION
+$MISC_PLUS_X%_TO_EVADE	<RE>$MISC_PLUS_X%_TO_DODGE
+$MISC_PLUS_X%_TO_REGEN_MULT	<PLUS_OR_MINUS><X>% to REGENERATION
+$MISC_PLUS_X_STAT	+<X> <STAT>
+$MISC_PLUS_X_TO_ARMOR_ABS	<PLUS_OR_MINUS><X> to ARMOR
+$MISC_PLUS_X_TO_ATTACK	<PLUS_OR_MINUS><X> to ATTACK
+$MISC_PLUS_X_TO_ATTACK_SPEED	<PLUS_OR_MINUS><X> to SPEED
+$MISC_PLUS_X_TO_DEFENSE_ABS	<PLUS_OR_MINUS><X> to DEFENSE
+$MISC_PLUS_X_TO_HP	<PLUS_OR_MINUS><X> to HP
+$MISC_PLUS_X_TO_RANGE	<PLUS_OR_MINUS><X> to RANGE
+$MISC_PLUS_X_TO_REGEN_ABS	<PLUS_OR_MINUS><X> to REGENERATION
+$MISC_PSI_SHORT	psi
+$MISC_RESIST_X	resist <X>%
+$MISC_SAVE_DATA	Save Data
+$MISC_SEND_NEXT	Send NEXT
+$MISC_THORNS	thorns
+$MISC_UNIQUE	unique
+$MISC_VICTORY	Victory
+$MISC_WAIT	WAIT
+$MISC_WEAPON	<RE>$MISC_WEAPONS
+$MISC_X_PSI	<X> PSI
+$RQ	”
+$SKILL_DESC_HEAL	Heal
+$STATE_CRASH_DETAILS	Details:
+$STATE_CRASH_PROMPT	What would you like to do?
+$STATE_CRASH_SEND	Send report<N>to developer
+$STATE_CRASH_SHOW_DUMP	Show crash<N>dump files
+$STATE_CRASH_TITLE	Critical Error!
+$STATUS_DESC_DARK_FRENZY	<RE>$STATUS_DESC_FRENZY
+$STATUS_DESC_EVER_BLEED	<RE>$STATUS_DESC_BLEED
+$STATUS_DESC_FB_EXISTENTIAL	-<PERCENT>% speed, +<PERCENT>% damage resist.
+$STATUS_DESC_FIRE	<RE>$STATUS_DESC_BURN
+$STATUS_DESC_INSPIRE	<RE>$STATUS_DESC_INSPIRED
+$STATUS_DESC_INSPIRED_HIT	<RE>$STATUS_DESC_INSPIRED
+$STAT_DESC_ARMOR	ARMOR<N>Amount of damage absorbed.
+$STAT_DESC_ARMOR_ENEMY	ARMOR<N>Amount of damage absorbed.
+$STAT_DESC_SPAWN	SPAWNS:<N>
+$STAT_DESC_THORNS	THORNS<N>Deals this much damage to a melee attacker.
+$STAT_DESC_XP	EXPERIENCE<N>
+$TARGET_SPECIFIC_TEXT	Manually select a specific enemy to attack, ignoring all others.
+$TARGET_SPECIFIC_TITLE	Target SPECIFIC
+$TITLE_OPTIONS	Options
+$UI_ACCESS_SEE_ALSO	See Also:
+$UI_ALL_FILES	All Files
+$UI_CONTROLS_ACCEPT	Accept
+$UI_CONTROLS_ACCEPT_SELECT	Accept/Select
+$UI_CONTROLS_AUTO	Auto-detect
+$UI_CONTROLS_BACK_CANCEL	Back/Cancel
+$UI_CONTROLS_CANCEL	Cancel
+$UI_CONTROLS_CURSOR	Cursor
+$UI_CONTROLS_DEVICE	Device
+$UI_CONTROLS_GAMEPAD	Gamepad
+$UI_CONTROLS_GAMEPAD_MODEL	Model
+$UI_CONTROLS_KEYBOARD	Mouse & Keyboard
+$UI_CONTROLS_LOGITECH	Logitech
+$UI_CONTROLS_MENU	Menu
+$UI_CONTROLS_MENU_ALT	Menu 2
+$UI_CONTROLS_MINUS_PLUS_SPEED	-/+<N>Speed
+$UI_CONTROLS_NAVIGATE_MENU	Navigate Menu
+$UI_CONTROLS_OUYA	Ouya
+$UI_CONTROLS_POINTER	Pointer
+$UI_CONTROLS_PRESET_COLEMAK	Colemak
+$UI_CONTROLS_PRESET_DEFAULT	Default
+$UI_CONTROLS_PRESET_PS	PlayStation
+$UI_CONTROLS_PRESET_PSJ	PlayStation (Japan)
+$UI_CONTROLS_PRESET_WIIU	WiiU Default
+$UI_CONTROLS_PRESET_XBOX	XBox Default
+$UI_CONTROLS_PS3	Playstation 3
+$UI_CONTROLS_PS4	Playstation 4
+$UI_CONTROLS_SEE_ALSO	See Also:
+$UI_CONTROLS_SELECT	Select
+$UI_CONTROLS_XBOX1	Xbox One
+$UI_CONTROLS_XBOX360	Xbox 360
+$UI_CONTROLS_XINPUT	Xinput
+$UI_DQ_SAVE_FILES	DQ<X> Save Files
+$UI_EQUIP_ALL_ACC_BOOK	All books equipped!
+$UI_EQUIP_NO_ACC_BOOK	No books owned!
+$UI_GRAPHICS_HD	HD
+$UI_GRAPHICS_ORIGINAL	Original
+$UI_HIGH	High
+$UI_HIGH()	High(<X>)
+$UI_LOGGING_ALWAYS	Always
+$UI_LOGGING_ASK	Ask each time
+$UI_LOGGING_CRASH	Record crash logs
+$UI_LOGGING_CRASH_CONTENT	Include with crash log:
+$UI_LOGGING_CRASH_OPTIONS	Game settings
+$UI_LOGGING_CRASH_REPLAY	User input records
+$UI_LOGGING_CRASH_SAVES	Save files
+$UI_LOGGING_CRASH_SCREENSHOT	Screenshot
+$UI_LOGGING_CRASH_SYSTEM	System specs
+$UI_LOGGING_NEVER	Never
+$UI_LOGGING_SEND	Send crash logs to developer
+$UI_LOGGING_TITLE	Logging
+$UI_LOW	Low
+$UI_LOW()	Low(<X>)
+$UI_MOD_LOAD_MOD_TEXT	Load mod <LQ><MOD><RQ>?<N>This will restart the game.
+$UI_MOD_ZIP_FILES	Zip Files (*.*)
+$UI_RESOLUTION_CHOICES	Available:
+$UI_RESOLUTION_CURRENT	Current:
+$UI_RESOLUTION_CURRENT_PARENTHESES	(Current)
+$UI_RESOLUTION_TITLE	Monitor Resolution
+$UI_SELECT_A_FILE_TEXT	Please select a save file to import
+$UI_SELECT_A_FILE_TITLE	Select a file please!
+$UI_VIDEO_CHANGE_RES_TO	Change Resolution to <X>
+$UI_VIDEO_CUTSCENES	Cutscenes
+$UI_VIDEO_GRAPHICS	Graphics
+$UI_VIDEO_HD	Wide (16:9)
+$UI_VIDEO_MATCH_MONITOR	Match Fullscreen
+$UI_VIDEO_MODE	Mode
+$UI_VIDEO_RESOLUTION	Fullscreen Monitor Resolution
+$UI_VIDEO_SCREEN_SIZE	Game Window Size
+$UI_VIDEO_SD	Standard (4:3)
+$UI_VIDEO_SELECT_NEW	Select New...
+$UI_VIDEO_SPRITES	Sprites
+$WEAK_DMG_MULT	+<PERCENT>% extra DMG from <FLAVOR>
+$YOU_GOT_MONEY	You got <MONEY> scrap!

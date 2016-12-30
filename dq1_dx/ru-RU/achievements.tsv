@@ -1,0 +1,62 @@
+flag	value
+$ACHV_AZRA_LVL_10_TITLE	Введение в библиологию
+$ACHV_AZRA_LVL_10_DESC	Поднять уровень библиотекаря до 10
+$ACHV_AZRA_LVL_25_TITLE	Начинающий библиолог
+$ACHV_AZRA_LVL_25_DESC	Поднять уровень библиотекаря до 25
+$ACHV_HAVE_ALL_CLASSES_TITLE	Моя собственная армия
+$ACHV_HAVE_ALL_CLASSES_DESC	Открыть все 6 классов (не считая библиотекаря)
+$ACHV_BEAT_ANY_EXTREME_TITLE	Золотая звезда – ваша!
+$ACHV_BEAT_ANY_EXTREME_DESC	Пройти любой уровень на сложности 'Экстрим'
+$ACHV_HAVE_SKILL_LVL_20_TITLE	Безумные навыки
+$ACHV_HAVE_SKILL_LVL_20_DESC	Разблокировать навык 20-го уровня
+$ACHV_BOOST_TECH_5_TITLE	У меня есть сила!
+$ACHV_BOOST_TECH_5_DESC	В бою повысить персонажа до максимального уровня
+$ACHV_AZRA_LVL_40_TITLE	Продвинутый библиолог
+$ACHV_AZRA_LVL_40_DESC	Поднять уровень библиотекаря до 40
+$ACHV_AZRA_LVL_60_TITLE	Элитный библиолог
+$ACHV_AZRA_LVL_60_DESC	Поднять уровень библиотекаря до 60
+$ACHV_HAVE_ALL_WEAPONS_UNIQUE_TITLE	Швейцарский меч
+$ACHV_HAVE_ALL_WEAPONS_UNIQUE_DESC	Получить все уникальное оружие в стандартной игре
+$ACHV_HAVE_ALL_ARMOR_UNIQUE_TITLE	Швейцарская кираса
+$ACHV_HAVE_ALL_ARMOR_UNIQUE_DESC	Получить всю уникальную броню в стандартной игре
+$ACHV_HAVE_ALL_BOOKS_NORMAL_TITLE	Книжный червь
+$ACHV_HAVE_ALL_BOOKS_NORMAL_DESC	Получить все книги в бонусных испытаниях стандартной игры
+$ACHV_ENDLESS_100_NORMAL_TITLE	Терпение
+$ACHV_ENDLESS_100_NORMAL_DESC	Достичь волны 100 в Выживании 2 в стандартной игре
+$ACHV_BEAT_GAME_NORMAL_TITLE	Победитель – это ты!
+ACHV_BEAT_GAME_NORMAL_DESC	Завершить стандартную игру
+$ACHV_BEAT_ALL_SIDEQUESTS_TITLE	Нет неоконченных дел
+$ACHV_BEAT_ALL_SIDEQUESTS_DESC	Пройти все побочные задания в новой игре+
+$ACHV_HAVE_201_STARS_BLUE_TITLE	Перфекционист
+$ACHV_HAVE_201_STARS_BLUE_DESC	Получить 201 синюю звезду
+$ACHV_UPGRADE_ALL_WEAPONS_UNIQUE_TITLE	Коробка убийств
+$ACHV_UPGRADE_ALL_WEAPONS_UNIQUE_DESC	Улучшить все уникальное оружие в новой игре+
+$ACHV_UPGRADE_ALL_ARMOR_UNIQUE_TITLE	Коробка бессмертия
+$ACHV_UPGRADE_ALL_ARMOR_UNIQUE_DESC	Улучшить всю уникальную броню в новой игре+
+$ACHV_HAVE_ALL_BOOKS_PLUS_TITLE	Книга дракона
+$ACHV_HAVE_ALL_BOOKS_PLUS_DESC	Получить все книги в бонусных испытаниях новой игры+
+$ACHV_ENDLESS_100_PLUS_TITLE	Марафон
+$ACHV_ENDLESS_100_PLUS_DESC	Достичь волны 100 в Выживании 2 в новой игре+
+$ACHV_BEAT_GAME_PLUS_TITLE	Победитель+ – это ты!
+$ACHV_BEAT_GAME_PLUS_DESC	Завершить игру в режиме новой игры+
+$ACHV_BEAT_SUPER_SHEEP_NORMAL_TITLE	Убийца овец
+$ACHV_BEAT_SUPER_SHEEP_NORMAL_DESC	Победить Супер-овцу в стандартной игре
+$ACHV_HERO_MODE_TITLE	Режим Героя
+$ACHV_HERO_MODE_DESC	Пройти стандартную игру без наемников
+$ACHV_HERO_MODE_PLUS_TITLE	Режим Героя+
+$ACHV_HERO_MODE_PLUS_DESC	Пройти новую игру+ без наемников
+$ACHV_HAVE_201_STARS_GOLD_TITLE	Суперперфекционист
+$ACHV_HAVE_201_STARS_GOLD_DESC	Получить 201 золотую звезду
+$ACHV_BEAT_SUPER_SHEEP_PLUS_TITLE	Фанатичный убийца овец
+$ACHV_BEAT_SUPER_SHEEP_PLUS_DESC	Победить Супер-овцу в новой игре+
+$ACHV_HERO_MODE_PLUS_PLUS_TITLE	Режим Героя++
+$ACHV_HERO_MODE_PLUS_PLUS_DESC	Заработать 180 золотых звезд без наемников*Режим героя++ очень труден - мы рекомендуем увеличить получение опыта на 300% в меню настроек!
+$ACHV_USE_TARGETS_TITLE	Точное прицеливание
+$ACHV_USE_TARGETS_DESC	Использовать продвинутые настройки прицеливания
+$ACHV_MENU_ACCESS_TITLE	Полный доступ
+$ACHV_MENU_ACCESS_DESC	Посетить меню ограничения<N>(опции->ограничения)
+$ACHV_MENU_CONTROLS_TITLE	Я неуправляем!
+$ACHV_MENU_CONTROLS_DESC	Посетить меню управления<N>(опции->управление)
+$ACHV_MENU_TIPS_TITLE	Засесть за книги
+$ACHV_MENU_TIPS_DESC	Посетить меню подсказок<N>(общий мир->подсказки)
+$ACHV_MENU_NULL	Null

@@ -1,0 +1,978 @@
+flag	content	comment
+$TITLE_START_DEMO	데모 시작
+$TITLE_FULL_GAME	전체 게임
+$TITLE_START_GAME	게임 시작
+$TITLE_START	시작
+$TITLE_QUIT	나가기
+$TITLE_EULA_1	이 게임을 플레이하는 것은 당신이
+$TITLE_EULA_2	EULA에 동의한다는 것을 뜻합니다.
+$TITLE_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT	COMMENT: this is a redirect, the text for $MISC_PLEASE_WAIT will be duplicated here. The <RE> invocation at the beginning of the string signals a redirect, and will not show up in the final text
+$TITLE_BONUS_GOODIES	추가 항목
+$TITLE_BONUS_GOODIES_2	비밀?
+$TITLE_CONNECTING_KONG	KONG에 접속 중...
+$TITLE_UNLOAD_MOD	모드 되돌리기
+$TITLE_RELOAD_MOD	모드 다시 불러오기
+$DEMO_OVER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
+$DEMO_OVER_DONT_FORGET	세이브 파일을 잊지 마세요!
+$DEMO_OVER_EXPORT_HOW	이 버튼으로 당신의 세이브 파일을 내보내세요
+$DEMO_OVER_USE_IT	게임을 이전 종료 지점부터 이어서 플레이할 때 사용하세요
+$DEMO_OVER_PLAY	계속 플레이하세요!
+$DEMO_OVER_THANKS	플레이해주셔서 감사합니다!
+$DEMO_OVER_ENORMOUS	큰 버튼을 눌러서 퀘스트를 계속하세요!
+$DEMO_OVER_ENORMOUS_2	큰 버튼을 눌러서 퀘스트를 계속하세요!
+$DEMO_OVER_FULL_GAME	본 게임을 구입하세요!
+$DEMO_OVER_FULL_GAME_SHORT	본<N>게임!	COMMENT: <N> means a line break. <N> works too, but not <N> or <n>
+$DEMO_OVER_ACTS	3&4<N>장
+$DEMO_ONLY_X_KREDS	단 <X> Kred회원만!
+$DEMO_ONLY_LOGIN_TITLE	무료!
+$DEMO_ONLY_LOGIN_TEXT	3장과 4장을 해금하세요!<N>2개의 추가 직업!<N>6새의 추가 맵!<N><N>@공짜:@<N>Kongregate 계정을 등록하세요<N>(이미 있다면 로그인)<N>그리고 게임을 재시작하세요.
+$DEMO_ONLY_BUY_TEXT	@게임 및 사운드트랙 다운로드 포함!@<N>3-7장을 해금하세요!<N>6개의 모든 직업!<N>108개의 컷씬!<N>39개의 전장<N>14개의 추가전투!<N><N>새게임+<N>본게임x2!<N>새로운 적들!<N>7개의 새 부가임무!<N>Loo
+$DEMO_FREE_IF_REGISTERED	등록 시 무료!
+$ERROR_TITLE	오류가 발생했습니다.
+$ERROR_NUMBER	오류 #
+$ERROR_CONTEXT	context
+$ERROR_MESSAGE	메시지
+$ERROR_STACK	stack trace
+$PARTY_FROM_BATTLE	전장에서
+$PARTY_GO_TO_MAP	지도로
+$PARTY_RETURN_TOWN	마을로 돌아가기
+$PARTY_CANT_WEAPON	무기를<N>사용할 수<N>없습니다.
+$PARTY_CANT_ARMOR	방어구를<N>사용할 수<N>없습니다.
+$PARTY_RESET_POINTS	포인트 리셋
+$PARTY_X_PTS	<X> 점
+$PARTY_CONFIRM_CHANGES	확인
+$PARTY_FAILED	레벨 실패!
+$PARTY_FAILED_DESC	<MCG>이(가) 사망하였습니다.	COMMENT: <MCG> is a variable. In this exact string, the game expects this exact variable, and will replace <MCG> with Azra's name. Any other variable is ignored and will appear as-is.
+$PARTY_NO_NEW_ACHIEVE	새로운 도전과제 없음
+$PARTY_WELL_DONE	성공!
+$PARTY_ACHIEVE_SINGULAR	도전과제
+$PARTY_ACHIEVE_PLURAL	도전과제
+$PARTY_1_NEW_ACHIEVE	새로운 도전과제가 있습니다!
+$PARTY_X_NEW_ACHIEVE	<NUM>개의 새로운 도전과제가 있습니다!
+$PARTY_PERFECT_WORD	완벽합니다!
+$PARTY_PASSED_WORD	통과
+$PARTY_FAIL_PENALTY	실패 페널티
+$PARTY_TOTAL	총점
+$PARTY_PERFECT	완벽합니다!
+$PARTY_PERFECT+	완벽합니다!+
+$PARTY_PERFECT++	완벽합니다!++
+$PARTY_PERFECT_DESC	<MCG> 은(는) 멀쩡하게 살아남았습니다!
+$PARTY_PERFECT++_DESC	<MCG> 와(과) <ALLY><N>은(는) 멀쩡합니다!	COMMENT: The game will put Zelemir, Tletl-Meztli, or any other alternate mcguffin's name where <ALLY> appears.
+$PARTY_PERFECT+_DESC	<MCG> 은(는) 멀쩡합니다!<N><ALLY> 은(는) 부상을 입었습니다!
+$PARTY_PERFECT_ALLY_DEAD_DESC	<MCG> 은(는) 멀쩡하지만, <ALLY> 은(는) 끔찍하게 살해당했습니다.
+$PARTY_PASSED	레벨 통과!
+$PARTY_PASSED+	레벨 통과!+
+$PARTY_PASSED++	레벨 통과!++
+$PARTY_PASSED_DESC	<MCG> 은(는) 전투에서 살아남았지만,<N>부상을 입었습니다.
+$PARTY_PASSED_ALLY_DEAD_DESC	<ALLY> 은(는) 살해당했으나,<N>다행히<MCG> 은(는) 살아남았습니다.
+$PARTY_PASSED+_DESC	<MCG> 이(가) 부상당했습니다!<N><ALLY> 은(는) 살아남았습니다!
+$PARTY_PASSED++_DESC	<MCG> 이(가) 부상당했습니다!<N><ALLY> 은(는) 멀쩡하게 살아남았습니다!
+$PARTY_DEFEATED_WAVE_X	<X>단계에서 실패했습니다.
+$PARTY_REACHED_WAVE_X	<X>단계에 도달했습니다.
+$PARTY_NO_POINTS	재분배할 스킬 포인트가 없습니다!
+$PARTY_NO_AFFORD	비용이 부족합니다!<N>비용:<T><COST><N><T>고철:<T><SCRAP>
+$PARTY_RE_ASSIGN	<NAME>의 스킬을 모두 초기화할까요?<N>비용:<T><COST><N>고철:<T><SCRAP>
+$PARTY_CHANGE_NAME	이름 변경
+$PARTY_CONFIRM_POINTS_1_1	1개의 스킬 포인트를 1명의 캐릭터에게 영구적으로 분배할까요?	COMMENT: There are 4 variants here to handle the various pluralizations
+$PARTY_CONFIRM_POINTS_1_X	1개의 스킬 포인트를 <CHARS>명의 캐릭터에게 영구적으로 분배할까요?
+$PARTY_CONFIRM_POINTS_X_1	<POINTS>개의 스킬 포인트를 1명의 캐릭터에게 영구적으로 분배할까요?
+$PARTY_CONFIRM_POINTS_X_X	<POINTS>개의 스킬 포인트를 <CHARS>명의 캐릭터에게 영구적으로 분배할까요?
+$PARTY_POINT	포인트
+$PARTY_POINTS	포인트
+$PARTY_CHARACTER	캐릭터
+$PARTY_CHARACTERS	캐릭터
+$PARTY_CONFIRM_POINTS_TITLE	스킬 포인트 적용
+$PARTY_RENAME	이름 다시 짓기
+$PARTY_REDESIGN	디자인 다시 하기
+$PARTY_REDESIGN_NUMS	font:10,off_x:1,off_y:2,leading:0
+$UI_EQUIP_NAME	이름
+$UI_EQUIP_STAT	능력치
+$UI_EQUIP_OWNER	소유자
+$UI_EQUIP_SHOW_EQUIPPED	장착된 장비 보기
+$UI_EQUIP_CLASS_CANT_W	이 클래스는 무기를 장착할 수 없습니다!
+$UI_EQUIP_CLASS_CANT_A	이 클래스는 방어구를 장착할 수 없습니다!
+$UI_EQUIP_ALL_W_SWORD	모든 칼을 착용했습니다!
+$UI_EQUIP_ALL_W_BOW	모든 활을 착용했습니다!
+$UI_EQUIP_ALL_W_STAFF	모든 지팡이를 착용했습니다!
+$UI_EQUIP_ALL_A_LIGHT	모든 경갑을 착용했습니다!
+$UI_EQUIP_ALL_A_HEAVY	모든 중갑을 착용했습니다!
+$UI_EQUIP_ALL_W_BOOK	모든 책을 착용했습니다!
+$UI_EQUIP_NO_W_SWORD	검을 가지고 있지 않습니다!
+$UI_EQUIP_NO_W_BOW	활을 가지고 있지 않습니다!
+$UI_EQUIP_NO_W_BOOK	책을 가지고 있지 않습니다!
+$UI_EQUIP_NO_W_STAFF	스태프를 가지고 있지 않습니다!
+$UI_EQUIP_NO_A_LIGHT	경갑을 가지고 있지 않습니다!
+$UI_EQUIP_NO_A_HEAVY	중갑을 가지고 있지 않습니다!
+$UI_ACCEPT_NUMS	font:18,off_y:1,off_x:-3	COMMENT: Font size and x/y offsets for options menu button labels
+$UI_BACK_NUMS	font:18,off_y:1,off_x:-3
+$UI_AUDIO_NUMS	font:18,off_y:1,off_x:-2
+$UI_VIDEO_NUMS	font:18,off_y:1,off_x:-2
+$UI_MISC_NUMS	font:18,off_y:1,off_x:-2
+$UI_ACCESS_NUMS	font:18,off_y:1,off_x:-2,show_boxes:1,absence_off_x:0,speed_off_x:0	COMMENT: hide/show accessibility box graphic, offset for 'absence' text, offset for 'speed' text
+$UI_ACHIEVEMENTS_NUMS	font:18,off_y:0,pop_up_off_y:0
+$UI_RESTART_NUMS	font:18,off_y:1,off_x:-2
+$UI_QUIT_NUMS	font:18,off_y:1,off_x:-2
+$UI_CONTROLS_NUMS	font:18,off_y:1,off_x:-2
+$UI_OPTIONS_NUMS	font:18,off_y:1,off_x:-2
+$UI_CONTROLS_TITLE	조작
+$UI_VIDEO_TITLE	비디오
+$UI_AUDIO_TITLE	오디오
+$UI_ACCESS_TITLE	접근성
+$UI_MISC_TITLE	기타
+$UI_OPTIONS_TITLE	옵션
+$UI_OPTIONS_MENU	옵션 메뉴
+$UI_OPTIONS_SPEED	게임 속도
+$UI_ACHIEVEMENTS_TITLE	도전과제
+$UI_ACHIEVEMENTS_BUTTON_NUMBERS	font:18,offy:-2
+$UI_SFX	효과음:
+$UI_MUSIC	배경음:
+$UI_ACCESS_REWARDS	보상
+$UI_ACCESS_PENALTIES	패널티
+$UI_ACCESS_DEFAULT	기본 설정
+$UI_ACCESS_FAIL	실패
+$UI_ACCESS_ABSENCE	부재
+$UI_ACCESS_FLASHING	반짝이는 효과
+$UI_ACCESS_SPEED	게임 속도
+$UI_BONUS_BONUS_LEVELS	추가 레벨
+$UI_BONUS_STARS_LINE	<STAR_NUM> <STAR_COLOR> 별들
+$UI_BONUS_GOLD_STARS_LINE	<STAR_NUM> 금색별
+$UI_BONUS_BLUE_STARS_LINE	<STAR_NUM> 파란 별
+$UI_MOVIE_NUMS	font:13,tabs:3
+$UI_MOVIE_SELECT_A_MOVIE	동영상을 선택하세요.
+$UI_MOVIE_SCENE	     장면
+$UI_MOVIE_END	         끝
+$UI_MOVIE_QUEST	  퀘스트
+$UI_TIPS_TITLE	팁과 요령
+$UI_UPDATER_CANCEL	<RE>$MISC_CANCEL
+$UI_UPDATER_SECURED_WITH	이 업데이트는 HTTPS로 보안되어 있으며,<N>게다가 지문 인증 절차도 쓰인답니다.
+$UI_UPDATER_ASK_DOWNLOAD	업데이트를 다운로드할까요?
+$UI_UPDATER_SERVER_TIMEOUT	서버 응답시간 초과!
+$UI_UPDATER_NO_INFO	서버에서 업데이트 정보를 찾을 수 없습니다.
+$UI_UPDATER_NO_BIG_DEAL	큰일은 아닙니다, 당장 게임은 즐기실 수 있지만 업데이트 서버에 접속하지 못할 뿐입니다.
+$UI_UPDATER_DEB	DEB 패키지
+$UI_UPDATER_RPM	RPM 패키지
+$UI_UPDATER_TARGZ	TAR.GZ 문서
+$UI_UPDATER_CHECKING	업데이트 확인 중...
+$UI_UPDATER_UPDATE_EXISTS	업데이트 가능!
+$UI_UPDATER_CURRENT_VERSION	현재 버전:<T>
+$UI_UPDATER_NEWEST_VERSION	신규 버전:<T>
+$UI_UPDATER_NO_UPDATES	업데이트할 것이 없습니다.
+$UI_UPDATER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
+$UI_UPDATER_TRYING_30	30초간 시도
+$UI_UPDATER_CONNECT_AGAIN	재접속 중
+$UI_UPDATER_ERROR!	에러!
+$UI_UPDATER_DETAILS	상세 정보:
+$UI_UPDATER_NO_VERIFY	업데이트 파일을 확인할 수 없습니다.
+$UI_UPDATER_NO_DOWNLOAD	업데이트 파일을 다운로드할 수 없습니다.
+$UI_UPDATER_CHECKSUM_MISMATCH	파일의 검사 합계가 우리가 기대했던 것과 일치하지 않습니다.<N><N> 다운로드가 완벽히 완료되지 않았거나, 보안 문제 일수도, 외계에서 쏜 광선(아무도 모르죠) 때문일 수도 있습니다.<N><N>어쨌든, 업데이트 실패.
+$UI_UPDATER_GIVE_UP	포기
+$UI_UPDATER_TRY_AGAIN	재시도
+$UI_UPDATER_CONNECTING	서버에 접속 중...
+$UI_UPDATER_DOWNLOADING_FILE	업데이트 파일을 다운로드하는 중...
+$UI_UPDATER_DOWNLOADING_SIG	업데이트 서명을 다운로드하는 중...
+$UI_UPDATER_CHECKSUM	체크섬(검사 합계)를 계산하는 중...
+$UI_UPDATER_NAVIGATING	파일 경로 찾는 중 ..
+$UI_UPDATER_CLOSE_WINDOW	업데이트를 설치하기 전에 이 창을 닫으셔야 합니다.
+$UI_UPDATER_FILE_IS_AT	당신의 업데이트 파일 경로 :
+$UI_UPDATER_IF_NO_WINDOW	만약에 설치 경로가 열리지 않을 시, 직접 들어가 보세요.
+$UI_UPDATER_DOWNLOADED	업데이트 다운로드 완료!
+$UI_UPDATER_NAVIGATE_NOW	파일을 지금 살펴볼까요?
+$UI_UPDATER_NOTE	참고:
+$UI_UPDATER_SECURITY	보안 문제로 인해 설치 파일을 직접 다운로드하셔야 합니다.<N><N>이 프로그램이 자동으로 다운로드 위치를 검색할 것입니다..
+$UI_UPDATER_INSTALLING	업데이트 설치 중...
+$UI_UPDATER_EXITING	프로그램 종료 중...
+$UI_DEFENDER_RECALL_LINE	귀환: +<PSI> 정신력
+$UI_DEFENDER_ORB_NUMS	font_space:0,off_y:1,space_add:-0.1
+$UI_DEFENDER_BOOST	강화: <PSI> 정신력
+$UI_DEFENDER_BOOST_NEED	강화: <PSI>만큼의 정신력 필요
+$UI_DEFENDER_BOOST_MAX	최대 강화
+$UI_DEFENDER_BOOST_UNLOCK	레벨 <LVL>에 강화 가능
+$UI_DEFENDER_CLICK_TO	(적용/취소하려면 클릭)
+$UI_DEFENDER_TECHNIQUES	기술
+$UI_DEFENDER_TECHNIQUE	기술
+$UI_DEFENDER_TRAITS	특성
+$UI_DEFENDER_TRAIT	특성
+$UI_DEFENDER_RECALL	소환
+$UI_SKILLS_CLICK_TO_UPGRADE	업그레이드하시려면 클릭하세요.
+$UI_SKILLS_MAX	최대치
+$MISC_MAX	최대
+$UI_SKILLS_NO_POINTS	잔여 포인트가 없습니다.
+$UI_SKILLS_REQ_1PT	필요합니다: 캐릭터 레벨 <LVL>,<N><PT> 개의 포인트가 <SKILL>에 투자되어있어야 함.
+$UI_SKILLS_REQ_XPT	REQUIRES: 캐릭터 레벨 <LVL>,<N><PT> 개의 포인트가 <SKILL>에 투자되어있어야 함.
+$UI_SKILLS_NO_LEARN_SPELL	당신은 아직 이 스킬을 배우지 않았습니다.
+$UI_SKILLS_MOUSE_OVER	자세히 보려면 마우스를 올려놓으세요
+$UI_EQUIP_OWNED	소유한 장비
+$UI_EQUIP_COMPARE	비교하기
+$UI_EQUIP_PRICE	가격
+$UI_EQUIP_SHOW_EQUIPPED	착용한 장비들 표시하기
+$UI_EQUIP_EQUIP_AFTER	구매 후 장비하기
+$UI_EQUIP_EQUIP_WHO	누구에게 착용하시겠습니까?
+$UI_EQUIP_EQUIPPED	장비되었음
+$UI_EQUIP_MAX_OWNED	최대치 소유
+$UI_EQUIP_ALL_W_SWORD_EQUIPPED	모든 칼들이 착용되었습니다.
+$UI_EQUIP_ALL_W_STAFF_EQUIPPED	모든 지팡이들이 착용되었습니다.
+$UI_EQUIP_ALL_W_BOW_EQUIPPED	모든 활들이 착용되었습니다.
+$UI_EQUIP_ALL_A_LIGHT_EQUIPPED	모든 경갑이 착용되었습니다.
+$UI_EQUIP_ALL_A_HEAVY_EQUIPPED	모든 중갑이 착용되었습니다.
+$UI_EQUIP_CANT_UPGRADE_W_SWORD	성능을 높일 칼이 없습니다!
+$UI_EQUIP_CANT_UPGRADE_W_BOW	성능을 높일 활이 없습니다!
+$UI_EQUIP_CANT_UPGRADE_W_STAFF	성능을 높일 스태프가 없습니다!
+$UI_EQUIP_CANT_UPGRADE_A_LIGHT	성능을 높일 경갑이 없습니다!
+$UI_EQUIP_CANT_UPGRADE_A_HEAVY	성능을 높일 중갑이 없습니다!
+$UI_EQUIP_NO_W_SWORD	가지고 있는 검이 없습니다!
+$UI_EQUIP_NO_W_STAFF	가지고 있는 지팡이가 없습니다!
+$UI_EQUIP_NO_W_BOW	가지고 있는 활이 없습니다!
+$UI_EQUIP_NO_A_LIGHT	가지고 있는 경갑이 없습니다!
+$UI_EQUIP_NO_A_HEAVY	가지고 있는 중갑이 없습니다!
+$UI_EULA_TITLE	소프트웨어 사용권 동의
+$UI_ACHIEVE_COMPLETION	완료
+$UI_ACHIEVE_CATEGORIES	범주
+$UI_ACHIEVE_POP_UP	팝업 알림
+$UI_ACHIEVE_TRAINER	트레이너
+$UI_ACHIEVE_EASY	쉬움
+$UI_ACHIEVE_MEDIUM	보통
+$UI_ACHIEVE_HARD	어려움
+$UI_ACHIEVE_IMPOSSIBLE	불가능
+$UI_CONTROLS_SPELL	주문
+$UI_CONTROLS_CLASS	클래스
+$UI_CONTROLS_CHARACTER	캐릭터
+$UI_CONTROLS_TARGET	대상
+$UI_CONTROLS_PAUSE	일시정지
+$UI_CONTROLS_MINUS_SPEED	속도 증가
+$UI_CONTROLS_PLUS_SPEED	속도 감소
+$UI_CONTROLS_BOOST	강화
+$UI_CONTROLS_RECALL	귀환
+$UI_CONTROLS_BACK	뒤로
+$UI_CONTROLS_PRESETS	프리셋
+$UI_CONTROLS_TAB_NAV	탭<N>네비게이션
+$UI_CONTROLS_CYCLE	방어자들<N>회전
+$UI_CONTROLS_CYCLE_NUMS	off_x:-5,off_y:0	COMMENT: moves the 'cycle defenders' text and associated buttons
+$UI_CONTROLS_SCROLL	지도 이동.<N> 디펜더즈 배치
+$UI_CONTROLS_MOVE_CURSOR	커서 이동
+$UI_CONTROLS_VIRTUAL_MOUSE	가상 마우스
+$UI_CONTROLS_CLICK	클릭
+$UI_CONTROLS_SPEED	속도
+$UI_CONTROLS_ACCEL	가속
+$UI_CONTROLS_SLOWEST	가장 느림
+$UI_CONTROLS_SLOW	느림
+$UI_CONTROLS_NORMAL	보통
+$UI_CONTROLS_FAST	빠름
+$UI_CONTROLS_NONE	없음
+$UI_CONTROLS_PRESET_QWERTY	QWERTY 자판
+$UI_CONTROLS_PRESET_LEFTY	왼손잡이 자판
+$UI_CONTROLS_PRESET_AZERTY	불어식 자판
+$UI_CONTROLS_PRESET_QWERTZ	독일식 자판
+$UI_CONTROLS_PRESET_DVORAK	DVORAK 자판
+$UI_CONTROLS_PRESET_CUSTOM	사용자 설정
+$UI_DOWNLOAD_WARNING	팝업창 차단을<N>해제해 주세요!
+$UI_DOWNLOAD_BODY	버튼을 클릭하여 PC버전<N>게임을 다운로드하세요.<N><N>새로운 창이나 탭에서 다운로드 될 것입니다.<N>약간의 지연이 있을 수 있습니다.<N>잠시 기다리시고 자꾸 버튼을 누르지 마세요.
+$UI_DOWNLOAD_LINUX	리눅스
+$UI_DOWNLOAD_WINDOWS	윈도우
+$UI_DOWNLOAD_MACINTOSH	매킨토시
+$UI_DOWNLOAD_SOUNDTRACK	사운드트랙
+$UI_CONFLICT_TITLE	스팀 클라우드 충돌!
+$UI_CONFLICT_MSG	어떤 것이 <SLOT>란에 가야 할지 결정할 수 없습니다. <N>원하는 것을 골라주세요.
+$UI_CONFLICT_CLOUD	클라우드
+$UI_CONFLICT_LOCAL	컴퓨터
+$UI_CONFLICT_BETTER	이것을 더 권장합니다.
+$UI_CONFLICT_BUTTON	사용하세요
+$UI_CONFLICT_BUTTON_NUMS	font:13,x_off:0,y_off:0
+$UI_CONFLICT_NGP	새 게임+
+$UI_CONFLICT_BACKUP	고르지 않은 파일을 백업<N><LOC>
+$UI_GAMEPLAY_MISCELLANEOUS	그 외
+$UI_GAMEPLAY_CLOUD_SAVE	클라우드 저장
+$UI_GAMEPLAY_OFF	오프
+$UI_GAMEPLAY_ON	온
+$UI_GAMEPLAY_TUTORIALS	튜토리얼
+$UI_GAMEPLAY_DIALOGUE	대화
+$UI_GAMEPLAY_NEVER	표시하지 않음
+$UI_GAMEPLAY_ALWAYS	항상 표시
+$UI_GAMEPLAY_DEFAULT	새로운 전투일 때만
+$UI_GAMEPLAY_BATTLE_NUMBERS	전투 횟수
+$UI_GAMEPLAY_HIDE	숨기기
+$UI_GAMEPLAY_SHOW	보이기
+$UI_GAMEPLAY_TRACKING	데이터 추적 중
+$UI_GAMEPLAY_TRACK_YES	익명 플레이 정보 추적을 허용
+$UI_GAMEPLAY_TRACK_NO	따라오지 마, 형씨!
+$UI_GAMEPLAY_AUTO_UPDATE	자동 업데이트
+$UI_GAMEPLAY_ENABLE_UPDATER	게임을 실행할 때 업데이트를 확인합니다.
+$UI_GAMEPLAY_DISABLE_UPDATER	자동 업데이트 끄기
+$UI_GAMEPLAY_SLOW_FOOTNOTE	게임 속도가 느려질 수 있습니다.
+$UI_SAVE_PATH	세이브 파일 경로...
+$UI_MOD_PATH	모드 파일 경로...
+$TOOLTIP_CHANGE_PATH_1	노트:
+$TOOLTIP_CHANGE_PATH_2	이전 파일들이 새 위치로 전송되지 않았습니다. 이전 파일이 기존에 남습니다.
+$UI_VIDEO_IF_DOESNT_WORK	해상도가 변경되지 않는다면 몇 초 후에 원래 해상도로 돌아갑니다.
+$UI_VIDEO_RES_CHANGED	해상도가 변경되었습니다.<N>이대로 괜찮습니까?<N><N>이전 설정으로 바뀝니다. <TIME>초
+$UI_VIDEO_SETTINGS	비디오
+$UI_VIDEO_WARNING	브라우저 모드에서는 비디오 옵션이 비활성화됩니다.
+$UI_VIDEO_WARNING2	시스템 설정이 게임 해상도 변경을 지원하지 않습니다. 안타깝군요 :(
+$UI_VIDEO_WARNING3	호환성 모드에서는 해상도 변경이 불가능합니다.<N><N>안타깝네요!
+$UI_VIDEO_MOUSE	마우스 커서
+$UI_VIDEO_MOUSE_DEFAULT	기본
+$UI_VIDEO_MOUSE_FANCY	팬시
+$UI_VIDEO_PARTICLES	입자
+$UI_VIDEO_SWIRL	전투 전 애니메이션
+$UI_VIDEO_AOE	강조된 지역 공격
+$UI_VIDEO_CHANGE_RES	해상도 변경
+$UI_VIDEO_SCREEN_POS	화면 위치
+$UI_VIDEO_CHANGE_RES_BUTTON	바꾸기!
+$UI_VIDEO_SHOW_ALL_RES	모든 해상도 보기
+$UI_VIDEO_RECOMMENDED	권장
+$UI_VIDEO_STANDARD_RATIO	(기본 비율)
+$UI_VIDEO_WIDESCREEN	(와이드 스크린)
+$UI_VIDEO_PIXELS	픽셀
+$UI_VIDEO_BIT_DEPTH	깊이
+$UI_VIDEO_REFRESH	새로 고침
+$UI_VIDEO_SCALE	비율
+$UI_VIDEO_CAN_SLOW_GAME	(느려질 수 있습니다.)
+$UI_VIDEO_WINDOWED	윈도우 화면
+$UI_VIDEO_FULLSCREEN	전체 화면
+$UI_SAVE_ERROR_INCOMPAT	지원하지 않습니다!
+$UI_SAVE_ERROR_INCOMPAT_TEXT	오류! 데모 버전을 플레이 중입니다. 그 파일은 정식 버전 파일입니다.
+$UI_SAVE_DEMO_IMPORT	데모 불러들임
+$UI_SAVE_DEMO_IMPORT_TEXT	그 파일은 데모 버전의 파일입니다. 약간의 조정이 있을 수 있습니다. <N>이대로 좋습니까?
+$UI_SAVE_DEMO_NEWER	파일이 더 이후 버전의 것입니다.<N>호환되지 않을 수 있습니다. <N>그대로 불러들입니까?
+$UI_SAVE_DEMO_OLDER	파일이 더 이전 버전의 것입니다.<N>약간의 조정이 있을 수 있습니다. <N>이대로 좋습니까?
+$UI_NORM_MOD_INCOMPAT_TEXT	<N>파일이 모드의 것입니다.<N>호환되지 않을 수 있습니다. <N>그대로 불러들입니까?
+$UI_MOD_NORM_INCOMPAT_TEXT	<N>모드가 작동 중이지만<N>파일은 일반 버전의 것입니다.<N>호환되지 않을 수 있습니다.,-.<N>그대로 불러들입니까?
+$UI_MOD_MOD_INCOMPAT_TEXT	<N>다른 모드의 파일입니다.<N>호환되지 않을 수 있습니다.<N><N>그대로 불러들입니까?
+$UI_SAVE_DEMO_ATTENTION	집중!
+$UI_SAVE_MENU_LOADED	불러오기 완료!
+$UI_SAVE_MENU_CHECK_GOG	무료 업데이트를 GOG에서 확인하세요!
+$UI_SAVE_MENU_DOWNLOAD	다운 가능한 버전 받기
+$UI_SAVE_MENU_FULL_VERSION	정식 버전
+$UI_SAVE_MENU_KONG_XDEMO_LOGIN	확장 데모 - kongregate에 로그인해서 정식 버전에 접속하세요!
+$UI_SAVE_MENU_KONG_XDEMO	확장 데모 버전
+$UI_SAVE_MENU_KONG_DEMO_LOGIN_FULL	데모 - kongregate에 로그인 해서 정식 버전에 접속하세요!
+$UI_SAVE_MENU_KONG_DEMO_LOGIN_XDEMO	데모 - kongregate에 로그인 해서 확장 콘텐츠에 접속하세요!
+$UI_SAVE_MENU_KONG_DEMO	데모 버전
+$UI_SAVE_CONFIRM_DELETE	삭제하겠습니까?
+$UI_SAVE_CONFIRM_DELETE_TEXT	세이브 슬롯을 영구적으로 삭제하겠습니까?
+$SAVE_SLOT_PLAY	플레이
+$SAVE_SLOT_PLAY_PLUS	플레이 +
+$SAVE_SLOT_NEW_GAME	새 게임
+$SAVE_SLOT_NEW_GAME_PLUS	새 게임 +
+$SAVE_SLOT_EXPORT	보내기
+$SAVE_SLOT_IMPORT	불러오기
+$SAVE_SLOT_DELETE	지우기
+$UI_DEMO_SAVES_DETECTED	데모 저장 데이터 찾음!
+$UI_DEMO_IMPORT_SAVES	데모 저장 데이터를 불러올까요?
+$UI_CLOUD_UNKNOWN	클라우드 저장
+$UI_CLOUD_UNKNOWN_TEXT	스팀 클라우드 저장을 활성화합니까?
+$UI_CLOUD_UNKNOWN_TEXT_2	이 설정은 언제든 바꿀 수 있습니다:<N><N>옵션:그 외
+$UI_MOD_TITLE	모드
+$UI_MOD_LOAD_EXISTING	모드 불러오기
+$UI_MOD_CREATE_NEW	새로운 모드 만들기
+$UI_MOD_BROWSE_QUEUE	내 모드들
+$UI_MOD_BROWSE_WORKSHOP	스팀 창작 마당
+$UI_MOD_WEB_BROWSER	웹 브라우저
+$UI_MOD_INSTALL_STANDALONE	ZIP 파일을 인스톨합니다.
+$UI_MOD_INSTALL_ERROR	모드 폴더가 이미 있습니다.<N>뒤에 이름을 붙여 다시 시도합니까?
+$UI_MOD_INSTALL_ERROR2	모드 설치를 실패하였습니다.
+$UI_DEFQ_MODS	모드
+$UI_MOD_TITLE	수정
+$UI_MOD_DATA_ONLY	데이터만(1M)
+$UI_MOD_SPRITES	스프라이트 4M
+$UI_MOD_MOVIES	무비 아트 13M
+$UI_MOD_BKGS	배경 아트 42M
+$UI_MOD_TEMPLATE_SETTINGS	모드 템플릿 세팅
+$UI_MOD_SELECT_DIR	모드 디렉토리 선택
+$UI_SAVE_SELECT_DIR	저장 디렉토리 선택
+$UI_MOD_LOAD_MOD	모드 불러오기
+$UI_MOD_EXISTS	모드가 존재합니다. <N>불러오시겠습니까?
+$UI_MOD_MISSING	Settings.xml을 찾지 못 했습니다.<N>모드가 없거나 손상되었습니다.
+$UI_MOD_NOT_DIR	아이쿠!<N>그건 디렉토리가 아니에요!<N>다시 시도하세요.
+$UI_MOD_LOADING	모드를 불러오는 중...
+$UI_MOD_PLEASE_WAIT	모드를 불러올 동안<N>잠시만 기다려주세요
+$UI_MOD_PROGRESS	<TASK>작업<N><FILE> 파일<N>
+$UI_MOD_LOAD_FINISH	불러오기 완료
+$UI_MOD_LOAD_FINISH_TEXT	모드를 성공적으로 불러왔습니다.<N>게임을 재시작 합니다.
+$UI_MOD_LOAD_FAIL	불러오기 실패!
+$UI_MOD_LOAD_FAIL_TEXT	모드를 불러오는 중 에러 발생:
+$UI_MOD_NAME	이 모드의 이름을 입력하세요.
+$UI_MOD_EXPORTING	데이터 추출 중.
+$UI_MOD_EXPORT_FINISH	추출 완료!
+$UI_MOD_EXPORT_FINISH_TEXT	당신의 모드 위치는:
+$UI_MOD_EXPORT_CANCEL	추출 취소!
+$UI_MOD_EXPORT_CANCEL_TEXT	파일 위치는:
+$UI_MOD_EXPORT_FAIL	추출 실패!
+$UI_MOD_EXPORT_FAIL_TEXT	오류가 있습니다.
+$UI_MOD_EXPORT_CHURN	작업 <TASK_PROGRESS><N><N><TASK><N><PROGRESS>
+$UI_MOD_DEFQ_SAVE	디펜더 퀘스트 세이브 파일 (*.dfq)
+$UI_MOD_ALL_FILES	모든 파일 (*.*)
+$UI_MOD_AUTHOR	저작권자
+$UI_MOD_PLAY	실행하기
+$UI_MOD_SHARE	공유하기
+$UI_MOD_UPDATE	업데이트
+$UI_MOD_EDIT	편집하기
+$UI_MOD_WORKSHOP	창작 마당
+$UI_MOD_SHARE_TITLE	모드 공유하기
+$UI_MOD_SHARE_TEXT_LOCAL	이것은 모드를 배포하기 쉬운 하나의 파일로 묶을 것입니다.
+$UI_MOD_SHARE_TEXT_STEAM	이것은 모드를 스팀 창작 마당에 업로드할 것 입니다.
+$UI_MOD_UPDATE_TEXT_STEAM	이것은 스팀 창작 마당에 있는 당신의 모드를 업데이트할 것입니다.
+$UI_MOD_ZIP_PROGRESS	<TASK>작업<N><FILE> 파일<N>
+$UI_MOD_ZIP_FINISH	묶기 완료
+$UI_MOD_ZIP_FINISH_TEXT	모드가 성공적으로 압축되었습니다.
+$UI_MOD_ZIP_FAIL	묶기 실패!
+$UI_MOD_ZIP_FAIL_TEXT	모드를 압축하는데 오류가 생겼습니다.
+$UI_MOD_STEAM_UPLOAD	스팀에 업로드 중...
+$UI_MOD_STEAM_WAIT	스팀으로부터 응답을 기다리는 중...<N>(조금 기다려야 할 수도 있음)
+$UI_MOD_STEAM_SEND	스팀에 보내는 중
+$UI_MOD_SHARED	공유됨
+$UI_MOD_SUBSCRIBED	구독됨
+$UI_MOD_ZIP_STEAM_FAIL	업로드 실패!
+$UI_MOD_ZIP_STEAM_FAIL_TEXT	모드를 <N>스팀 창작 마당에 업로드하지 못 했습니다.
+$UI_MOD_ZIP_STEAM_FINISH	업로드 완료
+$UI_MOD_ZIP_STEAM_FINISH_TEXT	모드를 <N>스팀 창작 마당에 성공적으로 업로드하였습니다.
+$UI_MOD_UPDATE_STEAM_FINISH	업데이트 완료
+$UI_MOD_UPDATE_STEAM_FINISH_TEXT	<N>스팀 창작 마당의 모드가 성공적으로 업데이트 되었습니다.
+$UI_MOD_ZIPPING	모드 파일들을 묶는 중.
+$UI_MOD_MISSING_SUBSCRIBE	구독된 파일들
+$UI_MOD_MISSING_SUBSCRIBE_TEXT	<N><NUM>구독된 창작 마당 파일(들)을 다운로드하시겠습니까?
+$UI_MOD_DOWNLOAD	모드를 다운받는 중
+$UI_MOD_DOWNLOAD_TEXT	 
+$UI_MOD_LATER	나중에
+$UI_EQUIP_WHO_WILL	장비할 사람:
+$UI_EQUIP_CANT_SELL_UNIQUE	유니크 아이템은 판매가 불가능!
+$UI_EQUIP_SELL_OLD_WEAPON_FOR	옛 무기를 <SELL_PRICE> 고철에 파시겠습니까?
+$UI_EQUIP_SELL_OLD_ARMOR_FOR	옛 방어구를 <SELL_PRICE>고철에 파시겠습니까?
+$UI_RECRUIT_CLASS_FULL	직업 최대치입니다.
+$UI_RECRUIT_BERSERKER_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_RANGER_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_KNIGHT_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_MAGE_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_HEALER_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_DRAGON_NUMS	font:14,x_off:0,y_off:0
+$UI_BATTLE_MORE	더
+$UI_BATTLE_SEND_NEXT	다음<N>보내기
+$UI_BATTLE_NEXT	다음
+$UI_BATTLE_WAVES	단계
+$UI_BATTLE_WAVE	단계
+$UI_BATTLE_CASH_OUT	정산
+$UI_BATTLE_CASH_OUT?	정산?
+$UI_BATTLE_CASH_OUT_TEXT	지금 전투를 종료하고 획득한 보상을 얻으시겠습니까?
+$UI_BATTLE_WAVE_BUTT_NUMS	font_next:13,font_cash_out:11,font_next_x_off:0,font_next_y_off:-4,font_cash_out_x_off:0,font_cash_out_y_off:-1
+$FB_LIKE_US_TEXT	페이스북 '좋아요'를 누르시고 무료 보상을 얻으세요!
+$FB_LIKE_US_YES	좋아!
+$FB_LIKE_US_NO	하하하. 싫어.
+$FB_THANKS_TEXT	페이스북과 연동해주셔서 감사합니다!<N>보상이 지급되었습니다!
+$FB_THANKS_OK	좋아
+$FB_THANKS_SUCKS	페이스북은 구려!
+$FB_REBEL_TEXT	그래요, 반항하세요!<N>대신 이걸 가지세요.
+$FB_SECOND_PITCH	당신은 페이스북과 연동으로 이<N>을 얻을 수 있습니다!
+$FB_SECOND_PITCH_YES	좋아!
+$FB_SECOND_PITCH_NO	싫어!
+$FB_NUMS	font:16,y_off:0,x_off:0,width_off:0
+$FB_HARD_SELL_TEXT	정말로 괜찮겠습니까?<N>보세요! 정말로 반짝거린다고요!
+$FB_HARD_SELL_YES	음... 좋아.
+$FB_HARD_SELL_NO	싫다니깐!
+$FB_PERSISTENT_TEXT	좋습니다, 당신이 이겼어요<N>어차피 드릴 거였는데 :)
+$FB_PERSISTENT_OK	승리는 나의 것이다!
+$FB_HARD_SELL_NUMS	yes_font:16,no_font:16,yes_off_y:0,yes_off_x:0,no_off_y:0,no_off_x:0
+$FB_PERSISTENT_NUMS	yes_font:16,no_font:16,yes_off_y:0,yes_off_x:0,no_off_y:0,no_off_x:0
+$FB_THIS_ITEM_WILL_NOW	이 아이템은 이제 플레이어 보관함에 나타납니다.
+$DEFQ2_CLICK_TEXT	디펜더 퀘스트 2 제작 중!<N>확인하고 보상을 받으세요!
+$DEFQ2_SECOND_PITCH	이 아이템은<N>디펜더 퀘스트 2 웹사이트를 방문해<N>얻을 수 있습니다.
+$BOOK_PSI_TAX	정신력 유지비:
+$BOOK_COST_MULT	주문 소비량 x
+$BOOK_COOL_MULT	주문 재충전 시간 x
+$STATUS_DESC_FB_HAPPY	<PERCENT>% 속도 증가	COMMENT: Status descriptions have LOTS of variables. Ask Lars is you have any questions.
+$STATUS_DESC_FB_SAD	<PERCENt>% 속도 감소
+$STATUS_DESC_FB_BORED	움직임을 방해받지 않습니다.
+$STATUS_DESC_FB_LOL	<PERCENT>% 속도 증가
+$STATUS_DESC_FB_OMG	<PERCENT>% 속도 증가, <PERCENT>% 피해 저항 감소
+$STATUS_DESC_EXISTENTIAL	<PERCENT>% 속도 감소, <PERCENT>피해 저항 증가
+$STATUS_DESC_TROLL	<PERCENT>% 확률로 공격을 피합니다.
+$STATUS_DESC_ANONYMOUS	피할 확률이 <PERCENT>%  증가합니다. 트롤을 공격할 때 입히는 피해가 <PERCENT2>% 로 고정됩니다.
+$STATUS_DESC_DARK	범위 공격이 아닌 공격을 <PERCENT%>확률로 피합니다.
+$STATUS_DESC_LIGHT	어둠을 없앱니다.
+$STATUS_DESC_FRENZY	<M_MULT_PERCENT>% 속도 증가
+$STATUS_DESC_BLINDED	공격이 <PERCENT>% 확률만큼 빗나갑니다
+$STATUS_DESC_BLEED	<PERCENT>% 피해를 더 입습니다.
+$STATUS_DESC_EVER_POISON	<INTI> 초당 피해
+$STATUS_DESC_DISEASE	재생력이 <PERCENT>% 만큼 줄어듭니다.
+$STATUS_DESC_POISON	<TIME> 초 동안 1초에 <INTI> 피해를 입습니다.
+$STATUS_DESC_TOXIC	<TIME> 초 동안 1초에 <INTI> 피해를 입고, 사망 시 폭발하여 디펜더 체력의 <PERCENT2>% 피해를 줍니다.
+$STATUS_DESC_EVER_TOXIC	<TIME> 1초에 <INTI> 피해를 입고, 사망 시 폭발하여 디펜더 체력의 <PERCENT2>% 피해를 줍니다.
+$STATUS_DESC_SINGLE_STUN	움직일 수 없습니다. 공격 받으면 정신을 되찾습니다.
+$STATUS_DESC_STUN	움직일 수 없습니다.
+$STATUS_DESC_BURN	1초당 <AMT_1DIG> 피해를 입습니다. <N> 얼음으로 치료됩니다.
+$STATUS_DESC_INSPIRED	공격시 <M_MULT_PERCENT>% 피해를 더합니다.
+$STATUS_DESC_FREEZE	움직일 수 없습니다<N> 불로 해동됩니다.
+$STATUS_DESC_CHILL	<PERCENT>% 속도가 감소합니다. <N> 불로 원상태로 돌아옵니다.
+$STATUS_DESC_SLOW	<PERCENT>% 속도가 감소합니다. 
+$STATUS_TIME_LEFT	<TIME_LEFT>/<TIME>초 남았습니다.
+$STATUS_TIME_FOREVER	영구히 지속됩니다.
+$FLAV_DESC_LIGHT	어둠의 적이 <AMT_2DIG>x<EXTRA> 피해를 추가로 받으며, <TIME><EXTRA_TIME>초 동안 정확도가 상승합니다.
+$FLAV_DESC_LIGHT_SHORT	어둠의 적에게 추가 피해 & 정확도 상승
+$FLAV_DESC_BLINDED	적이 <TIME><EXTRA_TIME>초 동안 <PERCENT>%<EXTRA> 확률로 공격을 실패합니다.
+$FLAV_DESC_BLINDED_SHORT	적의 정확도가 일정시간 감소합니다
+$FLAV_DESC_CONFUSED	적이 <TIME><EXTRA_TIME>초 동안 뒷걸음질 칩니다.
+$FLAV_DESC_CONFUSED_SHORT	적이 몇 초간 뒷걸음질 칩니다.
+$FLAV_DESC_BLEED	적이 <TIME><EXTRA_TIME>초 동안 이후 공격에 <PERCENT>%<EXTRA>만큼 더 피해를 입습니다. 
+$FLAV_DESC_BLEED_SHORT	적이 이후 공격에 더 많은 피해를 입습니다.
+$FLAV_DESC_KNOCK_BACK	적이 <AMT_1DIG><EXTRA> 타일 뒤로 밀려납니다.
+$FLAV_DESC_KNOCK_BACK_SHORT	적이 몇 타일 뒤로 밀려납니다.
+$FLAV_DESC_DISEASE	적의 회복력이 <PERCENT>%<EXTRA>만큼 감소합니다.
+$FLAV_DESC_DISEASE_SHORT	적의 회복력이 감소합니다.
+$FLAV_DESC_POISON	적이 공격 데미지의 <PERCENT>%<EXTRA>를 <TIME><EXTRA_TIME> 초 동안 입습니다.
+$FLAV_DESC_POISON_DIRECT	적이 매 초당 <AMTDMG><EXTRA>의 데미지를 <TIME><EXTRA_TIME>초 동안 입습니다.
+$FLAV_DESC_POISON_SHORT	적이 짧은 시간 동안 피해를 입습니다.
+$FLAV_DESC_SINGLE_STUN	적이 <TIME><EXTRA_TIME>초 동안 움직일 수 없습니다. 한 번만 적용됩니다.
+$FLAV_DESC_SINGLE_STUN_SHORT	적이 짧은 시간 동안 움직이지 못하게 합니다. 한 번만 적용됩니다.
+$FLAV_DESC_STUN	적이 <TIME><EXTRA_TIME>동안 움직이지 못 합니다.
+$FLAV_DESC_STUN_SHORT	적이 일시적으로 움직이지 못 합니다.
+$FLAV_DESC_AUTO_KILL	적의 체력이 <PERCENT>%<EXTRA> 밑으로 떨어지면 자동으로 사망합니다.
+$FLAV_DESC_AUTO_KILL_SHORT	적이 충분히 약해지면 자동으로 사망합니다.
+$FLAV_DESC_BURN	적이 <AMTDMG><EXTRA>의 데미지를 <TIME><EXTRA_TIME>초 동안 입습니다. 해당 효과는 얼음으로 무효화될 수 있습니다.
+$FLAV_DESC_BURN_SHORT	적이 짧은 시간 동안 피해를 입습니다. 해당 효과는 얼음으로 무효화될 수 있습니다.
+$FLAV_DESC_INSPIRE	아군이 <M_MULT_PERCENT>%의<EXTRA>의 데미지를 <TIME><EXTRA_TIME>초 동안 가합니다.
+$FLAV_DESC_INSPIRE_SHORT	아군이 일시적으로 더 많은 피해를 입힙니다.
+$FLAV_DESC_FREEZE	적이 <TIME><EXTRA_TIME>초 동안 이동하지 못합니다. 화염으로 무효화될 수 있습니다.
+$FLAV_DESC_FREEZE_SHORT	적이 일시적으로 움직이지 못 합니다. 화염으로 무효화될 수 있습니다.
+$FLAV_DESC_ARMOR_PIERCE_DIRECT	공격이 <AMTDMG><EXTRA>만큼 방어도를 무시합니다.
+$FLAV_DESC_ARMOR_PIERCE_AMT_LESS_1	공격력의 <INV_AMOUNT><EXTRA>만큼 방어도를 무시합니다.
+$FLAV_DESC_ARMOR_PIERCE_AMT_GRTR_1	매 공격 시마다 <AMT_1DIG><EXTRA>만큼 방어도를 무시합니다.
+$FLAV_DESC_ARMOR_PIERCE_SHORT	공격이 일정량의 방어력을 무시합니다.
+$FLAV_DESC_ARMOR_BREAK_DIRECT	공격이 <ATMDMG><EXTRA>만큼 방어도를 파괴합니다.
+$FLAV_DESC_ARMOR_BREAK_AMT_LESS_1	매 <INV_AMOUNT><EXTRA>만큼 피해를 줄 때마다 방어도를 1씩 파괴합니다.
+$FLAV_DESC_ARMOR_BREAK_AMT_GRTR_1	매 공격 시마다 방어도를 <AMT_2DIG><EXTRA>씩 파괴합니다.
+$FLAV_DESC_ARMOR_BREAK_SHORT	공격이 일정량의 방어력을 파괴합니다.
+$FLAV_DESC_CHILL	적이 <TIME><EXTRA_TIME>초 동안 <PERCENT>%<EXTRA> 만큼 둔해집니다. 연소로 취소됩니다.
+$FLAV_DESC_CHILL_SHORT	적이 몇 초간 둔해집니다. 음주로 무효화됩니다.
+$FLAV_DESC_SLOW	적이 <TIME><EXTRA_TIME>초 동안 <PERCENT>%<EXTRA> 만큼 둔해집니다
+$FLAV_DESC_SLOW_SHORT	적이 일시적으로 느려집니다.
+$FLAV_DESC_STRIKE_THROUGH	<INTI><EXTRA>수의 적을 공격합니다.
+$FLAV_DESC_STRIKE_THROUGH_SHORT	다수의 적을 공격합니다.
+$FLAV_DESC_CRITICAL	피해를 <AMT_1DIG>x<EXTRA> 입힙니다.
+$FLAV_DESC_CRITICAL_SHORT	피해가 보통 수준보다 더 커집니다
+$STAT_DESC_HP	체력<N>체력이 0이 되면 전투에서 패배합니다.
+$STAT_DESC_SPEED	속도<N> 공격 대기시간:<N> 매 <SPEED_SHOW_MULT> 점 만큼 대기시간이 줄어듭니다.
+$STAT_DESC_SPEED_ENEMY	속도<N> 적이 얼마나 빨리 움직이고 공격하는지를 나타내는 정도. 1점 = 초당 1 타일
+$STAT_DESC_ATTACK	공격력<N> 더 많은 피해를 주는 기술을 배웁니다.
+$STAT_DESC_ATTACK_ENEMY	공격력<N> 적에게 입는 최고 피해.
+$STAT_DESC_DEFENSE	방어력<N> 피해를 흡수하는 정도.
+$STAT_DESC_DEFENSE_ENEMY	방어력<N> 피해를 흡수하는 정도.
+$STAT_DESC_STRONGS	강점
+$STAT_DESC_WEAKS	약점
+$STAT_DESC_REGEN	재생력<N> HP가 회복되는 속도, HP/sec
+$STAT_DESC_REGEN_ENEMY	재생력<N> HP가 회복되는 속도, HP/sec
+$STAT_DESC_EVADE	회피<N> 적 공격을 피할 확률.
+$STAT_DESC_EVADE_ENEMY	회피<N> 적 공격을 피할 확률.
+$STAT_DESC_RANGE	사거리<N> 공격이 닿는 범위.
+$STAT_DESC_RANGE_ENEMY	사거리<N> 공격이 닿는 범위.
+$STAT_DESC_SPELLS	주문
+$STAT_DESC_PORCUPINE	가시<N> 근접 공격을 하는 적에게 더 많은 피해를 줍니다.
+$STAT_DESC_PHASING	위상 조정<N> 주기적으로 세계를 넘나듭니다. 세계에 속하지 않으면 공격받지 않습니다. <N> 패턴은 타일에 따라 바뀝니다.
+$STAT_DESC_BARRIER	방어막<N> 피해를 막아주는 층입니다. 매우 강력한 마법만이 뚫을 수 있습니다.
+$STAT_DESC_FINAL_HIT	최후의 일격<N>적이 마지막 공격을 받을 때 <FINAL_HIT_TARGET>가 받는 피해의 양.
+$STRONG_DMG_MULT	<PERCENT>% 피해 저항 vs.<FLAVOR>
+$STRONG_EVADE	<PERCENT>% 회피 <FLAVOR>
+$SKILL_DESC_PSI_COST	정신력 요구량
+$SKILL_DESC_COOLDOWN	대기시간
+$SKILL_DESC_EFFECT	효과
+$SKILL_DESC_TARGET	목표
+$SKILL_DESC_HITS	회 공격
+$SKILL_DESC_HITS_NUM	# Hits
+$SKILL_DESC_SPECIAL	 
+$SKILL_DESC_SPLASH	범위 공격
+$SKILL_DESC_DMG	피해
+$SKILL_DESC_ADDS_CHANCE_TO_ALL	모든 공격에 <FLAV>*확률을 <PERCENT>%<EXTRA>만큼 더합니다.
+$SKILL_DESC_ADDS_CHANCE_TO_ONE	<LQ><ATTACK><RQ>에 <FLAV>*확률을 <PERCENT>%<EXTRA>만큼 더합니다.
+$SKILL_DESC_ADDS_TO_ALL	모든 공격에 <FLAV>*를 더합니다.
+$SKILL_DESC_ADDS_TO_ONE	<LQ><ATTACK><RQ>에 <FLAV>*를 더합니다.
+$SKILL_DESC_TOTAL_BONUS	<STAT>*값이 <AMOUNT><EXTRA> 만큼 더 올라갑니다
+$SKILL_SPECIAL_HEAL	<RE>$MISC_HEAL
+$SKILL_SPECIAL_COUNTER	<RE>$MISC_COUNTER
+$SKILL_SPECIAL_ATTACK	<RE>$MISC_ATTACK
+$MISC_FOE_SINGULAR	적
+$MISC_FOE_PLURAL	적들
+$MISC_FRIEND_SINGULAR	아군
+$MISC_FRIEND_PLURAL	아군
+$MISC_1_FOE	적
+$MISC_X_FOES	<NUM>적들
+$MISC_1_FRIEND	아군
+$MISC_X_FRIENDS	<NUM>아군
+$MISC_ALL_FOES	범위 내 모든 적
+$MISC_ALL_FOES_IN	<TILES>타일 내 모든 적
+$MISC_ALL_FRIENDS	사정거리 내 모든 아군
+$MISC_ALL_FRIENDS_IN	<TILES>타일 내 모든 아군
+$MISC_ALL_TARGETS	범위 내 대상
+$MISC_ALL_TARGETS_IN	<TILES> 타일 내 모든 대상
+$MISC_X_HITS_FOE	적당 <NUM>회
+$MISC_X_HITS_FRIEND	아군당 <NUM>회
+$MISC_X_HITS_TARGET	목표당 <NUM>회
+$MISC_X_HITS_TOTAL	총 <NUM> 회
+$MISC_UP_TO_X_FRIENDS	최대 <NUM> <FRIEND>
+$MISC_UP_TO_X_FOES	최대 <NUM> <FOE>
+$MISC_SPLASH_DAMAGE	범위 공격
+$MISC_SPLASH_LINE	<AMT> 피해, <TILES> 타일
+$MISC_SAVED!	저장되었습니다!
+$MISC_MISS	빗나감
+$MISC_PROBLEM?	문제가 생겼나요?
+$MISC_COUNTER	반격
+$MISC_COUNTER!	반격!
+$MISC_NOM!	냠!
+$MISC_ACHIEVEMENT!	도전과제!
+$BASE_ATTACK	기본 공격
+$BONUS_DEFENSE	기본 방어
+$DECIMATE_BY	<PERCENT> % 섬멸
+$EN_SPELL_FRENZY_DESC	<SEC>초 동안 <PERCENT>%속도 증가
+$EN_SPELL_HEAL_DESC	회복: <PERCENT>체력
+$EN_SPELL_DRAGON_FIRE_1_DESC	<DMG>피해
+$EN_SPELL_DRAGON_FIRE_2_DESC	<LOW>-<HIGH>피해
+$SPECIAL_IMPROVES	<FLAVOR> 증가:
+$SPECIAL_PLUS_FLAV	<FLAVOR> 추가:
+$SPECIAL_SAVE_VS	HP >= <PERCENT>% 시 구조 vs. <FLAVOR>
+$TARGET_FIRST_TITLE	선두 목표
+$TARGET_FIRST_TEXT	가장 앞에 있는 적을 목표로 한다.
+$TARGET_LAST_TITLE	후미 목표
+$TARGET_LAST_TEXT	가장 뒤에 있는 적을 목표로 한다.
+$TARGET_STRONG_TITLE	가장 강한 적 목표
+$TARGET_STRONG_TEXT	체력과 방어력이 가장 높은 적을 목표로 한다.
+$TARGET_WEAK_TITLE	가장 약한 적 목표
+$TARGET_WEAK_TEXT	체력과 방어력이 가장 낮은 적을 목표로 한다.
+$TARGET_FAST_TITLE	가장 빠른 적 목표
+$TARGET_FAST_TEXT	가장 빨리 움직이는 적을 목표로 한다.
+$TARGET_HEAL_TITLE	회복 우선
+$TARGET_HEAL_TEXT	더 좋은 공격 기술이 준비되더라도, 회복이 가능할 때마다 회복한다.
+$TARGET_FIGHT_TITLE	전투 우선
+$TARGET_FIGHT_TEXT	더 좋은 회복 기술이 준비되더라도, 공격이 가능할 때마다 공격한다.
+$TARGET_BOTH_TITLE	보통 우선 정도
+$TARGET_BOTH_TEXT	강화 레벨에 따라 기술을 사용한다.
+$TARGET_CHEAP_TITLE	하위 기술 위주
+$TARGET_CHEAP_TEXT	하위 기술로 죽일 수 없는 적을 상대하기 위해 고위 기술을 아껴 둡니다.
+$TARGET_EFFECT_TITLE	상태 이상 효과 활용
+$TARGET_EFFECT_TEXT	상태 이상이 가장 적은 적에게 상태 이상 공격을 사용합니다.
+$TARGET_BULLDOG_TITLE	불독 모드
+$TARGET_BULLDOG_TEXT	적이 죽거나 사정거리를 벗어날 때까지 목표를 바꾸지 않습니다. 다루기 힘들므로, 능숙한 플레이어에게 추천합니다.
+$TARGET_CHANCE_TITLE	가장 높은 확률
+$TARGET_CHANCE_TEXT	적들 중 가장 공격을 피하거나 저항할 수 없는 적을 목표로 합니다.
+$TARGET_BOSS_TITLE	보스 목표
+$TARGET_BOSS_TEXT	선택하지 않으면, 보스들을 무시합니다.
+$TARGET_SAVE_TITLE	설정 저장
+$TARGET_SAVE_TEXT	이 캐릭터의 기본 목표 설정을 저장합니다.
+$CONFIRM_RES_CHANGE	해상도가 바뀌었습니다.<N> 적용 하시겠습니까? <N><N> <SECONDS> 초 뒤에 원상태로 돌아갑니다.
+$CONFIRM_RESTART_TITLE	전투를 재시작합니까?
+$CONFIRM_RESTART_TEXT	얻은 돈과 경험치를 모두 잃어버리게 됩니다.
+$CONFIRM_QUIT_TITLE	전투에서 나가시겠습니까?
+$CONFIRM_QUIT_TEXT	<RE>$CONFIRM_RESTART_TEXT
+$MISC_LEADER	지도자
+$MISC_LEVEL	레벨
+$MISC_LVLUP	레벨업
+$MISC_LEVEL_UPX	레벨업x
+$MISC_LEVEL_UP!	레벨업!
+$MISC_ANONYMOUS	익명
+$MISC_LEVEL_SHORT	레벨
+$PARTY_HP	체력
+$PARTY_PSI	정신력
+$PARTY_XP	경험치
+$PARTY_ATTACK	공격: <T>
+$PARTY_RANGE	거리: <T>
+$PARTY_SPEED	속도: <T>
+$PARTY_DEFEND	방어: <T>
+$PARTY_EVADE	회피: <T>
+$PARTY_REGEN	회복: <T>
+$MISC_HP	체력
+$MISC_HP_SHORT	HP
+$MISC_PSI	정신력
+$MISC_SPEED	속도
+$MISC_SPEED_SHORT	SPD
+$MISC_ATTACK	공격력
+$MISC_ATTACK_SHORT	ATK
+$MISC_ARMOR	방어력
+$MISC_ARMOR_SHORT	ARMR
+$MISC_EVADE	회피
+$MISC_EVADE_SHORT	EVA
+$MISC_EVASION	회피
+$MISC_DEFEND	방어
+$MISC_DEFENSE	방어력
+$MISC_DEFENSE_SHORT	DEF
+$MISC_RANGE	사거리
+$MISC_RANGE_SHORT	RNG
+$MISC_REGEN_LONG	회복력
+$MISC_REGEN	회복
+$MISC_REGEN_SHORT	REG
+$MISC_OF_DAMAGE	의 피해량
+$MISC_DAMAGE	피해
+$MISC_DAMAGE_SHORT	DMG
+$MISC_DAMAGE_RESIST	DMG 저항
+$MISC_RESIST	<SOMETHING> 저항
+$MISC_VS	대
+$MISC_TO	에게
+$MISC_VERSUS	대전
+$MISC_DEF_SHORT	DEF
+$MISC_PHASES	위상
+$MISC_SWIMS	수영하다
+$MISC_WALKS_ON	걸어가다
+$MISC_HEAL	치료하다
+$MISC_DEATH_SPLASH	사망 스플래쉬
+$MISC_PORCUPINE	가시
+$MISC_DARK	어둠
+$MISC_DARK_DESC	(75%의 공격 회피)
+$MISC_SPAWNS	소환
+$MISC_STRENGTHS	강점
+$MISC_WEAKNESSES	약점
+$MISC_IMMUNE_TO	<SOMETHING>에 면역
+$MISC_AMOUNT	양
+$MISC_AMOUNT_SHORT	양
+$MISC_SECOND	초
+$MISC_SECONDS	초
+$MISC_SECOND_SHORT	초
+$MISC_SECONDS_SHORT	초
+$MISC_CHANCE	확률
+$MISC_THRESHOLD	한계점
+$MISC_BASE_ATTACK	기본 공격력
+$MISC_BONUS_DEFENSE	기본 방어력
+$MISC_SAVED	저장되었습니다.
+$MISC_UNSAVED	저장되지 않았습니다.
+$MISC_EXIT	나가다
+$MISC_QUIT	종료
+$MISC_CLOSE	닫기
+$MISC_TRY_AGAIN	다시 시도
+$MISC_RANDOM	무작위
+$MISC_HIRE	고용!
+$MISC_CANT_AFFORD	감당할 수 없습니다.
+$MISC_CONFIRM_RECRUIT	고용 확인
+$MISC_CONFIRM_CHANGE	변화 적용
+$MISC_MAKE_CHANGE	적용하시겠습니까?
+$MISC_HIRE_Q	<NAME> <CLASS>을(를) <N><SCRAP> 고철에 고용하시겠습니까?
+$MISC_MODS	모드
+$MISC_CONFIG_DIR	설정 폴더
+$MISC_LANGUAGES	언어
+$MISC_PLEASE_ENTER_A_NAME!	이름을 입력하세요!
+$MISC_ARE_YOU_SURE	확실합니까?
+$MISC_NEXT	다음
+$MISC_PREVIOUS	이전
+$MISC_PREV	이전
+$MISC_CANCEL	취소
+$MISC_UNDO_ALL	모두 되돌리기
+$MISC_UNDO	되돌리기
+$MISC_DOWNLOAD	다운로드
+$MISC_BEGIN	시작
+$MISC_LEAVE	떠남
+$MISC_WEAPONS	무기
+$MISC_ARMOR	방어구
+$MISC_RECRUIT	고용
+$MISC_TALK	대화
+$MISC_QUIT	종료
+$MISC_ENTER	입력
+$MISC_YES	예
+$MISC_NO	아니오
+$MISC_OK	확인
+$MISC_ACCEPT	수락
+$MISC_BACK	뒤로
+$MISC_REFUSE	거절
+$MISC_RESTART	재시작
+$MISC_OKAY	확인
+$MISC_QUIT_BATTLE	전투 종료
+$MISC_NONE	없음
+$MISC_SLOW	느려짐
+$MISC_FAST	빠르게
+$MISC_XP	XP
+$MISC_EXPERIENCE	경험치
+$MISC_SCRAP	고철
+$MISC_COST	비용
+$MISC_GAIN	획득
+$MISC_CASUAL	캐주얼
+$MISC_CASUAL_SHORT	캐주얼
+$MISC_EASY	쉬움
+$MISC_EASY_SHORT	쉬움
+$MISC_NORMAL	보통
+$MISC_NORMAL_SHORT	보통
+$MISC_ADVANCED	심화
+$MISC_ADVANCED_SHORT	심화
+$MISC_EXTREME	극한
+$MISC_EXTREME_SHORT	극한
+$MISC_SELECT_CHALLENGE	도전 선택
+$MISC_REWARD	보상
+$MISC_PERFECT_BONUS	퍼펙트 보너스:
+$MISC_WAVES	웨이브
+$MISC_ENEMY_LEVELS	적 레벨
+$MISC_TYPES	속성
+$MISC_PASS	통과
+$MISC_PERFECT	완벽
+$MISC_PERFECT!	완벽!
+$MISC_COMPLETE	완성
+$MISC_COMPLETE!	완성!
+$MISC_STRANGER	낯선 사람
+$MISC_DESCRIPTION	묘사
+$MISC_DEFENDER	디펜더
+$MISC_DEFENDERS	디펜더즈
+$MISC_STATS	능력치
+$MISC_STATUS	상태
+$MISC_NO_AFFORD	감당할 수 없습니다.
+$MISC_BUY	구입
+$MISC_UPGRADE	업그레이드
+$MISC_SELL	판매
+$MISC_NOTHING	없음.
+$MISC_NOTHING!	없음!
+$MISC_SPECIAL	특별한
+$MISC_UNKNOWN	알려지지 않은
+$MISC_MORE	더...
+$MISC_X_MORE	<X> 더...
+$MISC_EQUIP	장비
+$MISC_CANT_EQUIP!	장비 불가
+$MISC_UNEQUIP	장비 해제
+$MISC_SKILLS	기술
+$MISC_SKILL	기술
+$MISC_SKILLTREE_SKILL_NUMS	font:15,x_off:-2,y_off:0
+$MISC_BOOST	강화
+$MISC_SPELL	주문
+$MISC_LOCKED	잠김
+$MISC_SKIP	생략
+$MISC_NOTHING_TO_EQUIP	장비할 물건이 없습니다!
+$MISC_ENABLED	활성화
+$MISC_DISABLED	비활성화
+$MISC_CONFIRM	확인
+$MISC_YOU_SURE	확실합니까?
+$MISC_LOADING	불러오는 중...
+$MISC_ENTER_TEXT	글자를 입력하세요.
+$MISC_LOADING_PERCENT	불러오는 중...<PERCENT>%
+$MISC_BATTLE	전투
+$MISC_TOWN	마을
+$MISC_JOURNAL	일지
+$MISC_MOVIES	영상
+$MISC_OPTIONS	설정
+$MISC_CREDITS	제작진
+$MISC_PARTY	파티
+$MISC_ERROR	오류	 
+$MISC_ERROR!	오류!
+$MISC_BONUS	보너스
+$MISC_TIPS	팁
+$MISC_CONTINUE	계속
+$MISC_PLEASE_WAIT	기다려 주세요...
+$MISC_CLICK_HERE	이곳을 클릭하세요
+$MISC_ASSIGN_POINTS	<N> 포인트 분배
+$MISC_NOBODY	아무도 없음
+$MISC_EMPTY	비어있음
+$MISC_CHANGE	전환
+$MISC_RESET	재설정
+$MISC_DEFAULT	기본 설정
+$MISC_SELECT	선택
+$MISC_DESELECT_SPELL	주문 선택 해제를 위해 전장 밖을 클릭하세요.
+$DATA_DUMP_LOCALES	국가 설정을 불러옵니다...
+$DATA_DUMP_DATA	데이터 파일을 불러옵니다...
+$DATA_DUMP_CUTSCENE	컷신 이미지를 불러옵니다...
+$DATA_DUMP_BKG	배경 이미지를 불러옵니다...
+$DATA_DUMP_EMBED	내장 그래픽을 불러옵니다...
+$DATA_DUMP_IMAGES	데이터 이미지를 불러옵니다...
+$DATA_DUMP_TABLES	데이터 테이블을 불러옵니다...
+$DATA_DUMP_MOD_INFO	모드 정보를 불러옵니다...
+$DATA_DUMP_MAP_FILES	모드 파일을 불러옵니다...
+$DATA_DUMP_MAP_IMAGES	모드 이미지를 불러옵니다...
+$DATA_DUMP_AUDIO	오디오를 불러옵니다...
+$REWARD_NEXT_LEVEL	다음 레벨 해제
+$REWARD_FINISH	게임을 끝낸다.
+$REWARD_QUEST	퀘스트 완료
+$REWARD_NO_XP	없음!
+$REWARD_NO_GOLD	없음!
+$REWARD_XP	 +<XP> XP
+$REWARD_GOLD	 +<GOLD>  SCRAP
+$HERO_BLURB_SLAK	괴상한 젊은이입니다. 용맹하지만 종잡을 수 없습니다.
+$HERO_BLURB_KETTA	유목민 여성 사냥꾼입니다. 냉소적이고 세상일에 관심이 없습니다···.
+$HERO_BLURB_BAKAL	부드러운 말투의 나이 든 수행자입니다. 자신의 죄를 속죄할 방법을 찾고 있습니다···.
+$HERO_BLURB_WRENNA	퀘이드 제국의 마지막 공주입니다. 멸망한 왕국에 대한 복수심으로 불타오르고 있습니다···.
+$HERO_BLURB_MARKOS	젊고 명예로운 기사입니다. 자신의 가치를 증명하려 노력하는 중입니다.
+$HERO_BLURB_NIRU	난폭하면서도 신비스러운 이 용은 다른 사람과 비밀을 공유하지 않습니다.
+$TALK_ASH	애쉬 난민
+$TALK_QUAID	퀘이드 난민
+$TALK_NOMAD	노매드 난민
+$TALK_CULTIST	광신도 사제
+$MAP_TEXT_LAIR	둥지
+$MAP_TEXT_SHRINE	성지
+$MAP_TEXT_HERMIT	은둔자
+$MAP_TEXT_PRISON	감옥
+$MAP_TEXT_UNKNOWN	???
+$MAP_TEXT_TREASURE	동굴
+$MCGUFFIN_LEARN_SPELL	새로운 주문을 배웠습니다!
+$YOU_GOT_JOIN	<NAME> <CLASS>이(가) 파티에 들어왔습니다!
+$YOU_GOT	획득
+$YOU_GOT_SCRAP	<SCRAP> 고철!
+$YOU_GOT_X	<NUM>x <THING>!
+$YOU_GOT_NO_EQUIP_YET	아무도 <THING>을(를) 장비할 수 없습니다. 하지만 걱정 마세요. 계속 플레이하다 보면 사용할 수 있는 새로운 캐릭터가 나타날 거예요.
+$YOU_GOT_NO_EQUIP	이 아이템은 장비할 수 없습니다.
+$TOOLTIP_CASUAL	캐주얼 모드에서는 적들의 체력과 공격력이 줄어듭니다.
+$TOOLTIP_NORMAL	보통 도전. 대부분의 플레이어들이 선택하죠.
+$TOOLTIP_ADVANCED	어려운 도전. 더 좋은 보상이 함께 합니다. 충분히 강해졌을 때 돌아오세요.
+$TOOLTIP_EXTREME	가장 어려운 도전. 가장 훌륭한 보상이 함께 합니다. 준비하세요!
+$TIP_00_TITLE	막히셨어요?
+$TIP_00_TEXT	<N><N> 때로는 이전 전투를 플레이해서 레벨업을 하고, 골드를 벌어서 더 좋은 장비를 사는 게 도움이 될 겁니다. 아니면 캐주얼 난이도로 시도해서 쉬운 도전 과제를 노릴 수도 있습니다.
+$TIP_10_TITLE	단축키
+$TIP_10_TEXT	키보드로도 다음과 같이 게임을 컨트롤할 수 있습니다!<N><N>- 주문 선택<N>- 소환할 캐릭터 선택<N>- 방어자의 강화 / 귀환<N>-게임을 일시정지하거나 다시 재생하기<N>- 방어자들을 하나하나 훑어보기<N>- 목표 전환 / 게임 속도 조정<N>- 인터페이스의 전환<N>- 키보드로 커서의 이동과 클릭<N><N>(옵션에서 단축키의 설정을 조정하실 수도 있습니다.)
+$TIP_20_TITLE	스킬
+$TIP_20_TEXT	각 디펜더는 레벨이 오를 때마다 스킬 포인트 하나씩을 받습니다. <N><N>새로운 기술을 해금하려면, 파티 메뉴에서 포인트를 분배하세요. <N><N>1)기술 (원) - 전투에 쓰이는 공격<N>2)특성 (사각형) - 패시브 능력 <N><N>더 우수한 기술들을 사용하시려면, 전투 중에 파티원을 강화하셔야 합니다.
+$TIP_30_TITLE	누가 경험치를 얻을까?
+$TIP_30_TEXT	<N><N>전투가 끝나면, 소환된 인원들 중 살아남은 모든 인원들은 같은 양의 경험치를 얻습니다.<N><N>그렇지 못한 인원은 경험치의 반만 얻게 됩니다. 캐릭터의 숫자와 상관없이 캐릭터당 경험치는 같습니다.<N><N>접근성 메뉴에서 이러한 페널티를 바꿀 수 있습니다.
+$TIP_40_TITLE	둘러보기
+$TIP_40_TEXT	드래그와 클릭으로 시점을 움직일 수 있고 키보드로도 움직일 수 있습니다. <N><N>스크롤은 기본적으로 화살표 키입니다.
+$TIP_50_TITLE	정신력을 100% 돌려받는 법 
+$TIP_50_TEXT	디펜더를 귀환시키면, 보통은 사용한 정신력의 일부만 얻게 됩니다. <N><N>하지만 첫 웨이브의 적이 등장하기 전에 귀환시키면 정신력을 모두 돌려받습니다.
+$TIP_60_TITLE	웹사이트와 포럼
+$TIP_60_TEXT	궁금한 점이 있으시다면 Defender's Quest의 온라인 커뮤니티 www.defenderquest.com에 가입하세요!<N><N>질문을 올릴 수 있는 포럼이나 모두가 만들어가는 위키백과는 물론, 개발자 블로그도 있습니다.
+$TIP_70_TITLE	디펜더 배치하기
+$TIP_70_TEXT	키보드를 이용해서 디펜더들을 전투에 배치시킬 수 있습니다.<N><N> 기본으로 지정된 키는 화살표 키입니다. 
+$TIP_80_TITLE	전투 효과
+$TIP_80_TEXT	발생하는 숫자들의 색은 피해 타입을 나타냅니다. 흰색은 보통, 회색은 아머에 의한 감소, 적색은 출혈, 주황색은 불, 보라 색은 독, 큰 것은 치명타입니다.<N><N>게임 플레이 메뉴에서 켜거나 끌 수 있습니다.
+$TIP_90_TITLE	희귀 아이템
+$TIP_90_TEXT	높은 난이도에서 레벨을 플레이할 때, 가끔 희귀 아이템을 발견하실 수 있습니다. 이들은 상점에서 팔지 않는, 수집할 가치가 높은 아이템입니다. 
+$TIP_100_TITLE	귀환
+$TIP_100_TEXT	방어자를 귀환시키면 사용한 정신력의 일부만 돌려받습니다. <N><N> 돌려받는 정신력의 양은 방어자가 피해를 입을수록 줄어듭니다.
+$TIP_110_TITLE	접근성
+$TIP_110_TEXT	게임을 하기 불편한 상태라면 다음 옵션을 이용하세요. <N><N>1)비디오 - 풀스크린을 써서 큰 화면으로 하세요. <N>2) 컨트롤 – 조작 방법을 수정하세요. <N>3)  접근성 - 효과, 속도, 경험치 획득량을 조절하세요.
+$TIP_120_TITLE	공익광고
+$TIP_120_TEXT	이 힌트는 코드 분석이나 수수께끼 해독을 시도하지 않도록 포함되었습니다.
+$TIP_130_TITLE	표적 설정
+$TIP_130_TEXT	디펜더를 클릭하면, '앞에 있는, 뒤에 있는, 강한, 약한, 빠른 적을 공격' 따위의 어떤 표적을 공격할 것인지 설정할 수 있습니다. 예를 들어, '강한 적을 공격' 설정은 디펜더가 더 큰 유닛을 공격하거나 큰 무리를 약화시키는데 집중하게 합니다. 
+$TIP_140_TITLE	고급 표적 설정
+$TIP_140_TEXT	기본 표적 설정에 더해 네 가지 옵션이 더 있습니다.<N><N>1) 싸구려 기술<N><N>2)효과 최적화<N><N>3)최고의 기회<N><N>4) 불독 모드<N><N>필수는 아니지만 전략을 짜는 고급 플레이어들에게 도움이 됩니다. 기본 표적 설정도 함께 사용할 수 있습니다.
+$TIP_150_TITLE	불과 얼음
+$TIP_150_TEXT	불과 얼음은 서로 잘 어울리지 못 합니다. 냉기와 얼음은 불을 무효화시킵니다. 불은 얼음을 녹이고 냉기를 무효화시킵니다. 
+$TIP_160_TITLE	더 높은 난이도
+$TIP_160_TEXT	'심화'와 '극한' 난이도는 지금 당장 시도하기에는 어렵습니다. 다음 보통 난이도의 전투들을 끝내고 시도해보세요.
+$TIP_170_TITLE	장비
+$TIP_170_TEXT	당신의 영웅을 위한 새로운 장비를 구입했을 때, 당신의 낡은 물건들은 다른 파티 구성원들에게 훌륭한 헌 옷이 될 거예요!
+$TIP_180_TITLE	뭉치면 산다
+$TIP_180_TEXT	집결한 방어자들은 적들의 공격을 흩트립니다. 이는 그들의 생존에 도움이 됩니다. 이 전략의 단점이라면 당신이 방어하는 구역이 줄어든다는 것이지요.
+$TIP_190_TITLE	보상 뻥튀기
+$TIP_190_TEXT	게임의 레벨업 속도를 조정하길 원하신다면, 옵션 메뉴에서 전체 경험치 획득 수준을 바꿀 수 있습니다. 기본 설정은 100%입니다. 또한 고철 수집량을 증가시킬 수 있습니다.
+$TIP_200_TITLE	기술 잠금
+$TIP_200_TEXT	때때로 특정 기술은 당신의 계획을 날려버릴 수 있습니다(드래곤 파이어볼은 얼음을 녹입니다). 아니면 강력한 기술을 남겨두고 싶을 수도 있습니다. 그렇다면 디펜더를 클릭해 메뉴에서 기술을 선택하고 오른쪽 아래의 일시 잠금을 설정하세요.
+$TIP_210_TITLE	내 세이브 파일은 어디에 있죠?
+$TIP_210_TEXT	세이브 게임 메뉴에는 폴더 와 렌치의 그림이 그려진 버튼이 있습니다. 이 버튼은 당신을 당신의 저장한 게임과 설정 파일이 저장된 장소로 데려다 줍니다.
+$TIP_220_TITLE	새 게임+
+$TIP_220_TEXT	일반 게임을 클리어하면, 이전에 여행했던 일행으로 더 어려운 전투와 더 좋은 보상을 얻을 수 있는 새 모험을 시작할 수 있습니다.<N><N> 저장 화면으로 가서. 예전 세이브 슬롯으로 새 게임+를 선택하세요 
+$TIP_230_TITLE	업그레이드
+$TIP_230_TEXT	새 게임+ 모드에서 당신은 일반 게임에서 얻은 희귀한 장비를 업그래드하는데 사용하는 특별한 유물을 획득할 수 있습니다. 업그레이드된 아이템은 특별한 능력을 가지고 있죠!
+$TIP_240_TITLE	보너스 미션
+$TIP_240_TEXT	충분한 별을 모으고 나면, 당신은 보너스 전투를 활성화시킬 수 있습니다. 이 스페셜 미션들은 또 다른 도전 과제와 보상들을 가지고 있습니다.
+$TIP_250_TITLE	정신력 연소?
+$TIP_250_TEXT	번개 주문은 적에게서 얻는 정신력을 태워버립니다. 40%의 피해를 주었다면 일반적으로 얻을 수 있는 Psi의 40%가 사라집니다.
+$TIP_260_TITLE	모드 지원
+$TIP_260_TEXT	당신만의 Defender's Quest 모드를 만들 수 있다는 걸 아시나요? 세이브 게임 메뉴의 큰 'M' 버튼을 눌러보세요. 능력치, 레벨, 직업, 캐릭터, 컷씬, 그래픽과 아이템 등 당신은 거의 모든 것을 바꿀 수 있습니다. 
+$TIP_270_TITLE	어머니를 기억하세요.
+$TIP_270_TEXT	<N><N>어머니께 전화 한 통 드리세요. 분명 그리워하고 계실 거예요.
+$TYPE_DARK	어둠
+$TYPE_SHEEP	양
+$TYPE_SPLITTER	분열
+$TYPE_WORM	벌레
+$TYPE_BOSS	보스
+$TYPE_NORMAL	일반
+$TYPE_CULTIST	광신도
+$TYPE_WATER	액체
+$TYPE_FAST	신속
+$TYPE_SNAIL	달팽이
+$TYPE_REVENANT	망령
+$TYPE_ATTACKER	파괴자
+$TYPE_SPITTER	타액 분출
+$TYPE_NUKE_ON_KILL	자폭
+$TYPE_ARMOR	중무장
+$TYPE_STATIONARY	움직이지 않음
+$TYPE_TELEPORTER	순간이동
+$TYPE_EXALTED	고위
+$TYPE_NO_END_DAMAGE	NoEndDamage
+$GETSCRAP1	쓰레기 더미입니다. 천 조각, 망가진 도구, 날카로운 조각들, 녹슨 철 조각 등등. 대체 누가 이런 걸 가지고 싶겠어요?
+$GETSCRAP2	아무래도 구덩이의 주민들은 이 쓰레기를 화폐로 사용하는 것 같습니다.
+$MISC_!	!
+$END	끝

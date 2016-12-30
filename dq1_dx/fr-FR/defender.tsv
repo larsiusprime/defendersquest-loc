@@ -1,0 +1,138 @@
+flag	name
+$CLASS_MCGUFFIN	Érudite
+$CLASS_MCGUFFIN_PL	Érudites
+$CLASS_KNIGHT	Chevalier
+$CLASS_KNIGHT_PL	Chevaliers
+$CLASS_RANGER	Ranger
+$CLASS_RANGER_PL	Rangers
+$CLASS_BERSERKER	Berserker
+$CLASS_BERSERKER_PL	Berserkers
+$CLASS_HEALER	Soigneur
+$CLASS_HEALER_PL	Soigneurs
+$CLASS_MAGE	Mage-Glace
+$CLASS_MAGE_PL	Mage-Glaces
+$CLASS_DRAGON	Dragon
+$CLASS_DRAGON_PL	Dragons
+$CLASS_SORCEROR	Sorcier
+$CLASS_SORCEROR_PL	Sorciers
+$CLASS_ANTIMCGUFFIN	Sorcière
+$CLASS_ANTIMCGUFFIN_PL	Sorcières
+$SPELL_ENEMY_ZAP	<RE>$SKILL_MCGUFFIN_A_LIGHTNING
+$SPELL_ENEMY_FRENZY	<RE>$SKILL_MCGUFFIN_A_FRENZY
+$SPELL_ENEMY_HEAL	<RE>$SKILL_MCGUFFIN_A_HEALING
+$SPELL_ENEMY_FIRE	<RE>$SKILL_MCGUFFIN_A_DRAGON_FIRE
+$SKILL_MCGUFFIN_A_LIGHTNING	Foudre
+$SKILL_MCGUFFIN_A_FRENZY	Frénésie
+$SKILL_MCGUFFIN_A_HEALING	Soins
+$SKILL_MCGUFFIN_A_CRYSTAL	Cristal
+$SKILL_MCGUFFIN_A_PUSHBACK	Bourrasque
+$SKILL_MCGUFFIN_A_DRAGON_FIRE	Feu du Dragon
+$SKILL_MCGUFFIN_A_LIGHTNING_DESC	Inflige $X dégâts à un ennemi. Brûle le Psi, ce qui réduit la récompense en Psi octroyée par la destruction de l'ennemi.
+$SKILL_MCGUFFIN_A_FRENZY_DESC	Augmente de $X% la vitesse d'attaque de TOUS les défenseurs pendant $Y secondes.
+$SKILL_MCGUFFIN_A_HEALING_DESC	Soigne tous les défenseurs de $X points de Santé.
+$SKILL_MCGUFFIN_A_CRYSTAL_DESC	Pose un cristal qui inflige $X dégâts aux ennemis dans un rayon de $Y cases. Explose au bout de $Z secondes, ou s'il est frappé par la foudre.
+$SKILL_MCGUFFIN_A_PUSHBACK_DESC	Repousse les ennemis de $X cases vers l'entrée du labyrinthe.
+$SKILL_MCGUFFIN_A_DRAGON_FIRE_DESC	Inflige $X dégâts à tous les ennemis à l'écran et les embrase pendant $Y secondes.
+$SKILL_MCGUFFIN_fake_attackEXPLOSION	Explosion
+$SKILL_ANTIMCGUFFIN_A_LIGHTNING	Foudre
+$SKILL_ANTIMCGUFFIN_A_HEALING	Soins
+$SKILL_ANTIMCGUFFIN_A_FRENZY	Frénésie
+$SKILL_ANTIMCGUFFIN_A_CRYSTAL	Cristal
+$SKILL_ANTIMCGUFFIN_A_PUSHBACK	Bourrasque
+$SKILL_ANTIMCGUFFIN_A_DRAGON_FIRE	Feu du Dragon
+$SKILL_ANTIMCGUFFIN_A_LIGHTNING_DESC	Inflige $X dégâts à un ennemi. Brûle le Psi, ce qui réduit la récompense en Psi octroyée par la destruction de l'ennemi.
+$SKILL_ANTIMCGUFFIN_A_FRENZY_DESC	Augmente de $X% la vitesse d'attaque de TOUS les défenseurs pendant $Y secondes.
+$SKILL_ANTIMCGUFFIN_A_HEALING_DESC	Soigne tous les défenseurs de $X points de Santé.
+$SKILL_ANTIMCGUFFIN_A_CRYSTAL_DESC	Pose un cristal qui inflige $X dégâts aux ennemis dans un rayon de $Y cases. Explose au bout de $Z secondes, ou s'il est frappé par la foudre.
+$SKILL_ANTIMCGUFFIN_A_PUSHBACK_DESC	Repousse les ennemis de $X cases vers l'entrée du labyrinthe.
+$SKILL_ANTIMCGUFFIN_A_DRAGON_FIRE_DESC	Inflige $X dégâts à tous les ennemis à l'écran et les embrase pendant $Y secondes.
+$SKILL_SORCEROR_A_LIGHTNING-Z	Foudre
+$SKILL_SORCEROR_A_HEALING-Z	Soins
+$SKILL_SORCEROR_A_FRENZY-Z	Frénésie
+$SKILL_SORCEROR_A_PUSHBACK-Z	Bourrasque
+$SKILL_SORCEROR_A_DRAGON_FIRE-Z	Feu du Dragon
+$SKILL_SORCEROR_A_LIGHTNING_DESC	Inflige $X dégâts à un ennemi. Brûle le Psi, ce qui réduit la récompense en Psi octroyée par la destruction de l'ennemi.
+$SKILL_SORCEROR_A_FRENZY-Z_DESC	Augmente de $X% la vitesse d'attaque de TOUS les défenseurs pendant $Y secondes.
+$SKILL_SORCEROR_A_HEALING-Z_DESC	Soigne tous les défenseurs de $X points de Santé.
+$SKILL_SORCEROR_A_PUSHBACK-Z_DESC	Repousse les ennemis de $X cases vers l'entrée du labyrinthe.
+$SKILL_SORCEROR_A_DRAGON_FIRE-Z_DESC	Inflige $X dégâts à tous les ennemis à l'écran et les embrase pendant $Y secondes.
+$SKILL_KNIGHT_A_SWING	Moulinet
+$SKILL_KNIGHT_P_ARMOR_PIERCE	Perce armure
+$SKILL_KNIGHT_A_SMASH	Fracasser
+$SKILL_KNIGHT_P_ARMOR_BREAK	Brise armure
+$SKILL_KNIGHT_P_ARMOR_TRAINING	Combat en armure
+$SKILL_KNIGHT_P_HARD_KNOCK	Coup 
+$SKILL_KNIGHT_A_COUNTER	Contre
+$SKILL_KNIGHT_A_LUNGE	Botte
+$SKILL_KNIGHT_P_STUN_STAB	Coup étourdissant
+$SKILL_KNIGHT_P_SWORD_TRAINING	Combat à l'épée
+$SKILL_KNIGHT_A_CLEAVE	Feinte
+$SKILL_BERSERKER_A_SLASH	Taillade
+$SKILL_BERSERKER_A_DOUBLE_HIT	Double frappe
+$SKILL_BERSERKER_P_SWIFTNESS	Rapidité
+$SKILL_BERSERKER_A_FLURRY	Enchaînement
+$SKILL_BERSERKER_P_RESILIENCE	Endurance
+$SKILL_BERSERKER_A_SWIPE	Volée
+$SKILL_BERSERKER_P_RAGE	Rage
+$SKILL_BERSERKER_P_REFLEXES	Réflexes
+$SKILL_BERSERKER_P_MADNESS	Folie
+$SKILL_BERSERKER_A_WHIRLWIND	Tourbillon
+$SKILL_HEALER_A_AID	Aide
+$SKILL_HEALER_A_ETHER_FLASH	Flash éthérique
+$SKILL_HEALER_P_BULK_UP	Renfort
+$SKILL_HEALER_P_BLINDING	Aveuglement
+$SKILL_HEALER_A_GROUP_HEAL	Soins de groupe
+$SKILL_HEALER_A_HOLY_LIGHT	Sainte Lumière
+$SKILL_HEALER_A_ZEAL	Zèle
+$SKILL_HEALER_P_INSPIRE	Inspiration
+$SKILL_MAGE_A_ICE_BALL	Boule de glace
+$SKILL_MAGE_P_CHILL	Transi
+$SKILL_MAGE_A_ICE_SHARD	Stalactite
+$SKILL_MAGE_P_FREEZE	Gelé
+$SKILL_MAGE_A_SLEET	Verglas
+$SKILL_MAGE_P_ICE_SPEAR	Lance de glace
+$SKILL_MAGE_A_ICE_SPLASH	Explosion de glace
+$SKILL_MAGE_A_BLIZZARD	Blizzard
+$SKILL_DRAGON_A_BITE	Morsure
+$SKILL_DRAGON_A_CLAW	Griffes
+$SKILL_DRAGON_P_EPIC_HALITOSIS	Halitose épique
+$SKILL_DRAGON_A_FIRE_BREATH	Souffle enflammé
+$SKILL_DRAGON_P_STRENGTH	Force
+$SKILL_DRAGON_A_ROAR	Rugissement
+$SKILL_DRAGON_P_FATTEN_UP	Prise de poids
+$SKILL_DRAGON_P_NOM	Miam
+$SKILL_DRAGON_A_FIRE_BALL	Boule de feu
+$SKILL_RANGER_A_BASIC_SHOT	Tir basique
+$SKILL_RANGER_P_SHARP_SHOOTER	Tireur d'élite
+$SKILL_RANGER_A_TRIPLE_SHOT	Triple tir
+$SKILL_RANGER_P_DEEP_SHOT	Flèche barbelée
+$SKILL_RANGER_A_RAPID_SHOT	Tir rapide
+$SKILL_RANGER_P_RANGE_FOCUS	Longue portée
+$SKILL_RANGER_P_PIERCING_SHOT	Tir perçant
+$SKILL_RANGER_P_POISON_SHOT	Tir empoisonné
+$SKILL_RANGER_A_SPREAD_SHOT	Tir large
+$SKILL_RANGER_A_BLACK_OUT_THE_SUN	Obscurcir le soleil
+$TYPE_RANGED	À distance
+$TYPE_MELEE	Corps-à-corps
+$TYPE_ULTIMATE	Ultime
+$BLURB_BERSERKER	Attaques les plus rapides.<N>Touche rapidement plusieurs cibles et inflige des dégâts moyens.<N>Efficace contre les groupes d'ennemis faibles !
+$BLURB_RANGER	Meilleure portée.<N>Touche les cibles distantes et inflige des dégâts légers.<N>L'unité la plus polyvalente !
+$BLURB_KNIGHT	La classe la plus lente.<N>Touche une cible unique et inflige de lourds dommages.<N>Peut percer/détruire les armures.<N>Efficace contre les ennemis coriaces ou en armure !
+$BLURB_MAGE	Ralentit et gèle les ennemis.<N>Attaque à moyenne vitesse et inflige des dégâts légers.<N>Efficace contre les ennemis rapides !
+$BLURB_DRAGON	Lourds dégâts.<N>Peut gober les ennemis et les embraser.<N>Cher, mais terrifiant !
+$BLURB_HEALER	Soigne vos alliés.<N>Dispose de quelques attaques légères.<N>À positionner avec soin afin d'obtenir les meilleurs résultats !
+$COLOR_EYE	Yeux
+$COLOR_SKIN	Peau
+$COLOR_HAIR	Chevelure
+$COLOR_PANTS	Pantalon
+$COLOR_WEAPON	Arme
+$COLOR_ARMOR	Armure
+$COLOR_DETAIL	Détail
+$COLOR_TUNIC	Tunique
+$COLOR_CLOAK	Cape
+$COLOR_ROBE	Robe
+$COLOR_HIDE	Peau
+$COLOR_OUTLINE	Contours
+$END	Fin
+$COLOR_CLOTHES	Habits
+$SKILL_MCGUFFIN_A_DRAGONFIRE	<RE>$SKILL_MCGUFFIN_A_DRAGON_FIRE

@@ -1,0 +1,15 @@
+flag	content
+$T0N0	Good morning
+$T0N1	title:Modifications<N>workshop:Steam Workshop<N>browse:My Mods<N>new:Create new<N>install_zip:Install from Zip<N>selected:browse
+$T0N2	title:Modifications<N>browse:My Mods<N>new:Create new<N>install_zip:Install from Zip<N>selected:browse
+$T0N6	
+$T0N9	title:Modifications<N>
+$T0N10	title:Mod Template Settings<N>body:Game data to copy as a starting point for your mod:<N>export_data:Core data files<N>export_maps:Battle Maps<N>export_sprites:Sprites<N>export_cutscenes:Cutscene art<N>export_backgrounds:Background art<N>export_sfx:Sound Effects<N>export_music:Music<N>selected:export_data<N>
+$T0N11	title:Mod name<N>new_mod_name:
+$T0N12	title:Creating Mod...
+$T0N13	title:Export Complete!<N>body:Your mod template is here:<LOCATION><N>browse:My Mods<N>explore:Explore<N>close:Close<N>
+$T0N15	title:Installing Mod...
+$T0N16	title:Installation Complete!<N>body:Your mod was installed here:<LOCATION><N>browse:My Mods<N>explore:Explore<N>close:Close
+$T0N22	title:<N>body:Please Wait...
+$T0N26	title:Error!<N>body:<ERROR><N>close:Close
+$T0N30	title:<N>body:Unload mod & restart the game?<N>okay:Okay<N>cancel:Cancel
