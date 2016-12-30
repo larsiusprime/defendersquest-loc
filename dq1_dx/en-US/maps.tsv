@@ -1,6 +1,6 @@
 flag	name	comment
 $BLANK		COMMENT: This file contains all the tutorial text from the game's map (level) files.
-$1_1_WHERE_AM_I_00_TITLE	TALK_$MCG_POWER
+$1_1_WHERE_AM_I_00_TITLE	TALK_$MCG_POWER	
 $1_1_WHERE_AM_I_00_TEXT	Where am I?
 $1_1_WHERE_AM_I_10_TITLE	
 $1_1_WHERE_AM_I_10_TEXT	This is your main character, $MCG.<N>She can't move.
