@@ -1,56 +1,55 @@
-flag	name	description
-$FLAV_DAMAGE	Schaden	
-$FLAV_FRENZY	Kampfrausch	
-$FLAV_FIRE	Feuer	
-$FLAV_BURN	Brennen	
-$FLAV_POISON	Gift	
-$FLAV_EVER_POISON	Ewiges Gift	
-$FLAV_TOXIC	Toxisch	
-$FLAV_EVER_TOXIC	Ewig toxisch	
-$FLAV_WOUND	Verwunden	
-$FLAV_BLEED	Bluten	
-$FLAV_EVER_BLEED	Ewiges Bluten	
-$FLAV_BLINDED	Erblinden	
-$FLAV_CONFUSED	Verwirren	
-$FLAV_DISEASE	Krankheit	
-$FLAV_PSI_BURN	Psi-Brennen	
-$FLAV_INSPIRE	Begeistern	
-$FLAV_INSPIRED_HIT	Begeisterter Schlag	
-$FLAV_STUN	Betäuben	
-$FLAV_SINGLE_STUN	Einzelnes Betäuben	
-$FLAV_CHILL	Kälte	
-$FLAV_SLOW	Langsam	
-$FLAV_FREEZE	Frost	
-$FLAV_LIGHT	Licht	
-$FLAV_AREA	Umgebung	
-$FLAV_DARK	Dunkel	
-$FLAV_GROW_ARMOR	Wuchernde Rüstung	
-$FLAV_PHASED	Phasig	
-$FLAV_MAGIC	Magisch	
-$FLAV_PHYSICAL	Physisch	
-$FLAV_PHYSICAL-RANGED	Physisch-Fernkampf	
-$FLAV_PHYSICAL_RANGED	Physisch-Fernkampf	
-$FLAV_MELEE	Nahkampf	
-$FLAV_RANGED	Fernkampf	
-$FLAV_UNDODGEABLE	Unausweichlich	
-$FLAV_REDUCE_HEALTH	Dezimieren	
-$FLAV_ARMOR_PIERCE	Rüstung durchdringen	
-$FLAV_ARMOR_IGNORE	Rüstung ignorieren	
-$FLAV_ARMOR_BREAK	Rüstung brechen	
-$FLAV_CRITICAL	Kritisch	
-$FLAV_KNOCKBACK	Zurückstoßen	
-$FLAV_KNOCK_BACK	Zurückstoßen	
-$FLAV_AUTOKILL	Sofortiger Tod	
-$FLAV_DEVOUR	Verschlingen	
-$FLAV_STRIKE_THROUGH	Durchschlagen	
-$FLAV_DE_INVINCIBLE	Besiegbar machen	
-$FLAV_DELAY_DAMAGE	Schaden verzögern	
-$FLAV_ANONYMOUS	Anonymous	
-$FLAV_TROLL	Aktueller Status: TROLLOLOLOL	
-$FLAV_FB_HAPPY	Aktueller Status: Glücklich!	
-$FLAV_FB_SAD	Aktueller Status: Traurig.	
-$FLAV_FB_LOL	Aktueller Status: LOL!	
-$FLAV_FB_OMG	Aktueller Status: OMG!	
-$FLAV_FB_EXISTENTIAL	Aktueller Status: Existenziell.	
-$FLAV_FB_BORED	Aktueller Status: Gelangweilt.	
-$FLAV_PSI_SHIELD	Psi-Schild	
+flag	name
+$FLAV_DAMAGE	Schaden
+$FLAV_FRENZY	Kampfrausch
+$FLAV_FIRE	Feuer
+$FLAV_BURN	Brennen
+$FLAV_POISON	Gift
+$FLAV_EVER_POISON	Ewiges Gift
+$FLAV_WOUND	Verwunden
+$FLAV_BLEED	Bluten
+$FLAV_EVER_BLEED	Ewiges Bluten
+$FLAV_BLINDED	Erblinden
+$FLAV_CONFUSED	Verwirren
+$FLAV_DISEASE	Krankheit
+$FLAV_PSI_BURN	Psi-Brennen
+$FLAV_INSPIRE	Begeistern
+$FLAV_INSPIRED_HIT	Begeisterter Schlag
+$FLAV_STUN	Betäuben
+$FLAV_SINGLE_STUN	Einzelnes Betäuben
+$FLAV_CHILL	Kälte
+$FLAV_SLOW	Langsam
+$FLAV_FREEZE	Frost
+$FLAV_LIGHT	Licht
+$FLAV_AREA	Umgebung
+$FLAV_DARK	Dunkel
+$FLAV_GROW_ARMOR	Wuchernde Rüstung
+$FLAV_PHASED	Phasig
+$FLAV_MAGIC	Magisch
+$FLAV_PHYSICAL	Physisch
+$FLAV_PHYSICAL-RANGED	Physisch-Fernkampf
+$FLAV_PHYSICAL_RANGED	Physisch-Fernkampf
+$FLAV_MELEE	Nahkampf
+$FLAV_RANGED	Fernkampf
+$FLAV_UNDODGEABLE	Unausweichlich
+$FLAV_REDUCE_HEALTH	Dezimieren
+$FLAV_ARMOR_PIERCE	Rüstung durchdringen
+$FLAV_ARMOR_IGNORE	Rüstung ignorieren
+$FLAV_ARMOR_BREAK	Rüstung brechen
+$FLAV_CRITICAL	Kritisch
+$FLAV_KNOCKBACK	Zurückstoßen
+$FLAV_KNOCK_BACK	Zurückstoßen
+$FLAV_AUTOKILL	Sofortiger Tod
+$FLAV_DEVOUR	Verschlingen
+$FLAV_STRIKE_THROUGH	Durchschlagen
+$FLAV_DE_INVINCIBLE	Besiegbar machen
+$FLAV_DELAY_DAMAGE	Schaden verzögern
+$FLAV_ANONYMOUS	Anonymous
+$FLAV_TROLL	Aktueller Status: TROLLOLOLOL
+$FLAV_FB_HAPPY	Aktueller Status: Glücklich!
+$FLAV_FB_SAD	Aktueller Status: Traurig.
+$FLAV_FB_LOL	Aktueller Status: LOL!
+$FLAV_FB_OMG	Aktueller Status: OMG!
+$FLAV_FB_EXISTENTIAL	Aktueller Status: Existenziell.
+$FLAV_FB_BORED	Aktueller Status: Gelangweilt.
+$FLAV_PSI_SHIELD	Psi-Schild
+$FLAV_BOSS	Boss

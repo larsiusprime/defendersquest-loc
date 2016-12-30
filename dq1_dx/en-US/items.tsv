@@ -1,209 +1,210 @@
-flag	name	description
-$ITEM_SWORD	<RE>$ITM_W_SWORD
-$ITEM_BOW	<RE>$ITM_W_BOW
-$ITEM_STAFF	<RE>$ITM_W_STAFF
-$ITEM_LIGHT	<RE>$ITM_A_LIGHT
-$ITEM_HEAVY	<RE>$ITM_A_HEAVY
-$ITEM_BOOK	<RE>$ITM_ACC_BOOK
-$ITEM_WEAPON	Weapon
-$ITEM_ARMOR	Armor
-$ITM_ACC_BOOK	book	<NULL>
-$ITM_ACC_BOOK_PLURAL	books	<NULL>
-$ITM_ACC_BOOK_PLURAL_SHORT	books	<NULL>
-$ITM_A_LIGHT	light armor	<NULL>
-$ITM_A_LIGHT_PLURAL	light armor	<NULL>
-$ITM_A_HEAVY	heavy armor	<NULL>
-$ITM_A_HEAVY_PLURAL	heavy armor	<NULL>
-$ITM_W_SWORD	sword	<NULL>
-$ITM_W_SWORD_PLURAL	swords	<NULL>
-$ITM_W_BOW	bow	<NULL>
-$ITM_W_BOW_PLURAL	bows	<NULL>
-$ITM_W_STAFF	staff	<NULL>
-$ITM_W_STAFF_PLURAL	staffs	<NULL>
-$ITM_A_LIGHT_PLURAL_SHORT	light	<NULL>
-$ITM_A_HEAVY_PLURAL_SHORT	heavy	<NULL>
-$ITM_W_SWORD_PLURAL_SHORT	swords	<NULL>
-$ITM_W_STAFF_PLURAL_SHORT	staffs	<NULL>
-$ITM_W_BOW_PLURAL_SHORT	bows	<NULL>
-$ITM_A_LIGHT_1	Sackcloth	A burlap sack worn underneath the clothes. Itchy, but better than nothing.
-$ITM_A_LIGHT_2	Hide	Dried animal skins roughly sewn into a protective vest. Thick and sturdy.
-$ITM_A_LIGHT_3	Chieftain's Tunic	This brilliantly colored nomad tunic is crafted from heavy wool and ornamented with ornate embroidery. The hem of the garment depicts the continuously winding roots of the World Tree.
-$ITM_A_LIGHT_4	Heavy Wool Tunic	A long, thick tunic fashioned from the prized wool of nomadic herdsmen.
-$ITM_A_LIGHT_5	Tiger Skin Vest	Quaid fire motifs on the tooled leather belt are the only hint at the origins of this exotic garment.
-$ITM_A_LIGHT_6	Fur	Valuable animal furs fashioned into a warm and well padded vest.
-$ITM_A_LIGHT_7	Ozimal's Coat	Smells faintly of cheese.
-$ITM_A_LIGHT_8	Leather	Cured leather carefully sewn into a well fashioned jerkin.
-$ITM_A_LIGHT_9	Warrior Monk's Habit	This heavily padded monk's habit is adorned with the symbols of the 9th Branch of the Selini, House Militant, Defenders of Truth and Order.
-$ITM_A_LIGHT_10	Wool Gambeson	Several layers of fine wool, painstakingly quilted together and stuffed with scrap cloth and animal hair to form a sturdy defense against all but the most devastating blows.
-$ITM_A_LIGHT_11	Assassin's Folly	At first glance this appears to be no more than an ornate nobleman's shirt. Closer inspection reveals row upon row of light metal plates sewn to the inside of the garment. A gash at the small of the back indicates that it's ingenious design foiled at least one assassin.
-$ITM_A_LIGHT_12	Silk Gambeson	Layer upon layer of durable silk quilted together with horse hair padding to create an armor capable of stopping an arrow with no injury to the wearer.
-$ITM_A_LIGHT_13	Master of Archers	This Ash gambeson is crafted from the finest silk and features intricate embroidery identifying its owner as the 'King's Master of Archers'. Dozens of minor repairs over the surface indicate that this unparalleled armor has seen many conflicts, most likely passed from one Master to the next upon retirement.
-$ITM_A_LIGHT_14	The Platinum Fleece	Much more valuable than a mere 'golden' one. Stripped from the corpse of the  Axxima Vatta Muttunaxxor itself, this blindingly brilliant fleece knows no equal.
-$ITM_A_LIGHT_15	<RE>[$ITM_A_LIGHT_3_NAME]+	<RE>[$ITM_A_LIGHT_3_DESCRIPTION]
-$ITM_A_LIGHT_16	<RE>[$ITM_A_LIGHT_5_NAME]+	<RE>[$ITM_A_LIGHT_5_DESCRIPTION]
-$ITM_A_LIGHT_17	<RE>[$ITM_A_LIGHT_7_NAME]+	<RE>[$ITM_A_LIGHT_7_DESCRIPTION]
-$ITM_A_LIGHT_18	<RE>[$ITM_A_LIGHT_9_NAME]+	<RE>[$ITM_A_LIGHT_9_DESCRIPTION]
-$ITM_A_LIGHT_19	<RE>[$ITM_A_LIGHT_11_NAME]+	<RE>[$ITM_A_LIGHT_11_DESCRIPTION]
-$ITM_A_LIGHT_20	<RE>[$ITM_A_LIGHT_13_NAME]+	<RE>[$ITM_A_LIGHT_13_DESCRIPTION]
-$ITM_A_LIGHT_21	<RE>[$ITM_A_LIGHT_14_NAME]+	<RE>[$ITM_A_LIGHT_14_DESCRIPTION]
-$ITM_A_LIGHT_22	<RE>[$ITM_A_LIGHT_1_NAME]+	<RE>[$ITM_A_LIGHT_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_LIGHT_23	<RE>[$ITM_A_LIGHT_2_NAME]+	<RE>[$ITM_A_LIGHT_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_LIGHT_24	<RE>[$ITM_A_LIGHT_4_NAME]+	<RE>[$ITM_A_LIGHT_4_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_LIGHT_25	<RE>[$ITM_A_LIGHT_6_NAME]+	<RE>[$ITM_A_LIGHT_6_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_LIGHT_26	<RE>[$ITM_A_LIGHT_8_NAME]+	<RE>[$ITM_A_LIGHT_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_LIGHT_27	<RE>[$ITM_A_LIGHT_10_NAME]+	<RE>[$ITM_A_LIGHT_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_LIGHT_28	<RE>[$ITM_A_LIGHT_12_NAME]+	<RE>[$ITM_A_LIGHT_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_HEAVY_1	Jack of Chains	A light gambeson with several crudely forged metal links attached to the outside of the arms for added protection.
-$ITM_A_HEAVY_2	Maille Shirt	A shirt made from hundreds of interlinking metal rings, each one riveted shut to prevent rupture.
-$ITM_A_HEAVY_3	Glory of War	This exquisite Quaid armor luxuriates in style.  Each ring of maille is blued, and the last rows of the shirt are gilded to create a golden border.  The reinforcing plates are ornamented with gilded patterns and prominently display the symbol of the Imperial family.  Scratched into the surface of the metal are the Quaid words <LQ>how late it is to think on these things<RQ>.  Several more words are scratched around the corners of the plates, but the haste in which they appear to have been written has rendered them illegible.
-$ITM_A_HEAVY_4	Mixed Maille	A maille shirt with metal plates linked directly into the rings for extra torso protection.  Standard issue for Quaid infantry during the war.
-$ITM_A_HEAVY_5	Horseman's Lamellar	This well-fashioned lamellar harness features extended shoulder protection and knee length tassets, indicating that the harness was designed for heavy cavalry.  The gilded vambraces and silk gambeson reveal the previous owner to have been a warrior of wealth and taste.  Several of the plates are etched with a small foreign script that does not appear to be any regional language.  The location of these plates over the wearer's heart may mean that the script is some kind of protective prayer or charm, but this is pure conjecture.
-$ITM_A_HEAVY_6	Lamellar	Dozens of small metal plates laced together with durable silk cord.
-$ITM_A_HEAVY_7	Traitor's Harness	The gilded spaulders on this Ash-made coat of plates indicate that it most likely belonged to a high ranking official.  The canvas surface has been repaired, but the Ash word <LQ>traitor<RQ> can still be seen carved into the cloth.  Extensive bloodstains are visible through the red dye, though no discernible damage has been done to the armor.
-$ITM_A_HEAVY_8	Coat of Plates	Excellent torso protection made by riveting several large heavy metal plates to the inside of a durable canvas surcoat.
-$ITM_A_HEAVY_9	Strength of Wocolan	This green velvet brigandine features large, brightly polished spaulders typical of Quaid heavy infantry.  The gilded crest depicts the Quaid hero Wocolan crushing a bear's head with his hands.  Below, his children Wastan and Wacella drink the blood running from the bear's mouth in order to survive the family's grueling march into exile.
-$ITM_A_HEAVY_10	Brigandine	Hundreds of metal plates riveted to the inside of a canvas and silk-velvet shell to create a form fitting torso protection.
-$ITM_A_HEAVY_11	Lord Warden's Harness	Insignia identify the owner of this excellent plate harness as the Lord Warden, the Ash official assigned to oversee the Pit.  How he came to be lost inside his own prison is unknown, but blood stains on the shoulder straps indicate that the story did not end well.
-$ITM_A_HEAVY_12	Plate Harness	Complexly shaped steel plates articulated on a leather base to create maximum protection while preserving range of motion.  The preferred gear of Ash Knights.
-$ITM_A_HEAVY_13	Purity of Flame	This brilliantly polished plate harness reflects any light with an almost inferno-like intensity.  Faint etchings appear to be Quaid, but the dialect is so archaic as to be unreadable save for the phrase <LQ>that which consumes<RQ>.  This breastplate has most likely been refurbished countless times - the rest of the harness is far more modern.  Cryptic pictograms hint at some possible role in the Imperial Fire Ritual.
-$ITM_A_HEAVY_14	Guardian of the Fountain	This masterfully crafted plate harness has been blued to almost blackness.  Gilded patterns across the surface of the breastplate depict the Ash Temple Fountain, indicating that this amazing armor most likely belonged to one of the elite Temple Guards.  How such a priceless artifact came to be in the Pit is a mystery.
-$ITM_A_HEAVY_15	<RE>[$ITM_A_HEAVY_3_NAME]+	<RE>[$ITM_A_HEAVY_3_DESCRIPTION]
-$ITM_A_HEAVY_16	<RE>[$ITM_A_HEAVY_5_NAME]+	<RE>[$ITM_A_HEAVY_5_DESCRIPTION]
-$ITM_A_HEAVY_17	<RE>[$ITM_A_HEAVY_7_NAME]+	<RE>[$ITM_A_HEAVY_7_DESCRIPTION]
-$ITM_A_HEAVY_18	<RE>[$ITM_A_HEAVY_9_NAME]+	<RE>[$ITM_A_HEAVY_9_DESCRIPTION]
-$ITM_A_HEAVY_19	<RE>[$ITM_A_HEAVY_11_NAME]+	<RE>[$ITM_A_HEAVY_11_DESCRIPTION]
-$ITM_A_HEAVY_20	<RE>[$ITM_A_HEAVY_13_NAME]+	<RE>[$ITM_A_HEAVY_13_DESCRIPTION]
-$ITM_A_HEAVY_21	<RE>[$ITM_A_HEAVY_14_NAME]+	<RE>[$ITM_A_HEAVY_14_DESCRIPTION]
-$ITM_A_HEAVY_22	<RE>[$ITM_A_HEAVY_1_NAME]+	<RE>[$ITM_A_HEAVY_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_HEAVY_23	<RE>[$ITM_A_HEAVY_2_NAME]+	<RE>[$ITM_A_HEAVY_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_HEAVY_24	<RE>[$ITM_A_HEAVY_4_NAME]+	<RE>[$ITM_A_HEAVY_4_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_HEAVY_25	<RE>[$ITM_A_HEAVY_6_NAME]+	<RE>[$ITM_A_HEAVY_6_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_HEAVY_26	<RE>[$ITM_A_HEAVY_8_NAME]+	<RE>[$ITM_A_HEAVY_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_HEAVY_27	<RE>[$ITM_A_HEAVY_10_NAME]+	<RE>[$ITM_A_HEAVY_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_HEAVY_28	<RE>[$ITM_A_HEAVY_12_NAME]+	<RE>[$ITM_A_HEAVY_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_SKULL_1	Stone Skull	A polished stone skull.  Some suggest it is a magic talisman carried into battle by the revenant.<N><N><N>Experts agree that you could probably trade this for something really cool.
-$ITM_A_SKULL_2	Bronze Skull	Cast of solid bronze, perhaps used for special incantations and ceremonies.<N>Certainly more valuable than a polished stone skull.
-$ITM_A_SKULL_3	Obsidian Skull	Meticulously carved out of solid obsidian, the detail in this deep black skull is both<N>magnificent and haunting. Extremely rare, this type of skull is highly sought-after by collectors.
-$ITM_A_SKULL_4	Silver Skull	This skull is made of pure silver. What could it be for?
-$ITM_A_SKULL_5	Gold Skull	This skull is made of pure gold. What could it be for?
-$ITM_A_SKULL_6	Unobtanium Skull	Made of pure unobtanium, and therefore impossible to obtain. You've actually been carrying it with you this whole time but, mysteriously, just haven't noticed it until now.
-$ITM_W_SWORD_1	Stone shiv	A sharp rock affixed to a wood handle. Better than nothing.
-$ITM_W_SWORD_2	Metal shiv	A blade of scrap metal. Crude, but effective.
-$ITM_W_SWORD_3	Rusty sword	A rusty, beaten-up sword. The Pit is littered with such cast-off relics of the war.
-$ITM_W_SWORD_4	Blood-Feud Kopal	This nomad fighting knife is engraved with the symbols of the Gasta tribe above the symbol of an unknown rival group - indicating a blood-feud between the two.  Its bone handle is grooved with 17 death notches.
-$ITM_W_SWORD_5	Iron sword	A simple iron sword. It's poorly balanced and crudely forged, but otherwise in good condition.
-$ITM_W_SWORD_6	Honor's Vindication	The ornate jade hilt and pommel inlays belie the wicked functionality of this Quaid dueling sword.  The base of the blade bears the inscription,<N><LQ>Vindication of the Honorable.  The Flame Within Me Burns.<RQ>  It was most likely created for a specific duel, settling an alleged dishonor between two nobles.
-$ITM_W_SWORD_7	Soldier's sword	A military sword, mass-produced during the war. It's effective and strong.
-$ITM_W_SWORD_8	Edge of Order	This Ash-made cutter bears an archaic inscription running the length of the blade's spine:<N><LQ>I am the edge of order.  I divide the righteous from the evil, the darkness from the light.  I guide the hand that wields me to d...<RQ> Generations of polishing render the rest of the text too faint to make out.
-$ITM_W_SWORD_9	Officer's sword	Another remnant of the war, this one was hand-crafted for an officer.
-$ITM_W_SWORD_10	Commander of Legions	The elegant yet simple construction of this Ash weapon indicates that it was created for a modest noble.<N><N>One side of the hilt bears the inscription 'Commander of Legions' while the reverse reads 'Servant of the Unmoved Mover.' The disc pommel is engraved on one side with the spheres of the celestial machine and on the other with a pilgrim drinking from the Ash Temple Fountain.
-$ITM_W_SWORD_11	Master's sword	Expertly balanced and tempered, this sword is the work of a master craftsman.
-$ITM_W_SWORD_12	Eye of the Flame	This faultless sword bears an ancient Quaid inscription running down the fuller.  The extreme age of the dialect and wear to the blade have made it all but indecipherable:<N><LQ>Behold...Eye of the Flame...Glory...Flee shameful...A Kingly Thing...<RQ>  Two enourmous rubies on the pommel seem to burn with an internal fire.  The expertly cast hilt shows the Wall of Remembrance - where the names of all honorable Quaid Emperors are marked down.  This remarkable weapon most likely belonged to a member of the Royal line.
-$ITM_W_SWORD_13	Evni	A berserker's dream sword.  There's only one in the world, and the price seems to have been set accordingly.
-$ITM_W_SWORD_14	<RE>[$ITM_W_SWORD_4_NAME]+	<RE>$ITM_W_SWORD_4_DESCRIPTION
-$ITM_W_SWORD_15	<RE>[$ITM_W_SWORD_6_NAME]+	<RE>$ITM_W_SWORD_6_DESCRIPTION
-$ITM_W_SWORD_16	<RE>[$ITM_W_SWORD_8_NAME]+	<RE>$ITM_W_SWORD_8_DESCRIPTION
-$ITM_W_SWORD_17	<RE>[$ITM_W_SWORD_10_NAME]+	<RE>$ITM_W_SWORD_10_DESCRIPTION
-$ITM_W_SWORD_18	<RE>[$ITM_W_SWORD_12_NAME]+	<RE>$ITM_W_SWORD_12_DESCRIPTION
-$ITM_W_SWORD_19	<RE>[$ITM_W_SWORD_13_NAME]+	<RE>$ITM_W_SWORD_13_DESCRIPTION
-$ITM_PLUS	Item+	A mysterious + symbol marks it as much stronger than normal.
-$ITM_W_SWORD_20	<RE>[$ITM_W_SWORD_1_NAME]+	<RE>[$ITM_W_SWORD_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_SWORD_21	<RE>[$ITM_W_SWORD_2_NAME]+	<RE>[$ITM_W_SWORD_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_SWORD_22	<RE>[$ITM_W_SWORD_3_NAME]+	<RE>[$ITM_W_SWORD_3_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_SWORD_23	<RE>[$ITM_W_SWORD_5_NAME]+	<RE>[$ITM_W_SWORD_5_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_SWORD_24	<RE>[$ITM_W_SWORD_7_NAME]+	<RE>[$ITM_W_SWORD_7_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_SWORD_25	<RE>[$ITM_W_SWORD_9_NAME]+	<RE>[$ITM_W_SWORD_9_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_SWORD_26	<RE>[$ITM_W_SWORD_11_NAME]+	<RE>[$ITM_W_SWORD_11_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_BOW_1	Green bow	A simple bow made from sapling wood and stocked with wooden arrows.
-$ITM_W_BOW_2	Wood bow	A bow made from wood and stocked with stone-tipped arrows.
-$ITM_W_BOW_3	Hunter Warrior	This nomad hunting bow appears to have doubled as a weapon of war.  The Nomad symbol for 'good hunting' has been painted over with the symbol for 'death'. On the inside of the bow is a depiction of a Sdeka family god, holding a severed head.  Red victory stripes at the tips indicate that this weapon was put to much use in some conflict long forgotten.
-$ITM_W_BOW_4	Hunter's bow	A strong bow made from yew and stocked with stone-tipped arrows.
-$ITM_W_BOW_5	Relic of the North	This fine hunting bow is crafted from pure white birchwood.  The blue leather grip is wound with gold wire, and a strange script winds around the ends - possibly one of the many languages of the Northern city states.   The nomad symbol of the Ked family is painted on one side, indicating that the weapon traveled South with that tribe.
-$ITM_W_BOW_6	Antler bow	A powerful bow carved from a hart's antler.
-$ITM_W_BOW_7	Captain's Warbow	This Ashani warbow is composed of several layers of rare woods glued together.  The grip has a depiction of a turning gear and a gold inscription. It reads, Captain Zantimon, defender of the way, most likely a leader of one of the numerous patrols that used to safeguard Ash Temple pilgrims against bandits and Nomad raiders.
-$ITM_W_BOW_8	Great stag bow	An ancient bow carved from a great stag's antler.
-$ITM_W_BOW_9	Warlord's Triumph	This expertly crafted recurve bow is adorned with gold ringlets and brightly colored leather.  The tooled grip depicts a victorious warlord standing on a mountain of slain enemies.  Several unrecognizable dieties bless him from above.  This weapon obviously belonged to a wealthy and successful Nomad Chieftan.
-$ITM_W_BOW_10	Composite warbow	This composite bow, formed from several different woods, likely belonged to a officer.
-$ITM_W_BOW_11	Gilded Death	This horn-tipped warbow is ornamented with numerous golden rings.  The leather grip carries an archaic Quaid inscription: <LQ>Lucawan, you who have murdered honor for tawdry gold, in the gold of this weapon see your death. Its dart shall find you, and your traitorous corpse shall be the plaything of dogs and worms.<RQ>  Below, scratched into the surface of the leather are the words <LQ>it has been done.<RQ>
-$ITM_W_BOW_12	Reinforced longbow	Composed of thick oak, this bow takes incredible strength to draw, but is able to deliver lethal strikes for those who can handle it.
-$ITM_W_BOW_13	<RE>[$ITM_W_BOW_3_NAME]+	<RE>[$ITM_W_BOW_3_DESCRIPTION]
-$ITM_W_BOW_14	<RE>[$ITM_W_BOW_5_NAME]+	<RE>[$ITM_W_BOW_5_DESCRIPTION]
-$ITM_W_BOW_15	<RE>[$ITM_W_BOW_7_NAME]+	<RE>[$ITM_W_BOW_7_DESCRIPTION]
-$ITM_W_BOW_16	<RE>[$ITM_W_BOW_9_NAME]+	<RE>[$ITM_W_BOW_9_DESCRIPTION]
-$ITM_W_BOW_17	<RE>[$ITM_W_BOW_11_NAME]+	<RE>[$ITM_W_BOW_11_DESCRIPTION]
-$ITM_W_BOW_18	<RE>[$ITM_W_BOW_1_NAME]+	<RE>[$ITM_W_BOW_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_BOW_19	<RE>[$ITM_W_BOW_2_NAME]+	<RE>[$ITM_W_BOW_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_BOW_20	<RE>[$ITM_W_BOW_4_NAME]+	<RE>[$ITM_W_BOW_4_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_BOW_21	<RE>[$ITM_W_BOW_6_NAME]+	<RE>[$ITM_W_BOW_6_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_BOW_22	<RE>[$ITM_W_BOW_8_NAME]+	<RE>[$ITM_W_BOW_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_BOW_23	<RE>[$ITM_W_BOW_10_NAME]+	<RE>[$ITM_W_BOW_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_BOW_24	<RE>[$ITM_W_BOW_12_NAME]+	<RE>[$ITM_W_BOW_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_STAFF_1	Walking stick	A stout, solid stick.
-$ITM_W_STAFF_2	Shepherd's crook	A simple shepherd's crook.
-$ITM_W_STAFF_3	Charlatan's Staff	This ornately carved staff is adorned with a strange text running along the shaft. Closer inspection reveals that this script is no more than gibberish, carved to fool the illiterate. The ends of the staff contain several hollow compartments containing powders to produce colored smoke and what was presumably once a live canary.
-$ITM_W_STAFF_4	Oaken staff	A finely carved oaken staff with a sturdy leather grip.
-$ITM_W_STAFF_5	Archshepherd Stave	This sturdy staff is covered in charms written in multiple dialects of Quaid, Ash, Nomad and several unidentifiable languages.  Along the top of the staff are the Quaid words <LQ>Master of Sheep, Keeper of the Stores<RQ>.  The Jewel of the Desert crest appears below, indicating that the unfortunate owner was charged with administering the vicious feral sheep below the city.  The lower end of the staff is covered in hundreds of toothmarks, with several teeth still lodged in the surface of the wood.
-$ITM_W_STAFF_6	Bludgeon	A sturdy oak staff with one end hollowed out and filled with lead for added weight.
-$ITM_W_STAFF_7	The Beast's Weapon	This remarkable staff is carved from a single piece of ivory.  What monster could produce a horn of such size is a truly terrifying thought.  Ornate carvings down the length of the staff appear to tell the story of some unknown hero.  It matches no Ash, Nomad or Quaid motifs, and there are no identifying words, leaving both the identity of the carver and the monster from which the horn originally came a mystery.
-$ITM_W_STAFF_8	Ironwood staff	An excellent staff carved from the rarest of woods.
-$ITM_W_STAFF_9	Executioner's Bludgeon	This hefty staff is shod with iron and one end has been hollowed out and filled with lead to provide added momentum to its swing.  Strange etchings adorn the surface of the metal.  The language is unknown, most likely one of the many tongues spoken in the Northern city states.  Crossed keys underneath a death's head most likely symbolize some position of authority, possibly a jailor, executioner or some other office seen as unworthy of using a sword.  Blood stains on the staff's striking end indicate that this authority was frequently exercised.
-$ITM_W_STAFF_10	Steel-Shod Staff	A sturdy staff that has been reinforced with long steel plates.
-$ITM_W_STAFF_11	Keeper of the Flame	This silver-plated staff is tarnished with generations of handling. Less sullied areas appear to be covered with archaic Quaid writing. The darkening of the silver and the extreme age of the dialect render most of it indecipherable. The phrase <LQ>those who hold the flame<RQ> appears several times, as does, <LQ>ecstasy... consume<RQ>. Both ends of the staff are almost black with accumulated scorch marks, hinting at possible use in the Quaid Imperial fire ritual.
-$ITM_W_STAFF_12	Pilgrim's Staff	One of the many staffs given out to travelers by the Selini monks.  The shaft is reinforced with steel plates and the surface of the wood has been carved with prayers.
-$ITM_W_STAFF_13	Kozomon's Scepter	This rustic oak staff bears the inscription <LQ>Kozomon Kastankim<RQ> in an incredibly archaic Ash dialect, labeling this simple implement as the property of Selinadt's first disciple.  This relic was believed to have been lost when its chapter house was looted in the last years of the Quaidian war.  The gold and jewels that used to adorn it have been stripped away long ago, but the staff itself remains undamaged.  Centuries of veneration and several fires have darkened the original wood to almost pitch blackness, though it retains all of its strength.
-$ITM_W_STAFF_14	<RE>[$ITM_W_STAFF_3_NAME]+	<RE>[$ITM_W_STAFF_3_DESCRIPTION]
-$ITM_W_STAFF_15	<RE>[$ITM_W_STAFF_5_NAME]+	<RE>[$ITM_W_STAFF_5_DESCRIPTION]
-$ITM_W_STAFF_16	<RE>[$ITM_W_STAFF_7_NAME]+	<RE>[$ITM_W_STAFF_7_DESCRIPTION]
-$ITM_W_STAFF_17	<RE>[$ITM_W_STAFF_9_NAME]+	<RE>[$ITM_W_STAFF_9_DESCRIPTION]
-$ITM_W_STAFF_18	<RE>[$ITM_W_STAFF_11_NAME]+	<RE>[$ITM_W_STAFF_11_DESCRIPTION]
-$ITM_W_STAFF_19	<RE>[$ITM_W_STAFF_13_NAME]+	<RE>[$ITM_W_STAFF_13_DESCRIPTION]
-$ITM_W_STAFF_20	<RE>[$ITM_W_STAFF_1_NAME]+	<RE>[$ITM_W_STAFF_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_STAFF_21	<RE>[$ITM_W_STAFF_2_NAME]+	<RE>[$ITM_W_STAFF_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_STAFF_22	<RE>[$ITM_W_STAFF_4_NAME]+	<RE>[$ITM_W_STAFF_4_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_STAFF_23	<RE>[$ITM_W_STAFF_6_NAME]+	<RE>[$ITM_W_STAFF_6_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_STAFF_24	<RE>[$ITM_W_STAFF_8_NAME]+	<RE>[$ITM_W_STAFF_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_STAFF_25	<RE>[$ITM_W_STAFF_10_NAME]+	<RE>[$ITM_W_STAFF_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_STAFF_26	<RE>[$ITM_W_STAFF_12_NAME]+	<RE>[$ITM_W_STAFF_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_BOOK_PERHAPS	<NOTHING>	Perhaps you should take this book with you on your next adventure.
-$ITM_ACC_BOOK_1	Shock Lightning	Lightning shocks enemies, paralyzing them briefly.
-$ITM_ACC_BOOK_2	Chain Lightning	Lightning strikes 1 additional target with diminishing power for each skill point in Lightning.
-$ITM_ACC_BOOK_3	Furious Start	Newly summoned defenders have frenzy.
-$ITM_ACC_BOOK_4	Furious End	Defenders below 25% health gain frenzy.
-$ITM_ACC_BOOK_5	Light of Judgment	Casting Heal also applies BLIND to all enemies.
-$ITM_ACC_BOOK_6	Light of Glory	Casting Heal also applies LIGHT to all enemies.
-$ITM_ACC_BOOK_7	Slow Start	Newly spawned enemies are slowed temporarily.
-$ITM_ACC_BOOK_8	Slow End	Enemies within slow down as they approach $MCG.
-$ITM_ACC_BOOK_9	Crystal patch	$MCG begins the level surrounded by several crystals.
-$ITM_ACC_BOOK_10	Psi Shield	Enemies that hit $MCG deduct Psi instead of HP. Less Psi is lost for every point spent on the Crystal spell.
-$ITM_ACC_BOOK_11	Explosive Start	Summoning and boosting defenders causes a small explosion.
-$ITM_ACC_BOOK_12	Explosive End	A small explosion goes off when a defender is defeated.
-$ITM_ACC_BOOK_13	Book of Plagues	All defenders except $MCG can't regenerate, and all enemies except bosses are permanently toxic.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
-$ITM_ACC_BOOK_14	Book of Blood	All defenders and enemies, except $MCG and bosses, are permanently bleeding.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
-$ITM_ACC_BOOK_15	Book of Synergy	Ice, water, and fire no longer cancel.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
-$ITM_ACC_BOOK_16	Valley of the Forgotten	This book has no magical powers, but is instead an autobiography. It tells the story of a young Ashani librarian who survives an epidemic only to find herself trapped in a plague colony.  It is written in the form of a journal, with many illustrations drawn with improvised materials such as charcoal, tea, plant extracts, and blood.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
-$ITM_ACC_BOOK_17	Book of Daring	Defenders cannot be re-summoned once defeated or recalled in battle.
-$ITM_ACC_BOOK_18	Book of Silence	$MCG cannot cast spells in battle.
-$ITM_ACC_BOOK_19	Book of Face	ONLY works on EXTREME challenges: <N><N>Enemies will randomly update their <LQ>status<RQ> with new faces. Quite strange.
-$ITM_ACC_BOOK_20	Anonymous Book	ONLY works on EXTREME challenges: <N><N>Defenders become anonymous, and gain +3% chance to dodge.
-$ITM_ACC_BOOK_21	Book of Secrets	You can hear a soft whispering when you hold it to your ear.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
-$ITM_W_BOOK_1	<RE>$ITM_ACC_BOOK_1_NAME	<RE>$ITM_ACC_BOOK_1_DESCRIPTION
-$ITM_W_BOOK_2	<RE>$ITM_ACC_BOOK_2_NAME	<RE>$ITM_ACC_BOOK_2_DESCRIPTION
-$ITM_W_BOOK_3	<RE>$ITM_ACC_BOOK_3_NAME	<RE>$ITM_ACC_BOOK_3_DESCRIPTION
-$ITM_W_BOOK_4	<RE>$ITM_ACC_BOOK_4_NAME	<RE>$ITM_ACC_BOOK_4_DESCRIPTION
-$ITM_W_BOOK_5	<RE>$ITM_ACC_BOOK_5_NAME	<RE>$ITM_ACC_BOOK_5_DESCRIPTION
-$ITM_W_BOOK_6	<RE>$ITM_ACC_BOOK_6_NAME	<RE>$ITM_ACC_BOOK_6_DESCRIPTION
-$ITM_W_BOOK_7	<RE>$ITM_ACC_BOOK_7_NAME	<RE>$ITM_ACC_BOOK_7_DESCRIPTION
-$ITM_W_BOOK_8	<RE>$ITM_ACC_BOOK_8_NAME	<RE>$ITM_ACC_BOOK_8_DESCRIPTION
-$ITM_W_BOOK_9	<RE>$ITM_ACC_BOOK_9_NAME	<RE>$ITM_ACC_BOOK_9_DESCRIPTION
-$ITM_W_BOOK_10	<RE>$ITM_ACC_BOOK_10_NAME	<RE>$ITM_ACC_BOOK_10_DESCRIPTION
-$ITM_W_BOOK_11	<RE>$ITM_ACC_BOOK_11_NAME	<RE>$ITM_ACC_BOOK_11_DESCRIPTION
-$ITM_W_BOOK_12	<RE>$ITM_ACC_BOOK_12_NAME	<RE>$ITM_ACC_BOOK_12_DESCRIPTION
-$ITM_W_BOOK_13	<RE>$ITM_ACC_BOOK_13_NAME	<RE>$ITM_ACC_BOOK_13_DESCRIPTION
-$ITM_W_BOOK_14	<RE>$ITM_ACC_BOOK_14_NAME	<RE>$ITM_ACC_BOOK_14_DESCRIPTION
-$ITM_W_BOOK_15	<RE>$ITM_ACC_BOOK_15_NAME	<RE>$ITM_ACC_BOOK_15_DESCRIPTION
-$ITM_W_BOOK_16	<RE>$ITM_ACC_BOOK_16_NAME	<RE>$ITM_ACC_BOOK_16_DESCRIPTION
-$ITM_W_BOOK_17	<RE>$ITM_ACC_BOOK_17_NAME	<RE>$ITM_ACC_BOOK_17_DESCRIPTION
-$ITM_W_BOOK_18	<RE>$ITM_ACC_BOOK_18_NAME	<RE>$ITM_ACC_BOOK_18_DESCRIPTION
-$ITM_W_BOOK_19	<RE>$ITM_ACC_BOOK_19_NAME	<RE>$ITM_ACC_BOOK_19_DESCRIPTION
-$ITM_W_BOOK_20	<RE>$ITM_ACC_BOOK_20_NAME	<RE>$ITM_ACC_BOOK_20_DESCRIPTION
-$ITM_W_BOOK_21	<RE>$ITM_ACC_BOOK_21_NAME	<RE>$ITM_ACC_BOOK_21_DESCRIPTION
+flag	name	description	
+$ITEM_SWORD	<RE>$ITM_W_SWORD	
+$ITEM_BOW	<RE>$ITM_W_BOW	
+$ITEM_STAFF	<RE>$ITM_W_STAFF	
+$ITEM_LIGHT	<RE>$ITM_A_LIGHT	
+$ITEM_HEAVY	<RE>$ITM_A_HEAVY	
+$ITEM_BOOK	<RE>$ITM_ACC_BOOK	
+$ITEM_WEAPON	Weapon	
+$ITEM_ARMOR	Armor	
+$ITM_ACC_BOOK	book	<NULL>	
+$ITM_ACC_BOOK_PLURAL	books	<NULL>	
+$ITM_ACC_BOOK_PLURAL_SHORT	books	<NULL>	
+$ITM_A_LIGHT	light armor	<NULL>	
+$ITM_A_LIGHT_PLURAL	light armor	<NULL>	
+$ITM_A_HEAVY	heavy armor	<NULL>	
+$ITM_A_HEAVY_PLURAL	heavy armor	<NULL>	
+$ITM_W_SWORD	sword	<NULL>	
+$ITM_W_SWORD_PLURAL	swords	<NULL>	
+$ITM_W_BOW	bow	<NULL>	
+$ITM_W_BOW_PLURAL	bows	<NULL>	
+$ITM_W_STAFF	staff	<NULL>	
+$ITM_W_STAFF_PLURAL	staffs	<NULL>	
+$ITM_A_LIGHT_PLURAL_SHORT	light	<NULL>	
+$ITM_A_HEAVY_PLURAL_SHORT	heavy	<NULL>	
+$ITM_W_SWORD_PLURAL_SHORT	swords	<NULL>	
+$ITM_W_STAFF_PLURAL_SHORT	staffs	<NULL>	
+$ITM_W_BOW_PLURAL_SHORT	bows	<NULL>	
+$ITM_A_LIGHT_1	Sackcloth	A burlap sack worn underneath the clothes. Itchy, but better than nothing.	
+$ITM_A_LIGHT_2	Hide	Dried animal skins roughly sewn into a protective vest. Thick and sturdy.	
+$ITM_A_LIGHT_3	Chieftain's Tunic	This brilliantly colored nomad tunic is crafted from heavy wool and ornamented with ornate embroidery. The hem of the garment depicts the continuously winding roots of the World Tree.	
+$ITM_A_LIGHT_4	Heavy Wool Tunic	A long, thick tunic fashioned from the prized wool of nomadic herdsmen.	
+$ITM_A_LIGHT_5	Tiger Skin Vest	Quaid fire motifs on the tooled leather belt are the only hint at the origins of this exotic garment.	
+$ITM_A_LIGHT_6	Fur	Valuable animal furs fashioned into a warm and well padded vest.	
+$ITM_A_LIGHT_7	Ozimal's Coat	Smells faintly of cheese.	
+$ITM_A_LIGHT_8	Leather	Cured leather carefully sewn into a well fashioned jerkin.	
+$ITM_A_LIGHT_9	Warrior Monk's Habit	This heavily padded monk's habit is adorned with the symbols of the 9th Branch of the Selini, House Militant, Defenders of Truth and Order.	
+$ITM_A_LIGHT_10	Wool Gambeson	Several layers of fine wool, painstakingly quilted together and stuffed with scrap cloth and animal hair to form a sturdy defense against all but the most devastating blows.	
+$ITM_A_LIGHT_11	Assassin's Folly	At first glance this appears to be no more than an ornate nobleman's shirt. Closer inspection reveals row upon row of light metal plates sewn to the inside of the garment. A gash at the small of the back indicates that it's ingenious design foiled at least one assassin.	
+$ITM_A_LIGHT_12	Silk Gambeson	Layer upon layer of durable silk quilted together with horse hair padding to create an armor capable of stopping an arrow with no injury to the wearer.	
+$ITM_A_LIGHT_13	Master of Archers	This Ash gambeson is crafted from the finest silk and features intricate embroidery identifying its owner as the 'King's Master of Archers'. Dozens of minor repairs over the surface indicate that this unparalleled armor has seen many conflicts, most likely passed from one Master to the next upon retirement.	
+$ITM_A_LIGHT_14	The Platinum Fleece	Much more valuable than a mere 'golden' one. Stripped from the corpse of the  Axxima Vatta Muttunaxxor itself, this blindingly brilliant fleece knows no equal.	
+$ITM_A_LIGHT_15	<RE>[$ITM_A_LIGHT_3_NAME]+	<RE>[$ITM_A_LIGHT_3_DESCRIPTION]	
+$ITM_A_LIGHT_16	<RE>[$ITM_A_LIGHT_5_NAME]+	<RE>[$ITM_A_LIGHT_5_DESCRIPTION]	
+$ITM_A_LIGHT_17	<RE>[$ITM_A_LIGHT_7_NAME]+	<RE>[$ITM_A_LIGHT_7_DESCRIPTION]	
+$ITM_A_LIGHT_18	<RE>[$ITM_A_LIGHT_9_NAME]+	<RE>[$ITM_A_LIGHT_9_DESCRIPTION]	
+$ITM_A_LIGHT_19	<RE>[$ITM_A_LIGHT_11_NAME]+	<RE>[$ITM_A_LIGHT_11_DESCRIPTION]	
+$ITM_A_LIGHT_20	<RE>[$ITM_A_LIGHT_13_NAME]+	<RE>[$ITM_A_LIGHT_13_DESCRIPTION]	
+$ITM_A_LIGHT_21	<RE>[$ITM_A_LIGHT_14_NAME]+	<RE>[$ITM_A_LIGHT_14_DESCRIPTION]	
+$ITM_A_LIGHT_22	<RE>[$ITM_A_LIGHT_1_NAME]+	<RE>[$ITM_A_LIGHT_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_LIGHT_23	<RE>[$ITM_A_LIGHT_2_NAME]+	<RE>[$ITM_A_LIGHT_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_LIGHT_24	<RE>[$ITM_A_LIGHT_4_NAME]+	<RE>[$ITM_A_LIGHT_4_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_LIGHT_25	<RE>[$ITM_A_LIGHT_6_NAME]+	<RE>[$ITM_A_LIGHT_6_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_LIGHT_26	<RE>[$ITM_A_LIGHT_8_NAME]+	<RE>[$ITM_A_LIGHT_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_LIGHT_27	<RE>[$ITM_A_LIGHT_10_NAME]+	<RE>[$ITM_A_LIGHT_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_LIGHT_28	<RE>[$ITM_A_LIGHT_12_NAME]+	<RE>[$ITM_A_LIGHT_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_HEAVY_1	Jack of Chains	A light gambeson with several crudely forged metal links attached to the outside of the arms for added protection.	
+$ITM_A_HEAVY_2	Maille Shirt	A shirt made from hundreds of interlinking metal rings, each one riveted shut to prevent rupture.	
+$ITM_A_HEAVY_3	Glory of War	This exquisite Quaid armor luxuriates in style.  Each ring of maille is blued, and the last rows of the shirt are gilded to create a golden border.  The reinforcing plates are ornamented with gilded patterns and prominently display the symbol of the Imperial family.  Scratched into the surface of the metal are the Quaid words <LQ>how late it is to think on these things<RQ>.  Several more words are scratched around the corners of the plates, but the haste in which they appear to have been written has rendered them illegible.	
+$ITM_A_HEAVY_4	Mixed Maille	A maille shirt with metal plates linked directly into the rings for extra torso protection.  Standard issue for Quaid infantry during the war.	
+$ITM_A_HEAVY_5	Horseman's Lamellar	This well-fashioned lamellar harness features extended shoulder protection and knee length tassets, indicating that the harness was designed for heavy cavalry.  The gilded vambraces and silk gambeson reveal the previous owner to have been a warrior of wealth and taste.  Several of the plates are etched with a small foreign script that does not appear to be any regional language.  The location of these plates over the wearer's heart may mean that the script is some kind of protective prayer or charm, but this is pure conjecture.	
+$ITM_A_HEAVY_6	Lamellar	Dozens of small metal plates laced together with durable silk cord.	
+$ITM_A_HEAVY_7	Traitor's Harness	The gilded spaulders on this Ash-made coat of plates indicate that it most likely belonged to a high ranking official.  The canvas surface has been repaired, but the Ash word <LQ>traitor<RQ> can still be seen carved into the cloth.  Extensive bloodstains are visible through the red dye, though no discernible damage has been done to the armor.	
+$ITM_A_HEAVY_8	Coat of Plates	Excellent torso protection made by riveting several large heavy metal plates to the inside of a durable canvas surcoat.	
+$ITM_A_HEAVY_9	Strength of Wocolan	This green velvet brigandine features large, brightly polished spaulders typical of Quaid heavy infantry.  The gilded crest depicts the Quaid hero Wocolan crushing a bear's head with his hands.  Below, his children Wastan and Wacella drink the blood running from the bear's mouth in order to survive the family's grueling march into exile.	
+$ITM_A_HEAVY_10	Brigandine	Hundreds of metal plates riveted to the inside of a canvas and silk-velvet shell to create a form fitting torso protection.	
+$ITM_A_HEAVY_11	Lord Warden's Harness	Insignia identify the owner of this excellent plate harness as the Lord Warden, the Ash official assigned to oversee the Pit.  How he came to be lost inside his own prison is unknown, but blood stains on the shoulder straps indicate that the story did not end well.	
+$ITM_A_HEAVY_12	Plate Harness	Complexly shaped steel plates articulated on a leather base to create maximum protection while preserving range of motion.  The preferred gear of Ash Knights.	
+$ITM_A_HEAVY_13	Purity of Flame	This brilliantly polished plate harness reflects any light with an almost inferno-like intensity.  Faint etchings appear to be Quaid, but the dialect is so archaic as to be unreadable save for the phrase <LQ>that which consumes<RQ>.  This breastplate has most likely been refurbished countless times - the rest of the harness is far more modern.  Cryptic pictograms hint at some possible role in the Imperial Fire Ritual.	
+$ITM_A_HEAVY_14	Guardian of the Fountain	This masterfully crafted plate harness has been blued to almost blackness.  Gilded patterns across the surface of the breastplate depict the Ash Temple Fountain, indicating that this amazing armor most likely belonged to one of the elite Temple Guards.  How such a priceless artifact came to be in the Pit is a mystery.	
+$ITM_A_HEAVY_15	<RE>[$ITM_A_HEAVY_3_NAME]+	<RE>[$ITM_A_HEAVY_3_DESCRIPTION]	
+$ITM_A_HEAVY_16	<RE>[$ITM_A_HEAVY_5_NAME]+	<RE>[$ITM_A_HEAVY_5_DESCRIPTION]	
+$ITM_A_HEAVY_17	<RE>[$ITM_A_HEAVY_7_NAME]+	<RE>[$ITM_A_HEAVY_7_DESCRIPTION]	
+$ITM_A_HEAVY_18	<RE>[$ITM_A_HEAVY_9_NAME]+	<RE>[$ITM_A_HEAVY_9_DESCRIPTION]	
+$ITM_A_HEAVY_19	<RE>[$ITM_A_HEAVY_11_NAME]+	<RE>[$ITM_A_HEAVY_11_DESCRIPTION]	
+$ITM_A_HEAVY_20	<RE>[$ITM_A_HEAVY_13_NAME]+	<RE>[$ITM_A_HEAVY_13_DESCRIPTION]	
+$ITM_A_HEAVY_21	<RE>[$ITM_A_HEAVY_14_NAME]+	<RE>[$ITM_A_HEAVY_14_DESCRIPTION]	
+$ITM_A_HEAVY_22	<RE>[$ITM_A_HEAVY_1_NAME]+	<RE>[$ITM_A_HEAVY_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_HEAVY_23	<RE>[$ITM_A_HEAVY_2_NAME]+	<RE>[$ITM_A_HEAVY_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_HEAVY_24	<RE>[$ITM_A_HEAVY_4_NAME]+	<RE>[$ITM_A_HEAVY_4_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_HEAVY_25	<RE>[$ITM_A_HEAVY_6_NAME]+	<RE>[$ITM_A_HEAVY_6_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_HEAVY_26	<RE>[$ITM_A_HEAVY_8_NAME]+	<RE>[$ITM_A_HEAVY_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_HEAVY_27	<RE>[$ITM_A_HEAVY_10_NAME]+	<RE>[$ITM_A_HEAVY_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_HEAVY_28	<RE>[$ITM_A_HEAVY_12_NAME]+	<RE>[$ITM_A_HEAVY_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_A_SKULL_1	Stone Skull	A polished stone skull.  Some suggest it is a magic talisman carried into battle by the revenant.<N><N><N>Experts agree that you could probably trade this for something really cool.	
+$ITM_A_SKULL_2	Bronze Skull	Cast of solid bronze, perhaps used for special incantations and ceremonies.<N>Certainly more valuable than a polished stone skull.	
+$ITM_A_SKULL_3	Obsidian Skull	Meticulously carved out of solid obsidian, the detail in this deep black skull is both<N>magnificent and haunting. Extremely rare, this type of skull is highly sought-after by collectors.	
+$ITM_A_SKULL_4	Silver Skull	This skull is made of pure silver. What could it be for?	
+$ITM_A_SKULL_5	Gold Skull	This skull is made of pure gold. What could it be for?	
+$ITM_A_SKULL_6	Unobtanium Skull	Made of pure unobtanium, and therefore impossible to obtain. You've actually been carrying it with you this whole time but, mysteriously, just haven't noticed it until now.	
+$ITM_W_SWORD_1	Stone shiv	A sharp rock affixed to a wood handle. Better than nothing.	
+$ITM_W_SWORD_2	Metal shiv	A blade of scrap metal. Crude, but effective.	
+$ITM_W_SWORD_3	Rusty sword	A rusty, beaten-up sword. The Pit is littered with such cast-off relics of the war.	
+$ITM_W_SWORD_4	Blood-Feud Kopal	This nomad fighting knife is engraved with the symbols of the Gasta tribe above the symbol of an unknown rival group - indicating a blood-feud between the two.  Its bone handle is grooved with 17 death notches.	
+$ITM_W_SWORD_5	Iron sword	A simple iron sword. It's poorly balanced and crudely forged, but otherwise in good condition.	
+$ITM_W_SWORD_6	Honor's Vindication	The ornate jade hilt and pommel inlays belie the wicked functionality of this Quaid dueling sword.  The base of the blade bears the inscription,<N><LQ>Vindication of the Honorable.  The Flame Within Me Burns.<RQ>  It was most likely created for a specific duel, settling an alleged dishonor between two nobles.	
+$ITM_W_SWORD_7	Soldier's sword	A military sword, mass-produced during the war. It's effective and strong.	
+$ITM_W_SWORD_8	Edge of Order	This Ash-made cutter bears an archaic inscription running the length of the blade's spine:<N><LQ>I am the edge of order.  I divide the righteous from the evil, the darkness from the light.  I guide the hand that wields me to d...<RQ> Generations of polishing render the rest of the text too faint to make out.	
+$ITM_W_SWORD_9	Officer's sword	Another remnant of the war, this one was hand-crafted for an officer.	
+$ITM_W_SWORD_10	Commander of Legions	The elegant yet simple construction of this Ash weapon indicates that it was created for a modest noble.<N><N>One side of the hilt bears the inscription 'Commander of Legions' while the reverse reads 'Servant of the Unmoved Mover.' The disc pommel is engraved on one side with the spheres of the celestial machine and on the other with a pilgrim drinking from the Ash Temple Fountain.	
+$ITM_W_SWORD_11	Master's sword	Expertly balanced and tempered, this sword is the work of a master craftsman.	
+$ITM_W_SWORD_12	Eye of the Flame	This faultless sword bears an ancient Quaid inscription running down the fuller.  The extreme age of the dialect and wear to the blade have made it all but indecipherable:<N><LQ>Behold...Eye of the Flame...Glory...Flee shameful...A Kingly Thing...<RQ>  Two enourmous rubies on the pommel seem to burn with an internal fire.  The expertly cast hilt shows the Wall of Remembrance - where the names of all honorable Quaid Emperors are marked down.  This remarkable weapon most likely belonged to a member of the Royal line.	
+$ITM_W_SWORD_13	Evni	A berserker's dream sword.  There's only one in the world, and the price seems to have been set accordingly.	
+$ITM_W_SWORD_14	<RE>[$ITM_W_SWORD_4_NAME]+	<RE>$ITM_W_SWORD_4_DESCRIPTION	
+$ITM_W_SWORD_15	<RE>[$ITM_W_SWORD_6_NAME]+	<RE>$ITM_W_SWORD_6_DESCRIPTION	
+$ITM_W_SWORD_16	<RE>[$ITM_W_SWORD_8_NAME]+	<RE>$ITM_W_SWORD_8_DESCRIPTION	
+$ITM_W_SWORD_17	<RE>[$ITM_W_SWORD_10_NAME]+	<RE>$ITM_W_SWORD_10_DESCRIPTION	
+$ITM_W_SWORD_18	<RE>[$ITM_W_SWORD_12_NAME]+	<RE>$ITM_W_SWORD_12_DESCRIPTION	
+$ITM_W_SWORD_19	<RE>[$ITM_W_SWORD_13_NAME]+	<RE>$ITM_W_SWORD_13_DESCRIPTION	
+$ITM_PLUS	Item+	A mysterious + symbol marks it as much stronger than normal.	
+$ITM_W_SWORD_20	<RE>[$ITM_W_SWORD_1_NAME]+	<RE>[$ITM_W_SWORD_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_SWORD_21	<RE>[$ITM_W_SWORD_2_NAME]+	<RE>[$ITM_W_SWORD_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_SWORD_22	<RE>[$ITM_W_SWORD_3_NAME]+	<RE>[$ITM_W_SWORD_3_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_SWORD_23	<RE>[$ITM_W_SWORD_5_NAME]+	<RE>[$ITM_W_SWORD_5_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_SWORD_24	<RE>[$ITM_W_SWORD_7_NAME]+	<RE>[$ITM_W_SWORD_7_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_SWORD_25	<RE>[$ITM_W_SWORD_9_NAME]+	<RE>[$ITM_W_SWORD_9_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_SWORD_26	<RE>[$ITM_W_SWORD_11_NAME]+	<RE>[$ITM_W_SWORD_11_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_BOW_1	Green bow	A simple bow made from sapling wood and stocked with wooden arrows.	
+$ITM_W_BOW_2	Wood bow	A bow made from wood and stocked with stone-tipped arrows.	
+$ITM_W_BOW_3	Hunter Warrior	This nomad hunting bow appears to have doubled as a weapon of war.  The Nomad symbol for 'good hunting' has been painted over with the symbol for 'death'. On the inside of the bow is a depiction of a Sdeka family god, holding a severed head.  Red victory stripes at the tips indicate that this weapon was put to much use in some conflict long forgotten.	
+$ITM_W_BOW_4	Hunter's bow	A strong bow made from yew and stocked with stone-tipped arrows.	
+$ITM_W_BOW_5	Relic of the North	This fine hunting bow is crafted from pure white birchwood.  The blue leather grip is wound with gold wire, and a strange script winds around the ends - possibly one of the many languages of the Northern city states.   The nomad symbol of the Ked family is painted on one side, indicating that the weapon traveled South with that tribe.	
+$ITM_W_BOW_6	Antler bow	A powerful bow carved from a hart's antler.	
+$ITM_W_BOW_7	Captain's Warbow	This Ashani warbow is composed of several layers of rare woods glued together.  The grip has a depiction of a turning gear and a gold inscription. It reads, Captain Zantimon, defender of the way, most likely a leader of one of the numerous patrols that used to safeguard Ash Temple pilgrims against bandits and Nomad raiders.	
+$ITM_W_BOW_8	Great stag bow	An ancient bow carved from a great stag's antler.	
+$ITM_W_BOW_9	Warlord's Triumph	This expertly crafted recurve bow is adorned with gold ringlets and brightly colored leather.  The tooled grip depicts a victorious warlord standing on a mountain of slain enemies.  Several unrecognizable dieties bless him from above.  This weapon obviously belonged to a wealthy and successful Nomad Chieftan.	
+$ITM_W_BOW_10	Composite warbow	This composite bow, formed from several different woods, likely belonged to a officer.	
+$ITM_W_BOW_11	Gilded Death	This horn-tipped warbow is ornamented with numerous golden rings.  The leather grip carries an archaic Quaid inscription: <LQ>Lucawan, you who have murdered honor for tawdry gold, in the gold of this weapon see your death. Its dart shall find you, and your traitorous corpse shall be the plaything of dogs and worms.<RQ>  Below, scratched into the surface of the leather are the words <LQ>it has been done.<RQ>	
+$ITM_W_BOW_12	Reinforced longbow	Composed of thick oak, this bow takes incredible strength to draw, but is able to deliver lethal strikes for those who can handle it.	
+$ITM_W_BOW_13	<RE>[$ITM_W_BOW_3_NAME]+	<RE>[$ITM_W_BOW_3_DESCRIPTION]	
+$ITM_W_BOW_14	<RE>[$ITM_W_BOW_5_NAME]+	<RE>[$ITM_W_BOW_5_DESCRIPTION]	
+$ITM_W_BOW_15	<RE>[$ITM_W_BOW_7_NAME]+	<RE>[$ITM_W_BOW_7_DESCRIPTION]	
+$ITM_W_BOW_16	<RE>[$ITM_W_BOW_9_NAME]+	<RE>[$ITM_W_BOW_9_DESCRIPTION]	
+$ITM_W_BOW_17	<RE>[$ITM_W_BOW_11_NAME]+	<RE>[$ITM_W_BOW_11_DESCRIPTION]	
+$ITM_W_BOW_18	<RE>[$ITM_W_BOW_1_NAME]+	<RE>[$ITM_W_BOW_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_BOW_19	<RE>[$ITM_W_BOW_2_NAME]+	<RE>[$ITM_W_BOW_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_BOW_20	<RE>[$ITM_W_BOW_4_NAME]+	<RE>[$ITM_W_BOW_4_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_BOW_21	<RE>[$ITM_W_BOW_6_NAME]+	<RE>[$ITM_W_BOW_6_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_BOW_22	<RE>[$ITM_W_BOW_8_NAME]+	<RE>[$ITM_W_BOW_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_BOW_23	<RE>[$ITM_W_BOW_10_NAME]+	<RE>[$ITM_W_BOW_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_BOW_24	<RE>[$ITM_W_BOW_12_NAME]+	<RE>[$ITM_W_BOW_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_STAFF_1	Walking stick	A stout, solid stick.	
+$ITM_W_STAFF_2	Shepherd's crook	A simple shepherd's crook.	
+$ITM_W_STAFF_3	Charlatan's Staff	This ornately carved staff is adorned with a strange text running along the shaft. Closer inspection reveals that this script is no more than gibberish, carved to fool the illiterate. The ends of the staff contain several hollow compartments containing powders to produce colored smoke and what was presumably once a live canary.	
+$ITM_W_STAFF_4	Oaken staff	A finely carved oaken staff with a sturdy leather grip.	
+$ITM_W_STAFF_5	Archshepherd Stave	This sturdy staff is covered in charms written in multiple dialects of Quaid, Ash, Nomad and several unidentifiable languages.  Along the top of the staff are the Quaid words <LQ>Master of Sheep, Keeper of the Stores<RQ>.  The Jewel of the Desert crest appears below, indicating that the unfortunate owner was charged with administering the vicious feral sheep below the city.  The lower end of the staff is covered in hundreds of toothmarks, with several teeth still lodged in the surface of the wood.	
+$ITM_W_STAFF_6	Bludgeon	A sturdy oak staff with one end hollowed out and filled with lead for added weight.	
+$ITM_W_STAFF_7	The Beast's Weapon	This remarkable staff is carved from a single piece of ivory.  What monster could produce a horn of such size is a truly terrifying thought.  Ornate carvings down the length of the staff appear to tell the story of some unknown hero.  It matches no Ash, Nomad or Quaid motifs, and there are no identifying words, leaving both the identity of the carver and the monster from which the horn originally came a mystery.	
+$ITM_W_STAFF_8	Ironwood staff	An excellent staff carved from the rarest of woods.	
+$ITM_W_STAFF_9	Executioner's Bludgeon	This hefty staff is shod with iron and one end has been hollowed out and filled with lead to provide added momentum to its swing.  Strange etchings adorn the surface of the metal.  The language is unknown, most likely one of the many tongues spoken in the Northern city states.  Crossed keys underneath a death's head most likely symbolize some position of authority, possibly a jailor, executioner or some other office seen as unworthy of using a sword.  Blood stains on the staff's striking end indicate that this authority was frequently exercised.	
+$ITM_W_STAFF_10	Steel-Shod Staff	A sturdy staff that has been reinforced with long steel plates.	
+$ITM_W_STAFF_11	Keeper of the Flame	This silver-plated staff is tarnished with generations of handling. Less sullied areas appear to be covered with archaic Quaid writing. The darkening of the silver and the extreme age of the dialect render most of it indecipherable. The phrase <LQ>those who hold the flame<RQ> appears several times, as does, <LQ>ecstasy... consume<RQ>. Both ends of the staff are almost black with accumulated scorch marks, hinting at possible use in the Quaid Imperial fire ritual.	
+$ITM_W_STAFF_12	Pilgrim's Staff	One of the many staffs given out to travelers by the Selini monks.  The shaft is reinforced with steel plates and the surface of the wood has been carved with prayers.	
+$ITM_W_STAFF_13	Kozomon's Scepter	This rustic oak staff bears the inscription <LQ>Kozomon Kastankim<RQ> in an incredibly archaic Ash dialect, labeling this simple implement as the property of Selinadt's first disciple.  This relic was believed to have been lost when its chapter house was looted in the last years of the Quaidian war.  The gold and jewels that used to adorn it have been stripped away long ago, but the staff itself remains undamaged.  Centuries of veneration and several fires have darkened the original wood to almost pitch blackness, though it retains all of its strength.	
+$ITM_W_STAFF_14	<RE>[$ITM_W_STAFF_3_NAME]+	<RE>[$ITM_W_STAFF_3_DESCRIPTION]	
+$ITM_W_STAFF_15	<RE>[$ITM_W_STAFF_5_NAME]+	<RE>[$ITM_W_STAFF_5_DESCRIPTION]	
+$ITM_W_STAFF_16	<RE>[$ITM_W_STAFF_7_NAME]+	<RE>[$ITM_W_STAFF_7_DESCRIPTION]	
+$ITM_W_STAFF_17	<RE>[$ITM_W_STAFF_9_NAME]+	<RE>[$ITM_W_STAFF_9_DESCRIPTION]	
+$ITM_W_STAFF_18	<RE>[$ITM_W_STAFF_11_NAME]+	<RE>[$ITM_W_STAFF_11_DESCRIPTION]	
+$ITM_W_STAFF_19	<RE>[$ITM_W_STAFF_13_NAME]+	<RE>[$ITM_W_STAFF_13_DESCRIPTION]	
+$ITM_W_STAFF_20	<RE>[$ITM_W_STAFF_1_NAME]+	<RE>[$ITM_W_STAFF_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_STAFF_21	<RE>[$ITM_W_STAFF_2_NAME]+	<RE>[$ITM_W_STAFF_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_STAFF_22	<RE>[$ITM_W_STAFF_4_NAME]+	<RE>[$ITM_W_STAFF_4_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_STAFF_23	<RE>[$ITM_W_STAFF_6_NAME]+	<RE>[$ITM_W_STAFF_6_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_STAFF_24	<RE>[$ITM_W_STAFF_8_NAME]+	<RE>[$ITM_W_STAFF_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_STAFF_25	<RE>[$ITM_W_STAFF_10_NAME]+	<RE>[$ITM_W_STAFF_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_W_STAFF_26	<RE>[$ITM_W_STAFF_12_NAME]+	<RE>[$ITM_W_STAFF_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]	
+$ITM_BOOK_PERHAPS	<NOTHING>	Perhaps you should take this book with you on your next adventure.	
+$ITM_ACC_BOOK_1	Shock Lightning	Lightning shocks enemies, paralyzing them briefly.	
+$ITM_ACC_BOOK_2	Chain Lightning	Lightning strikes 1 additional target with diminishing power for each skill point in Lightning.	
+$ITM_ACC_BOOK_3	Furious Start	Newly summoned defenders have frenzy.	
+$ITM_ACC_BOOK_4	Furious End	Defenders below 25% health gain frenzy.	
+$ITM_ACC_BOOK_5	Light of Judgment	Casting Heal also applies BLIND to all enemies.	
+$ITM_ACC_BOOK_6	Light of Glory	Casting Heal also applies LIGHT to all enemies.	
+$ITM_ACC_BOOK_7	Slow Start	Newly spawned enemies are slowed temporarily.	
+$ITM_ACC_BOOK_8	Slow End	Enemies within slow down as they approach $MCG.	
+$ITM_ACC_BOOK_9	Crystal patch	$MCG begins the level surrounded by several crystals.	
+$ITM_ACC_BOOK_10	Psi Shield	Enemies that hit $MCG deduct Psi instead of HP. Less Psi is lost for every point spent on the Crystal spell.	
+$ITM_ACC_BOOK_11	Explosive Start	Summoning and boosting defenders causes a small explosion.	
+$ITM_ACC_BOOK_12	Explosive End	A small explosion goes off when a defender is defeated.	
+$ITM_ACC_BOOK_13	Book of Plagues	All defenders except $MCG can't regenerate, and all enemies except bosses are permanently toxic.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]	
+$ITM_ACC_BOOK_14	Book of Blood	All defenders and enemies, except $MCG and bosses, are permanently bleeding.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]	
+$ITM_ACC_BOOK_15	Book of Synergy	Ice, water, and fire no longer cancel.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]	
+$ITM_ACC_BOOK_16	Valley of the Forgotten	This book has no magical powers, but is instead an autobiography. It tells the story of a young Ashani librarian who survives an epidemic only to find herself trapped in a plague colony.  It is written in the form of a journal, with many illustrations drawn with improvised materials such as charcoal, tea, plant extracts, and blood.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]	
+$ITM_ACC_BOOK_17	Book of Daring	Defenders cannot be re-summoned once defeated or recalled in battle.	
+$ITM_ACC_BOOK_18	Book of Silence	$MCG cannot cast spells in battle.	
+$ITM_ACC_BOOK_19	Book of Face	ONLY works on EXTREME challenges: <N><N>Enemies will randomly update their <LQ>status<RQ> with new faces. Quite strange.	
+$ITM_ACC_BOOK_20	Anonymous Book	ONLY works on EXTREME challenges: <N><N>Defenders become anonymous, and gain +3% chance to dodge.	
+$ITM_ACC_BOOK_21	Book of Secrets	You can hear a soft whispering when you hold it to your ear.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]	
+$ITM_W_BOOK_1	<RE>$ITM_ACC_BOOK_1_NAME	<RE>$ITM_ACC_BOOK_1_DESCRIPTION	
+$ITM_W_BOOK_2	<RE>$ITM_ACC_BOOK_2_NAME	<RE>$ITM_ACC_BOOK_2_DESCRIPTION	
+$ITM_W_BOOK_3	<RE>$ITM_ACC_BOOK_3_NAME	<RE>$ITM_ACC_BOOK_3_DESCRIPTION	
+$ITM_W_BOOK_4	<RE>$ITM_ACC_BOOK_4_NAME	<RE>$ITM_ACC_BOOK_4_DESCRIPTION	
+$ITM_W_BOOK_5	<RE>$ITM_ACC_BOOK_5_NAME	<RE>$ITM_ACC_BOOK_5_DESCRIPTION	
+$ITM_W_BOOK_6	<RE>$ITM_ACC_BOOK_6_NAME	<RE>$ITM_ACC_BOOK_6_DESCRIPTION	
+$ITM_W_BOOK_7	<RE>$ITM_ACC_BOOK_7_NAME	<RE>$ITM_ACC_BOOK_7_DESCRIPTION	
+$ITM_W_BOOK_8	<RE>$ITM_ACC_BOOK_8_NAME	<RE>$ITM_ACC_BOOK_8_DESCRIPTION	
+$ITM_W_BOOK_9	<RE>$ITM_ACC_BOOK_9_NAME	<RE>$ITM_ACC_BOOK_9_DESCRIPTION	
+$ITM_W_BOOK_10	<RE>$ITM_ACC_BOOK_10_NAME	<RE>$ITM_ACC_BOOK_10_DESCRIPTION	
+$ITM_W_BOOK_11	<RE>$ITM_ACC_BOOK_11_NAME	<RE>$ITM_ACC_BOOK_11_DESCRIPTION	
+$ITM_W_BOOK_12	<RE>$ITM_ACC_BOOK_12_NAME	<RE>$ITM_ACC_BOOK_12_DESCRIPTION	
+$ITM_W_BOOK_13	<RE>$ITM_ACC_BOOK_13_NAME	<RE>$ITM_ACC_BOOK_13_DESCRIPTION	
+$ITM_W_BOOK_14	<RE>$ITM_ACC_BOOK_14_NAME	<RE>$ITM_ACC_BOOK_14_DESCRIPTION	
+$ITM_W_BOOK_15	<RE>$ITM_ACC_BOOK_15_NAME	<RE>$ITM_ACC_BOOK_15_DESCRIPTION	
+$ITM_W_BOOK_16	<RE>$ITM_ACC_BOOK_16_NAME	<RE>$ITM_ACC_BOOK_16_DESCRIPTION	
+$ITM_W_BOOK_17	<RE>$ITM_ACC_BOOK_17_NAME	<RE>$ITM_ACC_BOOK_17_DESCRIPTION	
+$ITM_W_BOOK_18	<RE>$ITM_ACC_BOOK_18_NAME	<RE>$ITM_ACC_BOOK_18_DESCRIPTION	
+$ITM_W_BOOK_19	<RE>$ITM_ACC_BOOK_19_NAME	<RE>$ITM_ACC_BOOK_19_DESCRIPTION	
+$ITM_W_BOOK_20	<RE>$ITM_ACC_BOOK_20_NAME	<RE>$ITM_ACC_BOOK_20_DESCRIPTION	
+$ITM_W_BOOK_21	<RE>$ITM_ACC_BOOK_21_NAME	<RE>$ITM_ACC_BOOK_21_DESCRIPTION	
+

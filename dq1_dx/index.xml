@@ -33,107 +33,239 @@
 	
 	-->
 	
-	<locale id="en-US" default="true" sort="0">	<!--American English-->
+	<!--American English-->
+	<locale id="en-US" default="true" sort="0">
+		<font value="verdana" style="bold" size="12" alpha="latin"/>
+		<status value="100%" word="Status"/>
 		<contributors value="James Cavin, Level Up Labs"/>
-		<ui language="Language" region="Region" accept="Okay" />
-		<label id="en-US,en-GB,en-CA" language="English" region="United States"/>
+		<ui language="Language" region="Region" accept="Okay"/>
+		<label id="en-US,en-GB,en-CA,en-NES" language="English" region="United States"/>
 		<label id="es-ES" language="Inglés" region="Estados Unidos"/>
 		<label id="de-DE" language="Englisch" region="Vereinigte Staaten"/>
-        <label id="fr-FR" language="Anglais" region="États-Unis"/>
-        <label id="nb-NO" language="Engelsk" region="U.S.A."/>
-        <label id="cs-CZ" language="Angličtina" region="Spojené státy"/>
-        <label id="pl-PL" language="Angielski" region="Stany Zjednoczone"/>
+		<label id="fr-FR" language="Anglais" region="États-Unis"/>
+		<label id="nb-NO" language="Engelsk" region="U.S.A."/>
+		<label id="cs-CZ" language="Angličtina" region="Spojené státy"/>
+		<label id="pl-PL" language="Angielski" region="Stany Zjednoczone"/>
 		<label id="ja-JP" language="英語" region="アメリカ合衆国"/>
-    </locale>    
-	
-	<!--<locale id="ja-JP" sort="1" official="true">
-		<contributors value="Playism"/>		
-		<ui language="言語" region="地域" accept=""/>
+		<label id="ru-RU" language="Aнглийский" region="Соединенные Штаты"/>
+		<label id="ko-KR" language="영어" region="미국"/>
+		<label id="zh-CN" language="英语" region="美国"/>
+		<label id="zh-TW" language="英文" region="美國"/>
+		<label id="pt-PT" language="Inglês" region="Estados Unidos"/>
+		<label id="it-IT" language="Inglese" region="Stati Uniti"/>
+	</locale>
+	<!--Castillian Spanish-->
+	<locale id="es-ES" sort="1" official="true" beta="true"> 
+		<font value="verdana" style="bold" size="12" alpha="latin"/>
+		<status value="75%" word="Estado"/>
+		<contributors value="Felipe Mercader Martínez"/>
+		<ui language="Idioma" region="Región" accept="Vale"/>
+		<label id="en-US,en-GB,en-CA,en-NES" language="Spanish" region="Spain"/>
+		<label id="ru-RU" language="Испанский" region="Испания"/>
+		<label id="es-ES" language="Español" region="España"/>
+		<label id="de-DE" language="Spanisch" region="Spanien"/>
+		<label id="fr-FR" language="Espagnol" region="Espagne"/>
+		<label id="nb-NO" language="Spansk" region="Spania"/>
+		<label id="cs-CZ" language="Španělský" region="Španělsko"/>
+		<label id="pl-PL" language="Hiszpański" region="Hiszpania"/>
+		<label id="ja-JP" language="スペイン語" region="スペイン"/>
+		<label id="ko-KR" language="스페인어" region="스페인"/>
+		<label id="zh-CN" language="西班牙语" region="西班牙"/>
+		<label id="zh-TW" language="西班牙文" region="西班牙"/>
+		<label id="pt-PT" language="Espanhol" region="Espanha"/>
+	   <label id="it-IT" language="Spagnolo" region="Spagna"/>
+	</locale>
+	<!--German German-->
+	<locale id="de-DE" sort="2" official="true" beta="true">
+		<font value="verdana" style="bold" size="12" alpha="latin"/>
+		<status value="95%" word="Status"/>
+		<contributors value="Fabian Bindel, Thomas Faust, Alexander Sturm"/>
+		<ui language="Sprache" region="Region" accept="Okay"/>
+		<label id="en-US,en-NES,en-GB,en-CA" language="German" region="Germany"/>        
+		<label id="es-ES" language="Alemán" region="Alemania"/>
+		<label id="de-DE" language="Deutsch" region="Deutschland"/>
+		<label id="fr-FR" language="Allemand" region="Allemagne"/>
+		<label id="nb-NO" language="Tysk" region="Tyskland"/>
+		<label id="cs-CZ" language="Němčina" region="Německo"/>
+		<label id="pl-PL" language="Niemiecki" region="Niemcy"/>
+		<label id="ja-JP" language="ドイツ語" region="ドイツ"/>
+		<label id="ko-KR" language="독일어" region="독일"/>
+		<label id="ru-RU" language="Немецкий" region="Германия"/>
+		<label id="zh-CN" language="德语" region="德国"/>
+		<label id="zh-TW" language="德文" region="德國"/>
+		<label id="pt-PT" language="Alemão" region="Alemanha"/>
+		<label id="it-IT" language="Tedesco" region="Germania"/>
+	</locale>
+	<!--French French-->
+	<locale id="fr-FR" sort="3" official="true" beta="true">
+		<status value="75%" word="État"/>
+		<font value="verdana" style="bold" size="12" alpha="latin"/>
+		<contributors value="Words of Magic"/>
+		<ui language="Langue" region="Région" accept="OK" />
+		<label id="en-US,en-GB,en-CA,en-NES" language="French" region="France"/>
+		<label id="ru-RU" language="Французский" region="Франция"/>
+		<label id="es-ES" language="Francés" region="Francia"/>
+		<label id="de-DE" language="Französisch" region="Frankreich"/>
+		<label id="fr-FR" language="Français" region="France"/>
+		<label id="nb-NO" language="Fransk" region="Frankrike"/>
+		<label id="cs-CZ" language="Francouzština" region="Franice"/>
+		<label id="pl-PL" language="Francuski" region="Francja"/>
+		<label id="ja-JP" language="フランス語" region="フランス"/>
+		<label id="ko-KR" language="프랑스어" region="프랑스"/>
+		<label id="zh-CN" language="法语" region="法国"/>
+		<label id="zh-TW" language="法語" region="法國"/>
+		<label id="pt-PT" language="Francês" region="França"/>
+		<label id="it-IT" language="Francese" region="Francia"/>
+	</locale>
+	<!--Japanese Japanese-->
+	<locale id="ja-JP" sort="4" official="true" beta="true">
+		<status value="75%" word="ステータス"/>
+		<font value="mplus2c" style="bold" size="14" alpha="japanese"/>
+		<contributors value="Playism, Yukichika Chayama"/>
+		<ui language="言語" region="地域" accept="OK"/>
 		<label id="ja-JP" language="日本語" region="日本"/>
-		<label id="en-US,en-GB,en-CA" language="Japanese" region="Japan"/>
-	</locale>-->
-    <!--<locale id="en-GB" sort="1"> 
-        <ui language="Language" region="Region"/>        
-        <label id="en-US,en-GB,en-CA" language="English" region="Great Britain"/>
-        <label id="es-ES" language="Inglés" region="Gran Bretaña"/>
-        <label id="de-DE" language="Englisch" region="Großbritannien"/>
-        <label id="fr-FR" language="Anglais" region="Grande-Bretagne"/>
-        <label id="nb-NO" language="Engelsk" region="Stor-Britannia"/>
-    </locale>-->
-    <!--<locale id="en-CA" sort="2">
-        <ui language="Language" region="Region"/>        
-        <label id="en-US,en-GB,en-CA" language="English" region="Canada"/>
-        <label id="es-ES" language="Inglés" region="Canadá"/>
-        <label id="de-DE" language="Englisch" region="Kanada"/>        
-        <label id="fr-FR" language="Anglais" region="Canada"/>
-        <label id="nb-NO" language="Engelsk" region="Canada"/>
-    </locale>-->
-    <!--Castilian Spanish-->
-    <!--<locale id="es-ES" sort="3"> 
-        <ui language="Idioma" region="Región"/>        
-        <label id="en-US,en-GB,en-CA" language="Spanish" region="Spain (Castilian)"/>
-        <label id="es-ES" language="Español" region="España (Castellano)"/>
-        <label id="de-DE" language="Spanisch" region="Spanien (Kastilisch)"/>        
-        <label id="fr-FR" language="Espagnol" region="Espagne (Castillan)"/>
-        <label id="nb-NO" language="Spansk" region="Spania (Kastiljansk)"/>
-    </locale>-->
-    <!--German German-->
-    <!--<locale id="de-DE" sort="4">
-        <ui language="Sprache" region="Region" accept="Okay"/>        
-        <label id="en-US,en-GB,en-CA,pl-PL" language="German" region="Germany"/>        
-        <label id="es-ES" language="Alemán" region="Alemania"/>
-        <label id="de-DE" language="Deutsch" region="Deutschland"/>
-        <label id="fr-FR" language="Allemand" region="Allemagne"/>
-        <label id="nb-NO" language="Tysk" region="Tyskland"/>
-        <label id="cs-CZ" language="Němčina" region="Německo"/>
-        <label id="pl-PL" language="Niemiecki" region="Niemcy"/>
-    </locale>-->
-    <!--Czech-->
-    <!--<locale id="cs-CZ" beta="true" volunteer="true" sort="7">
+		<label id="en-US,en-GB,en-CA,en-NES" language="Japanese" region="Japan"/>
+		<label id="es-ES" language="Japonés" region="Japón"/>
+		<label id="de-DE" language="Japanisch" region="Japan"/>
+		<label id="cs-CZ" language="Japonština" region="Japonsko"/>
+		<label id="fr-FR" language="Japonais" region="Japon"/>
+		<label id="pl-PL" language="Japoński" region="Japonia"/>
+		<label id="cs-CZ" language="Japonec" region="Japonsko"/>
+		<label id="ko-KR" language="일본어" region="일본"/>
+		<label id="ru-RU" language="Японский" region="Япония"/>
+		<label id="zh-CN" language="日语" region="日本"/>
+		<label id="zh-TW" language="日文" region="日本"/>
+		<label id="pt-PT" language="Japonês" region="Japão"/>
+		<label id="it-IT" language="Giapponese" region="Giappone"/>
+	</locale>
+	<!--Italiano Italiano-->
+	<locale id="it-IT" volunteer="true" sort="5" beta="true">
+		<status value="60%" word="status"/>
+		<font value="Verdana" style="bold" size="12" alpha="latin"/>
+		<contributors value="Luca Locci"/>
+		<ui language="Linguaggio" region="Regione" accept="Accetta"/>
+		<label id="en-US,en-GB,en-CA,en-NES" language="Italian" region="Italy"/>
+		<label id="ru-RU" language="Итальянский" region="Италия"/>
+		<label id="es-ES" language="Italiano" region="Italia"/>
+		<label id="de-DE" language="Italienisch" region="Italien"/>
+		<label id="fr-FR" language="Italien" region="Italie"/>
+		<label id="nb-NO" language="Italiansk" region="Italia"/>
+		<label id="cs-CZ" language="Italština" region="Itálie"/>
+		<label id="pl-PL" language="Włoski" region="Włochy"/>
+		<label id="ja-JP" language="イタリア語" region="イタリア"/>
+		<label id="ko-KR" language="이탈리아의" region="이탈리아"/>
+		<label id="zh-CN" language="意大利" region="意大利"/>
+		<label id="zh-TW" language="義大利文" region="義大利"/>
+		<label id="pt-PT" language="Italiano" region="Itália"/>
+		<label id="it-IT" language="Italiano" region="Italia"/>
+    </locale>
+    <!--1989 Bad Translation English-->
+	<!--
+	<locale id="en-NES" default="false" sort="200" volunteer="true">
+		<font value="Verdana" size="12" alpha="latin"/>
+		<contributors value="Level Up Labs, Google Translate"/>
+		<ui language="Language" region="Region" accept="Good." />
+		<label id="en-US,en-GB,en-CA,en-NES" language="???" region="1989"/>
+		<label id="es" language="???" region="1989"/>
+		<label id="de-DE" language="???" region="1989"/>
+          <label id="fr-FR" language="???" region="1989"/>
+          <label id="nb-NO" language="???" region="1989"/>
+          <label id="cs-CZ" language="???" region="1989"/>
+          <label id="pl-PL" language="???" region="1989"/>
+		<label id="ja-JP" language="???" region="1989"/>
+		<label id="ru-RU" language="???" region="1989"/>
+		<label id="ko-KR" language="???" region="1989"/>
+		<label id="zh-CN" language="???" region="1989"/>
+		<label id="pt-PT" language="???" region="1989"/>
+		<label id="it-IT" language="???" region="1989"/>
+	</locale>
+	-->
+	
+	<!--Czech Republic Czech-->
+    <locale id="cs-CZ" volunteer="true" sort="25" beta="true">
+		<font value="Verdana" style="bold" size="12" alpha="latin"/>
+		<status value="60%" word=""/>
 		<contributors value="Viktor 'Coyot' Urban, Helena 'Hekko' Houzarová"/>
-        <ui language="Jazyk" region="Region" accept="Vyber"/>
-        <label id="en-US,en-GB,en-CA" language="Czech" region="Czech Republic"/>
-        <label id="es-ES" language="Checo" region="República Checa"/>
-        <label id="de-DE" language="Tschechisch" region="Tschechische Republik"/>
-        <label id="fr-FR" language="Tchèque" region="République tchèque"/>
-        <label id="nb-NO" language="Tsjekkisk" region="Tsjekkia"/>
-        <label id="cs-CZ" language="Čeština" region="Česko"/>
-        <label id="pl-PL" language="Czech" region="Czechy"/>
-    </locale>-->
-    <!--
-	<locale id="pl-PL" sort="8">
-        <ui language="Język" region="Region" accept="Akceptować"/>
-        <label id="en-US,en-GB,en-CA" language="Polish" region="Poland"/>
-        <label id="cs-CZ" language="Polština" region="Polsko"/>
-        <label id="de-DE,fr-FR,nb-NO,es-ES,pl-PL" language="Polski" region="Polska"/>
+          <ui language="Jazyk" region="Region" accept="Vyber"/>
+          <label id="en-US,en-GB,en-CA,en-NES" language="Czech" region="Czech Republic"/>
+          <label id="es-ES" language="Checo" region="República Checa"/>
+          <label id="de-DE" language="Tschechisch" region="Tschechische Republik"/>
+          <label id="fr-FR" language="Tchèque" region="République tchèque"/>
+          <label id="nb-NO" language="Tsjekkisk" region="Tsjekkia"/>
+          <label id="cs-CZ" language="Čeština" region="Česko"/>
+          <label id="pl-PL" language="Czech" region="Czechy"/>
+		<label id="ja-JP" language="チェコ語" region="チェコ"/>
+		<label id="ko-KR" language="체코어" region="체코"/>
+		<label id="ru-RU" language="Чешский" region="Чешская республика"/>
+		<label id="zh-CN" language="捷克语" region="捷克共和国"/>
+		<label id="pt-PT" language="Tcheco" region="República Checa"/>
+		<label id="it-IT" language="Ceco" region="Repubblica Ceca"/>
     </locale>
 	
-    <locale id="ko-KR" sort="9">
-        <ui language="언어" region="부위" accept="수락하다"/>
-        <label id="de-DE,fr-FR,nb-NO,es-ES,pl-PL" language="한국의" region="대한민국"/>
-        <label id="cs-CZ" language="Korejština" region="Jižní Korea"/>
-        <label id="en-US,en-GB,en-CA" language="Korean" region="South Korea"/>
-    </locale>-->
-    <!--French French-->
-    <!--<locale id="fr-FR" sort="5">
-        <ui language="Langue" region="Région"/>                
-        <label id="en-US,en-GB,en-CA" language="French" region="France"/>
-        <label id="es-ES" language="Francés" region="Francia"/>
-        <label id="de-DE" language="Französisch" region="Frankreich"/>
-        <label id="fr-FR" language="Français" region="France"/>
-        <label id="nb-NO" language="Fransk" region="Frankrike"/>
-        <label id="cs-CZ" language="Francouzština" region="Franice"/>
-    </locale>-->
-    <!--Norwegian Bokmål-->
-    <!--<locale id="nb-NO" sort="6">
-        <ui language="Språk" region="Område"/>                
-        <label id="en-US,en-GB,en-CA" language="Norwegian" region="Norway (Bokmål)"/>
-        <label id="es-ES" language="Noruego" region="Noruega (Bokmål)"/>
-        <label id="de-DE" language="Norwegisch" region="Norwegen (Bokmål)"/>
-        <label id="fr-FR" language="Norvégiene" region="Norvège (Bokmål)"/>
-        <label id="nb-NO" language="Norsk" region="Norge (Bokmål)"/>
-        <label id="cs-CZ" language="Norština" region="Norsko (Bokmål)"/>
-    </locale>-->
+	<!--South Korean Korean-->
+	<locale id="ko-KR" volunteer="true" beta="true" sort="30">
+		<status value="60%" word="상태"/>
+		<font value="nanumgothic" style="bold" size="13" alpha="korean"/>
+		<ui language="언어" region="국가" accept="언어선택"/>
+		<contributors value="Team.SM"/>
+		<label id="ko-KR" language="한국어" region="한국"/>
+		<label id="cs-CZ" language="Korejština" region="Jižní Korea"/>
+		<label id="en-US,en-GB,en-CA,en-NES" language="Korean" region="South Korea"/>
+		<label id="es-ES" language="Coreano" region="Coreano del Sur"/>
+		<label id="de-DE" language="Koreanisch" region="Südkorea"/>
+		<label id="fr-FR" language="Coréen" region="Corée du Sud"/>
+		<label id="pl-PL" language="Koreański" region="Korea Południowa"/>
+		<label id="ja-JP" language="韓国語" region="韓国"/>
+		<label id="ru-RU" language="Корейский" region="Южная Корея"/>
+		<label id="zh-CN" language="朝鲜语" region="韩国"/>
+		<label id="pt-PT" language="Coreano" region="Coréia do Sul"/>
+		<label id="it-IT" language="Coreano" region="Corea del Sud"/>
+	</locale>
+	
+	<!-- Русский язык (Russian Russian) -->
+	<locale id="ru-RU" beta="false" volunteer="true" sort="95">
+		<status value="60%" word="Статус"/>
+		<font value="verdana" style="bold" size="12" alpha="cyrillic"/>
+		<contributors value="Lord_Draconis, cm3x, Dimon485, Landfar, Hy60koshk, WoRG55, andrew2405, DART, Romens, EvgenyChizhov, iriska128, Artillery, parabashka"/>
+		<ui language="Язык" region="Регион" accept="Выбрать"/>
+		<label id="en-US,en-GB,en-CA,en-NES" language="Russian" region="Russia"/>
+		<label id="ru-RU" language="Pусский" region="Россия"/>
+		<label id="es-ES" language="Rusa" region="Rusia"/>
+		<label id="de-DE" language="Russisch" region="Russland"/>
+		<label id="fr-FR" language="Russe" region="Russie"/>
+		<label id="nb-NO" language="Russisk" region="Russland"/>
+		<label id="cs-CZ" language="Ruština" region="Rusko"/>
+		<label id="pl-PL" language="Rosyjski" region="Rosja"/>
+		<label id="ja-JP" language="ロシア語" region="ロシア"/>
+		<label id="ko-KR" language="러시아어" region="러시아"/>
+		<label id="zh-CN" language="俄语" region="俄国"/>
+		<label id="pt-PT" language="Russo" region="Rússia"/>
+		<label id="it-IT" language="Russo" region="Russia"/>
+    </locale>
+	
+	<!--Traditional Chinese-->
+	<!--
+	<locale id="zh-TW" beta="true" volunteer="true" sort="100">
+		<status value="0%" word="狀態"/>
+		<font value="jhenghei" style="bold" size="12"/>
+		<contributors value=""/>
+		<ui language="語言" region="地區" accept="確定"/>
+		<label id="en-US,en-GB,en-CA,en-NES" language="Traditional Chinese" region="Taiwan"/>
+		<label id="ru-RU" language="Традиционный китайский" region="Тайвань"/>
+		<label id="es-ES" language="Tradicional china" region="Taiwán"/>
+		<label id="de-DE" language="Traditionelles Chinesisch" region="Taiwan"/>
+		<label id="fr-FR" language="Traditionnelle chinoise" region="Taiwan"/>
+		<label id="nb-NO" language="Tradisjonell kinesisk" region="Taiwan"/>
+		<label id="cs-CZ" language="Tradiční čínská" region="Tchaj-wan"/>
+		<label id="pl-PL" language="Tradycyjny chiński" region="Tajwan"/>
+		<label id="ja-JP" language="ロシア語" region="台湾"/>
+		<label id="ko-KR" language="중국어 번체" region="대만"/>
+		<label id="zh-CN" language="繁體中文" region="台灣"/>
+		<label id="zh-TW" language="繁體中文" region="台灣"/>
+		<label id="pt-PT" language="Cinese tradizionale" region="Taiwan"/>
+		<label id="it-IT" language="Cinese tradizionale" region="Taiwan"/>
+	</locale>
+	-->
 	
 	<!---
 	Any text blurbs that the translation interface itself needs are stored here rather than
@@ -144,24 +276,73 @@
 	translations.
 	-->
 	
+	<note id="status">
+		<text id="en-US" title="Status"	body="100%"/>
+		<text id="de-DE" title="Status"	body="95%"/>
+		<text id="es-ES" title="Estado"	body="75%"/>
+		<text id="fr-FR" title="État"	body="75%"/>
+		<text id="ja-JP" title="ステータス"	body="75%"/>
+		<text id="ko-KR" title="상태"		body="60%"/>
+		<text id="it-IT" title="Status"	body="60%"/>
+		<text id="cs-CZ" title="Stav"	body="60%"/>
+		<text id="ru-RU" title="Статус"	body="60%"/>
+		<text id="zh-TW" title="翻譯進度"	body="5%"/>
+	</note>
+	
 	<note id="beta">
 		<!--This means that the translation has not been properly integrated yet-->
 		<text id="en-US" title="BETA" body="This translation is still in beta. Untranslated text, missing characters, and other visual glitches are very likely not the fault of the translator."/>
+		<text id="en-NES" title="BETA" body="This conversion is still in beta. Untranslated text, missing people, and other visual fault is probably not the fault of the translation."/>
 		<text id="nb-NO" title="BETA" body="Denne oversettelsen er fortsatt i beta. Uoversatt tekst, manglende bokstaver, og andre visuelle problemer er svært sannsynlig ikke feil av oversetteren."/>
-		<text id="cs-CZ" title="BETA" body="*CZECH BETA NOTE GOES HERE*"/>
+		<text id="cs-CZ" title="BETA" body="Lokalizace ještě není plně dokončena. Chybějící překlady a vzhledové nedostatky nejsou vinou překladatele."/>
+		<text id="de-DE" title="BETA" body="Diese Übersetzung ist noch im Beta-Status. Unübersetzte Texte, fehlende Zeichen und andere sichtbare Fehler sind sehr wahrscheinlich nicht die Schuld des Übersetzers."/>
+		<text id="fr-FR" title="BÊTA" body="Cette traduction est encore en phase bêta. Des textes non traduits, des erreurs et des problèmes visuels sont probablement présents et seront corrigés prochainement."/>
+		<text id="ru-RU" title="БЕТА" body="Этот перевод еще в стадии бета. Непереведенный текст, отсутствующие символы, и другие визуальные дефекты, скорее всего, не по вине переводчиков."/>
+		<text id="pt-PT" title="BETA" body="*PORTUGUESE BETA NOTE GOES HERE*"/>
+		<text id="zh-CN" title="BETA" body="*CHINESE BETA NOTE GOES HERE*"/>
+		<text id="zh-TW" title="BETA" body="*此翻譯正在測試中，還沒翻譯到的文字，遺失的文字並非遊戲開發者或翻譯者的問題，只是需要些時間。*"/>
+		<text id="ko-KR" title="BETA" body="이 번역은 베타입니다. 미번역 텍스트, 누락된 문자 등 문제의 가능성이 있고 번역자의 오류는 없습니다."/>
+		<text id="pl-PL" title="BETA" body="*POLISH BETA NOTE GOES HERE*"/>
+		<text id="ja-JP" title="BETA" body="翻訳はベータ版です。未翻訳のテキストや文字抜けがありますが、翻訳者のミスではありません。"/>
+		<text id="it-IT" title="BETA" body="Questa traduzione è ancora in beta. Qualunque problema è sicuramente ed esclusivamente colpa dei traduttori. :o) "/>
+		<text id="es-ES" title="BETA" body="Esta traducción todavía está en beta. Es muy probable que el texto sin traducir, los caracteres que no se muestran y cualquier otro fallo visual no sean responsabilidad del traductor."/>
 	</note>
 	
 	<note id="volunteer">
 		<!--This means that a fan or other volunteer submitted this to us-->
 		<text id="en-US" title="VOLUNTEER" body="This is a volunteer fan translation.$N$NContributors:"/>
+		<text id="en-NES" title="VOLUNTEER" body="This is a translation volunteer fan $N$NContributors:"/>
 		<text id="nb-NO" title="FRIVILLIG" body="Dette er en frivillig oversettelse.$N$NBidragsytere:"/>
-		<text id="cs-CZ" title="VOLUNTEER" body="*CZECH VOLUNTEER NOTE GOES HERE*"/>
+		<text id="cs-CZ" title="VOLUNTEER" body="Tento překlad byl vytvořen dobrovolníky. $N$NPřispěli:"/>
+		<text id="de-DE" title="FREIWILLIG" body="Dies ist eine freiwillige Übersetzung von Fans.$N$NMitwirkende:"/>
+		<text id="fr-FR" title="BÉNÉVOLE" body="Cette traduction a été bénévolement réalisée par des fans.$N$NContributeurs :"/>
+		<text id="ru-RU" title="Любительский" body="Это любительский перевод.$N$NУчастники:"/>
+		<text id="pt-PT" title="VOLUNTEER" body="*PORTUGUESE VOLUNTEER NOTE GOES HERE*"/>
+		<text id="zh-CN" title="VOLUNTEER" body="*CHINESE VOLUNTEER NOTE GOES HERE*"/>
+		<text id="zh-TW" title="VOLUNTEER" body="*繁體中文翻譯者*"/>
+		<text id="ko-KR" title="VOLUNTEER" body="이 번역은 팬 번역입니다.$N$N번역:"/>
+		<text id="pl-PL" title="VOLUNTEER" body="*POLISH VOLUNTEER NOTE GOES HERE*"/>
+		<text id="ja-JP" title="VOLUNTEER" body="ファン翻訳$N$N参加者："/>
+		<text id="it-IT" title="VOLONTARIA" body="Questa è una traduzione volontaria creata dai fan.$N$NCollaboratori:"/>
+		<text id="es-ES" title="VOLUNTARIO" body="Esta traducción es voluntaria y ha sido realizada por fans.$N$NColaboradores:"/>
 	</note>
 	
 	<note id="official">
 		<!--This means that we solicited and paid the translator for an official translation-->
 		<text id="en-US" title="OFFICIAL" body="This is an official (paid) translation.$N$NContributors:"/>
+		<text id="en-NES" title="OFFICIAL" body="This is a translation of the official (paid) $N$NContributors :"/>
 		<text id="nb-US" title="OFFISIELL" body="Dette er en offisiell (betalt) oversettelse.$N$NBidragsytere:"/>
-		<text id="cs-CZ" title="OFFICIAL" body="*CZECH OFFICIAL NOTE GOES HERE*"/>
+		<text id="cs-CZ" title="OFFICIAL" body="Tento překlad byl vytvořen profesionály. $N$NAutoři:"/>
+		<text id="de-DE" title="OFFIZIELL" body="Dies ist eine offizielle (bezahlte) Übersetzung.$N$NMitwirkende:"/>
+		<text id="fr-FR" title="OFFICIAL" body="Cette traduction a été réalisée par des traducteurs professionnels.$N$NContributeurs :"/>
+		<text id="ru-RU" title="Официальный" body="Это официальный (платный) перевод.$N$NУчастники:"/>
+		<text id="pt-PT" title="OFFICIAL" body="*PORTUGUESE OFFICIAL NOTE GOES HERE*"/>
+		<text id="zh-CN" title="OFFICIAL" body="*CHINESE OFFICIAL NOTE GOES HERE*"/>
+		<text id="zh-TW" title="OFFICIAL" body="*官方翻譯筆記*"/>
+		<text id="ko-KR" title="OFFICIAL" body="이 번역은 공식 번역입니다.$N$N번역:"/>
+		<text id="pl-PL" title="OFFICIAL" body="*POLISH OFFICIAL NOTE GOES HERE*"/>
+		<text id="ja-JP" title="OFFICIAL" body="公式翻訳$N$N翻訳："/>
+		<text id="it-IT" title="OFFICIALE" body="Questa è una traduzione ufficiale (pagata).$N$NTraduttori:"/>
+		<text id="es-ES" title="OFICIAL" body="Esta traducción es oficial (pagada).$N$NColaboradores:"/>
 	</note>
 </data>

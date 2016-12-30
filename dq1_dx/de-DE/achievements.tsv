@@ -50,13 +50,13 @@ $ACHV_HAVE_201_STARS_GOLD_DESC	Verdiene 201 goldene Sterne
 $ACHV_BEAT_SUPER_SHEEP_PLUS_TITLE	Ultra-Schafschlächter
 $ACHV_BEAT_SUPER_SHEEP_PLUS_DESC	Besiege das Superschaf in einem neuen Spiel+
 $ACHV_HERO_MODE_PLUS_PLUS_TITLE	Heldenmodus++
-$ACHV_HERO_MODE_PLUS_PLUS_DESC	Verdiene 180 Goldsterne ohne generische Rekruten*Heldenmodus++ ist sehr schwer – wir empfehlen, Erfahrungsboni auf 300% im Optionsmenü zu erhöhen.
+$ACHV_HERO_MODE_PLUS_PLUS_DESC	Verdiene 180 Goldsterne ohne generische Rekruten.
 $ACHV_USE_TARGETS_TITLE	Präzisionszielen
 $ACHV_USE_TARGETS_DESC	Benutze eine erweiterte Zielfunktion
 $ACHV_MENU_ACCESS_TITLE	Keine Barrieren
 $ACHV_MENU_ACCESS_DESC	Besuche das Barrierefreiheitsmenü
 $ACHV_MENU_CONTROLS_TITLE	Keine Kontrolle!
-$ACHV_MENU_CONTROLS_DESC	Besuche das Steuerungsmenü$N(Optionen->Steuerung)
+$ACHV_MENU_CONTROLS_DESC	Besuche das Steuerungsmenü<N>(Optionen->Steuerung)
 $ACHV_MENU_TIPS_TITLE	Bücher wälzen
-$ACHV_MENU_TIPS_DESC	Besuche das Tipps-Menü$N(Oberwelt->Tipps)
+$ACHV_MENU_TIPS_DESC	Besuche das Tipps-Menü<N>(Oberwelt->Tipps)
 $ACHV_MENU_NULL	Null
