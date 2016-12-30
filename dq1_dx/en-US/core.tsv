@@ -258,9 +258,9 @@ $MISC_ENEMY_LEVELS	Enemy levels
 $MISC_ENTER	enter	
 $MISC_ENTER_TEXT	Enter Text:	
 $MISC_EQUIP	equip	
-$SHOP_EQUIP	<RE>$MISC_EQUIP	The word "equip" that appears on the button in the shopping screen in towns
-$EQUIP_THE_THING	<RE>$MISC_EQUIP	The word "equip" that appears on the button in the equip menu in the party screen, to actually put the item on your character
-$GO_TO_EQUIP_MENU	<RE>$MISC_EQUIP	The word "equip" that appears on the button in the skills menu in the party screen, to switch to the equip menu
+$SHOP_EQUIP	<RE>$MISC_EQUIP	The word 'equip' that appears on the button in the shopping screen in towns
+$EQUIP_THE_THING	<RE>$MISC_EQUIP	The word 'equip" that appears on the button in the equip menu in the party screen, to actually put the item on your character
+$GO_TO_EQUIP_MENU	<RE>$MISC_EQUIP	The word 'equip' that appears on the button in the skills menu in the party screen, to switch to the equip menu
 $MISC_SLOT	slot
 $MISC_ERROR	error	
 $MISC_ERROR_INVALID_MOD_NAME	Invalid mod name!	
