@@ -66,8 +66,8 @@ $PARTY_PASSED++_DESC	<MCG>は怪我を負い、<N><ALLY>は怪我一つ負わず
 $PARTY_DEFEATED_WAVE_X	Defeated wave <X>
 $PARTY_REACHED_WAVE_X	Reached wave <X>
 $PARTY_NO_POINTS	スキルの割り当てをやり直せるスキルポイントはありません！
-$PARTY_NO_AFFORD	スクラップが不足しています！<N>コスト:<COST><N>スクラップ:<SCRAP>
-$PARTY_RE_ASSIGN	<NAME>のスキルをもう一度割り当てますか？<N>コスト:<COST><N>スクラップ:<SCRAP>
+$PARTY_NO_AFFORD	スクラップが不足しています！<N>コスト:<COST><N>スクラップ:<SCRAP>	
+$PARTY_RE_ASSIGN	<NAME>のスキルをもう一度割り当てますか？<N>コスト:<COST><N>スクラップ:<SCRAP>	
 $PARTY_CHANGE_NAME	リネーム
 $PARTY_CONFIRM_POINTS_1_1	キャラクターへのスキルポイントの<N>割り当てを確定しますか？	COMMENT: There are 4 variants here to handle the various pluralizations
 $PARTY_CONFIRM_POINTS_1_X	<CHARS>キャラクターへのスキルポイントの<N>割り当てを確定しますか？
@@ -83,7 +83,7 @@ $PARTY_REDESIGN	リデザイン
 $UI_EQUIP_NAME	名称
 $UI_EQUIP_STAT	成績
 $UI_EQUIP_OWNER	持ち主
-$UI_EQUIP_SHOW_EQUIPPED	持っている武器を見せる
+$UI_EQUIP_SHOW_EQUIPPED	持っている武器を見せる	
 $UI_EQUIP_CLASS_CANT_W	このクラスは武器を装備できません！
 $UI_EQUIP_CLASS_CANT_A	このクラスは鎧を装備できません！
 $UI_EQUIP_ALL_W_SWORD	すべての剣を装備しています。
@@ -121,7 +121,7 @@ $UI_SFX	SFX:
 $UI_MUSIC	Music:
 $UI_ACCESS_REWARDS	報酬
 $UI_ACCESS_PENALTIES	ペナルティ
-$UI_ACCESS_DEFAULT	*デフォルトの設定
+$UI_ACCESS_DEFAULT	*デフォルトの設定	
 $UI_ACCESS_FAIL	失敗
 $UI_ACCESS_ABSENCE	不足
 $UI_ACCESS_FLASHING	フラッシュ効果
@@ -132,9 +132,9 @@ $UI_BONUS_STARS_LINE	<STAR_NUM><STAR_COLOR>スター
 $UI_BONUS_GOLD_STARS_LINE	<STAR_NUM>ゴールドスター
 $UI_BONUS_BLUE_STARS_LINE	<STAR_NUM>ブルースター
 $UI_MOVIE_SELECT_A_MOVIE	シーン選択
-$UI_MOVIE_SCENE	シーン
+$UI_MOVIE_SCENE	          シーン
 $UI_MOVIE_END	エンディング
-$UI_MOVIE_QUEST	クエスト
+$UI_MOVIE_QUEST	      クエスト
 $UI_TIPS_TITLE	コツ＆トリック
 $UI_UPDATER_CANCEL	<RE>$MISC_CANCEL
 $UI_UPDATER_SECURED_WITH	このアップデートのシステムは、公開鍵指紋の照合と同じように、HTTPSで守られています。
@@ -174,7 +174,7 @@ $UI_UPDATER_NOTE	注意：
 $UI_UPDATER_SECURITY	セキュリティー上の理由から、ダウンロードしたインストーラーを手動で操作しなければいけません。<N><N>このプログラムは、あなたのファイルがダウンロードされた場所まで案内します。
 $UI_UPDATER_INSTALLING	アップデートをインストールしています・・・
 $UI_UPDATER_EXITING	アプリを終了します・・・
-$UI_DEFENDER_RECALL_LINE	帰還：<N>+<PSI>Psi
+$UI_DEFENDER_RECALL_LINE	帰還：<N>+<PSI>Psi	
 $UI_DEFENDER_BOOST	ブースト：<PSI>Psi
 $UI_DEFENDER_BOOST_NEED	ブースト：<PSI>Psi必要
 $UI_DEFENDER_BOOST_MAX	ブーストMAX
@@ -196,7 +196,7 @@ $UI_SKILLS_MOUSE_OVER	詳細はマウスオーバーで確認できます。
 $UI_EQUIP_OWNED	所有数
 $UI_EQUIP_COMPARE	比較
 $UI_EQUIP_PRICE	価格
-$UI_EQUIP_SHOW_EQUIPPED	持っている武器を見せる
+$UI_EQUIP_SHOW_EQUIPPED	持っている武器を見せる	
 $UI_EQUIP_EQUIP_AFTER	購入後、装備する
 $UI_EQUIP_EQUIP_WHO	誰が装備しますか？
 $UI_EQUIP_EQUIPPED	装備者
@@ -307,7 +307,7 @@ $UI_VIDEO_MOUSE_DEFAULT	デフォルト
 $UI_VIDEO_MOUSE_FANCY	ファンシー
 $UI_VIDEO_PARTICLES	パーティクル
 $UI_VIDEO_SWIRL	戦闘前アニメーション
-$UI_VIDEO_AOE	攻撃エリアをハイライト
+$UI_VIDEO_AOE	攻撃エリアをハイライト	
 $UI_VIDEO_CHANGE_RES	解像度を変える
 $UI_VIDEO_SCREEN_POS	スクリーンポジション
 $UI_VIDEO_CHANGE_RES_BUTTON	変更する
@@ -340,13 +340,13 @@ $UI_SAVE_MENU_KONG_XDEMO_LOGIN	拡張デモ―フルゲームにアクセスす�
 $UI_SAVE_MENU_KONG_XDEMO	拡張デモバージョン
 $UI_SAVE_MENU_KONG_DEMO_LOGIN_FULL	デモ - kongregateにログインして、フルゲームにアクセスしてください！
 $UI_SAVE_MENU_KONG_DEMO_LOGIN_XDEMO	デモ - kongregateにログインして、拡張したコンテンツにアクセスしてください！
-$UI_SAVE_MENU_KONG_DEMO	<RE>$MISC_DEMO_VERSION
+$UI_SAVE_MENU_KONG_DEMO	<RE>$MISC_DEMO_VERSION	
 $UI_SAVE_CONFIRM_DELETE	消去の確認
 $UI_SAVE_CONFIRM_DELETE_TEXT	このセーブスロットを、<N>完全に消去しますか？
 $SAVE_SLOT_PLAY	プレイ
-$SAVE_SLOT_PLAY_PLUS	プレイ+
+$SAVE_SLOT_PLAY_PLUS	プレイ+	
 $SAVE_SLOT_NEW_GAME	ニューゲーム
-$SAVE_SLOT_NEW_GAME_PLUS	ニューゲーム+
+$SAVE_SLOT_NEW_GAME_PLUS	ニューゲーム+	
 $SAVE_SLOT_EXPORT	エクスポート
 $SAVE_SLOT_IMPORT	インポート
 $SAVE_SLOT_DELETE	消去
@@ -376,7 +376,7 @@ $UI_SAVE_SELECT_DIR	MODをロードする
 $UI_MOD_LOAD_MOD	MODが存在します。<N>ロードしますか？
 $UI_MOD_EXISTS	設定を見つけられませんでした。<N>MODは存在しないか、<N>壊れている可能性があります。
 $UI_MOD_MISSING	うわっ！<N>ディレクトリーすらありません！<N>再試行してください。
-$UI_MOD_NOT_DIR	うわっ！<N>ディレクトリーすらありません！<N>再試行してください。
+$UI_MOD_NOT_DIR	うわっ！<N>ディレクトリーすらありません！<N>再試行してください。	
 $UI_MOD_LOADING	MODをロードしています・・・
 $UI_MOD_PLEASE_WAIT	少々お待ちください<N>あなたのMODをロードしています
 $UI_MOD_PROGRESS	タスク<TASK><N>ファイル<FILE><N>
@@ -463,7 +463,7 @@ $FB_HARD_SELL_NO	絶対ヤダ！
 $FB_PERSISTENT_TEXT	OK、お前の勝ちだ！<N>どうせ最初からあげるつもりだったけど。
 $FB_PERSISTENT_OK	やったね！
 $FB_THIS_ITEM_WILL_NOW	このアイテムは、どのプレイヤーのリストにも常に表示されます。
-$BOOK_PSI_TAX	PSI Tax:
+$BOOK_PSI_TAX	PSI Tax: 
 $BOOK_COST_MULT	呪文コスト x
 $BOOK_COOL_MULT	呪文再詠唱時間 x
 $STATUS_DESC_FB_HAPPY	スピード+<PERCENT>%。
@@ -472,10 +472,10 @@ $STATUS_DESC_FB_BORED	面倒くさくて動きたくなーい。
 $STATUS_DESC_FB_LOL	スピード+<PERCENT>%。
 $STATUS_DESC_FB_OMG	スピード+<PERCENT>%、ダメージ軽減-<PERCENT>%。
 $STATUS_DESC_TROLL	攻撃を受けている時、<PERCENT>%攻撃回避。
-$STATUS_DESC_ANONYMOUS	攻撃回避率+<PERCENT>%。
+$STATUS_DESC_ANONYMOUS	攻撃回避率+<PERCENT>%。	
 $STATUS_DESC_DARK	非エリア攻撃時、<PERCENT>%攻撃回避。
 $STATUS_DESC_LIGHT	闇を取り除く。
-$STATUS_DESC_FRENZY	<PERCENT>%スピードアップ。
+$STATUS_DESC_FRENZY	<PERCENT>%スピードアップ。	
 $STATUS_DESC_BLINDED	<PERCENT>%攻撃を外す。	COMMENT: Status descriptions have LOTS of variables. Ask Lars is you have any questions.
 $STATUS_DESC_BLEED	ダメージに+<PERCENT>%を付与。
 $STATUS_DESC_EVER_POISON	<INTI>ダメージ/秒。
@@ -599,7 +599,7 @@ $MISC_ACHIEVEMENT!	実績獲得！
 $BASE_ATTACK	基本アタック
 $BONUS_DEFENSE	ボーナスディフェンス
 $DECIMATE_BY	<PERCENT>%によって全滅
-$EN_SPELL_FRENZY_DESC	<SEC> 秒間スピード+<PERCENT>
+$EN_SPELL_FRENZY_DESC	<SEC> 秒間スピード+<PERCENT>	
 $EN_SPELL_HEAL_DESC	回復：<PERCENT> HP
 $EN_SPELL_DRAGON_FIRE_1_DESC	<DMG>ダメージ
 $EN_SPELL_DRAGON_FIRE_2_DESC	<LOW>-<HIGH>ダメージ
@@ -722,7 +722,7 @@ $MISC_HIRE_Q	<N><SCRAP>スクラップで、<CLASS>の<NAME>を雇いますか�
 $MISC_MODS	MOD
 $MISC_CONFIG_DIR	コンフィグフォルダ
 $MISC_LANGUAGES	言語
-$MISC_PLEASE_ENTER_A_NAME!	名前を入力してください！
+$MISC_PLEASE_ENTER_A_NAME!	名前を入力してください！	
 $MISC_ARE_YOU_SURE	これでいいですか？
 $MISC_NEXT	次へ
 $MISC_PREVIOUS	戻る
@@ -820,7 +820,7 @@ $MISC_MOVIES	ギャラリー
 $MISC_OPTIONS	オプション
 $MISC_CREDITS	クレジット
 $MISC_PARTY	パーティー
-$MISC_ERROR	エラーが発生しました
+$MISC_ERROR	エラーが発生しました	
 $MISC_ERROR!	エラーが発生しました！
 $MISC_BONUS	ボーナス
 $MISC_TIPS	ヒント
@@ -851,13 +851,13 @@ $REWARD_FINISH	ゲームクリア
 $REWARD_QUEST	クエスト完了
 $REWARD_NO_XP	なし！
 $REWARD_NO_GOLD	なし！
-$REWARD_XP	#ERROR!
-$REWARD_GOLD	#ERROR!
+$REWARD_XP	+ <XP> XP
+$REWARD_GOLD	+ <GOLD> SCRAP
 $HERO_BLURB_SLAK	勇敢だがちょっとバカなヘンな男・・・。
 $HERO_BLURB_KETTA	遊牧民の女ハンター。ひねくれものでニヒリスト・・・。
 $HERO_BLURB_BAKAL	穏やかな修道僧。罪が許される日を待っている・・・。
-$HERO_BLURB_WRENNA	滅ぼされたクウェイド王国の王女。復讐を夢見ている・・・。
-$HERO_BLURB_MARKOS	終わりなき戦いを経てボロボロになった騎士・・・。
+$HERO_BLURB_WRENNA	滅ぼされたクウェイド王国の王女。復讐を夢見ている・・・。	
+$HERO_BLURB_MARKOS	終わりなき戦いを経てボロボロになった騎士・・・。	
 $HERO_BLURB_NIRU	荒々しき神秘の存在。どんな秘密も明かそうとしない・・・。
 $TALK_ASH	アッシュ難民
 $TALK_QUAID	クウェイド難民
@@ -954,7 +954,7 @@ $TYPE_STATIONARY	動かない
 $TYPE_TELEPORTER	転送装置
 $TYPE_EXALTED	高貴
 $TYPE_NO_END_DAMAGE	終わらないダメージ
-$GETSCRAP1	廃品、ボロ布、壊れた道具、さびた金属片の山。<N><N>こんなもの誰が欲しがる？
+$GETSCRAP1	廃品、ボロ布、壊れた道具、さびた金属片の山。<N><N>こんなもの誰が欲しがる？	
 $GETSCRAP2	奈落の底では、通貨として使われているようです。
 $END	終わり
 $BATTLE_STARTING_FORMATION_TEXT	前回と同様の陣形にしますか？
@@ -965,14 +965,14 @@ $DATA_DUMP_SFX	SFXを書き出し中・・・
 $DATA_DUMP_SPRITES	スプライトを書き出し中・・・
 $LQ	“
 $MISC_ABSORB_X	<X>を吸収
-$MISC_ABSORB_X_RESIST_Y	<X>を吸収, <Y>%軽減
+$MISC_ABSORB_X_RESIST_Y	"<X>を吸収, <Y>%軽減"
 $MISC_ACCEPT_AND_CLOSE	適用後閉じる
 $MISC_BOOST_X	<X>をブースト
 $MISC_COST:	コスト:
 $MISC_DEFEAT	討伐
 $MISC_DEFENSE_ABS	防御
 $MISC_DEMO_VERSION	デモバージョン
-$MISC_DEMO_VERSION_DESC	この作品はDefender's Quest: Valley of the Forgotten, HD Special Editionのデモ版になります。<N><N>グラフィックや機能は開発中であり、製品版とは変更になる場合があります。<N><N>また不具合などが起こることもございますので、予めご了承ください。
+$MISC_DEMO_VERSION_DESC	"この作品はDefender's Quest: Valley of the Forgotten, HD Special Editionのデモ版になります。<N><N>グラフィックや機能は開発中であり、製品版とは変更になる場合があります。<N><N>また不具合などが起こることもございますので、予めご了承ください。"
 $MISC_DQ_NEWS	ニュースをゲット！
 $MISC_DQ_SITE	DefendersQuest.com
 $MISC_EASIER	もっと簡単
@@ -980,7 +980,7 @@ $MISC_ERROR_INVALID_MOD_NAME	無効なMOD名です!
 $MISC_ERROR_MOD_BAD	このMODは現バージョンには対応していません。
 $MISC_ERROR_MOD_EXISTS	この名前のMODは既に存在しています。
 $MISC_ERROR_UNKNOWN	原因不明のエラーが発生しました。
-$MISC_ERROR_UNZIP	zipが解凍できません。オプションメニューでMODのパスを変更するか、ハードドライブの空き容量を確認してください。
+$MISC_ERROR_UNZIP	"zipが解凍できません。オプションメニューでMODのパスを変更するか、ハードドライブの空き容量を確認してください。
 $MISC_GAME_DATA	ゲームデータ
 $MISC_GOLD	スクラップ
 $MISC_GOLD:	スクラップ:
@@ -1030,7 +1030,7 @@ $STATE_CRASH_SHOW_DUMP	ダンプファイルを<N>表示する
 $STATE_CRASH_TITLE	重大なエラー！
 $STATUS_DESC_DARK_FRENZY	<RE>$STATUS_DESC_FRENZY
 $STATUS_DESC_EVER_BLEED	<RE>$STATUS_DESC_BLEED
-$STATUS_DESC_FB_EXISTENTIAL	スピードが-<PERCENT>%減少、レジストが+<PERCENT>%付与。
+$STATUS_DESC_FB_EXISTENTIAL	"スピードが-<PERCENT>%減少、レジストが+<PERCENT>%付与。"
 $STATUS_DESC_FIRE	<RE>$STATUS_DESC_BURN
 $STATUS_DESC_INSPIRE	<RE>$STATUS_DESC_INSPIRED
 $STATUS_DESC_INSPIRED_HIT	<RE>$STATUS_DESC_INSPIRED
@@ -1039,7 +1039,7 @@ $STAT_DESC_ARMOR_ENEMY	アーマー<N>吸収されるダメージ量
 $STAT_DESC_SPAWN	卵:<N>
 $STAT_DESC_THORNS	とげ<N>近接攻撃で攻撃してくる人にダメージを与える。
 $STAT_DESC_XP	経験値<N>
-$TARGET_SPECIFIC_TEXT	手動で敵を選択し攻撃します。他の敵には手を加えません。
+$TARGET_SPECIFIC_TEXT	"手動で敵を選択し攻撃します。他の敵には手を加えません。"
 $TARGET_SPECIFIC_TITLE	特定攻撃
 $TITLE_OPTIONS	オプション
 $UI_ACCESS_SEE_ALSO	参考:

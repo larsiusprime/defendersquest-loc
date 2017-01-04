@@ -218,7 +218,7 @@ $LINE_COLISEUM_OUTRO_60_CHAR	오지말
 $LINE_COLISEUM_OUTRO_60_TEXT	그리고 우리의 친구, 수집가에게 편지를 쓰도록.
 $LINE_COLISEUM_OUTRO_70_CHAR	오지말
 $LINE_COLISEUM_OUTRO_70_TEXT	그에게 진귀한 상품 하나가 들어왔다고 전해라.
-$SCENE_OZIMAL_PRISON_TITLE	감옥에서
+$SCENE_OZIMAL_PRISON_TITLE	감옥에서 
 $LINE_OZIMAL_PRISON_00_CHAR	$RAN
 $LINE_OZIMAL_PRISON_00_TEXT	좋아. 대체 무슨 짓을 한 거야?
 $LINE_OZIMAL_PRISON_10_CHAR	$RAN
@@ -567,39 +567,39 @@ $LINE_MONASTERY_SIEGE_OUTRO_60_CHAR	붉은 옷을 입은 남자
 $LINE_MONASTERY_SIEGE_OUTRO_60_TEXT	여자를 넘겨라. 그러면 이 신전에는 손을 대지 않겠다.
 $LINE_MONASTERY_SIEGE_OUTRO_70_CHAR	$HEA
 $LINE_MONASTERY_SIEGE_OUTRO_70_TEXT	젤레마, 이전에 너라는 인간은….
-$LINE_MONASTERY_SIEGE_OUTRO_80_CHAR	젤레마
+$LINE_MONASTERY_SIEGE_OUTRO_80_CHAR	젤레마 
 $LINE_MONASTERY_SIEGE_OUTRO_80_TEXT	인간? 네 녀석이 그리 말한것인가?
-$LINE_MONASTERY_SIEGE_OUTRO_90_CHAR	젤레마
+$LINE_MONASTERY_SIEGE_OUTRO_90_CHAR	젤레마 
 $LINE_MONASTERY_SIEGE_OUTRO_90_TEXT	네가 어찌 감히“인간”이라는 존재를 말할 수 있는 거냐. 수행자의 예복과 신전의 벽 뒤에 숨어 세상의 종말을 방관하기만 하던 네놈이!
-$LINE_MONASTERY_SIEGE_OUTRO_100_CHAR	젤레마
+$LINE_MONASTERY_SIEGE_OUTRO_100_CHAR	젤레마 
 $LINE_MONASTERY_SIEGE_OUTRO_100_TEXT	이 피바다 속에서 네녀석의 손은 깨끗할 수 있으리라 생각했나?
-$LINE_MONASTERY_SIEGE_OUTRO_110_CHAR	젤레마
+$LINE_MONASTERY_SIEGE_OUTRO_110_CHAR	젤레마 
 $LINE_MONASTERY_SIEGE_OUTRO_110_TEXT	친구여, 난 자네처럼 도덕이란 사치는 부리지 않아. 세계를 구하기 위해서라면 나는 무슨 일이든 할 것이다.
-$LINE_MONASTERY_SIEGE_OUTRO_120_CHAR	젤레마
+$LINE_MONASTERY_SIEGE_OUTRO_120_CHAR	젤레마 
 $LINE_MONASTERY_SIEGE_OUTRO_120_TEXT	어떤 대가를 치르든 말이야.
 $LINE_MONASTERY_SIEGE_OUTRO_130_CHAR	$HEA
 $LINE_MONASTERY_SIEGE_OUTRO_130_TEXT	구한다? 수백만의 죽음 앞에서 구해냈다는 말을 할 수 있나? 이 피바다는 네가 만들어낸 것이야!
-$LINE_MONASTERY_SIEGE_OUTRO_140_CHAR	젤레마
+$LINE_MONASTERY_SIEGE_OUTRO_140_CHAR	젤레마 
 $LINE_MONASTERY_SIEGE_OUTRO_140_TEXT	일부의 죽음이 결국 모두를 구해낼 것이다. <N>너 스스로가 자초한 희생이었지, 내가 기억하기엔….
-$LINE_MONASTERY_SIEGE_OUTRO_150_CHAR	젤레마
+$LINE_MONASTERY_SIEGE_OUTRO_150_CHAR	젤레마 
 $LINE_MONASTERY_SIEGE_OUTRO_150_TEXT	여러가지로 말이야….
 $LINE_MONASTERY_SIEGE_OUTRO_160_CHAR	$HEA
 $LINE_MONASTERY_SIEGE_OUTRO_160_TEXT	젤레마-
-$LINE_MONASTERY_SIEGE_OUTRO_170_CHAR	젤레마
+$LINE_MONASTERY_SIEGE_OUTRO_170_CHAR	젤레마 
 $LINE_MONASTERY_SIEGE_OUTRO_170_TEXT	*그만. 이제 $MCG과 이야기하겠다.
 $LINE_MONASTERY_SIEGE_OUTRO_180_CHAR	$MCG
 $LINE_MONASTERY_SIEGE_OUTRO_180_TEXT	원하는게 뭐지?
-$LINE_MONASTERY_SIEGE_OUTRO_190_CHAR	젤레마
+$LINE_MONASTERY_SIEGE_OUTRO_190_CHAR	젤레마 
 $LINE_MONASTERY_SIEGE_OUTRO_190_TEXT	투항하여 수많은 생명을 구하라.
-$LINE_MONASTERY_SIEGE_OUTRO_200_CHAR	젤레마
+$LINE_MONASTERY_SIEGE_OUTRO_200_CHAR	젤레마 
 $LINE_MONASTERY_SIEGE_OUTRO_200_TEXT	너는 살아있기엔 너무 위험한 존재.
-$LINE_MONASTERY_SIEGE_OUTRO_210_CHAR	젤레마
+$LINE_MONASTERY_SIEGE_OUTRO_210_CHAR	젤레마 
 $LINE_MONASTERY_SIEGE_OUTRO_210_TEXT	내게 온다면 수천, 아니 수백만의 생명을 살릴 수 있다.
 $LINE_MONASTERY_SIEGE_OUTRO_220_CHAR	$HEA
 $LINE_MONASTERY_SIEGE_OUTRO_220_TEXT	우리는 한 번 벽에 들어온 자를 절대 배신하지 않아.
-$LINE_MONASTERY_SIEGE_OUTRO_230_CHAR	젤레마
+$LINE_MONASTERY_SIEGE_OUTRO_230_CHAR	젤레마 
 $LINE_MONASTERY_SIEGE_OUTRO_230_TEXT	좋아.
-$LINE_MONASTERY_SIEGE_OUTRO_240_CHAR	젤레마
+$LINE_MONASTERY_SIEGE_OUTRO_240_CHAR	젤레마 
 $LINE_MONASTERY_SIEGE_OUTRO_240_TEXT	잘 있게, 친구. 언젠가 다시 오겠다.
 $SCENE_MONASTERY_TOWN_OUTRO_TITLE	추격자와 도망자
 $NARR_MONASTERY_TOWN_OUTRO_00_TEXT	3 장
@@ -639,7 +639,7 @@ $LINE_3_1_INTRO_50_TEXT	사제님, 멀리서 연기가 나는 것 같지 않으�
 $LINE_3_1_INTRO_60_CHAR	$HEA
 $LINE_3_1_INTRO_60_TEXT	병원에서! 뭔가 잘못됐어!
 $LINE_3_1_INTRO_70_CHAR	$HEA
-$LINE_3_1_INTRO_70_TEXT	서두르자!
+$LINE_3_1_INTRO_70_TEXT	서두르자! 
 $SCENE_3_1_OUTRO_TITLE	새로운 아군
 $LINE_3_1_OUTRO_00_CHAR	$HEA
 $LINE_3_1_OUTRO_00_TEXT	저들이 마지막인가.
@@ -658,7 +658,7 @@ $LINE_3_1_OUTRO_60_TEXT	적들은 마치 꼬리 내린 개처럼 도망가더군
 $LINE_3_1_OUTRO_70_CHAR	$HEA
 $LINE_3_1_OUTRO_70_TEXT	여전히 누구보다 싸우기를 좋아하는군.
 $LINE_3_1_OUTRO_80_CHAR	$HEA
-$LINE_3_1_OUTRO_80_TEXT	오늘의 승리에 큰 역할을 해준 사람을 소개해주겠네.
+$LINE_3_1_OUTRO_80_TEXT	오늘의 승리에 큰 역할을 해준 사람을 소개해주겠네. 
 $LINE_3_1_OUTRO_90_CHAR	$MCG
 $LINE_3_1_OUTRO_90_TEXT	*어…. 안녕. $MCG 라고 해.
 $LINE_3_1_OUTRO_100_CHAR	환자
@@ -797,13 +797,13 @@ $LINE_HOSPITAL_INTRO_160_TEXT	고대의 힘이 깃든 곳. 오랜 과거 속에�
 $LINE_HOSPITAL_INTRO_170_CHAR	$HEA
 $LINE_HOSPITAL_INTRO_170_TEXT	성문에 적들이 다다랐을 때 그는 어떤 계획을 세웠지.
 $LINE_HOSPITAL_INTRO_180_CHAR	$HEA
-$LINE_HOSPITAL_INTRO_180_TEXT	절망 속에서 태어난, 사악한 계획을.
+$LINE_HOSPITAL_INTRO_180_TEXT	절망 속에서 태어난, 사악한 계획을. 
 $LINE_HOSPITAL_INTRO_190_CHAR	$HEA
 $LINE_HOSPITAL_INTRO_190_TEXT	그리고 나 역시, 나의 어리석음이 결국 그를 돕고 말았어.
 $LINE_HOSPITAL_INTRO_200_CHAR	$HEA
 $LINE_HOSPITAL_INTRO_200_TEXT	*$MCG, 젤레마의 파괴행위를 막을 수만 있다면 난 내 모든 것을 바칠 셈이라네. 남은 일생 모두를.
 $LINE_HOSPITAL_INTRO_210_CHAR	$HEA
-$LINE_HOSPITAL_INTRO_210_TEXT	어떤 이유에서인지는 몰라도, 그의 광기는 "자네"에게 쏠리기 시작했어.
+$LINE_HOSPITAL_INTRO_210_TEXT	어떤 이유에서인지는 몰라도, 그의 광기는 "자네"에게 쏠리기 시작했어. 
 $LINE_HOSPITAL_INTRO_220_CHAR	$HEA
 $LINE_HOSPITAL_INTRO_220_TEXT	그 이유를 찾을 수만 있다면, 그걸 이용해 맞설 수 있을지도 모르겠구나.
 $LINE_HOSPITAL_INTRO_230_CHAR	$HEA
@@ -849,11 +849,11 @@ $LINE_3_3_INTRO_70_TEXT	여기서 선발대를 물리치고 입구를 파괴해�
 $SCENE_3_3_OUTRO_TITLE	사막의 보석
 $NARR_3_3_OUTRO_00_TEXT	4 장
 $NARR_3_3_OUTRO_00_SUB_TEXT	*그 지하 세계에서 얼마나 오래 있었는지는 말할 수가 없다.$N대체 몇 주, 아니면 몇 달이었을까. 태양도 보이지 않는,$N암흑이 내뿜는 공포의 권역에서,$N또 그 어둠 속에서 살아가는 존재들에게 둘러싸여 살아가던 그 순간이.
-$NARR_3_3_OUTRO_00_SUB_SUB_TEXT	*$N$N$N$N$N$N$N$N-떠돌이 탐험가인 크레스터 카다의 이야기로부터
+$NARR_3_3_OUTRO_00_SUB_SUB_TEXT	*$N$N$N$N$N$N$N$N-떠돌이 탐험가인 크레스터 카다의 이야기로부터 
 $LINE_3_3_OUTRO_00_CHAR	$BER
 $LINE_3_3_OUTRO_00_TEXT	*하! $BER의 분노를 느껴라! 도망치라고!
 $LINE_3_3_OUTRO_10_CHAR	$BER
-$LINE_3_3_OUTRO_10_TEXT	*있는 힘을 다해 도망쳐봐라. 가엾고 딱한 자들아! 이... 이 거시기 떨어진 원숭이들!
+$LINE_3_3_OUTRO_10_TEXT	*있는 힘을 다해 도망쳐봐라. 가엾고 딱한 자들아! 이... 이 거시기 떨어진 원숭이들! 
 $LINE_3_3_OUTRO_20_CHAR	$HEA
 $LINE_3_3_OUTRO_20_TEXT	…….
 $LINE_3_3_OUTRO_30_CHAR	$BER
@@ -1092,7 +1092,7 @@ $LINE_SIDEQUEST_5_OUTRO_40_TEXT	*좋아, $BER에게 이런 머저리 끼가 있�
 $LINE_SIDEQUEST_5_OUTRO_50_CHAR	$RAN
 $LINE_SIDEQUEST_5_OUTRO_50_TEXT	적어도 저 바깥에는 홀랑 태워먹지 않은 뭔가가 남아있단 얘기네.
 $LINE_SIDEQUEST_5_OUTRO_60_CHAR	$MCG
-$LINE_SIDEQUEST_5_OUTRO_60_TEXT	야! 난 그냥 날것으로 먹지 않으려고-
+$LINE_SIDEQUEST_5_OUTRO_60_TEXT	야! 난 그냥 날것으로 먹지 않으려고- 
 $LINE_SIDEQUEST_5_OUTRO_70_CHAR	$RAN
 $LINE_SIDEQUEST_5_OUTRO_70_TEXT	*$MCG, 네가 이것저것 잘 할 지는 모르겠지만, 결국 내가 더 뛰어나다는 걸 인정해야하지 않을까.
 $LINE_SIDEQUEST_5_OUTRO_80_CHAR	$MCG
@@ -1147,7 +1147,7 @@ $LINE_SIDEQUEST_5_OUTRO_320_CHAR	$KNI
 $LINE_SIDEQUEST_5_OUTRO_320_TEXT	이제부터 우리가 우리 스스로를 보호해야겠군요.
 $LINE_SIDEQUEST_5_OUTRO_330_CHAR	$MCG
 $LINE_SIDEQUEST_5_OUTRO_330_TEXT	그래야겠지.
-$SCENE_3_6_INTRO_TITLE	잘생긴 근접 전사
+$SCENE_3_6_INTRO_TITLE	잘생긴 근접 전사 
 $LINE_3_6_INTRO_00_CHAR	$BER
 $LINE_3_6_INTRO_00_TEXT	이봐, 신참! 여기서 지켜야 할 기본적인 룰을 몇가지 알려주도록 하지.
 $LINE_3_6_INTRO_10_CHAR	$BER
@@ -1311,7 +1311,7 @@ $LINE_3_8_INTRO_110_TEXT	타락한 존재들은 오직 파멸을 초래할 뿐.
 $LINE_3_8_INTRO_120_CHAR	$MCG
 $LINE_3_8_INTRO_120_TEXT	우리 동료는 어느쪽일까?
 $LINE_3_8_INTRO_130_CHAR	$MAG
-$LINE_3_8_INTRO_130_TEXT	타락한 존재이거나 잊혀진 존재라, 우리 목적을 위해서라면 -
+$LINE_3_8_INTRO_130_TEXT	타락한 존재이거나 잊혀진 존재라, 우리 목적을 위해서라면 - 
 $LINE_3_8_INTRO_140_CHAR	$DRA
 $LINE_3_8_INTRO_140_TEXT	우리가 왔다, 인간들이여!
 $LINE_3_8_INTRO_150_CHAR	$DRA
@@ -1444,7 +1444,7 @@ $LINE_3_9_OUTRO_120_CHAR	$DRA
 $LINE_3_9_OUTRO_120_TEXT	... 너의 뻔뻔함은 날 즐겁게 해주었다.
 $LINE_3_9_OUTRO_130_CHAR	$DRA
 $LINE_3_9_OUTRO_130_TEXT	내 아이들이 도움을 받았으니, 너희들의 적을 불태워주마.
-$SCENE_DRAGON_LAIR_INTRO_TITLE	용의 보물
+$SCENE_DRAGON_LAIR_INTRO_TITLE	용의 보물 
 $LINE_DRAGON_LAIR_INTRO_00_CHAR	$DRA
 $LINE_DRAGON_LAIR_INTRO_00_TEXT	오랜 세월 동안, 우린 많은 인간들의 무기와 방어구를 모아왔다.
 $LINE_DRAGON_LAIR_INTRO_10_CHAR	$DRA
@@ -1546,7 +1546,7 @@ $LINE_SIDEQUEST_6_GET_30_TEXT	*$MAG이(가) 그렇게 나쁜 사람은 아냐. �
 $LINE_SIDEQUEST_6_GET_40_CHAR	$KNI
 $LINE_SIDEQUEST_6_GET_40_TEXT	살육에 미친놈을 빼면 남는게 없잖습니까.
 $LINE_SIDEQUEST_6_GET_50_CHAR	$MCG
-$LINE_SIDEQUEST_6_GET_50_TEXT	언제 한 번 그녀와 대화를 나눠보는게 좋겠는 걸.
+$LINE_SIDEQUEST_6_GET_50_TEXT	언제 한 번 그녀와 대화를 나눠보는게 좋겠는 걸. 
 $LINE_SIDEQUEST_6_GET_60_CHAR	$KNI
 $LINE_SIDEQUEST_6_GET_60_TEXT	네, 전직 경비병과 전직 죄수끼리 최고의 친구가 되겠군요.
 $LINE_SIDEQUEST_6_GET_70_CHAR	$KNI
@@ -1560,7 +1560,7 @@ $LINE_SIDEQUEST_6_GET_100_TEXT	*$MAG이(가) 그걸 알고는 조금... 뭐라�
 $LINE_SIDEQUEST_6_GET_110_CHAR	$KNI
 $LINE_SIDEQUEST_6_GET_110_TEXT	당신은 사서잖습니까. 적절한 단어를 좀 알려주셨으면 좋겠는데:
 $LINE_SIDEQUEST_6_GET_120_CHAR	$KNI
-$LINE_SIDEQUEST_6_GET_120_TEXT	정상인의 가면을 벗어던지고, 그 아래서 펄펄 끓던 광기의 수프를 드러내다' 라는 의미의 형용사 말입니다.
+$LINE_SIDEQUEST_6_GET_120_TEXT	'정상인의 가면을 벗어던지고, 그 아래서 펄펄 끓던 광기의 수프를 드러내다' 라는 의미의 형용사 말입니다.
 $LINE_SIDEQUEST_6_GET_130_CHAR	$BER
 $LINE_SIDEQUEST_6_GET_130_TEXT	*$MCG!
 $LINE_SIDEQUEST_6_GET_140_CHAR	$MCG
@@ -1605,7 +1605,7 @@ $LINE_SIDEQUEST_6_INTRO_40_TEXT	*$MAG, 내 말 좀 들어. 너 혼자서는 �
 $LINE_SIDEQUEST_6_INTRO_50_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_50_TEXT	*나는 $MAG 랜 랙스미! 나는 화염의 고위 여사제다!<N>적들을 불꽃의 거처에 절대 들여보내지 않으리라. 죽어서든 살아서든!
 $LINE_SIDEQUEST_6_INTRO_60_CHAR	$MCG
-$LINE_SIDEQUEST_6_INTRO_60_TEXT	*$MAG? 그냥 나와 함께 -
+$LINE_SIDEQUEST_6_INTRO_60_TEXT	*$MAG? 그냥 나와 함께 - 
 $LINE_SIDEQUEST_6_INTRO_70_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_70_TEXT	*$MCG, 그러지 마. 널 죽여버릴 수도 있어. 이건 내가 선택할 수 있는 문제가 아냐. 진실을 아는 자들을 지키는 사원에는 누구도 들어올 수 없다.
 $LINE_SIDEQUEST_6_INTRO_80_CHAR	$MAG
@@ -1729,7 +1729,7 @@ $LINE_3_10_INTRO_50_TEXT	피의 봉인은 오직 봉인을 세웠던 자의 피�
 $LINE_3_10_INTRO_60_CHAR	$MCG
 $LINE_3_10_INTRO_60_TEXT	그들은 오래 전에 죽었잖아요.
 $LINE_3_10_INTRO_70_CHAR	$HEA
-$LINE_3_10_INTRO_70_TEXT	하지만 그들의 피는 직계후손들에게 물려져 왔겠지. 최초의 피 말이다.
+$LINE_3_10_INTRO_70_TEXT	하지만 그들의 피는 직계후손들에게 물려져 왔겠지. 최초의 피 말이다. 
 $LINE_3_10_INTRO_80_CHAR	$MCG
 $LINE_3_10_INTRO_80_TEXT	그럼, 그들이 대체 뭘 봉인했다는 거죠? 젤레마가 얻은 힘인가요?
 $LINE_3_10_INTRO_90_CHAR	$HEA
@@ -1737,7 +1737,7 @@ $LINE_3_10_INTRO_90_TEXT	*나도 잘 모르겠군. 언어가 무척 어려워…
 $LINE_3_10_INTRO_100_CHAR	$MAG
 $LINE_3_10_INTRO_100_TEXT	이 언어는 내가 보아왔던 어느 퀘이드어보다 오래되었는걸….
 $LINE_3_10_INTRO_110_CHAR	$MAG
-$LINE_3_10_INTRO_110_TEXT	자유인의 지도자들... 위대한 불화/갈등의 장으로... 집결하였다'
+$LINE_3_10_INTRO_110_TEXT	'자유인의 지도자들... 위대한 불화/갈등의 장으로... 집결하였다'
 $LINE_3_10_INTRO_120_CHAR	$MCG
 $LINE_3_10_INTRO_120_TEXT	위대한 왕은 쓰러졌 - 아마 퀘이드 왕을 뜻하지 않을까.
 $LINE_3_10_INTRO_130_CHAR	$MAG
@@ -1890,7 +1890,7 @@ $LINE_3_11_OUTRO_10_TEXT	이제 겨우 시작일 뿐이네.
 $LINE_3_11_OUTRO_20_CHAR	$HEA
 $LINE_3_11_OUTRO_20_TEXT	젤레마가 이끄는 적을 상대로 전면전을 감수할 순 없어.
 $LINE_3_11_OUTRO_30_CHAR	$HEA
-$LINE_3_11_OUTRO_30_TEXT	하수도를 통한 탈출로를 알고 있으니.
+$LINE_3_11_OUTRO_30_TEXT	하수도를 통한 탈출로를 알고 있으니. 
 $LINE_3_11_OUTRO_40_CHAR	$HEA
 $LINE_3_11_OUTRO_40_TEXT	적들이 다시 뭉치기 전에 빨리 도망가야하네!
 $LINE_3_11_OUTRO_50_CHAR	$MCG
@@ -2275,15 +2275,15 @@ $LINE_4_3_OUTRO_30_CHAR	수상한 목소리
 $LINE_4_3_OUTRO_30_TEXT	오랜 세월동안….
 $LINE_4_3_OUTRO_40_CHAR	$MCG
 $LINE_4_3_OUTRO_40_TEXT	이 목소리는!
-$LINE_4_3_OUTRO_50_CHAR	에즈틀리-테노크
+$LINE_4_3_OUTRO_50_CHAR	에즈틀리-테노크 
 $LINE_4_3_OUTRO_50_TEXT	함께하는 자 하나없이, 나의 정신만이 홀로 갇혀있던 오랜 세월.
 $LINE_4_3_OUTRO_60_CHAR	$MCG
 $LINE_4_3_OUTRO_60_TEXT	그... 황금 인간….
-$LINE_4_3_OUTRO_70_CHAR	에즈틀리-테노크
+$LINE_4_3_OUTRO_70_CHAR	에즈틀리-테노크 
 $LINE_4_3_OUTRO_70_TEXT	난 너를 부자로 만들어줄 수 있었다. 넌 신이 될 수도 있었다….
-$LINE_4_3_OUTRO_80_CHAR	에즈틀리-테노크
+$LINE_4_3_OUTRO_80_CHAR	에즈틀리-테노크 
 $LINE_4_3_OUTRO_80_TEXT	하지만 너는 죽음을 선택했지.
-$LINE_4_3_OUTRO_90_CHAR	에즈틀리-테노크
+$LINE_4_3_OUTRO_90_CHAR	에즈틀리-테노크 
 $LINE_4_3_OUTRO_90_TEXT	그러니 너는 그 누구도 겪지 못했던 고통을 받아야 한다.
 $LINE_4_3_OUTRO_100_CHAR	$MCG
 $LINE_4_3_OUTRO_100_TEXT	내게서 떨어져!
@@ -2449,7 +2449,7 @@ $LINE_4_5_INTRO_10_TEXT	출구가 눈앞에 있어!
 $LINE_4_5_INTRO_20_CHAR	$RAN
 $LINE_4_5_INTRO_20_TEXT	드디어 이 지옥구덩이에서 빠져나갈 수 있다니!
 $LINE_4_5_INTRO_30_CHAR	$RAN
-$LINE_4_5_INTRO_30_TEXT	*$MCG, 여기에 놈들이 더 있어!
+$LINE_4_5_INTRO_30_TEXT	*$MCG, 여기에 놈들이 더 있어! 
 $LINE_4_5_INTRO_40_CHAR	피의 광신교도
 $LINE_4_5_INTRO_40_TEXT	*음…. $MCG라는 자는 정말 운이 좋은 것 같군.
 $LINE_4_5_INTRO_50_CHAR	피의 광신교도
@@ -2871,12 +2871,12 @@ $LINE_FINAL_INTRO_90_CHAR	젤레마
 $LINE_FINAL_INTRO_90_TEXT	안 돼... 피!
 $LINE_FINAL_INTRO_100_CHAR	젤레마
 $LINE_FINAL_INTRO_100_TEXT	새 봉인은 아직 마무리되지 않았어! 절대 그 피를 -
-$LINE_FINAL_INTRO_110_CHAR	에즈틀리-테노크
+$LINE_FINAL_INTRO_110_CHAR	에즈틀리-테노크 
 $LINE_FINAL_INTRO_110_TEXT	마침내, 해방되었노라.
 $SCENE_GAMEOVER_A_TITLE	모든 것을 잃다.
-$LINE_GAMEOVER_A_00_CHAR	에즈틀리-테노크
+$LINE_GAMEOVER_A_00_CHAR	에즈틀리-테노크 
 $LINE_GAMEOVER_A_00_TEXT	결국.
-$LINE_GAMEOVER_A_10_CHAR	에즈틀리-테노크
+$LINE_GAMEOVER_A_10_CHAR	에즈틀리-테노크 
 $LINE_GAMEOVER_A_10_TEXT	오랜 시간이 지나, 세상은 다시 한번 내 것이 된다.
 $SCENE_ENDING_ZELEMIR_DEAD_TITLE	고통스러운 끝
 $NARR_ENDING_ZELEMIR_DEAD_00_TEXT	우리는 빠져나가기 위해 달린다.
@@ -2909,19 +2909,19 @@ $LINE_ENDING_ZELEMIR_DEAD_70_CHAR	$HEA
 $LINE_ENDING_ZELEMIR_DEAD_70_TEXT	젤레마는 죽었으니….
 $LINE_ENDING_ZELEMIR_DEAD_80_CHAR	$HEA
 $LINE_ENDING_ZELEMIR_DEAD_80_TEXT	그와 나의 피로, 이 마법사를 다시 한번 봉인하겠다!
-$LINE_ENDING_ZELEMIR_DEAD_90_CHAR	에즈틀리-테노크
+$LINE_ENDING_ZELEMIR_DEAD_90_CHAR	에즈틀리-테노크 
 $LINE_ENDING_ZELEMIR_DEAD_90_TEXT	어리석은 녀석! 나는 탈출할 것이다. 세대가 지나면... 언젠가 너의 피는 나에게 찾아올 것이다.
-$LINE_ENDING_ZELEMIR_DEAD_100_CHAR	에즈틀리-테노크
+$LINE_ENDING_ZELEMIR_DEAD_100_CHAR	에즈틀리-테노크 
 $LINE_ENDING_ZELEMIR_DEAD_100_TEXT	너의 자손, 혹은 자손의 자손. 나는 기다릴 것이다. 이몸에게 천의 세대따위 대체 무슨 의미가 있단 말이냐?
 $LINE_ENDING_ZELEMIR_DEAD_110_CHAR	$HEA
 $LINE_ENDING_ZELEMIR_DEAD_110_TEXT	네가 봉인되어 있는 동안 인간들은 성장하겠지. 그들은 재앙을 대비할 준비가 되어있을 것이다.
-$LINE_ENDING_ZELEMIR_DEAD_120_CHAR	에즈틀리-테노크
+$LINE_ENDING_ZELEMIR_DEAD_120_CHAR	에즈틀리-테노크 
 $LINE_ENDING_ZELEMIR_DEAD_120_TEXT	네가 받아들일 수 있을만한 진실이 될 때까지 어떤 거짓말이라도 내뱉어보거라.
 $LINE_ENDING_ZELEMIR_DEAD_130_CHAR	$HEA
 $LINE_ENDING_ZELEMIR_DEAD_130_TEXT	너는 세상을 과소평가했다.
-$LINE_ENDING_ZELEMIR_DEAD_140_CHAR	에즈틀리-테노크
+$LINE_ENDING_ZELEMIR_DEAD_140_CHAR	에즈틀리-테노크 
 $LINE_ENDING_ZELEMIR_DEAD_140_TEXT	수도사여, 이 세상은 내가 필요하다, 인간들이 스스로 나를 해방하여, 자신들을 구원하길 엎드려 간청할 그날은 오고야 말리라.
-$LINE_ENDING_ZELEMIR_DEAD_150_CHAR	에즈틀리-테노크
+$LINE_ENDING_ZELEMIR_DEAD_150_CHAR	에즈틀리-테노크 
 $LINE_ENDING_ZELEMIR_DEAD_150_TEXT	너의 후손은 네가 흘렸던 만큼의 피를 흘리게 될 것이다.
 $LINE_ENDING_ZELEMIR_DEAD_160_CHAR	$KNI
 $LINE_ENDING_ZELEMIR_DEAD_160_TEXT	전 결혼하지도 않았고, 아이도 없습니다.
@@ -2945,9 +2945,9 @@ $LINE_ENDING_ZELEMIR_DEAD_250_CHAR	$HEA
 $LINE_ENDING_ZELEMIR_DEAD_250_TEXT	묶어라, 봉인하라, 감추어라. 모든 것이 행하여지는도다.
 $LINE_ENDING_ZELEMIR_DEAD_260_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_DEAD_260_TEXT	…….
-$LINE_ENDING_ZELEMIR_DEAD_270_CHAR	에즈틀리-테노크
+$LINE_ENDING_ZELEMIR_DEAD_270_CHAR	에즈틀리-테노크 
 $LINE_ENDING_ZELEMIR_DEAD_270_TEXT	천 년을 더한 세월은 또한 무슨 의미가 있단 말이냐?
-$LINE_ENDING_ZELEMIR_DEAD_280_CHAR	에즈틀리-테노크
+$LINE_ENDING_ZELEMIR_DEAD_280_CHAR	에즈틀리-테노크 
 $LINE_ENDING_ZELEMIR_DEAD_280_TEXT	백 번의 천년을 넘길지라도 인간의 마음은 변하지 않는다! 는 반드시 -
 $LINE_ENDING_ZELEMIR_DEAD_290_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_DEAD_290_TEXT	…….
@@ -3625,7 +3625,7 @@ $LINE_EPILOGUE_50_TEXT	농담입니다.
 $LINE_EPILOGUE_60_CHAR	$MCG
 $LINE_EPILOGUE_60_TEXT	와... 잠깐동안 많은 것들을 다시 생각하게 됐어….
 $LINE_EPILOGUE_70_CHAR	$KNI
-$LINE_EPILOGUE_70_TEXT	어떤 -
+$LINE_EPILOGUE_70_TEXT	어떤 - 
 $LINE_EPILOGUE_80_CHAR	$BER
 $LINE_EPILOGUE_80_TEXT	여어!
 $LINE_EPILOGUE_90_CHAR	$MCG
@@ -3897,7 +3897,7 @@ $LINE_SIDEQUEST_2_INTRO_120_CHAR	$BER
 $LINE_SIDEQUEST_2_INTRO_120_TEXT	그건 그렇고, 망령 친구들이 다가오는군.
 $LINE_SIDEQUEST_2_INTRO_130_CHAR	$MCG
 $LINE_SIDEQUEST_2_INTRO_130_TEXT	그만.
-$SCENE_SIDEQUEST_2_OUTRO_TITLE	생선 토막
+$SCENE_SIDEQUEST_2_OUTRO_TITLE	생선 토막 
 $LINE_SIDEQUEST_2_OUTRO_00_CHAR	$RAN
 $LINE_SIDEQUEST_2_OUTRO_00_TEXT	다 잡았다.
 $LINE_SIDEQUEST_2_OUTRO_10_CHAR	$BER
@@ -4257,68 +4257,68 @@ $LINE_SIDEQUEST_7_INTRO_170_CHAR	의문의 여성
 $LINE_SIDEQUEST_7_INTRO_170_TEXT	이야기를 나눌 사람이 있거든.
 $LINE_SIDEQUEST_7_INTRO_180_CHAR	의문의 여성
 $LINE_SIDEQUEST_7_INTRO_180_TEXT	에즈틀리-테노크란 이름을 말한다. 선으로 말미암아, 부름에 응하라!
-$LINE_SIDEQUEST_7_INTRO_190_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_INTRO_190_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_INTRO_190_TEXT	누구냐? 나의... 틀레틀-메즈틀리인 것이냐….
-$LINE_SIDEQUEST_7_INTRO_200_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_INTRO_200_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_INTRO_200_TEXT	불의-달, 세상의 그 무엇보다도 아름다운 그대. <N>마침내 하인을 이끌고 나를 해방하러 온 것인가?
 $LINE_SIDEQUEST_7_INTRO_210_CHAR	틀레틀-메즈틀리
 $LINE_SIDEQUEST_7_INTRO_210_TEXT	아니... 우리 둘을 자유롭게 하기 위해 왔다.
-$LINE_SIDEQUEST_7_INTRO_220_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_INTRO_220_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_INTRO_220_TEXT	불가능을 이야기하는군.
 $LINE_SIDEQUEST_7_INTRO_230_CHAR	틀레틀-메즈틀리
 $LINE_SIDEQUEST_7_INTRO_230_TEXT	오랫동안 되뇌어왔지만... 보라.
 $LINE_SIDEQUEST_7_INTRO_240_CHAR	틀레틀-메즈틀리
 $LINE_SIDEQUEST_7_INTRO_240_TEXT	열쇠가 바로 옆에 있다 할지라도... 난 여전히 너에게 맞서고 있지 않나.
-$LINE_SIDEQUEST_7_INTRO_250_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_INTRO_250_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_INTRO_250_TEXT	그녀가 이곳에 있단 말인가?
 $LINE_SIDEQUEST_7_INTRO_260_CHAR	틀레틀-메즈틀리
 $LINE_SIDEQUEST_7_INTRO_260_TEXT	그래. 그래서 너에게 맞설 수 있었다!
-$LINE_SIDEQUEST_7_INTRO_270_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_INTRO_270_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_INTRO_270_TEXT	그녀가 여기 있는데도! 어째서 나를 풀어주지 않는가!
 $LINE_SIDEQUEST_7_INTRO_280_CHAR	틀레틀-메즈틀리
 $LINE_SIDEQUEST_7_INTRO_280_TEXT	넌 저항할 수 있다! 넌 선택할 수 있어!
-$LINE_SIDEQUEST_7_INTRO_290_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_INTRO_290_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_INTRO_290_TEXT	비열한 배신자! 내 아이들로 하여금 네가 할 일을 대신해주마!
 $LINE_SIDEQUEST_7_INTRO_300_CHAR	틀레틀-메즈틀리
 $LINE_SIDEQUEST_7_INTRO_300_TEXT	*$MCG! 도와다오! 그를 봉인해야 한다!
 $SCENE_SIDEQUEST_7_OUTRO_TITLE	사르와 살리아
 $LINE_SIDEQUEST_7_OUTRO_00_CHAR	틀레틀-메즈틀리
 $LINE_SIDEQUEST_7_OUTRO_00_TEXT	마음속의 악마들이... 우리를 점점 낮은 존재로 끌어내리고 있다. 우리가 재결합하면 세상은 우리의 포옹에 먹혀버리고 말 것이다!
-$LINE_SIDEQUEST_7_OUTRO_10_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_10_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_10_TEXT	먹히는 것이 아니다. 정화되는 것이며, 단련되는 것이다. 나약함과 더러움, 그리고 멍청한 인간들이 벌이는 하찮은 다툼을 몰아내는 것이다.
 $LINE_SIDEQUEST_7_OUTRO_20_CHAR	틀레틀-메즈틀리
 $LINE_SIDEQUEST_7_OUTRO_20_TEXT	안 돼... 그렇게 둘 순 없어.
-$LINE_SIDEQUEST_7_OUTRO_30_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_30_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_30_TEXT	아직도... 아직도 이런 방식으로 날 사랑하는 건가?
-$LINE_SIDEQUEST_7_OUTRO_40_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_40_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_40_TEXT	너는 우리가 누구인지 잊어버리지 않았나!
 $LINE_SIDEQUEST_7_OUTRO_50_CHAR	틀레틀-메즈틀리
 $LINE_SIDEQUEST_7_OUTRO_50_TEXT	우리가 누구였는지 잊는건 그대이다! <N>그 옛날로 돌아가기를 내가 얼마나 오랫동안 갈망했던가….
 $LINE_SIDEQUEST_7_OUTRO_60_CHAR	틀레틀-메즈틀리
 $LINE_SIDEQUEST_7_OUTRO_60_TEXT	첫 피의 자손 이전으로. 피의 과실과 불타는 달 이전으로. <N>사르와 살리아만이 존재했던 그 날로.
-$LINE_SIDEQUEST_7_OUTRO_70_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_70_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_70_TEXT	그 이름들은 죽었다.
 $LINE_SIDEQUEST_7_OUTRO_80_CHAR	틀레틀-메즈틀리
 $LINE_SIDEQUEST_7_OUTRO_80_TEXT	그때 우리가 어떻게 될지 알았더라면 -
-$LINE_SIDEQUEST_7_OUTRO_90_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_90_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_90_TEXT	알았다 해도 달라지는 것은 없었을 것이다.
-$LINE_SIDEQUEST_7_OUTRO_100_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_100_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_100_TEXT	불가능을 바라는구나.
-$LINE_SIDEQUEST_7_OUTRO_110_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_110_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_110_TEXT	우린 신성의 왕관을 썼다! 우리는 홀로 우민들의 위에 군림하여 심판하고, 인도하며, 또한 도태시킨다! 되돌아갈 곳은 없어.
-$LINE_SIDEQUEST_7_OUTRO_120_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_120_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_120_TEXT	우리의 끔찍한 책임감으로부터 물러나는 것이 가능할 리 없다.
 $LINE_SIDEQUEST_7_OUTRO_130_CHAR	틀레틀-메즈틀리
 $LINE_SIDEQUEST_7_OUTRO_130_TEXT	...이제껏 피로서 나의 이름을 대지에 새겨 왔었으나.
 $LINE_SIDEQUEST_7_OUTRO_140_CHAR	틀레틀-메즈틀리
 $LINE_SIDEQUEST_7_OUTRO_140_TEXT	이젠 과거의 속박에서 벗어나고 싶다.
-$LINE_SIDEQUEST_7_OUTRO_150_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_150_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_150_TEXT	그대는 참으로 어리석구나.
 $LINE_SIDEQUEST_7_OUTRO_160_CHAR	틀레틀-메즈틀리
 $LINE_SIDEQUEST_7_OUTRO_160_TEXT	제발 -
-$LINE_SIDEQUEST_7_OUTRO_170_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_170_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_170_TEXT	그대는 우리의 목적을 부인하는 것인가? <N>우리가 이뤄냈던 모든 것에 등을 돌리고 마는가?
-$LINE_SIDEQUEST_7_OUTRO_180_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_180_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_180_TEXT	우리가 사라진 세계가 어찌 변하고 말았는지 보이지 않느냔 말이다.
 $LINE_SIDEQUEST_7_OUTRO_190_CHAR	틀레틀-메즈틀리
 $LINE_SIDEQUEST_7_OUTRO_190_TEXT	우리가 있었다면 더 끔찍한 것이 만들어졌을 것이다.
@@ -4330,21 +4330,21 @@ $LINE_SIDEQUEST_7_OUTRO_220_CHAR	살리아
 $LINE_SIDEQUEST_7_OUTRO_220_TEXT	...살리아가 너에게 간청할게. 우리에게 자유를.
 $LINE_SIDEQUEST_7_OUTRO_230_CHAR	세일라
 $LINE_SIDEQUEST_7_OUTRO_230_TEXT	내게 파멸이라는 이름의 선물을.
-$LINE_SIDEQUEST_7_OUTRO_240_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_240_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_240_TEXT	…….
-$LINE_SIDEQUEST_7_OUTRO_250_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_250_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_250_TEXT	너에게 남기는 유일한 선물이다.
-$LINE_SIDEQUEST_7_OUTRO_260_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_260_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_260_TEXT	…….
-$LINE_SIDEQUEST_7_OUTRO_270_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_270_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_270_TEXT	그렇게 마지막 필멸의 옷을 벗어 던지는군.
-$LINE_SIDEQUEST_7_OUTRO_280_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_280_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_280_TEXT	곧 이 하찮은 세상을 신의 손으로 책망하며 또한 꾸짖으리라.
-$LINE_SIDEQUEST_7_OUTRO_290_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_290_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_290_TEXT	*각오해라, $MCG.
-$LINE_SIDEQUEST_7_OUTRO_300_CHAR	에즈티-테네크
+$LINE_SIDEQUEST_7_OUTRO_300_CHAR	에즈티-테네크 
 $LINE_SIDEQUEST_7_OUTRO_300_TEXT	넌 내게서... 여왕을 빼앗아 갔다….
-$LINE_SIDEQUEST_7_OUTRO_310_CHAR	에즈틀리-테노크
+$LINE_SIDEQUEST_7_OUTRO_310_CHAR	에즈틀리-테노크 
 $LINE_SIDEQUEST_7_OUTRO_310_TEXT	하지만 넌 위대함의 전달자가 될 것이다…. 모든 인류를 위하여.
 $LINE_SIDEQUEST_7_OUTRO_320_CHAR	$MCG
 $LINE_SIDEQUEST_7_OUTRO_320_TEXT	…….
@@ -4451,7 +4451,7 @@ $LINE_HERMIT_4_INTRO_40_TEXT	고객님 머리 속을 뒤죽박죽으로 만드�
 $LINE_HERMIT_4_INTRO_50_CHAR	$MCG
 $LINE_HERMIT_4_INTRO_50_TEXT	...물론이지.
 $LINE_HERMIT_4_INTRO_60_CHAR	$MCG
-$LINE_HERMIT_4_INTRO_60_TEXT	당신은 마법의, 신비의, 아니면 초자연적이라든가 뭐 그런 해골을 모으는거지?
+$LINE_HERMIT_4_INTRO_60_TEXT	당신은 마법의, 신비의, 아니면 초자연적이라든가 뭐 그런 해골을 모으는거지? 
 $LINE_HERMIT_4_INTRO_70_CHAR	은둔자
 $LINE_HERMIT_4_INTRO_70_TEXT	전부 다! 자네는 뭐 좀 얻었나?
 $LINE_HERMIT_4_INTRO_80_CHAR	$MCG
@@ -4461,7 +4461,7 @@ $LINE_HERMIT_4_INTRO_90_TEXT	*오랜 친구에게 무슨 말을 그렇게 하나
 $LINE_HERMIT_4_INTRO_100_CHAR	$MCG
 $LINE_HERMIT_4_INTRO_100_TEXT	…….
 $LINE_HERMIT_4_INTRO_110_CHAR	은둔자
-$LINE_HERMIT_4_INTRO_110_TEXT	그러니깐, 내 형제들에게 오랜 친구! 걔들이 너에 대한 이야기를 해줬거든!
+$LINE_HERMIT_4_INTRO_110_TEXT	그러니깐, 내 형제들에게 오랜 친구! 걔들이 너에 대한 이야기를 해줬거든! 
 $LINE_HERMIT_4_INTRO_120_CHAR	은둔자
 $LINE_HERMIT_4_INTRO_120_TEXT	아니면 내가 어떻게 그쪽 이름을 알고 있겠나?
 $LINE_HERMIT_4_INTRO_130_CHAR	은둔자

@@ -248,7 +248,7 @@ $UI_CONTROLS_CHARACTER	Personaggio
 $UI_CONTROLS_TARGET	Bersaglio
 $UI_CONTROLS_PAUSE	Pausa
 $UI_CONTROLS_MINUS_SPEED	- Velocità
-$UI_CONTROLS_PLUS_SPEED	#NAME?
+$UI_CONTROLS_PLUS_SPEED	+ Velocità
 $UI_CONTROLS_BOOST	Potenzia
 $UI_CONTROLS_RECALL	Richiama
 $UI_CONTROLS_BACK	Indietro
@@ -386,9 +386,9 @@ $UI_MOD_INSTALL_ERROR2	Spiacente, non è stato possibile installare il Mod.
 $UI_DEFQ_MODS	Mod
 $UI_MOD_TITLE	Mod
 $UI_MOD_DATA_ONLY	Solo Dati (1MB)
-$UI_MOD_SPRITES	#ERROR!
-$UI_MOD_MOVIES	#ERROR!
-$UI_MOD_BKGS	#ERROR!
+$UI_MOD_SPRITES	 +4MB di sprite
+$UI_MOD_MOVIES	 +13MB di scenette
+$UI_MOD_BKGS	 +42MB di sfondi
 $UI_MOD_TEMPLATE_SETTINGS	Scegli i file da esportare
 $UI_MOD_SELECT_DIR	Scegli Cartella Mod
 $UI_SAVE_SELECT_DIR	Scegli Cartella Salvataggi
@@ -490,17 +490,17 @@ $FB_PERSISTENT_OK	Alla fine ho vinto io!
 $FB_THIS_ITEM_WILL_NOW	Questo oggetto ora apparirà sempre nell'inventario di qualsiasi giocatore.
 $DEFQ2_CLICK_TEXT	Defender's Quest II è in arrivo!<N>Dagli un'occhiata e vinci questo premio!
 $DEFQ2_SECOND_PITCH	Puoi ancora ottenere il premio<N>visitando il sito di<N>Defender's Quest II!
-$BOOK_PSI_TAX	Tassa PSI:
+$BOOK_PSI_TAX	Tassa PSI: 
 $BOOK_COST_MULT	Costo dell'incantesimo x
 $BOOK_COOL_MULT	Ricarica dell'incantesimo x
-$STATUS_DESC_FB_HAPPY	#ERROR!	COMMENT: Status descriptions have LOTS of variables. Ask Lars is you have any questions.
+$STATUS_DESC_FB_HAPPY	+<PERCENT>% velocità.	COMMENT: Status descriptions have LOTS of variables. Ask Lars is you have any questions.
 $STATUS_DESC_FB_SAD	-<PERCENT>% velocità.
 $STATUS_DESC_FB_BORED	Non ha voglia di muoversi.
-$STATUS_DESC_FB_LOL	#ERROR!
-$STATUS_DESC_FB_OMG	#ERROR!
+$STATUS_DESC_FB_LOL	+<PERCENT>% velocità.
+$STATUS_DESC_FB_OMG	+<PERCENT>% velocità, -<PERCENT>% resistenza danni.
 $STATUS_DESC_EXISTENTIAL	-<PERCENT>% velocità, +<PERCENT>% resistenza danni.
 $STATUS_DESC_TROLL	Schiva il <PERCENT> % degli attacchi.
-$STATUS_DESC_ANONYMOUS	#ERROR!
+$STATUS_DESC_ANONYMOUS	+<PERCENT>% possibilità di schivare. Colpisce sempre i TROLL per <PERCENT2>% danno
 $STATUS_DESC_DARK	Schiva gli attacchi non ad area d'effetto il <PERCENT>% delle volte.
 $STATUS_DESC_LIGHT	Rimuove oscurità.
 $STATUS_DESC_FRENZY	Aumenta la velocità del <M_MULT_PERCENT>%
@@ -636,7 +636,7 @@ $MISC_ACHIEVEMENT!	Achievement!
 $BASE_ATTACK	Attacco base
 $BONUS_DEFENSE	Difesa bonus
 $DECIMATE_BY	Riduce i PV del <PERCENT>%
-$EN_SPELL_FRENZY_DESC	#ERROR!
+$EN_SPELL_FRENZY_DESC	+<PERCENT>% velocità per <SEC> sec
 $EN_SPELL_HEAL_DESC	Guarisce: <PERCENT> PV
 $EN_SPELL_DRAGON_FIRE_1_DESC	<DMG> DANNO
 $EN_SPELL_DRAGON_FIRE_2_DESC	<LOW>-<HIGH> DANNO
@@ -858,7 +858,7 @@ $MISC_MOVIES	Scene
 $MISC_OPTIONS	Opzioni
 $MISC_CREDITS	Crediti
 $MISC_PARTY	Gruppo
-$MISC_ERROR	errore",
+$MISC_ERROR	errore", 
 $"$MISC_ERROR!	errore!
 $MISC_BONUS	Bonus
 $MISC_TIPS	Consigli
@@ -889,8 +889,8 @@ $REWARD_FINISH	Finisce il gioco
 $REWARD_QUEST	Missione completata
 $REWARD_NO_XP	Niente!
 $REWARD_NO_GOLD	Niente!
-$REWARD_XP	#ERROR!
-$REWARD_GOLD	#ERROR!
+$REWARD_XP	+ <XP> ESP
+$REWARD_GOLD	+ <GOLD> Scarti
 $HERO_BLURB_SLAK	Uno strano giovane, tanto coraggioso quanto instabile...
 $HERO_BLURB_KETTA	Una cacciatrice nomade, cinica e disillusa...
 $HERO_BLURB_BAKAL	Un vecchio monaco dai modi gentili, in cerca di perdono per i suoi peccati...
@@ -1043,7 +1043,7 @@ $MISC_PLUS_X%_TO_DEFENSE_MULT	<PLUS_OR_MINUS><X>% to DEFENSE
 $MISC_PLUS_X%_TO_DODGE	<PLUS_OR_MINUS><X> to EVASION
 $MISC_PLUS_X%_TO_EVADE	<RE>$MISC_PLUS_X%_TO_DODGE
 $MISC_PLUS_X%_TO_REGEN_MULT	<PLUS_OR_MINUS><X>% to REGENERATION
-$MISC_PLUS_X_STAT	#ERROR!
+$MISC_PLUS_X_STAT	+<X> <STAT>
 $MISC_PLUS_X_TO_ARMOR_ABS	<PLUS_OR_MINUS><X> to ARMOR
 $MISC_PLUS_X_TO_ATTACK	<PLUS_OR_MINUS><X> to ATTACK
 $MISC_PLUS_X_TO_ATTACK_SPEED	<PLUS_OR_MINUS><X> to SPEED
@@ -1154,5 +1154,5 @@ $UI_VIDEO_SCREEN_SIZE	Game Window Size
 $UI_VIDEO_SD	Standard (4:3)
 $UI_VIDEO_SELECT_NEW	Select New...
 $UI_VIDEO_SPRITES	Sprites
-$WEAK_DMG_MULT	#ERROR!
+$WEAK_DMG_MULT	+<PERCENT>% extra DMG from <FLAVOR>
 $YOU_GOT_MONEY	You got <MONEY> scrap!

@@ -239,7 +239,7 @@ $UI_CONTROLS_CHARACTER	Postava
 $UI_CONTROLS_TARGET	Cíl
 $UI_CONTROLS_PAUSE	Pauza
 $UI_CONTROLS_MINUS_SPEED	- rychlost
-$UI_CONTROLS_PLUS_SPEED	#NAME?
+$UI_CONTROLS_PLUS_SPEED	+ rychlost
 $UI_CONTROLS_BOOST	Vylepši
 $UI_CONTROLS_RECALL	Odvolej
 $UI_CONTROLS_BACK	Zpět
@@ -373,9 +373,9 @@ $UI_MOD_INSTALL_ERROR2	Rozšíření se nepodařilo nainstalovat.
 $UI_DEFQ_MODS	Rozšíření
 $UI_MOD_TITLE	Rozšíření
 $UI_MOD_DATA_ONLY	Jen data (1MB)
-$UI_MOD_SPRITES	#ERROR!
-$UI_MOD_MOVIES	#ERROR!
-$UI_MOD_BKGS	#ERROR!
+$UI_MOD_SPRITES	 +4MB grafiky postav
+$UI_MOD_MOVIES	 +13MB scén
+$UI_MOD_BKGS	 +42MB obrázků pozadí
 $UI_MOD_TEMPLATE_SETTINGS	Nastavení šablon rozšíření
 $UI_MOD_SELECT_DIR	Vyber adresář pro rozšíření
 $UI_SAVE_SELECT_DIR	Vyber adresář pro pozice
@@ -475,17 +475,17 @@ $FB_PERSISTENT_NUMS	yes_font:16,no_font:16,yes_off_y:0,yes_off_x:0,no_off_y:0,no
 $FB_THIS_ITEM_WILL_NOW	Odteď bude tenhle kousek k dispozici ve výbavě všech hráčů.
 $DEFQ2_CLICK_TEXT	Defender's Quest II je na cestě!<N>Koukni na to a dostaneš odměnu!
 $DEFQ2_SECOND_PITCH	Odměna je pořád k dispozici výměnou <N>za návštěvu webu <N>Defender's Quest II!
-$BOOK_PSI_TAX	PSI daň:
-$BOOK_COST_MULT	Cena kouzla krát
-$BOOK_COOL_MULT	Obnovení kouzla krát
-$STATUS_DESC_FB_HAPPY	#ERROR!	COMMENT: Status descriptions have LOTS of variables. Ask Lars is you have any questions.
+$BOOK_PSI_TAX	PSI daň: 
+$BOOK_COST_MULT	Cena kouzla krát 
+$BOOK_COOL_MULT	Obnovení kouzla krát 
+$STATUS_DESC_FB_HAPPY	+<PERCENT>% rychlost.	COMMENT: Status descriptions have LOTS of variables. Ask Lars is you have any questions.
 $STATUS_DESC_FB_SAD	-<PERCENT> % rychlosti.
 $STATUS_DESC_FB_BORED	Nebudu se obtěžovat s pohybem.
-$STATUS_DESC_FB_LOL	#ERROR!
-$STATUS_DESC_FB_OMG	#ERROR!
+$STATUS_DESC_FB_LOL	+<PERCENT> % rychlosti.
+$STATUS_DESC_FB_OMG	+<PERCENT> % rychlosti, -<PERCENT> % odolnosti.
 $STATUS_DESC_EXISTENTIAL	-<PERCENT> % rychlosti, +<PERCENT> % odolnosti.
 $STATUS_DESC_TROLL	Uhýbá útokům s <PERCENT>% pravděpodobností.
-$STATUS_DESC_ANONYMOUS	#ERROR!
+$STATUS_DESC_ANONYMOUS	+<PERCENT> % šance na uhnutí. Trolly trefí vždy za <PERCENT2> % poškození
 $STATUS_DESC_DARK	Uhýbá cíleným útokům s <PERCENT>% pravděpodobností.
 $STATUS_DESC_LIGHT	Odstraňuje temnotu.
 $STATUS_DESC_FRENZY	Útoky zrychlené o <M_MULT_PERCENT> %
@@ -619,7 +619,7 @@ $MISC_ACHIEVEMENT!	Úspěch!
 $BASE_ATTACK	Základní útok
 $BONUS_DEFENSE	Bonus k obraně
 $DECIMATE_BY	Zdecimuje o <PERCENT> %
-$EN_SPELL_FRENZY_DESC	#ERROR!
+$EN_SPELL_FRENZY_DESC	+<PERCENT> rychlosti na <SEC> sek.
 $EN_SPELL_HEAL_DESC	Uzdrav: <PERCENT> HP
 $EN_SPELL_DRAGON_FIRE_1_DESC	<DMG> poš.
 $EN_SPELL_DRAGON_FIRE_2_DESC	<LOW>-<HIGH> poš.
@@ -868,8 +868,8 @@ $REWARD_FINISH	Ukončí hru
 $REWARD_QUEST	Úkol splněn
 $REWARD_NO_XP	Nic!
 $REWARD_NO_GOLD	Nic!
-$REWARD_XP	#ERROR!
-$REWARD_GOLD	#ERROR!
+$REWARD_XP	+ <XP> XP
+$REWARD_GOLD	+ <GOLD> prachů
 $HERO_BLURB_SLAK	Podivný mladý muž, odvážný a labilní...
 $HERO_BLURB_KETTA	Nomádská lovkyně, cynická a protřelá...
 $HERO_BLURB_BAKAL	Starý mnich s jemným hlasem, hledající odpuštění za své hříchy...
@@ -941,7 +941,7 @@ $TIP_140_TEXT	Kromě základního nastavení jsou zde ještě další čtyři vo
 $TIP_150_TITLE	Oheň a led
 $TIP_150_TEXT	Oheň a led spolu nejdou dohromady. Ochlazení a zmrazení zruší hoření, oheň zase zruší ochlazení a zmražení.
 $TIP_160_TITLE	Vyšší obtížnosti
-$TIP_160_TEXT	Těžká' a 'Extrémně těžká' obtížnost budou napoprvé nejspíš příliš těžké.<N><N>Můžeš to zkusit, až pár dalších bitev zvládneš na normální obtížnost.
+$TIP_160_TEXT	'Těžká' a 'Extrémně těžká' obtížnost budou napoprvé nejspíš příliš těžké.<N><N>Můžeš to zkusit, až pár dalších bitev zvládneš na normální obtížnost.
 $TIP_170_TITLE	Vybavení
 $TIP_170_TEXT	Když si pořídíš nové vybavení pro své hrdiny, jejich staré vybavení se nejspíš bude hodit dalším obráncům ve tvé skupině.
 $TIP_180_TITLE	V davu je síla
@@ -1033,7 +1033,7 @@ $MISC_PLUS_X%_TO_DEFENSE_MULT	<PLUS_OR_MINUS><X>% to DEFENSE
 $MISC_PLUS_X%_TO_DODGE	<PLUS_OR_MINUS><X> to EVASION
 $MISC_PLUS_X%_TO_EVADE	<RE>$MISC_PLUS_X%_TO_DODGE
 $MISC_PLUS_X%_TO_REGEN_MULT	<PLUS_OR_MINUS><X>% to REGENERATION
-$MISC_PLUS_X_STAT	#ERROR!
+$MISC_PLUS_X_STAT	+<X> <STAT>
 $MISC_PLUS_X_TO_ARMOR_ABS	<PLUS_OR_MINUS><X> to ARMOR
 $MISC_PLUS_X_TO_ATTACK	<PLUS_OR_MINUS><X> to ATTACK
 $MISC_PLUS_X_TO_ATTACK_SPEED	<PLUS_OR_MINUS><X> to SPEED
@@ -1144,5 +1144,5 @@ $UI_VIDEO_SCREEN_SIZE	Game Window Size
 $UI_VIDEO_SD	Standard (4:3)
 $UI_VIDEO_SELECT_NEW	Select New...
 $UI_VIDEO_SPRITES	Sprites
-$WEAK_DMG_MULT	#ERROR!
+$WEAK_DMG_MULT	+<PERCENT>% extra DMG from <FLAVOR>
 $YOU_GOT_MONEY	You got <MONEY> scrap!

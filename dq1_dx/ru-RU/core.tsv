@@ -11,7 +11,7 @@ $ACTIONS_BATTLE_PAUSE	<RE>$MISC_PAUSE
 $ACTIONS_BATTLE_SELECT	<RE>$BATTLE_SELECT_UNIT
 $ACTIONS_BATTLE_SPEED_MINUS	Медленнее
 $ACTIONS_BATTLE_SPEED_PLUS	Быстрее
-$ACTIONS_BATTLE_SPELL_SPAM	Повторить заклинание
+$ACTIONS_BATTLE_SPELL_SPAM	Повторить заклинание 
 $ACTIONS_BATTLE_SPELLS	Заклинания
 $ACTIONS_BATTLE_TILE_MOVE	<RE>$BATTLE_TILE_MOVE
 $ACTIONS_BATTLECONTROLS	Битва
@@ -85,14 +85,14 @@ $DEMO_OVER_ENORMOUS	Нажмите кнопку, чтобы продолжить
 $DEMO_OVER_ENORMOUS_2	Нажмите кнопку, чтобы продолжить ваше приключение!
 $DEMO_OVER_EXPORT_HOW	Переместить файл сохранения с помощью этой кнопки.
 $DEMO_OVER_FULL_GAME	Получить ПОЛНУЮ ВЕРСИЮ!
-$DEMO_OVER_FULL_GAME_SHORT	ПОЛНАЯ<N>ИГРА!
+$DEMO_OVER_FULL_GAME_SHORT	ПОЛНАЯ<N>ИГРА!	
 $DEMO_OVER_PLAY	Продолжайте играть!
 $DEMO_OVER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
 $DEMO_OVER_THANKS	Спасибо за игру!
 $DEMO_OVER_USE_IT	Используйте это, чтобы продолжить с места, где вы закончили!
 $EN_SPELL_DRAGON_FIRE_1_DESC	<DMG> УРОН
 $EN_SPELL_DRAGON_FIRE_2_DESC	<LOW>-<HIGH> УРОН
-$EN_SPELL_FRENZY_DESC	#ERROR!
+$EN_SPELL_FRENZY_DESC	+<PERCENT> скорости на <SEC> сек
 $EN_SPELL_HEAL_DESC	Вылечить: <PERCENT> здоровья
 $END	end
 $ERROR_CONTEXT	контекст
@@ -165,7 +165,7 @@ $FLAV_DESC_STUN_SHORT	Враг временно обездвижен.
 $GAMEPAD_A	Кнопка A
 $GAMEPAD_B	Кнопка B
 $GAMEPAD_BACK	Кнопка Back
-$GAMEPAD_BUTTON_SPACER	
+$GAMEPAD_BUTTON_SPACER
 $GAMEPAD_DPAD	Навигационная крестовина
 $GAMEPAD_DPAD_DOWN	Крестовина вниз
 $GAMEPAD_DPAD_LEFT	Крестовина влево
@@ -226,7 +226,7 @@ $LOGITECH_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
 $LOGITECH_RIGHT_SHOULDER	Кнопка 6 (правое курок)
 $LOGITECH_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
 $LOGITECH_RIGHT_TRIGGER	Триггер 8 (правый аналоговый)
-$LOGITECH_START	Кнопка 10 (start)
+$LOGITECH_START	Кнопка 10 (start) 
 $LOGITECH_X	Кнопка 1 (перед)
 $LOGITECH_Y	Кнопка 4 (перед)
 $LQ	“
@@ -449,7 +449,7 @@ $MISC_PLUS_X%_TO_DEFENSE_MULT	<PLUS_OR_MINUS><X>% к ЗАЩИТЕ
 $MISC_PLUS_X%_TO_DODGE	<PLUS_OR_MINUS><X> к УКЛОНЕНИЮ
 $MISC_PLUS_X%_TO_EVADE	<RE>$MISC_PLUS_X%_TO_DODGE
 $MISC_PLUS_X%_TO_REGEN_MULT	<PLUS_OR_MINUS><X>% к РЕГЕНЕРАЦИИ
-$MISC_PLUS_X_STAT	#ERROR!
+$MISC_PLUS_X_STAT	+<X> <STAT>
 $MISC_PLUS_X_TO_ARMOR_ABS	<PLUS_OR_MINUS><X> к БРОНЕ
 $MISC_PLUS_X_TO_ATTACK	<PLUS_OR_MINUS><X> к АТАКЕ
 $MISC_PLUS_X_TO_ATTACK_SPEED	<PLUS_OR_MINUS><X> к СКОРОСТИ
@@ -742,12 +742,12 @@ $PSVITA_START	<RE>$GAMEPAD_START
 $PSVITA_X	<RE>$PS4_X
 $PSVITA_Y	<RE>$PS4_Y
 $REWARD_FINISH	Конец игры
-$REWARD_GOLD	#ERROR!
+$REWARD_GOLD	+ <GOLD> БАБОСОВ
 $REWARD_NEXT_LEVEL	Следующий уровень
 $REWARD_NO_GOLD	Ничего!
 $REWARD_NO_XP	Ничего!
 $REWARD_QUEST	Квест завершен
-$REWARD_XP	#ERROR!
+$REWARD_XP	+ <XP> ОПЫТА
 $RQ	”
 $SAVE_SLOT_DELETE	Удалить
 $SAVE_SLOT_DELETE_TEXT	Полностью удалить этот слот сохранения с компьютера. Вы ведь знаете, что вы делаете, не так ли?
@@ -777,7 +777,7 @@ $SKILL_DESC_HEAL	Лечение
 $SKILL_DESC_HITS	Удары
 $SKILL_DESC_HITS_NUM	# Ударов
 $SKILL_DESC_PSI_COST	Расход пси
-$SKILL_DESC_SPECIAL	
+$SKILL_DESC_SPECIAL
 $SKILL_DESC_SPLASH	Брызги
 $SKILL_DESC_TARGET	Цель
 $SKILL_DESC_TOTAL_BONUS	Общий бонус к <STAT>* станет +<AMOUNT><EXTRA>.
@@ -798,7 +798,7 @@ $STAT_DESC_EVADE	Шанс избежать атаки противника.
 $STAT_DESC_EVADE_ENEMY	Шанс избежать атаки.
 $STAT_DESC_FINAL_HIT	УЩЕРБ<N>Сколько урона <FINAL_HIT_TARGET> получает, если враг дойдет до конца.
 $STAT_DESC_HP	ЗДОРОВЬЕ<N>Если оно достигнет 0, то персонаж покинет поле боя.
-$STAT_DESC_PHASING	ПЕРИОДИЧНОСТЬ<N>Периодическое появление и скрытие. Нельзя выбрать или ударить по скрытому объекту.
+$STAT_DESC_PHASING	"ПЕРИОДИЧНОСТЬ<N>Периодическое появление и скрытие. Нельзя выбрать или ударить по скрытому объекту".
 $STAT_DESC_RANGE	РАДИУС<N>Радиус атаки.
 $STAT_DESC_RANGE_ENEMY	РАДИУС<N>Радиус атаки.
 $STAT_DESC_REGEN	РЕГЕНЕРАЦИЯ<N>Скорость восстановления ЗДОРОВЬЯ в ЗД/сек.
@@ -816,7 +816,7 @@ $STATE_CRASH_PROMPT	Что бы вы хотели сделать?
 $STATE_CRASH_SEND	Отправить отчет<N>разработчикам
 $STATE_CRASH_SHOW_DUMP	Показать<N>файлы дампа
 $STATE_CRASH_TITLE	Критическая ошибка!
-$STATUS_DESC_ANONYMOUS	#ERROR!
+$STATUS_DESC_ANONYMOUS	+<PERCENT>% к шансу увернуться.
 $STATUS_DESC_BLEED	Получает +<PERCENT>% УРОНА
 $STATUS_DESC_BLINDED	Промахивается <PERCENT>% времени.
 $STATUS_DESC_BURN	<AMT_1DIG> УРОНА/сек<N>Отменяется  льдом.
@@ -828,9 +828,9 @@ $STATUS_DESC_EVER_BLEED	<RE>$STATUS_DESC_BLEED
 $STATUS_DESC_EVER_POISON	<INTI> УРОНА/сек.
 $STATUS_DESC_FB_BORED	Заскучал и не двигается.
 $STATUS_DESC_EXISTENTIAL	-<PERCENT>% скорость, +<PERCENT>% сопротивления урону.
-$STATUS_DESC_FB_HAPPY	#ERROR!
-$STATUS_DESC_FB_LOL	#ERROR!
-$STATUS_DESC_FB_OMG	#ERROR!
+$STATUS_DESC_FB_HAPPY	+<PERCENT>% скорость.
+$STATUS_DESC_FB_LOL	+<PERCENT>% скорость.
+$STATUS_DESC_FB_OMG	+<PERCENT>% скорость, -<PERCENT>% сопротивление урону.
 $STATUS_DESC_FB_SAD	-<PERCENT>% скорость.
 $STATUS_DESC_FIRE	<RE>$STATUS_DESC_BURN
 $STATUS_DESC_FREEZE	Не может двигаться.<N>Отменяется огнем.
@@ -898,7 +898,7 @@ $TIP_140_TEXT	В дополнение к основным параметрам �
 $TIP_140_TITLE	Продвинутый выбор цели
 $TIP_150_TEXT	Огонь и лед не могут работать вместе. Холод и заморозка отменят огонь, и наоборот.
 $TIP_150_TITLE	Огонь и лед
-$TIP_160_TEXT	Сложный' и 'экстрим' уровни сложности, как правило, будут вам не по зубам, если попытаться сыграть в них сразу же.<N><N>Попробуйте вернуться к ним после того, как вы пройдете следующие несколько битв на нормальной сложности.
+$TIP_160_TEXT	'Сложный' и 'экстрим' уровни сложности, как правило, будут вам не по зубам, если попытаться сыграть в них сразу же.<N><N>Попробуйте вернуться к ним после того, как вы пройдете следующие несколько битв на нормальной сложности.
 $TIP_160_TITLE	Повышенная сложность
 $TIP_170_TEXT	После покупки нового снаряжения для ваших героев, старое снаряжение может еще послужить другим членам вашей группы.
 $TIP_170_TITLE	Снаряжение
@@ -1038,7 +1038,7 @@ $UI_CONTROLS_AUTO	Автоопределение
 $UI_CONTROLS_BACK	Назад
 $UI_CONTROLS_BACK_NUMS	off_x:-8,off_y:-45,btn_off_x:0,btn_off_y:-5
 $UI_CONTROLS_BACK_CANCEL	Назад/Отмена
-$UI_CONTROLS_BOOST	Повысить
+$UI_CONTROLS_BOOST	Повысить    
 $UI_CONTROLS_BOOST_NUMS	off_x:0,off_y:-45,btn_off_x:0,btn_off_y:-5
 $UI_CONTROLS_CANCEL	Отмена
 $UI_CONTROLS_CHARACTER	Персонаж
@@ -1223,14 +1223,14 @@ $UI_MISC_NUMS	font:18,off_y:1,off_x:-2
 $UI_MISC_TITLE	Разное
 $UI_MOD_ALL_FILES	Все файлы (*.*)
 $UI_MOD_AUTHOR	Автор
-$UI_MOD_BKGS	#ERROR!
+$UI_MOD_BKGS	 +42M картинок
 $UI_MOD_BROWSE_QUEUE	Мои моды
 $UI_MOD_BROWSE_WORKSHOP	Мастерская Steam
 $UI_MOD_CREATE_NEW	Создать новый мод
 $UI_MOD_DATA_ONLY	Только данные (1M)
 $UI_MOD_DEFQ_SAVE	Файлы сохранений Defender's Quest (*.dfq)
 $UI_MOD_DOWNLOAD	Мод загружается
-$UI_MOD_DOWNLOAD_TEXT	
+$UI_MOD_DOWNLOAD_TEXT
 $UI_MOD_EDIT	Правка
 $UI_MOD_EXISTS	Найден мод.<N>Загрузить его?
 $UI_MOD_EXPORT_CANCEL	Экспорт отменен!
@@ -1257,7 +1257,7 @@ $UI_MOD_MISSING	Не найден settings.xml.<N>Либо тут нет мод�
 $UI_MOD_MISSING_SUBSCRIBE	Подписывание файлов
 $UI_MOD_MISSING_SUBSCRIBE_TEXT	Хотите загрузить:<N><NUM> подписанных файлов редактора?
 $UI_MOD_MOD_INCOMPAT_TEXT	<N>Этот файл из другого мода,<N>он может быть не совместим.<N><N>Импортировать все равно?
-$UI_MOD_MOVIES	#ERROR!
+$UI_MOD_MOVIES	 +13M видеороликов
 $UI_MOD_NAME	Введите имя для мода
 $UI_MOD_NORM_INCOMPAT_TEXT	<N>Мод активен, но этот<N>файл из обычной игры,<N>он может быть не совместим.<N><N>Импортировать все равно?
 $UI_MOD_NOT_DIR	Что?!<N>Это даже не каталог!<N>Попробуйте еще раз.
@@ -1271,7 +1271,7 @@ $UI_MOD_SHARE_TEXT_LOCAL	Ваш мод будет упакован в один �
 $UI_MOD_SHARE_TEXT_STEAM	Ваш мод будет упакован и отправлен в мастерскую Steam.
 $UI_MOD_SHARE_TITLE	Отправить мод
 $UI_MOD_SHARED	Отправлено
-$UI_MOD_SPRITES	#ERROR!
+$UI_MOD_SPRITES	 +4M изображений
 $UI_MOD_STEAM_SEND	Отправка в Steam
 $UI_MOD_STEAM_UPLOAD	Отправка в Steam...
 $UI_MOD_STEAM_WAIT	Ждем ответа от  Steam...<N>(Надо немного подождать)
@@ -1298,8 +1298,8 @@ $UI_MOD_ZIP_STEAM_FINISH_TEXT	Мод успешно загружен в<N>мас
 $UI_MOD_ZIPPING	Упаковка файлов мода
 $UI_MOVIE_END	конец
 $UI_MOVIE_NUMS	font:11,tabs:4
-$UI_MOVIE_QUEST	квест
-$UI_MOVIE_SCENE	Сцена
+$UI_MOVIE_QUEST	 квест
+$UI_MOVIE_SCENE	 Сцена
 $UI_MOVIE_SELECT_A_MOVIE	Выберите ролик
 $UI_MUSIC	Музыка:
 $UI_NORM_MOD_INCOMPAT_TEXT	<N>Этот файл из мода,<N>он может быть не совместим.<N><N>Импортировать все равно?
@@ -1392,7 +1392,7 @@ $UI_UPDATER_TRY_AGAIN	Еще раз
 $UI_UPDATER_TRYING_30	Соединение через 30 секунд
 $UI_UPDATER_UPDATE_EXISTS	Доступна обновленная версия!
 $UI_VIDEO_AOE	Подсвечивать атаки по площади
-$UI_VIDEO_BIT_DEPTH	Цвет
+$UI_VIDEO_BIT_DEPTH	     Цвет
 $UI_VIDEO_CAN_SLOW_GAME	(Может замедлить игру)
 $UI_VIDEO_CHANGE_RES	Изменить разрешение
 $UI_VIDEO_CHANGE_RES_BUTTON	Изменить!
@@ -1432,7 +1432,7 @@ $UI_VIDEO_WARNING2	К сожалению, ваша конфигурация си
 $UI_VIDEO_WARNING3	В режиме совместимости отключена смена разрешения.<N><N>Приносим свои извинения!
 $UI_VIDEO_WIDESCREEN	(Широкий 16:9)
 $UI_VIDEO_WINDOWED	Оконный
-$WEAK_DMG_MULT	#ERROR!
+$WEAK_DMG_MULT	+<PERCENT>% дополнительно УРОНА от <FLAVOR>
 $WIIU_A	Кнопка B
 $WIIU_B	Кнопка A
 $WIIU_BACK	Кнопка - (select)

@@ -24,7 +24,7 @@ $DEMO_OVER_FULL_GAME	Obtenir le JEU COMPLET !
 $DEMO_OVER_FULL_GAME_SHORT	JEU<N>COMPLET !	COMMENT: <N> means a line break. <N> works too, but not <N> or <n>
 $DEMO_OVER_ACTS	Actes<N>III & IV
 $ERROR_TITLE	Une erreur est survenue !
-$ERROR_NUMBER	Erreur
+$ERROR_NUMBER	Erreur 
 $#ERROR_CONTEXT	contexte
 $ERROR_MESSAGE	message
 $ERROR_STACK	trace de la pile
@@ -66,8 +66,8 @@ $PARTY_PASSED++_DESC	<MCG> a été blessée !<N><ALLY> s'en est sorti indemne 
 $PARTY_DEFEATED_WAVE_X	A vaincu la vague <X>
 $PARTY_REACHED_WAVE_X	A atteint la vague <X>
 $PARTY_NO_POINTS	Aucun point de compétence à réaffecter !
-$PARTY_NO_AFFORD	Vous ne pouvez pas vous payer ceci !<N>Coût : <COST><N>Camelote : <SCRAP>
-$PARTY_RE_ASSIGN	Réaffecter tous les points de <NAME> ?<N>Coût : <COST><N>Camelote : <SCRAP>
+$PARTY_NO_AFFORD	Vous ne pouvez pas vous payer ceci !<N>Coût : <COST><N>Camelote : <SCRAP>	
+$PARTY_RE_ASSIGN	Réaffecter tous les points de <NAME> ?<N>Coût : <COST><N>Camelote : <SCRAP>	
 $PARTY_CHANGE_NAME	Renommer
 $PARTY_CONFIRM_POINTS_1_1	Affecter définitivement 1 point de compétence à 1 personnage ?	COMMENT: There are 4 variants here to handle the various pluralizations
 $PARTY_CONFIRM_POINTS_1_X	Affecter définitivement 1 point de compétence à <CHARS> personnages ?
@@ -83,7 +83,7 @@ $PARTY_REDESIGN	Relooker
 $UI_EQUIP_NAME	Nom
 $UI_EQUIP_STAT	Stats
 $UI_EQUIP_OWNER	Équipé par
-$UI_EQUIP_SHOW_EQUIPPED	Montrer équipé
+$UI_EQUIP_SHOW_EQUIPPED	Montrer équipé	
 $UI_EQUIP_CLASS_CANT_W	Cette classe ne peut pas équiper d'arme !
 $UI_EQUIP_CLASS_CANT_A	Cette classe ne peut pas équiper d'armure !
 $UI_EQUIP_ALL_W_SWORD	Toutes les épées ont été équipées !
@@ -121,7 +121,7 @@ $UI_SFX	Bruitages :
 $UI_MUSIC	Musique :
 $UI_ACCESS_REWARDS	RÉCOMPENSES
 $UI_ACCESS_PENALTIES	PÉNALITÉS
-$UI_ACCESS_DEFAULT	*Configuration par défaut
+$UI_ACCESS_DEFAULT	*Configuration par défaut	
 $UI_ACCESS_FAIL	ÉCHEC
 $UI_ACCESS_ABSENCE	ABSENCE
 $UI_ACCESS_FLASHING	Effets de flash
@@ -175,7 +175,7 @@ $UI_UPDATER_NOTE	Note :
 $UI_UPDATER_SECURITY	Pour des raisons de sécurité, vous devez lancer l'installateur téléchargé manuellement.<N><N>Ce programme va naviguer jusqu'à l'emplacement du téléchargement de votre fichier.
 $UI_UPDATER_INSTALLING	Installation de la mise à jour...
 $UI_UPDATER_EXITING	Sortie de l'application...
-$UI_DEFENDER_RECALL_LINE	RAPPEL :<N>+<PSI> Psi
+$UI_DEFENDER_RECALL_LINE	RAPPEL :<N>+<PSI> Psi	
 $UI_DEFENDER_BOOST	BOOSTER : <PSI> Psi
 $UI_DEFENDER_BOOST_NEED	<PSI> Psi requis
 $UI_DEFENDER_BOOST_MAX	BOOST MAXIMUM
@@ -197,7 +197,7 @@ $UI_SKILLS_MOUSE_OVER	Passez la souris pour plus d'infos.
 $UI_EQUIP_OWNED	possédé
 $UI_EQUIP_COMPARE	comparer
 $UI_EQUIP_PRICE	prix
-$UI_EQUIP_SHOW_EQUIPPED	Montrer équipé
+$UI_EQUIP_SHOW_EQUIPPED	Montrer équipé	
 $UI_EQUIP_EQUIP_AFTER	Équiper après l'achat
 $UI_EQUIP_EQUIP_WHO	Qui va équiper ceci ?
 $UI_EQUIP_EQUIPPED	Équipé
@@ -305,7 +305,7 @@ $UI_VIDEO_MOUSE_DEFAULT	Par défaut
 $UI_VIDEO_MOUSE_FANCY	Fantaisie
 $UI_VIDEO_PARTICLES	Particules
 $UI_VIDEO_SWIRL	Animation pré-combat
-$UI_VIDEO_AOE	Surligner les attaques de zone
+$UI_VIDEO_AOE	Surligner les attaques de zone	
 $UI_VIDEO_CHANGE_RES	Changer de résolution
 $UI_VIDEO_SCREEN_POS	Position de l'écran
 $UI_VIDEO_CHANGE_RES_BUTTON	La modifier !
@@ -338,13 +338,13 @@ $UI_SAVE_MENU_KONG_XDEMO_LOGIN	Démo étendue - Connectez-vous sur Kongregate po
 $UI_SAVE_MENU_KONG_XDEMO	Version Démo Étendue
 $UI_SAVE_MENU_KONG_DEMO_LOGIN_FULL	Démo - Connectez-vous sur Kongregate pour accéder au jeu complet !
 $UI_SAVE_MENU_KONG_DEMO_LOGIN_XDEMO	Démo - Connectez-vous sur Kongregate pour accéder au contenu étendu !
-$UI_SAVE_MENU_KONG_DEMO	<RE>$MISC_DEMO_VERSION
+$UI_SAVE_MENU_KONG_DEMO	<RE>$MISC_DEMO_VERSION	
 $UI_SAVE_CONFIRM_DELETE	Confirmer la suppression ?
 $UI_SAVE_CONFIRM_DELETE_TEXT	Effacer DÉFINITIVEMENT<N>cet emplacement de sauvegarde ?
 $SAVE_SLOT_PLAY	Jouer
-$SAVE_SLOT_PLAY_PLUS	Jeu+
+$SAVE_SLOT_PLAY_PLUS	Jeu+	
 $SAVE_SLOT_NEW_GAME	Nouvelle partie
-$SAVE_SLOT_NEW_GAME_PLUS	Nouvelle partie+
+$SAVE_SLOT_NEW_GAME_PLUS	Nouvelle partie+	
 $SAVE_SLOT_EXPORT	Exporter
 $SAVE_SLOT_IMPORT	Importer
 $SAVE_SLOT_DELETE	Supprimer
@@ -365,16 +365,16 @@ $UI_MOD_INSTALL_ERROR2	Désolé, l'installation du Mod a échoué.
 $UI_DEFQ_MODS	Mod
 $UI_MOD_TITLE	Modifications
 $UI_MOD_DATA_ONLY	Données uniquement (1M)
-$UI_MOD_SPRITES	#ERROR!
-$UI_MOD_MOVIES	#ERROR!
-$UI_MOD_BKGS	#ERROR!
+$UI_MOD_SPRITES	 +4M de Sprites
+$UI_MOD_MOVIES	 +13M de Scènes Intermédiaires
+$UI_MOD_BKGS	 +42M de Décors
 $UI_MOD_TEMPLATE_SETTINGS	Paramètres du modèle de Mod
 $UI_MOD_SELECT_DIR	Sélection du répertoire du Mod
 $UI_SAVE_SELECT_DIR	Sélection du répertoire de sauvegarde
 $UI_MOD_LOAD_MOD	Charger le Mod
 $UI_MOD_EXISTS	Ce Mod existe.<N>Le charger ?
 $UI_MOD_MISSING	Impossible de trouver settings.xml<N>Soit il n'y a pas de Mod ici,<N>soit ce Mod a un problème.
-$UI_MOD_NOT_DIR	Hein ?<N>Ce n'est même pas un répertoire !<N>Réessayez.
+$UI_MOD_NOT_DIR	Hein ?<N>Ce n'est même pas un répertoire !<N>Réessayez.	
 $UI_MOD_LOADING	Chargement du Mod...
 $UI_MOD_PLEASE_WAIT	Veuillez patienter pendant<N>le chargement de votre Mod.
 $UI_MOD_PROGRESS	Tâche <TASK><N>Fichier <FILE><N>
@@ -471,10 +471,10 @@ $STATUS_DESC_FB_BORED	N'a pas envie de bouger.
 $STATUS_DESC_FB_LOL	Vitesse +<PERCENT>%.
 $STATUS_DESC_FB_OMG	Vitesse +<PERCENT>%, résistance DGT -<PERCENT>%.
 $STATUS_DESC_TROLL	Esquive <PERCENT>% des attaques.
-$STATUS_DESC_ANONYMOUS	#ERROR!
+$STATUS_DESC_ANONYMOUS	+<PERCENT>% de chances d'esquiver.	
 $STATUS_DESC_DARK	Esquive <PERCENT>% des attaques ciblées.
 $STATUS_DESC_LIGHT	Supprime le voile de ténèbres.
-$STATUS_DESC_FRENZY	Vitesse +<PERCENT>%
+$STATUS_DESC_FRENZY	Vitesse +<PERCENT>%	
 $STATUS_DESC_BLINDED	Rate <PERCENT>% de ses attaques
 $STATUS_DESC_BLEED	Dégâts reçus +<PERCENT>%.
 $STATUS_DESC_EVER_POISON	<INTI> DGT/sec.
@@ -597,7 +597,7 @@ $MISC_ACHIEVEMENT!	Succès !
 $BASE_ATTACK	Attaque de base
 $BONUS_DEFENSE	Bonus de défense
 $DECIMATE_BY	Décimer de <PERCENT>%
-$EN_SPELL_FRENZY_DESC	Vitesse +<PERCENT> pendant <SEC> sec
+$EN_SPELL_FRENZY_DESC	Vitesse +<PERCENT> pendant <SEC> sec	
 $EN_SPELL_HEAL_DESC	Soins : <PERCENT> points de Santé
 $EN_SPELL_DRAGON_FIRE_1_DESC	<DMG> DGT
 $EN_SPELL_DRAGON_FIRE_2_DESC	<LOW>-<HIGH> DGT
@@ -720,7 +720,7 @@ $MISC_HIRE_Q	Recruter <NAME> (<CLASS>) pour<N><SCRAP> Camelote ?
 $MISC_MODS	Mods
 $MISC_CONFIG_DIR	Dossier config
 $MISC_LANGUAGES	Langues
-$MISC_PLEASE_ENTER_A_NAME!	Veuillez entrer un nom !
+$MISC_PLEASE_ENTER_A_NAME!	Veuillez entrer un nom !	
 $MISC_ARE_YOU_SURE	En êtes-vous sûr ?
 $MISC_NEXT	suivant
 $MISC_PREVIOUS	précédent
@@ -816,7 +816,7 @@ $MISC_MOVIES	Films
 $MISC_OPTIONS	Options
 $MISC_CREDITS	Générique
 $MISC_PARTY	Groupe
-$MISC_ERROR	erreur
+$MISC_ERROR	erreur	
 $MISC_ERROR!	erreur !
 $MISC_BONUS	Bonus
 $MISC_TIPS	Astuces
@@ -846,13 +846,13 @@ $REWARD_FINISH	Termine le jeu
 $REWARD_QUEST	Quête accomplie
 $REWARD_NO_XP	Rien !
 $REWARD_NO_GOLD	Rien !
-$REWARD_XP	#ERROR!
-$REWARD_GOLD	#ERROR!
+$REWARD_XP	+ <XP> EXP
+$REWARD_GOLD	+ <GOLD> CAMELOTE
 $HERO_BLURB_SLAK	Un étrange jeune homme, à la fois courageux et instable...
 $HERO_BLURB_KETTA	Une chasseuse nomade, cynique et désillusionnée...
 $HERO_BLURB_BAKAL	Un vieux moine à la voix douce, en quête d'absolution pour ses péchés...
-$HERO_BLURB_WRENNA	La dernière princesse de Quaid, n'aspirant qu'à venger son royaume perdu...
-$HERO_BLURB_MARKOS	Un chevalier endurci, usé par les combats incessants...
+$HERO_BLURB_WRENNA	La dernière princesse de Quaid, n'aspirant qu'à venger son royaume perdu...	
+$HERO_BLURB_MARKOS	Un chevalier endurci, usé par les combats incessants...	
 $HERO_BLURB_NIRU	Violente et mystérieuse, cette dragonne ne partage pas ses secrets...
 $TALK_ASH	RÉFUGIÉ ASHANI
 $TALK_QUAID	RÉFUGIÉ QUAIDIEN
@@ -949,7 +949,7 @@ $TYPE_STATIONARY	Stationnaire
 $TYPE_TELEPORTER	Téléporteur
 $TYPE_EXALTED	Exalté
 $TYPE_NO_END_DAMAGE	ZéroDégâts
-$GETSCRAP1	Un tas de débris, de guenilles, d'outils cassés et d'objets plus ou moins tranchants en métal rouillé.<N><N>Qui pourrait bien vouloir de ça ?
+$GETSCRAP1	Un tas de débris, de guenilles, d'outils cassés et d'objets plus ou moins tranchants en métal rouillé.<N><N>Qui pourrait bien vouloir de ça ?	
 $GETSCRAP2	Apparemment, les habitants de la Fosse se servent de cette camelote comme monnaie d'échange.
 $END	fin
 $BATTLE_STARTING_FORMATION_TEXT	Utiliser la même formation de départ que la dernière fois ?
@@ -998,7 +998,7 @@ $MISC_PLUS_X%_TO_DEFENSE_MULT	<PLUS_OR_MINUS><X>% à DÉFENSE
 $MISC_PLUS_X%_TO_DODGE	<PLUS_OR_MINUS><X> à ESQUIVE
 $MISC_PLUS_X%_TO_EVADE	<RE>$MISC_PLUS_X%_TO_DODGE
 $MISC_PLUS_X%_TO_REGEN_MULT	<PLUS_OR_MINUS><X>% à RÉGÉNÉRATION
-$MISC_PLUS_X_STAT	#ERROR!
+$MISC_PLUS_X_STAT	+<X> <STAT>
 $MISC_PLUS_X_TO_ARMOR_ABS	<PLUS_OR_MINUS><X> à ARMURE
 $MISC_PLUS_X_TO_ATTACK	<PLUS_OR_MINUS><X> à ATTAQUE
 $MISC_PLUS_X_TO_ATTACK_SPEED	<PLUS_OR_MINUS><X> à VITESSE
@@ -1109,5 +1109,5 @@ $UI_VIDEO_SCREEN_SIZE	Taille de la fenêtre de jeu
 $UI_VIDEO_SD	Standard (4:3)
 $UI_VIDEO_SELECT_NEW	Sélectionnez...
 $UI_VIDEO_SPRITES	Sprites
-$WEAK_DMG_MULT	#ERROR!
+$WEAK_DMG_MULT	+<PERCENT>% DGT de <FLAVOR>
 $YOU_GOT_MONEY	Vous avez obtenu <MONEY> Camelote !
