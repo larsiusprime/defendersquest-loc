@@ -2,21 +2,21 @@ flag	name	comment
 $BLANK		Комментарий: этот файл содержит текст обучения из файлов карт (уровней) игры.
 $1_1_WHERE_AM_I_00_TITLE	TALK_$MCG_POWER
 $1_1_WHERE_AM_I_00_TEXT	Где я?
-$1_1_WHERE_AM_I_10_TITLE
+$1_1_WHERE_AM_I_10_TITLE	
 $1_1_WHERE_AM_I_10_TEXT	Это ваш главный персонаж, $MCG.<N>Она не может двигаться.
-$1_1_WHERE_AM_I_20_TITLE
+$1_1_WHERE_AM_I_20_TITLE	
 $1_1_WHERE_AM_I_20_TEXT	Враги выходят отсюда.<N>Не позволяйте им достичь $MCG!
-$1_1_WHERE_AM_I_30_TITLE
+$1_1_WHERE_AM_I_30_TITLE	
 $1_1_WHERE_AM_I_30_TEXT	В режиме ''Новая игра+'', враги гораздо сильнее и имеют новые способности.
-$1_1_WHERE_AM_I_40_TITLE
+$1_1_WHERE_AM_I_40_TITLE	
 $1_1_WHERE_AM_I_40_TEXT	Например, все обычные загробники теперь восстанавливают здоровье.
 $1_1_WHERE_AM_I_50_TITLE	TALK_$MCG_POWER
 $1_1_WHERE_AM_I_50_TEXT	Эй, незнакомец! Где ты?
-$1_1_WHERE_AM_I_60_TITLE
+$1_1_WHERE_AM_I_60_TITLE	
 $1_1_WHERE_AM_I_60_TEXT	Щелкните здесь, чтобы перейти в меню БЕРСЕРКОВ.
-$1_1_WHERE_AM_I_61_TITLE
+$1_1_WHERE_AM_I_61_TITLE	
 $1_1_WHERE_AM_I_61_TEXT	Нажмите <DEFENDERS> или <UP>, чтобы перейти в меню БЕРСЕРКОВ.
-$1_1_WHERE_AM_I_70_TITLE
+$1_1_WHERE_AM_I_70_TITLE	
 $1_1_WHERE_AM_I_70_TEXT	Сейчас у вас есть только берсерки. Когда в ходе истории вы встретите нового героя, вам откроются все персонажи этого класса.
 $1_1_WHERE_AM_I_80_TITLE	TALK_$BER_SURPRISE
 $1_1_WHERE_AM_I_80_TEXT	Что ты сделала со мной?
@@ -24,13 +24,13 @@ $1_1_WHERE_AM_I_90_TITLE	TALK_$MCG_POWER
 $1_1_WHERE_AM_I_90_TEXT	Я не знаю! Меня преследуют монстры! Помоги!
 $1_1_WHERE_AM_I_100_TITLE	TALK_$BER_SURPRISE
 $1_1_WHERE_AM_I_100_TEXT	Почему я прозрачный? Где мое тело?
-$1_1_WHERE_AM_I_110_TITLE
+$1_1_WHERE_AM_I_110_TITLE	
 $1_1_WHERE_AM_I_110_TEXT	Здесь показаны все БЕРСЕРКИ в группе.<N>Сейчас у вас есть только он.
-$1_1_WHERE_AM_I_120_TITLE
+$1_1_WHERE_AM_I_120_TITLE	
 $1_1_WHERE_AM_I_120_TEXT	Нажмите здесь, чтобы выбрать его!
-$1_1_WHERE_AM_I_121_TITLE
+$1_1_WHERE_AM_I_121_TITLE	
 $1_1_WHERE_AM_I_121_TEXT	Нажмите <DOWN>, а потом <SELECT> чтобы выбрать его!
-$1_1_WHERE_AM_I_130_TITLE
+$1_1_WHERE_AM_I_130_TITLE	
 $1_1_WHERE_AM_I_130_TEXT	Ваши старые персонажи сохранили свою силу, умения и снаряжение из прошлой игры.
 $1_1_WHERE_AM_I_140_TITLE	TALK_$MCG_POWER
 $1_1_WHERE_AM_I_140_TEXT	Я воззвала... и я чувствовала тебя в своих мыслях...
@@ -42,13 +42,13 @@ $1_1_WHERE_AM_I_170_TITLE	TALK_$BER_SURPRISE
 $1_1_WHERE_AM_I_170_TEXT	Хм... хорошо.
 $1_1_WHERE_AM_I_180_TITLE	TALK_$BER_LOOKBACK
 $1_1_WHERE_AM_I_180_TEXT	Мне точно не стоило есть жареную ящерицу...
-$1_1_WHERE_AM_I_190_TITLE
+$1_1_WHERE_AM_I_190_TITLE	
 $1_1_WHERE_AM_I_190_TEXT	Щелкните здесь, чтобы разместить вашего защитника.<N><N>Вот тут хорошее место!
-$1_1_WHERE_AM_I_191_TITLE
+$1_1_WHERE_AM_I_191_TITLE	
 $1_1_WHERE_AM_I_191_TEXT	Используйте <TILE_MOVE> для перемещения, а потом <SELECT>, чтобы разместить защитника.<N><N>Вот тут хорошее место!
 $1_1_WHERE_AM_I_200_TITLE	TALK_$BER_SMILE
 $1_1_WHERE_AM_I_200_TEXT	Э-э-э-эй!<N>Так гораздо лучше!
-$1_1_WHERE_AM_I_210_TITLE
+$1_1_WHERE_AM_I_210_TITLE	
 $1_1_WHERE_AM_I_210_TEXT	$MCG использует энергию ПСИ, чтобы вызвать защитников.<N>Убийство врагов пополнит вашу ПСИ.
 $1_1_WHERE_AM_I_220_TITLE	TALK_$MCG_POWER
 $1_1_WHERE_AM_I_220_TEXT	Прекрасно!<N>Теперь сделай что-нибудь!
@@ -56,13 +56,13 @@ $1_1_WHERE_AM_I_230_TITLE	TALK_$BER_SMILE
 $1_1_WHERE_AM_I_230_TEXT	Что ты там сказала?<N>Впечатлить тебя мужественными подвигами насилия?
 $1_1_WHERE_AM_I_240_TITLE	TALK_$BER_DERANGED
 $1_1_WHERE_AM_I_240_TEXT	Я совсем не против!
-$1_1_WHERE_AM_I_250_TITLE
+$1_1_WHERE_AM_I_250_TITLE	
 $1_1_WHERE_AM_I_250_TEXT	Защитники не могут двигаться<N>и атакуют врагов АВТОМАТИЧЕСКИ.
-$1_1_WHERE_AM_I_260_TITLE
+$1_1_WHERE_AM_I_260_TITLE	
 $1_1_WHERE_AM_I_260_TEXT	Сейчас игра стоит на ПАУЗЕ.
-$1_1_WHERE_AM_I_270_TITLE
+$1_1_WHERE_AM_I_270_TITLE	
 $1_1_WHERE_AM_I_270_TEXT	Щелкните здесь, чтобы начать.
-$1_1_WHERE_AM_I_271_TITLE
+$1_1_WHERE_AM_I_271_TITLE	
 $1_1_WHERE_AM_I_271_TEXT	Нажмите <PAUSE>, чтобы начать.
 $1_1_WHERE_AM_I_280_TITLE	TALK_$BER_DERANGED
 $1_1_WHERE_AM_I_280_TEXT	Идите сюда, несчастные сосунки!<N>Вас ждет опустошение!
@@ -72,13 +72,13 @@ $1_1_WHERE_AM_I_300_TITLE	TALK_$BER_LOOKBACK
 $1_1_WHERE_AM_I_300_TEXT	Ты уверена, что собрала мое тело ЦЕЛИКОМ? Ничего... не пропустила?
 $1_1_WHERE_AM_I_310_TITLE	TALK_$MCG_POWER
 $1_1_WHERE_AM_I_310_TEXT	Полагаю, я смогу передать тебе больше энергии...
-$1_1_WHERE_AM_I_320_TITLE
+$1_1_WHERE_AM_I_320_TITLE	
 $1_1_WHERE_AM_I_320_TEXT	Это кнопка ПОВЫШЕНИЯ персонажа.<N>ПОВЫШЕНИЕ сделает его сильнее и быстрее.
-$1_1_WHERE_AM_I_330_TITLE
+$1_1_WHERE_AM_I_330_TITLE	
 $1_1_WHERE_AM_I_330_TEXT	<N>На втором уровне ПОВЫШЕНИЯ,<N>$BER может применять вторую технику – ДВОЙНОЙ УДАР
-$1_1_WHERE_AM_I_340_TITLE
+$1_1_WHERE_AM_I_340_TITLE	
 $1_1_WHERE_AM_I_340_TEXT	Щелкните на ПОВЫШЕНИЕ!<N>Вы не пожалеете!
-$1_1_WHERE_AM_I_341_TITLE
+$1_1_WHERE_AM_I_341_TITLE	
 $1_1_WHERE_AM_I_341_TEXT	Щелкните на ПОВЫШЕНИЕ, нажав <SELECT>!<N>Вы не пожалеете!
 $1_1_WHERE_AM_I_350_TITLE	TALK_$BER_DERANGED
 $1_1_WHERE_AM_I_350_TEXT	Так гораздо лучше!
@@ -88,37 +88,37 @@ $1_2_THE_SHADOW_WORLD_10_TITLE	TALK_$MCG_POWER
 $1_2_THE_SHADOW_WORLD_10_TEXT	Я вернулась в это странное место... в промежуточный мир...
 $1_2_THE_SHADOW_WORLD_20_TITLE	TALK_$BER_SURPRISE
 $1_2_THE_SHADOW_WORLD_20_TEXT	Поставь меня куда-нибудь! Я как будто плаваю в пространстве!
-$1_2_THE_SHADOW_WORLD_30_TITLE
+$1_2_THE_SHADOW_WORLD_30_TITLE	
 $1_2_THE_SHADOW_WORLD_30_TEXT	Запомните:<N>надо нажать здесь, чтобы перейти в меню БЕРСЕРКОВ.
-$1_2_THE_SHADOW_WORLD_31_TITLE
+$1_2_THE_SHADOW_WORLD_31_TITLE	
 $1_2_THE_SHADOW_WORLD_31_TEXT	Запомните:<N>надо нажать <DEFENDERS> или <UP>, чтобы перейти в меню БЕРСЕРКОВ.
 $1_2_THE_SHADOW_WORLD_40_TITLE	TALK_$BER_SMILE
 $1_2_THE_SHADOW_WORLD_40_TEXT	О, да, давайте пошумим!
-$1_2_THE_SHADOW_WORLD_50_TITLE
+$1_2_THE_SHADOW_WORLD_50_TITLE	
 $1_2_THE_SHADOW_WORLD_50_TEXT	ВЫБЕРИТЕ $BER, нажав на него.
-$1_2_THE_SHADOW_WORLD_51_TITLE
+$1_2_THE_SHADOW_WORLD_51_TITLE	
 $1_2_THE_SHADOW_WORLD_51_TEXT	Используйте <TILE_MOVE> и <SELECT>, чтобы выбрать $BER.
-$1_2_THE_SHADOW_WORLD_60_TITLE
+$1_2_THE_SHADOW_WORLD_60_TITLE	
 $1_2_THE_SHADOW_WORLD_60_TEXT	Эти кнопки показывают, кого атакует $BER.
-$1_2_THE_SHADOW_WORLD_70_TITLE
+$1_2_THE_SHADOW_WORLD_70_TITLE	
 $1_2_THE_SHADOW_WORLD_70_TEXT	Не забывайте использовать эти кнопки<N>для замедления или ускорения времени.
 $1_2_THE_SHADOW_WORLD_80_TITLE	Подсказка
 $1_2_THE_SHADOW_WORLD_80_TEXT	Вы можете делать то, что требуется, пока игра на ПАУЗЕ.<N>Используйте <PAUSE>, чтобы остановить игру.
-$1_2_THE_SHADOW_WORLD_90_TITLE
+$1_2_THE_SHADOW_WORLD_90_TITLE	
 $1_2_THE_SHADOW_WORLD_90_TEXT	Не забывайте ПОВЫШАТЬ $BER.<N>Это неотъемлемая часть тактики.
-$1_2_THE_SHADOW_WORLD_91_TITLE
+$1_2_THE_SHADOW_WORLD_91_TITLE	
 $1_2_THE_SHADOW_WORLD_91_TEXT	Не забывайте ПОВЫШАТЬ $BER нажав <SELECT>.<N>Это неотъемлемая часть тактики.
 $1_2_THE_SHADOW_WORLD_100_TITLE	TALK_$BER_DERANGED
 $1_2_THE_SHADOW_WORLD_100_TEXT	О, ДА!<N>Почувствуйте мою силу!
-$1_2_THE_SHADOW_WORLD_110_TITLE
+$1_2_THE_SHADOW_WORLD_110_TITLE	
 $1_2_THE_SHADOW_WORLD_110_TEXT	О, НЕТ!<N>$BER не может достать эту волну врагов!
-$1_2_THE_SHADOW_WORLD_120_TITLE
+$1_2_THE_SHADOW_WORLD_120_TITLE	
 $1_2_THE_SHADOW_WORLD_120_TEXT	Убейте их при помощи заклинания МОЛНИЯ $MCG!
-$1_2_THE_SHADOW_WORLD_121_TITLE
+$1_2_THE_SHADOW_WORLD_121_TITLE	
 $1_2_THE_SHADOW_WORLD_121_TEXT	Используйте $MCG's заклинание МОЛНИЯ, чтобы убить их!<N>Нажмите <SPELLS>, а потом <SELECT>.
-$1_2_THE_SHADOW_WORLD_130_TITLE
+$1_2_THE_SHADOW_WORLD_130_TITLE	
 $1_2_THE_SHADOW_WORLD_130_TEXT	Хорошо!<N>Используйте молнию на врагов, которые улизнули от вас.
-$1_2_THE_SHADOW_WORLD_140_TITLE
+$1_2_THE_SHADOW_WORLD_140_TITLE	
 $1_2_THE_SHADOW_WORLD_140_TEXT	Используйте ее расчетливо.<N>При ее использовании тратится ПСИ.
 $1_3_COLISEUM_1_00_TITLE	TALK_$RAN_NORMAL
 $1_3_COLISEUM_1_00_TEXT	Что за... Что ты делаешь?
@@ -136,17 +136,17 @@ $1_3_COLISEUM_1_60_TITLE	TALK_$BER_SMILE
 $1_3_COLISEUM_1_60_TEXT	Я считаю, что это лучше смерти.
 $1_3_COLISEUM_1_70_TITLE	Лучник
 $1_3_COLISEUM_1_70_TEXT	$MCG теперь может использовать два класса защитников: Берсерки и Лучники.
-$1_3_COLISEUM_1_80_TITLE
+$1_3_COLISEUM_1_80_TITLE	
 $1_3_COLISEUM_1_80_TEXT	Наведите мышь на значок волны сверху, чтобы увидеть детали.
-$1_3_COLISEUM_1_90_TITLE
+$1_3_COLISEUM_1_90_TITLE	
 $1_3_COLISEUM_1_90_TEXT	Например, эти красные враги могут дать вам отпор!
-$1_3_COLISEUM_1_100_TITLE
+$1_3_COLISEUM_1_100_TITLE	
 $1_3_COLISEUM_1_100_TEXT	Также обратите внимание на этот символ. Оттуда выйдет эта волна.
-$1_4_COLISEUM_2_00_TITLE
+$1_4_COLISEUM_2_00_TITLE	
 $1_4_COLISEUM_2_00_TEXT	Если вы наймете больше берсерков,<N>то $MCG сможет вызвать их в промежуточный мир, выбрав в меню БЕРСЕРКОВ.
 $1_4_COLISEUM_2_10_TITLE	Подсказка
 $1_4_COLISEUM_2_10_TEXT	$BER все еще ваш лучший боец -<N>повысьте его, чтобы он смог применять атаку "Двойной удар"
-$2_2_UNDEAD_RANGERS_00_TITLE
+$2_2_UNDEAD_RANGERS_00_TITLE	
 $2_2_UNDEAD_RANGERS_00_TEXT	У этих мертвых лучников большой радиус атаки - помните об этом!
 $2_4_MONASTERY_00_TITLE	Отзыв
 $2_4_MONASTERY_00_TEXT	Вы можете отозвать защитников с поля боя, чтобы вернуть немного ПСИ и расположить их в другом месте.
@@ -174,7 +174,7 @@ $3_1_TO_THE_PASS_80_TITLE	TALK_$RAN_NORMAL
 $3_1_TO_THE_PASS_80_TEXT	Ты в курсе, что каждый раз, когда ты открываешь рот, оттуда вылетает чушь?
 $3_1_TO_THE_PASS_90_TITLE	TALK_$BER_SMILE
 $3_1_TO_THE_PASS_90_TEXT	Это мое величайшее оружие.
-$3_2_HOSPITAL_ATTACK_00_TITLE
+$3_2_HOSPITAL_ATTACK_00_TITLE	
 $3_2_HOSPITAL_ATTACK_00_TEXT	Ледяные маги могут замедлять врагов. Это очень полезно на коротких картах и с быстрыми врагами.
 $3_2_HOSPITAL_ATTACK_10_TITLE	TALK_$MAG_FRIENDLY
 $3_2_HOSPITAL_ATTACK_10_TEXT	Теперь в моем сердце звучит песня войны.
@@ -182,7 +182,7 @@ $3_2_HOSPITAL_ATTACK_20_TITLE	TALK_$MAG_FROWN
 $3_2_HOSPITAL_ATTACK_20_TEXT	Посмотрим, как лед служит огню...
 $3_2_HOSPITAL_ATTACK_30_TITLE	TALK_$MAG_PISSED
 $3_2_HOSPITAL_ATTACK_30_TEXT	И наши враги утонут в собственной крови.
-$3_4_ARMORED_CREEPS_00_TITLE
+$3_4_ARMORED_CREEPS_00_TITLE	
 $3_4_ARMORED_CREEPS_00_TEXT	Эти новые загробники имеют броню, которая поглощает некоторую часть наносимого им урона.
 $3_4_ARMORED_CREEPS_10_TITLE	TALK_$BER_DERANGED
 $3_4_ARMORED_CREEPS_10_TEXT	Эй, слабаки! Настоящие мужики сражаются без рубашек!
@@ -196,7 +196,7 @@ $3_4_ARMORED_CREEPS_50_TITLE	TALK_$HEA_NORMAL
 $3_4_ARMORED_CREEPS_50_TEXT	У меня есть идея!
 $3_4_ARMORED_CREEPS_60_TITLE	TALK_$HEA_NORMAL
 $3_4_ARMORED_CREEPS_60_TEXT	$MCG, разбей один из тех кристаллов молнией, когда враг будет проходить мимо!
-$3_5_MEET_THE_KNIGHT_00_TITLE
+$3_5_MEET_THE_KNIGHT_00_TITLE	
 $3_5_MEET_THE_KNIGHT_00_TEXT	Рыцарь имеет навык разрушения брони, который ослабляет броню с каждым ударом.
 $3_5_MEET_THE_KNIGHT_10_TITLE	TALK_$KNI_NORMAL
 $3_5_MEET_THE_KNIGHT_10_TEXT	Я смогу разбить броню этих извергов!
@@ -242,7 +242,7 @@ $3_13_DESTROY_CITY_60_TITLE	TALK_$HEA_NORMAL
 $3_13_DESTROY_CITY_60_TEXT	Я знаю, что ты умер.
 $3_13_DESTROY_CITY_70_TITLE	TALK_$BER_DERANGED
 $3_13_DESTROY_CITY_70_TEXT	Да! Жри рассыпчатый щебень со вкусом смерти, ты робонос грязножопый, женоподобная дырявая бутылка с мочой!
-$4_1_EZTLIS_FORCES_00_TITLE
+$4_1_EZTLIS_FORCES_00_TITLE	
 $4_1_EZTLIS_FORCES_00_TEXT	Эти странные сектанты превратились в пугающе мощных загробников. Медленные, но смертоносные. Их можно победить только объединив усилия большого количества защитников.
 $4_2_WIZARDS_REALM_00_TITLE	TALK_$RAN_SQUINT
 $4_2_WIZARDS_REALM_00_TEXT	Какого черта! Что это за твари?!
@@ -302,9 +302,9 @@ $12_4_FINAL_80_TITLE	TALK_ASH_FEMALE_1
 $12_4_FINAL_80_TEXT	До сих пор, вы наделяли своей силой других.
 $12_4_FINAL_90_TITLE	TALK_QUAID_MALE_1
 $12_4_FINAL_90_TEXT	Но теперь мы даем нашу силу вам.
-$12_4_FINAL_100_TITLE
+$12_4_FINAL_100_TITLE	
 $12_4_FINAL_100_TEXT	Впервые, $MCG<N>может себя повысить!
-$12_4_FINAL_110_TITLE
+$12_4_FINAL_110_TITLE	
 $12_4_FINAL_110_TEXT	Используйте эту силу, чтобы победить Эзтли-Теноха!
 $12_4_FINAL_120_TITLE	TALK_NOMAD_FEMALE_1
 $12_4_FINAL_120_TEXT	Леди, позвольте помочь вам...
@@ -542,11 +542,11 @@ $INDEX_BOOST_SLAK_80_TITLE	TALK_$BER_DERANGED
 $INDEX_BOOST_SLAK_80_TEXT	ХА-ХА-ХА! Я СЕКСУАЛЬНЫЙ БОГ НАСИЛИЯ!
 $INDEX_BOOST_SLAK_90_TITLE	TALK_$BER_DERANGED
 $INDEX_BOOST_SLAK_90_TEXT	ПОСМОТРИТЕ, КАК ИГРАЮТ МОИ МЫШЦЫ! Я МОГУЧИЙ И ОТЧАЯННЫЙ!
-$INDEX_FIRST_LEVEL_100_TITLE
+$INDEX_FIRST_LEVEL_100_TITLE	
 $INDEX_FIRST_LEVEL_100_TEXT	Щелкните здесь, чтобы начать.
-$INDEX_SECOND_LEVEL_110_TITLE
+$INDEX_SECOND_LEVEL_110_TITLE	
 $INDEX_SECOND_LEVEL_110_TEXT	Щелкните здесь, чтобы продолжить.
-$INDEX_SECOND_LEVEL_111_TITLE
+$INDEX_SECOND_LEVEL_111_TITLE	
 $INDEX_SECOND_LEVEL_111_TEXT	Нажмите <MOVE_MAP_DOWN>, чтобы продолжить.
 $INDEX_LVL_DUDE_120_TITLE	Обучение
 $INDEX_LVL_DUDE_120_TEXT	Поздравляем! Защитник получил новый уровень!
@@ -602,9 +602,9 @@ $INDEX_D1_280_TITLE	Обучение
 $INDEX_D1_280_TEXT	$MCG имеет одно ОЧКО НАВЫКОВ.<N>Здесь показано, что изменится при улучшении этого навыка.
 $INDEX_D1_290_TITLE	Обучение
 $INDEX_D1_290_TEXT	Нажмите <MENU_SELECT>, чтобы улучшить этот навык на одно очко.
-$INDEX_BUY_STUFF_250_TITLE
+$INDEX_BUY_STUFF_250_TITLE	
 $INDEX_BUY_STUFF_250_TEXT	Вы можете купить снаряжение и нанять новых защитников в городах.
-$INDEX_BUY_STUFF_260_TITLE
+$INDEX_BUY_STUFF_260_TITLE	
 $INDEX_BUY_STUFF_260_TEXT	Вам следует нанять БЕРСЕРКА и купить ОРУЖИЕ.<N><N>(Заметка: каждый последующий наем будет все дороже.)
 $INDEX_HOW_TO_BUY_270_TITLE	Покупка оружия
 $INDEX_HOW_TO_BUY_270_TEXT	Это оружие продается.<N>Нажмите на оружие и кнопка 'КУПИТЬ' станет активной.
@@ -728,4 +728,4 @@ $INDEX_HERMIT_4_TITLE	Жилище отшельника
 $INDEX_HERMIT_4_TEXT	Последний отшельник обосновался в пустыне.
 $INDEX_OBELISK_TITLE	Странный монумент
 $INDEX_OBELISK_TEXT	Очень странный монумент в пустыне
-$BLANK
+$BLANK	

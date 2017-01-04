@@ -568,7 +568,7 @@ $LINE_MONASTERY_SIEGE_OUTRO_60_TEXT	Consegnami la ragazza, e forse questo Tempio
 $LINE_MONASTERY_SIEGE_OUTRO_70_CHAR	$HEA
 $LINE_MONASTERY_SIEGE_OUTRO_70_TEXT	Zelemir, l'uomo che eri una volta-
 $LINE_MONASTERY_SIEGE_OUTRO_80_CHAR	ZELEMIR
-$LINE_MONASTERY_SIEGE_OUTRO_80_TEXT	"Uomo", hai detto?
+$LINE_MONASTERY_SIEGE_OUTRO_80_TEXT	Uomo, hai detto?
 $LINE_MONASTERY_SIEGE_OUTRO_90_CHAR	ZELEMIR
 $LINE_MONASTERY_SIEGE_OUTRO_90_TEXT	Cosa puoi dire TU dell'essere "uomo", tu che stai a guardare la fine del mondo travestito da monaco, dietro le mura di un monastero!
 $LINE_MONASTERY_SIEGE_OUTRO_100_CHAR	ZELEMIR
@@ -712,7 +712,7 @@ $LINE_3_2_OUTRO_80_TEXT	Stavamo giusto parlando di uhm, di questo e quello...
 $LINE_3_2_OUTRO_90_CHAR	$MAG
 $LINE_3_2_OUTRO_90_TEXT	Va benissimo. Sai come si dice:
 $LINE_3_2_OUTRO_100_CHAR	$MAG
-$LINE_3_2_OUTRO_100_TEXT	"Non parlare mai alle spalle di chi può tagliarti la gola mentre dormi."
+$LINE_3_2_OUTRO_100_TEXT	Non parlare mai alle spalle di chi può tagliarti la gola mentre dormi.
 $LINE_3_2_OUTRO_110_CHAR	$MCG
 $LINE_3_2_OUTRO_110_TEXT	Non è un detto che mi suona terribilmente familiare... chi... um... chi l'ha inventato?
 $LINE_3_2_OUTRO_120_CHAR	$MAG
@@ -957,7 +957,7 @@ $LINE_3_5_OUTRO_30_TEXT	Una vita per una vita.  Sarò vostro servitore fino a qu
 $LINE_3_5_OUTRO_40_CHAR	$KNI
 $LINE_3_5_OUTRO_40_TEXT	La Casa Reale di Ash non esige niente di meno.
 $LINE_3_5_OUTRO_50_CHAR	$MCG
-$LINE_3_5_OUTRO_50_TEXT	La Casa Reale?  Voi siete un - 
+$LINE_3_5_OUTRO_50_TEXT	La Casa Reale?  Voi siete un -
 $LINE_3_5_OUTRO_60_CHAR	$KNI
 $LINE_3_5_OUTRO_60_TEXT	Un nobile minore, è vero; ma nondimeno, il sangue nelle mie vene richiede che tenga alto l'onore della famiglia.
 $LINE_3_5_OUTRO_70_CHAR	$MCG
@@ -1311,7 +1311,7 @@ $LINE_3_8_INTRO_110_TEXT	I caduti portano solo distruzione.
 $LINE_3_8_INTRO_120_CHAR	$MCG
 $LINE_3_8_INTRO_120_TEXT	E la nostra compagna... cosa pensi che sia?
 $LINE_3_8_INTRO_130_CHAR	$MAG
-$LINE_3_8_INTRO_130_TEXT	O ha dimenticato, o è una dei caduti.  Per il nostro bene, spero che - 
+$LINE_3_8_INTRO_130_TEXT	O ha dimenticato, o è una dei caduti.  Per il nostro bene, spero che -
 $LINE_3_8_INTRO_140_CHAR	$DRA
 $LINE_3_8_INTRO_140_TEXT	Siamo arrivati, mortali!
 $LINE_3_8_INTRO_150_CHAR	$DRA
@@ -1493,7 +1493,7 @@ $LINE_DRAGON_LAIR_OUTRO_120_TEXT	Lui non se ne accorse neppure. Passammo tre not
 $LINE_DRAGON_LAIR_OUTRO_130_CHAR	$HEA
 $LINE_DRAGON_LAIR_OUTRO_130_TEXT	All'alba del terzo giorno, battè gli occhi tre volte e si destò.
 $LINE_DRAGON_LAIR_OUTRO_140_CHAR	$HEA
-$LINE_DRAGON_LAIR_OUTRO_140_TEXT	"I nostri problemi sono risolti," mi disse.
+$LINE_DRAGON_LAIR_OUTRO_140_TEXT	I nostri problemi sono risolti, mi disse.
 $LINE_DRAGON_LAIR_OUTRO_150_CHAR	$HEA
 $LINE_DRAGON_LAIR_OUTRO_150_TEXT	Quando tornammo all'accampamento, le forze nemiche erano completamente allo sbando.
 $LINE_DRAGON_LAIR_OUTRO_160_CHAR	$HEA
@@ -1560,7 +1560,7 @@ $LINE_SIDEQUEST_6_GET_100_TEXT	*$MAG lo ha scoperto, ed è diventata un po'... q
 $LINE_SIDEQUEST_6_GET_110_CHAR	$KNI
 $LINE_SIDEQUEST_6_GET_110_TEXT	Voi siete una bibliotecaria - c'è un aggettivo che significa:
 $LINE_SIDEQUEST_6_GET_120_CHAR	$KNI
-$LINE_SIDEQUEST_6_GET_120_TEXT	"mettere da parte anche l'ultimo barlume di normalità per scoperchiare tutta la follia che ne ribolliva sotto?"
+$LINE_SIDEQUEST_6_GET_120_TEXT	mettere da parte anche l'ultimo barlume di normalità per scoperchiare tutta la follia che ne ribolliva sotto?
 $LINE_SIDEQUEST_6_GET_130_CHAR	$BER
 $LINE_SIDEQUEST_6_GET_130_TEXT	*$MCG!
 $LINE_SIDEQUEST_6_GET_140_CHAR	$MCG
@@ -1623,7 +1623,7 @@ $LINE_SIDEQUEST_6_INTRO_130_TEXT	Oh, e servirai la Fiamma facendoti ammazzare? M
 $LINE_SIDEQUEST_6_INTRO_140_CHAR	$MCG
 $LINE_SIDEQUEST_6_INTRO_140_TEXT	Quando la tua anima sarà giudicata dirai:
 $LINE_SIDEQUEST_6_INTRO_150_CHAR	$MCG
-$LINE_SIDEQUEST_6_INTRO_150_TEXT	"Ho avuto paura del compito che mi spettava e disprezzavo i mezzi che mi hai dato, quindi ho scelto di morire"
+$LINE_SIDEQUEST_6_INTRO_150_TEXT	Ho avuto paura del compito che mi spettava e disprezzavo i mezzi che mi hai dato, quindi ho scelto di morire
 $LINE_SIDEQUEST_6_INTRO_160_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_160_TEXT	Questo non è vero!
 $LINE_SIDEQUEST_6_INTRO_170_CHAR	$MCG
@@ -1737,21 +1737,21 @@ $LINE_3_10_INTRO_90_TEXT	*Non sono sicuro, qui il linguaggio diventa particolarm
 $LINE_3_10_INTRO_100_CHAR	$MAG
 $LINE_3_10_INTRO_100_TEXT	È molto più antico di qualunque iscrizione Quaid abbia mai visto prima...
 $LINE_3_10_INTRO_110_CHAR	$MAG
-$LINE_3_10_INTRO_110_TEXT	"...i capi dei popoli liberi... uniti...  il campo di una grande contesa/conflitto..."
+$LINE_3_10_INTRO_110_TEXT	...i capi dei popoli liberi... uniti...  il campo di una grande contesa/conflitto...
 $LINE_3_10_INTRO_120_CHAR	$MAG
-$LINE_3_10_INTRO_120_TEXT	"Il Grande Re cadde" - questo si riferisce al re Quaid.
+$LINE_3_10_INTRO_120_TEXT	Il Grande Re cadde - questo si riferisce al re Quaid.
 $LINE_3_10_INTRO_130_CHAR	$MAG
-$LINE_3_10_INTRO_130_TEXT	"..cadde... ma i suoi alleati..."
+$LINE_3_10_INTRO_130_TEXT	..cadde... ma i suoi alleati...
 $LINE_3_10_INTRO_140_CHAR	$MAG
-$LINE_3_10_INTRO_140_TEXT	"Arginarono la malvagità... uniti nel sacrificio... Lord Ashanti, il suo leale Visir, Komnat Kozar..."
+$LINE_3_10_INTRO_140_TEXT	Arginarono la malvagità... uniti nel sacrificio... Lord Ashanti, il suo leale Visir, Komnat Kozar...
 $LINE_3_10_INTRO_150_CHAR	$MAG
-$LINE_3_10_INTRO_150_TEXT	"E un altro uomo, fattosi avanti nel momento del bisogno.... un soldato di fanteria..."
+$LINE_3_10_INTRO_150_TEXT	E un altro uomo, fattosi avanti nel momento del bisogno.... un soldato di fanteria...
 $LINE_3_10_INTRO_160_CHAR	$MAG
-$LINE_3_10_INTRO_160_TEXT	"Della famiglia Nefir, ora i nuovi signori... della Collezione Reale?"
+$LINE_3_10_INTRO_160_TEXT	Della famiglia Nefir, ora i nuovi signori... della Collezione Reale?
 $LINE_3_10_INTRO_170_CHAR	$MAG
-$LINE_3_10_INTRO_170_TEXT	"Questi tre spillarono il loro sangue per contenere il malvagio..."
+$LINE_3_10_INTRO_170_TEXT	Questi tre spillarono il loro sangue per contenere il malvagio...
 $LINE_3_10_INTRO_180_CHAR	$MAG
-$LINE_3_10_INTRO_180_TEXT	"Eztli-Tenoch"
+$LINE_3_10_INTRO_180_TEXT	Eztli-Tenoch
 $LINE_3_10_INTRO_190_CHAR	$MCG
 $LINE_3_10_INTRO_190_TEXT	Eztli-Tenoch?
 $LINE_3_10_INTRO_200_CHAR	$MAG
@@ -1808,7 +1808,7 @@ $LINE_3_10_OUTRO_40_TEXT	Per quanto ne so la mia famiglia ha sempre lavorato là
 $LINE_3_10_OUTRO_50_CHAR	$MCG
 $LINE_3_10_OUTRO_50_TEXT	Il nostro cognome significa letteralmente <LQ>Della Biblioteca.<RQ>
 $LINE_3_10_OUTRO_60_CHAR	$HEA
-$LINE_3_10_OUTRO_60_TEXT	Qui dice che il fante - 
+$LINE_3_10_OUTRO_60_TEXT	Qui dice che il fante -
 $LINE_3_10_OUTRO_70_CHAR	$BER
 $LINE_3_10_OUTRO_70_TEXT	Yo, guardate un po' qua!
 $LINE_3_10_OUTRO_80_CHAR	$HEA
@@ -1945,7 +1945,7 @@ $LINE_3_12_INTRO_00_TEXT	L'unica via di fuga è nascosta nelle fogne?
 $LINE_3_12_INTRO_10_CHAR	$RAN
 $LINE_3_12_INTRO_10_TEXT	CHI DIAVOLO HA PROGETTATO QUESTO POSTO?
 $LINE_3_12_INTRO_20_CHAR	$HEA
-$LINE_3_12_INTRO_20_TEXT	Il condotto porta alle miniere. Da lì potremo - 
+$LINE_3_12_INTRO_20_TEXT	Il condotto porta alle miniere. Da lì potremo -
 $LINE_3_12_INTRO_30_CHAR	ZELEMIR
 $LINE_3_12_INTRO_30_TEXT	Davvero pensavi che non vi avrei trovato?
 $LINE_3_12_INTRO_40_CHAR	ZELEMIR
@@ -2140,7 +2140,7 @@ $LINE_4_1_INTRO_90_CHAR	CULTISTA SANGUINARIO
 $LINE_4_1_INTRO_90_TEXT	Zelo del maestro, pervadi il mio corpo!
 $LINE_4_1_INTRO_100_CHAR	CULTISTA SANGUINARIO
 $LINE_4_1_INTRO_100_TEXT	COSI CHÈ POSSA ESEGUIRE LA TUA VOLONTÀ!
-$PER LA GRANDE PIETRA!	
+$PER LA GRANDE PIETRA!
 $SCENE_4_1_OUTRO_TITLE	State pronti
 $LINE_4_1_OUTRO_00_CHAR	$MCG
 $LINE_4_1_OUTRO_00_TEXT	Che cosa diamine è stato?
@@ -2215,13 +2215,13 @@ $LINE_4_2_OUTRO_30_TEXT	Riesco a distinguere qualche parola...
 $LINE_4_2_OUTRO_40_CHAR	$MCG
 $LINE_4_2_OUTRO_40_TEXT	Che cosa dice?
 $LINE_4_2_OUTRO_50_CHAR	$HEA
-$LINE_4_2_OUTRO_50_TEXT	"Qui si trova... la sede del potere..."
+$LINE_4_2_OUTRO_50_TEXT	Qui si trova... la sede del potere...
 $LINE_4_2_OUTRO_60_CHAR	$HEA
 $LINE_4_2_OUTRO_60_TEXT	Poi c'è una parola che non so tradurre... e...
 $LINE_4_2_OUTRO_70_CHAR	$HEA
-$LINE_4_2_OUTRO_70_TEXT	"...dal celestiale..."
+$LINE_4_2_OUTRO_70_TEXT	...dal celestiale...
 $LINE_4_2_OUTRO_80_CHAR	$HEA
-$LINE_4_2_OUTRO_80_TEXT	"Eztli-Tenoch"
+$LINE_4_2_OUTRO_80_TEXT	Eztli-Tenoch
 $LINE_4_2_OUTRO_90_CHAR	$MCG
 $LINE_4_2_OUTRO_90_TEXT	Siamo nel suo regno.
 $LINE_4_2_OUTRO_100_CHAR	$HEA
@@ -2242,11 +2242,11 @@ $LINE_4_3_INTRO_40_TEXT	Il trono è mio!
 $LINE_4_3_INTRO_50_CHAR	$MCG
 $LINE_4_3_INTRO_50_TEXT	Questa frase è in Antico Ash.
 $LINE_4_3_INTRO_60_CHAR	$MCG
-$LINE_4_3_INTRO_60_TEXT	"...qui molte vite... per i pochi..."
+$LINE_4_3_INTRO_60_TEXT	...qui molte vite... per i pochi...
 $LINE_4_3_INTRO_70_CHAR	$MCG
-$LINE_4_3_INTRO_70_TEXT	"Il demone fu deposto... sigillato dal sacrificio..."
+$LINE_4_3_INTRO_70_TEXT	Il demone fu deposto... sigillato dal sacrificio...
 $LINE_4_3_INTRO_80_CHAR	$MCG
-$LINE_4_3_INTRO_80_TEXT	"...la sua città distrutta..."
+$LINE_4_3_INTRO_80_TEXT	...la sua città distrutta...
 $LINE_4_3_INTRO_90_CHAR	$RAN
 $LINE_4_3_INTRO_90_TEXT	*$MCG, siamo inseguiti.
 $LINE_4_3_INTRO_100_CHAR	$RAN
@@ -2310,7 +2310,7 @@ $LINE_TREASURE_CHAMBER_INTRO_10_TEXT	Ne sento l'odore.
 $LINE_TREASURE_CHAMBER_INTRO_20_CHAR	$MCG
 $LINE_TREASURE_CHAMBER_INTRO_20_TEXT	Revenant? Preparatevi a combattere!
 $LINE_TREASURE_CHAMBER_INTRO_30_CHAR	$DRA
-$LINE_TREASURE_CHAMBER_INTRO_30_TEXT	No... è qualcos'altro... 
+$LINE_TREASURE_CHAMBER_INTRO_30_TEXT	No... è qualcos'altro...
 $LINE_TREASURE_CHAMBER_INTRO_40_CHAR	$MCG
 $LINE_TREASURE_CHAMBER_INTRO_40_TEXT	Cosa?
 $LINE_TREASURE_CHAMBER_INTRO_50_CHAR	$DRA
@@ -2464,7 +2464,7 @@ $NARR_4_5_OUTRO_00_TEXT	ATTO VII
 $NARR_4_5_OUTRO_00_SUB_TEXT	*Si dice che l'uomo abbia paura della morte. La mia esperienza è che ciò che l'uomo teme davvero è l'incertezza della morte.  In tutta quell'ordalia, quando la morte era ormai certa, fui assalito da un'imperturbabile calma, una sensazione mai provata né prima né dopo.$N$NFu solo quando apparse la speranza di poter sopravvivere$Nche sentii la vera morsa del terrore.
 $NARR_4_5_OUTRO_00_SUB_SUB_TEXT	*$N$N$N$N$N$N$N-dalle Memorie di Gedemon Dalavbar, Maestro degli Arcieri,$N Storia delle sue Imprese e Avventure al Servizio del Re di Ash
 $LINE_4_5_OUTRO_00_CHAR	$MCG
-$LINE_4_5_OUTRO_00_TEXT	Se è un combattimento che vuoi - 
+$LINE_4_5_OUTRO_00_TEXT	Se è un combattimento che vuoi -
 $LINE_4_5_OUTRO_10_CHAR	ZELEMIR
 $LINE_4_5_OUTRO_10_TEXT	L'unica ragione per cui sono qui è impedire che il tuo sangue cada nelle mani del nemico.
 $LINE_4_5_OUTRO_20_CHAR	ZELEMIR
@@ -2757,7 +2757,7 @@ $LINE_4_8_INTRO_30_TEXT	Io sono la figlia del fuoco, ogni nemico che si opporrà
 $LINE_4_8_INTRO_40_CHAR	$BER
 $LINE_4_8_INTRO_40_TEXT	Ragazzi, vorrei proprio avere un grido di battaglia migliore...
 $LINE_4_8_INTRO_50_CHAR	$BER
-$LINE_4_8_INTRO_50_TEXT	"Wooaaarrrgh" lascia un po' a desiderare.
+$LINE_4_8_INTRO_50_TEXT	Wooaaarrrgh lascia un po' a desiderare.
 $LINE_4_8_INTRO_60_CHAR	$RAN
 $LINE_4_8_INTRO_60_TEXT	Non lo so, a me piace "Wooaaarrrgh".
 $LINE_4_8_INTRO_70_CHAR	$RAN
@@ -3607,7 +3607,7 @@ $LINE_ENDING_ZELEMIR_UNSCATHED_1380_TEXT	A proposito, ne ho a centinaia di quest
 $LINE_ENDING_ZELEMIR_UNSCATHED_1390_CHAR	$KNI
 $LINE_ENDING_ZELEMIR_UNSCATHED_1390_TEXT	...
 $LINE_ENDING_ZELEMIR_UNSCATHED_1400_CHAR	$KNI
-$LINE_ENDING_ZELEMIR_UNSCATHED_1400_TEXT	'Oh sono un tigrotto, tigrotto ubriaco...'
+$LINE_ENDING_ZELEMIR_UNSCATHED_1400_TEXT	Oh sono un tigrotto, tigrotto ubriaco...'
 $LINE_ENDING_ZELEMIR_UNSCATHED_1410_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_UNSCATHED_1410_TEXT	Ok, ora in falsetto e su un piede solo!
 $SCENE_EPILOGUE_TITLE	A Secret Epilogue
@@ -3746,7 +3746,7 @@ $LINE_SIDEQUEST_1_INTRO_00_TEXT	O guarda, è quella prigione infestata di zombi 
 $LINE_SIDEQUEST_1_INTRO_10_CHAR	$RAN
 $LINE_SIDEQUEST_1_INTRO_10_TEXT	Ok, fatemi capire bene: abbiamo appena tolto la mano dal fuoco...
 $LINE_SIDEQUEST_1_INTRO_20_CHAR	$RAN
-$LINE_SIDEQUEST_1_INTRO_20_TEXT	"Ooh, guarda, c'è qualcosa che luccica! Rimettiamola subito dentro!"
+$LINE_SIDEQUEST_1_INTRO_20_TEXT	Ooh, guarda, c'è qualcosa che luccica! Rimettiamola subito dentro!
 $LINE_SIDEQUEST_1_INTRO_30_CHAR	$RAN
 $LINE_SIDEQUEST_1_INTRO_30_TEXT	Forse voialtri non ci avete pensato, ma-
 $LINE_SIDEQUEST_1_INTRO_40_CHAR	$MCG
@@ -3775,7 +3775,7 @@ $SCENE_SIDEQUEST_1_OUTRO_TITLE	Faida pratica
 $LINE_SIDEQUEST_1_OUTRO_00_CHAR	$BER
 $LINE_SIDEQUEST_1_OUTRO_00_TEXT	C'è nessun altro che vuole assaggiare la mia furia?
 $LINE_SIDEQUEST_1_OUTRO_10_CHAR	$BER
-$LINE_SIDEQUEST_1_OUTRO_10_TEXT	"No, ti prego, ne abbiamo avuto abbastanza della tua furia divina."
+$LINE_SIDEQUEST_1_OUTRO_10_TEXT	No, ti prego, ne abbiamo avuto abbastanza della tua furia divina.
 $LINE_SIDEQUEST_1_OUTRO_20_CHAR	$BER
 $LINE_SIDEQUEST_1_OUTRO_20_TEXT	Vero? VERO?
 $LINE_SIDEQUEST_1_OUTRO_30_CHAR	$BER
@@ -4065,7 +4065,7 @@ $LINE_SIDEQUEST_3_OUTRO_280_TEXT	Mi sento già meglio.
 $LINE_SIDEQUEST_3_OUTRO_290_CHAR	$MCG
 $LINE_SIDEQUEST_3_OUTRO_290_TEXT	E va bene! Adesso non saprai mai niente dell'incidente col budino alle uvette!
 $LINE_SIDEQUEST_3_OUTRO_300_CHAR	$RAN
-$LINE_SIDEQUEST_3_OUTRO_300_TEXT	"L'incidente del budino alle uvette?"
+$LINE_SIDEQUEST_3_OUTRO_300_TEXT	L'incidente del budino alle uvette?
 $LINE_SIDEQUEST_3_OUTRO_310_CHAR	$MCG
 $LINE_SIDEQUEST_3_OUTRO_310_TEXT	Peccato.
 $LINE_SIDEQUEST_3_OUTRO_320_CHAR	$RAN
@@ -4300,7 +4300,7 @@ $LINE_SIDEQUEST_7_OUTRO_60_TEXT	Prima del primogenito di sangue. Prima del frutt
 $LINE_SIDEQUEST_7_OUTRO_70_CHAR	EZTLI-TENOCH
 $LINE_SIDEQUEST_7_OUTRO_70_TEXT	Quei nomi sono morti.
 $LINE_SIDEQUEST_7_OUTRO_80_CHAR	TLETL-MEZTLI
-$LINE_SIDEQUEST_7_OUTRO_80_TEXT	Se avessimo saputo cosa saremmo diventati - 
+$LINE_SIDEQUEST_7_OUTRO_80_TEXT	Se avessimo saputo cosa saremmo diventati -
 $LINE_SIDEQUEST_7_OUTRO_90_CHAR	EZTLI-TENOCH
 $LINE_SIDEQUEST_7_OUTRO_90_TEXT	Non avremmo fato niente di diverso.
 $LINE_SIDEQUEST_7_OUTRO_100_CHAR	EZTLI-TENOCH
