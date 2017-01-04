@@ -28,8 +28,8 @@ $SKILL_MCGUFFIN_A_CRYSTAL	수정
 $SKILL_MCGUFFIN_A_PUSHBACK	밀어내기
 $SKILL_MCGUFFIN_A_DRAGON_FIRE	용의 불꽃
 $SKILL_MCGUFFIN_A_LIGHTNING_DESC	하나의 적에게 $X 의 피해를 줍니다. 적에게서 얻는 정신력도 함께 불타 줄어듭니다.
-$SKILL_MCGUFFIN_A_FRENZY_DESC	모든 방어자의 공격 속도를 $Y 초 동안 $X %만큼 증가시킵니다. 
-$SKILL_MCGUFFIN_A_HEALING_DESC	모든 방어자들의 체력을 $X 회복시킵니다. 
+$SKILL_MCGUFFIN_A_FRENZY_DESC	모든 방어자의 공격 속도를 $Y 초 동안 $X %만큼 증가시킵니다.
+$SKILL_MCGUFFIN_A_HEALING_DESC	모든 방어자들의 체력을 $X 회복시킵니다.
 $SKILL_MCGUFFIN_A_CRYSTAL_DESC	$Y 개의 바닥에 $X 피해를 주는 수정을 배치합니다. $Z 초 후 또는 번개에 의해 폭발합니다.
 $SKILL_MCGUFFIN_A_PUSHBACK_DESC	적을 미로 시작점 쪽으로 $X 바닥만큼 밉니다.
 $SKILL_MCGUFFIN_A_DRAGON_FIRE_DESC	화면의 모든 적에게 $X의 피해를 주고 $Y 초 동안 불태웁니다.
@@ -41,8 +41,8 @@ $SKILL_ANTIMCGUFFIN_A_CRYSTAL	수정
 $SKILL_ANTIMCGUFFIN_A_PUSHBACK	밀어내기
 $SKILL_ANTIMCGUFFIN_A_DRAGON_FIRE	용의 불꽃
 $SKILL_ANTIMCGUFFIN_A_LIGHTNING_DESC	하나의 적에게 $X 의 피해를 줍니다. 적에게서 얻는 정신력도 함께 불타 줄어듭니다.
-$SKILL_ANTIMCGUFFIN_A_FRENZY_DESC	모든 방어자의 공격 속도를 $Y 초 동안 $X %만큼 증가시킵니다. 
-$SKILL_ANTIMCGUFFIN_A_HEALING_DESC	모든 방어자의 체력을 $X 회복시킵니다. 
+$SKILL_ANTIMCGUFFIN_A_FRENZY_DESC	모든 방어자의 공격 속도를 $Y 초 동안 $X %만큼 증가시킵니다.
+$SKILL_ANTIMCGUFFIN_A_HEALING_DESC	모든 방어자의 체력을 $X 회복시킵니다.
 $SKILL_ANTIMCGUFFIN_A_CRYSTAL_DESC	$Y 개의 바닥에 $X 피해를 주는 수정을 배치합니다. $Z 초 후 또는 번개에 의해 폭발합니다.
 $SKILL_ANTIMCGUFFIN_A_PUSHBACK_DESC	적을 미로 시작점 쪽으로 $X 바닥만큼 밉니다.
 $SKILL_ANTIMCGUFFIN_A_DRAGON_FIRE_DESC	화면의 모든 적에게 $X의 피해를 주고 $Y 초 동안 불태웁니다.
@@ -52,8 +52,8 @@ $SKILL_SORCEROR_A_FRENZY-Z	광분
 $SKILL_SORCEROR_A_PUSHBACK-Z	밀어내기
 $SKILL_SORCEROR_A_DRAGON_FIRE-Z	용의 불꽃
 $SKILL_SORCEROR_A_LIGHTNING_DESC	하나의 적에게 $X 의 피해를 줍니다. 적에게서 얻는 정신력도 함께 불타 줄어듭니다.
-$SKILL_SORCEROR_A_FRENZY-Z_DESC	모든 방어자의 공격 속도를 $Y 초 동안 $X %만큼 증가시킵니다. 
-$SKILL_SORCEROR_A_HEALING-Z_DESC	모든 방어자의 체력을 $X 회복시킵니다. 
+$SKILL_SORCEROR_A_FRENZY-Z_DESC	모든 방어자의 공격 속도를 $Y 초 동안 $X %만큼 증가시킵니다.
+$SKILL_SORCEROR_A_HEALING-Z_DESC	모든 방어자의 체력을 $X 회복시킵니다.
 $SKILL_SORCEROR_A_PUSHBACK-Z_DESC	적을 미로 시작점 쪽으로 $X 바닥만큼 밉니다.
 $SKILL_SORCEROR_A_DRAGON_FIRE-Z_DESC	화면의 모든 적에게 $X의 피해를 주고 $Y 초 동안 불태웁니다.
 $SKILL_KNIGHT_A_SWING	휘두르기
@@ -118,7 +118,7 @@ $TYPE_ULTIMATE	궁극
 $BLURB_BERSERKER	빠른 공격속도. <N>많은 대상에게 빠른 속도로 중간 수준의 피해를 가합니다. <N>약한 무리들에게 효과적입니다.
 $BLURB_RANGER	긴 사거리. <N>원거리에서 낮은 수준의 피해를 가합니다. <N>어떤 상황에서든 좋습니다!
 $BLURB_KNIGHT	느린 공격속도. <N>한 명의 목표에 높은 피해를 입힙니다. <N>방어구를 무시/파괴할 수 있습니다. <N>강력한 적, 중무장한 적에게 효과적입니다.
-$BLURB_MAGE	둔화, 동결. <N>중간 속도로 낮은 피해를 입힙니다. <N>빠른 적들에게 효과적입니다.  
+$BLURB_MAGE	둔화, 동결. <N>중간 속도로 낮은 피해를 입힙니다. <N>빠른 적들에게 효과적입니다.
 $BLURB_DRAGON	강력한 피해. <N>적들을 먹어치우거나 불태울 수 있습니다. <N>비싸지만 굉장합니다.
 $BLURB_HEALER	아군 회복. <N>빛 속성 공격을 약간 갖추고 있습니다. <N>현명하게 배치하여 최적의 효율을 얻으세요.
 $COLOR_EYE	눈
