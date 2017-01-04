@@ -580,7 +580,7 @@ $LINE_MONASTERY_SIEGE_OUTRO_60_TEXT	Отдайте нам девчонку, и, 
 $LINE_MONASTERY_SIEGE_OUTRO_70_CHAR	$HEA
 $LINE_MONASTERY_SIEGE_OUTRO_70_TEXT	Зелемир, человек, которым ты был когда-то...
 $LINE_MONASTERY_SIEGE_OUTRO_80_CHAR	ЗЕЛЕМИР
-$LINE_MONASTERY_SIEGE_OUTRO_80_TEXT	"Человек", говоришь?
+$LINE_MONASTERY_SIEGE_OUTRO_80_TEXT	Человек, говоришь?
 $LINE_MONASTERY_SIEGE_OUTRO_90_CHAR	ЗЕЛЕМИР
 $LINE_MONASTERY_SIEGE_OUTRO_90_TEXT	Что можешь мне рассказать о бытии "Человеком" ТЫ, наблюдая за концом света в своей рясе из-за крепостных стен!
 $LINE_MONASTERY_SIEGE_OUTRO_100_CHAR	ЗЕЛЕМИР
@@ -3651,7 +3651,7 @@ $LINE_ENDING_ZELEMIR_UNSCATHED_1380_TEXT	К слову, у меня есть п�
 $LINE_ENDING_ZELEMIR_UNSCATHED_1390_CHAR	$KNI
 $LINE_ENDING_ZELEMIR_UNSCATHED_1390_TEXT	...
 $LINE_ENDING_ZELEMIR_UNSCATHED_1400_CHAR	$KNI
-$LINE_ENDING_ZELEMIR_UNSCATHED_1400_TEXT	'О, я пьяный-пьяный тигр...'
+$LINE_ENDING_ZELEMIR_UNSCATHED_1400_TEXT	О, я пьяный-пьяный тигр...'
 $LINE_ENDING_ZELEMIR_UNSCATHED_1410_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_UNSCATHED_1410_TEXT	Хорошо, а теперь на одной ноге и фальцетом!
 $SCENE_EPILOGUE_TITLE	Тайный эпилог
