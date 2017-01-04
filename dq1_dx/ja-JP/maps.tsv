@@ -1,21 +1,21 @@
 flag	name	comment
-$BLANK	 		
+$BLANK	
 $1_1_WHERE_AM_I_00_TITLE	TALK_$MCG_POWER
 $1_1_WHERE_AM_I_00_TEXT	ここはどこ？
 $1_1_WHERE_AM_I_10_TITLE	
-$1_1_WHERE_AM_I_10_TEXT	メインキャラクターの$MCGです。<N>彼女は動くことができません。	
+$1_1_WHERE_AM_I_10_TEXT	メインキャラクターの$MCGです。<N>彼女は動くことができません。
 $1_1_WHERE_AM_I_20_TITLE	
-$1_1_WHERE_AM_I_20_TEXT	敵はここから出て来ます。<N>$MCGがやられないようにしましょう！	
+$1_1_WHERE_AM_I_20_TEXT	敵はここから出て来ます。<N>$MCGがやられないようにしましょう！
 $1_1_WHERE_AM_I_30_TITLE	
-$1_1_WHERE_AM_I_30_TEXT	ニューゲーム+では、敵はさらに強くなり、<N>新たな能力を持っています。	
+$1_1_WHERE_AM_I_30_TEXT	ニューゲーム+では、敵はさらに強くなり、<N>新たな能力を持っています。
 $1_1_WHERE_AM_I_40_TITLE	
-$1_1_WHERE_AM_I_40_TEXT	例えば、すべてのレブナントが体力を回復できます。	
+$1_1_WHERE_AM_I_40_TEXT	例えば、すべてのレブナントが体力を回復できます。
 $1_1_WHERE_AM_I_50_TITLE	TALK_$MCG_POWER
 $1_1_WHERE_AM_I_50_TEXT	ちょっと、さっきの人！あなたはどこにいるの？
 $1_1_WHERE_AM_I_60_TITLE	
-$1_1_WHERE_AM_I_60_TEXT	ここをクリックすると、<N>バーサーカーのメニューが見られます。	
+$1_1_WHERE_AM_I_60_TEXT	ここをクリックすると、<N>バーサーカーのメニューが見られます。
 $1_1_WHERE_AM_I_70_TITLE	
-$1_1_WHERE_AM_I_70_TEXT	今はバーサーカーしかいませんが、ストーリーを進める中で<N>他のクラスのヒーローに出会えば、<N>そのメニューが解除されます。	
+$1_1_WHERE_AM_I_70_TEXT	今はバーサーカーしかいませんが、ストーリーを進める中で<N>他のクラスのヒーローに出会えば、<N>そのメニューが解除されます。
 $1_1_WHERE_AM_I_80_TITLE	TALK_$BER_SURPRISE
 $1_1_WHERE_AM_I_80_TEXT	何だ？俺に何をしやがった？？
 $1_1_WHERE_AM_I_90_TITLE	TALK_$MCG_POWER
@@ -23,11 +23,11 @@ $1_1_WHERE_AM_I_90_TEXT	知らない！モンスターが私を追いかけて�
 $1_1_WHERE_AM_I_100_TITLE	TALK_$BER_SURPRISE
 $1_1_WHERE_AM_I_100_TEXT	何でこんなに体が透けてんだ？俺の身体、どこ？
 $1_1_WHERE_AM_I_110_TITLE	
-$1_1_WHERE_AM_I_110_TEXT	ここに、仲間のバーサーカーがすべて表示されます。<N>今は、彼しかいません。	
+$1_1_WHERE_AM_I_110_TEXT	ここに、仲間のバーサーカーがすべて表示されます。<N>今は、彼しかいません。
 $1_1_WHERE_AM_I_120_TITLE	
-$1_1_WHERE_AM_I_120_TEXT	ここをクリックして彼を選択しましょう！	
+$1_1_WHERE_AM_I_120_TEXT	ここをクリックして彼を選択しましょう！
 $1_1_WHERE_AM_I_130_TITLE	
-$1_1_WHERE_AM_I_130_TEXT	前回のゲームで得たすべての強さ、スキル、装備が、<N>キャラクターに持ち越されています。	
+$1_1_WHERE_AM_I_130_TEXT	前回のゲームで得たすべての強さ、スキル、装備が、<N>キャラクターに持ち越されています。
 $1_1_WHERE_AM_I_140_TITLE	TALK_$MCG_POWER
 $1_1_WHERE_AM_I_140_TEXT	心の中で呼びかけたら・・・あなたがいるのを感じたの。
 $1_1_WHERE_AM_I_150_TITLE	TALK_$MCG_POWER
@@ -39,11 +39,11 @@ $1_1_WHERE_AM_I_170_TEXT	よし・・・わかった。
 $1_1_WHERE_AM_I_180_TITLE	TALK_$BER_LOOKBACK
 $1_1_WHERE_AM_I_180_TEXT	やっぱ、あの変なトカゲシチューを食ったのがまずかったかな？
 $1_1_WHERE_AM_I_190_TITLE	
-$1_1_WHERE_AM_I_190_TEXT	ディフェンダーを配置したい場所をクリックしてください。<N><N>ここはいい場所ですよ！	
+$1_1_WHERE_AM_I_190_TEXT	ディフェンダーを配置したい場所をクリックしてください。<N><N>ここはいい場所ですよ！
 $1_1_WHERE_AM_I_200_TITLE	TALK_$BER_SMILE
 $1_1_WHERE_AM_I_200_TEXT	おおおおっ！<N>来たぜっ！
 $1_1_WHERE_AM_I_210_TITLE	
-$1_1_WHERE_AM_I_210_TEXT	$MCGは、Psiを使ってディフェンダーを召喚できます。<N>敵を倒すと、Psiがチャージされます。	
+$1_1_WHERE_AM_I_210_TEXT	$MCGは、Psiを使ってディフェンダーを召喚できます。<N>敵を倒すと、Psiがチャージされます。
 $1_1_WHERE_AM_I_220_TITLE	TALK_$MCG_POWER
 $1_1_WHERE_AM_I_220_TEXT	よし！<N>さあ、やろう！
 $1_1_WHERE_AM_I_230_TITLE	TALK_$BER_SMILE
@@ -51,11 +51,11 @@ $1_1_WHERE_AM_I_230_TEXT	ん、何だって？オレの男らしい荒々しさ�
 $1_1_WHERE_AM_I_240_TITLE	TALK_$BER_DERANGED
 $1_1_WHERE_AM_I_240_TEXT	あんまり見とれるなよ！
 $1_1_WHERE_AM_I_250_TITLE	
-$1_1_WHERE_AM_I_250_TEXT	ディフェンダーは動くことができません。<N>自動的に敵を攻撃します。	
+$1_1_WHERE_AM_I_250_TEXT	ディフェンダーは動くことができません。<N>自動的に敵を攻撃します。
 $1_1_WHERE_AM_I_260_TITLE	
-$1_1_WHERE_AM_I_260_TEXT	現在、ゲームは一時停止しています。	
+$1_1_WHERE_AM_I_260_TEXT	現在、ゲームは一時停止しています。
 $1_1_WHERE_AM_I_270_TITLE	
-$1_1_WHERE_AM_I_270_TEXT	ゲームをリスタートするには、ここをクリックしましょう。	
+$1_1_WHERE_AM_I_270_TEXT	ゲームをリスタートするには、ここをクリックしましょう。
 $1_1_WHERE_AM_I_280_TITLE	TALK_$BER_DERANGED
 $1_1_WHERE_AM_I_280_TEXT	おい、このハナタレ小僧ども！内臓タレ小僧にしてやるぜ！
 $1_1_WHERE_AM_I_290_TITLE	TALK_$BER_LOOKBACK
@@ -65,11 +65,11 @@ $1_1_WHERE_AM_I_300_TEXT	俺の体、足りてる？欠けてる部分とか・�
 $1_1_WHERE_AM_I_310_TITLE	TALK_$MCG_POWER
 $1_1_WHERE_AM_I_310_TEXT	あなたにもっとエネルギーを送れたら・・・
 $1_1_WHERE_AM_I_320_TITLE	
-$1_1_WHERE_AM_I_320_TEXT	これは、$BERのブーストバーです。<N>ブーストすると、より強くより速くなります。	
+$1_1_WHERE_AM_I_320_TEXT	これは、$BERのブーストバーです。<N>ブーストすると、より強くより速くなります。
 $1_1_WHERE_AM_I_330_TITLE	
-$1_1_WHERE_AM_I_330_TEXT	ブーストレベル2では、$BERは<N>第二の技であるダブルヒットを使えるようになります。	
+$1_1_WHERE_AM_I_330_TEXT	ブーストレベル2では、$BERは<N>第二の技であるダブルヒットを使えるようになります。
 $1_1_WHERE_AM_I_340_TITLE	
-$1_1_WHERE_AM_I_340_TEXT	早くブーストを押しましょう！<N>後悔させませんから！	
+$1_1_WHERE_AM_I_340_TEXT	早くブーストを押しましょう！<N>後悔させませんから！
 $1_1_WHERE_AM_I_350_TITLE	TALK_$BER_DERANGED
 $1_1_WHERE_AM_I_350_TEXT	みなぎるぜ！
 $1_2_THE_SHADOW_WORLD_00_TITLE	TALK_$MCG_POWER
@@ -79,32 +79,32 @@ $1_2_THE_SHADOW_WORLD_10_TEXT	また、あの変な場所に戻ったんだ・�
 $1_2_THE_SHADOW_WORLD_20_TITLE	TALK_$BER_SURPRISE
 $1_2_THE_SHADOW_WORLD_20_TEXT	ヒェー！宙に浮いてるみたいだ！
 $1_2_THE_SHADOW_WORLD_30_TITLE	
-$1_2_THE_SHADOW_WORLD_30_TEXT	BERSERKERメニューを選ぶには、<N>ここをクリックするのをお忘れなく！	
+$1_2_THE_SHADOW_WORLD_30_TEXT	BERSERKERメニューを選ぶには、<N>ここをクリックするのをお忘れなく！
 $1_2_THE_SHADOW_WORLD_40_TITLE	TALK_$BER_SMILE
 $1_2_THE_SHADOW_WORLD_40_TEXT	よっしゃ、ケンカしようぜ！
 $1_2_THE_SHADOW_WORLD_50_TITLE	
-$1_2_THE_SHADOW_WORLD_50_TEXT	クリックして、$BERを選んでください。	
+$1_2_THE_SHADOW_WORLD_50_TEXT	クリックして、$BERを選んでください。
 $1_2_THE_SHADOW_WORLD_60_TITLE	
-$1_2_THE_SHADOW_WORLD_60_TEXT	これらのボタンで、$BERにどの敵を<N>攻撃させるか指示できます。	
+$1_2_THE_SHADOW_WORLD_60_TEXT	これらのボタンで、$BERにどの敵を<N>攻撃させるか指示できます。
 $1_2_THE_SHADOW_WORLD_70_TITLE	
-$1_2_THE_SHADOW_WORLD_70_TEXT	ゲームスピードのアップダウンは、<N>このボタンでコントロールできることをお忘れなく。	
+$1_2_THE_SHADOW_WORLD_70_TEXT	ゲームスピードのアップダウンは、<N>このボタンでコントロールできることをお忘れなく。
 $1_2_THE_SHADOW_WORLD_80_TITLE	ヒント
-$1_2_THE_SHADOW_WORLD_80_TEXT	時間を停止している時でも、操作は可能です。<N>停止と再開をすばやく行うには、<PAUSE>を使って下さい。	
+$1_2_THE_SHADOW_WORLD_80_TEXT	時間を停止している時でも、操作は可能です。<N>停止と再開をすばやく行うには、<PAUSE>を使って下さい。
 $1_2_THE_SHADOW_WORLD_90_TITLE	
-$1_2_THE_SHADOW_WORLD_90_TEXT	$BERをブーストするのを忘れないでください。<N>これは基本的な作戦です。	
+$1_2_THE_SHADOW_WORLD_90_TEXT	$BERをブーストするのを忘れないでください。<N>これは基本的な作戦です。
 $1_2_THE_SHADOW_WORLD_100_TITLE	TALK_$BER_DERANGED
 $1_2_THE_SHADOW_WORLD_100_TEXT	イェーイ！<N>力がみなぎって来るぜ！
 $1_2_THE_SHADOW_WORLD_110_TITLE	
-$1_2_THE_SHADOW_WORLD_110_TEXT	何ということでしょう！<N>$BERは、次のWAVEの敵に攻撃できません！	
+$1_2_THE_SHADOW_WORLD_110_TEXT	何ということでしょう！<N>$BERは、次のWAVEの敵に攻撃できません！
 $1_2_THE_SHADOW_WORLD_120_TITLE	
-$1_2_THE_SHADOW_WORLD_120_TEXT	ヤツらをやっつけるために、<N>$MCGのライトニングを使いましょう！	
+$1_2_THE_SHADOW_WORLD_120_TEXT	ヤツらをやっつけるために、<N>$MCGのライトニングを使いましょう！
 $1_2_THE_SHADOW_WORLD_130_TITLE	
-$1_2_THE_SHADOW_WORLD_130_TEXT	ナイス！<N>ライトニングで、突破しそうな敵をやっつけましょう！	
+$1_2_THE_SHADOW_WORLD_130_TEXT	ナイス！<N>ライトニングで、突破しそうな敵をやっつけましょう！
 $1_2_THE_SHADOW_WORLD_140_TITLE	
-$1_2_THE_SHADOW_WORLD_140_TEXT	でも、連発は控えましょう。<N>Psiを浪費してはいけません。	
+$1_2_THE_SHADOW_WORLD_140_TEXT	でも、連発は控えましょう。<N>Psiを浪費してはいけません。
 $1_3_COLISEUM_1_00_TITLE	TALK_$RAN_NORMAL
 $1_3_COLISEUM_1_00_TEXT	な、何これ？
-$1_3_COLISEUM_1_10_TITLE	TALK_$BER_SMILE	
+$1_3_COLISEUM_1_10_TITLE	TALK_$BER_SMILE
 $1_3_COLISEUM_1_10_TEXT	何か変な感じがする！
 $1_3_COLISEUM_1_20_TITLE	TALK_$RAN_NORMAL
 $1_3_COLISEUM_1_20_TEXT	何ていうか・・・死病にかかってた時のような・・・
@@ -119,11 +119,11 @@ $1_3_COLISEUM_1_60_TEXT	その方が死ぬよりマシだって、俺はいつ�
 $1_3_COLISEUM_1_70_TITLE	レンジャー
 $1_3_COLISEUM_1_70_TEXT	$MCGは、2つのクラスを選べるようになりました。<N>バーサーカーかレンジャーのタブを選んでください。
 $1_3_COLISEUM_1_80_TITLE	
-$1_3_COLISEUM_1_80_TEXT	上のWAVEにマウスオーバーし、<N>敵の詳細をしっかりチェックしましょう。	
+$1_3_COLISEUM_1_80_TEXT	上のWAVEにマウスオーバーし、<N>敵の詳細をしっかりチェックしましょう。
 $1_3_COLISEUM_1_90_TITLE	
-$1_3_COLISEUM_1_90_TEXT	例えば、この赤い敵は、反撃してきますよ！	
+$1_3_COLISEUM_1_90_TEXT	例えば、この赤い敵は、反撃してきますよ！
 $1_3_COLISEUM_1_100_TITLE	
-$1_3_COLISEUM_1_100_TEXT	そして、このシンボルに注意してください。<N>ここが、敵の発生源です。	
+$1_3_COLISEUM_1_100_TEXT	そして、このシンボルに注意してください。<N>ここが、敵の発生源です。
 $1_4_COLISEUM_2_00_TITLE	
 $1_4_COLISEUM_2_00_TEXT	雇ったバーサーカーは、<N>バーサーカーメニューから生と死のはざまに召喚することができます。
 $1_4_COLISEUM_2_10_TITLE	ヒント
@@ -131,11 +131,11 @@ $1_4_COLISEUM_2_10_TEXT	$BERは、今もあなたの最高のファイターで�
 $2_2_UNDEAD_RANGERS_00_TITLE	
 $2_2_UNDEAD_RANGERS_00_TEXT	このアンデッドのレンジャーは、長距離攻撃ができます。そのことを頭に入れて、計画を立ててください！
 $2_4_MONASTERY_00_TITLE	帰還
-$2_4_MONASTERY_00_TEXT	ディフェンダーをバトルから帰還させると、<N>Psiを取り戻して、別のところに配置できます。	
+$2_4_MONASTERY_00_TEXT	ディフェンダーをバトルから帰還させると、<N>Psiを取り戻して、別のところに配置できます。
 $2_4_MONASTERY_10_TITLE	帰還
-$2_4_MONASTERY_10_TEXT	そのためには、ディフェンダーを選んで、<LQ>帰還<RQ>をクリックするか<RECALL>を押してください。	
+$2_4_MONASTERY_10_TEXT	そのためには、ディフェンダーを選んで、<LQ>帰還<RQ>をクリックするか<RECALL>を押してください。
 $2_4_MONASTERY_20_TITLE	全額払い戻し
-$2_4_MONASTERY_20_TEXT	最初の敵のWAVEが到達する前なら、<N>ディフェンダーを呼び戻すとPsiが100%戻って来ます。	
+$2_4_MONASTERY_20_TEXT	最初の敵のWAVEが到達する前なら、<N>ディフェンダーを呼び戻すとPsiが100%戻って来ます。
 flag	名前
 $3_1_TO_THE_PASS_00_TITLE	TALK_$HEA_NORMAL
 $3_1_TO_THE_PASS_00_TEXT	医院は、川の向こう側にあります・・・。
@@ -149,7 +149,7 @@ $3_1_TO_THE_PASS_40_TITLE	TALK_$BER_DERANGED
 $3_1_TO_THE_PASS_40_TEXT	<LQ>動くもの、すべてだ！！！<RQ>
 $3_1_TO_THE_PASS_50_TITLE	TALK_$MCG_POWER
 $3_1_TO_THE_PASS_50_TEXT	あれれ・・・あのレブナント、まさか泳いでない？
-$3_1_TO_THE_PASS_60_TITLE	TALK_$BER_SMILE	
+$3_1_TO_THE_PASS_60_TITLE	TALK_$BER_SMILE
 $3_1_TO_THE_PASS_60_TEXT	犬かきみてーだな。泳ぎ方、最悪！
 $3_1_TO_THE_PASS_70_TITLE	TALK_$BER_DERANGED
 $3_1_TO_THE_PASS_70_TEXT	聞こえたか？お前のこと、犬って呼んだんだぜ！
@@ -184,7 +184,7 @@ $3_5_MEET_THE_KNIGHT_10_TEXT	悪魔どもの鎧を粉々にしてやる！
 $3_5_MEET_THE_KNIGHT_20_TITLE	TALK_$KNI_SQUINT
 $3_5_MEET_THE_KNIGHT_20_TEXT	もしも・・・体があったらね。
 $3_5_MEET_THE_KNIGHT_30_TITLE	TALK_$KNI_SQUINT
-$3_5_MEET_THE_KNIGHT_30_TEXT	さあ、やりましょうか。 
+$3_5_MEET_THE_KNIGHT_30_TEXT	さあ、やりましょうか。
 $3_6_INTO_THE_CITY_00_TITLE	TALK_$MCG_POWER
 $3_6_INTO_THE_CITY_00_TEXT	$BER、何してるの！？
 $3_6_INTO_THE_CITY_10_TITLE	TALK_$BER_DERANGED
@@ -195,9 +195,9 @@ $3_6_INTO_THE_CITY_30_TITLE	TALK_$BER_DERANGED
 $3_6_INTO_THE_CITY_30_TEXT	イヤだね！
 $3_6_INTO_THE_CITY_40_TITLE	TALK_$MCG_POWER
 $3_6_INTO_THE_CITY_40_TEXT	履かなかったら、もうここでお別れね。
-$3_6_INTO_THE_CITY_50_TITLE	TALK_$BER_SMILE	
+$3_6_INTO_THE_CITY_50_TITLE	TALK_$BER_SMILE
 $3_6_INTO_THE_CITY_50_TEXT	・・・わかったよ。
-$3_11_CITADEL_BOSS_00_TITLE	TALK_$BER_SMILE	
+$3_11_CITADEL_BOSS_00_TITLE	TALK_$BER_SMILE
 $3_11_CITADEL_BOSS_00_TEXT	見えない敵を攻撃するなんて、不可能だろ！？
 $3_11_CITADEL_BOSS_10_TITLE	TALK_$HEA_NORMAL
 $3_11_CITADEL_BOSS_10_TEXT	ヤツらは、体の周りに霧を出すのだ。
@@ -217,7 +217,7 @@ $4_2_WIZARDS_REALM_00_TITLE	TALK_$RAN_SQUINT
 $4_2_WIZARDS_REALM_00_TEXT	何だ、あれ？
 $4_2_WIZARDS_REALM_10_TITLE	TALK_$RAN_SQUINT
 $4_2_WIZARDS_REALM_10_TEXT	今にも破裂しそうだ！
-$4_2_WIZARDS_REALM_20_TITLE	TALK_$BER_SMILE	
+$4_2_WIZARDS_REALM_20_TITLE	TALK_$BER_SMILE
 $4_2_WIZARDS_REALM_20_TEXT	そろそろ、発酵したマッシュルームシチューの食べ頃かい？
 $4_2_WIZARDS_REALM_30_TITLE	TALK_$BER_LOOKBACK
 $4_2_WIZARDS_REALM_30_TEXT	そこらでゲロを撒き散らしてるレブナントのガキは、カンベンだがな。
@@ -270,9 +270,9 @@ $12_4_FINAL_80_TEXT	今まで、あなたは人に力を貸してきた。
 $12_4_FINAL_90_TITLE	TALK_QUAID_MALE_1
 $12_4_FINAL_90_TEXT	今度は、私たちがあなたに力を貸す番です。
 $12_4_FINAL_100_TITLE	
-$12_4_FINAL_100_TEXT	$MCGのブーストが可能になりました！	
+$12_4_FINAL_100_TEXT	$MCGのブーストが可能になりました！
 $12_4_FINAL_110_TITLE	
-$12_4_FINAL_110_TEXT	この力を使って、エズティル・テノクを倒しましょう！	
+$12_4_FINAL_110_TEXT	この力を使って、エズティル・テノクを倒しましょう！
 $12_4_FINAL_120_TITLE	TALK_NOMAD_FEMALE_1
 $12_4_FINAL_120_TEXT	私もあなたをお助けいたします・・・。
 $12_4_FINAL_130_TITLE	TALK_NOMAD_FEMALE_2
@@ -474,8 +474,8 @@ $SIDEQUEST_7_110_TEXT	何故、私の言うことを聞かない？何故、私�
 $SIDEQUEST_7_120_TITLE	TALK_EZTLI-TENOCH_NORMAL
 $SIDEQUEST_7_120_TEXT	我らの存在を捨て去るのか？我らが築いたものを？
 $SIDEQUEST_7_130_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_130_TEXT	・・・ならば、その残された・・・人間をすべて粛清しよう。	
-$INDEX_SLAK_DIE_00_TITLE	TALK_$BER_SMILE	
+$SIDEQUEST_7_130_TEXT	・・・ならば、その残された・・・人間をすべて粛清しよう。
+$INDEX_SLAK_DIE_00_TITLE	TALK_$BER_SMILE
 $INDEX_SLAK_DIE_00_TEXT	$MCG！俺の体がなくなった！
 $INDEX_SLAK_DIE_10_TITLE	TALK_$MCG_POWER
 $INDEX_SLAK_DIE_10_TEXT	ごめん、アンタがそんなに殴られてると集中しにくいんだ！
@@ -488,7 +488,7 @@ $INDEX_KETTA_DIE_40_TEXT	ちょっと！やられちゃったよ！
 $INDEX_KETTA_DIE_50_TITLE	TALK_$MCG_POWER
 $INDEX_KETTA_DIE_50_TEXT	静かにして。すぐに連れ戻すから。
 $INDEX_KETTA_DIE_60_TITLE	TALK_$RAN_NORMAL
-$INDEX_KETTA_DIE_60_TEXT	早く！妙な予感がする！	
+$INDEX_KETTA_DIE_60_TEXT	早く！妙な予感がする！
 $INDEX_RAN_DIE_70_TITLE	TALK_$RAN_NORMAL
 $INDEX_RAN_DIE_70_TEXT	ちょっと！仲間がいなくなったよ！連れ戻して！
 $INDEX_BOOST_SLAK_80_TITLE	TALK_$BER_DERANGED
@@ -496,47 +496,47 @@ $INDEX_BOOST_SLAK_80_TEXT	ハハハハ！俺は、暴力を司るセクシーな
 $INDEX_BOOST_SLAK_90_TITLE	TALK_$BER_DERANGED
 $INDEX_BOOST_SLAK_90_TEXT	俺の筋肉美をしかと見よ、神様、そして絶望しろ！
 $INDEX_FIRST_LEVEL_100_TITLE	
-$INDEX_FIRST_LEVEL_100_TEXT	ここをクリックしてください。	
+$INDEX_FIRST_LEVEL_100_TEXT	ここをクリックしてください。
 $INDEX_SECOND_LEVEL_110_TITLE	
-$INDEX_SECOND_LEVEL_110_TEXT	ここをクリックしてください。	
+$INDEX_SECOND_LEVEL_110_TEXT	ここをクリックしてください。
 $INDEX_LVL_DUDE_120_TITLE	チュートリアル
-$INDEX_LVL_DUDE_120_TEXT	おめでとうございます！<N>ディフェンダーのレベルが上がりました！	
+$INDEX_LVL_DUDE_120_TEXT	おめでとうございます！<N>ディフェンダーのレベルが上がりました！
 $INDEX_LVL_DUDE_130_TITLE	チュートリアル
-$INDEX_LVL_DUDE_130_TEXT	ディフェンダーをクリックして、<N>スキルをアップグレードしましょう。	
+$INDEX_LVL_DUDE_130_TEXT	ディフェンダーをクリックして、<N>スキルをアップグレードしましょう。
 $INDEX_CLICK_DUDE_140_TITLE	チュートリアル
 $INDEX_CLICK_DUDE_140_TEXT	ディフェンダーのスキルマップです。
 $INDEX_CLICK_DUDE_150_TITLE	テクニック
-$INDEX_CLICK_DUDE_150_TEXT	円で表示されるスキルは、<N>バトルで使用するテクニックです。	
+$INDEX_CLICK_DUDE_150_TEXT	円で表示されるスキルは、<N>バトルで使用するテクニックです。
 $INDEX_CLICK_DUDE_160_TITLE	特徴
-$INDEX_CLICK_DUDE_160_TEXT	四角で表示されるスキルは、パッシブスキルです。<N>常に影響を与えるスキルです。	
+$INDEX_CLICK_DUDE_160_TEXT	四角で表示されるスキルは、パッシブスキルです。<N>常に影響を与えるスキルです。
 $INDEX_SKILL_DUDE_170_TITLE	チュートリアル
-$INDEX_SKILL_DUDE_170_TEXT	スキルにマウスオーバーすると、<N>アップグレードの効果がわかります。	
+$INDEX_SKILL_DUDE_170_TEXT	スキルにマウスオーバーすると、<N>アップグレードの効果がわかります。
 $INDEX_SKILL_DUDE_180_TITLE	チュートリアル
-$INDEX_SKILL_DUDE_180_TEXT	スキルをクリックし、スキルのポイントを増やしましょう。	
+$INDEX_SKILL_DUDE_180_TEXT	スキルをクリックし、スキルのポイントを増やしましょう。
 $INDEX_A_190_TITLE	チュートリアル
-$INDEX_A_190_TEXT	おめでとうございます！$MCGのレベルが上がりました！	
+$INDEX_A_190_TEXT	おめでとうございます！$MCGのレベルが上がりました！
 $INDEX_A_200_TITLE	チュートリアル
-$INDEX_A_200_TEXT	$MCGをクリックして、彼女の呪文を<N>アップグレードしましょう。	
+$INDEX_A_200_TEXT	$MCGをクリックして、彼女の呪文を<N>アップグレードしましょう。
 $INDEX_B_210_TITLE	チュートリアル
-$INDEX_B_210_TEXT	$MCGのスキルの表です。<N>$MCGのスキルは、すべて呪文です。	
+$INDEX_B_210_TEXT	$MCGのスキルの表です。<N>$MCGのスキルは、すべて呪文です。
 $INDEX_B_220_TITLE	チュートリアル
-$INDEX_B_220_TEXT	$MCGは、スキルポイントを1使えます。<N>マウスオーバーし、ライトニングを見ましょう。	
+$INDEX_B_220_TEXT	$MCGは、スキルポイントを1使えます。<N>マウスオーバーし、ライトニングを見ましょう。
 $INDEX_C_230_TITLE	チュートリアル
-$INDEX_C_230_TEXT	スキルにマウスオーバーすると、<N>アップグレードの効果がわかります。	
+$INDEX_C_230_TEXT	スキルにマウスオーバーすると、<N>アップグレードの効果がわかります。
 $INDEX_C_240_TITLE	チュートリアル
-$INDEX_C_240_TEXT	円をクリックすると、このスキルをアップグレードできます。	
+$INDEX_C_240_TEXT	円をクリックすると、このスキルをアップグレードできます。
 $INDEX_BUY_STUFF_250_TITLE	
-$INDEX_BUY_STUFF_250_TEXT	装備を購入し、町で新たなディフェンダーを雇いましょう。	
+$INDEX_BUY_STUFF_250_TEXT	装備を購入し、町で新たなディフェンダーを雇いましょう。
 $INDEX_BUY_STUFF_260_TITLE	
 $INDEX_BUY_STUFF_260_TEXT	バーサーカーを雇い、武器を買いましょう。<N><N>(注意：雇用の費用は、１人ずつ高くなっていきます。）
 $INDEX_HOW_TO_BUY_270_TITLE	武器の購入
 $INDEX_HOW_TO_BUY_270_TEXT	武器が売りに出されています。<N>武器のタイプをクリックし、『買う』ボタンを押してください。
 $INDEX_DIFF_TOWN_280_TITLE	町について
-$INDEX_DIFF_TOWN_280_TEXT	それぞれの町で違うものを手に入れることができます。	
+$INDEX_DIFF_TOWN_280_TEXT	それぞれの町で違うものを手に入れることができます。
 $INDEX_DIFF_TOWN_290_TITLE	町について
-$INDEX_DIFF_TOWN_290_TEXT	例えば、この町では鎧の購入とレンジャーの雇用ができます。	
+$INDEX_DIFF_TOWN_290_TEXT	例えば、この町では鎧の購入とレンジャーの雇用ができます。
 $INDEX_DIFF_TOWN_300_TITLE	町について
-$INDEX_DIFF_TOWN_300_TEXT	鎧は丈夫なほどに、ディフェンダーは雇うほどに<N>値段が高くなることを覚えておいてください。	
+$INDEX_DIFF_TOWN_300_TEXT	鎧は丈夫なほどに、ディフェンダーは雇うほどに<N>値段が高くなることを覚えておいてください。
 $INDEX_1_1_WHERE_AM_I_TITLE	生と死のはざま
 $INDEX_1_1_WHERE_AM_I_TEXT	一人さまよう$MCGは、気がつくと生と死のはざまにいた。
 $INDEX_1_2_THE_SHADOW_WORLD_TITLE	死人のキャラバン
@@ -576,7 +576,7 @@ $INDEX_3_1_TO_THE_PASS_TEXT	$MCGは、医院を奇襲から守るために、大
 $INDEX_3_2_HOSPITAL_ATTACK_TITLE	医院への攻撃
 $INDEX_3_2_HOSPITAL_ATTACK_TEXT	一行は、包囲された医院を守る手助けをした。
 $INDEX_HOSPITAL_TITLE	医院
-$INDEX_HOSPITAL_TEXT	セリーニ医院は、怪我人や病人のために避難と治療の場を提供している。	
+$INDEX_HOSPITAL_TEXT	セリーニ医院は、怪我人や病人のために避難と治療の場を提供している。
 $INDEX_SIDEQUEST_3_TITLE	クラストの息子たち
 $INDEX_SIDEQUEST_3_TEXT	$RANは、しぶしぶゲカ民族との約束を守ることにした。
 $INDEX_SIDEQUEST_4_TITLE	影の中へ
@@ -651,7 +651,7 @@ $INDEX_HERMIT_4_TITLE	隠居
 $INDEX_HERMIT_4_TEXT	最後の隠者は、砂漠に住んでいた。
 $INDEX_OBELISK_TITLE	奇妙な石碑
 $INDEX_OBELISK_TEXT	砂漠の中に、奇妙な石碑を発見した。
-$BLANK	 	
+$BLANK	
 $12_4_FINAL_171_TEXT	ゴミくずにも足らん声の存在が・・・
 $12_4_FINAL_171_TITLE	TALK_EZTLI-TENOCH_NORMAL
 $12_4_FINAL_172_TEXT	どれほど忌まわしく思った事か！
