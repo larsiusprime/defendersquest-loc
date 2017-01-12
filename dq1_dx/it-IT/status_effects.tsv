@@ -26,9 +26,9 @@ $FLAV_AREA	Area
 $FLAV_DARK	Buio
 $FLAV_GROW_ARMOR	Sviluppa corazza
 $FLAV_PHASED	Etereo
-$FLAV_MAGIC	Magico
+$FLAV_MAGIC	Magia
 $FLAV_PHYSICAL	Fisico
-$FLAV_PHYSICAL-RANGED	Fisici - a distanza
+$FLAV_PHYSICAL-RANGED	Fisici (a distanza)
 $FLAV_MELEE	Corpo a corpo
 $FLAV_RANGED	A distanza
 $FLAV_UNDODGEABLE	Inevitabile
@@ -52,9 +52,6 @@ $FLAV_FB_LOL	Stato corrente: LOL!
 $FLAV_FB_OMG	Stato corrente: OMG!
 $FLAV_FB_EXISTENTIAL	Stato corrente: Esistenziale.
 $FLAV_FB_BORED	Stato corrente: Noia.
-$FLAV_PHYSICAL	Fisico
-$FLAV_MAGIC	Magico
-$FLAV_RANGED	A distanza
 $FLAV_PHYSICAL_RANGED	Fisico - a distanza
 $FLAV_PSI_SHIELD	Scudo Psi
 $FLAV_AREA	Area
