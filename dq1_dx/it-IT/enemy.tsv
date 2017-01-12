@@ -1,81 +1,81 @@
-flag	nick_name	flavor_name	flavor_text		
-$EN_SLUGWORM	VELOCE	Verme	Prole di Revenant veloce|Queste veloci creature simili a vermi hanno diverse file di denti affilati.,<N>Testimoni oculari li hanno visti erompere da larghi, gonfi Revenant rimasti a marcire per settimane.		
-$EN_NORMAL_NOMONEY	NORMALE	Revenant	Cadavere Rianimato|Nella Valle, spesso i cadaveri si rianimano qualche giorno dopo la morte.<N>Questi mostri sono conosciuti come ''Revenant,'' che significa, ''I ritornati.''		
-$EN_NORMAL	NORMALE	Revenant	Cadavere Rianimato|Nella Valle, spesso i cadaveri si rianimano diversi giorni dopo la morte.,<N>Questi mostri sono conosciuti come ''Revenant,'' che significa, ''I ritornati.''		
-$EN_CULTIST	CULTISTA	Cultista	Cultista Trasfigurato|Il 'Culto del Sangue' iniziò con una setta nomade nota per i sacrifici di sangue cerimoniali.<N>Quando la loro religione si evolse nel culto enoteistico della divinità 'Eztli-Tenoch,' iniziarono a razziare le altre tribù. <N>Queste testimonianze provengono dai sopravvissuti del massacro della tribù Geka. Molti raccontano di cultisti in grado di trasformarsi da soli in Revenant.		
-$EN_ARMORED CULTIST	SACERDOTE CULTISTA	Sacerdote Cultista	Sacerdote Cultista|Il 'Culto del Sangue' iniziò con una setta nomade nota per i sacrifici di sangue cerimoniali.<N>Come la religione si evolse nell'adorazione enoteistica della divinità 'Eztli-Tenoch,' iniziarono ad attaccare le altre tribù. <N>Queste testimonianze provengono dai sopravvissuti del massacro della tribù Geka. Molti raccontano di cultisti in grado di trasformarsi da soli in Revenant.		
-$EN_INSANE CULTIST	CULTISTA FOLLE	Gran Sacerdote	Cultista Gran Sacerdote|Il 'Culto del Sangue' iniziò con una setta nomade nota per le offerte di sangue cerimoniali.<N>Come la religione si evolse nell'adorazione enoteistica della divinità 'Eztli-Tenoch,' iniziarono ad attaccare le altre tribù.<N>Queste testimonianze provengono dai sopravvissuti del massacro della tribù Geka. Molti raccontano di cultisti in grado di trasformarsi da soli in Revenant.		
-$EN_NORMAL_EXP	NORMALE	Revenant	Cadavere rianimato|Nella Valle, spesso i cadaveri si rianimano diversi giorni dopo la morte.<N>Questi mostri sono conosciuti come ''Revenant,'' che significa, ''I ritornati.''		
-$EN_NORMAL_EXP_PSI	NORMALE	Revenant	Cadavere rianimato|Nella Valle, spesso i cadaveri si rianimano diversi giorni dopo la morte.<N>Questi mostri sono conosciuti come ''Revenant,'' che significa, ''I ritornati.''		
-$EN_NORMAL_W	NORMALE	Mostro Acquatico	Revenant Anfibio|Questi Revenant secernono una sostanza appiccicosa che ne impermeabilizza il corpo.<N>I gas malsani contenuti nell'addome gli permettono di rimanere a galla		
-$EN_ARMORED	CORAZZATO	Cavaliere Maledetto	Revenant Corazzato|Questi Revenant una volta erano dei cavalieri, caduti in battaglia.<N>Anche se hanno perso tutta l'intelligenza e le abilità che avevano in vita, possiedono ancora la loro corazza.		
-$EN_SPEEDY	VELOCE	Verme	Prole veloce di Revenant|Queste veloci creature simili a vermi hanno diverse file di denti aguzzi.<N>Testimoni oculari li hanno visti erompere dalla carcassa di enormi Revenant mostruosamente gonfi, rimasti a marcire per settimane.		
-$EN_SPEEDY_W	VELOCE	Serpente	Prole Acquatica Veloce|Alcuni dicono che questi vermi-Revenant acquatici nascano da Revenant umani galleggianti.<N>Altri ipotizzano che si sviluppino dal corpo di pesci e serpenti di fiume.		
-$EN_ARMORED SPEEDY	VELOCE	Verme Corazzato	Prole Corazzata Veloce|Questi vermi-Revenant hanno sviluppato uno spesso carapace.<N>Molti ipotizzano che il guscio corazzato sia composto dalle ossa digerite del corpo originale.		
-$EN_ARMORED_SPEEDY_W	VELOCE	Serpente Corazzato	Prole Anfibia Corazzata Veloce|Questi vermi-Revenant anfibi hanno sviluppato sia un carapace corazzato che l'abilità di nuotare.<N>Il loro tanfo di ossa digerite e gas tossici è insopportabile.		
-$EN_ATTACKER	COMBATTENTE	Ghoul Furioso	Revenant Combattente|Alcuni Revenant sono più aggressivi di altri.<N>Mentre i Revenant comuni inseguono stupidamente una sola preda, questi sono noti per aggredire qualunque cosa si muova.		
-$EN_DARK ATTACKER	SHADOW BOXER	Ghoul Oscuro	Revenant Oscuro Combattente|I gas contenuti nell'addome del Revenant esalano attraverso i pori della pelle, circondando la creatura in una spessa coltre di fumi tossici, che la nasconde alla vista e confonde le vittime.		
-$EN_ATTACKER_W	COMBATTENTE	Ghoul di Fiume	Revenant Combattente Anfibio|I racconti di corpi puzzolenti che emergono dall'acqua attaccando i contadini assetati sono frequenti nella Valle.<N>Nessuno osa più andare a raccogliere l'acqua da solo, e solo i pazzi si azzardano a nuotare.		
-$EN_ARMORED ATTACKER	COMBATTENTE	Cavaliere Folle	Combattente Revenant Corazzato|Questi cavalieri maledetti sono tanto feroci quanto forti.<N>I loro lamenti spettrali echeggiano nelle catacombe e attraverso il deserto.		
-$EN_RAPID_ATTACKER	ATTACCO RAPIDO				
-$EN_APC	SPLITTER	Mostruosità	Revenant Ospite|Questi corpi mostruosamente rigonfi riescono a malapena a muoversi e sembrano pronti a scoppiare da un momento all'altro. <N>			Diverse bocche dotate di denti gli spuntano dai fianchi. Sono anche troppo grandi per essere respinti all'indietro o divorati.
-$EN_APC_W	SPLITTER	Cadavere Fetido	Revenant Anfibio Gravido|Questi Revenant puzzano come un sacco di pesci marci e liquame.<N>Stanno a galla senza sforzo, e sembrano sul punto di scoppiare in qualsiasi momento.		
-$EN_ARMORED APC	ARMORED SPLIT	Bestia Corazzata	Revenant Gravido Corazzato|Un carapace gigante protegge questo mostruoso ammasso di carne digerita.<N>C'è chi sospetta che non abbiano più nemmeno le ossa.		
-$EN_DOUBLE APC	DOUBLE SPLIT	Abominio	Revenant Gravido|Questo strano mostro non è semplicemente gonfio, ma ha anche uno strano colore.<N>Che cosa potrebbe significare?		
-$EN_ARMORED RANGED ATTACKER	RANGED	Ghoul Serpente	Revenant Sputatore|Col passare delle settimane, certi strani processi iniziano a digerire e mutare le carni del Revenant.<N>Alcuni testimoni raccontano di essere stati attaccati da strani ''uomini-serpe'' senza occhi, che sputano acido.		
-$EN_RANGED ATTACKER	RANGED	Ghoul Serpente	Revenant Sputatore|Col passare del tempo, degli strani processi iniziano a mutare e a digerire le carni del Revenant.<N>Alcuni testimoni raccontano di essere stati attaccati da strani ''uomini-serpe'' senza occhi, che sputano acido.		
-$EN_RANGED ATTACKER_W	RANGED	Ghoul Serpente di Fiume	Revenant Sputatore Anfibio|Col passare del tempo, degli strani processi iniziano a mutare e a digerire le carni del Revenant.<N>Alcuni testimoni raccontano di essere stati attaccati da strani ''uomini-serpe'' senza occhi, che sputano acido.		
-$EN_DARK	DARK	Verme Oscuro	Prole Oscura Veloce|Questi vermi sono ammantati da una fitta cappa di nebbia scura che li rende quasi impossibili da colpire.		
-$EN_BRUTE	TOUGH	Death Worm	Tough Revenant Spawn|These pale and worm-like creatures move slowly, and feature tough, leathery skin instead of a fragile outer membrane.<N><N>Although easily outrun, they usually overcome their prey through relentless, unending pursuit.		
-$EN_NORMAL_LOWXP	NORMAL	Revenant	Cadavere Rianimato|Nella Valle, spesso i cadaveri si rianimano diversi giorni dopo la morte.<N>Questi mostri sono conosciuti come ''Revenant,'' che significa, ''I ritornati.''		
-$EN_CULTIST_LOWXP	CULTIST	Cultista	Cultista Trasfigurato|Il 'Culto del Sangue' iniziò con una setta nomade nota per i sacrifici di sangue cerimoniali.<N>Quando la loro religione si evolse nel culto enoteistico della divinità 'Eztli-Tenoch,' iniziarono a razziare le altre tribù. <N>Queste testimonianze provengono dai sopravvissuti del massacro della tribù Geka. Molti raccontano di cultisti in grado di trasformarsi in Revenant di propria volontà.		
-$EN_ARMORED CULTIST_LOWXP	CULTIST PRIEST	Sacerdote Cultista	Sacerdote Cultista|Il 'Culto del Sangue' iniziò con una setta nomade nota per i sacrifici di sangue cerimoniali.<N>Come la religione si evolse nell'adorazione enoteistica della divinità 'Eztli-Tenoch,' iniziarono ad attaccare le altre tribù. <N>Queste testimonianze provengono dai sopravvissuti del massacro della tribù Geka. Molti raccontano di cultisti capaci di trasformarsi in Revenant di propria volontà.		
-$EN_NORMAL_W_LOWXP	NORMAL	Mostro Acquatico	Revenant Acquatico| sostanza appiccicosa che ne impermeabilizza il corpo.<N>I gas tossici contenuti nell'addome gli permettono di rimanere a galla		
-$EN_ARMORED_LOWXP	ARMORED	Cavaliere Maledetto	Revenant Corazzato|Questi Revenant una volta erano dei cavalieri, caduti in battaglia.<N>Per quanto abbiano perso tutta l'intelligenza e le abilità che possedevano in vita, hanno ancora la loro corazza.		
-$EN_SPEEDY_LOWXP	FAST	Verme	Prole veloce di Revenant|Queste veloci creature simili a vermi hanno diverse file di denti aguzzi.<N>Testimoni oculari li hanno visti erompere dalla carcassa di enormi Revenant mostruosamente gonfi, rimasti a marcire per settimane.		
-$EN_SPEEDY_W_LOWXP	FAST	Serpente	Prole Acquatica Veloce|Alcuni dicono che questi vermi-Revenant acquatici nascano da Revenant umani galleggianti.<N>Altri ipotizzano che si sviluppino dal corpo di pesci e serpenti di fiume.		
-$EN_ARMORED SPEEDY_LOWXP	FAST	Verme Corazzato	Prole Corazzata Veloce|Questi vermi-Revenant hanno sviluppato uno spesso carapace.<N>Molti ipotizzano che il guscio corazzato sia composto dalle ossa digerite del corpo originale.		
-$EN_ARMORED_SPEEDY_W_LOWXP	FAST	Serpente Corazzato	Prole Anfibia Corazzata Veloce|Questi vermi-Revenant anfibi hanno sviluppato sia un carapace corazzato che l'abilità di nuotare.<N>Il fetore di ossa digerite e gas tossici è insopportabile.		
-$EN_ATTACKER_LOWXP	FIGHTER	Ghoul Furioso	Revenant Combattente|Alcuni Revenant sono più aggressivi di altri.<N>Mentre i Revenant comuni inseguono stupidamente una sola preda, questi sono noti per aggredire qualunque cosa si muova.		
-$EN_DARK ATTACKER_LOWXP	SHADOW BOXER	Ghoul Oscuro	Revenant Oscuro Combattente|I gas contenuti nell'addome del Revenant esalano attraverso i pori della pelle, circondando la creatura in una spessa coltre di fumi tossici, che la nasconde alla vista e confonde le vittime.		
-$EN_ATTACKER_W_LOWXP	FIGHTER	Ghoul di Fiume	Revenant Combattente Anfibio|I racconti di corpi puzzolenti che emergono dall'acqua attaccando i contadini assetati sono frequenti nella Valle.<N>Nessuno si azzarda più raccogliere l'acqua da solo, e solo i pazzi osano nuotare.		
-$EN_ARMORED ATTACKER_LOWXP	FIGHTER	Cavaliere Folle	Combattente Revenant Corazzato|Questi cavalieri maledetti sono tanto forti quanto feroci.<N>I loro lamenti spettrali echeggiano nelle catacombe e attraverso il deserto.		
-$EN_RAPID_ATTACKER_LOWXP	RAPID ATTACK				
-$EN_APC_LOWXP	SPLITTER	Mostruosità	Revenant Ospite|Questi corpi mostruosamente rigonfi riescono a malapena a muoversi e sembrano pronti a scoppiare da un momento all'altro. <N>			Diverse bocche dotate di denti gli spuntano dai fianchi. Sono anche troppo grandi per essere sospinti all'indietro o divorati.
-$EN_APC_W_LOWXP	SPLITTER	Cadavere Fetido	Revenant Anfibio Gravido|Questi Revenant puzzano come un sacco di pesci marci e liquame.<N>Stanno a galla senza sforzo, e sembrano sul punto di scoppiare in qualsiasi momento.		
-$EN_ARMORED APC_LOWXP	ARMORED SPLIT	Bestia Corazzata	Revenant Gravido Corazzato|Un carapace gigante protegge questo mostruoso ammasso di carne digerita.<N>C'è chi sospetta che non abbia nemmeno più le ossa.		
-$EN_DOUBLE APC_LOWXP	DOUBLE SPLIT	Abominio	Revenant Gravido|Questo strano mostro non è semplicemente gonfio, ma ha anche uno strano colore.<N>Che cosa potrebbe significare?		
-$EN_ARMORED RANGED ATTACKER_LOWXP	RANGED	Cavaliere Serpente	Revenant sputatore|Col passare delle settimane, certi strani processi iniziano a digerire e mutare le carni del Revenant.<N>Alcuni testimoni raccontano di essere stati attaccati da strani ''uomini-serpe'' senza occhi, che sputano acido.		
-$EN_RANGED ATTACKER_LOWXP	RANGED	Serpe Ghoul	Revenant sputatore|Col passare delle settimane, certi strani processi iniziano a digerire e mutare le carni del Revenant.<N>Alcuni testimoni raccontano di essere stati attaccati da strani ''uomini-serpe'' senza occhi, che sputano acido.		
-$EN_RANGED ATTACKER_W_LOWXP	RANGED	Ghoul Serpente	Revenant sputatore acquatico|Col passare delle settimane, certi strani processi iniziano a digerire e mutare le carni del Revenant.<N>Alcuni testimoni raccontano di essere stati attaccati da strani ''uomini-serpe'' senza occhi, che sputano acido.		
-$EN_DARK_LOWXP	DARK	Verme Oscuro	Prole Oscura Veloce|Questi vermi sono ammantati da una fitta cappa di nebbia scura che li rende quasi impossibili da colpire.		
-$EN_BRUTE_LOWXP	TOUGH	Verme della Morte	Massiccia Prole di Revenant|Queste pallide creature simili a vermi si muovono lentamente, e sono dotati di una pelle dura simile al cuoio, invece che di una fragile membrana esterna.  <N>Anche se è facile seminarli, sono implacabili, e spesso raggiungono comunque la loro preda dopo un interminabile inseguimento.		
-$EN_APC_NOATTACK_LOWXP	SPLITTER	Mostruosità	Revenant Ospite|Questi corpi mostruosamente rigonfi riescono a malapena a muoversi e sembrano pronti a scoppiare da un momento all'altro. <N>			Diverse bocche dotate di denti gli spuntano dai fianchi. Sono anche troppo grandi per essere respinti all'indietro o divorati.
-$EN_CULTIST_NOATTACK_LOWXP	CULTIST	Cultista	Cultista Trasfigurato|Il 'Culto del Sangue' iniziò con una setta nomade nota per i sacrifici di sangue cerimoniali.<N>Quando la loro religione si evolse nel culto enoteistico della divinità 'Eztli-Tenoch,' iniziarono a razziare le altre tribù. <N><N>Queste testimonianze provengono dai sopravvissuti del massacro della tribù Geka. Molti raccontano di cultisti in grado di trasformarsi in Revenant di propria volontà. <N>		
-$EN_ERROR	ERROR	Error	I Am Error|If you're reading this it means that someone probably has a typo in the enemy data. This is the enemy we show when the intended one can't be found		
-$EN_SHEEP	SHEEP	Pecora	Delizioso Mammifero|I Draghi possono stare anni senza mangiare, ma quando si nutrono possono consumare in una sola giornata una quantità di cibo parecchie volte superiore al loro peso corporeo.  Questo fatto è fonte di una certa inquietudine tra i pastori nomadi e il loro gregge.		
-$EN_PSI SHEEP	SHEEP	Pecora	Delizioso Mammifero|I Draghi possono stare anni senza mangiare, ma quando si nutrono possono consumare in una sola giornata una quantità di cibo pari a diverse volte il loro stesso peso.  Questo fatto è fonte di una certa inquietudine tra i pastori nomadi e il loro gregge.		
-$EN_SPEEDY SHEEP	SPEEDY SHEEP	Pecora da corsa	Delizioso Mammifero Veloce|Alcune pecore si sono adattate alle ostili condizioni di vita della valle, sviluppando dei muscoli estremamente scattanti.  Questo non basta per seminare i draghi, ma almeno gli consente di correre più veloce delle altre pecore.		
-$EN_SUPER SHEEP	SUPER SHEEP	Superpecora	Mammifero Incredibilmente Succulento|Leggende draconiche raccontano di questa rara pecora, l'Axxima Vatta Muttanaxxor, in toni sommessi e reverenti, e le sacre scritture dei Draghi descrivono un elaborato rituale da preparare prima della sua venuta.  Il sapere tradizionale associa le scritture Draconiche con altri testi religiosi, ma nuove ricerche suggeriscono che dovrebbero essere riclassificate come libro di cucina.		
-$EN_OZIMAL	OZIMAL	Ozimal Kaz	Schiavo Revenant|Gli Stregoni come Zelemir sono famigerati per essere in grado di strasformare direttamente creature vive e in buona salute in schiavi non-morti.<N>L'incantesimo richiede tempo per essere preparato, dato che lo stregone deve nascondere uno speciale veleno nel cibo della vittima per diversi giorni.<N>Questo viene usato come 'assicurazione' in caso i seguaci dello stregone si rivoltino contro di lui.		
-$EN_TWIN	TWIN	Gemello	Fratello Revenant|BLARGH YAAAARGH GAR GAR HUR.		
-$EN_3_11_BOSS	BOSS				
-$EN_RIGHT_INDEX_FINGER	INDEX1 FINGER	Dito Indice	Dito Mostruoso|Anche se non è più attaccato alla mano, questo dito si muove di sua volontà.		
-$EN_RIGHT_THUMB	THUMB	Pollice	Dito Mostruoso|Anche se non è più attaccato alla mano, questo dito si muove di sua volontà.		
-$EN_RIGHT_MIDDLE_FINGER	MIDDLE FINGER	Dito Medio	Dito Mostruoso|Questo dito mozzato sembra fare un gesto osceno. Che maleducato!		
-$EN_RIGHT_RING_FINGER	RING FINGER	Anulare	Dito Mostruoso|Anche se non è più attaccato alla mano, questo dito si muove di sua volontà.		
-$EN_RIGHT_PINKY_FINGER	PINKY FINGER	Mignolo	Dito Mostruoso|Anche se non è più attaccato alla mano, questo dito si muove di sua volontà.		
-$EN_RIGHT_EYE	EZTLI'S EYE	Occhio di Eztli	Occhio Mostruoso|Quest'occhio malevolo risplende di poteri proibiti e si muove con velocità innaturale.		
-$EN_RIGHT_HAND	EZTLI'S HAND	Mano di Eztli	Mano Mostruosa|Il capo dei cultisti ha chiamato questo mostro ''La Mano Destra di Eztli-Tenoch.'' Dato quanto poco è conosciuto di Eztli-Tenoch, è difficile dire se questa sia la mano stessa dello Stregone, o soltanto una creazione dei suoi malvagi poteri. A un'esame più attento, sembra che in realtà non sia affatto una mano DESTRA. Che storia, uhm, 'sinistra'...		
-$EN_FINGER	EZTLI'S FINGER				
-$EN_ZELEMIR-CITADEL	ZELEMIR	Zelemir	Stregone Negromante|Gli occhi di Zelemir risplendono di risoluta determinazione.		
-$EN_ZELEMIR	ZELEMIR	Zelemir	Stregone Negromante|Gli occhi di Zelemir risplendono di risoluta determinazione.		
-$EN_HEALIE	HEALIE	Dotto'	Boss Segreto|Descrizione		
-$EN_MEANIE	MEANIE	Bullo	Boss Segreto|Descrizione		
-$EN_STEALY	STEALY	Clepto	Boss Segreto|Descrizione		
-$EN_CRAZY	CRAZY	Pazzo	Boss Segreto|Descrizione		
-$EN_EZTLI	EZTLI-TENOCH	Eztli-Tenoch	Antichissimo e Leggendario Stregone|Un'antico potere, a lungo dormiente, ora di nuovo sveglio. Eztli-Tenoch una volta regnava sul mondo conosciuto, autoproclamandosi il Re-Dio. Il suo potere e la sua malvagità sono superati solo dalla sua incommensurabile pazienza.		
-$EN_CULTIST_ACCOUNT			These accounts are from survivors of the Geka tribe massacre. Many report cultists transforming into Revenant at will.		
-$EN_CULTIST_BASIC			<RE>[$EN_CULTIST_SECT_FLAVOR_TEXT]<N><N>Little is known about their worship or beliefs beyond the name of their deity, <LQ>Eztli-Tenoch,<RQ> and their constant hunt for fresh victims.<N><N><RE>[$EN_CULTIST_ACCOUNT_FLAVOR_TEXT]		
-$EN_CULTIST_SECT			The <LQ>Cult of the Blood-Mad<RQ> began with a nomadic sect known for ceremonial blood-letting.		
-$EN_RANGED ATTACKER_BASIC			As the weeks go on, some strange process starts to digest and warp the body of the Revenant.<N><N>Witnesses report being attacked by eyeless <LQ>snake-men<RQ> spewing rank bile.		
+flag	nick_name	flavor_name	flavor_text
+$EN_SLUGWORM	VELOCE	Verme	Prole di Revenant veloce|Queste veloci creature simili a vermi hanno diverse file di denti affilati.<N><N>Testimoni oculari li hanno visti erompere da larghi, gonfi Revenant rimasti a marcire per settimane.
+$EN_NORMAL	NORMALE	Revenant	Cadavere Rianimato|Nella Valle, spesso i cadaveri si rianimano diversi giorni dopo la morte.<N><N>Questi mostri sono conosciuti come <LQ>Revenant<RQ>, che significa <LQ>Coloro che ritornano<RQ>.
+$EN_CULTIST_SECT			Il <LQ>Culto del Sangue<RQ> iniziò con una setta nomade nota per i sacrifici di sangue cerimoniali.
+$EN_CULTIST_ACCOUNT			Queste testimonianze provengono dai sopravvissuti al massacro della tribù Geka. Molti di essi raccontano di cultisti in grado di trasformarsi in Revenant di propria volontà. 
+$EN_CULTIST_BASIC			<RE>[$EN_CULTIST_SECT_FLAVOR_TEXT]<N><N>Si sa ben poco del loro culto e delle loro credenze, a parte il nome del loro dio, <LQ>Eztli-Tenoch,<RQ> ed il fatto che sono costantemente alla ricerca di nuove vittime.<N><N><RE>[$EN_CULTIST_ACCOUNT_FLAVOR_TEXT]
+$EN_CULTIST	CULTISTA	Cultista	Cultista Trasfigurato|<RE>[$EN_CULTIST_BASIC_FLAVOR_TEXT]
+$EN_ARMORED CULTIST	SACERDOTE CULTISTA	Sacerdote Cultista	Sacerdote Cultista|<RE>[$EN_CULTIST_SECT_FLAVOR_TEXT]<N><N>Atti di violenza rituale vengono perpetuati dai cultisti sacerdoti, i quali spesso esibiscono segni di automutilazione.<N><N><RE>[$EN_CULTIST_ACCOUNT_FLAVOR_TEXT]
+$EN_INSANE CULTIST	CULTISTA FOLLE	Gran Sacerdote	Cultista Gran Sacerdote|<RE>[$EN_CULTIST_SECT_FLAVOR_TEXT]<N><N>Alcuni resoconti storici Quaidiani affermano che il culto era organizzato da un'istituzione matriarcale denominata la <LQ>Regina dei Molti Demoni.<RQ> Questa struttura di potere centralizzata negli ultimi secoli sembra essere svanita, in favore di una più libera congregazione di gran sacerdoti.
+$EN_NORMAL_W	<RE>$EN_NORMAL_NICK_NAME	Mostro Acquatico	Revenant Anfibio|Questi Revenant secernono una sostanza appiccicosa che ne impermeabilizza il corpo.<N><N>I gas tossici contenuti nell'addome gli permettono di restare a galla.
+$EN_ARMORED	CORAZZATO	Cavaliere Maledetto	Revenant Corazzato|Questi Revenant una volta erano dei cavalieri, caduti in battaglia.<N><N>Anche se hanno perso tutta l'intelligenza e le abilità che avevano in vita, possiedono ancora la loro corazza.
+$EN_SPEEDY	VELOCE	Verme	Prole veloce di Revenant|Queste veloci creature simili a vermi hanno diverse file di denti aguzzi.<N><N>Testimoni oculari li hanno visti erompere dalla carcassa di enormi Revenant mostruosamente gonfi, rimasti a marcire per settimane.
+$EN_SPEEDY_W	<RE>$EN_SPEEDY_NICK_NAME	Serpente	Prole Acquatica Veloce|C'è chi dice che questi vermi-Revenant acquatici siano l'evoluzione dei Revenant umani galleggianti.<N><N>Altri ipotizzano che si sviluppino dal corpo di pesci e serpenti di fiume.
+$EN_ARMORED SPEEDY	<RE>$EN_SPEEDY_NICK_NAME	Verme Corazzato	Prole Corazzata Veloce|Questi vermi-Revenant hanno sviluppato uno spesso carapace.<N><N>Molti ipotizzano che il guscio corazzato sia composto dalle ossa digerite del corpo originale.
+$EN_ARMORED_SPEEDY_W	<RE>$EN_SPEEDY_NICK_NAME	Serpente Corazzato	Prole Anfibia Corazzata Veloce|Questi vermi-Revenant anfibi hanno sviluppato sia un carapace corazzato che l'abilità di nuotare.<N><N>Il loro tanfo di ossa digerite e gas tossici è insopportabile.
+$EN_ATTACKER	COMBATTENTE	Ghoul Furioso	Revenant Combattente|Alcuni Revenant sono più aggressivi di altri.<N><N>Mentre i Revenant comuni inseguono stupidamente una sola preda, questo tipo è noto aggredire qualunque cosa si muova.
+$EN_DARK ATTACKER	SHADOW BOXER	Ghoul Oscuro	Revenant Oscuro Combattente|I gas contenuti nell'addome del Revenant esalano attraverso i pori della pelle, circondando la creatura in una spessa coltre di fumi tossici, che la nasconde alla vista e confonde le vittime.
+$EN_ATTACKER_W	<RE>$EN_ATTACKER_NICK_NAME	Ghoul di Fiume	Revenant Combattente Anfibio|I racconti di corpi puzzolenti che emergono dall'acqua attaccando i contadini assetati sono frequenti nella Valle.<N><N>Nessuno si azzarda più ad andare a raccogliere l'acqua da solo, e solo i pazzi osano nuotare.
+$EN_ARMORED ATTACKER	<RE>$EN_ATTACKER_NICK_NAME	Cavaliere Folle	Combattente Revenant Corazzato|Questi cavalieri maledetti sono tanto feroci quanto forti.<N><N>I loro lamenti spettrali echeggiano fra le catacombe e le vastità del deserto.
+$EN_RAPID_ATTACKER	ATTACCO RAPIDO
+$EN_APC	SPLITTER	Mostruosità	Revenant Ospite|Questi corpi mostruosamente rigonfi riescono a malapena a muoversi e sembrano pronti a scoppiare da un momento all'altro.<N><N>Diverse bocche dotate di denti gli spuntano dai fianchi. Sono anche troppo grandi per essere respinti all'indietro o divorati.
+$EN_APC_W	<RE>$EN_APC_NICK_NAME	Cadavere Fetido	Revenant Anfibio Gravido|Questi Revenant puzzano come un sacco di pesci marci e liquame.<N><N>Stanno a galla senza sforzo, e sembrano sul punto di scoppiare in qualsiasi momento.
+$EN_ARMORED APC	ARMORED SPLIT	Bestia Corazzata	Revenant Gravido Corazzato|Questo mostruoso ammasso di carne digerita è protetto da un carapace gigante.<N><N>Si potrebbe pensare che non gli siano più rimaste nemmeno le ossa.
+$EN_DOUBLE APC	DOUBLE SPLIT	Abominio	Revenant Gravido|Questo strano mostro non è semplicemente gonfio, ma ha anche uno strano colore.<N><N>Che cosa potrebbe significare?
+$EN_RANGED ATTACKER_BASIC			Col passare delle settimane, degli strani processi iniziano a mutare e digerire le carni del Revenant.<N><N>Alcuni testimoni affermano di essere stati attaccati da strani<LQ>uomini-serpente<RQ> senza occhi, in grado di sputare acido.
+$EN_RANGED ATTACKER	RANGED	Ghoul Serpente	Revenant Sputatore|<RE>[$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT]
+$EN_ARMORED RANGED ATTACKER	<RE>$EN_RANGED ATTACKER_NICK_NAME	Ghoul Serpente	Revenant Sputatore Corazzato|<RE>[$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT]
+$EN_RANGED ATTACKER_W	<RE>$EN_RANGED ATTACKER_NICK_NAME	Ghoul Serpente di Fiume	Revenant Sputatore Anfibio|<RE>[$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT]
+$EN_DARK	TENEBROSO	Verme Oscuro	Prole Oscura Veloce|Questi vermi sono ammantati da una fitta cappa di nebbia scura che li rende quasi impossibili da colpire.
+$EN_BRUTE	RESISTENTE	Verme della Morte	Massiccia Prole di Revenant|Queste pallide creature simili a vermi si muovono lentamente, e sono dotati di una pelle dura simile al cuoio, invece che di una fragile membrana esterna.<N><N>Anche se è facile seminarli, sono implacabili, e spesso raggiungono comunque la loro preda dopo un interminabile inseguimento.
+$EN_ERROR	ERRORE	Errore	Sono un errore|Se stai leggendo questo, significa che probabilmente c'è un errore nei dati dei nemici. Questo è il nemico che appare quando il gioco non riesce a trovare quello giusto.
+$EN_SHEEP	PECORA	Pecora	Delizioso Mammifero|I Draghi possono stare anni senza mangiare, ma quando si nutrono possono consumare in una sola giornata una quantità di cibo parecchie volte superiore al loro peso corporeo.  Questo fatto è fonte di grande inquietudine per i pastori nomadi e il loro gregge.
+$EN_SPEEDY SHEEP	PECORA VELOCE	Pecora da corsa	Delizioso Mammifero Veloce|Alcune pecore si sono adattate alle ostili condizioni di vita della valle, sviluppando dei muscoli estremamente scattanti.  Questo non basta per seminare i draghi, ma almeno gli consente di correre più veloce delle altre pecore.
+$EN_SUPER SHEEP	SUPER PECORA	Superpecora	Mammifero Incredibilmente Succulento|Leggende draconiche raccontano di questa rara pecora, l'Axxima Vatta Muttanaxxor, in toni sommessi e reverenti, e le sacre scritture dei Draghi descrivono un elaborato rituale da preparare prima della sua venuta.  Il sapere tradizionale associa le scritture Draconiche con altri testi religiosi, ma nuove ricerche suggeriscono che dovrebbero essere riclassificate come libro di cucina.
+$EN_OZIMAL	OZIMAL	Ozimal Kaz	Schiavo Revenant|Una volta il grande Signore della Guerra della Valle, ora niente più che un altro degli schiavi senza cervello di Zelemir.<N>La sua tunica rimane ancora piuttosto sgargiante, comunque.
+$EN_TWIN	GEMELLO	Gemello	Fratello Revenant|BLARGH YAAAARGH GAR GAR HUR.
+$EN_RIGHT_INDEX_FINGER	INDEX1 FINGER	Dito Indice	Dito Mostruoso|Anche se non è più attaccato alla mano, questo dito si muove di sua volontà.
+$EN_RIGHT_THUMB	THUMB	Pollice	Dito Mostruoso|Anche se non è più attaccato alla mano, questo dito si muove di sua volontà.
+$EN_RIGHT_MIDDLE_FINGER	MIDDLE FINGER	Dito Medio	Dito Mostruoso|Questo dito mozzato sembra fare un gesto osceno. Che maleducato!
+$EN_RIGHT_RING_FINGER	RING FINGER	Anulare	Dito Mostruoso|Anche se non è più attaccato alla mano, questo dito si muove di sua volontà.
+$EN_RIGHT_PINKY_FINGER	PINKY FINGER	Mignolo	Dito Mostruoso|Anche se non è più attaccato alla mano, questo dito si muove di sua volontà.
+$EN_RIGHT_EYE	EZTLI'S EYE	Occhio di Eztli	Occhio Mostruoso|Quest'occhio malevolo risplende di poteri proibiti e si muove con velocità innaturale.
+$EN_RIGHT_HAND	EZTLI'S HAND	Mano di Eztli	Mano Mostruosa|Il capo dei cultisti ha chiamato questo mostro <LQ>La Mano Destra di Eztli-Tenoch.<RQ> Dato quanto poco è conosciuto di Eztli-Tenoch, è difficile dire se questa sia la mano dello stesso Stregone, o soltanto una creazione dei suoi malvagi poteri. A un esame più attento, sembra che in realtà non sia affatto una mano DESTRA. Che storia, uhm, 'sinistra'...
+$EN_ZELEMIR	ZELEMIR	Zelemir	Stregone Negromante|Gli occhi di Zelemir scintillano di risoluta determinazione.
+$EN_EZTLI	EZTLI-TENOCH	Eztli-Tenoch	Antichissimo e Leggendario Stregone|Un antico potere, a lungo dormiente, ora di nuovo sveglio. Eztli-Tenoch una volta regnava sul mondo conosciuto, autoproclamandosi il Re-Dio. Il suo potere e la sua malvagità sono superati solo dalla sua incommensurabile pazienza.
+$EN_ZELEMIR-CITADEL	<RE>$EN_ZELEMIR_NICK_NAME	<RE>$EN_ZELEMIR_FLAVOR_NAME	<RE>$EN_ZELEMIR_FLAVOR_TEXT
+$EN_NORMAL_NOMONEY	<RE>$EN_NORMAL_NICK_NAME	<RE>$EN_NORMAL_FLAVOR_NAME	<RE>$EN_NORMAL_FLAVOR_TEXT
+$EN_NORMAL_EXP	<RE>$EN_NORMAL_NICK_NAME	<RE>$EN_NORMAL_FLAVOR_NAME	<RE>$EN_NORMAL_FLAVOR_TEXT
+$EN_NORMAL_EXP_PSI	<RE>$EN_NORMAL_NICK_NAME	<RE>$EN_NORMAL_FLAVOR_NAME	<RE>$EN_NORMAL_FLAVOR_TEXT
+$EN_NORMAL_LOWXP	<RE>$EN_NORMAL_NICK_NAME	<RE>$EN_NORMAL_FLAVOR_NAME	<RE>$EN_NORMAL_FLAVOR_TEXT
+$EN_CULTIST_LOWXP	<RE>$EN_CULTIST_NICK_NAME	<RE>$EN_CULTIST_FLAVOR_NAME	<RE>$EN_CULTIST_FLAVOR_TEXT
+$EN_ARMORED CULTIST_LOWXP	<RE>$EN_ARMORED CULTIST_NICK_NAME	<RE>$EN_ARMORED CULTIST_FLAVOR_NAME	<RE>$EN_ARMORED CULTIST_FLAVOR_TEXT
+$EN_NORMAL_W_LOWXP	<RE>$EN_NORMAL_NICK_NAME	<RE>$EN_NORMAL_W_FLAVOR_NAME	<RE>$EN_NORMAL_W_FLAVOR_TEXT
+$EN_ARMORED_LOWXP	<RE>$EN_ARMORED_NICK_NAME	<RE>$EN_ARMORED_FLAVOR_NAME	<RE>$EN_ARMORED_FLAVOR_TEXT
+$EN_SPEEDY_LOWXP	<RE>$EN_SPEEDY_NICK_NAME	<RE>$EN_SPEEDY_FLAVOR_NAME	<RE>$EN_SPEEDY_FLAVOR_TEXT
+$EN_SPEEDY_W_LOWXP	<RE>$EN_SPEEDY_NICK_NAME	<RE>$EN_SPEEDY_W_FLAVOR_NAME	<RE>$EN_SPEEDY_W_FLAVOR_TEXT
+$EN_ARMORED SPEEDY_LOWXP	<RE>$EN_SPEEDY_NICK_NAME	<RE>$EN_ARMORED SPEEDY_FLAVOR_NAME	<RE>$EN_ARMORED SPEEDY_FLAVOR_TEXT
+$EN_ARMORED_SPEEDY_W_LOWXP	<RE>$EN_SPEEDY_NICK_NAME	<RE>$EN_ARMORED_SPEEDY_W_FLAVOR_NAME	<RE>$EN_ARMORED_SPEEDY_W_FLAVOR_TEXT
+$EN_ATTACKER_LOWXP	<RE>$EN_ATTACKER_NICK_NAME	<RE>$EN_ATTACKER_FLAVOR_NAME	<RE>$EN_ATTACKER_FLAVOR_TEXT
+$EN_DARK ATTACKER_LOWXP	<RE>$EN_DARK ATTACKER_NICK_NAME	<RE>$EN_DARK ATTACKER_FLAVOR_NAME	<RE>$EN_DARK ATTACKER_FLAVOR_TEXT
+$EN_ATTACKER_W_LOWXP	<RE>$EN_ATTACKER_NICK_NAME	<RE>$EN_ATTACKER_W_FLAVOR_NAME	<RE>$EN_ATTACKER_W_FLAVOR_TEXT
+$EN_ARMORED ATTACKER_LOWXP	<RE>$EN_ATTACKER_NICK_NAME	<RE>$EN_ARMORED ATTACKER_FLAVOR_NAME	<RE>$EN_ARMORED ATTACKER_FLAVOR_TEXT
+$EN_RAPID_ATTACKER_LOWXP	<RE>$EN_RAPID_ATTACKER_NICK_NAME	<RE>$EN_RAPID_ATTACKER_FLAVOR_NAME	<RE>$EN_RAPID_ATTACKER_FLAVOR_TEXT
+$EN_APC_LOWXP	<RE>$EN_APC_NICK_NAME	<RE>$EN_APC_FLAVOR_NAME	<RE>$EN_APC_FLAVOR_TEXT
+$EN_APC_W_LOWXP	<RE>$EN_APC_NICK_NAME	<RE>$EN_APC_W_FLAVOR_NAME	<RE>$EN_APC_W_FLAVOR_TEXT
+$EN_ARMORED APC_LOWXP	<RE>$EN_ARMORED APC_NICK_NAME	<RE>$EN_ARMORED APC_FLAVOR_NAME	<RE>$EN_ARMORED APC_FLAVOR_TEXT
+$EN_DOUBLE APC_LOWXP	<RE>$EN_DOUBLE APC_NICK_NAME	<RE>$EN_DOUBLE APC_FLAVOR_NAME	<RE>$EN_DOUBLE APC_FLAVOR_TEXT
+$EN_ARMORED RANGED ATTACKER_LOWXP	<RE>$EN_RANGED ATTACKER_NICK_NAME	<RE>$EN_ARMORED RANGED ATTACKER_FLAVOR_NAME	<RE>$EN_ARMORED RANGED ATTACKER_FLAVOR_TEXT
+$EN_RANGED ATTACKER_LOWXP	<RE>$EN_RANGED ATTACKER_NICK_NAME	<RE>$EN_RANGED ATTACKER_FLAVOR_NAME	<RE>$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT
+$EN_RANGED ATTACKER_W_LOWXP	<RE>$EN_RANGED ATTACKER_NICK_NAME	<RE>$EN_RANGED ATTACKER_W_FLAVOR_NAME	<RE>$EN_RANGED ATTACKER_W_FLAVOR_TEXT
+$EN_DARK_LOWXP	<RE>$EN_DARK_NICK_NAME	<RE>$EN_DARK_FLAVOR_NAME	<RE>$EN_DARK_FLAVOR_TEXT
+$EN_BRUTE_LOWXP	<RE>$EN_BRUTE_NICK_NAME	<RE>$EN_BRUTE_FLAVOR_NAME	<RE>$EN_BRUTE_FLAVOR_TEXT
+$EN_APC_NOATTACK_LOWXP	<RE>$EN_APC_NICK_NAME	<RE>$EN_APC_FLAVOR_NAME	<RE>$EN_APC_FLAVOR_TEXT
+$EN_CULTIST_NOATTACK_LOWXP	<RE>$EN_CULTIST_NICK_NAME	<RE>$EN_CULTIST_FLAVOR_NAME	<RE>$EN_CULTIST_FLAVOR_TEXT
+$EN_PSI SHEEP	<RE>$EN_SHEEP_NICK_NAME	<RE>$EN_SHEEP_FLAVOR_NAME	<RE>$EN_SHEEP_FLAVOR_TEXT
+$EN_3_11_BOSS	BOSS
+$EN_FINGER	DITO DI EZTLI
+$EN_HEALIE	HEALIE	Dottò	Boss Segreto|Descrizione
+$EN_MEANIE	MEANIE	Bullo	Boss Segreto|Descrizione
+$EN_STEALY	STEALY	Clepto	Boss Segreto|Descrizione
+$EN_CRAZY	CRAZY	Pazzo	Boss Segreto|Descrizione
