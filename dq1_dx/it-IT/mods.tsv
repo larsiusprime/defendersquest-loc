@@ -1,15 +1,15 @@
 flag	content
-$T0N0	Good morning
-$T0N1	title:Modifications<N>workshop:Steam Workshop<N>browse:My Mods<N>new:Create new<N>install_zip:Install from Zip<N>selected:browse
-$T0N2	title:Modifications<N>browse:My Mods<N>new:Create new<N>install_zip:Install from Zip<N>selected:browse
+$T0N0	Buon giorno
+$T0N1	title:Mod<N>workshop:Workshop di Steam<N>browse:I Miei Mod<N>new:Crea Nuovo Mod<N>install_zip:Installa da file Zip<N>selected:esplora
+$T0N2	title:Mod<N>browse:I Miei Mod<N>new:Crea Nuovo Mod<N>install_zip:Installa da file Zip<N>selected:esplora
 $T0N6	
-$T0N9	title:Modifications<N>
-$T0N10	title:Mod Template Settings<N>body:Game data to copy as a starting point for your mod:<N>export_data:Core data files<N>export_maps:Battle Maps<N>export_sprites:Sprites<N>export_cutscenes:Cutscene art<N>export_backgrounds:Background art<N>export_sfx:Sound Effects<N>export_music:Music<N>selected:export_data<N>
-$T0N11	title:Mod name<N>new_mod_name:
-$T0N12	title:Creating Mod...
-$T0N13	title:Export Complete!<N>body:Your mod template is here:<LOCATION><N>browse:My Mods<N>explore:Explore<N>close:Close<N>
-$T0N15	title:Installing Mod...
-$T0N16	title:Installation Complete!<N>body:Your mod was installed here:<LOCATION><N>browse:My Mods<N>explore:Explore<N>close:Close
-$T0N22	title:<N>body:Please Wait...
-$T0N26	title:Error!<N>body:<ERROR><N>close:Close
-$T0N30	title:<N>body:Unload mod & restart the game?<N>okay:Okay<N>cancel:Cancel
+$T0N9	title:Mod<N>
+$T0N10	title:Mod Template Settings<N>body:File da copiare come base di partenza per il tuo mod:<N>export_data:File di Base<N>export_maps:Mappe delle Battaglie<N>export_sprites:Sprite<N>export_cutscenes:Grafica Scenette<N>export_backgrounds:Sfondi<N>export_sfx:Effetti Sonori<N>export_music:Musica<N>selected:export_data<N>
+$T0N11	title:Nome del Mod<N>new_mod_name:
+$T0N12	title:Creazione del Mod...
+$T0N13	title:Esportazione Completata!<N>body:Il tuo mod è localizzato qui:<LOCATION><N>browse:I Miei Mod<N>explore:Esplora<N>close:Chiudi<N>
+$T0N15	title:Installazione Mod...
+$T0N16	title:Installazione Completata!<N>body:Il tuo mod è stato installato qui:<LOCATION><N>browse:I Miei Mod<N>explore:Esplora<N>close:Chiudi
+$T0N22	title:<N>body:Attendere Prego...
+$T0N26	title:Errore!<N>body:<ERROR><N>close:Chiudi
+$T0N30	title:<N>body:Deselezionare il mod e riavviare il gioco?<N>okay:Conferma<N>cancel:Annulla
