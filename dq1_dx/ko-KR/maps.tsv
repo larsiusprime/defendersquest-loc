@@ -116,7 +116,7 @@ $1_3_COLISEUM_1_50_TITLE	TALK_$BER_DERANGED
 $1_3_COLISEUM_1_50_TEXT	자, 죽는 것보단 저놈들 엉덩이라도 뻥 차버리자고!
 $1_3_COLISEUM_1_60_TITLE	TALK_$BER_SMILE
 $1_3_COLISEUM_1_60_TEXT	죽기에 딱 좋은 곳을 찾은 것 같군.
-$1_3_COLISEUM_1_70_TITLE	정찰병 
+$1_3_COLISEUM_1_70_TITLE	정찰병
 $1_3_COLISEUM_1_70_TEXT	$MCG은(는) 광전사와 레인저를 오가며 선택할 수 있습니다.
 $1_3_COLISEUM_1_80_TITLE	
 $1_3_COLISEUM_1_80_TEXT	<N>다가올 적들 위에 마우스를 올리면 추가 정보를 얻을 수 있습니다.
@@ -651,4 +651,4 @@ $INDEX_HERMIT_4_TITLE	은둔처
 $INDEX_HERMIT_4_TEXT	마지막 은둔자는 사막을 자신의 집으로 삼고있습니다.
 $INDEX_OBELISK_TITLE	이상한 기념탑
 $INDEX_OBELISK_TEXT	사막에 이상한 기념탑이 있습니다.
-$BLANK	 
+$BLANK	

@@ -6,7 +6,7 @@ $TITLE_START	Spusť
 $TITLE_QUIT	Konec
 $TITLE_EULA_1	Hraním této hry souhlasíte s naší
 $TITLE_EULA_2	Dohodou s Koncovým Uživatelem
-$TITLE_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT	COMMENT: this is a redirect, the text for $MISC_PLEASE_WAIT will be duplicated here
+$TITLE_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT	COMMENT: this is a redirect<C> the text for $MISC_PLEASE_WAIT will be duplicated here
 $TITLE_BONUS_GOODIES	Bonusy
 $TITLE_BONUS_GOODIES_2	Tajemství?
 $TITLE_CONNECTING_KONG	Připojuji ke KONG...
@@ -15,17 +15,17 @@ $TITLE_RELOAD_MOD	Načíst rozšíření znovu
 $DEMO_OVER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
 $DEMO_OVER_DONT_FORGET	Nezapomeň na soubor se svojí uloženou pozicí!
 $DEMO_OVER_EXPORT_HOW	Tímhle tlačítkem uděláš export svojí pozice.
-$DEMO_OVER_USE_IT	Můžeš ho použít a pokračovat tam, kde jsi skončil!
+$DEMO_OVER_USE_IT	Můžeš ho použít a pokračovat tam<C> kde jsi skončil!
 $DEMO_OVER_PLAY	Hraj dál!
-$DEMO_OVER_THANKS	Díky, že sis zahrál!
+$DEMO_OVER_THANKS	Díky<C> že sis zahrál!
 $DEMO_OVER_ENORMOUS	Klikni na tohle velké tlačitko a pokračuj ve svém poslání!
 $DEMO_OVER_ENORMOUS_2	Klikni na nějaké velké tlačitko a pokračuj ve svém poslání!
 $DEMO_OVER_FULL_GAME	Získej PLNOU HRU!
-$DEMO_OVER_FULL_GAME_SHORT	PLNÁ<N>HRA!	COMMENT: <N> means a line break. <N> works too, but not <N> or <n>
+$DEMO_OVER_FULL_GAME_SHORT	PLNÁ<N>HRA!	COMMENT: <N> means a line break. <N> works too<C> but not <N> or <n>
 $DEMO_OVER_ACTS	Akty<N>III a IV
 $DEMO_ONLY_LOGIN_TITLE	FREE!
 $DEMO_ONLY_LOGIN_TEXT	Unlocks Acts III & IV!<N>2 more character classes!<N>6 more battle maps!<N><N>@It's FREE:@<N>Register a kong account<N>(or sign in if you have one)<N>then restart the game.<N>
-$DEMO_ONLY_BUY_TEXT	@Includes DOWNLOADABLE game and soundtrack!@<N>Unlocks Acts III - VII!<N>All 6 character classes!<N>All 108 cutscenes!<N>All 39 battle maps!<N>All 14 bonus battles!<N><N>New Game+ mode!<N>Original game x 2!<N>All new enemy types!<N>7 new sidequests!<N>Loot, books, and bonuses!<N><N>
+$DEMO_ONLY_BUY_TEXT	@Includes DOWNLOADABLE game and soundtrack!@<N>Unlocks Acts III - VII!<N>All 6 character classes!<N>All 108 cutscenes!<N>All 39 battle maps!<N>All 14 bonus battles!<N><N>New Game+ mode!<N>Original game x 2!<N>All new enemy types!<N>7 new sidequests!<N>Loot<C> books<C> and bonuses!<N><N>
 $DEMO_ONLY_X_KREDS	Jen <X> kreditů!
 $DEMO_FREE_IF_REGISTERED	ZDARMA pro registrované!
 $ERROR_TITLE	Došlo k chybě!
@@ -58,14 +58,14 @@ $PARTY_PERFECT	PERFEKT!
 $PARTY_PERFECT+	PERFEKT!+
 $PARTY_PERFECT++	PERFEKT!++
 $PARTY_PERFECT_DESC	<MCG> přežila bez zranění!
-$PARTY_PERFECT++_DESC	<MCG> a <ALLY><N> přežili bez zranění!	COMMENT: The game will put Zelemir, Tletl-Meztli, or any other alternate mcguffin's name where <ALLY> appears.
+$PARTY_PERFECT++_DESC	<MCG> a <ALLY><N> přežili bez zranění!	COMMENT: The game will put Zelemir<C> Tletl-Meztli<C> or any other alternate mcguffin's name where <ALLY> appears.
 $PARTY_PERFECT+_DESC	<MCG> přežila bez zranění!<N><ALLY> byl zraněn!
-$PARTY_PERFECT_ALLY_DEAD_DESC	<MCG> přežila bez zranění, ale <ALLY> byl zabit.
+$PARTY_PERFECT_ALLY_DEAD_DESC	<MCG> přežila bez zranění<C> ale <ALLY> byl zabit.
 $PARTY_PASSED	Vítězství!
 $PARTY_PASSED+	Vítězství!+
 $PARTY_PASSED++	Vítězství!++
-$PARTY_PASSED_DESC	<MCG> přežila,<N>ale byla zraněna.
-$PARTY_PASSED_ALLY_DEAD_DESC	<ALLY> byl zabit,<N>ale <MCG> přežila.
+$PARTY_PASSED_DESC	<MCG> přežila<C><N>ale byla zraněna.
+$PARTY_PASSED_ALLY_DEAD_DESC	<ALLY> byl zabit<C><N>ale <MCG> přežila.
 $PARTY_PASSED+_DESC	<MCG> byla zraněna!<N><ALLY> přežil!
 $PARTY_PASSED++_DESC	<MCG> byla zraněna!<N><ALLY> přežil bez zranění!
 $PARTY_DEFEATED_WAVE_X	Porazil vlnu <X>
@@ -103,17 +103,17 @@ $UI_EQUIP_NO_W_STAFF	Nemáš žádné hole!
 $UI_EQUIP_NO_W_BOOK	Nemáš žádné knihy!
 $UI_EQUIP_NO_A_LIGHT	Nemáš žádná lehká brnění!
 $UI_EQUIP_NO_A_HEAVY	Nemáš žádná těžká brnění!
-$UI_ACCEPT_NUMS	font:18,off_y:1,off_x:-3	COMMENT: Font size and x/y offsets for options menu button labels
-$UI_BACK_NUMS	font:18,off_y:1,off_x:-3
-$UI_AUDIO_NUMS	font:18,off_y:1,off_x:-2
-$UI_VIDEO_NUMS	font:18,off_y:1,off_x:-2
-$UI_MISC_NUMS	font:18,off_y:1,off_x:-2
-$UI_ACCESS_NUMS	font:18,off_y:1,off_x:-2,show_boxes:1,absence_off_x:0,speed_off_x:0	COMMENT: hide/show accessibility box graphic, offset for 'absence' text, offset for 'speed' text
-$UI_ACHIEVEMENTS_NUMS	font:18,off_y:0
-$UI_RESTART_NUMS	font:18,off_y:1,off_x:-2
-$UI_QUIT_NUMS	font:18,off_y:1,off_x:-2
-$UI_CONTROLS_NUMS	font:18,off_y:1,off_x:-2
-$UI_OPTIONS_NUMS	font:18,off_y:1,off_x:-2
+$UI_ACCEPT_NUMS	font:18<C>off_y:1<C>off_x:-3	COMMENT: Font size and x/y offsets for options menu button labels
+$UI_BACK_NUMS	font:18<C>off_y:1<C>off_x:-3
+$UI_AUDIO_NUMS	font:18<C>off_y:1<C>off_x:-2
+$UI_VIDEO_NUMS	font:18<C>off_y:1<C>off_x:-2
+$UI_MISC_NUMS	font:18<C>off_y:1<C>off_x:-2
+$UI_ACCESS_NUMS	font:18<C>off_y:1<C>off_x:-2<C>show_boxes:1<C>absence_off_x:0<C>speed_off_x:0	COMMENT: hide/show accessibility box graphic<C> offset for 'absence' text<C> offset for 'speed' text
+$UI_ACHIEVEMENTS_NUMS	font:18<C>off_y:0
+$UI_RESTART_NUMS	font:18<C>off_y:1<C>off_x:-2
+$UI_QUIT_NUMS	font:18<C>off_y:1<C>off_x:-2
+$UI_CONTROLS_NUMS	font:18<C>off_y:1<C>off_x:-2
+$UI_OPTIONS_NUMS	font:18<C>off_y:1<C>off_x:-2
 $UI_CONTROLS_TITLE	Ovládání
 $UI_VIDEO_TITLE	Obraz
 $UI_AUDIO_TITLE	Zvuk
@@ -123,7 +123,7 @@ $UI_OPTIONS_TITLE	Volby
 $UI_OPTIONS_MENU	Volby
 $UI_OPTIONS_SPEED	Rychlost hry
 $UI_ACHIEVEMENTS_TITLE	Úspěchy
-$UI_ACHIEVEMENTS_BUTTON_NUMBERS	font:18,offy:-2
+$UI_ACHIEVEMENTS_BUTTON_NUMBERS	font:18<C>offy:-2
 $UI_SFX	Zvuky:
 $UI_MUSIC	Hudba:
 $UI_ACCESS_REWARDS	Odměny
@@ -137,7 +137,7 @@ $UI_BONUS_BONUS_LEVELS	Bonusové mapy
 $UI_BONUS_STARS_LINE	<STAR_NUM> <STAR_COLOR> hvězd
 $UI_BONUS_GOLD_STARS_LINE	<STAR_NUM> zlatých
 $UI_BONUS_BLUE_STARS_LINE	<STAR_NUM> modrých
-$UI_MOVIE_NUMS	font:13,tabs:3
+$UI_MOVIE_NUMS	font:13<C>tabs:3
 $UI_MOVIE_SELECT_A_MOVIE	Vyber scénu
 $UI_MOVIE_SCENE	scéna
 $UI_MOVIE_QUEST	úkol
@@ -148,7 +148,7 @@ $UI_UPDATER_SECURED_WITH	Mechanismus kontroly nových verzí je zabezpečen pře
 $UI_UPDATER_ASK_DOWNLOAD	Stáhnout aktualizaci?
 $UI_UPDATER_SERVER_TIMEOUT	Server neodpověděl!
 $UI_UPDATER_NO_INFO	Server neposkytl informaci o nové verzi.
-$UI_UPDATER_NO_BIG_DEAL	To vůbec nevadí, můžete si klidně zahrát, jen zrovna není dostupný aktualizační server.
+$UI_UPDATER_NO_BIG_DEAL	To vůbec nevadí<C> můžete si klidně zahrát<C> jen zrovna není dostupný aktualizační server.
 $UI_UPDATER_DEB	balíček DEB
 $UI_UPDATER_RPM	balíček RPM
 $UI_UPDATER_TARGZ	archiv TAR.GZ
@@ -164,7 +164,7 @@ $UI_UPDATER_ERROR!	CHYBA!
 $UI_UPDATER_DETAILS	Podrobnosti:
 $UI_UPDATER_NO_VERIFY	Nemohl jsem ověřit soubor s aktualizací.
 $UI_UPDATER_NO_DOWNLOAD	Nemohl jsem stáhnout soubor s aktualizací.
-$UI_UPDATER_CHECKSUM_MISMATCH	Kontrolní součet aktualizace se neshoduje s očekávanou hodnotou.<N><N>Možná a pravděpodobná příčina je přerušené stahování, bezpečnostní problém (nepravděpodobné) nebo kosmické paprsky (jeden nikdy neví).<N><N>Každopádně se aktualizace nepovedla.
+$UI_UPDATER_CHECKSUM_MISMATCH	Kontrolní součet aktualizace se neshoduje s očekávanou hodnotou.<N><N>Možná a pravděpodobná příčina je přerušené stahování<C> bezpečnostní problém (nepravděpodobné) nebo kosmické paprsky (jeden nikdy neví).<N><N>Každopádně se aktualizace nepovedla.
 $UI_UPDATER_GIVE_UP	Vzdej to
 $UI_UPDATER_TRY_AGAIN	Znovu
 $UI_UPDATER_CONNECTING	Připojuji se k serveru...
@@ -174,7 +174,7 @@ $UI_UPDATER_CHECKSUM	Počítám kontrolní součet...
 $UI_UPDATER_NAVIGATING	Naviguji k souboru...
 $UI_UPDATER_CLOSE_WINDOW	Toto okno musíte před instalací aktualizace zavřít.
 $UI_UPDATER_FILE_IS_AT	Vaše aktualizace je umístěna zde:
-$UI_UPDATER_IF_NO_WINDOW	Pokud se složka neotevře, zkuste ji najít ručně.
+$UI_UPDATER_IF_NO_WINDOW	Pokud se složka neotevře<C> zkuste ji najít ručně.
 $UI_UPDATER_DOWNLOADED	Aktualizace stažena!
 $UI_UPDATER_NAVIGATE_NOW	Chcete soubor zobrazit?
 $UI_UPDATER_NOTE	Poznámka:
@@ -197,8 +197,8 @@ $UI_SKILLS_CLICK_TO_UPGRADE	Klikni a vylepši.
 $UI_SKILLS_MAX	MAXIMUM
 $MISC_MAX	MAX
 $UI_SKILLS_NO_POINTS	Žádné volné body.
-$UI_SKILLS_REQ_1PT	Vyžaduje: Úroveň <LVL>,<N><PT> bod ve <SKILL>
-$UI_SKILLS_REQ_XPT	Vyžaduje: Úroveň <LVL>,<N><PT> body ve <SKILL>
+$UI_SKILLS_REQ_1PT	Vyžaduje: Úroveň <LVL><C><N><PT> bod ve <SKILL>
+$UI_SKILLS_REQ_XPT	Vyžaduje: Úroveň <LVL><C><N><PT> body ve <SKILL>
 $UI_SKILLS_NO_LEARN_SPELL	Tohle kouzlo ještě neumíš.
 $UI_SKILLS_MOUSE_OVER	Najeď myší pro detaily.
 $UI_EQUIP_OWNED	Máš
@@ -214,11 +214,11 @@ $UI_EQUIP_ALL_W_STAFF_EQUIPPED	Všechny hole použity!
 $UI_EQUIP_ALL_W_BOW_EQUIPPED	Všechny luky použity!
 $UI_EQUIP_ALL_A_LIGHT_EQUIPPED	Všechna lehká brnění použita!
 $UI_EQUIP_ALL_A_HEAVY_EQUIPPED	Všechna těžká brnění použita!
-$UI_EQUIP_CANT_UPGRADE_W_SWORD	Nemáš žádné meče, které bych mohl vylepšit!
-$UI_EQUIP_CANT_UPGRADE_W_BOW	Nemáš žádné luky, které bych mohl vylepšit!
-$UI_EQUIP_CANT_UPGRADE_W_STAFF	Nemáš žádné hole, které bych mohl vylepšit!
-$UI_EQUIP_CANT_UPGRADE_A_LIGHT	Nemáš žádná lehká brnění, která bych mohl vylepšit!
-$UI_EQUIP_CANT_UPGRADE_A_HEAVY	Nemáš žádná těžká brnění, která bych mohl vylepšit!
+$UI_EQUIP_CANT_UPGRADE_W_SWORD	Nemáš žádné meče<C> které bych mohl vylepšit!
+$UI_EQUIP_CANT_UPGRADE_W_BOW	Nemáš žádné luky<C> které bych mohl vylepšit!
+$UI_EQUIP_CANT_UPGRADE_W_STAFF	Nemáš žádné hole<C> které bych mohl vylepšit!
+$UI_EQUIP_CANT_UPGRADE_A_LIGHT	Nemáš žádná lehká brnění<C> která bych mohl vylepšit!
+$UI_EQUIP_CANT_UPGRADE_A_HEAVY	Nemáš žádná těžká brnění<C> která bych mohl vylepšit!
 $UI_EQUIP_NO_W_SWORD	Nemáš žádné meče!
 $UI_EQUIP_NO_W_STAFF	Nemáš žádné hole!
 $UI_EQUIP_NO_W_BOW	Nemáš žádné luky!
@@ -239,15 +239,15 @@ $UI_CONTROLS_CHARACTER	Postava
 $UI_CONTROLS_TARGET	Cíl
 $UI_CONTROLS_PAUSE	Pauza
 $UI_CONTROLS_MINUS_SPEED	- rychlost
-$UI_CONTROLS_PLUS_SPEED	+ rychlost
+$UI_CONTROLS_PLUS_SPEED	<PLUS> rychlost
 $UI_CONTROLS_BOOST	Vylepši
 $UI_CONTROLS_RECALL	Odvolej
 $UI_CONTROLS_BACK	Zpět
 $UI_CONTROLS_PRESETS	Schémata
 $UI_CONTROLS_TAB_NAV	Navigace
 $UI_CONTROLS_CYCLE	Procházej<N>Obránce
-$UI_CONTROLS_CYCLE_NUMS	off_x:-5,off_y:0	COMMENT: moves the 'cycle defenders' text and associated buttons
-$UI_CONTROLS_SCROLL	Posun mapy,<N>Umístění obránců
+$UI_CONTROLS_CYCLE_NUMS	off_x:-5<C>off_y:0	COMMENT: moves the 'cycle defenders' text and associated buttons
+$UI_CONTROLS_SCROLL	Posun mapy<C><N>Umístění obránců
 $UI_CONTROLS_MOVE_CURSOR	Posun kurzoru
 $UI_CONTROLS_VIRTUAL_MOUSE	Virtuální myš
 $UI_CONTROLS_CLICK	Klik
@@ -265,18 +265,18 @@ $UI_CONTROLS_PRESET_QWERTZ	Qwertz
 $UI_CONTROLS_PRESET_DVORAK	Dvorak
 $UI_CONTROLS_PRESET_CUSTOM	Vlastní
 $UI_DOWNLOAD_WARNING	Vypněte si<N>blokování vyskakovacích oken!
-$UI_DOWNLOAD_BODY	Klikněte pro stažení verze hry<N>pro samostatné počítače.<N><N>Hra bude stažena v novém okně/záložce.<N>Může to chvilku trvat, takže vydržte a neklikejte netrpělivě znova.
+$UI_DOWNLOAD_BODY	Klikněte pro stažení verze hry<N>pro samostatné počítače.<N><N>Hra bude stažena v novém okně/záložce.<N>Může to chvilku trvat<C> takže vydržte a neklikejte netrpělivě znova.
 $UI_DOWNLOAD_LINUX	Linux
 $UI_DOWNLOAD_WINDOWS	Windows
 $UI_DOWNLOAD_MACINTOSH	Macintosh
 $UI_DOWNLOAD_SOUNDTRACK	Hudba
 $UI_CONFLICT_TITLE	Konflikt s úložistěm STEAM!
-$UI_CONFLICT_MSG	Nevíme jistě, která z těchto uložených her by měla být v pozici <SLOT>.<N>Vyber, kterou si chceš nechat.
+$UI_CONFLICT_MSG	Nevíme jistě<C> která z těchto uložených her by měla být v pozici <SLOT>.<N>Vyber<C> kterou si chceš nechat.
 $UI_CONFLICT_CLOUD	ÚLOŽIŠTĚ
 $UI_CONFLICT_LOCAL	POČÍTAČ
-$UI_CONFLICT_BETTER	Myslíme si, že tahle je lepší
+$UI_CONFLICT_BETTER	Myslíme si<C> že tahle je lepší
 $UI_CONFLICT_BUTTON	Použij tuhle
-$UI_CONFLICT_BUTTON_NUMS	font:13,x_off:0,y_off:-8
+$UI_CONFLICT_BUTTON_NUMS	font:13<C>x_off:0<C>y_off:-8
 $UI_CONFLICT_NGP	Nová hra+
 $UI_CONFLICT_BACKUP	Ulož nepoužitou pozici do souboru v:<N><LOC>
 $UI_GAMEPLAY_MISCELLANEOUS	Různé
@@ -293,7 +293,7 @@ $UI_GAMEPLAY_HIDE	Schovej
 $UI_GAMEPLAY_SHOW	Ukazuj
 $UI_GAMEPLAY_TRACKING	Sběr dat
 $UI_GAMEPLAY_TRACK_YES	Sběr anonymních statistik ze hry
-$UI_GAMEPLAY_TRACK_NO	Ne, kámo, žádný sběr dat!
+$UI_GAMEPLAY_TRACK_NO	Ne<C> kámo<C> žádný sběr dat!
 $UI_GAMEPLAY_AUTO_UPDATE	Automatické aktualizace
 $UI_GAMEPLAY_ENABLE_UPDATER	Kontrola při spuštění
 $UI_GAMEPLAY_DISABLE_UPDATER	Vypnout
@@ -302,7 +302,7 @@ $UI_SAVE_PATH	Uložené pozice...
 $UI_MOD_PATH	Rozšíření...
 $TOOLTIP_CHANGE_PATH_1	Poznámka:
 $TOOLTIP_CHANGE_PATH_2	Vaše staré soubory nebudou automaticky přestěhovány do nového adresáře.<N><N>Zůstanou v původním adresáři.
-$UI_VIDEO_IF_DOESNT_WORK	Pokud nové rozlišení nebude fungovat,<N>za pár vteřin se vrátí původní.
+$UI_VIDEO_IF_DOESNT_WORK	Pokud nové rozlišení nebude fungovat<C><N>za pár vteřin se vrátí původní.
 $UI_VIDEO_RES_CHANGED	Rozlišení změněno.<N>Líbí se Ti to?<N><N>Za <TIME> sekund vrátím původní.
 $UI_VIDEO_SETTINGS	Nastavení grafiky
 $UI_VIDEO_WARNING	Nastavení grafiky je vypnuto při hraní v prohlížeči.
@@ -332,11 +332,11 @@ $UI_SAVE_ERROR_INCOMPAT	Nekompatibilní!
 $UI_SAVE_ERROR_INCOMPAT_TEXT	Chyba! Hraješ DEMO<N>a tahle pozice je z PLNÉ hry
 $UI_SAVE_DEMO_IMPORT	Import z dema
 $UI_SAVE_DEMO_IMPORT_TEXT	Tahle pozice je z DEMA. Možná dojde k drobným úpravám.<N>Nevadí to?
-$UI_SAVE_DEMO_NEWER	Tahle pozice je z novější verze hry,<N>možná nebude kompatibilní.<N>Mám to přesto zkusit?
-$UI_NORM_MOD_INCOMPAT_TEXT	<N>Pozice je z rozšíření,<N>možná nebude všechno fungovat, jak má.<N><N>Mám přesto provést import?
-$UI_MOD_NORM_INCOMPAT_TEXT	<N>Je zapnuto rozšíření, ale pozice je <N>z normální hry,<N>možná nebude všechno fungovat, jak má.<N><N>Mám přesto provést import?
-$UI_MOD_MOD_INCOMPAT_TEXT	<N>Pozice je z jiného rozšíření,<N>možná nebude všechno fungovat, jak má.<N><N>Mám přesto provést import?
-$UI_SAVE_DEMO_OLDER	Tahle pozice je ze starší verze hry,<N>možná dojde k drobným úpravám.<N>Nevadí to?
+$UI_SAVE_DEMO_NEWER	Tahle pozice je z novější verze hry<C><N>možná nebude kompatibilní.<N>Mám to přesto zkusit?
+$UI_NORM_MOD_INCOMPAT_TEXT	<N>Pozice je z rozšíření<C><N>možná nebude všechno fungovat<C> jak má.<N><N>Mám přesto provést import?
+$UI_MOD_NORM_INCOMPAT_TEXT	<N>Je zapnuto rozšíření<C> ale pozice je <N>z normální hry<C><N>možná nebude všechno fungovat<C> jak má.<N><N>Mám přesto provést import?
+$UI_MOD_MOD_INCOMPAT_TEXT	<N>Pozice je z jiného rozšíření<C><N>možná nebude všechno fungovat<C> jak má.<N><N>Mám přesto provést import?
+$UI_SAVE_DEMO_OLDER	Tahle pozice je ze starší verze hry<C><N>možná dojde k drobným úpravám.<N>Nevadí to?
 $UI_SAVE_DEMO_ATTENTION	Pozor!
 $UI_SAVE_MENU_LOADED	Nahrávání ukončeno!
 $UI_SAVE_MENU_CHECK_GOG	Hledám aktualizace na GOGu!
@@ -373,15 +373,15 @@ $UI_MOD_INSTALL_ERROR2	Rozšíření se nepodařilo nainstalovat.
 $UI_DEFQ_MODS	Rozšíření
 $UI_MOD_TITLE	Rozšíření
 $UI_MOD_DATA_ONLY	Jen data (1MB)
-$UI_MOD_SPRITES	 +4MB grafiky postav
-$UI_MOD_MOVIES	 +13MB scén
-$UI_MOD_BKGS	 +42MB obrázků pozadí
+$UI_MOD_SPRITES	<SP>+4MB grafiky postav
+$UI_MOD_MOVIES	<SP>+13MB scén
+$UI_MOD_BKGS	<SP>+42MB obrázků pozadí
 $UI_MOD_TEMPLATE_SETTINGS	Nastavení šablon rozšíření
 $UI_MOD_SELECT_DIR	Vyber adresář pro rozšíření
 $UI_SAVE_SELECT_DIR	Vyber adresář pro pozice
 $UI_MOD_LOAD_MOD	Nahraj rozšíření
 $UI_MOD_EXISTS	Rozšíření nalezeno.<N>Nahrát?
-$UI_MOD_MISSING	Nemůžu najít soubor settings.xml.<N>Buď v tomhle adresáři není žádné rozšíření,<N>nebo je porušené.
+$UI_MOD_MISSING	Nemůžu najít soubor settings.xml.<N>Buď v tomhle adresáři není žádné rozšíření<C><N>nebo je porušené.
 $UI_MOD_NOT_DIR	Cože!<N>Vždyť to není adresář!<N>Zkus to znovu.
 $UI_MOD_LOADING	Nahrávám rozšíření...
 $UI_MOD_PLEASE_WAIT	Prosím počkej<N>než se rozšíření nahraje
@@ -438,12 +438,12 @@ $UI_EQUIP_CANT_SELL_UNIQUE	Unikátní předměty nelze prodat!
 $UI_EQUIP_SELL_OLD_WEAPON_FOR	Prodat starou zbraň za <SELL_PRICE>?
 $UI_EQUIP_SELL_OLD_ARMOR_FOR	Prodat staré brnění za <SELL_PRICE>?
 $UI_RECRUIT_CLASS_FULL	Třída je plná!
-$UI_RECRUIT_BERSERKER_NUMS	font:14,x_off:0,y_off:0
-$UI_RECRUIT_RANGER_NUMS	font:14,x_off:0,y_off:0
-$UI_RECRUIT_KNIGHT_NUMS	font:14,x_off:0,y_off:0
-$UI_RECRUIT_MAGE_NUMS	font:14,x_off:0,y_off:0
-$UI_RECRUIT_HEALER_NUMS	font:14,x_off:0,y_off:0
-$UI_RECRUIT_DRAGON_NUMS	font:14,x_off:0,y_off:0
+$UI_RECRUIT_BERSERKER_NUMS	font:14<C>x_off:0<C>y_off:0
+$UI_RECRUIT_RANGER_NUMS	font:14<C>x_off:0<C>y_off:0
+$UI_RECRUIT_KNIGHT_NUMS	font:14<C>x_off:0<C>y_off:0
+$UI_RECRUIT_MAGE_NUMS	font:14<C>x_off:0<C>y_off:0
+$UI_RECRUIT_HEALER_NUMS	font:14<C>x_off:0<C>y_off:0
+$UI_RECRUIT_DRAGON_NUMS	font:14<C>x_off:0<C>y_off:0
 $UI_BATTLE_MORE	další
 $UI_BATTLE_SEND_NEXT	Pošli<N>DALŠÍ
 $UI_BATTLE_NEXT	DALŠÍ
@@ -453,39 +453,39 @@ $UI_BATTLE_WAVE_BUTT_NUMS
 $UI_BATTLE_CASH_OUT	Konec
 $UI_BATTLE_CASH_OUT?	Konec boje?
 $UI_BATTLE_CASH_OUT_TEXT	Ukončit bitvu? (Za splněné cíle dostaneš odměnu)
-$UI_BATTLE_WAVE_BUTT_NUMS	font_next:13,font_cash_out:11,font_next_x_off:0,font_next_y_off:-4,font_cash_out_x_off:0,font_cash_out_y_off:-1
+$UI_BATTLE_WAVE_BUTT_NUMS	font_next:13<C>font_cash_out:11<C>font_next_x_off:0<C>font_next_y_off:-4<C>font_cash_out_x_off:0<C>font_cash_out_y_off:-1
 $FB_LIKE_US_TEXT	Lajkněte nás na Facebooku <N>a získejte tuhle odměnu ZADARMO!
 $FB_LIKE_US_YES	Jasně!
 $FB_LIKE_US_NO	Ani smykem.
 $FB_THANKS_TEXT	Díky za lajk na Facebooku!<N>Odměnu jste dostali!
 $FB_THANKS_OK	Ok.
 $FB_THANKS_SUCKS	Facebook stojí za prd
-$FB_REBEL_TEXT	Správně, jen jim zasol!<N>a tohle máš za odměnu.
+$FB_REBEL_TEXT	Správně<C> jen jim zasol!<N>a tohle máš za odměnu.
 $FB_SECOND_PITCH	Pořád to můžeš dostat <N>za lajk na Facebooku!
 $FB_SECOND_PITCH_YES	Ok!
 $FB_SECOND_PITCH_NO	Nikdy!
-$FB_NUMS	font:16,y_off:0,x_off:0,width_off:0
+$FB_NUMS	font:16<C>y_off:0<C>x_off:0<C>width_off:0
 $FB_HARD_SELL_TEXT	Jsi si jistý?<N>Podívej! Krásně se leskne!
 $FB_HARD_SELL_YES	No tak dobře...
 $FB_HARD_SELL_NO	Řekl jsem NE!
-$FB_PERSISTENT_TEXT	No dobře, ukecals mě!<N>Dostaneš to stejně :)
+$FB_PERSISTENT_TEXT	No dobře<C> ukecals mě!<N>Dostaneš to stejně :)
 $FB_PERSISTENT_OK	Vyhrál jsem!
-$FB_HARD_SELL_NUMS	yes_font:16,no_font:16,yes_off_y:0,yes_off_x:0,no_off_y:0,no_off_x:0
-$FB_PERSISTENT_NUMS	yes_font:16,no_font:16,yes_off_y:0,yes_off_x:0,no_off_y:0,no_off_x:0
+$FB_HARD_SELL_NUMS	yes_font:16<C>no_font:16<C>yes_off_y:0<C>yes_off_x:0<C>no_off_y:0<C>no_off_x:0
+$FB_PERSISTENT_NUMS	yes_font:16<C>no_font:16<C>yes_off_y:0<C>yes_off_x:0<C>no_off_y:0<C>no_off_x:0
 $FB_THIS_ITEM_WILL_NOW	Odteď bude tenhle kousek k dispozici ve výbavě všech hráčů.
 $DEFQ2_CLICK_TEXT	Defender's Quest II je na cestě!<N>Koukni na to a dostaneš odměnu!
 $DEFQ2_SECOND_PITCH	Odměna je pořád k dispozici výměnou <N>za návštěvu webu <N>Defender's Quest II!
-$BOOK_PSI_TAX	PSI daň: 
-$BOOK_COST_MULT	Cena kouzla krát 
-$BOOK_COOL_MULT	Obnovení kouzla krát 
-$STATUS_DESC_FB_HAPPY	+<PERCENT>% rychlost.	COMMENT: Status descriptions have LOTS of variables. Ask Lars is you have any questions.
+$BOOK_PSI_TAX	PSI daň:
+$BOOK_COST_MULT	Cena kouzla krát
+$BOOK_COOL_MULT	Obnovení kouzla krát
+$STATUS_DESC_FB_HAPPY	<PLUS><PERCENT>% rychlost.	COMMENT: Status descriptions have LOTS of variables. Ask Lars is you have any questions.
 $STATUS_DESC_FB_SAD	-<PERCENT> % rychlosti.
 $STATUS_DESC_FB_BORED	Nebudu se obtěžovat s pohybem.
-$STATUS_DESC_FB_LOL	+<PERCENT> % rychlosti.
-$STATUS_DESC_FB_OMG	+<PERCENT> % rychlosti, -<PERCENT> % odolnosti.
-$STATUS_DESC_EXISTENTIAL	-<PERCENT> % rychlosti, +<PERCENT> % odolnosti.
+$STATUS_DESC_FB_LOL	<PLUS><PERCENT> % rychlosti.
+$STATUS_DESC_FB_OMG	<PLUS><PERCENT> % rychlosti<C> -<PERCENT> % odolnosti.
+$STATUS_DESC_EXISTENTIAL	-<PERCENT> % rychlosti<C> +<PERCENT> % odolnosti.
 $STATUS_DESC_TROLL	Uhýbá útokům s <PERCENT>% pravděpodobností.
-$STATUS_DESC_ANONYMOUS	+<PERCENT> % šance na uhnutí. Trolly trefí vždy za <PERCENT2> % poškození
+$STATUS_DESC_ANONYMOUS	<PLUS><PERCENT> % šance na uhnutí. Trolly trefí vždy za <PERCENT2> % poškození
 $STATUS_DESC_DARK	Uhýbá cíleným útokům s <PERCENT>% pravděpodobností.
 $STATUS_DESC_LIGHT	Odstraňuje temnotu.
 $STATUS_DESC_FRENZY	Útoky zrychlené o <M_MULT_PERCENT> %
@@ -493,10 +493,10 @@ $STATUS_DESC_BLINDED	Jeho útoky minou s <PERCENT>% pravděpodobností.
 $STATUS_DESC_BLEED	Utrpí navíc +<PERCENT> % poškození.
 $STATUS_DESC_EVER_POISON	<INTI> HP/sek.
 $STATUS_DESC_POISON	<INTI> HP/sek na <TIME> sek
-$STATUS_DESC_TOXIC	<INTI> HP/sek na <TIME> sek, po smrti vybuchne a způsobí poškození <PERCENT2>% HP obránce
-$STATUS_DESC_EVER_TOXIC	<INTI> HP/sek, po smrti vybuchne a způsobí poškození <PERCENT2>% HP obránce
+$STATUS_DESC_TOXIC	<INTI> HP/sek na <TIME> sek<C> po smrti vybuchne a způsobí poškození <PERCENT2>% HP obránce
+$STATUS_DESC_EVER_TOXIC	<INTI> HP/sek<C> po smrti vybuchne a způsobí poškození <PERCENT2>% HP obránce
 $STATUS_DESC_DISEASE	Regenerace snížena o <PERCENT> %
-$STATUS_DESC_SINGLE_STUN	Nemůže se hýbat, ale příště už se to nestane.
+$STATUS_DESC_SINGLE_STUN	Nemůže se hýbat<C> ale příště už se to nestane.
 $STATUS_DESC_STUN	Nemůže se hýbat.
 $STATUS_DESC_BURN	<AMT_1DIG> HP/sek<N>Led to zruší.
 $STATUS_DESC_INSPIRED	Působí o +<M_MULT_PERCENT> % větší poškození.
@@ -548,13 +548,13 @@ $FLAV_DESC_STRIKE_THROUGH	Útok může zasáhnout až <INTI><EXTRA> dalších ne
 $FLAV_DESC_STRIKE_THROUGH_SHORT	Útok může zasáhnout více nepřátel.
 $FLAV_DESC_CRITICAL	Poškození = <AMT_1DIG>x<EXTRA> normálního.
 $FLAV_DESC_CRITICAL_SHORT	Poškození je vyšší než normálně.
-$STAT_DESC_HP	ŽIVOT<N>Když se sníží na nulu, je obránce vyřazen z boje.
+$STAT_DESC_HP	ŽIVOT<N>Když se sníží na nulu<C> je obránce vyřazen z boje.
 $STAT_DESC_SPEED	RYCHLOST<N>Rychlost obnovování útoků:<N>Každých <SPEED_SHOW_MULT> bodů zrychlí obnovování o 100 %
 $STAT_DESC_SPEED_ENEMY	RYCHLOST<N>Jak rychle se nepřítel pohybuje a útočí. 1 bod = 1 pole za sekundu.
 $STAT_DESC_ATTACK	ÚTOK<N>Zvyšuje poškození pro všechny techniky.
 $STAT_DESC_ATTACK_ENEMY	ÚTOK<N>Poškození způsobené nejsilnějším útokem.
 $STAT_DESC_DEFENSE	OBRANA<N>Snížení poškození z nepřátelského útoku.
-$STAT_DESC_DEFENSE_ENEMY	BRNĚNÍ<N>Počet bodů poškození, které brnění absorbuje.
+$STAT_DESC_DEFENSE_ENEMY	BRNĚNÍ<N>Počet bodů poškození<C> které brnění absorbuje.
 $STAT_DESC_STRONGS	ODOLNOSTI
 $STAT_DESC_WEAKS	SLABINY
 $STAT_DESC_REGEN	REGENERACE<N>Kolik HP obnoví za sekundu.
@@ -564,10 +564,10 @@ $STAT_DESC_EVADE_ENEMY	ÚHYB<N>Šance úplně se vyhnout útoku.
 $STAT_DESC_RANGE	DOSAH<N>Dosah útoku v polích.
 $STAT_DESC_RANGE_ENEMY	DOSAH<N>Dosah útoku v polích.
 $STAT_DESC_SPELLS	KOUZLA
-$STAT_DESC_PORCUPINE	TRNY<N>Body poškození, které způsobí každému útočníkovi, který jej napadne nablízko.
-$STAT_DESC_PHASING	FÁZE<N>Periodicky přechází do fáze mimoprostoru a zpět. V mimoprostoru nemůže být napaden cílenými útoky.<N>Význam: pole (ve fázi, mimo fázi).
+$STAT_DESC_PORCUPINE	TRNY<N>Body poškození<C> které způsobí každému útočníkovi<C> který jej napadne nablízko.
+$STAT_DESC_PHASING	FÁZE<N>Periodicky přechází do fáze mimoprostoru a zpět. V mimoprostoru nemůže být napaden cílenými útoky.<N>Význam: pole (ve fázi<C> mimo fázi).
 $STAT_DESC_BARRIER	OCHRANA<N>Vrstvy magické ochrany před poškozením. Jen nejsilnější magie dokáže ochrannou vrstvu zničit.
-$STAT_DESC_FINAL_HIT	ÚTOK NA KONCI<N>Kolik poškození dostane <FINAL_HIT_TARGET>, když tento nepřítel projde.
+$STAT_DESC_FINAL_HIT	ÚTOK NA KONCI<N>Kolik poškození dostane <FINAL_HIT_TARGET><C> když tento nepřítel projde.
 $STRONG_DMG_MULT	<PERCENT>% odolnost vůči typu <FLAVOR>
 $STRONG_EVADE	<PERCENT>% uhýbání <FLAVOR>
 $SKILL_DESC_PSI_COST	Psi cena
@@ -608,7 +608,7 @@ $MISC_X_HITS_TOTAL	<NUM> celkem
 $MISC_UP_TO_X_FRIENDS	Až <NUM> <FRIEND>
 $MISC_UP_TO_X_FOES	Až <NUM> <FOE>
 $MISC_SPLASH_DAMAGE	Plošný
-$MISC_SPLASH_LINE	<AMT> poškození, <TILES> polí
+$MISC_SPLASH_LINE	<AMT> poškození<C> <TILES> polí
 $MISC_SAVED!	BRNĚNÍ!
 $MISC_MISS	UHNUL!
 $MISC_COUNTER	Protiútok
@@ -619,7 +619,7 @@ $MISC_ACHIEVEMENT!	Úspěch!
 $BASE_ATTACK	Základní útok
 $BONUS_DEFENSE	Bonus k obraně
 $DECIMATE_BY	Zdecimuje o <PERCENT> %
-$EN_SPELL_FRENZY_DESC	+<PERCENT> rychlosti na <SEC> sek.
+$EN_SPELL_FRENZY_DESC	<PLUS><PERCENT> rychlosti na <SEC> sek.
 $EN_SPELL_HEAL_DESC	Uzdrav: <PERCENT> HP
 $EN_SPELL_DRAGON_FIRE_1_DESC	<DMG> poš.
 $EN_SPELL_DRAGON_FIRE_2_DESC	<LOW>-<HIGH> poš.
@@ -637,23 +637,23 @@ $TARGET_WEAK_TEXT	Miř na nepřítele s nejméně HP + brnění.
 $TARGET_FAST_TITLE	Miř na NEJRYCHLEJŠÍ
 $TARGET_FAST_TEXT	Miř na nejrychlejšího nepřítele.
 $TARGET_HEAL_TITLE	Priorita LÉČENÍ
-$TARGET_HEAL_TEXT	Kdykoliv je to možné, uzdravuj přátele, i když je k dispozici lepší útočná technika.
+$TARGET_HEAL_TEXT	Kdykoliv je to možné<C> uzdravuj přátele<C> i když je k dispozici lepší útočná technika.
 $TARGET_FIGHT_TITLE	Priorita BOJ
-$TARGET_FIGHT_TEXT	Útoč na nepřítele, kdykoliv je to možné, i když je k dispozici lepší léčivá technika.
+$TARGET_FIGHT_TEXT	Útoč na nepřítele<C> kdykoliv je to možné<C> i když je k dispozici lepší léčivá technika.
 $TARGET_BOTH_TITLE	Normální priorita
 $TARGET_BOTH_TEXT	Používej techniky podle úrovně.
 $TARGET_CHEAP_TITLE	NEJSLABŠÍ technika
-$TARGET_CHEAP_TEXT	Šetři si silnější útoky, pokud na zabití cíle stačí nějaký dostupný slabší.
+$TARGET_CHEAP_TEXT	Šetři si silnější útoky<C> pokud na zabití cíle stačí nějaký dostupný slabší.
 $TARGET_EFFECT_TITLE	Optimalizuj EFEKT
-$TARGET_EFFECT_TEXT	Vybírej cíl podle toho, který z možných je nejméně ovlivněn statusem Tvých útoků.
+$TARGET_EFFECT_TEXT	Vybírej cíl podle toho<C> který z možných je nejméně ovlivněn statusem Tvých útoků.
 $TARGET_BULLDOG_TITLE	BULDOK
-$TARGET_BULLDOG_TEXT	Jak si jednou vybereš cíl, per to do něj, dokud můžeš.<N><N>Pro pokročilé hráče!
+$TARGET_BULLDOG_TEXT	Jak si jednou vybereš cíl<C> per to do něj<C> dokud můžeš.<N><N>Pro pokročilé hráče!
 $TARGET_CHANCE_TITLE	Nejlepší ŠANCE
-$TARGET_CHANCE_TEXT	Miř na nepřítele, který má nejmenší šanci útoku uhnout nebo odolat.
+$TARGET_CHANCE_TEXT	Miř na nepřítele<C> který má nejmenší šanci útoku uhnout nebo odolat.
 $TARGET_BOSS_TITLE	Miř na ŠÉFY
-$TARGET_BOSS_TEXT	Když není zapnuto, ignoruj nepřátelské postavy.
+$TARGET_BOSS_TEXT	Když není zapnuto<C> ignoruj nepřátelské postavy.
 $TARGET_SAVE_TITLE	ULOŽ nastavení
-$TARGET_SAVE_TEXT	Uloží nastavení postavy, použije se automaticky i v dalších bitvách.
+$TARGET_SAVE_TEXT	Uloží nastavení postavy<C> použije se automaticky i v dalších bitvách.
 $CONFIRM_RES_CHANGE	Rozlišení bylo změněno.<N>Jsi spokojen?<N><N>Vrátím předchozí nastavení za <SECONDS> sekund.
 $CONFIRM_RESTART_TITLE	Začít znova?
 $CONFIRM_RESTART_TEXT	Přijdeš o získané zkušenosti a peníze z téhle bitvy.
@@ -742,7 +742,7 @@ $MISC_HIRE_Q	Najmout <NAME> <CLASS> za <N><SCRAP> prachů?
 $MISC_MODS	Rozšíření
 $MISC_CONFIG_DIR	Složka s pozicemi
 $MISC_LANGUAGES	Jazyky
-$MISC_PLEASE_ENTER_A_NAME!	<N>Prosim, vlož jméno!
+$MISC_PLEASE_ENTER_A_NAME!	<N>Prosim<C> vlož jméno!
 $MISC_ARE_YOU_SURE	Jsi si jistý?
 $MISC_NEXT	další
 $MISC_PREVIOUS	předchozí
@@ -868,14 +868,14 @@ $REWARD_FINISH	Ukončí hru
 $REWARD_QUEST	Úkol splněn
 $REWARD_NO_XP	Nic!
 $REWARD_NO_GOLD	Nic!
-$REWARD_XP	+ <XP> XP
-$REWARD_GOLD	+ <GOLD> prachů
-$HERO_BLURB_SLAK	Podivný mladý muž, odvážný a labilní...
-$HERO_BLURB_KETTA	Nomádská lovkyně, cynická a protřelá...
-$HERO_BLURB_BAKAL	Starý mnich s jemným hlasem, hledající odpuštění za své hříchy...
-$HERO_BLURB_WRENNA	Poslední quaidská princezna, hnána touhou pomstít své padlé království...
-$HERO_BLURB_MARKOS	Hrdý mladý rytíř, toužící dokázat své kvality...
-$HERO_BLURB_NIRU	Surová a tajemná, tahle dračice svá tajemství nevyzradí...
+$REWARD_XP	<PLUS> <XP> XP
+$REWARD_GOLD	<PLUS> <GOLD> prachů
+$HERO_BLURB_SLAK	Podivný mladý muž<C> odvážný a labilní...
+$HERO_BLURB_KETTA	Nomádská lovkyně<C> cynická a protřelá...
+$HERO_BLURB_BAKAL	Starý mnich s jemným hlasem<C> hledající odpuštění za své hříchy...
+$HERO_BLURB_WRENNA	Poslední quaidská princezna<C> hnána touhou pomstít své padlé království...
+$HERO_BLURB_MARKOS	Hrdý mladý rytíř<C> toužící dokázat své kvality...
+$HERO_BLURB_NIRU	Surová a tajemná<C> tahle dračice svá tajemství nevyzradí...
 $TALK_ASH	Ashský uprchlík
 $TALK_QUAID	Quaidský uprchlík
 $TALK_NOMAD	Nomádský uprchlík
@@ -891,12 +891,12 @@ $YOU_GOT_JOIN	<CLASS> <NAME><N>se přidal ke skupině!
 $YOU_GOT	Získal jsi
 $YOU_GOT_SCRAP	<SCRAP> peněz!
 $YOU_GOT_X	<NUM>x <THING>!
-$YOU_GOT_NO_EQUIP_YET	Nikdo ve tvé skupině nemůže <THING> použít.<N>Ale neboj, hraj dál a určitě časem získáš někoho, komu se to bude hodit.
+$YOU_GOT_NO_EQUIP_YET	Nikdo ve tvé skupině nemůže <THING> použít.<N>Ale neboj<C> hraj dál a určitě časem získáš někoho<C> komu se to bude hodit.
 $YOU_GOT_NO_EQUIP	Tahle věc se nedá nosit.
 $TOOLTIP_CASUAL	V relax módu mají nepřátelé snížené životy a útok.
 $TOOLTIP_NORMAL	Normální mód.<N><N>Tady by měla většina hráčů začít.
-$TOOLTIP_ADVANCED	Těžší mód a větší odměna.<N><N>Vrať se sem, až budete dost silní.
-$TOOLTIP_EXTREME	Opravdová výzva, skvělá odměna.<N><N>Pořádně se připrav!
+$TOOLTIP_ADVANCED	Těžší mód a větší odměna.<N><N>Vrať se sem<C> až budete dost silní.
+$TOOLTIP_EXTREME	Opravdová výzva<C> skvělá odměna.<N><N>Pořádně se připrav!
 $DATA_DUMP_TABLES	Exportuji tabulky...
 $DATA_DUMP_MAP_FILES	Exportuji mapy...
 $DATA_DUMP_MAP_IMAGES	Exportuji obrázky map...
@@ -913,57 +913,57 @@ $TIP_00_TEXT	<N><N>Někdy je dobrý nápad vrátit se zpět a zahrát si nějako
 $TIP_10_TITLE	Klávesové zkratky
 $TIP_10_TEXT	Celou hru můžeš ovládat klávesnicí!<N><N>- vybírat kouzla<N>- vybírat obránce k přivolání<N>- vylepšovat a odvolávat obránce<N>- zastavit a spustit hru<N>- procházet aktivní obránce<N>- měnit rychlost a výběr cílů<N>- procházet ovládání tabulátorem<N>- posouvat kurzorem a klikat<N><N>(Všechny klávesové zkratky si můžeš nastavit v menu Volby)
 $TIP_20_TITLE	Vlastnosti
-$TIP_20_TEXT	Každý obránce získá jeden bod pro vlastnosti za každou úroveň.<N><N>Tyhle body můžeš na obrazovce skupiny přidělovat a odemknout tak nové schopnosti postavy v boji.<N><N>1) Techniky (kulaté) - akce v boji<N>2) Vlastnosti (hranaté) - pasivní schopnosti, ovlivňující postavu a její útoky.<N><N>Pokročilé techniky vyžadují vylepšení postavy v boji.
+$TIP_20_TEXT	Každý obránce získá jeden bod pro vlastnosti za každou úroveň.<N><N>Tyhle body můžeš na obrazovce skupiny přidělovat a odemknout tak nové schopnosti postavy v boji.<N><N>1) Techniky (kulaté) - akce v boji<N>2) Vlastnosti (hranaté) - pasivní schopnosti<C> ovlivňující postavu a její útoky.<N><N>Pokročilé techniky vyžadují vylepšení postavy v boji.
 $TIP_30_TITLE	Kdo získá zkušenosti?
-$TIP_30_TEXT	<N><N>Po bitvě získají stejné množství zkušeností všichni obránci, kteří byli na konci bitvy v boji a naživu.<N><N>Všichni ostatní získají polovinu zkušeností. Počet obránců nemá vliv na výši získaných zkušeností.<N><N>Tenhle postih můžeš změnit v menu Přístupnost.
+$TIP_30_TEXT	<N><N>Po bitvě získají stejné množství zkušeností všichni obránci<C> kteří byli na konci bitvy v boji a naživu.<N><N>Všichni ostatní získají polovinu zkušeností. Počet obránců nemá vliv na výši získaných zkušeností.<N><N>Tenhle postih můžeš změnit v menu Přístupnost.
 $TIP_40_TITLE	Svět
 $TIP_40_TEXT	Mapu světa můžeš posouvat tažením myší nebo pomocí klávesnice<N><N>Výchozí nastavení používá kurzorové klávesy.
 $TIP_50_TITLE	Odvolání za 100% Psi
-$TIP_50_TEXT	Odvolání obránce normálně vrací jen část použité PSI v závislosti na jejich aktuálním zdraví.<N><N>Pokud je ale odvoláš ještě dříve, než se objeví první nepřátelé, dostaneš zpátky 100%.
+$TIP_50_TEXT	Odvolání obránce normálně vrací jen část použité PSI v závislosti na jejich aktuálním zdraví.<N><N>Pokud je ale odvoláš ještě dříve<C> než se objeví první nepřátelé<C> dostaneš zpátky 100%.
 $TIP_60_TITLE	Webové stránky a fórum
-$TIP_60_TEXT	Pokud potřebuješ poradit, navštiv web Defender's Quest na www.defendersquest.com!<N><N>Na fóru se můžeš zeptat ostatních hráčů či autorů hry, počíst na wiki nebo v blogu vývojářů.
+$TIP_60_TEXT	Pokud potřebuješ poradit<C> navštiv web Defender's Quest na www.defendersquest.com!<N><N>Na fóru se můžeš zeptat ostatních hráčů či autorů hry<C> počíst na wiki nebo v blogu vývojářů.
 $TIP_70_TITLE	Umisťování obránců
 $TIP_70_TEXT	Obránce můžeš umístit do boje i pomocí klávesnice.<N><N>Výchozí nastavení používá kurzorové klávesy.
 $TIP_80_TITLE	Efekty v boji
-$TIP_80_TEXT	Barva čísel poškození je dána jeho typem. Bílé je normální poškozeni, šedé je snížené brněním, červené je krvácení, oranžové je oheň, fialové je jed - a větší číslice značí kritický zásah.<N><N>Zobrazování těchto čísel lze vypnout v menu 'Hra'.
+$TIP_80_TEXT	Barva čísel poškození je dána jeho typem. Bílé je normální poškozeni<C> šedé je snížené brněním<C> červené je krvácení<C> oranžové je oheň<C> fialové je jed - a větší číslice značí kritický zásah.<N><N>Zobrazování těchto čísel lze vypnout v menu 'Hra'.
 $TIP_90_TITLE	Unikátní předměty
 $TIP_90_TEXT	Vítězstvím v bitvách na vyšší obtížnost se občas dostaneš k unikátním předmětům. Nedají se prodat a jsou velmi dobré.
 $TIP_100_TITLE	Odvolávání
-$TIP_100_TEXT	Odvoláním přivolaných obránců získáš část použité PSI.<N><N>Množství získané energie klesá úměrně tomu, jak je obránce zraněný.
+$TIP_100_TEXT	Odvoláním přivolaných obránců získáš část použité PSI.<N><N>Množství získané energie klesá úměrně tomu<C> jak je obránce zraněný.
 $TIP_110_TITLE	Přístupnost
-$TIP_110_TEXT	Pokud máš nějaky fyzický hendikep, v menu Volby by tě mohlo zajímat: <N><N>1) Video - hraní v celoobrazovkovém režimu, všechno bude větší<N>2) Ovládání - všechno si můžeš přizpůsobit<N>3) Přístupnost - nastavení grafických efektů, rychlosti hry a její obtížnosti.
+$TIP_110_TEXT	Pokud máš nějaky fyzický hendikep<C> v menu Volby by tě mohlo zajímat: <N><N>1) Video - hraní v celoobrazovkovém režimu<C> všechno bude větší<N>2) Ovládání - všechno si můžeš přizpůsobit<N>3) Přístupnost - nastavení grafických efektů<C> rychlosti hry a její obtížnosti.
 $TIP_120_TITLE	Oznámení o veřejné službě
-$TIP_120_TEXT	Tohle oznámení slouží k tomu, aby nikdo nezkoušel analyzovat kód.
+$TIP_120_TEXT	Tohle oznámení slouží k tomu<C> aby nikdo nezkoušel analyzovat kód.
 $TIP_130_TITLE	Volba cílů
-$TIP_130_TEXT	Když klikneš na obránce, můžeš mu určit, zda má útočit na prvního, posledního, nejsilnějšího nebo nejslabšího nepřítele v dosahu.
+$TIP_130_TEXT	Když klikneš na obránce<C> můžeš mu určit<C> zda má útočit na prvního<C> posledního<C> nejsilnějšího nebo nejslabšího nepřítele v dosahu.
 $TIP_140_TITLE	Pokročilá volba cílů
-$TIP_140_TEXT	Kromě základního nastavení jsou zde ještě další čtyři volby:<N><N>1) Nejlevnější technika<N>2) Optimalizace efektů <N>3) Největší šance <N>4) Buldok<N><N>Není nutné je používat, ale pokročilým hráčům pomohou k vylepšení taktiky v těžkých bitvách. Vybrané nastavení si můžeš pro každého obránce zvlášť uložit jako výchozí!
+$TIP_140_TEXT	Kromě základního nastavení jsou zde ještě další čtyři volby:<N><N>1) Nejlevnější technika<N>2) Optimalizace efektů <N>3) Největší šance <N>4) Buldok<N><N>Není nutné je používat<C> ale pokročilým hráčům pomohou k vylepšení taktiky v těžkých bitvách. Vybrané nastavení si můžeš pro každého obránce zvlášť uložit jako výchozí!
 $TIP_150_TITLE	Oheň a led
-$TIP_150_TEXT	Oheň a led spolu nejdou dohromady. Ochlazení a zmrazení zruší hoření, oheň zase zruší ochlazení a zmražení.
+$TIP_150_TEXT	Oheň a led spolu nejdou dohromady. Ochlazení a zmrazení zruší hoření<C> oheň zase zruší ochlazení a zmražení.
 $TIP_160_TITLE	Vyšší obtížnosti
-$TIP_160_TEXT	'Těžká' a 'Extrémně těžká' obtížnost budou napoprvé nejspíš příliš těžké.<N><N>Můžeš to zkusit, až pár dalších bitev zvládneš na normální obtížnost.
+$TIP_160_TEXT	<SQ>Těžká' a 'Extrémně těžká' obtížnost budou napoprvé nejspíš příliš těžké.<N><N>Můžeš to zkusit<C> až pár dalších bitev zvládneš na normální obtížnost.
 $TIP_170_TITLE	Vybavení
-$TIP_170_TEXT	Když si pořídíš nové vybavení pro své hrdiny, jejich staré vybavení se nejspíš bude hodit dalším obráncům ve tvé skupině.
+$TIP_170_TEXT	Když si pořídíš nové vybavení pro své hrdiny<C> jejich staré vybavení se nejspíš bude hodit dalším obráncům ve tvé skupině.
 $TIP_180_TITLE	V davu je síla
-$TIP_180_TEXT	Více obránců pohromadě znamená, že nepřátelské útoky budou rozprostřeny na více cílů a zvyšuje šanci na přežití.<N><N>Na druhou stranu pokryješ menší část mapy.
+$TIP_180_TEXT	Více obránců pohromadě znamená<C> že nepřátelské útoky budou rozprostřeny na více cílů a zvyšuje šanci na přežití.<N><N>Na druhou stranu pokryješ menší část mapy.
 $TIP_190_TITLE	Násobiče
-$TIP_190_TEXT	V menu můžeš nastavit násobič získaných zkušenosti (a změnit tak rychlost, s jakou postavy získávají úrovně).<N><N>Stejně tak můžeš nastavit násobič peněžní odměny.<N><N>Výchozí hodnota pro oba je 100 %.
+$TIP_190_TEXT	V menu můžeš nastavit násobič získaných zkušenosti (a změnit tak rychlost<C> s jakou postavy získávají úrovně).<N><N>Stejně tak můžeš nastavit násobič peněžní odměny.<N><N>Výchozí hodnota pro oba je 100 %.
 $TIP_200_TITLE	Vypnutí útoků
 $TIP_200_TEXT	Někdy může použití konkrétního útoku nadělat víc škody než užitku (například Ohnivé koule tvého draka rozmrazují zmrzlé nepřátele) nebo si je chceš ušetřit na silného nepřítele. V takovém případě stačí vybrat obránce a v menu vpravo dole na daný útok kliknout. Dočasně vypnuté útoky jsou ztmaveny.
 $TIP_210_TITLE	Kde jsou moje pozice?
-$TIP_210_TEXT	V menu s uloženými pozicemi je tlačítko s obrázkem složky a klíče.<N><N>Tohle tlačítko otevře adresář, kde jsou pozice a konfigurační soubor uloženy.
+$TIP_210_TEXT	V menu s uloženými pozicemi je tlačítko s obrázkem složky a klíče.<N><N>Tohle tlačítko otevře adresář<C> kde jsou pozice a konfigurační soubor uloženy.
 $TIP_220_TITLE	Nová hra+
-$TIP_220_TEXT	Až hru dohraješ, můžeš se se svojí skupinou vydat do boje znova! Bitvy budou mnohem těžší a odměny šílené<N><N>Na obrazovce s pozicemi stačí kliknout na Nová hra + u pozice s dohranou hrou.
+$TIP_220_TEXT	Až hru dohraješ<C> můžeš se se svojí skupinou vydat do boje znova! Bitvy budou mnohem těžší a odměny šílené<N><N>Na obrazovce s pozicemi stačí kliknout na Nová hra + u pozice s dohranou hrou.
 $TIP_230_TITLE	Vylepšení předmětů
-$TIP_230_TEXT	V NH+ můžeš získat speciální artefakty, kterými se dají unikátní předměty z normální hry vylepšit. Takto vylepšené předměty získají speciální vlastnosti!
+$TIP_230_TEXT	V NH+ můžeš získat speciální artefakty<C> kterými se dají unikátní předměty z normální hry vylepšit. Takto vylepšené předměty získají speciální vlastnosti!
 $TIP_240_TITLE	Bonusové výzvy
 $TIP_240_TEXT	Získáním hvězd také postupně odemkneš bonusové výzvy. Tyhle speciální bitvy jsou extra tuhé a nabízejí extra odměnu včetně kouzelných knih.
 $TIP_250_TITLE	Spálená PSI?
-$TIP_250_TEXT	Kouzlo Blesk pálí PSI energii. Zisk PSI za zabití nepřítele poklesne úměrně tomu, jaké mu Blesk způsobil poškození. Když Blesk nepříteli sebere 40% původních HP, zisk PSI z jeho zabití poklesne o 40%.
+$TIP_250_TEXT	Kouzlo Blesk pálí PSI energii. Zisk PSI za zabití nepřítele poklesne úměrně tomu<C> jaké mu Blesk způsobil poškození. Když Blesk nepříteli sebere 40% původních HP<C> zisk PSI z jeho zabití poklesne o 40%.
 $TIP_260_TITLE	Rozšíření
-$TIP_260_TEXT	Víš, že si můžeš vyrobit vlastní rozšíření hry?<N><N>V menu s pozicemi klikni na tlačitko 'M'. Změnit se dá skoro všechno - statistiky postav, mapy úrovní, třídy, postavy, scény mezi bitvami, grafika, předměty atd.
+$TIP_260_TEXT	Víš<C> že si můžeš vyrobit vlastní rozšíření hry?<N><N>V menu s pozicemi klikni na tlačitko 'M'. Změnit se dá skoro všechno - statistiky postav<C> mapy úrovní<C> třídy<C> postavy<C> scény mezi bitvami<C> grafika<C> předměty atd.
 $TIP_270_TITLE	Mysli na mámu
-$TIP_270_TEXT	<N><N>Zavolej mámě, už se jí stýská.
+$TIP_270_TEXT	<N><N>Zavolej mámě<C> už se jí stýská.
 $TYPE_DARK	Temný
 $TYPE_SHEEP	Ovce
 $TYPE_SPLITTER	Obludnost
@@ -983,7 +983,7 @@ $TYPE_STATIONARY	Nepohyblivý
 $TYPE_TELEPORTER	Teleportace
 $TYPE_EXALTED	Unešený
 $TYPE_NO_END_DAMAGE	Neublíží
-$GETSCRAP1	Hromada krámů, hadrů, rozbitých věcí a ostrých zubatých kusů rezavého železa. Kdo by o cokoliv z toho stál?
+$GETSCRAP1	Hromada krámů<C> hadrů<C> rozbitých věcí a ostrých zubatých kusů rezavého železa. Kdo by o cokoliv z toho stál?
 $GETSCRAP2	Obyvatelé jámy používají tohle smetí jako měnu.
 $MISC_!	!
 $END	konec
@@ -995,14 +995,14 @@ $DATA_DUMP_SFX	Exporting sound effects...
 $DATA_DUMP_SPRITES	Exporting sprites...
 $LQ	“
 $MISC_ABSORB_X	absorb <X>
-$MISC_ABSORB_X_RESIST_Y	absorb <X>, resist <Y>%
+$MISC_ABSORB_X_RESIST_Y	absorb <X><C> resist <Y>%
 $MISC_ACCEPT_AND_CLOSE	Accept & close
 $MISC_BOOST_X	boost <X>
 $MISC_COST:	cost:
 $MISC_DEFEAT	Defeat
 $MISC_DEFENSE_ABS	defense
 $MISC_DEMO_VERSION	Demo Version
-$MISC_DEMO_VERSION_DESC	This is an early release public demo of Defender's Quest: Valley of the Forgotten, HD Special Edition.<N><N>It may contain a few bugs, and the graphics and features aren't in their final state.<N><N>Please keep in mind this isn't meant to be a representative picture of the final product.
+$MISC_DEMO_VERSION_DESC	This is an early release public demo of Defender's Quest: Valley of the Forgotten<C> HD Special Edition.<N><N>It may contain a few bugs<C> and the graphics and features aren't in their final state.<N><N>Please keep in mind this isn't meant to be a representative picture of the final product.
 $MISC_DQ_NEWS	Get NEWS!
 $MISC_DQ_SITE	DefendersQuest.com
 $MISC_EASIER	easier
@@ -1010,7 +1010,7 @@ $MISC_ERROR_INVALID_MOD_NAME	Invalid mod name!
 $MISC_ERROR_MOD_BAD	That mod is incompatible with this version of the game. Sorry!
 $MISC_ERROR_MOD_EXISTS	A mod with that name already exists!
 $MISC_ERROR_UNKNOWN	Unknown error. Sorry!
-$MISC_ERROR_UNZIP	Couldn't unzip the mod. Change your mod path in the options menu, or check your hard drive space.
+$MISC_ERROR_UNZIP	Couldn't unzip the mod. Change your mod path in the options menu<C> or check your hard drive space.
 $MISC_GAME_DATA	Game Data
 $MISC_GOLD	scrap
 $MISC_GOLD:	scrap:
@@ -1033,7 +1033,7 @@ $MISC_PLUS_X%_TO_DEFENSE_MULT	<PLUS_OR_MINUS><X>% to DEFENSE
 $MISC_PLUS_X%_TO_DODGE	<PLUS_OR_MINUS><X> to EVASION
 $MISC_PLUS_X%_TO_EVADE	<RE>$MISC_PLUS_X%_TO_DODGE
 $MISC_PLUS_X%_TO_REGEN_MULT	<PLUS_OR_MINUS><X>% to REGENERATION
-$MISC_PLUS_X_STAT	+<X> <STAT>
+$MISC_PLUS_X_STAT	<PLUS><X> <STAT>
 $MISC_PLUS_X_TO_ARMOR_ABS	<PLUS_OR_MINUS><X> to ARMOR
 $MISC_PLUS_X_TO_ATTACK	<PLUS_OR_MINUS><X> to ATTACK
 $MISC_PLUS_X_TO_ATTACK_SPEED	<PLUS_OR_MINUS><X> to SPEED
@@ -1060,7 +1060,7 @@ $STATE_CRASH_SHOW_DUMP	Show crash<N>dump files
 $STATE_CRASH_TITLE	Critical Error!
 $STATUS_DESC_DARK_FRENZY	<RE>$STATUS_DESC_FRENZY
 $STATUS_DESC_EVER_BLEED	<RE>$STATUS_DESC_BLEED
-$STATUS_DESC_FB_EXISTENTIAL	-<PERCENT>% speed, +<PERCENT>% damage resist.
+$STATUS_DESC_FB_EXISTENTIAL	-<PERCENT>% speed<C> +<PERCENT>% damage resist.
 $STATUS_DESC_FIRE	<RE>$STATUS_DESC_BURN
 $STATUS_DESC_INSPIRE	<RE>$STATUS_DESC_INSPIRED
 $STATUS_DESC_INSPIRED_HIT	<RE>$STATUS_DESC_INSPIRED
@@ -1069,7 +1069,7 @@ $STAT_DESC_ARMOR_ENEMY	ARMOR<N>Amount of damage absorbed.
 $STAT_DESC_SPAWN	SPAWNS:<N>
 $STAT_DESC_THORNS	THORNS<N>Deals this much damage to a melee attacker.
 $STAT_DESC_XP	EXPERIENCE<N>
-$TARGET_SPECIFIC_TEXT	Manually select a specific enemy to attack, ignoring all others.
+$TARGET_SPECIFIC_TEXT	Manually select a specific enemy to attack<C> ignoring all others.
 $TARGET_SPECIFIC_TITLE	Target SPECIFIC
 $TITLE_OPTIONS	Options
 $UI_ACCESS_SEE_ALSO	See Also:
@@ -1144,5 +1144,5 @@ $UI_VIDEO_SCREEN_SIZE	Game Window Size
 $UI_VIDEO_SD	Standard (4:3)
 $UI_VIDEO_SELECT_NEW	Select New...
 $UI_VIDEO_SPRITES	Sprites
-$WEAK_DMG_MULT	+<PERCENT>% extra DMG from <FLAVOR>
+$WEAK_DMG_MULT	<PLUS><PERCENT>% extra DMG from <FLAVOR>
 $YOU_GOT_MONEY	You got <MONEY> scrap!

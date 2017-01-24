@@ -139,9 +139,9 @@ $UI_BONUS_GOLD_STARS_LINE	<STAR_NUM> 금색별
 $UI_BONUS_BLUE_STARS_LINE	<STAR_NUM> 파란 별
 $UI_MOVIE_NUMS	font:13,tabs:3
 $UI_MOVIE_SELECT_A_MOVIE	동영상을 선택하세요.
-$UI_MOVIE_SCENE	     장면
-$UI_MOVIE_END	         끝
-$UI_MOVIE_QUEST	  퀘스트
+$UI_MOVIE_SCENE	장면
+$UI_MOVIE_END	끝
+$UI_MOVIE_QUEST	퀘스트
 $UI_TIPS_TITLE	팁과 요령
 $UI_UPDATER_CANCEL	<RE>$MISC_CANCEL
 $UI_UPDATER_SECURED_WITH	이 업데이트는 HTTPS로 보안되어 있으며,<N>게다가 지문 인증 절차도 쓰인답니다.
@@ -431,7 +431,7 @@ $UI_MOD_ZIPPING	모드 파일들을 묶는 중.
 $UI_MOD_MISSING_SUBSCRIBE	구독된 파일들
 $UI_MOD_MISSING_SUBSCRIBE_TEXT	<N><NUM>구독된 창작 마당 파일(들)을 다운로드하시겠습니까?
 $UI_MOD_DOWNLOAD	모드를 다운받는 중
-$UI_MOD_DOWNLOAD_TEXT	 
+$UI_MOD_DOWNLOAD_TEXT	
 $UI_MOD_LATER	나중에
 $UI_EQUIP_WHO_WILL	장비할 사람:
 $UI_EQUIP_CANT_SELL_UNIQUE	유니크 아이템은 판매가 불가능!
@@ -501,7 +501,7 @@ $STATUS_DESC_BURN	1초당 <AMT_1DIG> 피해를 입습니다. <N> 얼음으로 �
 $STATUS_DESC_INSPIRED	공격시 <M_MULT_PERCENT>% 피해를 더합니다.
 $STATUS_DESC_FREEZE	움직일 수 없습니다<N> 불로 해동됩니다.
 $STATUS_DESC_CHILL	<PERCENT>% 속도가 감소합니다. <N> 불로 원상태로 돌아옵니다.
-$STATUS_DESC_SLOW	<PERCENT>% 속도가 감소합니다. 
+$STATUS_DESC_SLOW	<PERCENT>% 속도가 감소합니다.
 $STATUS_TIME_LEFT	<TIME_LEFT>/<TIME>초 남았습니다.
 $STATUS_TIME_FOREVER	영구히 지속됩니다.
 $FLAV_DESC_LIGHT	어둠의 적이 <AMT_2DIG>x<EXTRA> 피해를 추가로 받으며, <TIME><EXTRA_TIME>초 동안 정확도가 상승합니다.
@@ -510,7 +510,7 @@ $FLAV_DESC_BLINDED	적이 <TIME><EXTRA_TIME>초 동안 <PERCENT>%<EXTRA> 확률�
 $FLAV_DESC_BLINDED_SHORT	적의 정확도가 일정시간 감소합니다
 $FLAV_DESC_CONFUSED	적이 <TIME><EXTRA_TIME>초 동안 뒷걸음질 칩니다.
 $FLAV_DESC_CONFUSED_SHORT	적이 몇 초간 뒷걸음질 칩니다.
-$FLAV_DESC_BLEED	적이 <TIME><EXTRA_TIME>초 동안 이후 공격에 <PERCENT>%<EXTRA>만큼 더 피해를 입습니다. 
+$FLAV_DESC_BLEED	적이 <TIME><EXTRA_TIME>초 동안 이후 공격에 <PERCENT>%<EXTRA>만큼 더 피해를 입습니다.
 $FLAV_DESC_BLEED_SHORT	적이 이후 공격에 더 많은 피해를 입습니다.
 $FLAV_DESC_KNOCK_BACK	적이 <AMT_1DIG><EXTRA> 타일 뒤로 밀려납니다.
 $FLAV_DESC_KNOCK_BACK_SHORT	적이 몇 타일 뒤로 밀려납니다.
@@ -575,7 +575,7 @@ $SKILL_DESC_EFFECT	효과
 $SKILL_DESC_TARGET	목표
 $SKILL_DESC_HITS	회 공격
 $SKILL_DESC_HITS_NUM	# Hits
-$SKILL_DESC_SPECIAL	 
+$SKILL_DESC_SPECIAL	
 $SKILL_DESC_SPLASH	범위 공격
 $SKILL_DESC_DMG	피해
 $SKILL_DESC_ADDS_CHANCE_TO_ALL	모든 공격에 <FLAV>*확률을 <PERCENT>%<EXTRA>만큼 더합니다.
@@ -837,7 +837,7 @@ $MISC_MOVIES	영상
 $MISC_OPTIONS	설정
 $MISC_CREDITS	제작진
 $MISC_PARTY	파티
-$MISC_ERROR	오류	 
+$MISC_ERROR	오류
 $MISC_ERROR!	오류!
 $MISC_BONUS	보너스
 $MISC_TIPS	팁
@@ -868,8 +868,8 @@ $REWARD_FINISH	게임을 끝낸다.
 $REWARD_QUEST	퀘스트 완료
 $REWARD_NO_XP	없음!
 $REWARD_NO_GOLD	없음!
-$REWARD_XP	 +<XP> XP
-$REWARD_GOLD	 +<GOLD>  SCRAP
+$REWARD_XP	#ERROR!
+$REWARD_GOLD	#ERROR!
 $HERO_BLURB_SLAK	괴상한 젊은이입니다. 용맹하지만 종잡을 수 없습니다.
 $HERO_BLURB_KETTA	유목민 여성 사냥꾼입니다. 냉소적이고 세상일에 관심이 없습니다···.
 $HERO_BLURB_BAKAL	부드러운 말투의 나이 든 수행자입니다. 자신의 죄를 속죄할 방법을 찾고 있습니다···.
@@ -907,12 +907,12 @@ $TIP_30_TITLE	누가 경험치를 얻을까?
 $TIP_30_TEXT	<N><N>전투가 끝나면, 소환된 인원들 중 살아남은 모든 인원들은 같은 양의 경험치를 얻습니다.<N><N>그렇지 못한 인원은 경험치의 반만 얻게 됩니다. 캐릭터의 숫자와 상관없이 캐릭터당 경험치는 같습니다.<N><N>접근성 메뉴에서 이러한 페널티를 바꿀 수 있습니다.
 $TIP_40_TITLE	둘러보기
 $TIP_40_TEXT	드래그와 클릭으로 시점을 움직일 수 있고 키보드로도 움직일 수 있습니다. <N><N>스크롤은 기본적으로 화살표 키입니다.
-$TIP_50_TITLE	정신력을 100% 돌려받는 법 
+$TIP_50_TITLE	정신력을 100% 돌려받는 법
 $TIP_50_TEXT	디펜더를 귀환시키면, 보통은 사용한 정신력의 일부만 얻게 됩니다. <N><N>하지만 첫 웨이브의 적이 등장하기 전에 귀환시키면 정신력을 모두 돌려받습니다.
 $TIP_60_TITLE	웹사이트와 포럼
 $TIP_60_TEXT	궁금한 점이 있으시다면 Defender's Quest의 온라인 커뮤니티 www.defenderquest.com에 가입하세요!<N><N>질문을 올릴 수 있는 포럼이나 모두가 만들어가는 위키백과는 물론, 개발자 블로그도 있습니다.
 $TIP_70_TITLE	디펜더 배치하기
-$TIP_70_TEXT	키보드를 이용해서 디펜더들을 전투에 배치시킬 수 있습니다.<N><N> 기본으로 지정된 키는 화살표 키입니다. 
+$TIP_70_TEXT	키보드를 이용해서 디펜더들을 전투에 배치시킬 수 있습니다.<N><N> 기본으로 지정된 키는 화살표 키입니다.
 $TIP_80_TITLE	전투 효과
 $TIP_80_TEXT	발생하는 숫자들의 색은 피해 타입을 나타냅니다. 흰색은 보통, 회색은 아머에 의한 감소, 적색은 출혈, 주황색은 불, 보라 색은 독, 큰 것은 치명타입니다.<N><N>게임 플레이 메뉴에서 켜거나 끌 수 있습니다.
 $TIP_90_TITLE	희귀 아이템
@@ -928,9 +928,9 @@ $TIP_130_TEXT	디펜더를 클릭하면, '앞에 있는, 뒤에 있는, 강한, 
 $TIP_140_TITLE	고급 표적 설정
 $TIP_140_TEXT	기본 표적 설정에 더해 네 가지 옵션이 더 있습니다.<N><N>1) 싸구려 기술<N><N>2)효과 최적화<N><N>3)최고의 기회<N><N>4) 불독 모드<N><N>필수는 아니지만 전략을 짜는 고급 플레이어들에게 도움이 됩니다. 기본 표적 설정도 함께 사용할 수 있습니다.
 $TIP_150_TITLE	불과 얼음
-$TIP_150_TEXT	불과 얼음은 서로 잘 어울리지 못 합니다. 냉기와 얼음은 불을 무효화시킵니다. 불은 얼음을 녹이고 냉기를 무효화시킵니다. 
+$TIP_150_TEXT	불과 얼음은 서로 잘 어울리지 못 합니다. 냉기와 얼음은 불을 무효화시킵니다. 불은 얼음을 녹이고 냉기를 무효화시킵니다.
 $TIP_160_TITLE	더 높은 난이도
-$TIP_160_TEXT	'심화'와 '극한' 난이도는 지금 당장 시도하기에는 어렵습니다. 다음 보통 난이도의 전투들을 끝내고 시도해보세요.
+$TIP_160_TEXT	심화'와 '극한' 난이도는 지금 당장 시도하기에는 어렵습니다. 다음 보통 난이도의 전투들을 끝내고 시도해보세요.
 $TIP_170_TITLE	장비
 $TIP_170_TEXT	당신의 영웅을 위한 새로운 장비를 구입했을 때, 당신의 낡은 물건들은 다른 파티 구성원들에게 훌륭한 헌 옷이 될 거예요!
 $TIP_180_TITLE	뭉치면 산다
@@ -950,7 +950,7 @@ $TIP_240_TEXT	충분한 별을 모으고 나면, 당신은 보너스 전투를 �
 $TIP_250_TITLE	정신력 연소?
 $TIP_250_TEXT	번개 주문은 적에게서 얻는 정신력을 태워버립니다. 40%의 피해를 주었다면 일반적으로 얻을 수 있는 Psi의 40%가 사라집니다.
 $TIP_260_TITLE	모드 지원
-$TIP_260_TEXT	당신만의 Defender's Quest 모드를 만들 수 있다는 걸 아시나요? 세이브 게임 메뉴의 큰 'M' 버튼을 눌러보세요. 능력치, 레벨, 직업, 캐릭터, 컷씬, 그래픽과 아이템 등 당신은 거의 모든 것을 바꿀 수 있습니다. 
+$TIP_260_TEXT	당신만의 Defender's Quest 모드를 만들 수 있다는 걸 아시나요? 세이브 게임 메뉴의 큰 'M' 버튼을 눌러보세요. 능력치, 레벨, 직업, 캐릭터, 컷씬, 그래픽과 아이템 등 당신은 거의 모든 것을 바꿀 수 있습니다.
 $TIP_270_TITLE	어머니를 기억하세요.
 $TIP_270_TEXT	<N><N>어머니께 전화 한 통 드리세요. 분명 그리워하고 계실 거예요.
 $TYPE_DARK	어둠

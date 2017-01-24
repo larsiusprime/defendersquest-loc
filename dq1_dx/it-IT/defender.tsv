@@ -3,8 +3,8 @@ $CLASS_MCGUFFIN	Bibliotecaria
 $CLASS_MCGUFFIN_PL	Bibliotecarie
 $CLASS_KNIGHT	Cavaliere
 $CLASS_KNIGHT_PL	Cavalieri
-$CLASS_RANGER	Arciere
-$CLASS_RANGER_PL	Arcieri
+$CLASS_RANGER	Cacciatrice
+$CLASS_RANGER_PL	Cacciatrici
 $CLASS_BERSERKER	Barbaro
 $CLASS_BERSERKER_PL	Barbari
 $CLASS_HEALER	Guaritore
@@ -26,11 +26,11 @@ $SKILL_MCGUFFIN_A_FRENZY	Frenesia
 $SKILL_MCGUFFIN_A_HEALING	Guarigione
 $SKILL_MCGUFFIN_A_CRYSTAL	Cristallo
 $SKILL_MCGUFFIN_A_PUSHBACK	Spinta
-$SKILL_MCGUFFIN_A_DRAGON_FIRE	Fuoco di Drago
+$SKILL_MCGUFFIN_A_DRAGON_FIRE	Fuoco del Drago
 $SKILL_MCGUFFIN_A_LIGHTNING_DESC	Provoca $X danni ad un singolo nemico. Brucia energia psi, riducendone il quantitativo ottenibile dal mostro.
 $SKILL_MCGUFFIN_A_FRENZY_DESC	Aumenta la velocità di attacco di TUTTI i difensori del $X% per $Y secondi.
 $SKILL_MCGUFFIN_A_HEALING_DESC	Cura $X PV a tutti i difensori.
-$SKILL_MCGUFFIN_A_CRYSTAL_DESC	Evoca un cristallo che provoca $X danni ai nemici entro $Y caselle. Esplode se colpito dall'incantesimo Fulmine, o comunque entro $Z secondi.
+$SKILL_MCGUFFIN_A_CRYSTAL_DESC	Evoca un cristallo che provoca $X danni ai nemici entro $Y caselle. Esplode in $Z secondi, ma può essere fatto detonare istantaneamente dall'incantesimo Fulmine.
 $SKILL_MCGUFFIN_A_PUSHBACK_DESC	Respinge i nemici di $X caselle verso il loro punto di inizio.
 $SKILL_MCGUFFIN_A_DRAGON_FIRE_DESC	Provoca $X danni a tutti i nemici sullo schermo e li manda a fuoco per $Y secondi.
 $SKILL_MCGUFFIN_fake_attackEXPLOSION	Esplosione
@@ -39,7 +39,7 @@ $SKILL_ANTIMCGUFFIN_A_HEALING	Guarigione
 $SKILL_ANTIMCGUFFIN_A_FRENZY	Frenesia
 $SKILL_ANTIMCGUFFIN_A_CRYSTAL	Cristallo
 $SKILL_ANTIMCGUFFIN_A_PUSHBACK	Spinta
-$SKILL_ANTIMCGUFFIN_A_DRAGON_FIRE	Fuoco di Drago
+$SKILL_ANTIMCGUFFIN_A_DRAGON_FIRE	Fuoco del Drago
 $SKILL_ANTIMCGUFFIN_A_LIGHTNING_DESC	Causa $X danni ad un singolo nemico. Brucia energia psi, riducendone il quantitativo ottenibile dal mostro.
 $SKILL_ANTIMCGUFFIN_A_FRENZY_DESC	Aumenta la velocità di attacco dei difensori del $X% per $Y secondi.
 $SKILL_ANTIMCGUFFIN_A_HEALING_DESC	Cura $X PV a tutti i difensori.
@@ -50,7 +50,7 @@ $SKILL_SORCEROR_A_LIGHTNING-Z	Fulmine
 $SKILL_SORCEROR_A_HEALING-Z	Guarigione
 $SKILL_SORCEROR_A_FRENZY-Z	Frenesia
 $SKILL_SORCEROR_A_PUSHBACK-Z	Spinta
-$SKILL_SORCEROR_A_DRAGON_FIRE-Z	Fuoco di Drago
+$SKILL_SORCEROR_A_DRAGON_FIRE-Z	Fuoco del Drago
 $SKILL_SORCEROR_A_LIGHTNING_DESC	Causa $X danni ad un singolo nemico. Brucia energia psi, riducendone il quantitativo ottenibile dal mostro.
 $SKILL_SORCEROR_A_FRENZY-Z_DESC	Aumenta la velocità di attacco di TUTTI i difensori del $X% per $Y secondi.
 $SKILL_SORCEROR_A_HEALING-Z_DESC	Cura $X PV a tutti i difensori.
@@ -81,7 +81,7 @@ $SKILL_HEALER_A_AID	Soccorso
 $SKILL_HEALER_A_ETHER_FLASH	Lampo Etereo
 $SKILL_HEALER_P_BULK_UP	Tempra
 $SKILL_HEALER_P_BLINDING	Accecamento
-$SKILL_HEALER_A_GROUP_HEAL	Guarigione di Gruppo
+$SKILL_HEALER_A_GROUP_HEAL	Guarigione Multipla
 $SKILL_HEALER_A_HOLY_LIGHT	Luce Sacra
 $SKILL_HEALER_A_ZEAL	Zelo
 $SKILL_HEALER_P_INSPIRE	Ispirazione
@@ -107,20 +107,20 @@ $SKILL_RANGER_P_SHARP_SHOOTER	Tiratore scelto
 $SKILL_RANGER_A_TRIPLE_SHOT	Colpo Triplo
 $SKILL_RANGER_P_DEEP_SHOT	Colpo profondo
 $SKILL_RANGER_A_RAPID_SHOT	Raffica
-$SKILL_RANGER_P_RANGE_FOCUS	Raggio
+$SKILL_RANGER_P_RANGE_FOCUS	Gittata
 $SKILL_RANGER_P_PIERCING_SHOT	Frecce Perforanti
 $SKILL_RANGER_P_POISON_SHOT	Frecce Avvelenate
 $SKILL_RANGER_A_SPREAD_SHOT	Frecce Multiple
 $SKILL_RANGER_A_BLACK_OUT_THE_SUN	Pioggia di frecce
-$TYPE_RANGED	Unità a lungo raggio
-$TYPE_MELEE	Unità corpo a corpo
+$TYPE_RANGED	Attacchi a lungo raggio
+$TYPE_MELEE	Attacchi corpo a corpo
 $TYPE_ULTIMATE	Drago
 $BLURB_BERSERKER	Ha gli attacchi più veloci.<N>Colpisce rapidamente bersagli multipli provocando danni moderati.<N>Efficace contro gruppi di nemici deboli!
 $BLURB_RANGER	Ha la portata migliore.<N>Attacca da lontano provocando danni leggeri.<N>È l'unità più equilibrata!
-$BLURB_KNIGHT	La classe più lenta.<N>Causa danni molto alti a bersagli singoli.<N>Può penetrare/distruggere le corazze.<N>Consigliato contro nemici forti o corazzati!
-$BLURB_MAGE	Rallenta e congela i nemici.<N>Ha velocità media e causa danni leggeri.<N>Dà il meglio di se contro nemici veloci!
-$BLURB_DRAGON	Danni pesanti.<N>Può mangiare i nemici e incenerirli.<N>Costa molto, ma è fantastico!
-$BLURB_HEALER	Guarisce i tuoi alleati.<N>Ha qualche attacco leggero.<N>Posizionalo con cura per ottenere i risultati migliori!
+$BLURB_KNIGHT	La classe più lenta.<N>Causa gravi danni a bersagli singoli.<N>Può penetrare e distruggere le armature.<N>Consigliato contro nemici particolarmente forti o corazzati!
+$BLURB_MAGE	Rallenta e congela i nemici.<N>Attacca a velocità media provocando danni leggeri.<N>È molto utile contro i nemici veloci!
+$BLURB_DRAGON	Danno elevato.<N>Può mangiare i nemici ed incenerirli.<N>Costa molto, ma è favoloso!
+$BLURB_HEALER	Guarisce gli alleati.<N>Ha qualche attacco leggero.<N>Posizionalo con saggezza per ottimizzarne l'efficacia!
 $COLOR_EYE	Occhi
 $COLOR_SKIN	Pelle
 $COLOR_HAIR	Capelli
@@ -134,5 +134,5 @@ $COLOR_ROBE	Tonaca
 $COLOR_HIDE	Pelle
 $COLOR_OUTLINE	Contorno
 $END	End
-$COLOR_CLOTHES	Clothes
+$COLOR_CLOTHES	Vestito
 $SKILL_MCGUFFIN_A_DRAGONFIRE	<RE>$SKILL_MCGUFFIN_A_DRAGON_FIRE

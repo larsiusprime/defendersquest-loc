@@ -28,7 +28,7 @@ $DEMO_ONLY_LOGIN_TITLE	Gratis!
 $DEMO_ONLY_LOGIN_TEXT	Sblocca gli atti III & IV!<N>2 nuove classi di personaggi!<N>6 nuove mappe!<N><N>@È GRATIS:@<N>Crea un account<N>(o accedi se ne hai già uno)<N>e fai ripartire il gioco.<N>
 $DEMO_ONLY_BUY_TEXT	@Include gioco e colonna sonora SCARICABILI!@<N>Sblocca gli Atti III - VII!<N>Tutte le 6 classi di personaggi!<N>108 scenette!<N>39 mappe!<N>14 battaglie bonus!<N><N>Modalità Nuova Partita+!<N>Il gioco originale x 2!<N>Nuovi tipi di nemici!<N>7 nuove missioni secondarie!<N>Equipaggiamento, libri, e bonus!<N><N>
 $DEMO_FREE_IF_REGISTERED	Gratis se sei registrato!
-$ERROR_TITLE	È accaduto un errore!
+$ERROR_TITLE	C'è stato un errore!
 $ERROR_NUMBER	Errore #
 $ERROR_CONTEXT	contesto
 $ERROR_MESSAGE	messaggio
@@ -52,16 +52,16 @@ $PARTY_ACHIEVE_PLURAL	achievement
 $PARTY_1_NEW_ACHIEVE	1 nuovo achievement!
 $PARTY_X_NEW_ACHIEVE	<NUM> nuovi achievement!
 $PARTY_PERFECT_WORD	Perfetto
-$PARTY_PASSED_WORD	Superato
+$PARTY_PASSED_WORD	Successo
 $PARTY_FAIL_PENALTY	Fallimento
 $PARTY_TOTAL	Totale
 $PARTY_PERFECT	PERFETTO!
 $PARTY_PERFECT+	PERFETTO!+
 $PARTY_PERFECT++	PERFETTO!++
 $PARTY_PERFECT_DESC	<MCG> è rimasta illesa!
-$PARTY_PERFECT++_DESC	<MCG> e <ALLY><N> sono illesi!	COMMENT: The game will put Zelemir, Tletl-Meztli, or any other alternate mcguffin's name where <ALLY> appears.
-$PARTY_PERFECT+_DESC	<MCG> è illesa!<N><ALLY> è stato ferito!
-$PARTY_PERFECT_ALLY_DEAD_DESC	<MCG> è illesa, ma <ALLY> è morto.
+$PARTY_PERFECT++_DESC	<MCG> e <ALLY><N> sono rimasti illesi!	COMMENT: The game will put Zelemir, Tletl-Meztli, or any other alternate mcguffin's name where <ALLY> appears.
+$PARTY_PERFECT+_DESC	<MCG> è rimasta illesa!<N><ALLY> è stato ferito!
+$PARTY_PERFECT_ALLY_DEAD_DESC	<MCG> è rimasta illesa, ma <ALLY> è morto.
 $PARTY_PASSED	Livello Completato!
 $PARTY_PASSED+	Livello Completato!+
 $PARTY_PASSED++	Livello Completato!++
@@ -72,13 +72,13 @@ $PARTY_PASSED++_DESC	<MCG> è stata ferita!<N><ALLY> è rimasto illeso!
 $PARTY_DEFEATED_WAVE_X	Sconfitta l'ondata <X>
 $PARTY_REACHED_WAVE_X	Raggiunta l'ondata <X>
 $PARTY_NO_POINTS	Non ci sono punti abilità da riassegnare!
-$PARTY_NO_AFFORD	Non te lo puoi permettere!<N>Costa:<T><COST><N><T>Scarti:<T><SCRAP>
-$PARTY_RE_ASSIGN	Resetta tutte le abilità di <NAME>?<N>Costo:<T><COST><N>Scarti:<T><SCRAP>
+$PARTY_NO_AFFORD	Non te lo puoi permettere!<N>Costo: <COST><N>Scarti: <SCRAP>
+$PARTY_RE_ASSIGN	Resetta tutte le abilità di <NAME>?<N>Costo: <COST><N>Scarti: <SCRAP>
 $PARTY_CHANGE_NAME	Rinomina
-$PARTY_CONFIRM_POINTS_1_1	Assegna definitivamente 1 punto abilità ad 1 personaggio?	COMMENT: There are 4 variants here to handle the various pluralizations
-$PARTY_CONFIRM_POINTS_1_X	Assegna definitivamente 1 punto abilità a <CHARS> personaggi?
-$PARTY_CONFIRM_POINTS_X_1	Assegna definitivamente <POINTS> punti abilità ad 1 personaggio?
-$PARTY_CONFIRM_POINTS_X_X	Assegna definitivamente <POINTS> punti abilità a <CHARS> personaggi?
+$PARTY_CONFIRM_POINTS_1_1	Assegnare definitivamente 1 punto abilità ad 1 personaggio?	COMMENT: There are 4 variants here to handle the various pluralizations
+$PARTY_CONFIRM_POINTS_1_X	Assegnare definitivamente 1 punto abilità a <CHARS> personaggi?
+$PARTY_CONFIRM_POINTS_X_1	Assegnare definitivamente <POINTS> punti abilità ad 1 personaggio?
+$PARTY_CONFIRM_POINTS_X_X	Assegnare definitivamente <POINTS> punti abilità a <CHARS> personaggi?
 $PARTY_POINT	punto
 $PARTY_POINTS	punti
 $PARTY_CHARACTER	personaggio
@@ -89,7 +89,7 @@ $PARTY_REDESIGN	Aspetto
 $UI_EQUIP_NAME	Nome
 $UI_EQUIP_STAT	Attributi
 $UI_EQUIP_OWNER	Usato da
-$UI_EQUIP_SHOW_EQUIPPED	Mostra equipaggiamento
+$UI_EQUIP_SHOW_EQUIPPED	Mostra oggetti equipaggiati
 $UI_EQUIP_CLASS_CANT_W	Questa classe non può equipaggiare armi!
 $UI_EQUIP_CLASS_CANT_A	Questa classe non può usare armature!
 $UI_EQUIP_ALL_W_SWORD	Tutte le spade sono già equipaggiate!
@@ -135,7 +135,7 @@ $UI_SFX	Effetti sonori:
 $UI_MUSIC	Musica:
 $UI_ACCESS_REWARDS	RICOMPENSE
 $UI_ACCESS_PENALTIES	PENALITÀ ESP.
-$UI_ACCESS_DEFAULT	Impostazioni predefinite
+$UI_ACCESS_DEFAULT	*Impostazioni predefinite
 $UI_ACCESS_FAIL	FALLIMENTO
 $UI_ACCESS_ABSENCE	ASSENZA
 $UI_ACCESS_FLASHING	Effetti Lampeggianti
@@ -147,22 +147,22 @@ $UI_BONUS_BLUE_STARS_LINE	<STAR_NUM> stelle blu
 $UI_MOVIE_NUMS	font:12,tabs:4
 $UI_MOVIE_SELECT_A_MOVIE	Scegli una scena
 $UI_MOVIE_SCENE	scena
-$UI_MOVIE_END	fine
+$UI_MOVIE_END	Epilogo
 $UI_MOVIE_QUEST	missione
 $UI_TIPS_TITLE	Trucchi e Consigli
 $UI_UPDATER_CANCEL	<RE>$MISC_CANCEL
 $UI_UPDATER_SECURED_WITH	Questo meccanismo di aggiornamento è protetto con HTTPS,<N>oltre che dalla verifica della firma digitale.
-$UI_UPDATER_ASK_DOWNLOAD	Scarica l'aggiornamento?
+$UI_UPDATER_ASK_DOWNLOAD	Scaricare l'aggiornamento?
 $UI_UPDATER_SERVER_TIMEOUT	Server Timeout!
 $UI_UPDATER_NO_INFO	Non è stato possibile trovare informazioni di aggiornamento sul server.
-$UI_UPDATER_NO_BIG_DEAL	Nulla di grave, puoi ancora usare il gioco, semplicemente non è possibile contattare il server, al momento.
+$UI_UPDATER_NO_BIG_DEAL	Nulla di grave, puoi ancora usare il gioco, semplicemente non è possibile contattare il server, per il momento.
 $UI_UPDATER_DEB	pacchetto DEB
 $UI_UPDATER_RPM	pacchetto RPM
 $UI_UPDATER_TARGZ	archivio TAR.GZ
 $UI_UPDATER_CHECKING	Controllo aggiornamenti...
 $UI_UPDATER_UPDATE_EXISTS	Aggiornamento disponibile!
-$UI_UPDATER_CURRENT_VERSION	Versione corrente:<T>
-$UI_UPDATER_NEWEST_VERSION	Versione più recente:<T>
+$UI_UPDATER_CURRENT_VERSION	Versione corrente: 
+$UI_UPDATER_NEWEST_VERSION	Versione più recente: 
 $UI_UPDATER_NO_UPDATES	Nessun aggiornamento disponibile
 $UI_UPDATER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
 $UI_UPDATER_TRYING_30	Riprovo per 30 secondi
@@ -188,19 +188,19 @@ $UI_UPDATER_NOTE	Nota:
 $UI_UPDATER_SECURITY	Per ragioni di sicurezza, devi aprire manualmente il file di installazione.<N><N>Questo programma ti porterà alla cartella in cui è stato scaricato.
 $UI_UPDATER_INSTALLING	Installazione Aggiornamento...
 $UI_UPDATER_EXITING	Uscita dall'Applicazione...
-$UI_DEFENDER_RECALL_LINE	RICHIAMA: +<PSI> Psi
+$UI_DEFENDER_RECALL_LINE	RICHIAMA:<N>+<PSI> Psi
 $UI_DEFENDER_ORB_NUMS	orb_space:0
 $UI_DEFENDER_BOOST	POTENZIAMENTO: <PSI> Psi
 $UI_DEFENDER_BOOST_NEED	POTENZIAMENTO: <PSI> Psi
 $UI_DEFENDER_BOOST_NUMS	font:11,y_off:2
 $UI_DEFENDER_BOOST_NEED_NUMS	font:11,y_off:2
 $UI_DEFENDER_BOOST_MAX	POTENZIAMENTO MASSIMO
-$UI_DEFENDER_BOOST_UNLOCK	Sbloccato al <LVL> LIVELLO DI POTENZIAMENTO
+$UI_DEFENDER_BOOST_UNLOCK	Sbloccato al <LVL>º LIVELLO DI POTENZIAMENTO
 $UI_DEFENDER_CLICK_TO	(Clicca per abilitare/disabilitare)
 $UI_DEFENDER_TECHNIQUES	TECNICHE
 $UI_DEFENDER_TECHNIQUE	Tecniche
-$UI_DEFENDER_TRAITS	CARATTERISTICHE
-$UI_DEFENDER_TRAIT	CARATTERISTICA
+$UI_DEFENDER_TRAITS	TALENTI
+$UI_DEFENDER_TRAIT	TALENTO
 $UI_DEFENDER_RECALL	Richiama
 $UI_SKILLS_CLICK_TO_UPGRADE	Clicca per aumentare.
 $UI_SKILLS_MAX	MASSIMO
@@ -209,11 +209,10 @@ $UI_SKILLS_NO_POINTS	Nessun punto disponibile.
 $UI_SKILLS_REQ_1PT	RICHIEDE: Personaggio LIV <LVL>,<N><PT> punto in <SKILL>
 $UI_SKILLS_REQ_XPT	RICHIEDE: Personaggio LIV <LVL>,<N><PT> punti in <SKILL>
 $UI_SKILLS_NO_LEARN_SPELL	Non hai ancora imparato questo incantesimo.
-$UI_SKILLS_MOUSE_OVER	Ispeziona con il cursore del mouse.
+$UI_SKILLS_MOUSE_OVER	Ispeziona con il cursore.
 $UI_EQUIP_OWNED	posseduto
 $UI_EQUIP_COMPARE	confronta
 $UI_EQUIP_PRICE	prezzo
-$UI_EQUIP_SHOW_EQUIPPED	Mostra equipaggiamento
 $UI_EQUIP_EQUIP_AFTER	Equipaggia dopo l'acquisto
 $UI_EQUIP_EQUIP_WHO	Chi lo userà?
 $UI_EQUIP_EQUIPPED	Equipaggiato
@@ -229,7 +228,6 @@ $UI_EQUIP_CANT_UPGRADE_W_STAFF	Non hai archi da migliorare!
 $UI_EQUIP_CANT_UPGRADE_A_LIGHT	Non hai armature leggere da migliorare!
 $UI_EQUIP_CANT_UPGRADE_A_HEAVY	Non hai armature pesanti da migliorare!
 $UI_EQUIP_NO_W_SWORD	Nessuna spada posseduta!
-$UI_EQUIP_NO_W_STAFF	Nessuna bastone posseduto!
 $UI_EQUIP_NO_W_BOW	Nessun arco posseduto!
 $UI_EQUIP_NO_A_LIGHT	Nessuna armatura leggera posseduta!
 $UI_EQUIP_NO_A_HEAVY	Nessuna armatura pesante posseduta!
@@ -238,10 +236,10 @@ $UI_ACHIEVE_COMPLETION	Progresso
 $UI_ACHIEVE_CATEGORIES	Categorie
 $UI_ACHIEVE_POP_UP	Notifiche<N>Pop-up
 $UI_ACHIEVE_TRAINER	Base
-$UI_ACHIEVE_EASY	Facili
-$UI_ACHIEVE_MEDIUM	Medi
-$UI_ACHIEVE_HARD	Difficili
-$UI_ACHIEVE_IMPOSSIBLE	Impossibili
+$UI_ACHIEVE_EASY	Facile
+$UI_ACHIEVE_MEDIUM	Medio
+$UI_ACHIEVE_HARD	Difficile
+$UI_ACHIEVE_IMPOSSIBLE	Impossibile
 $UI_CONTROLS_SPELL	Incantesimi
 $UI_CONTROLS_CLASS	Classe
 $UI_CONTROLS_CHARACTER	Personaggio
@@ -254,7 +252,7 @@ $UI_CONTROLS_RECALL	Richiama
 $UI_CONTROLS_BACK	Indietro
 $UI_CONTROLS_PRESETS	Predefiniti
 $UI_CONTROLS_TAB_NAV	Tab<N>Navigazione
-$UI_CONTROLS_CYCLE	Scorri<N>Difensori
+$UI_CONTROLS_CYCLE	Seleziona<N>Difensori
 $UI_CONTROLS_CYCLE_NUMS	off_x:-5,off_y:0	COMMENT: moves the 'cycle defenders' text and associated buttons
 $UI_CONTROLS_SCROLL	Muovi Mappa,<N>Posiziona Difensore
 $UI_CONTROLS_MOVE_CURSOR	Muovi il cursore
@@ -298,7 +296,7 @@ $UI_GAMEPLAY_DIALOGUE	Dialoghi
 $UI_GAMEPLAY_NEVER	Mai
 $UI_GAMEPLAY_ALWAYS	Sempre
 $UI_GAMEPLAY_DEFAULT	Solo Nuove Battaglie
-$UI_GAMEPLAY_BATTLE_NUMBERS	Mostra numeri in battaglia
+$UI_GAMEPLAY_BATTLE_NUMBERS	Mostra valori numerici in battaglia
 $UI_GAMEPLAY_BATTLE_NUMBERS_NUMS	x_off:0
 $UI_GAMEPLAY_TUTORIAL_NUMS	x_off:-80
 $UI_GAMEPLAY_HIDE	Nascondi
@@ -319,12 +317,12 @@ $UI_VIDEO_RES_CHANGED	Risoluzione cambiata.<N>Va bene?<N><N>Ripristino in <TIME>
 $UI_VIDEO_SETTINGS	Impostazioni Video
 $UI_VIDEO_WARNING	Opzioni Video disattivate in modalità browser.
 $UI_VIDEO_WARNING2	Purtroppo la tua configurazione di sistema non consente di cambiare risoluzione all'interno del gioco :(
-$UI_VIDEO_WARNING3	In MODALITÀ COMPATIBILE, il cambiamento della risoluzione non è abilitato.<N><N>Siamo spiacenti!
+$UI_VIDEO_WARNING3	In MODALITÀ COMPATIBILITA', il cambiamento della risoluzione non è abilitato.<N><N>Siamo spiacenti!
 $UI_VIDEO_MOUSE	Cursore del Mouse
 $UI_VIDEO_MOUSE_DEFAULT	Normale
 $UI_VIDEO_MOUSE_FANCY	Alternativo
 $UI_VIDEO_PARTICLES	Particelle
-$UI_VIDEO_SWIRL	Animazione introduttiva
+$UI_VIDEO_SWIRL	Animazioni introduttive
 $UI_VIDEO_AOE	Evidenzia attacchi d'area
 $UI_VIDEO_CHANGE_RES	Cambia Risoluzione
 $UI_VIDEO_SCREEN_POS	Posizione Schermo
@@ -344,11 +342,11 @@ $UI_SAVE_ERROR_INCOMPAT	Incompatibile!
 $UI_SAVE_ERROR_INCOMPAT_TEXT	Errore! Stai giocando al DEMO<N>e quel file è dalla versione COMPLETA
 $UI_SAVE_DEMO_IMPORT	Importare dal Demo
 $UI_SAVE_DEMO_IMPORT_TEXT	Il file è del DEMO. Potrebbe essere necessario fare degli aggiustamenti.<N>Va bene?
-$UI_SAVE_DEMO_NEWER	Il file è di una NUOVA versione del gioco,<N>potrebbe essere incompatibile.<N>Provo a importarlo lo stesso?
+$UI_SAVE_DEMO_NEWER	Il file è di una NUOVA versione del gioco,<N>potrebbe essere incompatibile.<N>Provo a importarlo comunque?
 $UI_SAVE_DEMO_OLDER	Il file è di una VECCHIA versione del gioco<N>potrebbe essere necessario fare degli aggiustamenti.<N>Va bene?
-$UI_NORM_MOD_INCOMPAT_TEXT	<N>Il file è di un MOD,<N>potrebbe essere incompatibile.<N><N>Provo a importarlo lo stesso?
-$UI_MOD_NORM_INCOMPAT_TEXT	<N>Un mod è attivo, ma quel file<N>è del gioco normale,<N>potrebbe essere incompatibile.<N><N>Provo a importarlo lo stesso?
-$UI_MOD_MOD_INCOMPAT_TEXT	<N>Il file è di un altro MOD,<N>potrebbe essere incompatibile.<N><N>Provo a importarlo lo stesso?
+$UI_NORM_MOD_INCOMPAT_TEXT	<N>Il file è di un MOD,<N>potrebbe essere incompatibile.<N><N>Provo a importarlo comunque?
+$UI_MOD_NORM_INCOMPAT_TEXT	<N>Un mod è attivo, ma quel file<N>è del gioco normale,<N>potrebbe essere incompatibile.<N><N>Provo a importarlo comunque?
+$UI_MOD_MOD_INCOMPAT_TEXT	<N>Il file è di un altro MOD,<N>potrebbe essere incompatibile.<N><N>Provo a importarlo comunque?
 $UI_SAVE_DEMO_ATTENTION	Attenzione!
 $UI_SAVE_MENU_LOADED	Caricamento completato!
 $UI_SAVE_MENU_CHECK_GOG	Cerca aggiornamenti gratuiti su GOG!
@@ -358,11 +356,11 @@ $UI_SAVE_MENU_KONG_XDEMO_LOGIN	Demo Estesa - Accedi a Kongregate per accedere al
 $UI_SAVE_MENU_KONG_XDEMO	Versione Demo Estesa
 $UI_SAVE_MENU_KONG_DEMO_LOGIN_FULL	Demo - Accedi a Kongregate per accedere al gioco completo!
 $UI_SAVE_MENU_KONG_DEMO_LOGIN_XDEMO	Demo - Accedi a Kongregate per accedere ai nuovi contenuti!
-$UI_SAVE_MENU_KONG_DEMO	Versione Demo
+$UI_SAVE_MENU_KONG_DEMO	<RE>$MISC_DEMO_VERSION
 $UI_SAVE_CONFIRM_DELETE	Confermi?
 $UI_SAVE_CONFIRM_DELETE_TEXT	Vuoi cancellare PERMANENTEMENTE questo <N>salvataggio?
 $SAVE_SLOT_PLAY	Gioca
-$SAVE_SLOT_PLAY_PLUS	Gioca +
+$SAVE_SLOT_PLAY_PLUS	Gioca+
 $SAVE_SLOT_NEW_GAME	Nuova Partita
 $SAVE_SLOT_NEW_GAME_NUMS	y_off:-9
 $SAVE_SLOT_NEW_GAME_PLUS	Nuova Partita+
@@ -372,8 +370,8 @@ $SAVE_SLOT_DELETE	Elimina
 $UI_DEMO_SAVES_DETECTED	Rilevati salvataggi dal Demo!
 $UI_DEMO_IMPORT_SAVES	Importa i salvataggi del Demo?
 $UI_CLOUD_UNKNOWN	Salvataggi Cloud
-$UI_CLOUD_UNKNOWN_TEXT	Abilita salvataggi cloud di Steam?
-$UI_CLOUD_UNKNOWN_TEXT_2	Puoi cambiare questa impostazione in qualunque momento in:<N><N>Opzioni:Varie
+$UI_CLOUD_UNKNOWN_TEXT	<N>Abilita salvataggi cloud di Steam?
+$UI_CLOUD_UNKNOWN_TEXT_2	Puoi cambiare questa impostazione <N>in qualunque momento in:<N>Opzioni: Varie
 $UI_MOD_TITLE	Mod
 $UI_MOD_LOAD_EXISTING	Carica un Mod esistente
 $UI_MOD_CREATE_NEW	Crea un nuovo Mod
@@ -381,7 +379,7 @@ $UI_MOD_BROWSE_QUEUE	I miei Mod
 $UI_MOD_BROWSE_WORKSHOP	Workshop di Steam
 $UI_MOD_WEB_BROWSER	Web Browser
 $UI_MOD_INSTALL_STANDALONE	Installa da un file ZIP
-$UI_MOD_INSTALL_ERROR	Esiste già una cartella con quel nome.<N>Provo a installare aggiungendo un suffisso?", "WIP
+$UI_MOD_INSTALL_ERROR	Esiste già una cartella con quel nome.<N>Provo a installare aggiungendo un suffisso?
 $UI_MOD_INSTALL_ERROR2	Spiacente, non è stato possibile installare il Mod.
 $UI_DEFQ_MODS	Mod
 $UI_MOD_TITLE	Mod
@@ -394,8 +392,8 @@ $UI_MOD_SELECT_DIR	Scegli Cartella Mod
 $UI_SAVE_SELECT_DIR	Scegli Cartella Salvataggi
 $UI_MOD_LOAD_MOD	Carica Mod
 $UI_MOD_EXISTS	Il Mod esiste.<N>Caricare?
-$UI_MOD_MISSING	Non è possibile trovare il file settings.xml.<N>O lì non c'è nessun mod,<N>oppure non funziona.
-$UI_MOD_NOT_DIR	Ehi!<N>Quella non è una cartella!<N>Prova ancora.
+$UI_MOD_MISSING	Impossibile trovare il file settings.xml.<N>O non c'è nessun mod,<N>o non funziona.
+$UI_MOD_NOT_DIR	Ehi!<N>Quella non è una cartella!<N>Prova di nuovo.
 $UI_MOD_LOADING	Caricamento Mod...
 $UI_MOD_PLEASE_WAIT	Ti preghiamo di attendere mentre carichiamo il tuo mod
 $UI_MOD_PROGRESS	Operazione <TASK><N>File <FILE><N>
@@ -457,11 +455,11 @@ $UI_RECRUIT_KNIGHT_NUMS	font:14,x_off:0,y_off:0
 $UI_RECRUIT_MAGE_NUMS	font:12,x_off:0,y_off:-10
 $UI_RECRUIT_HEALER_NUMS	font:14,x_off:0,y_off:0
 $UI_RECRUIT_DRAGON_NUMS	font:14,x_off:0,y_off:0
-$UI_BATTLE_MORE	ALTRE
+$UI_BATTLE_MORE	RIMANENTI
 $UI_BATTLE_MORE_NUMS	y_off:-21
 $UI_BATTLE_SEND_NEXT	PROSSIMA
-$UI_BATTLE_NEXT	PROSSIMO", "WIP
-$UI_BATTLE_WAVES	Ondate
+$UI_BATTLE_NEXT	PROSSIMA
+$UI_BATTLE_WAVES	Ondata
 $UI_BATTLE_WAVE	Ondata
 $UI_BATTLE_WAVE_NUMS	y_off:16
 $UI_BATTLE_INFINITE_NUMS	y_off:10
@@ -490,9 +488,10 @@ $FB_PERSISTENT_OK	Alla fine ho vinto io!
 $FB_THIS_ITEM_WILL_NOW	Questo oggetto ora apparirà sempre nell'inventario di qualsiasi giocatore.
 $DEFQ2_CLICK_TEXT	Defender's Quest II è in arrivo!<N>Dagli un'occhiata e vinci questo premio!
 $DEFQ2_SECOND_PITCH	Puoi ancora ottenere il premio<N>visitando il sito di<N>Defender's Quest II!
-$BOOK_PSI_TAX	Tassa PSI: 
-$BOOK_COST_MULT	Costo dell'incantesimo x
-$BOOK_COOL_MULT	Ricarica dell'incantesimo x
+$BOOK_PSI_TAX	Tassa PSI: <X>
+$BOOK_COST_MULT	Costo incantesimo x<X>
+$BOOK_COST_OP	Costo incantesimo <X>	
+$BOOK_COOL_MULT	Ricarica dell'incantesimo x<X>
 $STATUS_DESC_FB_HAPPY	+<PERCENT>% velocità.	COMMENT: Status descriptions have LOTS of variables. Ask Lars is you have any questions.
 $STATUS_DESC_FB_SAD	-<PERCENT>% velocità.
 $STATUS_DESC_FB_BORED	Non ha voglia di muoversi.
@@ -500,60 +499,60 @@ $STATUS_DESC_FB_LOL	+<PERCENT>% velocità.
 $STATUS_DESC_FB_OMG	+<PERCENT>% velocità, -<PERCENT>% resistenza danni.
 $STATUS_DESC_EXISTENTIAL	-<PERCENT>% velocità, +<PERCENT>% resistenza danni.
 $STATUS_DESC_TROLL	Schiva il <PERCENT> % degli attacchi.
-$STATUS_DESC_ANONYMOUS	+<PERCENT>% possibilità di schivare. Colpisce sempre i TROLL per <PERCENT2>% danno
+$STATUS_DESC_ANONYMOUS	+<PERCENT>% possibilità di schivare.
 $STATUS_DESC_DARK	Schiva gli attacchi non ad area d'effetto il <PERCENT>% delle volte.
 $STATUS_DESC_LIGHT	Rimuove oscurità.
-$STATUS_DESC_FRENZY	Aumenta la velocità del <M_MULT_PERCENT>%
+$STATUS_DESC_FRENZY	Aumenta la velocità del <PERCENT>%
 $STATUS_DESC_BLINDED	Gli attacchi mancano il <PERCENT>% delle volte.
 $STATUS_DESC_BLEED	Subisce +<PERCENT>% DAN.
 $STATUS_DESC_EVER_POISON	<INTI> DAN/sec.
 $STATUS_DESC_DISEASE	Rigenerazione ridotta del <PERCENT>%
 $STATUS_DESC_POISON	<INTI> DAN/sec per <TIME> sec
-$STATUS_DESC_TOXIC	<INTI> DAN/sec per <TIME> sec, esplode alla morte per il <PERCENT2>% dei PV del difensore
-$STATUS_DESC_EVER_TOXIC	<INTI> DAN/sec, esplode alla morte per il <PERCENT2>% della vita del difensore
+$STATUS_DESC_TOXIC	<INTI> DAN/sec per <TIME> sec, esplode alla morte provocando un danno pari al <PERCENT2>% dei PV del difensore
+$STATUS_DESC_EVER_TOXIC	<INTI> DAN/sec, esplode alla morte provocando un danno pari al <PERCENT2>% dei PV del difensore
 $STATUS_DESC_SINGLE_STUN	Non può muoversi. Può essere inflitto solo una volta.
 $STATUS_DESC_STUN	Non si può muovere.
-$STATUS_DESC_BURN	<AMT_1DIG> DMG/sec<N>Cancellato dal ghiaccio.
+$STATUS_DESC_BURN	<AMT_1DIG> DAN/sec<N>Cancellato dal ghiaccio.
 $STATUS_DESC_INSPIRED	Gli attacchi provocano +<M_MULT_PERCENT>% DAN.
 $STATUS_DESC_FREEZE	Impedisce il movimento.<N>Annullato dal fuoco.
 $STATUS_DESC_CHILL	-<PERCENT>% velocità.<N>Cancellato dal fuoco.
 $STATUS_DESC_SLOW	-<PERCENT>% velocità.
 $STATUS_TIME_LEFT	<TIME_LEFT>/<TIME> secondi rimasti.
 $STATUS_TIME_FOREVER	Durata infinita.
-$FLAV_DESC_LIGHT	I nemici OSCURI subiscono +<AMT_2DIG>x<EXTRA>DAN e sono più facili da colpire per <TIME><EXTRA_TIME> sec.
+$FLAV_DESC_LIGHT	I nemici OSCURI subiscono +<AMT_2DIG>x<EXTRA>DAN. e sono più facili da colpire per <TIME><EXTRA_TIME> sec.
 $FLAV_DESC_LIGHT_SHORT	I nemici OSCURI sono più facili da colpire e subiscono danni extra.
 $FLAV_DESC_BLINDED	Gli attacchi nemici falliscono il <PERCENT>% <EXTRA>delle volte per <TIME><EXTRA_TIME> sec.
 $FLAV_DESC_BLINDED_SHORT	Gli attacchi nemici sono meno accurati per pochi secondi.
 $FLAV_DESC_CONFUSED	Il nemico cammina all'indietro per <TIME><EXTRA_TIME> sec.
 $FLAV_DESC_CONFUSED_SHORT	Il nemico cammina all'indietro per qualche istante.
-$FLAV_DESC_BLEED	Il nemico subisce il <PERCENT>%<EXTRA> più di danno dai colpi successivi per <TIME><EXTRA_TIME> sec.
+$FLAV_DESC_BLEED	Il nemico subisce il <PERCENT>%<EXTRA> in più di danno dai colpi successivi per <TIME><EXTRA_TIME> sec.
 $FLAV_DESC_BLEED_SHORT	Il nemico riceve temporaneamente più danni dai colpi futuri.
 $FLAV_DESC_KNOCK_BACK	Il nemico viene respinto di <AMT_1DIG><EXTRA> caselle.
 $FLAV_DESC_KNOCK_BACK_SHORT	Il nemico viene respinto di qualche casella.
 $FLAV_DESC_DISEASE	La rigenerazione del nemico è ridotta del <PERCENT>%<EXTRA>.
 $FLAV_DESC_DISEASE_SHORT	La rigenerazione della salute del nemico diminuisce.
 $FLAV_DESC_POISON	Il nemico subisce il <PERCENT>%<EXTRA> del danno dell'attacco ogni secondo per <TIME><EXTRA_TIME> sec.
-$FLAV_DESC_POISON_DIRECT	Il nemico subisce <AMTDMG><EXTRA> dan ogni secondo per <TIME><EXTRA_TIME> sec.
+$FLAV_DESC_POISON_DIRECT	Il nemico subisce <AMTDMG><EXTRA> danni al secondo per <TIME><EXTRA_TIME> sec.
 $FLAV_DESC_POISON_SHORT	Il nemico subisce danni per un periodo di tempo limitato.
 $FLAV_DESC_SINGLE_STUN	Il nemico non si può muovere per <TIME><EXTRA_TIME> sec. Può essere inflitto solo una volta.
 $FLAV_DESC_SINGLE_STUN_SHORT	Il nemico non può muoversi per qualche secondo. Può essere inflitto solo una volta.
 $FLAV_DESC_STUN	Il nemicon non si può muovere per <TIME><EXTRA_TIME> sec.
 $FLAV_DESC_STUN_SHORT	Il nemico non può muoversi temporaneamente.
 $FLAV_DESC_AUTO_KILL	I nemici al di sotto del <PERCENT>%<EXTRA> dei PV muoiono automaticamente.
-$FLAV_DESC_AUTO_KILL_SHORT	I nemici sufficentemente deboli muoiono all'istante.
-$FLAV_DESC_BURN	Il nemico subisce <AMTDMG><EXTRA> dan/sec per <TIME><EXTRA_TIME> sec. Annullato dal ghiaccio.
+$FLAV_DESC_AUTO_KILL_SHORT	I nemici sufficientemente deboli muoiono all'istante.
+$FLAV_DESC_BURN	Il nemico subisce <AMTDMG><EXTRA> dann/sec per <TIME><EXTRA_TIME> sec. Annullato dal ghiaccio.
 $FLAV_DESC_BURN_SHORT	Il nemico subisce danni per un breve periodo di tempo. Annullato dal ghiaccio.
 $FLAV_DESC_INSPIRE	Gli alleati provocano il <M_MULT_PERCENT>%<EXTRA> di danni in più per <TIME><EXTRA_TIME> sec.
 $FLAV_DESC_INSPIRE_SHORT	Gli alleati provocano temporaneamente più danni.
 $FLAV_DESC_FREEZE	Il nemico è congelato per <TIME><EXTRA_TIME> sec. Il fuoco annulla l'effetto.
 $FLAV_DESC_FREEZE_SHORT	Il nemico è temporaneamente congelato. Il fuoco annulla l'effetto.
 $FLAV_DESC_ARMOR_PIERCE_DIRECT	Gli attacchi ignorano <AMTDMG><EXTRA> punti armatura.
-$FLAV_DESC_ARMOR_PIERCE_AMT_LESS_1	Ignora 1 punto armatura per ogni <INV_AMOUNT><EXTRA> punti DAN dell'attacco.
-$FLAV_DESC_ARMOR_PIERCE_AMT_GRTR_1	Ignora <AMT_1DIG><EXTRA> punti armatura per ogni punto DAN dell'attacco.
+$FLAV_DESC_ARMOR_PIERCE_AMT_LESS_1	Ignora 1 punto armatura per ogni <INV_AMOUNT><EXTRA> punti DAN. dell'attacco.
+$FLAV_DESC_ARMOR_PIERCE_AMT_GRTR_1	Ignora <AMT_1DIG><EXTRA> punti armatura per ogni punto DAN. dell'attacco.
 $FLAV_DESC_ARMOR_PIERCE_SHORT	Gli attacchi ignorano parte dell'armatura.
 $FLAV_DESC_ARMOR_BREAK_DIRECT	Gli attacchi distruggono <AMTDMG><EXTRA> punti armatura.
-$FLAV_DESC_ARMOR_BREAK_AMT_LESS_1	Distrugge 1 punto armatura per ogni <INV_AMOUNT><EXTRA> punti DAN dell'attacco.
-$FLAV_DESC_ARMOR_BREAK_AMT_GRTR_1	Distrugge <AMT_2DIG><EXTRA> punti armatura per ogni punto DAN dell'attacco.
+$FLAV_DESC_ARMOR_BREAK_AMT_LESS_1	Distrugge 1 punto armatura per ogni <INV_AMOUNT><EXTRA> punti DAN. dell'attacco.
+$FLAV_DESC_ARMOR_BREAK_AMT_GRTR_1	Distrugge <AMT_2DIG><EXTRA> punti armatura per ogni punto DAN. dell'attacco.
 $FLAV_DESC_ARMOR_BREAK_SHORT	Gli attacchi danneggiano l'armatura.
 $FLAV_DESC_CHILL	Il nemico è rallentato del <PERCENT>%<EXTRA> per <TIME><EXTRA_TIME> sec. Il fuoco cancella questo effetto.
 $FLAV_DESC_CHILL_SHORT	Il nemico è rallentato per qualche secondo. Il fuoco cancella l'effetto.
@@ -563,7 +562,7 @@ $FLAV_DESC_STRIKE_THROUGH	L'attacco può colpire sino a <INTI><EXTRA> nemici.
 $FLAV_DESC_STRIKE_THROUGH_SHORT	L'attacco può colpire bersagli multipli.
 $FLAV_DESC_CRITICAL	Danno = <AMT_1DIG>x<EXTRA> del normale.
 $FLAV_DESC_CRITICAL_SHORT	Il danno è superiore al normale.
-$STAT_DESC_HP	PUNTI VITA<N>Se raggiungono 0, vieni messo KO.
+$STAT_DESC_HP	PUNTI VITA<N>Se raggiungono 0, il personaggio viene messo KO.
 $STAT_DESC_SPEED	VELOCITÀ<N>Velocità di ricarica degli attacchi:<N>Ogni <SPEED_SHOW_MULT> punti la velocità di ricarica aumenta di 1x
 $STAT_DESC_SPEED_ENEMY	VELOCITÀ<N>Quanto rapidamente il nemico è in grado di muoversi ed attaccare. 1 punto = 1 casella al secondo.
 $STAT_DESC_ATTACK	ATTACCO<N>Aumenta il danno delle tecniche.
@@ -576,8 +575,8 @@ $STAT_DESC_REGEN	RIGENERAZIONE<N>La velocità con cui i PV vengono recuperati na
 $STAT_DESC_REGEN_ENEMY	RIGENERAZIONE<N>La velocità con cui i PV vengono recuperati naturalmente, in PV/sec.
 $STAT_DESC_EVADE	EVASIONE<N>Probabilità di schivare gli attacchi nemici.
 $STAT_DESC_EVADE_ENEMY	EVASIONE<N>Probabilità di schivare gli attacchi.
-$STAT_DESC_RANGE	RAGGIO<N>Portata degli attacchi.
-$STAT_DESC_RANGE_ENEMY	RAGGIO<N>La portata degli attacchi.
+$STAT_DESC_RANGE	PORTATA<N>La portata degli attacchi.
+$STAT_DESC_RANGE_ENEMY	PORTATA<N>La portata degli attacchi.
 $STAT_DESC_SPELLS	INCANTESIMI
 $STAT_DESC_PORCUPINE	SPINE<N>Provocano una certa quantità di danni a chi lo colpisce nel corpo a corpo.
 $STAT_DESC_PHASING	PASSAGGIO DI FASE<N>Si muove periodicamente dentro e fuori dalla realtà; non può essere colpito o preso di mira quando non è completamente in questo mondo.
@@ -636,7 +635,7 @@ $MISC_ACHIEVEMENT!	Achievement!
 $BASE_ATTACK	Attacco base
 $BONUS_DEFENSE	Difesa bonus
 $DECIMATE_BY	Riduce i PV del <PERCENT>%
-$EN_SPELL_FRENZY_DESC	+<PERCENT>% velocità per <SEC> sec
+$EN_SPELL_FRENZY_DESC	+<PERCENT> velocità per <SEC> sec
 $EN_SPELL_HEAL_DESC	Guarisce: <PERCENT> PV
 $EN_SPELL_DRAGON_FIRE_1_DESC	<DMG> DANNO
 $EN_SPELL_DRAGON_FIRE_2_DESC	<LOW>-<HIGH> DANNO
@@ -656,7 +655,7 @@ $TARGET_FAST_TEXT	Attacca il nemico che si muove più velocemente.
 $TARGET_HEAL_TITLE	Prioritizza la GUARIGIONE
 $TARGET_HEAL_TEXT	Guarisce ogni qualvolta è possibile, anche se è disponibile un attacco più potente.
 $TARGET_FIGHT_TITLE	Prioritizza gli ATTACCHI
-$TARGET_FIGHT_TEXT	Usa le abilità di attacco il prima possibile, anche quando è pronta una tecnica di cura più potente.
+$TARGET_FIGHT_TEXT	Utilizza le abilità di attacco il prima possibile, anche quando è pronta una tecnica di cura più potente.
 $TARGET_BOTH_TITLE	Priorità normale
 $TARGET_BOTH_TEXT	Usa le tecniche in base al livello di potenziamento.
 $TARGET_CHEAP_TITLE	Tecniche MODERATE
@@ -666,7 +665,7 @@ $TARGET_EFFECT_TEXT	Usa gli attacchi che provocano effetti secondari contro nemi
 $TARGET_BULLDOG_TITLE	Modalità BULLDOG
 $TARGET_BULLDOG_TEXT	Non cambia mai bersaglio fino a quando il nemico muore o è fuori portata.<N><N>Difficile da impiegare al meglio, raccomandato solo ai giocatori esperti!
 $TARGET_CHANCE_TITLE	Migliore PROBABILITÀ
-$TARGET_CHANCE_TEXT	Attacca il nemico che ha meno probabilità di schivare o resistere all'attacco.
+$TARGET_CHANCE_TEXT	Attacca il nemico che ha meno probabilità di schivare o resistere agli attacchi.
 $TARGET_BOSS_TITLE	Attacca i BOSS
 $TARGET_BOSS_TEXT	Se disattivato, ignora i boss.
 $TARGET_SAVE_TITLE	Impostazioni di SALVATAGGIO
@@ -679,8 +678,8 @@ $CONFIRM_QUIT_TEXT	<RE>$CONFIRM_RESTART_TEXT
 $MISC_LEADER	Capogruppo
 $MISC_LEVEL	livello
 $MISC_LVLUP	LVLUP
-$MISC_LEVEL_UPX	LEVEL UPx
-$MISC_LEVEL_UP!	LEVEL UP!
+$MISC_LEVEL_UPX	LIVELLO SUPERIOREx
+$MISC_LEVEL_UP!	LIVELLO SUPERIORE!
 $MISC_ANONYMOUS	anonimo
 $MISC_LEVEL_SHORT	LIV
 $PARTY_CLASS_NAME_NUMS	x_off:-16
@@ -700,7 +699,6 @@ $MISC_SPEED	velocità
 $MISC_SPEED_SHORT	VEL
 $MISC_ATTACK	attacco
 $MISC_ATTACK_SHORT	ATT
-$MISC_ARMOR	armatura
 $UI_TOWN_ARMOR_NUMS	font:13,y_off:1
 $MISC_ARMOR_SHORT	ARM
 $MISC_EVADE	evasione
@@ -712,13 +710,13 @@ $MISC_DEFENSE_SHORT	DIF
 $MISC_RANGE	portata
 $MISC_RANGE_SHORT	RAG
 $MISC_REGEN_LONG	rigenerazione
-$MISC_REGEN	rigen
+$MISC_REGEN	rigen.
 $MISC_REGEN_SHORT	RIG
 $MISC_OF_DAMAGE	di DANNO
 $MISC_DAMAGE	danno
-$MISC_DAMAGE_SHORT	DAN
+$MISC_DAMAGE_SHORT	DAN.
 $MISC_DAMAGE_RESIST	resistenza DANNO
-$MISC_RESIST	resiste <SOMETHING>
+$MISC_RESIST	resiste a <SOMETHING>
 $MISC_VS	vs
 $MISC_TO	a
 $MISC_VERSUS	versus
@@ -734,9 +732,10 @@ $MISC_DARK_DESC	(evita il 75% degli attacchi)
 $MISC_SPAWNS	genera
 $MISC_STRENGTHS	abilità
 $MISC_WEAKNESSES	debolezze
+$MISC_WEAPON_SINGULAR	arma
 $MISC_IMMUNE_TO	Immune a <SOMETHING>
 $MISC_AMOUNT	quantità
-$MISC_AMOUNT_SHORT	qnt
+$MISC_AMOUNT_SHORT	quant.
 $MISC_SECOND	secondo
 $MISC_SECONDS	secondi
 $MISC_SECOND_SHORT	sec
@@ -752,28 +751,35 @@ $MISC_QUIT	abbandona
 $MISC_CLOSE	chiudi
 $MISC_TRY_AGAIN	Prova ancora
 $MISC_RANDOM	casuale
-$MISC_HIRE	ASSOLDA!
+$MISC_HIRE	RECLUTA!
 $MISC_CANT_AFFORD	Non te lo puoi permettere
 $MISC_CONFIRM_RECRUIT	Conferma Reclutamento
 $MISC_CONFIRM_CHANGE	Conferma Cambiamenti
 $MISC_MAKE_CHANGE	Vuoi fare questi cambiamenti?
-$MISC_HIRE_Q	Paga <SCRAP> scarti per reclutare <NAME>?
+$MISC_HIRE_Q	Paghi <SCRAP> scarti per reclutare <NAME>?
 $MISC_MODS	Mod
 $MISC_CONFIG_DIR	Cartella di configurazione
 $MISC_LANGUAGES	Lingue
-$MISC_PLEASE_ENTER_A_NAME!	<N>Per favore, scrivi un nome!
+$MISC_PLEASE_ENTER_A_NAME!	Per favore, scrivi un nome!
 $MISC_ARE_YOU_SURE	Sei sicuro?
 $MISC_NEXT	avanti
-$MISC_PREVIOUS	precedente
+$MISC_PREVIOUS	indietro
 $MISC_PREV	prec
 $MISC_CANCEL	annulla
 $MISC_UNDO_ALL	annulla tutto
 $MISC_UNDO	annulla
-$MISC_DOWNLOAD	download
+$MISC_DOWNLOAD	scarica
 $MISC_BEGIN	inizia
 $MISC_LEAVE	esci
 $MISC_WEAPONS	armi
-$MISC_ARMOR	armature
+$MISC_WEAPON_PLURAL	<RE>$MISC_WEAPONS	
+$MISC_ACCESSORY_SINGULAR	<RE>$MISC_ACCESSORY
+$MISC_ACCESSORY	accessorio
+$MISC_ACCESSORIES	accessori
+$MISC_ACCESSORY_PLURAL	<RE>$MISC_ACCESSORIES
+$MISC_ARMOR	armatura
+$MISC_ARMOR_PLURAL	armature
+$MISC_ARMOR_SINGULAR	<RE>$MISC_ARMOR
 $MISC_RECRUIT	recluta
 $MISC_TALK	parla
 $MISC_QUIT	esci
@@ -785,7 +791,7 @@ $MISC_ACCEPT	accetta
 $MISC_BACK	indietro
 $MISC_REFUSE	rifiuta
 $MISC_RESTART	ricomincia
-$MISC_OKAY	okay
+$MISC_OKAY	conferma
 $MISC_QUIT_BATTLE	esci dalla battaglia
 $MISC_NONE	nessuna
 $MISC_SLOW	lenta
@@ -805,18 +811,18 @@ $MISC_ADVANCED	avanzata
 $MISC_ADVANCED_SHORT	avanz.
 $MISC_EXTREME	estrema
 $MISC_EXTREME_SHORT	estr.
-$MISC_SELECT_CHALLENGE	Seleziona difficoltà:
+$MISC_SELECT_CHALLENGE	Scegli la difficoltà:
 $MISC_REWARD	Ricompensa:
 $MISC_PERFECT_BONUS	Bonus Perfez.:
-$MISC_WAVES	Ondate
+$MISC_WAVES	Ondata
 $MISC_ENEMY_LEVELS	Livello nemici
 $MISC_TYPES	Tipo
-$MISC_PASS	superamento
+$MISC_PASS	vittoria
 $MISC_PERFECT	perfezione
 $MISC_PERFECT!	perfetto!
 $MISC_COMPLETE	completato
 $MISC_COMPLETE!	completato!
-$MISC_STRANGER	straniero
+$MISC_STRANGER	ragazzo
 $MISC_DESCRIPTION	descrizione
 $MISC_DEFENDER	difensore
 $MISC_DEFENDERS	difensori
@@ -831,8 +837,11 @@ $MISC_NOTHING!	niente!
 $MISC_SPECIAL	proprietà
 $MISC_UNKNOWN	sconosciuto
 $MISC_MORE	altro oggetto...
-$MISC_X_MORE	ancora <X>...
+$MISC_X_MORE	altri <X>...
 $MISC_EQUIP	equipaggia
+$SHOP_EQUIP	<RE>$MISC_EQUIP	The word "equip" that appears on the button in the shopping screen in towns
+$EQUIP_THE_THING	<RE>$MISC_EQUIP	The word "equip" that appears on the button in the equip menu in the party screen, to actually put the item on your character
+$GO_TO_EQUIP_MENU	<RE>$MISC_EQUIP	The word "equip" that appears on the button in the skills menu in the party screen, to switch to the equip menu
 $UI_SHOP_EQUIP_NUMS	font:10,y_off:4
 $MISC_CANT_EQUIP!	Non si può equipaggiare
 $MISC_UNEQUIP	rimuovi
@@ -849,7 +858,7 @@ $MISC_DISABLED	disabilitato
 $MISC_CONFIRM	conferma
 $MISC_YOU_SURE	Sei sicuro?
 $MISC_LOADING	Caricamento...
-$MISC_ENTER_TEXT	Enter Text:", "WIP
+$MISC_ENTER_TEXT	Scrivi Messaggio:
 $MISC_LOADING_PERCENT	Caricamento...<PERCENT>%
 $MISC_BATTLE	Battaglia
 $MISC_TOWN	Cittadina
@@ -858,7 +867,7 @@ $MISC_MOVIES	Scene
 $MISC_OPTIONS	Opzioni
 $MISC_CREDITS	Crediti
 $MISC_PARTY	Gruppo
-$MISC_ERROR	errore", 
+$MISC_ERROR	errore 
 $"$MISC_ERROR!	errore!
 $MISC_BONUS	Bonus
 $MISC_TIPS	Consigli
@@ -873,7 +882,7 @@ $MISC_RESET	Resetta
 $MISC_DEFAULT	Default
 $MISC_SELECT	Seleziona
 $MISC_DESELECT_SPELL	Clicca al di fuori del terreno di battaglia per deselezionare gli incantesimi
-$DATA_DUMP_LOCALES	Esportazione localizzazione...", "WIP
+$DATA_DUMP_LOCALES	Esportazione localizzazione...
 $DATA_DUMP_DATA	Esportazione file di dati...
 $DATA_DUMP_CUTSCENE	Esportazione immagini scenette...
 $DATA_DUMP_BKG	Esportazione sfondi...
@@ -894,8 +903,8 @@ $REWARD_GOLD	+ <GOLD> Scarti
 $HERO_BLURB_SLAK	Uno strano giovane, tanto coraggioso quanto instabile...
 $HERO_BLURB_KETTA	Una cacciatrice nomade, cinica e disillusa...
 $HERO_BLURB_BAKAL	Un vecchio monaco dai modi gentili, in cerca di perdono per i suoi peccati...
-$HERO_BLURB_WRENNA	L'ultima principessa Quaid, dal cuore pieno di vendetta per il suo regno perduto...
-$HERO_BLURB_MARKOS	Un giovane e valente cavaliere, ansioso di dar prova di sè...
+$HERO_BLURB_WRENNA	L'ultima principessa Quaid, ansiosa di vendicare il suo regno perduto...
+$HERO_BLURB_MARKOS	Un giovane e valente cavaliere, stremato da una lotta senza fine...
 $HERO_BLURB_NIRU	Violenta e misteriosa, questa draghessa è gelosa dei suoi segreti...
 $TALK_ASH	PROFUGO ASH
 $TALK_QUAID	PROFUGO QUAID
@@ -910,7 +919,6 @@ $MAP_TEXT_TREASURE	Caverna
 $MCGUFFIN_LEARN_SPELL	<MCG> ha imparato un nuovo incantesimo!
 $YOU_GOT_JOIN	<NAME><N>si unisce al gruppo!
 $YOU_GOT	Hai ottenuto
-$YOU_GOT_SCRAP	<SCRAP> scarti!
 $YOU_GOT_X	<NUM>x <THING>!
 $YOU_GOT_NO_EQUIP_YET	Nessuno nel tuo gruppo è in grado di usare questo <THING>.<N>Non preoccuparti, continua a giocare e troverai nuovi personaggi a cui tornerà utile.
 $YOU_GOT_NO_EQUIP	Questo oggetto non può essere equipaggiato.
@@ -919,7 +927,7 @@ $TOOLTIP_NORMAL	Difficoltà normale.<N><N>La maggior parte dei giocatori dovrebb
 $TOOLTIP_ADVANCED	Una sfida impegnativa, con ricompense migliori.<N><N>Ritorna quando sarai abbastanza forte.
 $TOOLTIP_EXTREME	La sfida più difficile, con le ricompense migliori in assoluto.<N><N>Preparati!
 $TIP_00_TITLE	Non riesci a proseguire?
-$TIP_00_TEXT	<N><N>A volte è utile ripetere una battaglia precedente per aumentare di livello, guadagnare oro, e comprare equipaggia-<N>mento migliore.<N> Puoi anche provare la difficoltà 'Facile' per una sfida un po' meno impegnativa.
+$TIP_00_TEXT	<N><N>A volte può essere utile ripetere una delle battaglie precedenti per aumentare di livello, guadagnare oro, e comprare equipaggiamento migliore.<N> Puoi anche provare la difficoltà 'Facile' per una sfida un po' meno impegnativa.
 $TIP_10_TITLE	Hotkeys
 $TIP_10_TEXT	Puoi controllare il gioco tramite tastiera!<N><N>- Seleziona incantesimi<N>- Scegli i personaggi da evocare<N>- Potenzia / richiama i difensori<N>- Metti in pausa / riprendi il gioco<N>- Seleziona i difensori evocati<N>- Cambia le opzioni di combattimento/velocità<N>- Naviga l'interfaccia con Tab<N>- Muovi il cursore/clicca con la tastiera<N><N>(Modifica i tasti dal menu opzioni)
 $TIP_20_TITLE	Abilità
@@ -928,16 +936,16 @@ $TIP_30_TITLE	Chi guadagna esperienza?
 $TIP_30_TEXT	<N><N>Dopo una battaglia, tutti i personaggi ancora attivi sulla mappa ricevono la stessa quantità di esperienza.<N><N>Tutti gli altri ne ricevono la metà. L'esperienza per personaggio rimane la stessa a prescindere dal numero dei personaggi.<N><N>Puoi cambiare questi valori nel menu Accessibilità.
 $TIP_40_TITLE	Mappa
 $TIP_40_TEXT	Puoi cliccare e trascinare il mouse per muoverti nella mappa, o navigare con la tastiera.<N><N>Puoi scorrere la mappa con i tasti freccia.
-$TIP_50_TITLE	Richiamare unità per il 100% di Psi
-$TIP_50_TEXT	Normalmente, richiamare i difensori recupera solo una parte dell'energia Psi spesa.<N><N>Ma se li richiami prima dell'arrivo del primo nemico, ne recuperi il 100%!
+$TIP_50_TITLE	Richiamare unità per recuperare PSI
+$TIP_50_TEXT	Normalmente, richiamare i difensori recupera solo una parte dell'energia Psi che hai speso per evocarli.<N><N>Ma se li richiami prima dell'arrivo della prima ondata di nemici, ne recupererai interamente il costo!
 $TIP_60_TITLE	Sito Web e Forum
-$TIP_60_TEXT	Se hai delle domande, unisciti alla comunità online di Defender's Quest a www.defendersquest.com!<N><N>Abbiamo un forum dove puoi chiedere informazioni, una wiki, ed anche un blog.
+$TIP_60_TEXT	Se hai delle domande, unisciti alla comunità online di Defender's Quest su www.defendersquest.com!<N><N>Abbiamo un forum dove puoi chiedere informazioni, una wiki, ed anche un blog.
 $TIP_70_TITLE	Posiziona i difensori
 $TIP_70_TEXT	Puoi usare la tastiera per posizionare i difensori in battaglia.<N><N>I controlli predefiniti sono i tasti freccia.
 $TIP_80_TITLE	Effetti in battaglia
 $TIP_80_TEXT	Il colore dei numeri indica il tipo di danno. Bianco è normale, grigio è ridotto da armatura, rosso è danno extra da sanguinamento, viola è veleno, arancione è fuoco, ed i numeri più grandi del normale sono colpi critici. <N><N>Puoi attivarli/disattivarli dal menu opzioni -> 'Varie.'
 $TIP_90_TITLE	Oggetti Unici
-$TIP_90_TEXT	Giocando ai livelli di difficoltà più alti, troverai occasionalmente degli oggetti unici.  Sono potenti artefatti collezionabili che non possono essere venduti nei negozi.
+$TIP_90_TEXT	Giocando ai livelli di difficoltà più alti, troverai occasionalmente degli oggetti unici.  Si tratta di potenti artefatti collezionabili che non possono essere venduti nei negozi.
 $TIP_100_TITLE	Richiamare i difensori
 $TIP_100_TEXT	Richiamare i difensori evocati ti permetterà di recuperare parte dello Psi che hai investito su di loro.<N><N>L'ammontare recuperato diminuisce se il difensore è ferito.
 $TIP_110_TITLE	Accessibilità
@@ -963,7 +971,7 @@ $TIP_200_TEXT	A volte una certa tecnica può interferire con i tuoi piani (magar
 $TIP_210_TITLE	Dove sono i miei salvataggi?
 $TIP_210_TEXT	Nel menu dei salvataggi, c'è un pulsante con l'icona di una cartella con una chiave inglese.<N><N>Cliccaci sopra per arrivare alla cartella dove sono archiviati i tuoi salvataggi e le tue preferenze.
 $TIP_220_TITLE	Nuova Partita+
-$TIP_220_TEXT	Dopo aver finito il gioco normale, puoi iniziare una nuova avventura col tuo vecchio gruppo, con battaglie più difficili e ricompense pazzesche!<N><N>Vai alla schermata dei salvataggi e scegli Nuova Partita+ sul tuo vecchio salvataggio.
+$TIP_220_TEXT	Dopo aver finito il gioco normale, puoi iniziare una nuova avventura col tuo vecchio gruppo, con battaglie più difficili e ricompense pazzesche!<N><N><RE>[$NEW_GAME_PLUS_NOTE]
 $TIP_230_TITLE	Miglioramenti
 $TIP_230_TEXT	In modalità NP+, sarai in grado di guadagnare degli speciali artefatti che puoi usare per migliorare gli oggetti unici ottenuti nella partita normale. Una volta migliorati questi oggetti ottengono poteri speciali!
 $TIP_240_TITLE	Missioni Bonus
@@ -971,7 +979,7 @@ $TIP_240_TEXT	Una volta ottenute abbastanza stelle, inizierai a sbloccare le bat
 $TIP_250_TITLE	Penalità Psi
 $TIP_250_TEXT	L'incantesimo Fulmine 'brucia' l'energia Psi del nemico, riducendone la quantità ottenibile in proporzione al danno causato. Se l'incantesimo lo danneggia per il 40% dei suoi punti vita totali, varrà il 40% di Psi in meno, e così via.
 $TIP_260_TITLE	Supporto per i Mod
-$TIP_260_TEXT	Sapevi che puoi fare i tuoi mod (modifiche) per Defender's Quest?<N><N>Clicca sul grande pulsante 'M' nel menu dei salvataggi.  Puoi cambiare quasi tutto - attributi, livelli, classi, personaggi, scenette, grafica, oggetti, etc.
+$TIP_260_TEXT	Sai che puoi fare i tuoi mod (modifiche) per Defender's Quest?<N><N>Clicca sul pulsante con la chiave inglese nel menu dei salvataggi.  Quasi tutto può essere cambiato - attributi, livelli, classi, personaggi, scenette, grafica, oggetti, etc.
 $TIP_270_TITLE	Ricordati della Mamma
 $TIP_270_TEXT	<N><N>Telefona a mammà, che le manchi!
 $TYPE_DARK	Oscuro
@@ -992,167 +1000,540 @@ $TYPE_ARMOR	Corazzato
 $TYPE_STATIONARY	Stazionario
 $TYPE_TELEPORTER	Teletrasporto
 $TYPE_EXALTED	Esaltato
-$TYPE_NO_END_DAMAGE	NessunDannoFinale
-$GETSCRAP1	Una pila di cianfrusaglie, stracci, utensili rotti, e scheggie affilate di metallo arrugginito. Chi potrebbe mai volere questa roba?
+$TYPE_NO_END_DAMAGE	NienteDannoFinale
+$GETSCRAP1	Una pila di cianfrusaglie, stracci, utensili rotti, e scheggie affilate di metallo arrugginito.<N><N>Chi potrebbe mai volere questa roba?
 $GETSCRAP2	A quanto pare, i residenti della valle utilizzano questa spazzatura come valuta.
 $MISC_!	!
 $END	fine
-$BATTLE_STARTING_FORMATION_TEXT	Use the same starting formation as last time?
+$BATTLE_STARTING_FORMATION_TEXT	Vuoi usare la stessa formazione iniziale dell'ultima volta?
 $DATA_DUMP_BACKGROUNDS	<RE>$DATA_DUMP_BKG
 $DATA_DUMP_CUTSCENES	<RE>$DATA_DUMP_CUTSCENE
-$DATA_DUMP_MUSIC	Exporting music...
-$DATA_DUMP_SFX	Exporting sound effects...
-$DATA_DUMP_SPRITES	Exporting sprites...
+$DATA_DUMP_MUSIC	Esportazione musica...
+$DATA_DUMP_SFX	Esportazione effetti sonori...
+$DATA_DUMP_SPRITES	Esportazione sprite...
 $LQ	“
-$MISC_ABSORB_X	absorb <X>
-$MISC_ABSORB_X_RESIST_Y	absorb <X>, resist <Y>%
-$MISC_ACCEPT_AND_CLOSE	Accept & close
-$MISC_BOOST_X	boost <X>
-$MISC_COST:	cost:
-$MISC_DEFEAT	Defeat
-$MISC_DEFENSE_ABS	defense
-$MISC_DEMO_VERSION	Demo Version
-$MISC_DEMO_VERSION_DESC	This is an early release public demo of Defender's Quest: Valley of the Forgotten, HD Special Edition.<N><N>It may contain a few bugs, and the graphics and features aren't in their final state.<N><N>Please keep in mind this isn't meant to be a representative picture of the final product.
-$MISC_DQ_NEWS	Get NEWS!
+$MISC_ABSORB_X	assorbe <X> dan.
+$MISC_ABSORB_X_RESIST_Y	assorbe <X>, resiste <Y>%
+$MISC_ACCEPT_AND_CLOSE	Accetta e chiudi
+$MISC_BOOST_X	Liv. potenziamento <X>
+$MISC_COST:	costo:
+$MISC_DEFEAT	Sconfitta
+$MISC_DEFENSE_ABS	difesa
+$MISC_DQ_NEWS	Leggi gli AGGIORNAMENTI!
 $MISC_DQ_SITE	DefendersQuest.com
-$MISC_EASIER	easier
-$MISC_ERROR_INVALID_MOD_NAME	Invalid mod name!
-$MISC_ERROR_MOD_BAD	That mod is incompatible with this version of the game. Sorry!
-$MISC_ERROR_MOD_EXISTS	A mod with that name already exists!
-$MISC_ERROR_UNKNOWN	Unknown error. Sorry!
-$MISC_ERROR_UNZIP	Couldn't unzip the mod. Change your mod path in the options menu, or check your hard drive space.
-$MISC_GAME_DATA	Game Data
-$MISC_GOLD	scrap
-$MISC_GOLD:	scrap:
+$MISC_EASIER	più facile
+$MISC_ERROR_INVALID_MOD_NAME	Nome del mod invalido!
+$MISC_ERROR_MOD_BAD	Il mod è incompatibile la versione corrente versione del gioco. Ci dispiace!
+$MISC_ERROR_MOD_EXISTS	Un mod con lo stesso nome è già esistente!
+$MISC_ERROR_UNKNOWN	Errore sconosciuto. Siamo spiacenti!
+$MISC_ERROR_UNZIP	Impossibile scompattare il mod. Cambia la destinazione dal menu opzioni, o controlla lo spazio sul disco rigido.
+$MISC_GAME_DATA	Dati del Gioco
+$MISC_GOLD	scarti
+$MISC_GOLD:	scarti:
 $MISC_HARD	<RE>$MISC_EXTREME
-$MISC_HARDER	harder
+$MISC_HARDER	più difficile
 $MISC_HARD_SHORT	<RE>$MISC_EXTREME_SHORT
 $MISC_INFO	info
-$MISC_LEVEL_SHORT_X	LVL <X>
+$MISC_LEVEL_SHORT_X	LIV <X>
+$MISC_LEVEL_PARTY_GEM	Livello	Appears on character blocks in the party screen
+$MISC_LEVEL_WAVE_BLOCK	Livello	Appears on enemy wave blocks in battle
 $MISC_LEVEL_SUPER_SHORT	L
-$MISC_LEVEL_X	Level <X>
+$MISC_LEVEL_X	Livello <X>
 $MISC_MEDIUM	<RE>$MISC_ADVANCED
 $MISC_MEDIUM_SHORT	<RE>$MISC_ADVANCED_SHORT
 $MISC_MENU	menu
-$MISC_NEED_PSI	NEED<N>PSI
-$MISC_NONE_DEFAULT	None *
-$MISC_NO_CHANGE	no change
-$MISC_OTHER	Other
-$MISC_PLUS_X%_TO_ARMOR_MULT	<PLUS_OR_MINUS><X> to ARMOR_MULT
-$MISC_PLUS_X%_TO_DEFENSE_MULT	<PLUS_OR_MINUS><X>% to DEFENSE
-$MISC_PLUS_X%_TO_DODGE	<PLUS_OR_MINUS><X> to EVASION
+$MISC_NEED_PSI	PSI<N>INSUFFICIENTI
+$MISC_NONE_DEFAULT	Nessuno *
+$MISC_NO_CHANGE	nessun cambiamento
+$MISC_OTHER	Altro
+$MISC_PLUS_X%_TO_ARMOR_MULT	<PLUS_OR_MINUS><X> a ARMOR_MULT
+$MISC_PLUS_X%_TO_DEFENSE_MULT	<PLUS_OR_MINUS><X>% alla DIFESA
+$MISC_PLUS_X%_TO_DODGE	<PLUS_OR_MINUS><X> a EVASIONE
 $MISC_PLUS_X%_TO_EVADE	<RE>$MISC_PLUS_X%_TO_DODGE
-$MISC_PLUS_X%_TO_REGEN_MULT	<PLUS_OR_MINUS><X>% to REGENERATION
+$MISC_PLUS_X%_TO_REGEN_MULT	<PLUS_OR_MINUS><X>% alla RIGENERAZIONE
 $MISC_PLUS_X_STAT	+<X> <STAT>
-$MISC_PLUS_X_TO_ARMOR_ABS	<PLUS_OR_MINUS><X> to ARMOR
-$MISC_PLUS_X_TO_ATTACK	<PLUS_OR_MINUS><X> to ATTACK
-$MISC_PLUS_X_TO_ATTACK_SPEED	<PLUS_OR_MINUS><X> to SPEED
-$MISC_PLUS_X_TO_DEFENSE_ABS	<PLUS_OR_MINUS><X> to DEFENSE
-$MISC_PLUS_X_TO_HP	<PLUS_OR_MINUS><X> to HP
-$MISC_PLUS_X_TO_RANGE	<PLUS_OR_MINUS><X> to RANGE
-$MISC_PLUS_X_TO_REGEN_ABS	<PLUS_OR_MINUS><X> to REGENERATION
+$MISC_PLUS_X_TO_ARMOR_ABS	<PLUS_OR_MINUS><X> all'ARMATURA
+$MISC_PLUS_X_TO_ATTACK	<PLUS_OR_MINUS><X> all'ATTACCO
+$MISC_PLUS_X_TO_ATTACK_SPEED	<PLUS_OR_MINUS><X> alla VELOCITÀ
+$MISC_PLUS_X_TO_DEFENSE_ABS	<PLUS_OR_MINUS><X> alla DIFESA
+$MISC_PLUS_X_TO_HP	<PLUS_OR_MINUS><X> ai PV
+$MISC_PLUS_X_TO_RANGE	<PLUS_OR_MINUS><X> alla RABBIA
+$MISC_PLUS_X_TO_REGEN_ABS	<PLUS_OR_MINUS><X> alla RIGENERAZIONE
 $MISC_PSI_SHORT	psi
-$MISC_RESIST_X	resist <X>%
-$MISC_SAVE_DATA	Save Data
-$MISC_SEND_NEXT	Send NEXT
-$MISC_THORNS	thorns
-$MISC_UNIQUE	unique
-$MISC_VICTORY	Victory
-$MISC_WAIT	WAIT
+$MISC_RESIST_X	resiste <X>%
+$MISC_SAVE_DATA	Dati dei Salvataggi
+$MISC_SEND_NEXT	Manda Prossima Ondata
+$MISC_THORNS	spine
+$MISC_UNIQUE	unico
+$MISC_VICTORY	Vittoria
+$MISC_WAIT	ATTENDERE
 $MISC_WEAPON	<RE>$MISC_WEAPONS
 $MISC_X_PSI	<X> PSI
 $RQ	”
-$SKILL_DESC_HEAL	Heal
-$STATE_CRASH_DETAILS	Details:
-$STATE_CRASH_PROMPT	What would you like to do?
-$STATE_CRASH_SEND	Send report<N>to developer
-$STATE_CRASH_SHOW_DUMP	Show crash<N>dump files
-$STATE_CRASH_TITLE	Critical Error!
+$SKILL_DESC_HEAL	Cura
+$STATE_CRASH_DETAILS	Dettagli:
+$STATE_CRASH_PROMPT	Cosa vuoi fare?
+$STATE_CRASH_SEND	Manda rapporto<N>agli sviluppatori
+$STATE_CRASH_SHOW_DUMP	Mostra file di <N>crash dump
+$STATE_CRASH_TITLE	Errore Critico!
 $STATUS_DESC_DARK_FRENZY	<RE>$STATUS_DESC_FRENZY
 $STATUS_DESC_EVER_BLEED	<RE>$STATUS_DESC_BLEED
-$STATUS_DESC_FB_EXISTENTIAL	-<PERCENT>% speed, +<PERCENT>% damage resist.
+$STATUS_DESC_FB_EXISTENTIAL	-<PERCENT>% velocità, +<PERCENT>% resistenza danni.
 $STATUS_DESC_FIRE	<RE>$STATUS_DESC_BURN
 $STATUS_DESC_INSPIRE	<RE>$STATUS_DESC_INSPIRED
 $STATUS_DESC_INSPIRED_HIT	<RE>$STATUS_DESC_INSPIRED
-$STAT_DESC_ARMOR	ARMOR<N>Amount of damage absorbed.
-$STAT_DESC_ARMOR_ENEMY	ARMOR<N>Amount of damage absorbed.
-$STAT_DESC_SPAWN	SPAWNS:<N>
-$STAT_DESC_THORNS	THORNS<N>Deals this much damage to a melee attacker.
-$STAT_DESC_XP	EXPERIENCE<N>
-$TARGET_SPECIFIC_TEXT	Manually select a specific enemy to attack, ignoring all others.
-$TARGET_SPECIFIC_TITLE	Target SPECIFIC
-$TITLE_OPTIONS	Options
-$UI_ACCESS_SEE_ALSO	See Also:
-$UI_ALL_FILES	All Files
-$UI_CONTROLS_ACCEPT	Accept
-$UI_CONTROLS_ACCEPT_SELECT	Accept/Select
-$UI_CONTROLS_AUTO	Auto-detect
-$UI_CONTROLS_BACK_CANCEL	Back/Cancel
-$UI_CONTROLS_CANCEL	Cancel
-$UI_CONTROLS_CURSOR	Cursor
-$UI_CONTROLS_DEVICE	Device
+$STAT_DESC_ARMOR	ARMATURA<N>Quantità di danni assorbita.
+$STAT_DESC_ARMOR_ENEMY	ARMATURA<N>Quantità di danni assorbita.
+$STAT_DESC_SPAWN	GENERA:<N>
+$STAT_DESC_THORNS	SPINE<N>Provoca una determinata quantità di danni a chi lo attacca in mischia.
+$STAT_DESC_XP	ESPERIENZA<N>
+$TARGET_SPECIFIC_TEXT	Seleziona manualmente un bersaglio specifico da attaccare, ignorando tutti gli altri.
+$TARGET_SPECIFIC_TITLE	Attacca bersaglio SPECIFICO
+$TITLE_OPTIONS	Opzioni
+$UI_ACCESS_SEE_ALSO	Vedi Anche:
+$UI_ALL_FILES	Tutti i File
+$UI_CONTROLS_ACCEPT	Accetta
+$UI_CONTROLS_ACCEPT_SELECT	Accetta/Seleziona
+$UI_CONTROLS_AUTO	Rilevamento automatico
+$UI_CONTROLS_BACK_CANCEL	Indietro/Annulla
+$UI_CONTROLS_CANCEL	Annulla
+$UI_CONTROLS_CURSOR	Cursore
+$UI_CONTROLS_DEVICE	Periferica
 $UI_CONTROLS_GAMEPAD	Gamepad
-$UI_CONTROLS_GAMEPAD_MODEL	Model
-$UI_CONTROLS_KEYBOARD	Mouse & Keyboard
+$UI_CONTROLS_GAMEPAD_MODEL	Modello
+$UI_CONTROLS_KEYBOARD	Mouse & Tastiera
 $UI_CONTROLS_LOGITECH	Logitech
 $UI_CONTROLS_MENU	Menu
 $UI_CONTROLS_MENU_ALT	Menu 2
-$UI_CONTROLS_MINUS_PLUS_SPEED	-/+<N>Speed
-$UI_CONTROLS_NAVIGATE_MENU	Navigate Menu
+$UI_CONTROLS_MINUS_PLUS_SPEED	-/+<N>Velocità
+$UI_CONTROLS_NAVIGATE_MENU	Naviga Menu
 $UI_CONTROLS_OUYA	Ouya
-$UI_CONTROLS_POINTER	Pointer
+$UI_CONTROLS_POINTER	Puntatore
 $UI_CONTROLS_PRESET_COLEMAK	Colemak
-$UI_CONTROLS_PRESET_DEFAULT	Default
+$UI_CONTROLS_PRESET_DEFAULT	Standard
 $UI_CONTROLS_PRESET_PS	PlayStation
-$UI_CONTROLS_PRESET_PSJ	PlayStation (Japan)
-$UI_CONTROLS_PRESET_WIIU	WiiU Default
-$UI_CONTROLS_PRESET_XBOX	XBox Default
+$UI_CONTROLS_PRESET_PSJ	PlayStation (Giappone)
+$UI_CONTROLS_PRESET_WIIU	WiiU Standard
+$UI_CONTROLS_PRESET_XBOX	XBox Standard
 $UI_CONTROLS_PS3	Playstation 3
 $UI_CONTROLS_PS4	Playstation 4
-$UI_CONTROLS_SEE_ALSO	See Also:
-$UI_CONTROLS_SELECT	Select
+$UI_CONTROLS_SEE_ALSO	Vedi Anche:
+$UI_CONTROLS_SELECT	Seleziona
 $UI_CONTROLS_XBOX1	Xbox One
 $UI_CONTROLS_XBOX360	Xbox 360
 $UI_CONTROLS_XINPUT	Xinput
-$UI_DQ_SAVE_FILES	DQ<X> Save Files
-$UI_EQUIP_ALL_ACC_BOOK	All books equipped!
-$UI_EQUIP_NO_ACC_BOOK	No books owned!
+$UI_DQ_SAVE_FILES	DQ<X> File di Salvataggio
+$UI_EQUIP_ALL_ACC_BOOK	Tutti i libri sono equipaggiati!
+$UI_EQUIP_NO_ACC_BOOK	Nessun libro posseduto!
 $UI_GRAPHICS_HD	HD
-$UI_GRAPHICS_ORIGINAL	Original
+$UI_GRAPHICS_ORIGINAL	Originali
 $UI_HIGH	High
 $UI_HIGH()	High(<X>)
-$UI_LOGGING_ALWAYS	Always
-$UI_LOGGING_ASK	Ask each time
-$UI_LOGGING_CRASH	Record crash logs
-$UI_LOGGING_CRASH_CONTENT	Include with crash log:
-$UI_LOGGING_CRASH_OPTIONS	Game settings
-$UI_LOGGING_CRASH_REPLAY	User input records
-$UI_LOGGING_CRASH_SAVES	Save files
+$UI_LOGGING_ALWAYS	Sempre
+$UI_LOGGING_ASK	Chiedi ogni volta
+$UI_LOGGING_CRASH	Registra rapporto in caso di crash
+$UI_LOGGING_CRASH_CONTENT	Includi nel rapporto:
+$UI_LOGGING_CRASH_OPTIONS	Impostazioni del gioco
+$UI_LOGGING_CRASH_REPLAY	Cronologia comandi utente
+$UI_LOGGING_CRASH_SAVES	File di salvataggio
 $UI_LOGGING_CRASH_SCREENSHOT	Screenshot
-$UI_LOGGING_CRASH_SYSTEM	System specs
-$UI_LOGGING_NEVER	Never
-$UI_LOGGING_SEND	Send crash logs to developer
-$UI_LOGGING_TITLE	Logging
+$UI_LOGGING_CRASH_SYSTEM	Informazioni sul sistema
+$UI_LOGGING_NEVER	Mai
+$UI_LOGGING_SEND	Manda rapporto agli sviluppatori
+$UI_LOGGING_TITLE	Rapporto Errori
 $UI_LOW	Low
 $UI_LOW()	Low(<X>)
-$UI_MOD_LOAD_MOD_TEXT	Load mod <LQ><MOD><RQ>?<N>This will restart the game.
-$UI_MOD_ZIP_FILES	Zip Files (*.*)
-$UI_RESOLUTION_CHOICES	Available:
-$UI_RESOLUTION_CURRENT	Current:
-$UI_RESOLUTION_CURRENT_PARENTHESES	(Current)
-$UI_RESOLUTION_TITLE	Monitor Resolution
-$UI_SELECT_A_FILE_TEXT	Please select a save file to import
-$UI_SELECT_A_FILE_TITLE	Select a file please!
-$UI_VIDEO_CHANGE_RES_TO	Change Resolution to <X>
-$UI_VIDEO_CUTSCENES	Cutscenes
-$UI_VIDEO_GRAPHICS	Graphics
-$UI_VIDEO_HD	Wide (16:9)
-$UI_VIDEO_MATCH_MONITOR	Match Fullscreen
-$UI_VIDEO_MODE	Mode
-$UI_VIDEO_RESOLUTION	Fullscreen Monitor Resolution
-$UI_VIDEO_SCREEN_SIZE	Game Window Size
+$UI_MOD_LOAD_MOD_TEXT	Carica il mod <LQ><MOD><RQ>?<N>Ciò farà riavviare il gioco.
+$UI_MOD_ZIP_FILES	File Zip (*.*)
+$UI_RESOLUTION_CHOICES	Disponibile:
+$UI_RESOLUTION_CURRENT	Attuale:
+$UI_RESOLUTION_CURRENT_PARENTHESES	(Attuale)
+$UI_RESOLUTION_TITLE	Risoluzione Monitor
+$UI_SELECT_A_FILE_TEXT	Per favore, scegli un file di salvataggio da importare
+$UI_SELECT_A_FILE_TITLE	Scegli un file per favore!
+$UI_VIDEO_CHANGE_RES_TO	Cambia la risoluzione a <X>
+$UI_VIDEO_CUTSCENES	Scenette
+$UI_VIDEO_GRAPHICS	Grafica
+$UI_VIDEO_HD	Widescreen (16:9)
+$UI_VIDEO_MATCH_MONITOR	Adatta a schermo intero
+$UI_VIDEO_MODE	Modalità
+$UI_VIDEO_RESOLUTION	Risoluzione del monitor a schermo pieno
+$UI_VIDEO_SCREEN_SIZE	Dimensione Finestra
 $UI_VIDEO_SD	Standard (4:3)
-$UI_VIDEO_SELECT_NEW	Select New...
-$UI_VIDEO_SPRITES	Sprites
-$WEAK_DMG_MULT	+<PERCENT>% extra DMG from <FLAVOR>
-$YOU_GOT_MONEY	You got <MONEY> scrap!
+$UI_VIDEO_SELECT_NEW	Seleziona nuova...
+$UI_VIDEO_SPRITES	Sprite
+$WEAK_DMG_MULT	+<PERCENT>% DAN. extra da <FLAVOR>
+$YOU_GOT_MONEY	Hai ottenuto <MONEY> scarti!
+$BOOK_COOLDOWN_OP	Ricarica dell'incantesimo <X>
+$DATA_DUMP_MAPS	<RE>$DATA_DUMP_MAP_FILES
+$MISC_ADJUST_REWARDS	L'impostazione predefinita è 100%, ma puoi cambiarla se vuoi aumentare o diminuire la quantità ottenuta.
+$MISC_BREAK_HERO_MODE_TEXT	Hai scelto di giocare nella <LQ>Modalità Eroe<RQ>, che proibisce il reclutamento di personaggi generici.<N>Vuoi reclutare comunque nuovi personaggi e abbandonare questa modalità?
+$MISC_BREAK_HERO_MODE_TITLE	Abbandoni la Modalità Eroe?
+$MISC_CURRENT_SAVE	Partita corrente:
+$MISC_CUSTOM_SETTINGS	Personalizza...
+$MISC_DEFAULT_SETTINGS	Standard (raccommandato ai nuovi giocatori)
+$MISC_DELETE_ACHIEVEMENT	Eliminare l'achievement?
+$MISC_DELETE_BOTH_GOG_ACHIEVEMENT	Elimina gli achievement locali e di GOG
+$MISC_DELETE_BOTH_STEAM_ACHIEVEMENT	Elimina gli achievement locali e di Steam
+$MISC_DELETE_LOCAL_ACHIEVEMENT	Elimina solo gli achievement locali
+$MISC_DEMO_VERSION	Versione Demo
+$MISC_DEMO_VERSION_DESC	Questo è il demo pubblico di Defender's Quest: Valley of the Forgotten, Edizione Deluxe.<N><N>Contiene circa il 20% dell'intero gioco e consente di esportare i salvataggi, così, se deciderai di acquistare il gioco completo, non perderai i progressi fatti.
+$MISC_FAIL_TT_TEXT	La quantità di esperienza e scarti che viene detratta in caso di fallimento in battaglia.<N>-50% è il valore predefinito, aumentalo o diminuiscilo per cambiare la penalità.
+$MISC_FAIL_TT_TITLE	<RE>$UI_ACCESS_FAILURE_PENALTY
+$MISC_GOLD_TT_TEXT	Gli scarti (denaro) ottenuti dopo una battaglia.<N><RE>[$MISC_ADJUST_REWARDS]
+$MISC_GOLD_TT_TITLE	Scarti
+$MISC_HERO_MODE	Modalità Eroe
+$MISC_HERO_MODE_TEXT	Il reclutamento di personaggi generici è vietato.<N>Assolutamente sconsigliato ai nuovi giocatori!<N><N>NOTA:<N>Potrai in seguito disabilitare questa modalità semplicemente cercando di reclutare un personaggio e ignorando il messaggio di avviso.<N><N>Raccomandiamo fortemente di impostare a 300% l'acquisizione di esperienza e denaro.<N><N>Infine, questa impostazione non è strettamente necessaria per ottenere l'achievement "Modalità Eroe" -- l'importante è completare la partita senza reclute generiche.
+$MISC_HERO_MODE_TITLE	<RE>$MISC_HERO_MODE
+$MISC_NEW_GAME_SETTINGS	Impostazioni Nuova Partita
+$MISC_NO_HARDWARE	Il tuo sistema non supporta l'accelerazione hardware. Il gioco funzionerà comunque, ma potresti dover abbassare la qualità grafica se risultasse troppo lento.
+$MISC_RESTORE_DEFAULTS	Impostazioni Predefinite
+$MISC_WAIT	ATTENDERE
+$MISC_WARNING	Attenzione!
+$MISC_WAVE_X	Ondata <X>
+$MISC_WEAPON	<RE>$MISC_WEAPONS
+$MISC_XP_TT_TEXT	I punti esperienza guadagnati in battaglia.<N><RE>[$MISC_ADJUST_REWARDS]
+$MISC_XP_TT_TITLE	Esperienza
+$NEW_GAME_PLUS_NOTE	Vai alla schermata dei salvataggi e seleziona NUOVA PARTITA+ nel riquadro del salvataggio.
+$SAVE_SLOT_DELETE_TEXT	Cancella permanentemente questo salvataggio dal tuo computer. Sai quello che stai facendo, vero?
+$SAVE_SLOT_DELETE_TITLE	Cancella il salvataggio
+$SAVE_SLOT_EXPORT_TEXT	Fai una copia del salvataggio come semplice file di testo.
+$SAVE_SLOT_EXPORT_TITLE	Esporta il salvataggio
+$SAVE_SLOT_IMPORT_TEXT	Cerca salvataggi di Defender's Quest nel tuo computer.
+$SAVE_SLOT_IMPORT_TITLE	Importa file di salvataggio
+$SAVE_SLOT_NEW_GAME_PLUS_TEXT	Inizia una nuova e più difficile avventura, mantenendo tutto il tuo equipaggiamento, abilità ed esperienza. Nuova Partita+ offre nuovi tipi di nemici, nuove missioni secondarie, equipaggiamento più potente, e nuove aggiunte nel diario. <N><N>NOTA: I progressi del gruppo vengono CONDIVISI tra la tua partita originale e NP+. Puoi passare liberamente da una modalità all'altra senza perdere nulla.
+$SAVE_SLOT_NEW_GAME_PLUS_TITLE	Inizia una Nuova Partita+
+$SAVE_SLOT_PLAY_PLUS_TEXT	I progressi del gruppo vengono CONDIVISI tra la tua partita originale e NP+. Puoi passare liberamente da una modalità all'altra senza perdere nulla.
+$SAVE_SLOT_PLAY_PLUS_TITLE	Riprendi Nuova Partita+
+$UI_ACCESS_FAILURE_PENALTY	Penalità sconfitta
+$UI_DEMO_IMPORT_OPTIONS	Importa le impostazioni del demo?
+$UI_DEMO_OPTIONS_DETECTED	Impostazioni del demo individuate!
+$UI_LEGACY_IMPORT_SAVES	Importare i salvataggi della vecchia versione di Defender's Quest?
+$UI_LEGACY_SAVES_DETECTED	Individuati vecchi salvataggi!
+$YOU_GOT_NEW_GAME_PLUS_TEXT	Congratulazioni! Ora puoi iniziare una nuova avventura con il tuo vecchio gruppo!<N><N>Affronta nemici dotati di nuove abilità, infondi il tuo equipaggiamento con poteri straordinari, e rifornisci la tua libreria con nuovi libri. Scopri nuovi aspetti della trama giocando alle numerose missioni secondarie, sblocca i commenti degli sviluppatori, traduci il linguaggio di Eztli-Tenoch, incontra nuovi personaggi, e molto altro ancora!<N><N><RE>[$NEW_GAME_PLUS_NOTE]<N><N>Potrai ritornare alla tua partita <LQ>normale<RQ> a tuo piacimento.
+$YOU_GOT_NEW_GAME_PLUS_TITLE	Nuova Partita+ Sbloccata!
+$BATTLE_FREE_MOVE	Movimento veloce
+$BATTLE_MOVE	Movimento
+$BATTLE_MOVE_MOUSE	Movimento mouse
+$BATTLE_FINE_MOVE	Movimento lento
+$BATTLE_TILE_MOVE	Scorri caselle
+$BATTLE_BACK	<RE>$MISC_BACK
+$BATTLE_SPELLS	<RE>$STAT_DESC_SPELLS
+$BATTLE_SELECT_UNIT	Seleziona unità
+$BATTLE_MENU	<RE>$MISC_MENU
+$BATTLE_MAP	mappa
+$BATTLE_DEFENDERS	<RE>$MISC_DEFENDERS
+$ACTIONS_BATTLE_MENU_MOVE	<RE>$BATTLE_MOVE
+$ACTIONS_BATTLE_FREE_MOVE	<RE>$BATTLE_FREE_MOVE
+$ACTIONS_BATTLE_FINE_MOVE	<RE>$BATTLE_FINE_MOVE
+$ACTIONS_BATTLE_TILE_MOVE	<RE>$BATTLE_TILE_MOVE
+$ACTIONS_BATTLE_SELECT	<RE>$BATTLE_SELECT_UNIT
+$ACTIONS_BATTLE_BACK	<RE>$BATTLE_BACK
+$ACTIONS_BATTLE_DEFENDERS	<RE>$BATTLE_DEFENDERS
+$ACTIONS_BATTLE_SPELLS	Incantesimi
+$ACTIONS_BATTLE_MENU	<RE>$BATTLE_MENU
+$ACTIONS_BATTLE_SPEED_MINUS	Aumenta velocità
+$ACTIONS_BATTLE_SPEED_PLUS	Diminuisci velocità
+$ACTIONS_BATTLE_PAUSE	<RE>$MISC_PAUSE
+$ACTIONS_BATTLE_CYCLE_PREVIOUS	Difensore precedente
+$ACTIONS_BATTLE_CYCLE_NEXT	Difensore successivo
+$ACTIONS_BATTLE_SPELL_SPAM	Ripeti incantesimo
+$ACTIONS_MAP_MOVE	Muovi cursore
+$ACTIONS_MAP_SELECT	<RE>$MISC_SELECT
+$ACTIONS_MAP_EXIT	<RE>$MISC_EXIT
+$ACTIONS_MAP_MENU	<RE>$MISC_MENU
+$ACTIONS_MAP_JOURNAL	<RE>$MISC_JOURNAL
+$ACTIONS_MAP_MOVE_MAP	Movimento mappa
+$ACTIONS_MAP_SCROLL_MAP	Scorrimento mappa
+$ACTIONS_CUTSCENE_SKIP	<RE>$MISC_SKIP
+$ACTIONS_CUTSCENE_NEXT	<RE>$MISC_NEXT
+$ACTIONS_CUTSCENE_PREVIOUS	<RE>$MISC_PREVIOUS
+$MISC_SLOT	slot
+$MISC_PAUSE	pausa
+$MISC_INSPECT	ispeziona
+$UI_CONTROLS_GAMEPAD_ICONS	Icone	
+$UI_CONTROLS_GAMEPAD_ACTION_SET	Modalità comandi
+$UI_CONTROLS_STEAM_CONTROLLER	Steam Controller
+$UI_CONTROLS_PSVITA	Playstation Vita	
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG	Configura
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG_FAIL_TITLE	Errore di Steam!
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG_FAIL_TEXT	Impossibile aprire la schermata di configurazione: controlla che Steam sia in modalità Big Picture e che l'overlay stia funzionando
+$GAMEPAD_TEMP_SPACER	,,,,,,
+$GAMEPAD_BUTTON_SPACER	      
+$ACTIONS_MENUCONTROLS	Menu
+$ACTIONS_MENUCONTROLSWITHANALOG	Menu
+$ACTIONS_CUTSCENECONTROLS	Scene
+$ACTIONS_BATTLECONTROLS	Battaglia
+$ACTIONS_MAPCONTROLS	Mappa del mondo
+$ACTIONS_MENU_MENU	Menu
+$ACTIONS_MENU_SELECT	Seleziona
+$ACTIONS_MENU_CANCEL	Cancella
+$ACTIONS_MENU_THING_1	Scelta 1
+$ACTIONS_MENU_THING_2	Scelta 2
+$ACTIONS_MENU_THING_3	Scelta 3
+$ACTIONS_MENU_MOVE	Muovi cursore
+$GAMEPAD_A	pulsante A
+$GAMEPAD_B	pulsante B
+$GAMEPAD_X	pulsante X
+$GAMEPAD_Y	pulsante Y
+$GAMEPAD_BACK	pulsante indietro
+$GAMEPAD_START	pulsante inizio
+$GAMEPAD_LEFT_SHOULDER	pulsante dorsale sinistro
+$GAMEPAD_RIGHT_SHOULDER	pulsante dorsale destro
+$GAMEPAD_LEFT_TRIGGER	grilletto sinistro
+$GAMEPAD_RIGHT_TRIGGER	grilletto destro
+$GAMEPAD_DPAD	Tasti direzionali
+$GAMEPAD_DPAD_UP	su
+$GAMEPAD_DPAD_DOWN	giù
+$GAMEPAD_DPAD_LEFT	sinistra
+$GAMEPAD_DPAD_RIGHT	destra
+$GAMEPAD_LEFT_ANALOG_STICK	Levetta analogica sinistra 
+$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS	Levetta analogica sinistra, verso SINISTRA
+$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS	Levetta analogica sinistra, verso DESTRA
+$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS	Levetta analogica sinistra, verso SU
+$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS	Levetta analogica sinistra, verso GIÙ
+$GAMEPAD_RIGHT_ANALOG_STICK	Levetta analogica destra
+$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS	Levetta analogica destra, verso SINISTRA
+$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS	Levetta analogica destra, verso DESTRA
+$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS	Levetta analogica destra, verso SU
+$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS	Levetta analogica destra, verso GIÙ
+$GAMEPAD_LEFT_STICK_CLICK	Levetta analogica sinistra, CLIC
+$GAMEPAD_RIGHT_STICK_CLICK	Levetta analogica destra, CLIC
+$GAMEPAD_EMPTY	Nessuno
+$XBOX360_A	<RE>$GAMEPAD_A
+$XBOX360_B	<RE>$GAMEPAD_B
+$XBOX360_X	<RE>$GAMEPAD_X
+$XBOX360_Y	<RE>$GAMEPAD_Y
+$XBOX360_BACK	<RE>$GAMEPAD_BACK
+$XBOX360_START	<RE>$GAMEPAD_START
+$XBOX360_LEFT_SHOULDER	<RE>$GAMEPAD_LEFT_SHOULDER
+$XBOX360_RIGHT_SHOULDER	<RE>$GAMEPAD_RIGHT_SHOULDER
+$XBOX360_LEFT_TRIGGER	<RE>$GAMEPAD_LEFT_TRIGGER
+$XBOX360_RIGHT_TRIGGER	<RE>$GAMEPAD_RIGHT_TRIGGER
+$XBOX360_DPAD	<RE>$GAMEPAD_DPAD
+$XBOX360_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$XBOX360_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$XBOX360_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$XBOX360_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$XBOX360_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$XBOX360_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$XBOX360_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$XBOX360_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$XBOX360_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$XBOX360_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$XBOX360_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$XBOX360_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$XBOX360_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$XBOX360_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$XBOX360_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$XBOX360_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$XBOX360_EMPTY	<RE>$GAMEPAD_EMPTY
+$XBOXONE_A	<RE>$GAMEPAD_A
+$XBOXONE_B	<RE>$GAMEPAD_B
+$XBOXONE_X	<RE>$GAMEPAD_X
+$XBOXONE_Y	<RE>$GAMEPAD_Y
+$XBOXONE_BACK	Tasto View
+$XBOXONE_START	Tasto Menu
+$XBOXONE_LEFT_SHOULDER	<RE>$GAMEPAD_LEFT_SHOULDER
+$XBOXONE_RIGHT_SHOULDER	<RE>$GAMEPAD_RIGHT_SHOULDER
+$XBOXONE_LEFT_TRIGGER	<RE>$GAMEPAD_LEFT_TRIGGER
+$XBOXONE_RIGHT_TRIGGER	<RE>$GAMEPAD_RIGHT_TRIGGER
+$XBOXONE_DPAD	<RE>$GAMEPAD_DPAD
+$XBOXONE_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$XBOXONE_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$XBOXONE_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$XBOXONE_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$XBOXONE_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$XBOXONE_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$XBOXONE_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$XBOXONE_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$XBOXONE_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$XBOXONE_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$XBOXONE_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$XBOXONE_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$XBOXONE_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$XBOXONE_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$XBOXONE_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$XBOXONE_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$XBOXONE_EMPTY	<RE>$GAMEPAD_EMPTY
+$PS4_A	Pulsante X
+$PS4_B	Pulsante Cerchio
+$PS4_X	Pulsante Quadrato
+$PS4_Y	Pulsante Triangolo
+$PS4_BACK	Tasto Share
+$PS4_START	Tasto Options
+$PS4_LEFT_SHOULDER	Pulsante dorsale L1
+$PS4_RIGHT_SHOULDER	Pulsante dorsale R1
+$PS4_LEFT_TRIGGER	Grilletto analogico L2
+$PS4_RIGHT_TRIGGER	Grilletto analogico R2
+$PS4_DPAD	<RE>$GAMEPAD_DPAD
+$PS4_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$PS4_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$PS4_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$PS4_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$PS4_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$PS4_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$PS4_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$PS4_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$PS4_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$PS4_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$PS4_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$PS4_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$PS4_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$PS4_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$PS4_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$PS4_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$PS4_EMPTY	<RE>$GAMEPAD_EMPTY
+$PS3_A	<RE>$PS4_A
+$PS3_B	<RE>$PS4_B
+$PS3_X	<RE>$PS4_X
+$PS3_Y	<RE>$PS4_Y
+$PS3_BACK	Pulsante Select
+$PS3_START	<RE>$GAMEPAD_START
+$PS3_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER
+$PS3_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER
+$PS3_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER
+$PS3_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
+$PS3_DPAD	<RE>$PS4_DPAD
+$PS3_DPAD_UP	<RE>$PS4_DPAD_UP
+$PS3_DPAD_DOWN	<RE>$PS4_DPAD_DOWN
+$PS3_DPAD_LEFT	<RE>$PS4_DPAD_LEFT
+$PS3_DPAD_RIGHT	<RE>$PS4_DPAD_RIGHT
+$PS3_LEFT_ANALOG_STICK	<RE>$PS4_LEFT_ANALOG_STICK
+$PS3_LEFT_ANALOG_STICK_X_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_X_MINUS
+$PS3_LEFT_ANALOG_STICK_X_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_X_PLUS
+$PS3_LEFT_ANALOG_STICK_Y_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_MINUS
+$PS3_LEFT_ANALOG_STICK_Y_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_PLUS
+$PS3_RIGHT_ANALOG_STICK	<RE>$PS4_RIGHT_ANALOG_STICK
+$PS3_RIGHT_ANALOG_STICK_X_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_MINUS
+$PS3_RIGHT_ANALOG_STICK_X_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_PLUS
+$PS3_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_MINUS
+$PS3_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_PLUS
+$PS3_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$PS3_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$PS3_EMPTY	<RE>$PS4_EMPTY
+$PSVITA_A	<RE>$PS4_A
+$PSVITA_B	<RE>$PS4_B
+$PSVITA_X	<RE>$PS4_X
+$PSVITA_Y	<RE>$PS4_Y
+$PSVITA_BACK	Pulsante Select
+$PSVITA_START	<RE>$GAMEPAD_START
+$PSVITA_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER
+$PSVITA_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER
+$PSVITA_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER
+$PSVITA_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
+$PSVITA_DPAD	<RE>$PS4_DPAD
+$PSVITA_DPAD_UP	<RE>$PS4_DPAD_UP
+$PSVITA_DPAD_DOWN	<RE>$PS4_DPAD_DOWN
+$PSVITA_DPAD_LEFT	<RE>$PS4_DPAD_LEFT
+$PSVITA_DPAD_RIGHT	<RE>$PS4_DPAD_RIGHT
+$PSVITA_LEFT_ANALOG_STICK	<RE>$PS4_LEFT_ANALOG_STICK
+$PSVITA_LEFT_ANALOG_STICK_X_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_X_MINUS
+$PSVITA_LEFT_ANALOG_STICK_X_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_X_PLUS
+$PSVITA_LEFT_ANALOG_STICK_Y_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_MINUS
+$PSVITA_LEFT_ANALOG_STICK_Y_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_PLUS
+$PSVITA_RIGHT_ANALOG_STICK	<RE>$PS4_RIGHT_ANALOG_STICK
+$PSVITA_RIGHT_ANALOG_STICK_X_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_MINUS
+$PSVITA_RIGHT_ANALOG_STICK_X_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_PLUS
+$PSVITA_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_MINUS
+$PSVITA_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_PLUS
+$PSVITA_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$PSVITA_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$PSVITA_EMPTY	<RE>$PS4_EMPTY
+$LOGITECH_A	pulsante 2 (fronte)
+$LOGITECH_B	pulsante 3 (fronte)
+$LOGITECH_X	pulsante 1 (fronte)
+$LOGITECH_Y	pulsante 4 (fronte)
+$LOGITECH_BACK	pulsante 9 (back)
+$LOGITECH_START	pulsante 10 (start)
+$LOGITECH_LEFT_SHOULDER	pulsante 5 (dorsale sinistro)
+$LOGITECH_RIGHT_SHOULDER	pulsante 6 (dorsale destro)
+$LOGITECH_LEFT_TRIGGER	pulsante 7 (grilletto sinistro)
+$LOGITECH_RIGHT_TRIGGER	pulsante 8 (grilletto destro) 
+$LOGITECH_DPAD	<RE>$GAMEPAD_DPAD
+$LOGITECH_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$LOGITECH_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$LOGITECH_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$LOGITECH_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$LOGITECH_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$LOGITECH_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$LOGITECH_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$LOGITECH_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$LOGITECH_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$LOGITECH_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$LOGITECH_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$LOGITECH_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$LOGITECH_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$LOGITECH_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$LOGITECH_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$LOGITECH_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$LOGITECH_EMPTY	<RE>$GAMEPAD_EMPTY
+$WIIU_A	pulsante B
+$WIIU_B	pulsante A
+$WIIU_X	pulsante Y
+$WIIU_Y	pulsante X
+$WIIU_BACK	tasto - (select)
+$WIIU_START	tasto + (start)
+$WIIU_LEFT_SHOULDER	pulsante dorsale L
+$WIIU_RIGHT_SHOULDER	pulsante dorsale R
+$WIIU_LEFT_TRIGGER	grilletto ZL 
+$WIIU_RIGHT_TRIGGER	grilletto ZR 
+$WIIU_DPAD	<RE>$GAMEPAD_DPAD
+$WIIU_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$WIIU_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$WIIU_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$WIIU_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$WIIU_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$WIIU_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$WIIU_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$WIIU_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$WIIU_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$WIIU_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$WIIU_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$WIIU_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$WIIU_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$WIIU_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$WIIU_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$WIIU_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$WIIU_EMPTY	<RE>$GAMEPAD_EMPTY
+$OUYA_A	pulsante O
+$OUYA_B	pulsante A
+$OUYA_X	pulsante U
+$OUYA_Y	pulsante Y
+$OUYA_BACK	<RE>$GAMEPAD_BACK
+$OUYA_START	<RE>$GAMEPAD_START
+$OUYA_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER
+$OUYA_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER
+$OUYA_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER
+$OUYA_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
+$OUYA_DPAD	<RE>$GAMEPAD_DPAD
+$OUYA_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$OUYA_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$OUYA_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$OUYA_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$OUYA_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$OUYA_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$OUYA_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$OUYA_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$OUYA_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$OUYA_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$OUYA_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$OUYA_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$OUYA_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$OUYA_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$OUYA_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$OUYA_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$OUYA_EMPTY	<RE>$GAMEPAD_EMPTY
+$MISC_INPUT_0	Input:
+$MISC_INPUT_1	Input 1:
+$MISC_INPUT_2	Input 2: 
+$MISC_INPUT_3	Input 3:
+$GAMEPAD_NOTE	Seleziona per cambiare
+$MISC_DEVICE_DISCONNECTED_TITLE	Periferica Disconnessa!
+$MISC_DEVICE_DISCONNECTED_TEXT	"<NAME>" nello slot <SLOT> è stato disconnesso!
+$MISC_EDIT	Edit
+$SOFT_KEYBOARD_SPACE	Spazio
+$SOFT_KEYBOARD_BACKSPACE	Backspace
+$SOFT_KEYBOARD_CLEAR	Cancella
+$CONTROL_SWITCH_WARNING	Non è possibile cambiare i metodi di controllo fondamentali durante una battaglia. Siamo spiacenti!
+$MISC_TITLE_SAFE_TEXT	Muovi le levette analogiche fino a quando tutte le frecce saranno visibili.
