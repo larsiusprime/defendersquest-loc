@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<assets path="dq1_dx/" rename="assets/locales" if="DQ1" />
+	<assets path="dq2/" rename="assets/locales" if="DQ2" />
+</project>

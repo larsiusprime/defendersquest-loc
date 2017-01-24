@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <data>
 	
-	<font value="verdana" replace="jhenghei"/>
+	<font value="verdana" replace="notosanscjksc"/>
 	
-	<font value="georgia" replace="jhenghei"/>
-	<font value="georgiab" replace="jhenghei"/>
+	<font value="georgia" replace="notosanscjksc"/>
+	<font value="georgiab" replace="notosanscjkscb"/>
 		
-	<font value="myriadpro" replace="jhenghei">
+	<font value="myriadpro" replace="notosanscjksc">
 		<size value="25" replace="21"/>
 		<size value="30" replace="26"/>
 	</font>
 		
-	<font value="moolboran" replace="jhenghei">
+	<font value="moolboran" replace="notosanscjksc">
 		<size value="25" replace="18"/>
 		<size value="30" replace="20"/>
 		<size value="40" replace="24"/>

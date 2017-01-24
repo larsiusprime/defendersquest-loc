@@ -49,8 +49,8 @@
 		<label id="ja-JP" language="英語" region="アメリカ合衆国"/>
 		<label id="ru-RU" language="Aнглийский" region="Соединенные Штаты"/>
 		<label id="ko-KR" language="영어" region="미국"/>
-		<label id="zh-CN" language="英语" region="美国"/>
-		<label id="zh-TW" language="英文" region="美國"/>
+		<label id="zh-HANS" language="英语" region="美国"/>
+		<label id="zh-HANT" language="英文" region="美國"/>
 		<label id="pt-PT" language="Inglês" region="Estados Unidos"/>
 		<label id="it-IT" language="Inglese" region="Stati Uniti"/>
 	</locale>
@@ -70,8 +70,8 @@
 		<label id="pl-PL" language="Hiszpański" region="Hiszpania"/>
 		<label id="ja-JP" language="スペイン語" region="スペイン"/>
 		<label id="ko-KR" language="스페인어" region="스페인"/>
-		<label id="zh-CN" language="西班牙语" region="西班牙"/>
-		<label id="zh-TW" language="西班牙文" region="西班牙"/>
+		<label id="zh-HANS" language="西班牙语" region="西班牙"/>
+		<label id="zh-HANT" language="西班牙文" region="西班牙"/>
 		<label id="pt-PT" language="Espanhol" region="Espanha"/>
 	   <label id="it-IT" language="Spagnolo" region="Spagna"/>
 	</locale>
@@ -91,8 +91,8 @@
 		<label id="ja-JP" language="ドイツ語" region="ドイツ"/>
 		<label id="ko-KR" language="독일어" region="독일"/>
 		<label id="ru-RU" language="Немецкий" region="Германия"/>
-		<label id="zh-CN" language="德语" region="德国"/>
-		<label id="zh-TW" language="德文" region="德國"/>
+		<label id="zh-HANS" language="德语" region="德国"/>
+		<label id="zh-HANT" language="德文" region="德國"/>
 		<label id="pt-PT" language="Alemão" region="Alemanha"/>
 		<label id="it-IT" language="Tedesco" region="Germania"/>
 	</locale>
@@ -112,8 +112,8 @@
 		<label id="pl-PL" language="Francuski" region="Francja"/>
 		<label id="ja-JP" language="フランス語" region="フランス"/>
 		<label id="ko-KR" language="프랑스어" region="프랑스"/>
-		<label id="zh-CN" language="法语" region="法国"/>
-		<label id="zh-TW" language="法語" region="法國"/>
+		<label id="zh-HANS" language="法语" region="法国"/>
+		<label id="zh-HANT" language="法語" region="法國"/>
 		<label id="pt-PT" language="Francês" region="França"/>
 		<label id="it-IT" language="Francese" region="Francia"/>
 	</locale>
@@ -133,8 +133,8 @@
 		<label id="cs-CZ" language="Japonec" region="Japonsko"/>
 		<label id="ko-KR" language="일본어" region="일본"/>
 		<label id="ru-RU" language="Японский" region="Япония"/>
-		<label id="zh-CN" language="日语" region="日本"/>
-		<label id="zh-TW" language="日文" region="日本"/>
+		<label id="zh-HANS" language="日语" region="日本"/>
+		<label id="zh-HANT" language="日文" region="日本"/>
 		<label id="pt-PT" language="Japonês" region="Japão"/>
 		<label id="it-IT" language="Giapponese" region="Giappone"/>
 	</locale>
@@ -154,8 +154,8 @@
 		<label id="pl-PL" language="Włoski" region="Włochy"/>
 		<label id="ja-JP" language="イタリア語" region="イタリア"/>
 		<label id="ko-KR" language="이탈리아의" region="이탈리아"/>
-		<label id="zh-CN" language="意大利" region="意大利"/>
-		<label id="zh-TW" language="義大利文" region="義大利"/>
+		<label id="zh-HANS" language="意大利语" region="意大利"/>
+		<label id="zh-HANT" language="義大利文" region="義大利"/>
 		<label id="pt-PT" language="Italiano" region="Itália"/>
 		<label id="it-IT" language="Italiano" region="Italia"/>
     </locale>
@@ -197,7 +197,8 @@
 		<label id="ja-JP" language="チェコ語" region="チェコ"/>
 		<label id="ko-KR" language="체코어" region="체코"/>
 		<label id="ru-RU" language="Чешский" region="Чешская республика"/>
-		<label id="zh-CN" language="捷克语" region="捷克共和国"/>
+		<label id="zh-HANS" language="捷克语" region="捷克"/>
+		<label id="zh-HANT" language="捷克语" region="捷克共和国"/>
 		<label id="pt-PT" language="Tcheco" region="República Checa"/>
 		<label id="it-IT" language="Ceco" region="Repubblica Ceca"/>
     </locale>
@@ -217,7 +218,8 @@
 		<label id="pl-PL" language="Koreański" region="Korea Południowa"/>
 		<label id="ja-JP" language="韓国語" region="韓国"/>
 		<label id="ru-RU" language="Корейский" region="Южная Корея"/>
-		<label id="zh-CN" language="朝鲜语" region="韩国"/>
+		<label id="zh-HANS" language="韩语" region="韩国"/>
+		<label id="zh-HANT" language="朝鲜语" region="韩国"/>
 		<label id="pt-PT" language="Coreano" region="Coréia do Sul"/>
 		<label id="it-IT" language="Coreano" region="Corea del Sud"/>
 	</locale>
@@ -238,35 +240,61 @@
 		<label id="pl-PL" language="Rosyjski" region="Rosja"/>
 		<label id="ja-JP" language="ロシア語" region="ロシア"/>
 		<label id="ko-KR" language="러시아어" region="러시아"/>
-		<label id="zh-CN" language="俄语" region="俄国"/>
+		<label id="zh-HANS" language="俄语" region="俄罗斯"/>
+		<label id="zh-HANT" language="俄语" region="俄国"/>
 		<label id="pt-PT" language="Russo" region="Rússia"/>
 		<label id="it-IT" language="Russo" region="Russia"/>
     </locale>
 	
-	<!--Traditional Chinese-->
+	<!--Simplified Chinese-->
+	
 	<!--
-	<locale id="zh-TW" beta="true" volunteer="true" sort="100">
-		<status value="0%" word="狀態"/>
-		<font value="jhenghei" style="bold" size="12"/>
+	<locale id="zh-HANS" beta="true" volunteer="false" sort="100">
+		<status value="0%" word="状态"/>
+		<font value="notosanscjksc" style="bold" size="12"/>
 		<contributors value=""/>
-		<ui language="語言" region="地區" accept="確定"/>
-		<label id="en-US,en-GB,en-CA,en-NES" language="Traditional Chinese" region="Taiwan"/>
-		<label id="ru-RU" language="Традиционный китайский" region="Тайвань"/>
-		<label id="es-ES" language="Tradicional china" region="Taiwán"/>
-		<label id="de-DE" language="Traditionelles Chinesisch" region="Taiwan"/>
-		<label id="fr-FR" language="Traditionnelle chinoise" region="Taiwan"/>
-		<label id="nb-NO" language="Tradisjonell kinesisk" region="Taiwan"/>
-		<label id="cs-CZ" language="Tradiční čínská" region="Tchaj-wan"/>
-		<label id="pl-PL" language="Tradycyjny chiński" region="Tajwan"/>
-		<label id="ja-JP" language="ロシア語" region="台湾"/>
-		<label id="ko-KR" language="중국어 번체" region="대만"/>
-		<label id="zh-CN" language="繁體中文" region="台灣"/>
-		<label id="zh-TW" language="繁體中文" region="台灣"/>
-		<label id="pt-PT" language="Cinese tradizionale" region="Taiwan"/>
-		<label id="it-IT" language="Cinese tradizionale" region="Taiwan"/>
+		<ui language="语言" region="地区" accept="确认"/>
+		<label id="en-US,en-GB,en-CA,en-NES" language="Simplified Chinese" region=""/>
+		<label id="ru-RU" language="Упрощенный китайский" region=""/>
+		<label id="es-ES" language="Chino Simplificado" region=""/>
+		<label id="de-DE" language="Vereinfachtes Chinesisch" region=""/>
+		<label id="fr-FR" language="Chinois simplifié" region=""/>
+		<label id="nb-NO" language="Forenklet kinesisk" region=""/>
+		<label id="cs-CZ" language="Zjednodušená čínština" region=""/>
+		<label id="pl-PL" language="Chiński uproszczony" region=""/>
+		<label id="ja-JP" language="簡体字中国語" region=""/>
+		<label id="ko-KR" language="중국어 간체" region=""/>
+		<label id="zh-HANS" language="简体中文" region=""/>
+		<label id="zh-HANT" language="簡體中文" region=""/>
+		<label id="pt-PT" language="Chinês simplificado" region=""/>
+		<label id="it-IT" language="Cinese semplificato" region=""/>
 	</locale>
 	-->
 	
+	<!--Traditional Chinese-->
+	<!--
+	<locale id="zh-HANT" beta="true" volunteer="false" sort="100">
+		<status value="0%" word="狀態"/>
+		<font value="notosanscjktc" style="bold" size="12"/>
+		<contributors value=""/>
+		<ui language="語言" region="地區" accept="確定"/>
+		<label id="en-US,en-GB,en-CA,en-NES" language="Traditional Chinese" region=" "/>
+		<label id="ru-RU" language="Традиционный китайский" region=" "/>
+		<label id="es-ES" language="Tradicional china" region=" "/>
+		<label id="de-DE" language="Traditionelles Chinesisch" region=""/>
+		<label id="fr-FR" language="Traditionnelle chinoise" region=""/>
+		<label id="nb-NO" language="Tradisjonell kinesisk" region=""/>
+		<label id="cs-CZ" language="Tradiční čínská" region=""/>
+		<label id="pl-PL" language="Tradycyjny chiński" region=""/>
+		<label id="ja-JP" language="ロシア語" region=""/>
+		<label id="ko-KR" language="중국어 번체" region=""/>
+		<label id="zh-HANS" language="繁體中文" region=""/>
+		<label id="zh-HANT" language="繁體中文" region=""/>
+		<label id="pt-PT" language="Cinese tradizionale" region=""/>
+		<label id="it-IT" language="Cinese tradizionale" region=""/>
+	</locale>
+	-->
+		
 	<!---
 	Any text blurbs that the translation interface itself needs are stored here rather than
 	in text files, to avoid the boot-strapping problem of having to load a locale in order
@@ -286,7 +314,8 @@
 		<text id="it-IT" title="Status"	body="60%"/>
 		<text id="cs-CZ" title="Stav"	body="60%"/>
 		<text id="ru-RU" title="Статус"	body="60%"/>
-		<text id="zh-TW" title="翻譯進度"	body="5%"/>
+		<text id="zh-HANS" title=""	body="5%"/>
+		<text id="zh-HANT" title=""	body="5%"/>
 	</note>
 	
 	<note id="beta">
@@ -299,8 +328,8 @@
 		<text id="fr-FR" title="BÊTA" body="Cette traduction est encore en phase bêta. Des textes non traduits, des erreurs et des problèmes visuels sont probablement présents et seront corrigés prochainement."/>
 		<text id="ru-RU" title="БЕТА" body="Этот перевод еще в стадии бета. Непереведенный текст, отсутствующие символы, и другие визуальные дефекты, скорее всего, не по вине переводчиков."/>
 		<text id="pt-PT" title="BETA" body="*PORTUGUESE BETA NOTE GOES HERE*"/>
-		<text id="zh-CN" title="BETA" body="*CHINESE BETA NOTE GOES HERE*"/>
-		<text id="zh-TW" title="BETA" body="*此翻譯正在測試中，還沒翻譯到的文字，遺失的文字並非遊戲開發者或翻譯者的問題，只是需要些時間。*"/>
+		<text id="zh-HANS" title="BETA" body="此翻译还在 beta阶段. 未翻译的文字，漏字和其他可见问题，敬请原谅。"/>
+		<text id="zh-HANT" title="BETA" body="*此翻譯正在測試中，還沒翻譯到的文字，遺失的文字並非遊戲開發者或翻譯者的問題，只是需要些時間。*"/>
 		<text id="ko-KR" title="BETA" body="이 번역은 베타입니다. 미번역 텍스트, 누락된 문자 등 문제의 가능성이 있고 번역자의 오류는 없습니다."/>
 		<text id="pl-PL" title="BETA" body="*POLISH BETA NOTE GOES HERE*"/>
 		<text id="ja-JP" title="BETA" body="翻訳はベータ版です。未翻訳のテキストや文字抜けがありますが、翻訳者のミスではありません。"/>
@@ -318,8 +347,8 @@
 		<text id="fr-FR" title="BÉNÉVOLE" body="Cette traduction a été bénévolement réalisée par des fans.$N$NContributeurs :"/>
 		<text id="ru-RU" title="Любительский" body="Это любительский перевод.$N$NУчастники:"/>
 		<text id="pt-PT" title="VOLUNTEER" body="*PORTUGUESE VOLUNTEER NOTE GOES HERE*"/>
-		<text id="zh-CN" title="VOLUNTEER" body="*CHINESE VOLUNTEER NOTE GOES HERE*"/>
-		<text id="zh-TW" title="VOLUNTEER" body="*繁體中文翻譯者*"/>
+		<text id="zh-HANS" title="志愿者" body="这是粉丝志愿者的翻译。$N$N翻译者:"/>
+		<text id="zh-HANT" title="VOLUNTEER" body="*繁體中文翻譯者*"/>
 		<text id="ko-KR" title="VOLUNTEER" body="이 번역은 팬 번역입니다.$N$N번역:"/>
 		<text id="pl-PL" title="VOLUNTEER" body="*POLISH VOLUNTEER NOTE GOES HERE*"/>
 		<text id="ja-JP" title="VOLUNTEER" body="ファン翻訳$N$N参加者："/>
@@ -337,8 +366,8 @@
 		<text id="fr-FR" title="OFFICIAL" body="Cette traduction a été réalisée par des traducteurs professionnels.$N$NContributeurs :"/>
 		<text id="ru-RU" title="Официальный" body="Это официальный (платный) перевод.$N$NУчастники:"/>
 		<text id="pt-PT" title="OFFICIAL" body="*PORTUGUESE OFFICIAL NOTE GOES HERE*"/>
-		<text id="zh-CN" title="OFFICIAL" body="*CHINESE OFFICIAL NOTE GOES HERE*"/>
-		<text id="zh-TW" title="OFFICIAL" body="*官方翻譯筆記*"/>
+		<text id="zh-HANS" title="官方" body="这是官方 (付费)翻译。$N$N翻译者:"/>
+		<text id="zh-HANT" title="OFFICIAL" body="*官方翻譯筆記*"/>
 		<text id="ko-KR" title="OFFICIAL" body="이 번역은 공식 번역입니다.$N$N번역:"/>
 		<text id="pl-PL" title="OFFICIAL" body="*POLISH OFFICIAL NOTE GOES HERE*"/>
 		<text id="ja-JP" title="OFFICIAL" body="公式翻訳$N$N翻訳："/>
