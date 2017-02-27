@@ -398,6 +398,8 @@ $MISC_LEVEL_SHORT_X	уровень <X>
 $MISC_LEVEL_PARTY_GEM	Уровень	В группе
 $MISC_LEVEL_WAVE_BLOCK	УРВ	В бою слева в списке волн
 $MISC_LEVEL_SUPER_SHORT	Ур
+$MISC_LEVEL_PARTY_GEM	Уровень	Appears on character blocks in the party screen
+$MISC_LEVEL_WAVE_BLOCK	Уровень	Appears on enemy wave blocks in battle
 $MISC_LEVEL_UP!	Уровень + 1!
 $MISC_LEVEL_UPX	Уровней +
 $MISC_LEVEL_X	Уровень <X>

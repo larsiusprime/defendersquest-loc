@@ -1,731 +1,731 @@
-flag	name	comment
-$BLANK		COMMENT: This file contains all the tutorial text from the game's map (level) files.
-$1_1_WHERE_AM_I_00_TITLE	TALK_$MCG_POWER
-$1_1_WHERE_AM_I_00_TEXT	Where am I?
-$1_1_WHERE_AM_I_10_TITLE	
-$1_1_WHERE_AM_I_10_TEXT	This is your main character, $MCG.<N>She can't move.
-$1_1_WHERE_AM_I_20_TITLE	
-$1_1_WHERE_AM_I_20_TEXT	Enemies come from here.<N>Don't let them reach $MCG!
-$1_1_WHERE_AM_I_30_TITLE	
-$1_1_WHERE_AM_I_30_TEXT	In New Game+ mode, the enemies are much stronger, and have new abilities.
-$1_1_WHERE_AM_I_40_TITLE	
-$1_1_WHERE_AM_I_40_TEXT	For instance, all normal revenant now regenerate health.
-$1_1_WHERE_AM_I_50_TITLE	TALK_$MCG_POWER
-$1_1_WHERE_AM_I_50_TEXT	Hey, Stranger! Where are you?
-$1_1_WHERE_AM_I_60_TITLE	
-$1_1_WHERE_AM_I_60_TEXT	Click here to select the BERSERKER menu.
-$1_1_WHERE_AM_I_61_TITLE	
-$1_1_WHERE_AM_I_61_TEXT	Press <DEFENDERS> or <UP> to select the BERSERKER menu.
-$1_1_WHERE_AM_I_70_TITLE	
-$1_1_WHERE_AM_I_70_TEXT	Right now you only have your berserkers. When you meet the next hero in the story, you'll unlock all the characters of that class.
-$1_1_WHERE_AM_I_80_TITLE	TALK_$BER_SURPRISE
-$1_1_WHERE_AM_I_80_TEXT	What did you do to me??
-$1_1_WHERE_AM_I_90_TITLE	TALK_$MCG_POWER
-$1_1_WHERE_AM_I_90_TEXT	I don't know! There are monsters after me! Help!
-$1_1_WHERE_AM_I_100_TITLE	TALK_$BER_SURPRISE
-$1_1_WHERE_AM_I_100_TEXT	Why am I transparent? Where's my body?
-$1_1_WHERE_AM_I_110_TITLE	
-$1_1_WHERE_AM_I_110_TEXT	This shows all the BERSERKERS in your party.<N>Right now you only have this guy.
-$1_1_WHERE_AM_I_120_TITLE	
-$1_1_WHERE_AM_I_120_TEXT	Click here to select him!
-$1_1_WHERE_AM_I_121_TITLE	
-$1_1_WHERE_AM_I_121_TEXT	Press <DOWN>, then <SELECT> to select him!
-$1_1_WHERE_AM_I_130_TITLE	
-$1_1_WHERE_AM_I_130_TEXT	Your old characters have all the strength, skills, and equipment from the last game.
-$1_1_WHERE_AM_I_140_TITLE	TALK_$MCG_POWER
-$1_1_WHERE_AM_I_140_TEXT	I called out... and I felt you in my mind...
-$1_1_WHERE_AM_I_150_TITLE	TALK_$MCG_POWER
-$1_1_WHERE_AM_I_150_TEXT	Don't slip away! I have to concentrate!
-$1_1_WHERE_AM_I_160_TITLE	TALK_$MCG_POWER
-$1_1_WHERE_AM_I_160_TEXT	If I focus- maybe I can bring you here!
-$1_1_WHERE_AM_I_170_TITLE	TALK_$BER_SURPRISE
-$1_1_WHERE_AM_I_170_TEXT	Um.... okay.
-$1_1_WHERE_AM_I_180_TITLE	TALK_$BER_LOOKBACK
-$1_1_WHERE_AM_I_180_TEXT	I really shouldn't have eaten that lizard stew....
-$1_1_WHERE_AM_I_190_TITLE	
-$1_1_WHERE_AM_I_190_TEXT	Click where you want to place your defender.<N><N>This is a good spot!
-$1_1_WHERE_AM_I_191_TITLE	
-$1_1_WHERE_AM_I_191_TEXT	Use <TILE_MOVE> to move, then <SELECT> to place.<N><N>This is a good spot!
-$1_1_WHERE_AM_I_200_TITLE	TALK_$BER_SMILE
-$1_1_WHERE_AM_I_200_TEXT	Heeeeeey!<N>This is more like it!
-$1_1_WHERE_AM_I_210_TITLE	
-$1_1_WHERE_AM_I_210_TEXT	$MCG uses Psi energy to summon defenders.<N>Killing enemies recharges your Psi.
-$1_1_WHERE_AM_I_220_TITLE	TALK_$MCG_POWER
-$1_1_WHERE_AM_I_220_TEXT	Great!<N>Now do something!
-$1_1_WHERE_AM_I_230_TITLE	TALK_$BER_SMILE
-$1_1_WHERE_AM_I_230_TEXT	What's that, you say?<N>Impress you with feats of manly violence?
-$1_1_WHERE_AM_I_240_TITLE	TALK_$BER_DERANGED
-$1_1_WHERE_AM_I_240_TEXT	Don't mind if I do!
-$1_1_WHERE_AM_I_250_TITLE	
-$1_1_WHERE_AM_I_250_TEXT	Defenders can't move,<N>and attack enemies AUTOMATICALLY.
-$1_1_WHERE_AM_I_260_TITLE	
-$1_1_WHERE_AM_I_260_TEXT	Right now, the game is PAUSED.
-$1_1_WHERE_AM_I_270_TITLE	
-$1_1_WHERE_AM_I_270_TEXT	Click here to get things started.
-$1_1_WHERE_AM_I_271_TITLE	
-$1_1_WHERE_AM_I_271_TEXT	Press <PAUSE> to get things started.
-$1_1_WHERE_AM_I_280_TITLE	TALK_$BER_DERANGED
-$1_1_WHERE_AM_I_280_TEXT	Come on, you drooling wretches!<N>Your evisceration awaits!
-$1_1_WHERE_AM_I_290_TITLE	TALK_$BER_LOOKBACK
-$1_1_WHERE_AM_I_290_TEXT	This is great and all, but I can't help feeling like I should be more awesome than this.
-$1_1_WHERE_AM_I_300_TITLE	TALK_$BER_LOOKBACK
-$1_1_WHERE_AM_I_300_TEXT	You sure you got ALL of my body? Nothing's....missing?
-$1_1_WHERE_AM_I_310_TITLE	TALK_$MCG_POWER
-$1_1_WHERE_AM_I_310_TEXT	I think if I can channel more energy towards you...
-$1_1_WHERE_AM_I_320_TITLE	
-$1_1_WHERE_AM_I_320_TEXT	This is $BER's BOOST BAR.<N> BOOSTING $BER will make him stronger and faster.
-$1_1_WHERE_AM_I_330_TITLE	
-$1_1_WHERE_AM_I_330_TEXT	At BOOST level 2, $BER can use his second technique, DOUBLE HIT.
-$1_1_WHERE_AM_I_340_TITLE	
-$1_1_WHERE_AM_I_340_TEXT	Click BOOST now!<N>You won't regret it!
-$1_1_WHERE_AM_I_341_TITLE	
-$1_1_WHERE_AM_I_341_TEXT	Press BOOST with <SELECT>!<N>You won't regret it!
-$1_1_WHERE_AM_I_350_TITLE	TALK_$BER_DERANGED
-$1_1_WHERE_AM_I_350_TEXT	This is more like it!
-$1_2_THE_SHADOW_WORLD_00_TITLE	TALK_$MCG_POWER
-$1_2_THE_SHADOW_WORLD_00_TEXT	$BER! It worked!
-$1_2_THE_SHADOW_WORLD_10_TITLE	TALK_$MCG_POWER
-$1_2_THE_SHADOW_WORLD_10_TEXT	I'm back in that strange place... that half-way place...
-$1_2_THE_SHADOW_WORLD_20_TITLE	TALK_$BER_SURPRISE
-$1_2_THE_SHADOW_WORLD_20_TEXT	Bring me in! I feel like I'm floating in space!
-$1_2_THE_SHADOW_WORLD_30_TITLE	
-$1_2_THE_SHADOW_WORLD_30_TEXT	Remember,<N>click here to select the BERSERKER menu.
-$1_2_THE_SHADOW_WORLD_31_TITLE	
-$1_2_THE_SHADOW_WORLD_31_TEXT	Remember,<N>press <DEFENDERS> or <UP> to select the BERSERKER menu.
-$1_2_THE_SHADOW_WORLD_40_TITLE	TALK_$BER_SMILE
-$1_2_THE_SHADOW_WORLD_40_TEXT	Oh yeah, let's rumble!
-$1_2_THE_SHADOW_WORLD_50_TITLE	
-$1_2_THE_SHADOW_WORLD_50_TEXT	SELECT $BER by clicking on him.
-$1_2_THE_SHADOW_WORLD_51_TITLE	
-$1_2_THE_SHADOW_WORLD_51_TEXT	Use <TILE_MOVE> and <SELECT> to select $BER.
-$1_2_THE_SHADOW_WORLD_60_TITLE	
-$1_2_THE_SHADOW_WORLD_60_TEXT	These buttons tell $BER which enemy to attack.
-$1_2_THE_SHADOW_WORLD_70_TITLE	
-$1_2_THE_SHADOW_WORLD_70_TEXT	Remember, use these buttons<N>to speed up or slow down time.
-$1_2_THE_SHADOW_WORLD_80_TITLE	Hint
-$1_2_THE_SHADOW_WORLD_80_TEXT	You can do stuff even when time is PAUSED.<N>Use <PAUSE> to quickly toggle pause.
-$1_2_THE_SHADOW_WORLD_90_TITLE	
-$1_2_THE_SHADOW_WORLD_90_TEXT	Don't forget to BOOST $BER.<N>It's an essential tactic.
-$1_2_THE_SHADOW_WORLD_91_TITLE	
-$1_2_THE_SHADOW_WORLD_91_TEXT	Don't forget to BOOST $BER with <SELECT>.<N>It's an essential tactic.
-$1_2_THE_SHADOW_WORLD_100_TITLE	TALK_$BER_DERANGED
-$1_2_THE_SHADOW_WORLD_100_TEXT	OH YEAH!<N>Feel the power!
-$1_2_THE_SHADOW_WORLD_110_TITLE	
-$1_2_THE_SHADOW_WORLD_110_TEXT	OH NO!<N>$BER can't reach this next wave of enemies!
-$1_2_THE_SHADOW_WORLD_120_TITLE	
-$1_2_THE_SHADOW_WORLD_120_TEXT	Use $MCG's LIGHTNING spell to get them!
-$1_2_THE_SHADOW_WORLD_121_TITLE	
-$1_2_THE_SHADOW_WORLD_121_TEXT	Use $MCG's LIGHTNING spell to get them!<N>Press <SPELLS>, then <SELECT>.
-$1_2_THE_SHADOW_WORLD_130_TITLE	
-$1_2_THE_SHADOW_WORLD_130_TEXT	Nice!<N>Use lightning to get enemies that slip by.
-$1_2_THE_SHADOW_WORLD_140_TITLE	
-$1_2_THE_SHADOW_WORLD_140_TEXT	Use it sparingly, though.<N>It costs PSI to use.
-$1_3_COLISEUM_1_00_TITLE	TALK_$RAN_NORMAL
-$1_3_COLISEUM_1_00_TEXT	What the- What are you doing?
-$1_3_COLISEUM_1_10_TITLE	TALK_$BER_SMILE
-$1_3_COLISEUM_1_10_TEXT	Feels weird, doesn't it?
-$1_3_COLISEUM_1_20_TITLE	TALK_$RAN_NORMAL
-$1_3_COLISEUM_1_20_TEXT	I feel like... when I had the plague...
-$1_3_COLISEUM_1_30_TITLE	TALK_$RAN_NORMAL
-$1_3_COLISEUM_1_30_TEXT	When I thought I was dying...
-$1_3_COLISEUM_1_40_TITLE	TALK_$RAN_NORMAL
-$1_3_COLISEUM_1_40_TEXT	Like I was half-way there...
-$1_3_COLISEUM_1_50_TITLE	TALK_$BER_DERANGED
-$1_3_COLISEUM_1_50_TEXT	Well, instead of dying, let's kick some butt!
-$1_3_COLISEUM_1_60_TITLE	TALK_$BER_SMILE
-$1_3_COLISEUM_1_60_TEXT	I find it preferable to death, generally.
-$1_3_COLISEUM_1_70_TITLE	The Ranger
-$1_3_COLISEUM_1_70_TEXT	$MCG can now select between two classes by choosing the Berserker or Ranger tabs.
-$1_3_COLISEUM_1_80_TITLE	
-$1_3_COLISEUM_1_80_TEXT	Mouse over the waves above to get more details.
-$1_3_COLISEUM_1_90_TITLE	
-$1_3_COLISEUM_1_90_TEXT	For instance, these RED enemies can fight back!
-$1_3_COLISEUM_1_100_TITLE	
-$1_3_COLISEUM_1_100_TEXT	Also, note this symbol. That's where this wave will spawn.
-$1_4_COLISEUM_2_00_TITLE	
-$1_4_COLISEUM_2_00_TEXT	If you've hired more berserkers,<N>$MCG can summon them to the Half-Way World by selecting the BERSERKER menu.
-$1_4_COLISEUM_2_10_TITLE	Hint
-$1_4_COLISEUM_2_10_TEXT	$BER is still your best fighter -<N>boost him to use his "Double Hit" attack
-$2_2_UNDEAD_RANGERS_00_TITLE	
-$2_2_UNDEAD_RANGERS_00_TEXT	These undead rangers have a long range attack - plan accordingly!
-$2_4_MONASTERY_00_TITLE	Recalling
-$2_4_MONASTERY_00_TEXT	You can recall defenders from battle to<N>regain some PSI and place them elsewhere.
-$2_4_MONASTERY_10_TITLE	Recalling
-$2_4_MONASTERY_10_TEXT	To do this, select a defender and click <LQ>recall,<RQ> or press <RECALL>.
-$2_4_MONASTERY_20_TITLE	Full Refund
-$2_4_MONASTERY_20_TEXT	Before the first enemy wave arrives,<N>recalling returns 100% of your PSI.
-$3_1_TO_THE_PASS_00_TITLE	TALK_$HEA_NORMAL
-$3_1_TO_THE_PASS_00_TEXT	The hospital lies just across that river...
-$3_1_TO_THE_PASS_10_TITLE	TALK_$MCG_POWER
-$3_1_TO_THE_PASS_10_TEXT	I can feel them...they KNOW I'm here.
-$3_1_TO_THE_PASS_20_TITLE	TALK_$BER_SMILE
-$3_1_TO_THE_PASS_20_TEXT	Relax, $MCG! We can hide on the far side of the river!
-$3_1_TO_THE_PASS_30_TITLE	TALK_$BER_SMILE
-$3_1_TO_THE_PASS_30_TEXT	And by <LQ>hide<RQ> I mean <LQ>murder<RQ> and by <LQ>far side of the river<RQ> I mean...
-$3_1_TO_THE_PASS_40_TITLE	TALK_$BER_DERANGED
-$3_1_TO_THE_PASS_40_TEXT	<LQ>EVERYTHING THAT MOVES!!!<RQ>
-$3_1_TO_THE_PASS_50_TITLE	TALK_$MCG_POWER
-$3_1_TO_THE_PASS_50_TEXT	Wait...is it just me, or does it look like those things can swim?
-$3_1_TO_THE_PASS_60_TITLE	TALK_$BER_SMILE
-$3_1_TO_THE_PASS_60_TEXT	More like a doggie paddle.  Your style sucks!
-$3_1_TO_THE_PASS_70_TITLE	TALK_$BER_DERANGED
-$3_1_TO_THE_PASS_70_TEXT	You hear that?  I just called you doggies!
-$3_1_TO_THE_PASS_80_TITLE	TALK_$RAN_NORMAL
-$3_1_TO_THE_PASS_80_TEXT	Have you ever noticed that every time you open your mouth, stupid comes out?
-$3_1_TO_THE_PASS_90_TITLE	TALK_$BER_SMILE
-$3_1_TO_THE_PASS_90_TEXT	It is my greatest weapon.
-$3_2_HOSPITAL_ATTACK_00_TITLE	
-$3_2_HOSPITAL_ATTACK_00_TEXT	Ice mages can slow down attackers, which is very useful on short paths and fast enemies.
-$3_2_HOSPITAL_ATTACK_10_TITLE	TALK_$MAG_FRIENDLY
-$3_2_HOSPITAL_ATTACK_10_TEXT	Now my heart sings the battle-song.
-$3_2_HOSPITAL_ATTACK_20_TITLE	TALK_$MAG_FROWN
-$3_2_HOSPITAL_ATTACK_20_TEXT	We shall see the frost serve the Fire...
-$3_2_HOSPITAL_ATTACK_30_TITLE	TALK_$MAG_PISSED
-$3_2_HOSPITAL_ATTACK_30_TEXT	And our enemies drown in their own blood.
-$3_4_ARMORED_CREEPS_00_TITLE	
-$3_4_ARMORED_CREEPS_00_TEXT	These new revenant have armor that deflects much of the damage dealt to them.
-$3_4_ARMORED_CREEPS_10_TITLE	TALK_$BER_DERANGED
-$3_4_ARMORED_CREEPS_10_TEXT	Hey wimps!  Real men fight shirtless!
-$3_4_ARMORED_CREEPS_20_TITLE	TALK_$RAN_NORMAL
-$3_4_ARMORED_CREEPS_20_TEXT	Hey, if they want to bundle up, let 'em.
-$3_4_ARMORED_CREEPS_30_TITLE	TALK_$RAN_NORMAL
-$3_4_ARMORED_CREEPS_30_TEXT	The less zombified...jangly bits I have to stare at, the better.
-$3_4_ARMORED_CREEPS_40_TITLE	TALK_$BER_SURPRISE
-$3_4_ARMORED_CREEPS_40_TEXT	I know I'm super awesome and everything, but how am I supposed to fight guys totally encased in armor?
-$3_4_ARMORED_CREEPS_50_TITLE	TALK_$HEA_NORMAL
-$3_4_ARMORED_CREEPS_50_TEXT	I have an idea!
-$3_4_ARMORED_CREEPS_60_TITLE	TALK_$HEA_NORMAL
-$3_4_ARMORED_CREEPS_60_TEXT	$MCG, strike one of those crystals with lightning as the enemy passes it!
-$3_5_MEET_THE_KNIGHT_00_TITLE	
-$3_5_MEET_THE_KNIGHT_00_TEXT	The knight has an armor break skill that weakens armor with each hit.
-$3_5_MEET_THE_KNIGHT_10_TITLE	TALK_$KNI_NORMAL
-$3_5_MEET_THE_KNIGHT_10_TEXT	I can smash the armor right off these fiends!
-$3_5_MEET_THE_KNIGHT_20_TITLE	TALK_$KNI_SQUINT
-$3_5_MEET_THE_KNIGHT_20_TEXT	...if I ...had a body...
-$3_5_MEET_THE_KNIGHT_30_TITLE	TALK_$KNI_SQUINT
-$3_5_MEET_THE_KNIGHT_30_TEXT	What's going on?
-$3_6_INTO_THE_CITY_00_TITLE	TALK_$MCG_POWER
-$3_6_INTO_THE_CITY_00_TEXT	$BER, what on earth are you doing?!
-$3_6_INTO_THE_CITY_10_TITLE	TALK_$BER_DERANGED
-$3_6_INTO_THE_CITY_10_TEXT	This is how real men fight!
-$3_6_INTO_THE_CITY_20_TITLE	TALK_$MCG_POWER
-$3_6_INTO_THE_CITY_20_TEXT	Put your pants back on right now.
-$3_6_INTO_THE_CITY_30_TITLE	TALK_$BER_DERANGED
-$3_6_INTO_THE_CITY_30_TEXT	Never!
-$3_6_INTO_THE_CITY_40_TITLE	TALK_$MCG_POWER
-$3_6_INTO_THE_CITY_40_TEXT	Do it now or I won't pull you in with the rest of us.
-$3_6_INTO_THE_CITY_50_TITLE	TALK_$BER_SMILE
-$3_6_INTO_THE_CITY_50_TEXT	...fine.
-$3_11_CITADEL_BOSS_00_TITLE	TALK_$BER_SMILE
-$3_11_CITADEL_BOSS_00_TEXT	How can I hit these guys when I can't see them?!
-$3_11_CITADEL_BOSS_10_TITLE	TALK_$HEA_NORMAL
-$3_11_CITADEL_BOSS_10_TEXT	They seem to be producing some kind of cloud around themselves.
-$3_11_CITADEL_BOSS_20_TITLE	TALK_$MCG_POWER
-$3_11_CITADEL_BOSS_20_TEXT	How can we fend them off then?
-$3_11_CITADEL_BOSS_30_TITLE	TALK_$HEA_NORMAL
-$3_11_CITADEL_BOSS_30_TEXT	I think I can dispel this darkness...but only for a moment.
-$3_11_CITADEL_BOSS_40_TITLE	TALK_$BER_DERANGED
-$3_11_CITADEL_BOSS_40_TEXT	That's all I need!
-$3_13_DESTROY_CITY_00_TITLE	TALK_ZELEMIR_POWER
-$3_13_DESTROY_CITY_00_TEXT	Enough.
-$3_13_DESTROY_CITY_10_TITLE	TALK_ZELEMIR_POWER
-$3_13_DESTROY_CITY_10_TEXT	This ends here.
-$3_13_DESTROY_CITY_20_TITLE	TALK_ZELEMIR_POWER
-$3_13_DESTROY_CITY_20_TEXT	Do you really think these simple wounds will stop me?
-$3_13_DESTROY_CITY_30_TITLE	TALK_$HEA_NORMAL
-$3_13_DESTROY_CITY_30_TEXT	No, but this collapsing city will.
-$3_13_DESTROY_CITY_40_TITLE	TALK_$HEA_NORMAL
-$3_13_DESTROY_CITY_40_TEXT	These mines will be buried, and your madness with them.
-$3_13_DESTROY_CITY_50_TITLE	TALK_ZELEMIR_POWER
-$3_13_DESTROY_CITY_50_TEXT	Brother... All I did... you should know-
-$3_13_DESTROY_CITY_60_TITLE	TALK_$HEA_NORMAL
-$3_13_DESTROY_CITY_60_TEXT	I know that you are dead.
-$3_13_DESTROY_CITY_70_TITLE	TALK_$BER_DERANGED
-$3_13_DESTROY_CITY_70_TEXT	Yeah! Eat structurally unsound, rubble-flavored death, you robe-wearing punk-ass pansy perforated piss-bottle!
-$4_1_EZTLIS_FORCES_00_TITLE	
-$4_1_EZTLIS_FORCES_00_TEXT	These strange cultists have become terrifyingly powerful revenant.  Slow but deadly, they will only be defeated by the combined efforts of many defenders.
-$4_2_WIZARDS_REALM_00_TITLE	TALK_$RAN_SQUINT
-$4_2_WIZARDS_REALM_00_TEXT	What on earth is that thing?
-$4_2_WIZARDS_REALM_10_TITLE	TALK_$RAN_SQUINT
-$4_2_WIZARDS_REALM_10_TEXT	It looks like it's about to pop!
-$4_2_WIZARDS_REALM_20_TITLE	TALK_$BER_SMILE
-$4_2_WIZARDS_REALM_20_TEXT	Yeah, it's like that time I ate all that fermented mushroom gulash...
-$4_2_WIZARDS_REALM_30_TITLE	TALK_$BER_LOOKBACK
-$4_2_WIZARDS_REALM_30_TEXT	Except these spew baby revenant everywhere instead of-
-$4_2_WIZARDS_REALM_40_TITLE	TALK_$RAN_SERIOUSLY
-$4_2_WIZARDS_REALM_40_TEXT	Ok, we get it.
-$4_5_RIGHT_HAND_00_TITLE	TALK_CULTIST_PRIEST
-$4_5_RIGHT_HAND_00_TEXT	BEHOLD DEATH!
-$4_5_RIGHT_HAND_10_TITLE	TALK_$BER_SURPRISE
-$4_5_RIGHT_HAND_10_TEXT	Is that a...giant...hand?
-$4_5_RIGHT_HAND_20_TITLE	TALK_$BER_LOOKBACK
-$4_5_RIGHT_HAND_20_TEXT	Are there any other unusually sized body parts fixing to burst out of the ground?
-$4_5_RIGHT_HAND_30_TITLE	TALK_CULTIST_PRIEST
-$4_5_RIGHT_HAND_30_TEXT	DIE NOW.
-$4_5_RIGHT_HAND_40_TITLE	TALK_$BER_SURPRISE
-$4_5_RIGHT_HAND_40_TEXT	Revvie! You came back?!!
-$4_5_RIGHT_HAND_50_TITLE	TALK_$BER_DERANGED
-$4_5_RIGHT_HAND_50_TEXT	Come over here so I can kill you!
-$4_5_RIGHT_HAND_60_TITLE	TALK_CULTIST_PRIEST
-$4_5_RIGHT_HAND_60_TEXT	These foolish blooded ones believe the battle over...
-$4_5_RIGHT_HAND_70_TITLE	TALK_CULTIST_PRIEST
-$4_5_RIGHT_HAND_70_TEXT	But that destroyed creature of flesh and spirit is not what they believe it to be.
-$4_5_RIGHT_HAND_80_TITLE	TALK_CULTIST_PRIEST
-$4_5_RIGHT_HAND_80_TEXT	Filled with the zeal of the Master...I AM THE RIGHT HAND OF EZTLI-TENOCH
-$4_5_RIGHT_HAND_90_TITLE	TALK_CULTIST_PRIEST
-$4_5_RIGHT_HAND_90_TEXT	I AM DEATH.
-$4_5_RIGHT_HAND_91_TITLE	TALKSYMBOLS_CULTIST_PRIEST
-$4_5_RIGHT_HAND_91_TEXT	Make me your child!
-$4_5_RIGHT_HAND_100_TITLE	TALK_ZELEMIR_POWER
-$4_5_RIGHT_HAND_100_TEXT	Enough of this.
-$4_5_RIGHT_HAND_110_TITLE	TALK_$MCG_POWER
-$4_5_RIGHT_HAND_110_TEXT	Zelemir?! What are you doing here?
-$4_5_RIGHT_HAND_120_TITLE	TALK_ZELEMIR_POWER
-$4_5_RIGHT_HAND_120_TEXT	Saving your life.
-$12_4_FINAL_00_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_00_TEXT	Zelemir?
-$12_4_FINAL_10_TITLE	TALK_ZELEMIR_WOUNDED
-$12_4_FINAL_10_TEXT	I will not lie idly by and watch the monster I have fought for so long escape.
-$12_4_FINAL_20_TITLE	TALK_$MAG_PISSED
-$12_4_FINAL_20_TEXT	You murderer! You think that we will-
-$12_4_FINAL_30_TITLE	TALK_ZELEMIR_WOUNDED
-$12_4_FINAL_30_TEXT	This is not the time! Either we kill him or all is lost!
-$12_4_FINAL_40_TITLE	TALK_ZELEMIR_WOUNDED
-$12_4_FINAL_40_TEXT	After that, you may take your vengeance.
-$12_4_FINAL_50_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_50_TEXT	It's no use! His magic is protecting him!
-$12_4_FINAL_60_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_60_TEXT	What can we possibly do?
-$12_4_FINAL_70_TITLE	TALK_NOMAD_MALE_1
-$12_4_FINAL_70_TEXT	Lady, we are here with you...
-$12_4_FINAL_80_TITLE	TALK_ASH_FEMALE_1
-$12_4_FINAL_80_TEXT	Until now, you have been lending your power to others.
-$12_4_FINAL_90_TITLE	TALK_QUAID_MALE_1
-$12_4_FINAL_90_TEXT	But now we lend ours to you.
-$12_4_FINAL_100_TITLE	
-$12_4_FINAL_100_TEXT	For the first time,<N>$MCG herself can be boosted!
-$12_4_FINAL_110_TITLE	
-$12_4_FINAL_110_TEXT	Use this power to defeat Eztli-Tenoch!
-$12_4_FINAL_120_TITLE	TALK_NOMAD_FEMALE_1
-$12_4_FINAL_120_TEXT	Lady, let us help you...
-$12_4_FINAL_130_TITLE	TALK_NOMAD_FEMALE_2
-$12_4_FINAL_130_TEXT	Lady, our prayers are with you!
-$12_4_FINAL_140_TITLE	TALK_QUAID_MALE_2
-$12_4_FINAL_140_TEXT	The power of all of us...
-$12_4_FINAL_150_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_150_TEXT	United in one.
-$12_4_FINAL_160_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_160_TEXT	Shall I speak to the dog in its own tongue?
-$12_4_FINAL_170_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_170_TEXT	The rabble that begged me to be their god now shakes their fists at heaven, poisoning the air with empty threats.
-$12_4_FINAL_171_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_171_TEXT	I had so hoped...
-$12_4_FINAL_172_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_172_TEXT	NO!
-$12_4_FINAL_180_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_180_TEXT	In what world can YOU face ME?
-$12_4_FINAL_190_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_190_TEXT	I am EZTLI-TENOCH!
-$12_4_FINAL_200_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_200_TEXT	You are one great being, spread over many.
-$12_4_FINAL_210_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_210_TEXT	But many are united in me.
-$12_4_FINAL_220_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_220_TEXT	I am their conduit.
-$12_4_FINAL_230_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_230_TEXT	We all strike you down as one.
-$12_4_FINAL_240_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_240_TEXT	Fool!
-$12_4_FINAL_250_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_250_TEXT	This is my domain!
-$12_4_FINAL_260_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_260_TEXT	You may be able to come half-way with feeble steps...
-$12_4_FINAL_270_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_270_TEXT	...but only I can walk the paths of the spirit.
-$12_4_FINAL_280_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_280_TEXT	What's happening?
-$12_4_FINAL_290_TITLE	TALK_$HEA_NORMAL
-$12_4_FINAL_290_TEXT	He has gone all the way... into the other side...
-$12_4_FINAL_300_TITLE	TALK_$HEA_NORMAL
-$12_4_FINAL_300_TEXT	We cannot reach him from this half-way world.
-$12_4_FINAL_310_TITLE	TALK_ZELEMIR_WOUNDED
-$12_4_FINAL_310_TEXT	There is a way...
-$12_4_FINAL_320_TITLE	TALK_ZELEMIR_WOUNDED
-$12_4_FINAL_320_TEXT	$MCG, you are like me... you can call others into this half-way world...
-$12_4_FINAL_330_TITLE	TALK_ZELEMIR_WOUNDED
-$12_4_FINAL_330_TEXT	But with all these people here... lending us their power...
-$12_4_FINAL_340_TITLE	TALK_ZELEMIR_WOUNDED
-$12_4_FINAL_340_TEXT	I can feel it...
-$12_4_FINAL_350_TITLE	TALK_ZELEMIR_WOUNDED
-$12_4_FINAL_350_TEXT	With all our combined power I can enter the other world completely...
-$12_4_FINAL_360_TITLE	TALK_ZELEMIR_WOUNDED
-$12_4_FINAL_360_TEXT	And there I will kill the wretched wizard!
-$12_4_FINAL_370_TITLE	TALK_$HEA_NORMAL
-$12_4_FINAL_370_TEXT	You cannot do this alone, brother.
-$12_4_FINAL_380_TITLE	TALK_$HEA_NORMAL
-$12_4_FINAL_380_TEXT	Take me with you.
-$12_4_FINAL_390_TITLE	TALK_ZELEMIR_WOUNDED
-$12_4_FINAL_390_TEXT	No, the fault is mine.
-$12_4_FINAL_400_TITLE	TALK_ZELEMIR_WOUNDED
-$12_4_FINAL_400_TEXT	I will pay the price alone.
-$12_4_FINAL_410_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_410_TEXT	Rabble of fools! You think a dog can-
-$12_4_FINAL_420_TITLE	TALK_ZELEMIR_WOUNDED
-$12_4_FINAL_420_TEXT	$MCG! Now is the time! Concentrate!
-$12_4_FINAL_430_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_430_TEXT	...
-$12_4_FINAL_440_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_440_TEXT	Go, Zelemir.
-$12_4_FINAL_450_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_450_TEXT	Finish this.
-$12_4_FINAL_460_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_460_TEXT	Shall I speak to the dog in its own tongue?
-$12_4_FINAL_470_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_470_TEXT	The rabble that begged me to be their god now shakes their fists at heaven, poisoning the air with empty threats.
-$12_4_FINAL_471_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_471_TEXT	I had so hoped...
-$12_4_FINAL_472_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_472_TEXT	NO!
-$12_4_FINAL_480_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_480_TEXT	In what world can YOU face ME?
-$12_4_FINAL_490_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_490_TEXT	I am EZTLI-TENOCH!
-$12_4_FINAL_500_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_500_TEXT	You are one great being, spread over many.
-$12_4_FINAL_510_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_510_TEXT	But many are united in me.
-$12_4_FINAL_520_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_520_TEXT	I am their conduit.
-$12_4_FINAL_530_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_530_TEXT	We all strike you down as one.
-$12_4_FINAL_540_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_540_TEXT	Fool!
-$12_4_FINAL_550_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_550_TEXT	This is my domain!
-$12_4_FINAL_560_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_560_TEXT	You may be able to come half-way with feeble steps...
-$12_4_FINAL_570_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_570_TEXT	...but only I can walk the paths of the spirit.
-$12_4_FINAL_580_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_580_TEXT	What's happening?
-$12_4_FINAL_590_TITLE	TALK_$HEA_NORMAL
-$12_4_FINAL_590_TEXT	He has gone all the way... into the other side...
-$12_4_FINAL_600_TITLE	TALK_$HEA_NORMAL
-$12_4_FINAL_600_TEXT	We cannot reach him from this half-way world.
-$12_4_FINAL_610_TITLE	TALK_ZELEMIR_POWER
-$12_4_FINAL_610_TEXT	There is a way...
-$12_4_FINAL_620_TITLE	TALK_ZELEMIR_POWER
-$12_4_FINAL_620_TEXT	$MCG, I am dying... but with what strength I have...
-$12_4_FINAL_630_TITLE	TALK_ZELEMIR_POWER
-$12_4_FINAL_630_TEXT	You are like me... you can call others into this half-way world...
-$12_4_FINAL_640_TITLE	TALK_ZELEMIR_POWER
-$12_4_FINAL_640_TEXT	But with all these people here... lending us their power...
-$12_4_FINAL_650_TITLE	TALK_ZELEMIR_POWER
-$12_4_FINAL_650_TEXT	I can feel it... together... we...
-$12_4_FINAL_660_TITLE	TALK_ZELEMIR_POWER
-$12_4_FINAL_660_TEXT	With all our combined power I can enter the other world completely...
-$12_4_FINAL_670_TITLE	TALK_ZELEMIR_POWER
-$12_4_FINAL_670_TEXT	With my dying strength... I will kill the wizard.
-$12_4_FINAL_680_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_680_TEXT	One lone, dying man, against a god?
-$12_4_FINAL_690_TITLE	TALK_$HEA_NORMAL
-$12_4_FINAL_690_TEXT	Brother, you cannot do this alone.
-$12_4_FINAL_700_TITLE	TALK_$HEA_NORMAL
-$12_4_FINAL_700_TEXT	Let us finish this as we began it.
-$12_4_FINAL_710_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_710_TEXT	Elder?
-$12_4_FINAL_720_TITLE	TALK_ZELEMIR_POWER
-$12_4_FINAL_720_TEXT	It is good... to have you back, old friend...
-$12_4_FINAL_730_TITLE	TALK_$HEA_NORMAL
-$12_4_FINAL_730_TEXT	Likewise.
-$12_4_FINAL_740_TITLE	TALK_ZELEMIR_POWER
-$12_4_FINAL_740_TEXT	$MCG! Now is the time! Concentrate!
-$12_4_FINAL_750_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_750_TEXT	...
-$12_4_FINAL_760_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_760_TEXT	Go. Finish this.
-$12_4_FINAL_770_TITLE	TALK_ZELEMIR_POWER
-$12_4_FINAL_770_TEXT	It is... too much...
-$12_4_FINAL_780_TITLE	TALK_ZELEMIR_POWER
-$12_4_FINAL_780_TEXT	My wounds...
-$12_4_FINAL_790_TITLE	TALK_ZELEMIR_POWER
-$12_4_FINAL_790_TEXT	$MCG, you must not allow him...
-$12_4_FINAL_800_TITLE	TALK_ZELEMIR_POWER
-$12_4_FINAL_800_TEXT	...
-$12_4_FINAL_810_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_810_TEXT	Zelemir!
-$12_4_FINAL_820_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_820_TEXT	I lost him...
-$12_4_FINAL_830_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_830_TEXT	Shall I speak to the dog in its own tongue?
-$12_4_FINAL_840_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_840_TEXT	The rabble that begged me to be their god now shakes their fists at heaven, poisoning the air with empty threats.
-$12_4_FINAL_841_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_841_TEXT	I had so hoped...
-$12_4_FINAL_842_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_842_TEXT	NO!
-$12_4_FINAL_850_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_850_TEXT	In what world can YOU face ME?
-$12_4_FINAL_860_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_860_TEXT	I am EZTLI-TENOCH!
-$12_4_FINAL_870_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_870_TEXT	You are one great being, spread over many.
-$12_4_FINAL_880_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_880_TEXT	But many are united in me.
-$12_4_FINAL_890_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_890_TEXT	I am their conduit.
-$12_4_FINAL_900_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_900_TEXT	We all strike you down as one.
-$12_4_FINAL_910_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_910_TEXT	Fool!
-$12_4_FINAL_920_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_920_TEXT	This is my domain!
-$12_4_FINAL_930_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_930_TEXT	You may be able to come half-way with feeble steps...
-$12_4_FINAL_940_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_940_TEXT	...but only I can walk the paths of the spirit.
-$12_4_FINAL_950_TITLE	TALK_$MCG_POWER
-$12_4_FINAL_950_TEXT	What's happening?
-$12_4_FINAL_960_TITLE	TALK_$HEA_NORMAL
-$12_4_FINAL_960_TEXT	He has gone all the way... into the other side...
-$12_4_FINAL_970_TITLE	TALK_$HEA_NORMAL
-$12_4_FINAL_970_TEXT	We cannot reach him from this half-way world.
-$12_4_FINAL_980_TITLE	TALK_$HEA_NORMAL
-$12_4_FINAL_980_TEXT	...
-$SIDEQUEST_7_00_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_00_TEXT	What have you become, my Tletl-Meztli?
-$SIDEQUEST_7_10_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_10_TEXT	Together we rose above the tide of filth.
-$SIDEQUEST_7_20_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_20_TEXT	We defended ourselves from the pettiness of mortality.
-$SIDEQUEST_7_30_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_30_TEXT	We tore down the lowness of men and raised them to glory!
-$SIDEQUEST_7_40_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_40_TEXT	Have you spent so long lost in the world of men that you forget you are a god?
-$SIDEQUEST_7_50_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_50_TEXT	We carry within us the terrible obligations of divinity!
-$SIDEQUEST_7_60_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_60_TEXT	Shall we let the aspersions of the rabble corrupt our calling?
-$SIDEQUEST_7_70_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_70_TEXT	Our eyes have gazed upon the secrets of spirit and you would now willingly blind yourself?
-$SIDEQUEST_7_80_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_80_TEXT	I cannot follow you in this path of self destruction.
-$SIDEQUEST_7_90_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_90_TEXT	Shall I cast you aside like this vessel of meager flesh? Are you nothing more?
-$SIDEQUEST_7_100_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_100_TEXT	We became what we needed to be! What we had to be! We cannot go back!
-$SIDEQUEST_7_110_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_110_TEXT	How can you harden your heart against me? How can you force me to destroy what I love?
-$SIDEQUEST_7_111_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_111_TEXT	How can you destroy us both?
-$SIDEQUEST_7_120_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_120_TEXT	You cast aside all that we are? All that we have created?
-$SIDEQUEST_7_130_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$SIDEQUEST_7_130_TEXT	...So I must purge the last... I must purge it all.
-$INDEX_SLAK_DIE_00_TITLE	TALK_$BER_SMILE
-$INDEX_SLAK_DIE_00_TEXT	$MCG! You lost my body!
-$INDEX_SLAK_DIE_10_TITLE	TALK_$MCG_POWER
-$INDEX_SLAK_DIE_10_TEXT	Sorry, it's hard to concentrate when you get hit so much!
-$INDEX_SLAK_DIE_20_TITLE	TALK_$BER_SMILE
-$INDEX_SLAK_DIE_20_TEXT	Just hurry up and pull me back in! I'm missing out on killing stuff!
-$INDEX_BER_DIE_30_TITLE	TALK_$BER_SURPRISE
-$INDEX_BER_DIE_30_TEXT	Yo $MCG! One of my buddies is down! Pull him back in! We got murderin' to do!
-$INDEX_KETTA_DIE_40_TITLE	TALK_$RAN_NORMAL
-$INDEX_KETTA_DIE_40_TEXT	Hey! I got knocked out!
-$INDEX_KETTA_DIE_50_TITLE	TALK_$MCG_POWER
-$INDEX_KETTA_DIE_50_TEXT	Hold still. I'll get you back in a second.
-$INDEX_KETTA_DIE_60_TITLE	TALK_$RAN_NORMAL
-$INDEX_KETTA_DIE_60_TEXT	Hurry up, this feels really strange!
-$INDEX_RAN_DIE_70_TITLE	TALK_$RAN_NORMAL
-$INDEX_RAN_DIE_70_TEXT	Hey! We're losing people over here! Get 'em back in!
-$INDEX_BOOST_SLAK_80_TITLE	TALK_$BER_DERANGED
-$INDEX_BOOST_SLAK_80_TEXT	HAHAHA! I AM THE SEXY GOD OF VIOLENCE!
-$INDEX_BOOST_SLAK_90_TITLE	TALK_$BER_DERANGED
-$INDEX_BOOST_SLAK_90_TEXT	LOOK ON MY RIPPLING ABS, YE MIGHTY, AND DESPAIR!
-$INDEX_FIRST_LEVEL_100_TITLE	
-$INDEX_FIRST_LEVEL_100_TEXT	Click here to begin.
-$INDEX_SECOND_LEVEL_110_TITLE	
-$INDEX_SECOND_LEVEL_110_TEXT	Click here to advance.
-$INDEX_SECOND_LEVEL_111_TITLE	
-$INDEX_SECOND_LEVEL_111_TEXT	Press <MOVE_MAP_DOWN> to advance.
-$INDEX_LVL_DUDE_120_TITLE	Tutorial
-$INDEX_LVL_DUDE_120_TEXT	Congratulations! A defender gained a level!
-$INDEX_LVL_DUDE_130_TITLE	Tutorial
-$INDEX_LVL_DUDE_130_TEXT	Click on that defender to upgrade skills.
-$INDEX_LVL_DUDE_131_TITLE	Tutorial
-$INDEX_LVL_DUDE_131_TEXT	Press <MENU_MENU> to switch to your characters.
-$INDEX_CLICK_DUDE_140_TITLE	Tutorial
-$INDEX_CLICK_DUDE_140_TEXT	This is the defender's SKILL TREE.
-$INDEX_CLICK_DUDE_150_TITLE	Techniques
-$INDEX_CLICK_DUDE_150_TEXT	The ROUND skills are TECHNIQUES<N>actively used in battle.
-$INDEX_CLICK_DUDE_160_TITLE	Traits
-$INDEX_CLICK_DUDE_160_TEXT	The SQUARE skills are passive TRAITS,<N>always-on abilities.
-$INDEX_SKILL_DUDE_170_TITLE	Tutorial
-$INDEX_SKILL_DUDE_170_TEXT	Mousing over the skill shows what will happen when you upgrade it.
-$INDEX_SKILL_DUDE_180_TITLE	Tutorial
-$INDEX_SKILL_DUDE_180_TEXT	Click on the skill to increase it by 1 point.
-$INDEX_CLICK_DUDE1_190_TITLE	Tutorial
-$INDEX_CLICK_DUDE1_190_TEXT	Press <MENU_SELECT> to inspect this character.
-$INDEX_SKILL_DUDE1_200_TITLE	Tutorial
-$INDEX_SKILL_DUDE1_200_TEXT	Press <MENU_DOWN>, then <MENU_SELECT> to inspect this character's SKILL TREE.
-$INDEX_ORB_DUDE1_210_TITLE	Tutorial
-$INDEX_ORB_DUDE1_210_TEXT	<RE>$INDEX_CLICK_DUDE_140_TEXT
-$INDEX_ORB_DUDE1_220_TITLE	Tutorial
-$INDEX_ORB_DUDE1_220_TEXT	<RE>$INDEX_CLICK_DUDE_150_TEXT
-$INDEX_ORB_DUDE1_230_TITLE	Tutorial
-$INDEX_ORB_DUDE1_230_TEXT	<RE>$INDEX_CLICK_DUDE_160_TEXT
-$INDEX_ORB_DUDE1_240_TITLE	Tutorial
-$INDEX_ORB_DUDE1_240_TEXT	This panel shows what will happen when you upgrade the skill.
-$INDEX_ORB_DUDE1_250_TITLE	Tutorial
-$INDEX_ORB_DUDE1_250_TEXT	<RE>$INDEX_D1_290_TEXT
-$INDEX_A_190_TITLE	Tutorial
-$INDEX_A_190_TEXT	Congratulations! $MCG gained a level!
-$INDEX_A_200_TITLE	Tutorial
-$INDEX_A_200_TEXT	Click on $MCG to upgrade her spells.
-$INDEX_A_201_TITLE	Tutorial
-$INDEX_A_201_TEXT	Press <MENU_MENU> to switch to your characters.
-$INDEX_B_210_TITLE	Tutorial
-$INDEX_B_210_TEXT	This is $MCG's SKILL TREE.<N>$MCG's skills are all SPELLS.
-$INDEX_B_220_TITLE	Tutorial
-$INDEX_B_220_TEXT	$MCG has one SKILL POINT to spend.<N>Mouse over to view the LIGHTNING spell
-$INDEX_C_230_TITLE	Tutorial
-$INDEX_C_230_TEXT	Mousing over shows what will happen when you upgrade this skill.
-$INDEX_C_240_TITLE	Tutorial
-$INDEX_C_240_TEXT	Click the orb to increase this skill by 1 point.
-$INDEX_B1_250_TITLE	Tutorial
-$INDEX_B1_250_TEXT	Press <MENU_SELECT> to inspect $MCG.
-$INDEX_C1_260_TITLE	Tutorial
-$INDEX_C1_260_TEXT	Press <MENU_DOWN>, then <MENU_SELECT> to inspect $MCG's SKILL TREE.
-$INDEX_D1_270_TITLE	Tutorial
-$INDEX_D1_270_TEXT	<RE>$INDEX_B_210_TEXT
-$INDEX_D1_280_TITLE	Tutorial
-$INDEX_D1_280_TEXT	$MCG has one SKILL POINT to spend.<N>This shows what will happen when you upgrade this skill.
-$INDEX_D1_290_TITLE	Tutorial
-$INDEX_D1_290_TEXT	Press <MENU_SELECT> to increase this skill by 1 point.
-$INDEX_BUY_STUFF_250_TITLE	
-$INDEX_BUY_STUFF_250_TEXT	You can purchase equipment and hire new defenders in towns.
-$INDEX_BUY_STUFF_260_TITLE	
-$INDEX_BUY_STUFF_260_TEXT	You should hire BERSERKERS and buy WEAPONS now.<N><N>(Note: each hire gets more expensive.)
-$INDEX_HOW_TO_BUY_270_TITLE	Buying Weapons
-$INDEX_HOW_TO_BUY_270_TEXT	These are the weapons for sale.<N>Click on a weapon type to make the 'BUY' button appear.
-$INDEX_DIFF_TOWN_280_TITLE	More About Towns:
-$INDEX_DIFF_TOWN_280_TEXT	Different towns have different things to offer.
-$INDEX_DIFF_TOWN_290_TITLE	More About Towns:
-$INDEX_DIFF_TOWN_290_TEXT	For instance, you can hire RANGERS and purchase ARMOR in this town.
-$INDEX_DIFF_TOWN_300_TITLE	More About Towns:
-$INDEX_DIFF_TOWN_300_TEXT	Remember, bigger armies are more expensive - each new hire costs more than the last.
-$INDEX_1_1_WHERE_AM_I_TITLE	The Half-Way World
-$INDEX_1_1_WHERE_AM_I_TEXT	Lost and alone, $MCG finds herself caught between life and death.
-$INDEX_1_2_THE_SHADOW_WORLD_TITLE	Caravan of the Dead
-$INDEX_1_2_THE_SHADOW_WORLD_TEXT	$MCG stumbles across a merchant caravan brimming with goods.
-$INDEX_1_3_COLISEUM_1_TITLE	The Coliseum
-$INDEX_1_3_COLISEUM_1_TEXT	Our heroes are forced to fight revenant in Ozimal's coliseum.
-$INDEX_JAIL_TITLE	Ozimal's Prison
-$INDEX_JAIL_TEXT	Ozimal's prison town of slaves and gladiators. A mix of deplorable scum and innocent bystanders, all eager to escape.
-$INDEX_JAIL_DESTROY_TEXT	The prison is empty - someone blew a hole in the wall and all the prisoners escaped.
-$INDEX_1_4_COLISEUM_2_TITLE	Return to The Coliseum
-$INDEX_1_4_COLISEUM_2_TEXT	Ozimal demonstrates $MCG's talents for a strange guest...
-$INDEX_1_5_RIVER_ESCAPE_TITLE	River Escape
-$INDEX_1_5_RIVER_ESCAPE_TEXT	A bold escape from the coliseum takes the party over a river.
-$INDEX_SHANTY_TITLE	Shanty
-$INDEX_SHANTY_TEXT	A dilapidated shanty town - looks like the escaped prisoners took refuge here.
-$INDEX_SIDEQUEST_1_TITLE	The Catacombs
-$INDEX_SIDEQUEST_1_TEXT	While on the run from Ozimal, $MCG returns to save those still trapped in the catacombs below the prison.
-$INDEX_RANGER_TOWN_TITLE	Karsk
-$INDEX_RANGER_TOWN_TEXT	A survivor's camp of nomadic villagers. Karsk pays a heavy tribute to Ozimal to escape raids.
-$INDEX_RANGER_TOWN_DESTROY_TEXT	All that remains of Karsk is a thick layer of char. The bodies of the dead are nowhere to be found.
-$INDEX_2_1_SAVE_RANGER_TOWN_TITLE	The Battle of Karsk
-$INDEX_2_1_SAVE_RANGER_TOWN_TEXT	Ozimal's forces lay seige to Karsk.
-$INDEX_2_2_UNDEAD_RANGERS_TITLE	Old Friends, New Enemies
-$INDEX_2_2_UNDEAD_RANGERS_TEXT	Victims of the attack on Karsk rise again as long-ranged enemies.
-$INDEX_2_3_MONASTERY_GATES_TITLE	The Monastery Gates
-$INDEX_2_3_MONASTERY_GATES_TEXT	A massive battle breaks out at the monastery gates.
-$INDEX_LAKSOS_TITLE	Laksos
-$INDEX_LAKSOS_TEXT	A survivor's camp at the foot of a mountain, a frequent target of  Ozimal's raiding parties.
-$INDEX_2_4_MONASTERY_TITLE	The Monastery Ascension
-$INDEX_2_4_MONASTERY_TEXT	Enemies make an assault up the daunting monastery stairs.
-$INDEX_MONASTERY_TITLE	The Monastery
-$INDEX_MONASTERY_TEXT	A Selini Chapter House, a monastery of the Ash kingdom's primary religion.
-$INDEX_SIDEQUEST_2_TITLE	Gone Fishing
-$INDEX_SIDEQUEST_2_TEXT	$MCG purges the revenant infestation in the river so that it can once again be used for fishing
-$INDEX_3_1_TO_THE_PASS_TITLE	Traveling to the Hospital
-$INDEX_3_1_TO_THE_PASS_TEXT	$MCG rushes to defend the hospital from a surprise attack.
-$INDEX_3_2_HOSPITAL_ATTACK_TITLE	Attack at the Hospital
-$INDEX_3_2_HOSPITAL_ATTACK_TEXT	The party helps defend the besieged hospital.
-$INDEX_HOSPITAL_TITLE	The Hospital
-$INDEX_HOSPITAL_TEXT	A Seleni House of Mercy, a place of refuge and healing for the wounded and sick.
-$INDEX_SIDEQUEST_3_TITLE	The Sons of Krast
-$INDEX_SIDEQUEST_3_TEXT	$RAN begrudgingly keeps a promise to another member of the Geka tribe.
-$INDEX_SIDEQUEST_4_TITLE	Into the Shadows
-$INDEX_SIDEQUEST_4_TEXT	While $MCG and $RAN are gone, $BER and $HEA are spirited away by a mysterious woman.
-$INDEX_3_3_DESERT_STRONGHOLD_TITLE	Desert Stronghold Entrance
-$INDEX_3_3_DESERT_STRONGHOLD_TEXT	Trailed by a band of revenant, the party makes a stand before entering the Desert Stronghold.
-$INDEX_3_4_ARMORED_CREEPS_TITLE	Night of the Living Knights
-$INDEX_3_4_ARMORED_CREEPS_TEXT	Seeking refuge in the stronghold, the party finds something sinister in the darkness.
-$INDEX_3_5_MEET_THE_KNIGHT_TITLE	Armor Shmarmor
-$INDEX_3_5_MEET_THE_KNIGHT_TEXT	A lone knight joins the party and shows off his armor-busting skills.
-$INDEX_GUARD_TOWN_TITLE	Guard Hideout
-$INDEX_GUARD_TOWN_TEXT	A fort inhabited by former guards of the pit, hiding from vengeful plague survivors.
-$INDEX_SIDEQUEST_5_TITLE	Return to the Shadows
-$INDEX_SIDEQUEST_5_TEXT	The mysterious woman returns, abducting $BER and $KNI.
-$INDEX_3_6_INTO_THE_CITY_TITLE	Deeper into the Stronghold
-$INDEX_3_6_INTO_THE_CITY_TEXT	$KNI leads the party deeper into the stronghold in search of answers.
-$INDEX_3_7_UNWELCOME_GUESTS_TITLE	Unwelcome Guests
-$INDEX_3_7_UNWELCOME_GUESTS_TEXT	The party finds an unlikely ally deep in the catacombs.
-$INDEX_3_8_DEFEND_NEST_TITLE	Defend the Nest
-$INDEX_3_8_DEFEND_NEST_TEXT	$DRA agrees to help if the heroes help defend her nest.
-$INDEX_DRAGON_LAIR_TITLE	Dragon's Lair
-$INDEX_DRAGON_LAIR_TEXT	$DRA's nesting grounds, stocked with treasure and home to her young.
-$INDEX_3_9_GOAT_STEW_TITLE	Storm the Sheep
-$INDEX_3_9_GOAT_STEW_TEXT	$DRA is hungry. $MCG offers an alternative to human flesh.
-$INDEX_3_10_THE_CITADEL_TITLE	The Royal Records Room
-$INDEX_3_10_THE_CITADEL_TEXT	The party fights their way into an ancient archive chamber, hoping for answers.
-$INDEX_FIRE_SHRINE_TITLE	Quaid Fire Shrine
-$INDEX_FIRE_SHRINE_TEXT	This is a Quaid Fire Shrine
-$INDEX_SIDEQUEST_6_TITLE	The Fallen Temple
-$INDEX_SIDEQUEST_6_TEXT	$MAG and $MCG purify a defiled Quaid Fire Shrine
-$INDEX_DESTROYED_RANGER_TOWN_TITLE	Destroyed Ranger Town
-$INDEX_DESTROYED_RANGER_TOWN_TEXT	The remnants of the ranger's town.  A few rangers remain amongst the rubble.
-$INDEX_3_11_CITADEL_BOSS_TITLE	Tunnel Escape
-$INDEX_3_11_CITADEL_BOSS_TEXT	The party escapes the Citadel through a sewer tunnel, pursued by a force of revenant.
-$INDEX_3_12_TUNNEL_ESCAPE_TITLE	Detonate the Mines
-$INDEX_3_12_TUNNEL_ESCAPE_TEXT	$HEA plans to detonate the mines, if $MCG can hold off the revenant army long enough.
-$INDEX_3_13_DESTROY_CITY_TITLE	Zelemir Appears
-$INDEX_3_13_DESTROY_CITY_TEXT	Zelemir stands between the party and the way out.
-$INDEX_GHOST_TOWN_TITLE	Ghost Town
-$INDEX_GHOST_TOWN_TEXT	A nearly abandoned village, populated by a few roaming mercenaries and Quaid survivors.
-$INDEX_4_1_EZTLIS_FORCES_TITLE	Eztli-Tenoch's Forces
-$INDEX_4_1_EZTLIS_FORCES_TEXT	Making their way to the east side of the Pit, the party crosses into Eztli-Tenoch's domain.
-$INDEX_4_2_WIZARDS_REALM_TITLE	Realm of the Wizard
-$INDEX_4_2_WIZARDS_REALM_TEXT	The party finds themselves in the ancient ruins of a strange city.  What is this place?
-$INDEX_4_3_THE_HALLS_TITLE	The Halls of the God-King
-$INDEX_4_3_THE_HALLS_TEXT	The former throne room of Eztli-Tenoch himself, now the site of a new battle.
-$INDEX_TREASURE_CHAMBER_TITLE	Treasure Chamber
-$INDEX_TREASURE_CHAMBER_TEXT	$DRA's discovery is both a safe haven and a restocking location...if you've got the cash.
-$INDEX_SIDEQUEST_7_TITLE	The Shadow Queen
-$INDEX_SIDEQUEST_7_TEXT	The mysterious woman's identity is finally revealed.
-$INDEX_4_4_FREEDOM_DASH_TITLE	A Desperate Dash to Freedom
-$INDEX_4_4_FREEDOM_DASH_TEXT	Dashing towards the mountain pass, the party is forced to fight across a river.
-$INDEX_4_5_RIGHT_HAND_TITLE	Eztli-Tenoch's Right Hand
-$INDEX_4_5_RIGHT_HAND_TEXT	A mysterious foe attacks.
-$INDEX_4_7_FOLLOW_ZELEMIR_TITLE	Following Zelemir
-$INDEX_4_7_FOLLOW_ZELEMIR_TEXT	$MCG decides Zelemir's plan is too terrible and sets out after him.
-$INDEX_4_6_THE_WAY_OUT_TITLE	The Way Out
-$INDEX_4_6_THE_WAY_OUT_TEXT	$MCG accepts Zelemir's offer and sets out to escape from the Pit.
-$INDEX_4_8_THE_ARMY_TITLE	Zelemir's Army
-$INDEX_4_8_THE_ARMY_TEXT	After fighting through the rear guard, $MCG's army must challenge Zelemir's.
-$INDEX_4_9_ZELEMIR_TITLE	The Face of Madness
-$INDEX_4_9_ZELEMIR_TEXT	$MCG rushes to stop Zelemir from igniting the crystals and destroying the Pit entirely.
-$INDEX_12_4_FINAL_TITLE	The God-King Walks Again
-$INDEX_12_4_FINAL_TEXT	Released by $MCG's blood, Eztli-Tenoch arises.
-$INDEX_HERMIT_1_TITLE	Hermitage
-$INDEX_HERMIT_1_TEXT	An eccentric hermit from one of the nomad tribes lives here.
-$INDEX_HERMIT_2_TITLE	Hermitage
-$INDEX_HERMIT_2_TEXT	The residence of another hermit, strangely similar to the first.
-$INDEX_HERMIT_3_TITLE	Hermitage
-$INDEX_HERMIT_3_TEXT	A third hermit makes his abode deep in the fortress.
-$INDEX_HERMIT_4_TITLE	Hermitage
-$INDEX_HERMIT_4_TEXT	The last hermit makes his home in the desert.
-$INDEX_OBELISK_TITLE	Strange Monument
-$INDEX_OBELISK_TEXT	There's a strange monument in the desert
-$BLANK	
+     	name	comment	
+$BLANK		COMMENT: This file contains all the tutorial text from the game's map (level) files.	
+$1_1_WHERE_AM_I_00_TITLE	TALK_$MCG_POWER		
+$1_1_WHERE_AM_I_00_TEXT	我在哪？		
+$1_1_WHERE_AM_I_10_TITLE			
+$1_1_WHERE_AM_I_10_TEXT	這是你的角色 。$MCG.<N>她不能動。		
+$1_1_WHERE_AM_I_20_TITLE			
+$1_1_WHERE_AM_I_20_TEXT	敵人來了！<N>不要讓他們接近 $MCG!		
+$1_1_WHERE_AM_I_30_TITLE			
+$1_1_WHERE_AM_I_30_TEXT	在新遊戲+ 模式, 敵人會更強了，也有了新技能。		
+$1_1_WHERE_AM_I_40_TITLE			
+$1_1_WHERE_AM_I_40_TEXT	舉例說，所有的亡靈都可恢復體力值。		
+$1_1_WHERE_AM_I_50_TITLE	TALK_$MCG_POWER		
+$1_1_WHERE_AM_I_50_TEXT	嘿！陌生人！你在哪？		
+$1_1_WHERE_AM_I_60_TITLE			
+$1_1_WHERE_AM_I_60_TEXT	點擊這裡選擇狂戰士功能表。		
+$1_1_WHERE_AM_I_61_TITLE			
+$1_1_WHERE_AM_I_61_TEXT	點擊 <守護者> or <上> 去選擇狂戰士功能表。		
+$1_1_WHERE_AM_I_70_TITLE			
+$1_1_WHERE_AM_I_70_TEXT	現在你只有你的狂戰士。當你遇見故事中的第二位英雄時，你就可以解鎖那個職業的所有角色。		
+$1_1_WHERE_AM_I_80_TITLE	TALK_$BER_SURPRISE		
+$1_1_WHERE_AM_I_80_TEXT	你對我做了什麼？！		
+$1_1_WHERE_AM_I_90_TITLE	TALK_$MCG_POWER		
+$1_1_WHERE_AM_I_90_TEXT	我不知道！有怪物在追我！救命啊！		
+$1_1_WHERE_AM_I_100_TITLE	TALK_$BER_SURPRISE		
+$1_1_WHERE_AM_I_100_TEXT	為什麼我會變成透明呢？我的身體呢？		
+$1_1_WHERE_AM_I_110_TITLE			
+$1_1_WHERE_AM_I_110_TEXT	這裡顯示你的隊伍中所有的狂戰士。<N>現在你只有這個人了。		
+$1_1_WHERE_AM_I_120_TITLE			
+$1_1_WHERE_AM_I_120_TEXT	點選這裡去選擇他。		
+$1_1_WHERE_AM_I_121_TITLE			
+$1_1_WHERE_AM_I_121_TEXT	按 <下>, 然後 <選擇>去選擇他。		
+$1_1_WHERE_AM_I_130_TITLE			
+$1_1_WHERE_AM_I_130_TEXT	你的舊角色擁有所有來自最好一盤遊戲的力量，技能和所有裝備。		
+$1_1_WHERE_AM_I_140_TITLE	TALK_$MCG_POWER		
+$1_1_WHERE_AM_I_140_TEXT	我大喊了出來?? 我感覺到你在我的心中??		
+$1_1_WHERE_AM_I_150_TITLE	TALK_$MCG_POWER		
+$1_1_WHERE_AM_I_150_TEXT	別溜走了！我必須集中！		
+$1_1_WHERE_AM_I_160_TITLE	TALK_$MCG_POWER		
+$1_1_WHERE_AM_I_160_TEXT	如果我能集中精神-或許我可以帶你去那裡呢！		
+$1_1_WHERE_AM_I_170_TITLE	TALK_$BER_SURPRISE		
+$1_1_WHERE_AM_I_170_TEXT	呃…...可以		
+$1_1_WHERE_AM_I_180_TITLE	TALK_$BER_LOOKBACK		
+$1_1_WHERE_AM_I_180_TEXT	我不應該吃掉那碗燉蜥蜴??		
+$1_1_WHERE_AM_I_190_TITLE			
+$1_1_WHERE_AM_I_190_TEXT	點擊這裡放置你的守護者。<N><N>這是個好位置啊！		
+$1_1_WHERE_AM_I_191_TITLE			
+$1_1_WHERE_AM_I_191_TEXT	用<TILE_MOVE> 來移動, 然後 按<SELECT>去放置.<N><N>真是個好位置啊！		
+$1_1_WHERE_AM_I_200_TITLE	TALK_$BER_SMILE		
+$1_1_WHERE_AM_I_200_TEXT	嘿！<N>這就像樣了！		
+$1_1_WHERE_AM_I_210_TITLE			
+$1_1_WHERE_AM_I_210_TEXT	$MCG 用能量去召喚守護者。<N>殺敵可以補充你的能量能量。		
+$1_1_WHERE_AM_I_220_TITLE	TALK_$MCG_POWER		
+$1_1_WHERE_AM_I_220_TEXT	太好了！<N>現在就做些事吧！		
+$1_1_WHERE_AM_I_230_TITLE	TALK_$BER_SMILE		
+$1_1_WHERE_AM_I_230_TEXT	那是什麼？你說呢～<N>用充滿男性魅力的暴力來誘惑你？		
+$1_1_WHERE_AM_I_240_TITLE	TALK_$BER_DERANGED		
+$1_1_WHERE_AM_I_240_TEXT	我這樣做的話，別介意啊！		
+$1_1_WHERE_AM_I_250_TITLE			
+$1_1_WHERE_AM_I_250_TEXT	守護者不能移動<N>但會自動攻擊敵人。		
+$1_1_WHERE_AM_I_260_TITLE			
+$1_1_WHERE_AM_I_260_TEXT	遊戲現在暫停。		
+$1_1_WHERE_AM_I_270_TITLE			
+$1_1_WHERE_AM_I_270_TEXT	點擊這裡開始。		
+$1_1_WHERE_AM_I_271_TITLE			
+$1_1_WHERE_AM_I_271_TEXT	按<暫停> 來開始		
+$1_1_WHERE_AM_I_280_TITLE	TALK_$BER_DERANGED		
+$1_1_WHERE_AM_I_280_TEXT	來吧！毛也未長齊的小鬼！<N>掏膛的在等著呢！		
+$1_1_WHERE_AM_I_290_TITLE	TALK_$BER_LOOKBACK		
+$1_1_WHERE_AM_I_290_TEXT	這真棒！但我總覺得我可以幹得更好！		
+$1_1_WHERE_AM_I_300_TITLE	TALK_$BER_LOOKBACK		
+$1_1_WHERE_AM_I_300_TEXT	你確定你把我的身體全滅了嘛？沒有任何......遺漏？		
+$1_1_WHERE_AM_I_310_TITLE	TALK_$MCG_POWER		
+$1_1_WHERE_AM_I_310_TEXT	我覺得我可以把更多的能量傳給你......		
+$1_1_WHERE_AM_I_320_TITLE			
+$1_1_WHERE_AM_I_320_TEXT	這是 $BER的能量棒。它會讓你更強更快。		
+$1_1_WHERE_AM_I_330_TITLE			
+$1_1_WHERE_AM_I_330_TEXT	在補充第二階，$BER可以用第二個技能，雙打擊。		
+$1_1_WHERE_AM_I_340_TITLE			
+$1_1_WHERE_AM_I_340_TEXT	現在就點擊補充！<N>你不會後悔的！		
+$1_1_WHERE_AM_I_341_TITLE			
+$1_1_WHERE_AM_I_341_TEXT	按補充和 <選擇>!<N>你不會後悔的！		
+$1_1_WHERE_AM_I_350_TITLE	TALK_$BER_DERANGED		
+$1_1_WHERE_AM_I_350_TEXT	這就像樣了！		
+$1_2_THE_SHADOW_WORLD_00_TITLE	TALK_$MCG_POWER		
+$1_2_THE_SHADOW_WORLD_00_TEXT	$BER! 這有效啊！		
+$1_2_THE_SHADOW_WORLD_10_TITLE	TALK_$MCG_POWER		
+$1_2_THE_SHADOW_WORLD_10_TEXT	我回到一個奇怪的地方?? 這是一個中途的地方??		
+$1_2_THE_SHADOW_WORLD_20_TITLE	TALK_$BER_SURPRISE		
+$1_2_THE_SHADOW_WORLD_20_TEXT	帶我進來，我在太空中漂浮著呢！		
+$1_2_THE_SHADOW_WORLD_30_TITLE			
+$1_2_THE_SHADOW_WORLD_30_TEXT	記住，<N>點擊這裡選擇狂戰士功能表。		
+$1_2_THE_SHADOW_WORLD_31_TITLE			
+$1_2_THE_SHADOW_WORLD_31_TEXT	記住，<N>按 <守護者> 或是 <上> 去選擇狂戰士功能表。		
+$1_2_THE_SHADOW_WORLD_40_TITLE	TALK_$BER_SMILE		
+$1_2_THE_SHADOW_WORLD_40_TEXT	噢耶！一起起舞吧！		
+$1_2_THE_SHADOW_WORLD_50_TITLE			
+$1_2_THE_SHADOW_WORLD_50_TEXT	點擊$BER 來選擇他。		
+$1_2_THE_SHADOW_WORLD_51_TITLE			
+$1_2_THE_SHADOW_WORLD_51_TEXT	用<TILE_MOVE> 與 <SELECT> 來選擇 $BER.		
+$1_2_THE_SHADOW_WORLD_60_TITLE			
+$1_2_THE_SHADOW_WORLD_60_TEXT	這些按鈕都是指示$BER要攻擊那一個敵人。		
+$1_2_THE_SHADOW_WORLD_70_TITLE			
+$1_2_THE_SHADOW_WORLD_70_TEXT	記住，用這些按鈕<N>來將時間加速或是減慢。		
+$1_2_THE_SHADOW_WORLD_80_TITLE	提示		
+$1_2_THE_SHADOW_WORLD_80_TEXT	在時間暫停的時候，你們都可以操作。<N>用 <暫停> to quickly toggle pause.		
+$1_2_THE_SHADOW_WORLD_90_TITLE			
+$1_2_THE_SHADOW_WORLD_90_TEXT	別忘了補充 $BER.<N>這是重要的策略啊！		
+$1_2_THE_SHADOW_WORLD_91_TITLE			
+$1_2_THE_SHADOW_WORLD_91_TEXT	別忘了用<SELECT>去補充 $BER。<N>這是重要的策略啊！		
+$1_2_THE_SHADOW_WORLD_100_TITLE	TALK_$BER_DERANGED		
+$1_2_THE_SHADOW_WORLD_100_TEXT	噢耶！<N>感受我的力量吧！		
+$1_2_THE_SHADOW_WORLD_110_TITLE			
+$1_2_THE_SHADOW_WORLD_110_TEXT	OH NO!啊！不要！<N>$BER 不能達到下一波的敵人！		
+$1_2_THE_SHADOW_WORLD_120_TITLE			
+$1_2_THE_SHADOW_WORLD_120_TEXT	用$MCG的閃電咒去攻擊他們！		
+$1_2_THE_SHADOW_WORLD_121_TITLE			
+$1_2_THE_SHADOW_WORLD_121_TEXT	用$MCG的閃電咒去攻擊他們！<N>按 <咒語>, 然後 <選擇>.		
+$1_2_THE_SHADOW_WORLD_130_TITLE			
+$1_2_THE_SHADOW_WORLD_130_TEXT	太好了！<N>用閃電把滑過的敵人擊落吧！		
+$1_2_THE_SHADOW_WORLD_140_TITLE			
+$1_2_THE_SHADOW_WORLD_140_TEXT	但使用時要謹慎，<N>它的使用是需要能量的。		
+$1_3_COLISEUM_1_00_TITLE	TALK_$RAN_NORMAL		
+$1_3_COLISEUM_1_00_TEXT	沒有搞錯吧！ 你在幹嘛呢？		
+$1_3_COLISEUM_1_10_TITLE	TALK_$BER_SMILE		
+$1_3_COLISEUM_1_10_TEXT	感覺很奇怪，是嗎？		
+$1_3_COLISEUM_1_20_TITLE	TALK_$RAN_NORMAL		
+$1_3_COLISEUM_1_20_TEXT	我覺得??我好像得了瘟疫??		
+$1_3_COLISEUM_1_30_TITLE	TALK_$RAN_NORMAL		
+$1_3_COLISEUM_1_30_TEXT	當我覺得我快要死啦??		
+$1_3_COLISEUM_1_40_TITLE	TALK_$RAN_NORMAL		
+$1_3_COLISEUM_1_40_TEXT	我的一隻腳都要踏進去了??		
+$1_3_COLISEUM_1_50_TITLE	TALK_$BER_DERANGED		
+$1_3_COLISEUM_1_50_TEXT	哼！與其等死，倒不如殺出去！		
+$1_3_COLISEUM_1_60_TITLE	TALK_$BER_SMILE		
+$1_3_COLISEUM_1_60_TEXT	整體來看，還是比等死好！		
+$1_3_COLISEUM_1_70_TITLE	遊俠		
+$1_3_COLISEUM_1_70_TEXT	$MCG 可以在狂戰士和遊俠兩個職業之間選擇。		
+$1_3_COLISEUM_1_80_TITLE			
+$1_3_COLISEUM_1_80_TEXT	把滑鼠移動到敵人群上獲取更多訊息。		
+$1_3_COLISEUM_1_90_TITLE			
+$1_3_COLISEUM_1_90_TEXT	舉例說，這些紅色的敵人會反擊的！		
+$1_3_COLISEUM_1_100_TITLE			
+$1_3_COLISEUM_1_100_TEXT	另外，留意這個圖案。這一波的怪可會復活的。		
+$1_4_COLISEUM_2_00_TITLE			
+$1_4_COLISEUM_2_00_TEXT	如果你雇用更多的狂戰士，<N>$MCG 可以在狂戰士功能表中召喚他們至中途世界。		
+$1_4_COLISEUM_2_10_TITLE	提時		
+$1_4_COLISEUM_2_10_TEXT	$BER 依然是你最好的戰士- <N>使用他的“按兩下“來提升他的數值。		
+$2_2_UNDEAD_RANGERS_00_TITLE			
+$2_2_UNDEAD_RANGERS_00_TEXT	這些不死的遊俠有更長的攻擊距離，要小心計畫啊！		
+$2_4_MONASTERY_00_TITLE	召回中		
+$2_4_MONASTERY_00_TEXT	你可以把守護者從戰場上召回，<N>再賺一些能量，然後把他們放在其他位置。		
+$2_4_MONASTERY_10_TITLE	召回中		
+$2_4_MONASTERY_10_TEXT	這樣做的話，選擇一個守護者，點擊k <LQ>召回,<RQ> 或是按 <召回>.		
+$2_4_MONASTERY_20_TITLE	全額退款		
+$2_4_MONASTERY_20_TEXT	在第一波敵人到達之前，<N>召回他們可以退回100%的能量。		
+$3_1_TO_THE_PASS_00_TITLE	TALK_$HEA_NORMAL		
+$3_1_TO_THE_PASS_00_TEXT	那家醫院在河的對面??		
+$3_1_TO_THE_PASS_10_TITLE	TALK_$MCG_POWER		
+$3_1_TO_THE_PASS_10_TEXT	我感覺到它們??它們知道我在這裡。		
+$3_1_TO_THE_PASS_20_TITLE	TALK_$BER_SMILE		
+$3_1_TO_THE_PASS_20_TEXT	冷靜, $MCG!我們可以在河的遠處躲起來！		
+$3_1_TO_THE_PASS_30_TITLE	TALK_$BER_SMILE		
+$3_1_TO_THE_PASS_30_TEXT	我說的<LQ>躲起來<RQ> 我指的是 <LQ>殺過去<RQ> ，至於 <LQ>河的遠處<RQ> ，我指的是??		
+$3_1_TO_THE_PASS_40_TITLE	TALK_$BER_DERANGED		
+$3_1_TO_THE_PASS_40_TEXT	<LQ>任何會動的東西！！！<RQ>		
+$3_1_TO_THE_PASS_50_TITLE	TALK_$MCG_POWER		
+$3_1_TO_THE_PASS_50_TEXT	等等??只有我嗎？還是真的是有東西在游泳？		
+$3_1_TO_THE_PASS_60_TITLE	TALK_$BER_SMILE		
+$3_1_TO_THE_PASS_60_TEXT	更像狗在過河，你遊得太醜啦！		
+$3_1_TO_THE_PASS_70_TITLE	TALK_$BER_DERANGED		
+$3_1_TO_THE_PASS_70_TEXT	你聽到嘛？我說你是狗！		
+$3_1_TO_THE_PASS_80_TITLE	TALK_$RAN_NORMAL		
+$3_1_TO_THE_PASS_80_TEXT	你知道什麼叫狗嘴長不出象牙嗎？		
+$3_1_TO_THE_PASS_90_TITLE	TALK_$BER_SMILE		
+$3_1_TO_THE_PASS_90_TEXT	這可是我最厲害的武器！		
+$3_2_HOSPITAL_ATTACK_00_TITLE			
+$3_2_HOSPITAL_ATTACK_00_TEXT	冰霜法師可以減慢敵人的速度，這對短距離和敏捷的敵人非常有效。		
+$3_2_HOSPITAL_ATTACK_10_TITLE	TALK_$MAG_FRIENDLY		
+$3_2_HOSPITAL_ATTACK_10_TEXT	現在我的內心唱起了戰曲。		
+$3_2_HOSPITAL_ATTACK_20_TITLE	TALK_$MAG_FROWN		
+$3_2_HOSPITAL_ATTACK_20_TEXT	我們看看為火服務的冰??		
+$3_2_HOSPITAL_ATTACK_30_TITLE	TALK_$MAG_PISSED		
+$3_2_HOSPITAL_ATTACK_30_TEXT	讓我們的敵人淹死在它們自己的血中吧。		
+$3_4_ARMORED_CREEPS_00_TITLE			
+$3_4_ARMORED_CREEPS_00_TEXT	這些亡靈的盔甲可以它們擋住不少傷害。		
+$3_4_ARMORED_CREEPS_10_TITLE	TALK_$BER_DERANGED		
+$3_4_ARMORED_CREEPS_10_TEXT	嘿侏儒！真正的男人可以赤膊上陣啊！		
+$3_4_ARMORED_CREEPS_20_TITLE	TALK_$RAN_NORMAL		
+$3_4_ARMORED_CREEPS_20_TEXT	哎，如果它們想一起上，讓它們來吧！		
+$3_4_ARMORED_CREEPS_30_TITLE	TALK_$RAN_NORMAL		
+$3_4_ARMORED_CREEPS_30_TEXT	越少的僵屍化??越少的亂七八糟讓我看就越好。		
+$3_4_ARMORED_CREEPS_40_TITLE	TALK_$BER_SURPRISE		
+$3_4_ARMORED_CREEPS_40_TEXT	我知道我是十項全能，但我要如何來對付這些被盔甲保護的敵人呢？		
+$3_4_ARMORED_CREEPS_50_TITLE	TALK_$HEA_NORMAL		
+$3_4_ARMORED_CREEPS_50_TEXT	我有個好主意！		
+$3_4_ARMORED_CREEPS_60_TITLE	TALK_$HEA_NORMAL		
+$3_4_ARMORED_CREEPS_60_TEXT	$MCG, 當敵人經過那些晶石石，攻擊其中一顆吧！		
+$3_5_MEET_THE_KNIGHT_00_TITLE			
+$3_5_MEET_THE_KNIGHT_00_TEXT	這騎士有打破盔甲的技能，每攻擊一下就會減弱盔甲的防護。		
+$3_5_MEET_THE_KNIGHT_10_TITLE	TALK_$KNI_NORMAL		
+$3_5_MEET_THE_KNIGHT_10_TEXT	我可以打碎這些怪物的盔甲！		
+$3_5_MEET_THE_KNIGHT_20_TITLE	TALK_$KNI_SQUINT		
+$3_5_MEET_THE_KNIGHT_20_TEXT	...... 如果......我有一個身體......		
+$3_5_MEET_THE_KNIGHT_30_TITLE	TALK_$KNI_SQUINT		
+$3_5_MEET_THE_KNIGHT_30_TEXT	發生什麼事？		
+$3_6_INTO_THE_CITY_00_TITLE	TALK_$MCG_POWER		
+$3_6_INTO_THE_CITY_00_TEXT	$BER, 你在搞什麼啊?!		
+$3_6_INTO_THE_CITY_10_TITLE	TALK_$BER_DERANGED		
+$3_6_INTO_THE_CITY_10_TEXT	這是真男人的戰爭！		
+$3_6_INTO_THE_CITY_20_TITLE	TALK_$MCG_POWER		
+$3_6_INTO_THE_CITY_20_TEXT	現在給我穿上褲子！		
+$3_6_INTO_THE_CITY_30_TITLE	TALK_$BER_DERANGED		
+$3_6_INTO_THE_CITY_30_TEXT	永不！		
+$3_6_INTO_THE_CITY_40_TITLE	TALK_$MCG_POWER		
+$3_6_INTO_THE_CITY_40_TEXT	現在就做！否則我不會拉你入隊。		
+$3_6_INTO_THE_CITY_50_TITLE	TALK_$BER_SMILE		
+$3_6_INTO_THE_CITY_50_TEXT	......好吧		
+$3_11_CITADEL_BOSS_00_TITLE	TALK_$BER_SMILE		
+$3_11_CITADEL_BOSS_00_TEXT	我看不見的敵人我該如何打呢？！		
+$3_11_CITADEL_BOSS_10_TITLE	TALK_$HEA_NORMAL		
+$3_11_CITADEL_BOSS_10_TEXT	它們看起來會製造包圍自己的毒雲。		
+$3_11_CITADEL_BOSS_20_TITLE	TALK_$MCG_POWER		
+$3_11_CITADEL_BOSS_20_TEXT	我們該如何擺脫它們呢？		
+$3_11_CITADEL_BOSS_30_TITLE	TALK_$HEA_NORMAL		
+$3_11_CITADEL_BOSS_30_TEXT	我想我可以消除這種黑暗......不過只有一小會兒。		
+$3_11_CITADEL_BOSS_40_TITLE	TALK_$BER_DERANGED		
+$3_11_CITADEL_BOSS_40_TEXT	這就是我需要的。		
+$3_13_DESTROY_CITY_00_TITLE	TALK_ZELEMIR_POWER		
+$3_13_DESTROY_CITY_00_TEXT	夠了！		
+$3_13_DESTROY_CITY_10_TITLE	TALK_ZELEMIR_POWER		
+$3_13_DESTROY_CITY_10_TEXT	就在這裡終止吧。		
+$3_13_DESTROY_CITY_20_TITLE	TALK_ZELEMIR_POWER		
+$3_13_DESTROY_CITY_20_TEXT	你覺得這些小傷口就可以打倒我？		
+$3_13_DESTROY_CITY_30_TITLE	TALK_$HEA_NORMAL		
+$3_13_DESTROY_CITY_30_TEXT	不，但這座倒塌的城會！		
+$3_13_DESTROY_CITY_40_TITLE	TALK_$HEA_NORMAL		
+$3_13_DESTROY_CITY_40_TEXT	這些礦物會與你的瘋狂一起被埋葬。		
+$3_13_DESTROY_CITY_50_TITLE	TALK_ZELEMIR_POWER		
+$3_13_DESTROY_CITY_50_TEXT	兄弟......我所做的一切...... 你該明白......		
+$3_13_DESTROY_CITY_60_TITLE	TALK_$HEA_NORMAL		
+$3_13_DESTROY_CITY_60_TEXT	我知道你已經死了。		
+$3_13_DESTROY_CITY_70_TITLE	TALK_$BER_DERANGED		
+$3_13_DESTROY_CITY_70_TEXT	是啊！死亡可不是什麼好滋味啊！你這個穿長袍的臭小子！		
+$4_1_EZTLIS_FORCES_00_TITLE			
+$4_1_EZTLIS_FORCES_00_TEXT	這些古怪的邪教徒會變成令人畏懼的強大亡靈。移動緩慢但足以致命，只有眾多的守護者聯合起來才可以打敗它們。		
+$4_2_WIZARDS_REALM_00_TITLE	TALK_$RAN_SQUINT		
+$4_2_WIZARDS_REALM_00_TEXT	這東西到底是什麼玩意兒啊！		
+$4_2_WIZARDS_REALM_10_TITLE	TALK_$RAN_SQUINT		
+$4_2_WIZARDS_REALM_10_TEXT	它看起來快要爆開！		
+$4_2_WIZARDS_REALM_20_TITLE	TALK_$BER_SMILE		
+$4_2_WIZARDS_REALM_20_TEXT	是啊，看起來就像我那次大吃變壞了的燉牛肉一樣??		
+$4_2_WIZARDS_REALM_30_TITLE	TALK_$BER_LOOKBACK		
+$4_2_WIZARDS_REALM_30_TEXT	除了這些吐出來的是那些亡靈小怪吧?? 而不是??		
+$4_2_WIZARDS_REALM_40_TITLE	TALK_$RAN_SERIOUSLY		
+$4_2_WIZARDS_REALM_40_TEXT	好啦好啦??我們都知道啦。		
+$4_5_RIGHT_HAND_00_TITLE	TALK_CULTIST_PRIEST		
+$4_5_RIGHT_HAND_00_TEXT	死亡降臨！		
+$4_5_RIGHT_HAND_10_TITLE	TALK_$BER_SURPRISE		
+$4_5_RIGHT_HAND_10_TEXT	那......是......一隻大...... 手嗎？		
+$4_5_RIGHT_HAND_20_TITLE	TALK_$BER_LOOKBACK		
+$4_5_RIGHT_HAND_20_TEXT	那裡是否有些大得不尋常的身體部分從地下爬出來嗎？		
+$4_5_RIGHT_HAND_30_TITLE	TALK_CULTIST_PRIEST		
+$4_5_RIGHT_HAND_30_TEXT	死吧！		
+$4_5_RIGHT_HAND_40_TITLE	TALK_$BER_SURPRISE		
+$4_5_RIGHT_HAND_40_TEXT	韋飛! 你回來啦?!!		
+$4_5_RIGHT_HAND_50_TITLE	TALK_$BER_DERANGED		
+$4_5_RIGHT_HAND_50_TEXT	過來這裡讓我殺你！		
+$4_5_RIGHT_HAND_60_TITLE	TALK_CULTIST_PRIEST		
+$4_5_RIGHT_HAND_60_TEXT	這些愚蠢的人竟然相信戰爭完結了??		
+$4_5_RIGHT_HAND_70_TITLE	TALK_CULTIST_PRIEST		
+$4_5_RIGHT_HAND_70_TEXT	但這些爛肉一般的生物和墮落的靈魂不是他們生前所相信的吧。		
+$4_5_RIGHT_HAND_80_TITLE	TALK_CULTIST_PRIEST		
+$4_5_RIGHT_HAND_80_TEXT	充滿了主人的熱情......我是艾斯理-特諾奇的右手......		
+$4_5_RIGHT_HAND_90_TITLE	TALK_CULTIST_PRIEST		
+$4_5_RIGHT_HAND_90_TEXT	我就是死亡。		
+$4_5_RIGHT_HAND_91_TITLE	TALKSYMBOLS_CULTIST_PRIEST		
+$4_5_RIGHT_HAND_91_TEXT	讓我成為你的孩子。		
+$4_5_RIGHT_HAND_100_TITLE	TALK_ZELEMIR_POWER		
+$4_5_RIGHT_HAND_100_TEXT	夠了吧。		
+$4_5_RIGHT_HAND_110_TITLE	TALK_$MCG_POWER		
+$4_5_RIGHT_HAND_110_TEXT	舍理米爾?! 你在這裡幹嘛?		
+$4_5_RIGHT_HAND_120_TITLE	TALK_ZELEMIR_POWER		
+$4_5_RIGHT_HAND_120_TEXT	在救你啊！		
+$12_4_FINAL_00_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_00_TEXT	舍理米爾?		
+$12_4_FINAL_10_TITLE	TALK_ZELEMIR_WOUNDED		
+$12_4_FINAL_10_TEXT	要我看著一直對抗的怪物逃走，我無法坐視不理！		
+$12_4_FINAL_20_TITLE	TALK_$MAG_PISSED		
+$12_4_FINAL_20_TEXT	你這個兇手！你以為我們會......		
+$12_4_FINAL_30_TITLE	TALK_ZELEMIR_WOUNDED		
+$12_4_FINAL_30_TEXT	這不是時候！非它死就死我們亡！		
+$12_4_FINAL_40_TITLE	TALK_ZELEMIR_WOUNDED		
+$12_4_FINAL_40_TEXT	之後，你就可以盡情報復了。		
+$12_4_FINAL_50_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_50_TEXT	沒用的！他們魔法會保護他！		
+$12_4_FINAL_60_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_60_TEXT	那我們可以怎樣做？		
+$12_4_FINAL_70_TITLE	TALK_NOMAD_MALE_1		
+$12_4_FINAL_70_TEXT	女士，我們還陪著你呢??		
+$12_4_FINAL_80_TITLE	TALK_ASH_FEMALE_1		
+$12_4_FINAL_80_TEXT	直到今天，你一直都將你的力量借給我們。		
+$12_4_FINAL_90_TITLE	TALK_QUAID_MALE_1		
+$12_4_FINAL_90_TEXT	現在我就把我們的借給你吧！		
+$12_4_FINAL_100_TITLE			
+$12_4_FINAL_100_TEXT	第一次，<N>$MCG 的力量可以提高！		
+$12_4_FINAL_110_TITLE			
+$12_4_FINAL_110_TEXT	用這力量來打敗艾斯理-特諾奇！		
+$12_4_FINAL_120_TITLE	TALK_NOMAD_FEMALE_1		
+$12_4_FINAL_120_TEXT	女士，讓我們幫你吧??		
+$12_4_FINAL_130_TITLE	TALK_NOMAD_FEMALE_2		
+$12_4_FINAL_130_TEXT	女士，我們會為你祈禱??		
+$12_4_FINAL_140_TITLE	TALK_QUAID_MALE_2		
+$12_4_FINAL_140_TEXT	這是我們所有的力量??		
+$12_4_FINAL_150_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_150_TEXT	合而為一吧！		
+$12_4_FINAL_160_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_160_TEXT	我難道還要對牛彈琴嗎？		
+$12_4_FINAL_170_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_170_TEXT	那些愚笨的人祈求我成為他們的神，現在又用空洞的威脅，又跺腳又對天揮拳，毫無意義。		
+$12_4_FINAL_171_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_171_TEXT	我一直都希望??		
+$12_4_FINAL_172_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_172_TEXT	不！		
+$12_4_FINAL_180_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_180_TEXT	在哪個世界你可以面對我呢？		
+$12_4_FINAL_190_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_190_TEXT	我是艾斯理-特諾奇！		
+$12_4_FINAL_200_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_200_TEXT	你是一個偉大的存在，福澤萬人。		
+$12_4_FINAL_210_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_210_TEXT	但眾人都聚合在我之內。		
+$12_4_FINAL_220_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_220_TEXT	我就是他們的代表。		
+$12_4_FINAL_230_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_230_TEXT	我們會一起打敗你。		
+$12_4_FINAL_240_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_240_TEXT	愚蠢！		
+$12_4_FINAL_250_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_250_TEXT	這可是我的空間。		
+$12_4_FINAL_260_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_260_TEXT	你也許可以戰抖著步入中途世界吧??		
+$12_4_FINAL_270_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_270_TEXT	??但只有我可以走靈魂之道。		
+$12_4_FINAL_280_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_280_TEXT	發生什麼事了？		
+$12_4_FINAL_290_TITLE	TALK_$HEA_NORMAL		
+$12_4_FINAL_290_TEXT	他直接走進??另外一頭??		
+$12_4_FINAL_300_TITLE	TALK_$HEA_NORMAL		
+$12_4_FINAL_300_TEXT	我不能從中途世界中找到他。		
+$12_4_FINAL_310_TITLE	TALK_ZELEMIR_WOUNDED		
+$12_4_FINAL_310_TEXT	那邊好像有條路啊......		
+$12_4_FINAL_320_TITLE	TALK_ZELEMIR_WOUNDED		
+$12_4_FINAL_320_TEXT	$MCG, 你就像我一樣......你可以把其他人帶入中途世界......		
+$12_4_FINAL_330_TITLE	TALK_ZELEMIR_WOUNDED		
+$12_4_FINAL_330_TEXT	但這裡的所有人......都將他們的力量借給我們了......		
+$12_4_FINAL_340_TITLE	TALK_ZELEMIR_WOUNDED		
+$12_4_FINAL_340_TEXT	我能感受到......		
+$12_4_FINAL_350_TITLE	TALK_ZELEMIR_WOUNDED		
+$12_4_FINAL_350_TEXT	集中我們所有的力量，那我就可以完全進入另外一個世界......		
+$12_4_FINAL_360_TITLE	TALK_ZELEMIR_WOUNDED		
+$12_4_FINAL_360_TEXT	那裡我就可以消滅那卑鄙的巫師！		
+$12_4_FINAL_370_TITLE	TALK_$HEA_NORMAL		
+$12_4_FINAL_370_TEXT	兄弟，你可不能單幹啊！		
+$12_4_FINAL_380_TITLE	TALK_$HEA_NORMAL		
+$12_4_FINAL_380_TEXT	帶上我吧！		
+$12_4_FINAL_390_TITLE	TALK_ZELEMIR_WOUNDED		
+$12_4_FINAL_390_TEXT	不，這是我的錯！		
+$12_4_FINAL_400_TITLE	TALK_ZELEMIR_WOUNDED		
+$12_4_FINAL_400_TEXT	我會獨自承擔！		
+$12_4_FINAL_410_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_410_TEXT	別說傻話了！你以為一隻狗可以-		
+$12_4_FINAL_420_TITLE	TALK_ZELEMIR_WOUNDED		
+$12_4_FINAL_420_TEXT	$MCG! 就是現在！集中!		
+$12_4_FINAL_430_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_430_TEXT	??		
+$12_4_FINAL_440_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_440_TEXT	走吧，舍理米爾。		
+$12_4_FINAL_450_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_450_TEXT	了結他。		
+$12_4_FINAL_460_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_460_TEXT	難道我真的要學狗說話？		
+$12_4_FINAL_470_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_470_TEXT	那些愚笨的人祈求我成為他們的神，現在又用空洞的威脅，又跺腳又對天揮拳，毫無意義。		
+$12_4_FINAL_471_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_471_TEXT	我曾希望??		
+$12_4_FINAL_472_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_472_TEXT	不！		
+$12_4_FINAL_480_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_480_TEXT	在哪個世界可讓你面對我呢？		
+$12_4_FINAL_490_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_490_TEXT	我是艾斯理-特諾奇！		
+$12_4_FINAL_500_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_500_TEXT	你是一個偉大的存在，福澤萬人。		
+$12_4_FINAL_510_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_510_TEXT	但眾人都聚合在我之內。		
+$12_4_FINAL_520_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_520_TEXT	我就是他們的代表。		
+$12_4_FINAL_530_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_530_TEXT	我們會一起打敗你。		
+$12_4_FINAL_540_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_540_TEXT	愚蠢！		
+$12_4_FINAL_550_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_550_TEXT	這可是我的空間。		
+$12_4_FINAL_560_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_560_TEXT	你也許可以戰抖著步入中途世界吧??		
+$12_4_FINAL_570_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_570_TEXT	??但只有我可以走靈魂之道。		
+$12_4_FINAL_580_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_580_TEXT	發生什麼事了？		
+$12_4_FINAL_590_TITLE	TALK_$HEA_NORMAL		
+$12_4_FINAL_590_TEXT	他直接走進??另外一頭??		
+$12_4_FINAL_600_TITLE	TALK_$HEA_NORMAL		
+$12_4_FINAL_600_TEXT	我不能從中途世界中找到他。		
+$12_4_FINAL_610_TITLE	TALK_ZELEMIR_POWER		
+$12_4_FINAL_610_TEXT	那邊好像有條路啊......		
+$12_4_FINAL_620_TITLE	TALK_ZELEMIR_POWER		
+$12_4_FINAL_620_TEXT	$MCG, 我快要死了......與我所有的力量一起埋葬......		
+$12_4_FINAL_630_TITLE	TALK_ZELEMIR_POWER		
+$12_4_FINAL_630_TEXT	你就像我......你可以召喚其他人進入這個中途世界......		
+$12_4_FINAL_640_TITLE	TALK_ZELEMIR_POWER		
+$12_4_FINAL_640_TEXT	但這裡的所有人......都將他們的力量借給我們了......		
+$12_4_FINAL_650_TITLE	TALK_ZELEMIR_POWER		......
+$12_4_FINAL_650_TEXT	我可以感受到??我們??一起上吧！		
+$12_4_FINAL_660_TITLE	TALK_ZELEMIR_POWER		
+$12_4_FINAL_660_TEXT	集中我們所有的力量，那我就可以完全進入另外一個世界......		
+$12_4_FINAL_670_TITLE	TALK_ZELEMIR_POWER		
+$12_4_FINAL_670_TEXT	以我強大的力量??足以打敗那個巫師！		
+$12_4_FINAL_680_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_680_TEXT	一個人，一個頻死之人，竟妄想與神對抗？		
+$12_4_FINAL_690_TITLE	TALK_$HEA_NORMAL		
+$12_4_FINAL_690_TEXT	兄弟，你可不能單幹啊！		
+$12_4_FINAL_700_TITLE	TALK_$HEA_NORMAL		
+$12_4_FINAL_700_TEXT	既然是我們開頭的，我們就把他了結吧！		
+$12_4_FINAL_710_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_710_TEXT	長老？		
+$12_4_FINAL_720_TITLE	TALK_ZELEMIR_POWER		
+$12_4_FINAL_720_TEXT	太好了??朋友??歡迎回來！		
+$12_4_FINAL_730_TITLE	TALK_$HEA_NORMAL		
+$12_4_FINAL_730_TEXT	彼此彼此		
+$12_4_FINAL_740_TITLE	TALK_ZELEMIR_POWER		
+$12_4_FINAL_740_TEXT	$MCG! 就是現在！集中!		
+$12_4_FINAL_750_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_750_TEXT	......		
+$12_4_FINAL_760_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_760_TEXT	走吧，了結他。		
+$12_4_FINAL_770_TITLE	TALK_ZELEMIR_POWER		
+$12_4_FINAL_770_TEXT	我......承受不了啦......		
+$12_4_FINAL_780_TITLE	TALK_ZELEMIR_POWER		
+$12_4_FINAL_780_TEXT	我的傷......		
+$12_4_FINAL_790_TITLE	TALK_ZELEMIR_POWER		
+$12_4_FINAL_790_TEXT	$MCG, 你一定不能讓他得逞啊......		
+$12_4_FINAL_800_TITLE	TALK_ZELEMIR_POWER		
+$12_4_FINAL_800_TEXT	......		
+$12_4_FINAL_810_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_810_TEXT	舍理米爾！		
+$12_4_FINAL_820_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_820_TEXT	他逃了......		
+$12_4_FINAL_830_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_830_TEXT	難道我真的要學狗說話？		
+$12_4_FINAL_840_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_840_TEXT	那些愚笨的人祈求我成為他們的神，現在又用空洞的威脅，又跺腳又對天揮拳，毫無意義。		
+$12_4_FINAL_841_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_841_TEXT	我曾希望??		
+$12_4_FINAL_842_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_842_TEXT	不！		
+$12_4_FINAL_850_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_850_TEXT	在哪個世界可讓你面對我呢？		
+$12_4_FINAL_860_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_860_TEXT	我是艾斯理-特諾奇！		
+$12_4_FINAL_870_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_870_TEXT	你是一個偉大的存在，福澤萬人。		
+$12_4_FINAL_880_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_880_TEXT	但眾人都聚合在我之內。		
+$12_4_FINAL_890_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_890_TEXT	我就是他們的代表。		
+$12_4_FINAL_900_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_900_TEXT	我們會一起打敗你。		
+$12_4_FINAL_910_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_910_TEXT	愚蠢！		
+$12_4_FINAL_920_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_920_TEXT	這可是我的空間。		
+$12_4_FINAL_930_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_930_TEXT	你也許可以戰抖著步入中途世界吧??		
+$12_4_FINAL_940_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$12_4_FINAL_940_TEXT	??但只有我可以走靈魂之道。		
+$12_4_FINAL_950_TITLE	TALK_$MCG_POWER		
+$12_4_FINAL_950_TEXT	發生什麼事了？		
+$12_4_FINAL_960_TITLE	TALK_$HEA_NORMAL		
+$12_4_FINAL_960_TEXT	他直接走進??另外一頭??		
+$12_4_FINAL_970_TITLE	TALK_$HEA_NORMAL		
+$12_4_FINAL_970_TEXT	我不能從中途世界中找到他。		
+$12_4_FINAL_980_TITLE	TALK_$HEA_NORMAL		
+$12_4_FINAL_980_TEXT	??		
+$SIDEQUEST_7_00_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$SIDEQUEST_7_00_TEXT	我的泰陶-米斯裡，你變成了什麼？		
+$SIDEQUEST_7_10_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$SIDEQUEST_7_10_TEXT	我們一起衝破這_髒的浪潮吧。		
+$SIDEQUEST_7_20_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$SIDEQUEST_7_20_TEXT	我們絕不會被這些可憐蟲打敗的！		
+$SIDEQUEST_7_30_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$SIDEQUEST_7_30_TEXT	我們把最低等的人提升至高位，賦予他們榮耀！		
+$SIDEQUEST_7_40_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$SIDEQUEST_7_40_TEXT	你是不是在人類的世界沉淪已久，忘記自己是一個神了？		
+$SIDEQUEST_7_50_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$SIDEQUEST_7_50_TEXT	我們肩負著神聖的任務！		
+$SIDEQUEST_7_60_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$SIDEQUEST_7_60_TEXT	我們怎能讓這些亂七八糟的東西破壞我們的使命呢？		
+$SIDEQUEST_7_70_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$SIDEQUEST_7_70_TEXT	我們的目光追隨著靈魂的秘密，你是否願意跟隨我們呢？		
+$SIDEQUEST_7_80_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$SIDEQUEST_7_80_TEXT	我可不願跟隨你步上自取滅亡之路。		
+$SIDEQUEST_7_90_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$SIDEQUEST_7_90_TEXT	我是否要將你像一坨爛肉地丟在一旁呢？你真的有價值嗎？		
+$SIDEQUEST_7_100_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$SIDEQUEST_7_100_TEXT	命運已經註定了我們的路！我們必須前進！		
+$SIDEQUEST_7_110_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$SIDEQUEST_7_110_TEXT	你怎可以待我如此殘忍呢？怎能逼我毀滅我所鍾愛的一切呢？		
+$SIDEQUEST_7_111_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$SIDEQUEST_7_111_TEXT	你怎能把我們兩人也滅了呢？		
+$SIDEQUEST_7_120_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$SIDEQUEST_7_120_TEXT	你可以把我們全放棄？可以將我們一切建立的全毀掉？		
+$SIDEQUEST_7_130_TITLE	TALK_EZTLI-TENOCH_NORMAL		
+$SIDEQUEST_7_130_TEXT	??所以我必須進行最後一次清洗??全部也要清洗??		
+$INDEX_SLAK_DIE_00_TITLE	TALK_$BER_SMILE		
+$INDEX_SLAK_DIE_00_TEXT	$MCG! 你失去了我的軀體！		
+$INDEX_SLAK_DIE_10_TITLE	TALK_$MCG_POWER		
+$INDEX_SLAK_DIE_10_TEXT	對不起啊！你受這麼重的傷，我也很難集中！		
+$INDEX_SLAK_DIE_20_TITLE	TALK_$BER_SMILE		
+$INDEX_SLAK_DIE_20_TEXT	快點把我拉回來！我快支援不住了！		
+$INDEX_BER_DIE_30_TITLE	TALK_$BER_SURPRISE		
+$INDEX_BER_DIE_30_TEXT	嘿 $MCG! 我的一個兄弟倒下了！拉他回來！我們還要撕殺呢！		
+$INDEX_KETTA_DIE_40_TITLE	TALK_$RAN_NORMAL		
+$INDEX_KETTA_DIE_40_TEXT	嘿！我要倒了！		
+$INDEX_KETTA_DIE_50_TITLE	TALK_$MCG_POWER		
+$INDEX_KETTA_DIE_50_TEXT	撐住！我們很快會救你！		
+$INDEX_KETTA_DIE_60_TITLE	TALK_$RAN_NORMAL		
+$INDEX_KETTA_DIE_60_TEXT	快點！感覺很奇怪！		
+$INDEX_RAN_DIE_70_TITLE	TALK_$RAN_NORMAL		
+$INDEX_RAN_DIE_70_TEXT	嘿！我們的兄弟快倒下了！快點救他們！		
+$INDEX_BOOST_SLAK_80_TITLE	TALK_$BER_DERANGED		
+$INDEX_BOOST_SLAK_80_TEXT	哈哈哈！我是迷人的暴力之神！		
+$INDEX_BOOST_SLAK_90_TITLE	TALK_$BER_DERANGED		
+$INDEX_BOOST_SLAK_90_TEXT	快看看我性感的腹肌！是不是令人叫絕呢！		
+$INDEX_FIRST_LEVEL_100_TITLE			
+$INDEX_FIRST_LEVEL_100_TEXT	點擊這裡開始		
+$INDEX_SECOND_LEVEL_110_TITLE			
+$INDEX_SECOND_LEVEL_110_TEXT	點擊這裡前進		
+$INDEX_SECOND_LEVEL_111_TITLE			
+$INDEX_SECOND_LEVEL_111_TEXT	按<MOVE_MAP_DOWN> 前進。		
+$INDEX_LVL_DUDE_120_TITLE	新手引導		
+$INDEX_LVL_DUDE_120_TEXT	恭喜！一個守護者升級了！		
+$INDEX_LVL_DUDE_130_TITLE	新手引導		
+$INDEX_LVL_DUDE_130_TEXT	點擊一個守護者去升級他們的技能。		
+$INDEX_LVL_DUDE_131_TITLE	新手引導		
+$INDEX_LVL_DUDE_131_TEXT	按<MENU_MENU>去切換角色。		
+$INDEX_CLICK_DUDE_140_TITLE	新手引導		
+$INDEX_CLICK_DUDE_140_TEXT	這是守護者的技能樹。		
+$INDEX_CLICK_DUDE_150_TITLE	技術		
+$INDEX_CLICK_DUDE_150_TEXT	這個圓形的技能就是技術<N>，在戰爭中經常使用。		
+$INDEX_CLICK_DUDE_160_TITLE	特徵		
+$INDEX_CLICK_DUDE_160_TEXT	這個方形的技能是被動特徵，<N>是常用的能力。		
+$INDEX_SKILL_DUDE_170_TITLE	新手引導		
+$INDEX_SKILL_DUDE_170_TEXT	把滑鼠移到技能上，就可以知道升級的效果。		
+$INDEX_SKILL_DUDE_180_TITLE	新手引導		
+$INDEX_SKILL_DUDE_180_TEXT	點選技能去增加1點。		
+$INDEX_CLICK_DUDE1_190_TITLE	新手引導		
+$INDEX_CLICK_DUDE1_190_TEXT	按<MENU_SELECT> 去檢查這個角色。		
+$INDEX_SKILL_DUDE1_200_TITLE	新手引導		
+$INDEX_SKILL_DUDE1_200_TEXT	按<MENU_SELECT> 去檢查這個角色的技能樹。		
+$INDEX_ORB_DUDE1_210_TITLE	新手引導		
+$INDEX_ORB_DUDE1_210_TEXT	<RE>$INDEX_CLICK_DUDE_140_TEXT		
+$INDEX_ORB_DUDE1_220_TITLE	新手引導		
+$INDEX_ORB_DUDE1_220_TEXT	<RE>$INDEX_CLICK_DUDE_150_TEXT		
+$INDEX_ORB_DUDE1_230_TITLE	新手引導		
+$INDEX_ORB_DUDE1_230_TEXT	<RE>$INDEX_CLICK_DUDE_160_TEXT		
+$INDEX_ORB_DUDE1_240_TITLE	新手引導		
+$INDEX_ORB_DUDE1_240_TEXT	這個版面會顯示升級技能後的情況。		
+$INDEX_ORB_DUDE1_250_TITLE	新手引導		
+$INDEX_ORB_DUDE1_250_TEXT	<RE>$INDEX_D1_290_TEXT		
+$INDEX_A_190_TITLE	新手引導		
+$INDEX_A_190_TEXT	恭喜！$MCG 提升了一個等級!		
+$INDEX_A_200_TITLE	新手引導		
+$INDEX_A_200_TEXT	點擊$MCG去升級他的咒語。		
+$INDEX_A_201_TITLE	新手引導		
+$INDEX_A_201_TEXT	按<MENU_MENU>去切換你的角色。		
+$INDEX_B_210_TITLE	新手引導		
+$INDEX_B_210_TEXT	這是 $MCG的技能樹。<N>$MCG的技能全是咒語。		
+$INDEX_B_220_TITLE	新手引導		
+$INDEX_B_220_TEXT	$MCG可以使用一個技能點。<N>移動滑鼠去查看電擊咒語。		
+$INDEX_C_230_TITLE	新手引導		
+$INDEX_C_230_TEXT	把滑鼠移到技能上，就可以知道升級的效果。		
+$INDEX_C_240_TITLE	新手引導		
+$INDEX_C_240_TEXT	點擊魔球去為這個技能增加1點。		
+$INDEX_B1_250_TITLE	新手引導		
+$INDEX_B1_250_TEXT	按<MENU_SELECT> 去查看 $MCG.		
+$INDEX_C1_260_TITLE	新手引導		
+$INDEX_C1_260_TEXT	按<MENU_SELECT>去檢查$MCG的技能樹。		
+$INDEX_D1_270_TITLE	新手引導		
+$INDEX_D1_270_TEXT	<RE>$INDEX_B_210_TEXT		
+$INDEX_D1_280_TITLE	新手引導		
+$INDEX_D1_280_TEXT	$MCG 可以使用1個技能點。<N>這可以顯示技能升級後的效果。		
+$INDEX_D1_290_TITLE	新手引導		
+$INDEX_D1_290_TEXT	按<MENU_SELECT>去為這個技能增加1點。		
+$INDEX_BUY_STUFF_250_TITLE			
+$INDEX_BUY_STUFF_250_TEXT	你可以在城內購買裝備和雇用新的守護者。		
+$INDEX_BUY_STUFF_260_TITLE			
+$INDEX_BUY_STUFF_260_TEXT	你現在應該雇用狂戰士與購買武器。<N><N>(提示：購買會越來越貴。)		
+$INDEX_HOW_TO_BUY_270_TITLE	購買武器		
+$INDEX_HOW_TO_BUY_270_TEXT	這裡有武器出售。<N>點一個武器種類，讓“購買”按鈕出現。		
+$INDEX_DIFF_TOWN_280_TITLE	城鎮:		
+$INDEX_DIFF_TOWN_280_TEXT	不同城鎮有不同的東西出售。		
+$INDEX_DIFF_TOWN_290_TITLE	城鎮:		
+$INDEX_DIFF_TOWN_290_TEXT	舉例來說，你可以在這個城鎮雇用遊俠和購買盔甲。		
+$INDEX_DIFF_TOWN_300_TITLE	城鎮:		
+$INDEX_DIFF_TOWN_300_TEXT	記住，越大的軍隊就越貴。每次雇用都會比上一次更貴。		
+$INDEX_1_1_WHERE_AM_I_TITLE	中途世界		
+$INDEX_1_1_WHERE_AM_I_TEXT	孤單又迷失， $MCG發現自己徘徊在生與死之間。		
+$INDEX_1_2_THE_SHADOW_WORLD_TITLE	亡者的馬車		
+$INDEX_1_2_THE_SHADOW_WORLD_TEXT	$MCG 遇到了裝滿貨物的商人大篷車。		
+$INDEX_1_3_COLISEUM_1_TITLE	競技場		
+$INDEX_1_3_COLISEUM_1_TEXT	我們的英雄在奧斯蒙的競技場中，被逼與亡靈作戰。		
+$INDEX_JAIL_TITLE	奧斯蒙德監獄		
+$INDEX_JAIL_TEXT	奧斯蒙德監獄是奴隸與角鬥士聚集之地。無恥的人渣與無辜的旁觀者都恨不得逃出生天。		
+$INDEX_JAIL_DESTROY_TEXT	這監獄是空的-有人在牆上炸開了一個洞，所有的囚犯都逃走了。		
+$INDEX_1_4_COLISEUM_2_TITLE	返回競技場		
+$INDEX_1_4_COLISEUM_2_TEXT	奧斯蒙為了一個奇怪的客人，展示了$MCG的能力??		
+$INDEX_1_5_RIVER_ESCAPE_TITLE	逃犯河域		
+$INDEX_1_5_RIVER_ESCAPE_TEXT	一群由競技場大膽逃亡的烏合之眾，佔領了這個河域。		
+$INDEX_SHANTY_TITLE	棚戶區		
+$INDEX_SHANTY_TEXT	一_破_的棚__ - 看起_像逃犯的避_所。		
+$INDEX_SIDEQUEST_1_TITLE	地下墓穴		
+$INDEX_SIDEQUEST_1_TEXT	自奧斯蒙回歸， $MCG回來拯救在依然困於監獄地下墓穴的人。		
+$INDEX_RANGER_TOWN_TITLE	卡爾斯克		
+$INDEX_RANGER_TOWN_TEXT	遊牧村民的倖存者營寨。 卡爾斯克像奧斯蒙繳付巨額獻金去避免戰火。		
+$INDEX_RANGER_TOWN_DESTROY_TEXT	卡爾斯克的遺址都被一層厚厚的炭灰遮蓋住，犧牲者的遺體都無法被找到。		
+$INDEX_2_1_SAVE_RANGER_TOWN_TITLE	卡爾斯克之戰		
+$INDEX_2_1_SAVE_RANGER_TOWN_TEXT	奧斯蒙大軍圍攻卡爾斯克。		
+$INDEX_2_2_UNDEAD_RANGERS_TITLE	老朋友，新敵人。		
+$INDEX_2_2_UNDEAD_RANGERS_TEXT	卡爾斯克的遺民奮起成為長期的敵人。		
+$INDEX_2_3_MONASTERY_GATES_TITLE	修道院大門		
+$INDEX_2_3_MONASTERY_GATES_TEXT	一場大戰在修道院大門爆發。		
+$INDEX_LAKSOS_TITLE	勒薩斯		
+$INDEX_LAKSOS_TEXT	一個在山腳下的營寨，經常受到奧斯蒙軍的掠奪。		
+$INDEX_2_4_MONASTERY_TITLE	修道院大梯		
+$INDEX_2_4_MONASTERY_TEXT	敵人攻擊了恢弘的修道院大梯。		
+$INDEX_MONASTERY_TITLE	修道院		
+$INDEX_MONASTERY_TEXT	阿舍王國國教的修道院。		
+$INDEX_SIDEQUEST_2_TITLE	去釣魚		
+$INDEX_SIDEQUEST_2_TEXT	$MCG 清除河中亡靈感染，讓平民可以再次垂釣。		
+$INDEX_3_1_TO_THE_PASS_TITLE	去醫館		
+$INDEX_3_1_TO_THE_PASS_TEXT	$MCG 立馬趕到醫館去迎戰一次突襲。		
+$INDEX_3_2_HOSPITAL_ATTACK_TITLE	攻擊醫館		
+$INDEX_3_2_HOSPITAL_ATTACK_TEXT	守衛被圍攻的醫館。		
+$INDEX_HOSPITAL_TITLE	醫館		
+$INDEX_HOSPITAL_TEXT	一個收容無家可歸之人與傷病者的憐憫之地。		
+$INDEX_SIDEQUEST_3_TITLE	克拉斯的兒子		
+$INDEX_SIDEQUEST_3_TEXT	$RAN 頑強地信守對一個格卡部落成員的承諾。		
+$INDEX_SIDEQUEST_4_TITLE	進入暗影		
+$INDEX_SIDEQUEST_4_TEXT	當$MCG 與 $RAN 消失後，$BER 與$HEA都被一個神秘的女人帶走靈魂了。		
+$INDEX_3_3_DESERT_STRONGHOLD_TITLE	沙漠堡_入口		
+$INDEX_3_3_DESERT_STRONGHOLD_TEXT	附近圍著一幫亡靈，這些人在沙漠入口，建立起一個入口。		
+$INDEX_3_4_ARMORED_CREEPS_TITLE	生還騎士之夜		
+$INDEX_3_4_ARMORED_CREEPS_TEXT	在堡壘尋求避難時，這群人發現了在暗夜中的罪惡。		
+$INDEX_3_5_MEET_THE_KNIGHT_TITLE	裝甲裝甲		
+$INDEX_3_5_MEET_THE_KNIGHT_TEXT	一個孤獨的騎士加入軍隊就是為了擺顯他的裝備。		
+$INDEX_GUARD_TOWN_TITLE	守衛藏身處		
+$INDEX_GUARD_TOWN_TEXT	一個由舊衛兵居住的堡壘，守衛著瘟疫的_存者。		
+$INDEX_SIDEQUEST_5_TITLE	回到影中		
+$INDEX_SIDEQUEST_5_TEXT	那個神秘的女人回來了，綁走了$BER 和 $KNI。		
+$INDEX_3_6_INTO_THE_CITY_TITLE	深入的堡_		
+$INDEX_3_6_INTO_THE_CITY_TEXT	$KNI 帶領軍隊深入堡壘去尋找答案。		
+$INDEX_3_7_UNWELCOME_GUESTS_TITLE	不受歡迎的客人		
+$INDEX_3_7_UNWELCOME_GUESTS_TEXT	軍隊在地下墓穴的深處發現了一個不清楚是敵是友的陣型。		
+$INDEX_3_8_DEFEND_NEST_TITLE	守衛巢穴		
+$INDEX_3_8_DEFEND_NEST_TEXT	$DRA 答應幫助我們，條件是英雄們可以助她守衛巢穴。		
+$INDEX_DRAGON_LAIR_TITLE	龍的謊言		
+$INDEX_DRAGON_LAIR_TEXT	$DRA的老窩，充滿珍寶，養育她的後裔。		
+$INDEX_3_9_GOAT_STEW_TITLE	大口吞羊		
+$INDEX_3_9_GOAT_STEW_TEXT	$DRA 餓了。$MCG 提供了人肉以外的選擇。		
+$INDEX_3_10_THE_CITADEL_TITLE	皇家檔案室		
+$INDEX_3_10_THE_CITADEL_TEXT	軍隊一直打入了古老的檔案室，打算尋找答案。		
+$INDEX_FIRE_SHRINE_TITLE	奎德火神殿		
+$INDEX_FIRE_SHRINE_TEXT	這是奎德火神殿。		
+$INDEX_SIDEQUEST_6_TITLE	墮落神廟		
+$INDEX_SIDEQUEST_6_TEXT	$MAG 與 $MCG 淨化了被玷污的奎德火神殿。		
+$INDEX_DESTROYED_RANGER_TOWN_TITLE	摧毀遊俠之城		
+$INDEX_DESTROYED_RANGER_TOWN_TEXT	遊俠餘黨之城。 幾個遊俠依然隱藏在廢墟之中。		
+$INDEX_3_11_CITADEL_BOSS_TITLE	隧道逃亡		
+$INDEX_3_11_CITADEL_BOSS_TEXT	在亡靈軍隊的追趕下，軍隊透過大教堂的地下污水道逃出。		
+$INDEX_3_12_TUNNEL_ESCAPE_TITLE	礦洞爆破		
+$INDEX_3_12_TUNNEL_ESCAPE_TEXT	$HEA 計畫在礦洞進行爆破，只要 $MCG 可以把亡靈大軍拖延住。		
+$INDEX_3_13_DESTROY_CITY_TITLE	舍裡米爾出現		
+$INDEX_3_13_DESTROY_CITY_TEXT	舍裡米爾就在我們和出口之間出現。		
+$INDEX_GHOST_TOWN_TITLE	鬼城		
+$INDEX_GHOST_TOWN_TEXT	一個近乎荒廢的鄉村，只有少數的商人和奎德倖存者出入。		
+$INDEX_4_1_EZTLIS_FORCES_TITLE	艾斯理-特諾奇的軍隊		
+$INDEX_4_1_EZTLIS_FORCES_TEXT	在前往墓坑的東邊時，我們整支軍隊通過了艾斯理-特諾奇的地盤。		
+$INDEX_4_2_WIZARDS_REALM_TITLE	巫師之界		
+$INDEX_4_2_WIZARDS_REALM_TEXT	軍隊發現自己身處一個奇怪城市的遺址中。這裡到底是哪裡？		
+$INDEX_4_3_THE_HALLS_TITLE	神王之殿		
+$INDEX_4_3_THE_HALLS_TEXT	先前是艾斯理-特諾奇無上權威之殿，現在則是新戰場。		
+$INDEX_TREASURE_CHAMBER_TITLE	藏寶室		
+$INDEX_TREASURE_CHAMBER_TEXT	$DRA發現了一個藏身處，也是一個補給站?? 只要你有錢的話。		
+$INDEX_SIDEQUEST_7_TITLE	暗影之後		
+$INDEX_SIDEQUEST_7_TEXT	神秘女人的身份終於水落石出了。		
+$INDEX_4_4_FREEDOM_DASH_TITLE	為了自由奮戰		
+$INDEX_4_4_FREEDOM_DASH_TEXT	沖出山谷夾道，軍隊被逼在河流中奮勇一戰。		
+$INDEX_4_5_RIGHT_HAND_TITLE	艾斯理-特諾奇的右手		
+$INDEX_4_5_RIGHT_HAND_TEXT	神秘敵人的襲擊		
+$INDEX_4_7_FOLLOW_ZELEMIR_TITLE	跟隨舍裡米爾		
+$INDEX_4_7_FOLLOW_ZELEMIR_TEXT	$MCG 覺得舍裡米爾的計畫太恐怖，決定前去阻止他。		
+$INDEX_4_6_THE_WAY_OUT_TITLE	出路		
+$INDEX_4_6_THE_WAY_OUT_TEXT	$MCG 接受舍裡米爾的安排，然後從墓坑中逃出。、		
+$INDEX_4_8_THE_ARMY_TITLE	舍裡米爾之軍		
+$INDEX_4_8_THE_ARMY_TEXT	在與守衛戰鬥後， $MCG的軍隊必須挑戰舍裡米爾之軍。		
+$INDEX_4_9_ZELEMIR_TITLE	瘋狂		
+$INDEX_4_9_ZELEMIR_TEXT	$MCG 趕緊阻止舍裡米爾點燃這些水晶，否則整個墓坑都會灰飛煙滅。		
+$INDEX_12_4_FINAL_TITLE	神王再臨		
+$INDEX_12_4_FINAL_TEXT	由$MCG'的血召喚出艾斯理-特諾奇。		
+$INDEX_HERMIT_1_TITLE	隱士之所		
+$INDEX_HERMIT_1_TEXT	一個來自遊牧民族的隱士居住于此。		
+$INDEX_HERMIT_2_TITLE	隱士之所		
+$INDEX_HERMIT_2_TEXT	另一隱士居住之地，與前一個奇怪地相像。		
+$INDEX_HERMIT_3_TITLE	隱士之所		
+$INDEX_HERMIT_3_TEXT	第三個隱士居於堡壘深處。		
+$INDEX_HERMIT_4_TITLE	隱士之所		
+$INDEX_HERMIT_4_TEXT	最後一個隱士居於沙漠之中。		
+$INDEX_OBELISK_TITLE	奇怪的紀念碑		
+$INDEX_OBELISK_TEXT	沙漠中有一個奇怪的紀念碑。		
+$BLANK			

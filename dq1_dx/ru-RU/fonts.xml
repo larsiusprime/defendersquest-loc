@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <data>
 	
+	<font value="verdana_noloc" replace="verdana"/>
+	
 	<font value="moolboran" replace="verdana">
 		<size value="25" replace="18"/>
 		<size value="30" replace="20"/>

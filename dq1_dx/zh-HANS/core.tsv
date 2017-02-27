@@ -1,1495 +1,1490 @@
-flag	content	comment
-$BASE_ATTACK	Base attack
-$BATTLE_STARTING_FORMATION_TEXT	Use the same starting formation as last time?
-$BATTLE_FREE_MOVE	Finger pointer
-$BATTLE_MOVE	Move
-$BATTLE_MOVE_MOUSE	Move mouse
-$BATTLE_FINE_MOVE	Move slow
-$BATTLE_TILE_MOVE	Move tile
-$BATTLE_BACK	<RE>$MISC_BACK
-$BATTLE_SPELLS	<RE>$STAT_DESC_SPELLS
-$BATTLE_SELECT_UNIT	Select Unit
-$BATTLE_MENU	<RE>$MISC_MENU
-$BATTLE_MAP	map
-$BATTLE_DEFENDERS	<RE>$MISC_DEFENDERS
-$ACTIONS_BATTLE_MENU_MOVE	<RE>$BATTLE_MOVE
-$ACTIONS_BATTLE_FREE_MOVE	<RE>$BATTLE_FREE_MOVE
-$ACTIONS_BATTLE_FINE_MOVE	<RE>$BATTLE_FINE_MOVE
-$ACTIONS_BATTLE_TILE_MOVE	<RE>$BATTLE_TILE_MOVE
-$ACTIONS_BATTLE_SELECT	<RE>$BATTLE_SELECT_UNIT
-$ACTIONS_BATTLE_BACK	<RE>$BATTLE_BACK
-$ACTIONS_BATTLE_DEFENDERS	<RE>$BATTLE_DEFENDERS
-$ACTIONS_BATTLE_SPELLS	Spells
-$ACTIONS_BATTLE_MENU	<RE>$BATTLE_MENU
-$ACTIONS_BATTLE_SPEED_MINUS	Speed down
-$ACTIONS_BATTLE_SPEED_PLUS	Speed up
-$ACTIONS_BATTLE_PAUSE	<RE>$MISC_PAUSE
-$ACTIONS_BATTLE_CYCLE_PREVIOUS	Previous defender
-$ACTIONS_BATTLE_CYCLE_NEXT	Next defender
-$ACTIONS_BATTLE_SPELL_SPAM	Spell repeat
-$ACTIONS_MAP_MOVE	Move cursor
-$ACTIONS_MAP_SELECT	<RE>$MISC_SELECT
-$ACTIONS_MAP_EXIT	<RE>$MISC_EXIT
-$ACTIONS_MAP_MENU	<RE>$MISC_MENU
-$ACTIONS_MAP_JOURNAL	<RE>$MISC_JOURNAL
-$ACTIONS_MAP_MOVE_MAP	Move on map
-$ACTIONS_MAP_SCROLL_MAP	Scroll map
-$ACTIONS_CUTSCENE_SKIP	<RE>$MISC_SKIP
-$ACTIONS_CUTSCENE_NEXT	<RE>$MISC_NEXT
-$ACTIONS_CUTSCENE_PREVIOUS	<RE>$MISC_PREVIOUS
-$BONUS_DEFENSE	Bonus defense
-$BOOK_COOL_MULT	Spell cooldown time x<X>
-$BOOK_COOLDOWN_OP	Spell cooldown time <X>
-$BOOK_COST_MULT	Spell cost x<X>
-$BOOK_COST_OP	Spell Cost <X>
-$BOOK_PSI_TAX	PSI Tax: <X>
+flag		comment
+$BASE_ATTACK	基础攻击	
+$BATTLE_STARTING_FORMATION_TEXT	是否使用和上次相同的编队？	
+$BATTLE_FREE_MOVE	快速移动	
+$BATTLE_MOVE	移动	
+$BATTLE_MOVE_MOUSE	移动鼠标	
+$BATTLE_FINE_MOVE	缓慢移动	
+$BATTLE_TILE_MOVE	移动方格	
+$BATTLE_BACK	<RE>$MISC_BACK	
+$BATTLE_SPELLS	<RE>$STAT_DESC_SPELLS	
+$BATTLE_SELECT_UNIT	选择单位	
+$BATTLE_MENU	<RE>$MISC_MENU	
+$BATTLE_MAP	地图	
+$BATTLE_DEFENDERS	<RE>$MISC_DEFENDERS	
+$ACTIONS_BATTLE_MENU_MOVE	<RE>$BATTLE_MOVE	
+$ACTIONS_BATTLE_FREE_MOVE	<RE>$BATTLE_FREE_MOVE	
+$ACTIONS_BATTLE_FINE_MOVE	<RE>$BATTLE_FINE_MOVE	
+$ACTIONS_BATTLE_TILE_MOVE	<RE>$BATTLE_TILE_MOVE	
+$ACTIONS_BATTLE_SELECT	<RE>$BATTLE_SELECT_UNIT	
+$ACTIONS_BATTLE_BACK	<RE>$BATTLE_BACK	
+$ACTIONS_BATTLE_DEFENDERS	<RE>$BATTLE_DEFENDERS	
+$ACTIONS_BATTLE_SPELLS	法术	
+$ACTIONS_BATTLE_MENU	<RE>$BATTLE_MENU	
+$ACTIONS_BATTLE_SPEED_MINUS	速度提升	
+$ACTIONS_BATTLE_SPEED_PLUS	速度降低	
+$ACTIONS_BATTLE_PAUSE	<RE>$MISC_PAUSE	
+$ACTIONS_BATTLE_CYCLE_PREVIOUS	前一个守护者	
+$ACTIONS_BATTLE_CYCLE_NEXT	后一个守护者	
+$ACTIONS_BATTLE_SPELL_SPAM	重复法术	
+$ACTIONS_MAP_MOVE	移动光标	
+$ACTIONS_MAP_SELECT	<RE>$MISC_SELECT	
+$ACTIONS_MAP_EXIT	<RE>$MISC_EXIT	
+$ACTIONS_MAP_MENU	<RE>$MISC_MENU	
+$ACTIONS_MAP_JOURNAL	<RE>$MISC_JOURNAL	
+$ACTIONS_MAP_MOVE_MAP	在地图上移动	
+$ACTIONS_MAP_SCROLL_MAP	移动地图	
+$ACTIONS_CUTSCENE_SKIP	<RE>$MISC_SKIP	
+$ACTIONS_CUTSCENE_NEXT	<RE>$MISC_NEXT	
+$ACTIONS_CUTSCENE_PREVIOUS	<RE>$MISC_PREVIOUS	
+$BONUS_DEFENSE	奖励防御战	
+$BOOK_COOL_MULT	法术冷却时间x<X>	
+$BOOK_COOLDOWN_OP	法术冷却时间<X>	
+$BOOK_COST_MULT	法术消耗x<X>	
+$BOOK_COST_OP	法术消耗<X>	
+$BOOK_PSI_TAX	能量税：<X>	
 $CONFIRM_QUIT_TEXT	<RE>$CONFIRM_RESTART_TEXT	COMMENT: this is a redirect, the text for $MISC_PLEASE_WAIT will be duplicated here. The <RE> invocation at the beginning of the string signals a redirect, and will not show up in the final text
-$CONFIRM_QUIT_TITLE	Quit the battle?
-$CONFIRM_RES_CHANGE	Resolution changed.<N>Do you like it?<N><N>REVERTING IN <SECONDS> SECONDS.
-$CONFIRM_RESTART_TEXT	You'll forfeit all experience & money earned so far.
-$CONFIRM_RESTART_TITLE	Restart the battle?
-$DATA_DUMP_AUDIO	Exporting audio...
-$DATA_DUMP_BACKGROUNDS	<RE>$DATA_DUMP_BKG
-$DATA_DUMP_BKG	Exporting background images...
-$DATA_DUMP_CUTSCENE	Exporting cutscene images...
-$DATA_DUMP_CUTSCENES	<RE>$DATA_DUMP_CUTSCENE
-$DATA_DUMP_DATA	Exporting data files...
-$DATA_DUMP_EMBED	Exporting embedded graphics...
-$DATA_DUMP_IMAGES	Exporting data images...
-$DATA_DUMP_LOCALES	Exporting locales...
-$DATA_DUMP_MAP_FILES	Exporting map files...
-$DATA_DUMP_MAP_IMAGES	Exporting map images...	COMMENT: <N> means a line break. <N> works too, but not <N> or <n>
-$DATA_DUMP_MAPS	<RE>$DATA_DUMP_MAP_FILES
-$DATA_DUMP_MOD_INFO	Exporting mod info...
-$DATA_DUMP_MUSIC	Exporting music...
-$DATA_DUMP_SFX	Exporting sound effects...
-$DATA_DUMP_SPRITES	Exporting sprites...
-$DATA_DUMP_TABLES	Exporting data tables...
-$DECIMATE_BY	Decimate by <PERCENT>%
-$DEMO_OVER_ACTS	Acts<N>III & IV
-$DEMO_OVER_DONT_FORGET	Don't forget your save file!
-$DEMO_OVER_ENORMOUS	Click the enormous button to continue your quest!
-$DEMO_OVER_ENORMOUS_2	Click an enormous button to continue your quest!
-$DEMO_OVER_EXPORT_HOW	Export your save file with this button.
-$DEMO_OVER_FULL_GAME	Get the FULL GAME!
-$DEMO_OVER_FULL_GAME_SHORT	FULL<N>GAME!
-$DEMO_OVER_PLAY	Keep Playing!
-$DEMO_OVER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
-$DEMO_OVER_THANKS	Thanks for Playing!	COMMENT: <MCG> is a variable. In this exact string, the game expects this exact variable, and will replace <MCG> with Azra's name. Any other variable is ignored and will appear as-is.
-$DEMO_OVER_USE_IT	Use it to continue from where you left off!
-$EN_SPELL_DRAGON_FIRE_1_DESC	<DMG> DMG
-$EN_SPELL_DRAGON_FIRE_2_DESC	<LOW>-<HIGH> DMG
-$EN_SPELL_FRENZY_DESC	#ERROR!
-$EN_SPELL_HEAL_DESC	Heal: <PERCENT> HP
-$END	end
-$ERROR_CONTEXT	context
-$ERROR_MESSAGE	message
-$ERROR_NUMBER	Error #
-$ERROR_STACK	stack trace
-$ERROR_TITLE	An Error Has Happened!
-$FB_HARD_SELL_NO	I said never!
-$FB_HARD_SELL_TEXT	You sure about that?<N>Look! It's so shiny!
-$FB_HARD_SELL_YES	Well... okay.
-$FB_LIKE_US_NO	Hahaha. No.	COMMENT: The game will put Zelemir, Tletl-Meztli, or any other alternate mcguffin's name where <ALLY> appears.
-$FB_LIKE_US_TEXT	Like us on Facebook and<N>get this FREE prize!
-$FB_LIKE_US_YES	Okay!
-$FB_PERSISTENT_OK	Victory is mine!
-$FB_PERSISTENT_TEXT	Okay, you win!<N>You can have it anyway :)
-$FB_REBEL_TEXT	That's right, stick it to the man!<N>Have this instead.
-$FB_SECOND_PITCH	You can still get this<N>by liking us on Facebook!
-$FB_SECOND_PITCH_NO	Never!
-$FB_SECOND_PITCH_YES	Okay!
-$FB_THANKS_OK	Okay
-$FB_THANKS_SUCKS	Facebook Sucks
-$FB_THANKS_TEXT	Thanks for liking us on Facebook!<N>You already got the prize!
-$FB_THIS_ITEM_WILL_NOW	This item will now always appear in any player's inventory.
-$FLAV_DESC_ARMOR_BREAK_AMT_GRTR_1	Destroys <AMT_2DIG><EXTRA> points of armor for every point of DMG in attack.
-$FLAV_DESC_ARMOR_BREAK_AMT_LESS_1	Destroys 1 point of armor for every <INV_AMOUNT><EXTRA> points of DMG in attack.
-$FLAV_DESC_ARMOR_BREAK_DIRECT	Attack destroys <AMTDMG><EXTRA> points of armor.
-$FLAV_DESC_ARMOR_BREAK_SHORT	Attack destroys several points of armor.	COMMENT: There are 4 variants here to handle the various pluralizations
-$FLAV_DESC_ARMOR_PIERCE_AMT_GRTR_1	Ignores <AMT_1DIG><EXTRA> points of armor for every point of DMG in attack.
-$FLAV_DESC_ARMOR_PIERCE_AMT_LESS_1	Ignores 1 point of armor for every <INV_AMOUNT><EXTRA> points of DMG in attack.
-$FLAV_DESC_ARMOR_PIERCE_DIRECT	Attack ignores <AMTDMG><EXTRA> points of armor.
-$FLAV_DESC_ARMOR_PIERCE_SHORT	Attack ignores several points of armor.
-$FLAV_DESC_AUTO_KILL	Foes below <PERCENT>%<EXTRA> HP automatically die.
-$FLAV_DESC_AUTO_KILL_SHORT	Sufficiently weak foes automatically die.
-$FLAV_DESC_BLEED	Foe takes <PERCENT>%<EXTRA> more damage from future hits for <TIME><EXTRA_TIME> sec.
-$FLAV_DESC_BLEED_SHORT	Foe temporarily takes more damage from future hits.
-$FLAV_DESC_BLINDED	Enemy attacks miss <PERCENT>% <EXTRA>of the time for <TIME><EXTRA_TIME> sec.
-$FLAV_DESC_BLINDED_SHORT	Enemy attacks lose accuracy for a few seconds.
-$FLAV_DESC_BURN	Foe takes <AMTDMG><EXTRA> dmg/sec for <TIME><EXTRA_TIME> sec. Cancelled by ice.
-$FLAV_DESC_BURN_SHORT	Foe takes damage over a short time. Cancelled by ice.
-$FLAV_DESC_CHILL	Foe is slowed by <PERCENT>%<EXTRA> for <TIME><EXTRA_TIME> sec. Cancelled by burn.
-$FLAV_DESC_CHILL_SHORT	Foe is slowed down for a few seconds. Cancelled by burn.
-$FLAV_DESC_CONFUSED	Foe walks backwards for <TIME><EXTRA_TIME> sec.
-$FLAV_DESC_CONFUSED_SHORT	Foe walks backwards for a few moments.
-$FLAV_DESC_CRITICAL	Damage = <AMT_1DIG>x<EXTRA> normal.
-$FLAV_DESC_CRITICAL_SHORT	Damage is greater than normal.
-$FLAV_DESC_DISEASE	Foe's regeneration is reduced by <PERCENT>%<EXTRA>.
-$FLAV_DESC_DISEASE_SHORT	Foe's regeneration is reduced.
-$FLAV_DESC_FREEZE	Foe can't move for <TIME><EXTRA_TIME> sec. Cancelled by burn.
-$FLAV_DESC_FREEZE_SHORT	Foe can't move temporarily. Cancelled by burn.
-$FLAV_DESC_INSPIRE	Friends deal <M_MULT_PERCENT>%<EXTRA> more damage for <TIME><EXTRA_TIME> sec.
-$FLAV_DESC_INSPIRE_SHORT	Friends temporarily deal more damage.
-$FLAV_DESC_KNOCK_BACK	Foe is pushed back <AMT_1DIG><EXTRA> tiles.
-$FLAV_DESC_KNOCK_BACK_SHORT	Foe is pushed back a few tiles.
-$FLAV_DESC_LIGHT	DARK foes take +<AMT_2DIG>x<EXTRA>DMG & are easier to hit for <TIME><EXTRA_TIME> sec.
-$FLAV_DESC_LIGHT_SHORT	DARK foes take extra damage, & are easier to hit.
-$FLAV_DESC_POISON	Foe takes <PERCENT>%<EXTRA> of attack's dmg every second for <TIME><EXTRA_TIME> sec.	COMMENT: Font size and x/y offsets for options menu button labels
-$FLAV_DESC_POISON_DIRECT	Foe takes <AMTDMG><EXTRA> dmg every second for <TIME><EXTRA_TIME> sec.
-$FLAV_DESC_POISON_SHORT	Foe takes damage over a short time.
-$FLAV_DESC_SINGLE_STUN	Foe can't move for <TIME><EXTRA_TIME> sec. Can only be inflicted once.
-$FLAV_DESC_SINGLE_STUN_SHORT	Foe can't move for a few seconds. Can only be inflicted once.
-$FLAV_DESC_SLOW	Foe is slowed by <PERCENT>%<EXTRA> for <TIME><EXTRA_TIME> sec.	COMMENT: hide/show accessibility box graphic, offset for 'absence' text, offset for 'speed' text
-$FLAV_DESC_SLOW_SHORT	Foe is slowed temporarily.
-$FLAV_DESC_STRIKE_THROUGH	Attack can hit up to <INTI><EXTRA> foes.
-$FLAV_DESC_STRIKE_THROUGH_SHORT	Attack can hit multiple foes.
-$FLAV_DESC_STUN	Foe can't move for <TIME><EXTRA_TIME> sec.
-$FLAV_DESC_STUN_SHORT	Foe can't move temporarily.
-$GETSCRAP1	A pile of junk, rags, broken tools, and sharp pieces of jagged, rusted metal.<N><N>Who could possibly want any of this?
-$GETSCRAP2	Apparently, denizens of the pit use this junk as currency.
-$HERO_BLURB_BAKAL	A soft-spoken old monk, seeking forgiveness for his sins...
-$HERO_BLURB_KETTA	A nomad huntress, cynical and world-weary...
-$HERO_BLURB_MARKOS	A battle-hardened knight, weary from the endless struggle...
-$HERO_BLURB_NIRU	Violent and mysterious, this dragon shares no secrets...
-$HERO_BLURB_SLAK	A strange young man, both brave and unstable...
-$HERO_BLURB_WRENNA	The last princess of Quaid, hungry to avenge her fallen kingdom...
-$LQ	“
-$MAP_TEXT_HERMIT	Hermit
-$MAP_TEXT_LAIR	Lair
-$MAP_TEXT_PRISON	Prison
-$MAP_TEXT_SHRINE	Shrine
-$MAP_TEXT_TREASURE	Cave
-$MAP_TEXT_UNKNOWN	???
-$MCGUFFIN_LEARN_SPELL	<MCG> learned a new spell!
-$MISC_1_FOE	1 foe
-$MISC_1_FRIEND	1 friend
-$MISC_ABSORB_X	absorb <X>
-$MISC_ABSORB_X_RESIST_Y	absorb <X>, resist <Y>%
-$MISC_ACCEPT	accept
-$MISC_ACCEPT_AND_CLOSE	Accept & close
-$MISC_ACHIEVEMENT!	Achievement!
-$MISC_ADJUST_REWARDS	100% is the default amount, adjust up or down to change your rewards.
-$MISC_ADVANCED	advanced
-$MISC_ADVANCED_SHORT	adv.
-$MISC_ALL_FOES	All foes in range
-$MISC_ALL_FOES_IN	All foes in <TILES> tiles
-$MISC_ALL_FRIENDS	All friends in range
-$MISC_ALL_FRIENDS_IN	All friends in <TILES> tiles
-$MISC_ALL_TARGETS	Targets in range
-$MISC_ALL_TARGETS_IN	Targets in <TILES> tiles
-$MISC_AMOUNT	amount
-$MISC_AMOUNT_SHORT	amount
-$MISC_ANONYMOUS	anonymous
-$MISC_ARE_YOU_SURE	Are you sure?
-$MISC_ARMOR	armor
-$MISC_ARMOR_PLURAL	<RE>$MISC_ARMOR
-$MISC_ARMOR_SINGULAR	<RE>$MISC_ARMOR
-$MISC_ARMOR_SHORT	ARMR
-$MISC_ASSIGN_POINTS	Assign<N>Points
-$MISC_ATTACK	attack
-$MISC_ATTACK_SHORT	ATK
-$MISC_BACK	back
-$MISC_BASE_ATTACK	base attack
-$MISC_BATTLE	Battle
-$MISC_BEGIN	begin
-$MISC_BONUS	Bonus
-$MISC_BONUS_DEFENSE	base defense
-$MISC_BOOST	boost
-$MISC_BOOST_X	boost <X>
-$MISC_BREAK_HERO_MODE_TEXT	You've chosen to play in <LQ>Hero Mode<RQ>, which forbids recruiting generic characters.<N>Leave this mode and recruit a character anyway?
-$MISC_BREAK_HERO_MODE_TITLE	Leave Hero Mode?
-$MISC_BUY	buy
-$MISC_CANCEL	cancel
-$MISC_CANT_AFFORD	Can't Afford
-$MISC_CANT_EQUIP!	Can't Equip
-$MISC_CASUAL	casual
-$MISC_CASUAL_SHORT	casual
-$MISC_CHANCE	chance
-$MISC_CHANGE	Change
-$MISC_CLICK_HERE	click here
-$MISC_CLOSE	close
-$MISC_COMPLETE	complete
-$MISC_COMPLETE!	complete!
-$MISC_CONFIG_DIR	Config. folder
-$MISC_CONFIRM	confirm
-$MISC_CONFIRM_CHANGE	Confirm Change
-$MISC_CONFIRM_RECRUIT	Confirm Recruit
-$MISC_CONTINUE	continue
-$MISC_COST	cost
-$MISC_COST:	cost:
-$MISC_COUNTER	counter
-$MISC_CREDITS	Credits
-$MISC_CURRENT_SAVE	Current Save File:
-$MISC_CUSTOM_SETTINGS	Customize...
-$MISC_DAMAGE	damage
-$MISC_DAMAGE_RESIST	DMG resist
-$MISC_DAMAGE_SHORT	DMG
-$MISC_DARK	dark
-$MISC_DARK_DESC	(evades 75% of attacks)
-$MISC_DEATH_SPLASH	death splash
-$MISC_DEF_SHORT	DEF
-$MISC_DEFAULT	Default
-$MISC_DEFAULT_SETTINGS	Default (recommended for new players)
-$MISC_DEFEAT	Defeat
-$MISC_DEFEND	defend
-$MISC_DEFENDER	defender
-$MISC_DEFENDERS	defenders
-$MISC_DEFENSE	defense
-$MISC_DEFENSE_ABS	defense
-$MISC_DEFENSE_SHORT	DEF
-$MISC_DELETE_ACHIEVEMENT	Delete Achievement?
-$MISC_DELETE_BOTH_GOG_ACHIEVEMENT	Delete local & GOG achievements
-$MISC_DELETE_BOTH_STEAM_ACHIEVEMENT	Delete local & Steam achievements
-$MISC_DELETE_LOCAL_ACHIEVEMENT	Delete local achievement only
-$MISC_DEMO_VERSION	Demo Version
-$MISC_DEMO_VERSION_DESC	This is the public demo of Defender's Quest: Valley of the Forgotten, Deluxe Edition.<N><N>It contains about 20% of the entire game, and lets you export your save files should you choose to buy the full version, so that you don't lose any progress.
-$MISC_DESCRIPTION	description
-$MISC_DISABLED	disabled
-$MISC_DOWNLOAD	download
-$MISC_DQ_NEWS	Get NEWS!
-$MISC_DQ_SITE	DefendersQuest.com
-$MISC_EASIER	easier
-$MISC_EASY	normal
-$MISC_EASY_SHORT	normal
-$MISC_EMPTY	Empty
-$MISC_ENABLED	enabled
-$MISC_ENEMY_LEVELS	Enemy levels
-$MISC_ENTER	enter
-$MISC_ENTER_TEXT	Enter Text:
-$MISC_EQUIP	equip
-$SHOP_EQUIP	<RE>$MISC_EQUIP	The word "equip" that appears on the button in the shopping screen in towns
-$EQUIP_THE_THING	<RE>$MISC_EQUIP	The word "equip" that appears on the button in the equip menu in the party screen, to actually put the item on your character
-$GO_TO_EQUIP_MENU	<RE>$MISC_EQUIP	The word "equip" that appears on the button in the skills menu in the party screen, to switch to the equip menu
-$MISC_SLOT	slot
-$MISC_ERROR	error
-$MISC_ERROR_INVALID_MOD_NAME	Invalid mod name!
-$MISC_ERROR_MOD_BAD	That mod is incompatible with this version of the game. Sorry!
-$MISC_ERROR_MOD_EXISTS	A mod with that name already exists!
-$MISC_ERROR_UNKNOWN	Unknown error. Sorry!
-$MISC_ERROR_UNZIP	Couldn't unzip the mod. Change your mod path in the options menu, or check your hard drive space.
-$MISC_ERROR!	error!
-$MISC_EVADE	evade
-$MISC_EVADE_SHORT	EVA
-$MISC_EVASION	evasion
-$MISC_EXIT	exit
-$MISC_EXPERIENCE	experience
-$MISC_EXTREME	extreme
-$MISC_EXTREME_SHORT	extr.
-$MISC_FAIL_TT_TEXT	How much experience and scrap is withheld from your rewards if you fail a battle.<N>-50% is the default amount, adjust up or down to change the penalty.
-$MISC_FAIL_TT_TITLE	<RE>$UI_ACCESS_FAILURE_PENALTY
-$MISC_FAST	fast
-$MISC_FOE_PLURAL	foes
-$MISC_FOE_SINGULAR	foe
-$MISC_FRIEND_PLURAL	friends
-$MISC_FRIEND_SINGULAR	friend
-$MISC_GAIN	gain
-$MISC_GAME_DATA	Game Data
-$MISC_GOLD	scrap
-$MISC_GOLD_TT_TEXT	Scrap (money) you get after a battle.<N><RE>[$MISC_ADJUST_REWARDS]
-$MISC_GOLD_TT_TITLE	Scrap
-$MISC_GOLD:	scrap:
-$MISC_HARD	<RE>$MISC_EXTREME
-$MISC_HARD_SHORT	<RE>$MISC_EXTREME_SHORT
-$MISC_HARDER	harder
-$MISC_HEAL	heal
-$MISC_HERO_MODE	Hero Mode
-$MISC_HERO_MODE_TEXT	Recruiting generic characters is forbidden.<N>Absolutely NOT recommended for first playthroughs!<N><N>NOTES:<N>You can change your mind later by trying to recruit a character and dismissing the warning that pops up.<N><N>We strongly recommend setting XP and Scrap gain to 300% when using hero mode.<N><N>Finally, this setting isn't required for "Hero Mode" achievements -- the absence of generic characters is enough.
-$MISC_HERO_MODE_TITLE	<RE>$MISC_HERO_MODE
-$MISC_HIRE	HIRE!
-$MISC_HIRE_Q	Hire <NAME> the <CLASS> for<N><SCRAP> scrap?
-$MISC_HP	hit points
-$MISC_HP_SHORT	HP
-$MISC_IMMUNE_TO	Immune to <SOMETHING>
-$MISC_INFO	info
-$MISC_JOURNAL	Journal
-$MISC_LANGUAGES	Languages
-$MISC_LEADER	leader
-$MISC_LEAVE	leave
-$MISC_LEVEL	level
-$MISC_LEVEL_SHORT	LVL
-$MISC_LEVEL_SHORT_X	LVL <X>
-$MISC_LEVEL_PARTY_GEM	Level	Appears on character blocks in the party screen
-$MISC_LEVEL_WAVE_BLOCK	Level	Appears on enemy wave blocks in battle
-$MISC_LEVEL_SUPER_SHORT	L
-$MISC_LEVEL_UP!	LEVEL UP!
-$MISC_LEVEL_UPX	LEVEL UPx
-$MISC_LEVEL_X	Level <X>
-$MISC_LOADING	Loading...
-$MISC_LOADING_PERCENT	Loading...<PERCENT>%
-$MISC_LOCKED	locked
-$MISC_LVLUP	LVLUP
-$MISC_MAKE_CHANGE	Make these changes?
-$MISC_MAX	MAX
-$MISC_MEDIUM	<RE>$MISC_ADVANCED
-$MISC_MEDIUM_SHORT	<RE>$MISC_ADVANCED_SHORT
-$MISC_MENU	menu
-$MISC_PAUSE	pause
-$MISC_MISS	miss
-$MISC_MODS	Mods
-$MISC_MORE	more...	COMMENT: moves the 'cycle defenders' text and associated buttons
-$MISC_MOVIES	Movies
-$MISC_NEED_PSI	NEED<N>PSI
-$MISC_NEW_GAME_SETTINGS	New Game Settings
-$MISC_NEXT	next
-$MISC_NO	no
-$MISC_NO_AFFORD	CAN'T AFFORD
-$MISC_NO_CHANGE	no change
-$MISC_NO_HARDWARE	Your system does not support hardware acceleration. The game will still run, but you might want to turn down the graphics settings if it seems slow.
-$MISC_NOBODY	Nobody
-$MISC_NOM!	NOM!
-$MISC_NONE	none
-$MISC_NONE_DEFAULT	None *
-$MISC_NORMAL	normal
-$MISC_NORMAL_SHORT	normal
-$MISC_NOTHING	nothing
-$MISC_NOTHING_TO_EQUIP	Nothing to equip!
-$MISC_NOTHING!	nothing!
-$MISC_OF_DAMAGE	of DMG
-$MISC_OK	ok
-$MISC_OKAY	okay
-$MISC_OPTIONS	Options
-$MISC_OTHER	Other
-$MISC_PARTY	Party
-$MISC_PASS	pass
-$MISC_PERFECT	perfect
-$MISC_PERFECT_BONUS	Perfect Bonus:
-$MISC_PERFECT!	perfect!
-$MISC_PHASES	phases
-$MISC_PLEASE_ENTER_A_NAME!	Please enter a name!
-$MISC_PLEASE_WAIT	Please Wait...
-$MISC_PLUS_X_STAT	#ERROR!
-$MISC_PLUS_X_TO_ARMOR_ABS	<PLUS_OR_MINUS><X> to ARMOR
-$MISC_PLUS_X_TO_ATTACK	<PLUS_OR_MINUS><X> to ATTACK
-$MISC_PLUS_X_TO_ATTACK_SPEED	<PLUS_OR_MINUS><X> to SPEED
-$MISC_PLUS_X_TO_DEFENSE_ABS	<PLUS_OR_MINUS><X> to DEFENSE
-$MISC_PLUS_X_TO_HP	<PLUS_OR_MINUS><X> to HP
-$MISC_PLUS_X_TO_RANGE	<PLUS_OR_MINUS><X> to RANGE
-$MISC_PLUS_X_TO_REGEN_ABS	<PLUS_OR_MINUS><X> to REGENERATION
-$MISC_PLUS_X%_TO_ARMOR_MULT	<PLUS_OR_MINUS><X> to ARMOR_MULT
-$MISC_PLUS_X%_TO_DEFENSE_MULT	<PLUS_OR_MINUS><X>% to DEFENSE
-$MISC_PLUS_X%_TO_DODGE	<PLUS_OR_MINUS><X> to EVASION
-$MISC_PLUS_X%_TO_EVADE	<RE>$MISC_PLUS_X%_TO_DODGE
-$MISC_PLUS_X%_TO_REGEN_MULT	<PLUS_OR_MINUS><X>% to REGENERATION
-$MISC_PORCUPINE	thorns
-$MISC_PREV	prev
-$MISC_PREVIOUS	previous
-$MISC_PROBLEM?	problem?
-$MISC_PSI	psi
-$MISC_PSI_SHORT	psi
-$MISC_QUIT	quit
-$MISC_QUIT	quit
-$MISC_QUIT_BATTLE	quit battle
-$MISC_RANDOM	random
-$MISC_RANGE	range
-$MISC_RANGE_SHORT	RNG
-$MISC_RECRUIT	recruit
-$MISC_REFUSE	refuse
-$MISC_REGEN	regen
-$MISC_REGEN_LONG	regeneration
-$MISC_REGEN_SHORT	REG
-$MISC_RESET	Reset
-$MISC_RESIST	resist <SOMETHING>
-$MISC_RESIST_X	resist <X>%
-$MISC_RESTART	restart
-$MISC_RESTORE_DEFAULTS	Restore Defaults
-$MISC_REWARD	Reward:
-$MISC_SAVE_DATA	Save Data
-$MISC_SAVE_ERROR_TEXT	Autosave just failed, check your file permissions?<N>We'll try again later.
-$MISC_SAVE_ERROR_TITLE	Autosave Error!
-$MISC_SAVE_FIXED_TEXT	Autosave succeeded, looks like you fixed whatever was wrong.<N>We'll shut up now.
-$MISC_SAVE_FIXED_TITLE	Autosave Working!
-$MISC_SAVED	saved
-$MISC_SAVED!	Saved!
-$MISC_SCRAP	scrap
-$MISC_SECOND	second
-$MISC_SECOND_SHORT	sec
-$MISC_SECONDS	seconds
-$MISC_SECONDS_SHORT	secs
-$MISC_SELECT	Select
-$MISC_SELECT_CHALLENGE	Select Challenge:
-$MISC_SELL	sell
-$MISC_SEND_NEXT	Send NEXT
-$MISC_SKILL	skill
-$MISC_SKILLS	skills
-$MISC_INSPECT	inspect
-$MISC_SKIP	skip
-$MISC_SLOW	slow
-$MISC_SPAWNS	spawns
-$MISC_SPECIAL	special
-$MISC_SPEED	speed
-$MISC_SPEED_SHORT	SPD
-$MISC_SPELL	spell
-$MISC_SPLASH_DAMAGE	Splash
-$MISC_SPLASH_LINE	<AMT> dmg, <TILES> tiles
-$MISC_STATS	stats
-$MISC_STATUS	status
-$MISC_STRANGER	stranger
-$MISC_STRENGTHS	strengths
-$MISC_SWIMS	swims
-$MISC_TALK	talk
-$MISC_THORNS	thorns
-$MISC_THRESHOLD	threshold
-$MISC_TIPS	Tips
-$MISC_TO	to
-$MISC_TOWN	Town
-$MISC_TRY_AGAIN	Try Again
-$MISC_TYPES	Types
-$MISC_UNDO	undo
-$MISC_UNDO_ALL	undo all
-$MISC_UNEQUIP	unequip
-$MISC_UNIQUE	unique
-$MISC_UNKNOWN	unknown
-$MISC_UNSAVED	unsaved
-$MISC_UP_TO_X_FOES	Up to <NUM> <FOE>
-$MISC_UP_TO_X_FRIENDS	Up to <NUM> <FRIEND>
-$MISC_UPGRADE	upgrade
-$MISC_VERSUS	versus
-$MISC_VICTORY	Victory
-$MISC_VS	vs
-$MISC_WAIT	WAIT
-$MISC_WALKS_ON	walks on
-$MISC_WARNING	Warning!
-$MISC_WAVE_X	Wave <X>
-$MISC_WAVES	Waves
-$MISC_WEAKNESSES	weaknesses
-$MISC_WEAPON_SINGULAR	weapon
-$MISC_WEAPON	<RE>$MISC_WEAPONS
-$MISC_WEAPONS	weapons
-$MISC_WEAPON_PLURAL	<RE>$MISC_WEAPONS
-$MISC_ACCESSORY_SINGULAR	<RE>$MISC_ACCESSORY
-$MISC_ACCESSORY	accessory
-$MISC_ACCESSORIES	accessories
-$MISC_ACCESSORY_PLURAL	<RE>$MISC_ACCESSORIES
-$MISC_X_FOES	<NUM> foes
-$MISC_X_FRIENDS	<NUM> friends
-$MISC_X_HITS_FOE	<NUM> per foe
-$MISC_X_HITS_FRIEND	<NUM> per friend
-$MISC_X_HITS_TARGET	<NUM> per target
-$MISC_X_HITS_TOTAL	<NUM> total
-$MISC_X_MORE	<X> more...
-$MISC_X_PSI	<X> PSI
-$MISC_XP	xp
-$MISC_XP_TT_TEXT	Experience points you get after a battle.<N><RE>[$MISC_ADJUST_REWARDS]
-$MISC_XP_TT_TITLE	Experience
-$MISC_YES	yes
-$MISC_YOU_SURE	Are you sure?
-$NEW_GAME_PLUS_NOTE	Go to the save screen and select NEW GAME+ on your old save slot.
-$PARTY_1_NEW_ACHIEVE	1 new achievement!
-$PARTY_ACHIEVE_PLURAL	achievements
-$PARTY_ACHIEVE_SINGULAR	achievement
-$PARTY_ATTACK	Attack:<T>
-$PARTY_CANT_ARMOR	Can't<N>use<N>ARMOR
-$PARTY_CANT_WEAPON	Can't<N>use<N>WEAPONS
-$PARTY_CHANGE_NAME	Rename
-$PARTY_CHARACTER	character
-$PARTY_CHARACTERS	characters
-$PARTY_CONFIRM_CHANGES	Confirm Changes
-$PARTY_CONFIRM_POINTS_1_1	Permanently assign 1 skill point to 1 character?
-$PARTY_CONFIRM_POINTS_1_X	Permanently assign 1 skill point to <CHARS> characters?
-$PARTY_CONFIRM_POINTS_TITLE	Confirm Skill Points
-$PARTY_CONFIRM_POINTS_X_1	Permanently assign <POINTS> skill points to 1 character?
-$PARTY_CONFIRM_POINTS_X_X	Permanently assign <POINTS> skill points to <CHARS> characters?
-$PARTY_DEFEATED_WAVE_X	Defeated wave <X>
-$PARTY_DEFEND	Defend:<T>
-$PARTY_EVADE	Evade:<T>
-$PARTY_FAIL_PENALTY	Fail penalty
-$PARTY_FAILED	Level Failed!
-$PARTY_FAILED_DESC	<MCG> was slain.
-$PARTY_FROM_BATTLE	From battle
-$PARTY_GO_TO_MAP	Go to Map
-$PARTY_HP	HP
-$PARTY_NO_AFFORD	You can't afford that!<N>Cost: <COST><N>Scrap: <SCRAP>
-$PARTY_NO_NEW_ACHIEVE	No new achievements.
-$PARTY_NO_POINTS	There's no skill points to re-assign!
-$PARTY_PASSED	Level Passed!
-$PARTY_PASSED_ALLY_DEAD_DESC	<ALLY> was slain,<N>but <MCG> survived.
-$PARTY_PASSED_DESC	<MCG> survived the battle,<N>with injuries.
-$PARTY_PASSED_WORD	Passed
-$PARTY_PASSED+	Level Passed!+
-$PARTY_PASSED+_DESC	<MCG> was injured!<N><ALLY> survived!
-$PARTY_PASSED++	Level Passed!++
-$PARTY_PASSED++_DESC	<MCG> was injured!<N><ALLY> survived unharmed!
-$PARTY_PERFECT	PERFECT!
-$PARTY_PERFECT_ALLY_DEAD_DESC	<MCG> was unharmed, but <ALLY> perished.
-$PARTY_PERFECT_DESC	<MCG> survived unharmed!
-$PARTY_PERFECT_WORD	Perfect
-$PARTY_PERFECT+	PERFECT!+
-$PARTY_PERFECT+_DESC	<MCG> was unharmed!<N><ALLY> was injured!
-$PARTY_PERFECT++	PERFECT!++
-$PARTY_PERFECT++_DESC	<MCG> and <ALLY><N>were unharmed!
-$PARTY_POINT	point
-$PARTY_POINTS	points
-$PARTY_PSI	PSI
-$PARTY_RANGE	Range:<T>
-$PARTY_RE_ASSIGN	Re-assign all of <NAME>'s skills?<N>Cost: <COST><N>Scrap: <SCRAP>
-$PARTY_REACHED_WAVE_X	Reached wave <X>
-$PARTY_REDESIGN	Redesign
-$PARTY_REGEN	Regen:<T>
-$PARTY_RENAME	Rename
-$PARTY_RESET_POINTS	Reset pts
-$PARTY_RETURN_TOWN	Return to Town
-$PARTY_SPEED	Speed:<T>
-$PARTY_TOTAL	Total
-$PARTY_WELL_DONE	WELL DONE!
-$PARTY_X_NEW_ACHIEVE	<NUM> new achievements!
-$PARTY_X_PTS	<X> pts
-$PARTY_XP	XP
-$REWARD_FINISH	Ends the game
-$REWARD_GOLD	#ERROR!
-$REWARD_NEXT_LEVEL	Unlocks next level
-$REWARD_NO_GOLD	Nothing!
-$REWARD_NO_XP	Nothing!
-$REWARD_QUEST	Quest completed
-$REWARD_XP	#ERROR!
-$RQ	”
-$SAVE_SLOT_DELETE	Delete
-$SAVE_SLOT_DELETE_TEXT	Permanently deletes this save slot from your computer. You know what you're doing, right?
-$SAVE_SLOT_DELETE_TITLE	Delete save slot
-$SAVE_SLOT_EXPORT	Export
-$SAVE_SLOT_EXPORT_TEXT	Backup your save slot to a simple text file.
-$SAVE_SLOT_EXPORT_TITLE	Export save to file
-$SAVE_SLOT_IMPORT	Import
-$SAVE_SLOT_IMPORT_TEXT	Browse your computer for a Defender's Quest save file to use.
-$SAVE_SLOT_IMPORT_TITLE	Import save from file
-$SAVE_SLOT_NEW_GAME	New Game
-$SAVE_SLOT_NEW_GAME_PLUS	New Game+
-$SAVE_SLOT_NEW_GAME_PLUS_TEXT	Starts a new, more challenging quest, while keeping all of your experience, skills, and equipment. New Game+ features new enemy types, new sidequests, more powerful equipment, and a greatly expanded journal. <N><N>NOTE: Party progress is SHARED between your original game and New Game+. You can freely go back and forth between them at any time without losing anything.
-$SAVE_SLOT_NEW_GAME_PLUS_TITLE	Start a New Game+
-$SAVE_SLOT_PLAY	Play
-$SAVE_SLOT_PLAY_PLUS	Play+
-$SAVE_SLOT_PLAY_PLUS_TEXT	Party progress is SHARED between your original game and New Game+. You can freely go back and forth between them at any time without losing anything.
-$SAVE_SLOT_PLAY_PLUS_TITLE	Resume New Game+
-$SKILL_DESC_ADDS_CHANCE_TO_ALL	Adds <PERCENT>%<EXTRA> chance of <FLAV>* to all attacks.
-$SKILL_DESC_ADDS_CHANCE_TO_ONE	Adds <PERCENT>%<EXTRA> chance of <FLAV>* to <LQ><ATTACK><RQ>.
-$SKILL_DESC_ADDS_TO_ALL	Adds <FLAV>* to all attacks.
-$SKILL_DESC_ADDS_TO_ONE	Adds <FLAV>* to <LQ><ATTACK><RQ>.
-$SKILL_DESC_COOLDOWN	Cooldown
-$SKILL_DESC_DMG	Dmg
-$SKILL_DESC_EFFECT	Effect
-$SKILL_DESC_HEAL	Heal
-$SKILL_DESC_HITS	Hits
-$SKILL_DESC_HITS_NUM	# Hits
-$SKILL_DESC_PSI_COST	Psi Cost
-$SKILL_DESC_SPECIAL	
-$SKILL_DESC_SPLASH	Splash
-$SKILL_DESC_TARGET	Target
-$SKILL_DESC_TOTAL_BONUS	Total bonus to <STAT>*<N>becomes +<AMOUNT><EXTRA>.
-$SPECIAL_IMPROVES	Improves <FLAVOR>:
-$SPECIAL_PLUS_FLAV	Adds <FLAVOR>:
-$SPECIAL_SAVE_VS	Save vs. <FLAVOR> if HP >= <PERCENT>%
-$STAT_DESC_ARMOR	ARMOR<N>Amount of damage absorbed.
-$STAT_DESC_ARMOR_ENEMY	ARMOR<N>Amount of damage absorbed.
-$STAT_DESC_ATTACK	ATTACK<N>Makes techniques do more damage.
-$STAT_DESC_ATTACK_ENEMY	ATTACK<N>Damage inflicted by enemy's best attack.
-$STAT_DESC_BARRIER	BARRIER<N>Layers of protection from damage. Only extremely powerful magic can lower this.
-$STAT_DESC_DEFENSE	DEFENSE<N>Amount of damage absorbed.
-$STAT_DESC_DEFENSE_ENEMY	ARMOR<N>Amount of damage absorbed.
-$STAT_DESC_EVADE	EVADE<N>Chance of avoiding enemy attacks.
-$STAT_DESC_EVADE_ENEMY	EVADE<N>Chance of avoiding attacks.
-$STAT_DESC_FINAL_HIT	FINAL HIT<N>How much damage <FINAL_HIT_TARGET> receives when enemy reaches the end.
-$STAT_DESC_HP	HIT POINTS<N>If it reaches 0, you're knocked out of battle.
-$STAT_DESC_PHASING	PHASING<N>Periodically phases in and out;Can't be targetted or hit when phased out.<N>Pattern is tiles (in, out).
-$STAT_DESC_RANGE	RANGE<N>Size of attack radius.
-$STAT_DESC_RANGE_ENEMY	RANGE<N>Size of attack radius.
-$STAT_DESC_REGEN	REGENERATION<N>How fast HP recovers in HP/sec.
-$STAT_DESC_REGEN_ENEMY	REGENERATION<N>How fast HP recovers in HP/sec.
-$STAT_DESC_SPAWN	SPAWNS:<N>
-$STAT_DESC_SPEED	SPEED<N>Attack cooldown speed:<N>Every <SPEED_SHOW_MULT> points increases cooldown speed by 1x
-$STAT_DESC_SPEED_ENEMY	SPEED<N>How fast an enemy moves and attacks. 1 point = 1 tile per second.
-$STAT_DESC_SPELLS	SPELLS
-$STAT_DESC_STRONGS	STRENGTHS
-$STAT_DESC_THORNS	THORNS<N>Deals this much damage to a melee attacker.
-$STAT_DESC_WEAKS	WEAKNESSES
-$STAT_DESC_XP	EXPERIENCE<N>
-$STATE_CRASH_DETAILS	Details:
-$STATE_CRASH_PROMPT	What would you like to do?
-$STATE_CRASH_SEND	Send report<N>to developer
-$STATE_CRASH_SHOW_DUMP	Show crash<N>dump files
-$STATE_CRASH_TITLE	Critical Error!
-$STATUS_DESC_ANONYMOUS	#ERROR!
-$STATUS_DESC_BLEED	Takes +<PERCENT>% DMG.
-$STATUS_DESC_BLINDED	Attacks miss <PERCENT>% of the time.
-$STATUS_DESC_BURN	<AMT_1DIG> DMG/sec<N>Cancelled by ice.
-$STATUS_DESC_CHILL	-<PERCENT>% speed.<N>Cancelled by fire.
-$STATUS_DESC_DARK	Dodges non-area attacks <PERCENT>% of the time.
-$STATUS_DESC_DARK_FRENZY	<RE>$STATUS_DESC_FRENZY
-$STATUS_DESC_DISEASE	Regeneration reduced by <PERCENT>%
-$STATUS_DESC_EVER_BLEED	<RE>$STATUS_DESC_BLEED
-$STATUS_DESC_EVER_POISON	<INTI> DMG/sec.
-$STATUS_DESC_FB_BORED	Can't be bothered to move.
-$STATUS_DESC_FB_EXISTENTIAL	-<PERCENT>% speed, +<PERCENT>% damage resist.
-$STATUS_DESC_FB_HAPPY	#ERROR!
-$STATUS_DESC_FB_LOL	#ERROR!
-$STATUS_DESC_FB_OMG	#ERROR!
-$STATUS_DESC_FB_SAD	-<PERCENT>% speed.
-$STATUS_DESC_FIRE	<RE>$STATUS_DESC_BURN
-$STATUS_DESC_FREEZE	Can't move.<N>Cancelled by fire.
-$STATUS_DESC_FRENZY	Speed up by <PERCENT>%	COMMENT: Status descriptions have LOTS of variables. Ask Lars is you have any questions.
-$STATUS_DESC_INSPIRE	<RE>$STATUS_DESC_INSPIRED
-$STATUS_DESC_INSPIRED	Attacks deal +<M_MULT_PERCENT>% DMG.
-$STATUS_DESC_INSPIRED_HIT	<RE>$STATUS_DESC_INSPIRED
-$STATUS_DESC_LIGHT	Removes darkness.
-$STATUS_DESC_POISON	<INTI> DMG/sec for <TIME> sec
-$STATUS_DESC_SINGLE_STUN	Can't move. Can only be inflicted once.
-$STATUS_DESC_SLOW	-<PERCENT>% speed.
-$STATUS_DESC_STUN	Can't move.
-$STATUS_DESC_TROLL	Dodges attacks <PERCENT> % of the time.
-$STATUS_TIME_FOREVER	Lasts forever.
-$STATUS_TIME_LEFT	<TIME_LEFT>/<TIME> seconds left.
-$STRONG_DMG_MULT	<PERCENT>% DMG resist vs. <FLAVOR>
-$STRONG_EVADE	<PERCENT>% evade <FLAVOR>
-$TALK_ASH	ASH REFUGEE
-$TALK_CULTIST	CULTIST PRIEST
-$TALK_NOMAD	NOMAD REFUGEE
-$TALK_QUAID	QUAID REFUGEE
-$TARGET_BOSS_TEXT	If not pressed, ignore boss enemies.
-$TARGET_BOSS_TITLE	Target BOSS
-$TARGET_BOTH_TEXT	Use techniques according to boost level.
-$TARGET_BOTH_TITLE	Normal priority
-$TARGET_BULLDOG_TEXT	Never change targets until the enemy leaves range or dies.<N><N>Kinda tricky, recommended for advanced players only!
-$TARGET_BULLDOG_TITLE	BULLDOG mode
-$TARGET_CHANCE_TEXT	Target the enemy least likely to dodge or resist the attack.
-$TARGET_CHANCE_TITLE	Best CHANCE
-$TARGET_CHEAP_TEXT	Save higher-boost techniques for targets that can't be killed with a lesser one.
-$TARGET_CHEAP_TITLE	CHEAPEST technique
-$TARGET_EFFECT_TEXT	Use status effect attacks against the least affected enemy.
-$TARGET_EFFECT_TITLE	Optimize EFFECTS
-$TARGET_FAST_TEXT	Target the fastest moving enemy.
-$TARGET_FAST_TITLE	Target FASTEST
-$TARGET_FIGHT_TEXT	Attack whenever possible, even if a better heal technique is ready.
-$TARGET_FIGHT_TITLE	Prioritize FIGHTING
-$TARGET_FIRST_TEXT	Target the enemy closest to the end.
-$TARGET_FIRST_TITLE	Target FIRST
-$TARGET_HEAL_TEXT	Heal whenever possible, even if a better attack technique is ready.
-$TARGET_HEAL_TITLE	Prioritize HEALING
-$TARGET_LAST_TEXT	Target the enemy furthest from the end.
-$TARGET_LAST_TITLE	Target LAST
-$TARGET_SAVE_TEXT	Makes the current target settings the default for this character.
-$TARGET_SAVE_TITLE	SAVE settings
-$TARGET_SPECIFIC_TEXT	Manually select a specific enemy to attack, ignoring all others.
-$TARGET_SPECIFIC_TITLE	Target SPECIFIC
-$TARGET_STRONG_TEXT	Target the enemy with the most HP + Armor.
-$TARGET_STRONG_TITLE	Target STRONGEST
-$TARGET_WEAK_TEXT	Target the enemy with the least HP + Armor.
-$TARGET_WEAK_TITLE	Target WEAKEST
-$TIP_00_TEXT	<N><N>Sometimes it is helpful to go back and play an earlier battle to level up, get some gold, and buy better equipment. You can also try 'Casual' difficulty for a lighter challenge.
-$TIP_00_TITLE	Get Stuck?
-$TIP_10_TEXT	You can control the game with the keyboard!<N><N>- Select spells<N>- Select characters to summon<N>- Boost / recall defenders<N>- Pause / unpause the game<N>- Cycle through summoned defenders<N>- Change targeting/speed options<N>- Tab-navigate through any interface<N>- Move cursor/click with the keyboard<N><N>(Customize keys in the options menu)
-$TIP_10_TITLE	Hotkeys
-$TIP_100_TEXT	Recalling summoned defenders will let you regain a portion of the Psi you've invested in them.<N><N>The amount of recalled Psi gets lower when the defender is injured.
-$TIP_100_TITLE	Recalling
-$TIP_110_TEXT	If you have physical disabilities, check out the following in the options menu:<N><N>1) Video - play in fullscreen mode, scale up the visuals<N>2) Controls - remap all the controls<N>3) Accessibility - toggle effects, play speed, and experience multiplier
-$TIP_110_TITLE	Accessibility
-$TIP_120_TEXT	This hint is simply included so nobody tries analyzing codes or deciphering enigmas.
-$TIP_120_TITLE	Public Service Announcement
-$TIP_130_TEXT	If you click on a defender, you can set their targeting options to favor enemies in the front, back, strong, weak, or fast - use these to optimize your attacks. For example, 'strong' can help you focus on bigger units or soften up a whole crowd.
-$TIP_130_TITLE	Targeting Options
-$TIP_140_TEXT	In addition to basic targeting options, there are four optional settings:<N><N>1) Cheapest technique <N>2) Optimize Effects <N>3) Best Chance <N>4) Bulldog mode<N><N>These aren't necessary, but can help advanced players maximize their battle strategies. You can even save default target options for a given character!
-$TIP_140_TITLE	Advanced Targeting
-$TIP_150_TEXT	Fire and ice don't play well together.  Chill and freeze will cancel fire, fire will melt freeze, and will cancel chill.
-$TIP_150_TITLE	Fire and Ice
-$TIP_160_TEXT	The 'Advanced' and 'Extreme' difficulties will usually be too tough to try immediately.<N><N>Give them a try after you've beaten the next few battles on normal.
-$TIP_160_TITLE	Higher Difficulties
-$TIP_170_TEXT	When you buy new equipment for your hero characters, your old stuff makes great hand-me-downs for your other party members.
-$TIP_170_TITLE	Equipment
-$TIP_180_TEXT	Grouping defenders close together makes enemies spread out their attacks, making it easier for each of them to survive.<N><N>The drawback to this strategy is that you cover less area.
-$TIP_180_TITLE	Strength in Numbers
-$TIP_190_TEXT	If you want to adjust the game's level-up pace, you can change the global experience multiplier from the options menu.<N><N>The default setting is 100%.<N><N>You can also change the multiplier for scrap.
-$TIP_190_TITLE	Reward Multiplier
-$TIP_20_TEXT	Each defender gains 1 skill point whenever they level up.<N><N>Assign these points in the party menu to unlock new abilities for battle.<N><N>1) TECHNIQUES (round) - attacks used in battle<N>2) TRAITS (square) - passive, 'always-on' abilities.<N><N>More advanced techniques require boosting to use in battle.
-$TIP_20_TITLE	Skills
-$TIP_200_TEXT	Sometimes a particular technique may be throwing off your groove (perhaps your dragon fireballs are melting all your ice), or you just want to save a powerful attack for later. If so, you can click on the defender, then click on the technique in the menu on the lower-right to temporarily disable it.
-$TIP_200_TITLE	Disabling Techniques
-$TIP_210_TEXT	On the save game menu, there's a button with a picture of a folder and floppy disk.<N><N>This will take you to where your saved games and configuration file are stored.
-$TIP_210_TITLE	Where Are My Save Files?
-$TIP_220_TEXT	After you finish the regular game, you can start a new adventure with your old party, with harder battles and crazy rewards!<N><N><RE>[$NEW_GAME_PLUS_NOTE]
-$TIP_220_TITLE	New Game+
-$TIP_230_TEXT	In NG+ mode, you'll be able to earn special artifacts that you can use to upgrade unique equipment from the regular game. These upgraded items have special powers!
-$TIP_230_TITLE	Upgrades
-$TIP_240_TEXT	Once you've earned enough stars, you'll start unlocking bonus battles. These special missions have extra challenges and extra rewards.
-$TIP_240_TITLE	Bonus Missions
-$TIP_250_TEXT	The Lightning spell has 'Psi burn', which burns off a proportion of the enemy's Psi reward each time.  If the spell does 40% damage to the enemy, 40% of their normal Psi reward will be removed.
-$TIP_250_TITLE	Psi Burn?
-$TIP_260_TEXT	Did you know you can make your own mods (modifications) of Defender's Quest?<N><N>Click on the wrench button in the save game menu.  You can change almost anything - stats, levels, classes, characters, cutscenes, graphics, items, etc.
-$TIP_260_TITLE	Mod Support
-$TIP_270_TEXT	<N><N>Call your mother, she misses you.
-$TIP_270_TITLE	Remember Mom
-$TIP_30_TEXT	<N><N>After a battle, everyone gets the same experience if they were alive and summoned at the end.<N><N>Everyone else gets half experience.  XP per character is the same regardless of number of characters.<N><N>You can change this penalty in the Accessibility menu.
-$TIP_30_TITLE	Who Gets Experience?
-$TIP_40_TEXT	You can click and drag to pan around the overworld, or navigate with the keyboard.<N><N>Scrolling is mapped to the arrow keys by default.
-$TIP_40_TITLE	Overworld
-$TIP_50_TEXT	Recalling defenders normally nets you only a portion of the invested Psi.<N><N>If you recall them before the first enemy wave spawns, however, you'll get 100% of your Psi back.
-$TIP_50_TITLE	Recall for 100% Psi
-$TIP_60_TEXT	If you have a question, join the Defender's Quest online community at www.defendersquest.com!<N><N>We have a forum where you can ask questions, a collaborative wiki, as well as a development blog.
-$TIP_60_TITLE	Website and Forum
-$TIP_70_TEXT	You can use the keyboard to place defenders in battle.<N><N>Default controls are mapped to the arrow keys.
-$TIP_70_TITLE	Place Defenders
-$TIP_80_TEXT	The colors of the bouncing numbers indicate damage type.  White is normal, grey is reduced by armor, red is bleeding, orange is fire, purple is poison, and big is critical. <N><N>You can turn them on and off in the options menu under 'Gameplay.'
-$TIP_80_TITLE	Battle Effects
-$TIP_90_TEXT	As you play levels on higher difficulties, you will occasionally find unique items.  These are powerful collectible items and cannot be sold in stores.
-$TIP_90_TITLE	Unique Items
-$TITLE_BONUS_GOODIES	Bonus Goodies
-$TITLE_BONUS_GOODIES_2	Secrets?
-$TITLE_CONNECTING_KONG	Connecting to KONG...
-$TITLE_EULA_1	By playing this you agree to our
-$TITLE_EULA_2	End User License Agreement
-$TITLE_FULL_GAME	FULL GAME
-$TITLE_OPTIONS	Options
-$TITLE_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
-$TITLE_QUIT	Quit
-$TITLE_RELOAD_MOD	Reload Mod
-$TITLE_START	Start
-$TITLE_START_DEMO	Start DEMO
-$TITLE_START_GAME	Start GAME
-$TITLE_UNLOAD_MOD	Unload Mod
-$TOOLTIP_ADVANCED	Harder challenge, with greater rewards.<N><N>Come back when you're strong enough.
-$TOOLTIP_CASUAL	In casual mode, enemies have reduced hitpoints and attack damage.
-$TOOLTIP_CHANGE_PATH_1	NOTE:
-$TOOLTIP_CHANGE_PATH_2	Your old files won't automatically transfer to the new location.<N><N>They will remain in the original directory.
-$TOOLTIP_EXTREME	Hardest challenge, with the greatest rewards.<N><N>Be prepared!
-$TOOLTIP_NORMAL	Normal challenge.<N><N>Most players should start here.
-$TYPE_ARMOR	Armored
-$TYPE_ATTACKER	Attacker
-$TYPE_BOSS	Boss
-$TYPE_CULTIST	Cultist
-$TYPE_DARK	Dark
-$TYPE_EXALTED	Exalted
-$TYPE_FAST	Fast
-$TYPE_NO_END_DAMAGE	NoEndDamage
-$TYPE_NORMAL	Normal
-$TYPE_NUKE_ON_KILL	NukeOnKill
-$TYPE_REVENANT	Revenant
-$TYPE_SHEEP	Sheep
-$TYPE_SNAIL	Snail
-$TYPE_SPITTER	Spitter
-$TYPE_SPLITTER	Splitter
-$TYPE_STATIONARY	Stationary
-$TYPE_TELEPORTER	Teleporter
-$TYPE_WATER	Water
-$TYPE_WORM	Worm
-$UI_ACCEPT_NUMS	font:18,off_y:1,off_x:-3
-$UI_ACCESS_ABSENCE	ABSENCE
-$UI_ACCESS_DEFAULT	*Default Settings
-$UI_ACCESS_FAIL	FAILURE
-$UI_ACCESS_FAILURE_PENALTY	Failure Penalty
-$UI_ACCESS_FLASHING	Flashing Effects
-$UI_ACCESS_NUMS	font:18,off_y:1,off_x:-2,show_boxes:1,absence_off_x:0,speed_off_x:0
-$UI_ACCESS_PENALTIES	PENALTIES
-$UI_ACCESS_REWARDS	REWARDS
-$UI_ACCESS_SEE_ALSO	See Also:
-$UI_ACCESS_SPEED	Game Speed
-$UI_ACCESS_TITLE	Accessibility
-$UI_ACHIEVE_CATEGORIES	Categories
-$UI_ACHIEVE_COMPLETION	Completion
-$UI_ACHIEVE_EASY	Easy
-$UI_ACHIEVE_HARD	Hard
-$UI_ACHIEVE_IMPOSSIBLE	Impossible
-$UI_ACHIEVE_MEDIUM	Medium
-$UI_ACHIEVE_POP_UP	Pop-up Notifier
-$UI_ACHIEVE_TRAINER	Trainer
-$UI_ACHIEVEMENTS_BUTTON_NUMBERS	font:18,offy:-2
-$UI_ACHIEVEMENTS_NUMS	font:18,off_y:0,pop_up_off_y:0
-$UI_ACHIEVEMENTS_TITLE	Achievements
-$UI_ALL_FILES	All Files
-$UI_AUDIO_NUMS	font:18,off_y:1,off_x:-2
-$UI_AUDIO_TITLE	Audio
-$UI_BACK_NUMS	font:18,off_y:1,off_x:-3
-$UI_BATTLE_CASH_OUT	Cash Out
-$UI_BATTLE_CASH_OUT_TEXT	End the battle now and collect any rewards you've earned?
-$UI_BATTLE_CASH_OUT?	Cash Out?
-$UI_BATTLE_MORE	MORE
-$UI_BATTLE_NEXT	NEXT
-$UI_BATTLE_SEND_NEXT	Send<N>NEXT
-$UI_BATTLE_WAVE	Wave
-$UI_BATTLE_WAVES	Waves
-$UI_BONUS_BLUE_STARS_LINE	<STAR_NUM> blue stars
-$UI_BONUS_BONUS_LEVELS	Bonus Levels
-$UI_BONUS_GOLD_STARS_LINE	<STAR_NUM> gold stars
-$UI_BONUS_STARS_LINE	<STAR_NUM> <STAR_COLOR> stars
-$UI_CLOUD_UNKNOWN	Cloud Saves
-$UI_CLOUD_UNKNOWN_TEXT	<N>Enable Steam cloud saves?
-$UI_CLOUD_UNKNOWN_TEXT_2	You can change this setting<N>at any time in:<N>Options:Miscellaneous
-$UI_CONFLICT_BACKUP	Backup the file I don't pick to:<N><LOC>
-$UI_CONFLICT_BETTER	We think this one seems better
-$UI_CONFLICT_BUTTON	Use this
-$UI_CONFLICT_CLOUD	CLOUD
-$UI_CONFLICT_LOCAL	COMPUTER
-$UI_CONFLICT_MSG	We're not sure which of these should go in Slot <SLOT>.<N>Please pick the one you want to keep.
-$UI_CONFLICT_NGP	New Game+
-$UI_CONFLICT_TITLE	Steam Cloud Conflict!
-$UI_CONTROLS_ACCEL	Acceleration
-$UI_CONTROLS_ACCEPT	Accept
-$UI_CONTROLS_ACCEPT_SELECT	Accept/Select
-$UI_CONTROLS_AUTO	Auto-detect
-$UI_CONTROLS_BACK	Back
-$UI_CONTROLS_BACK_CANCEL	Back/Cancel
-$UI_CONTROLS_BOOST	Boost
-$UI_CONTROLS_CANCEL	Cancel
-$UI_CONTROLS_CHARACTER	Character
-$UI_CONTROLS_CLASS	Class
-$UI_CONTROLS_CLICK	Click
-$UI_CONTROLS_CURSOR	Cursor
-$UI_CONTROLS_CYCLE	Cycle<N>Defenders
-$UI_CONTROLS_CYCLE_NUMS	off_x:-5,off_y:0
-$UI_CONTROLS_DEVICE	Device
-$UI_CONTROLS_FAST	Fast
-$UI_CONTROLS_GAMEPAD	Gamepad
-$UI_CONTROLS_GAMEPAD_MODEL	Model
-$UI_CONTROLS_GAMEPAD_ICONS	Icons
-$UI_CONTROLS_GAMEPAD_ACTION_SET	Action Set
-$UI_CONTROLS_KEYBOARD	Mouse & Keyboard
-$UI_CONTROLS_STEAM_CONTROLLER	Steam Controller
-$UI_CONTROLS_LOGITECH	Logitech
-$UI_CONTROLS_MENU	Menu
-$UI_CONTROLS_MENU_ALT	Menu 2
-$UI_CONTROLS_MINUS_PLUS_SPEED	-/+<N>Speed
-$UI_CONTROLS_MINUS_SPEED	- Speed
-$UI_CONTROLS_MOVE_CURSOR	Move Cursor
-$UI_CONTROLS_NAVIGATE_MENU	Navigate Menu
-$UI_CONTROLS_NONE	None
-$UI_CONTROLS_NORMAL	Normal
-$UI_CONTROLS_NUMS	font:18,off_y:1,off_x:-2
-$UI_CONTROLS_OUYA	Ouya
-$UI_CONTROLS_PAUSE	Pause
-$UI_CONTROLS_PLUS_SPEED	#NAME?
-$UI_CONTROLS_POINTER	Pointer
-$UI_CONTROLS_PRESET_AZERTY	Azerty
-$UI_CONTROLS_PRESET_COLEMAK	Colemak
-$UI_CONTROLS_PRESET_CUSTOM	Custom
-$UI_CONTROLS_PRESET_DEFAULT	Default
-$UI_CONTROLS_PRESET_DVORAK	Dvorak
-$UI_CONTROLS_PRESET_LEFTY	Lefty
-$UI_CONTROLS_PRESET_PS	PlayStation
-$UI_CONTROLS_PRESET_PSJ	Japanese Playstation
-$UI_CONTROLS_PRESET_QWERTY	Qwerty
-$UI_CONTROLS_PRESET_QWERTZ	Qwertz
-$UI_CONTROLS_PRESET_WIIU	WiiU Default
-$UI_CONTROLS_PRESET_XBOX	XBox Default
-$UI_CONTROLS_PRESETS	Presets
-$UI_CONTROLS_PS3	Playstation 3
-$UI_CONTROLS_PS4	Playstation 4
-$UI_CONTROLS_PSVITA	Playstation Vita
-$UI_CONTROLS_RECALL	Recall
-$UI_CONTROLS_SCROLL	Scroll Map,<N>Place Defender
-$UI_CONTROLS_SEE_ALSO	See Also:
-$UI_CONTROLS_SELECT	Select
-$UI_CONTROLS_SLOW	Slow
-$UI_CONTROLS_SLOWEST	Slowest
-$UI_CONTROLS_SPEED	Speed
-$UI_CONTROLS_SPELL	Spell
-$UI_CONTROLS_TAB_NAV	Tab<N>Navigation
-$UI_CONTROLS_TARGET	Target
-$UI_CONTROLS_TITLE	Controls
-$UI_CONTROLS_VIRTUAL_MOUSE	Virtual Mouse
-$UI_CONTROLS_XBOX1	Xbox One
-$UI_CONTROLS_XBOX360	Xbox 360
-$UI_CONTROLS_XINPUT	Xinput
-$UI_CONTROLS_STEAM_CONTROLLER_CONFIG	Configure
-$UI_CONTROLS_STEAM_CONTROLLER_CONFIG_FAIL_TITLE	Steam Error!
-$UI_CONTROLS_STEAM_CONTROLLER_CONFIG_FAIL_TEXT	Couldn't open configuration screen: is Steam in Big Picture mode and is Steam overlay working?
-$UI_DEFENDER_BOOST	BOOST: <PSI> Psi
-$UI_DEFENDER_BOOST_MAX	MAXIMUM BOOST
-$UI_DEFENDER_BOOST_NEED	BOOST: Need <PSI> Psi
-$UI_DEFENDER_BOOST_UNLOCK	Unlocks at BOOST LEVEL <LVL>
-$UI_DEFENDER_CLICK_TO	(Click to enable/disable)
-$UI_DEFENDER_RECALL	Recall
-$UI_DEFENDER_RECALL_LINE	RECALL:<N>+<PSI> Psi
-$UI_DEFENDER_TECHNIQUE	Technique
-$UI_DEFENDER_TECHNIQUES	TECHNIQUES
-$UI_DEFENDER_TRAIT	Trait
-$UI_DEFENDER_TRAITS	TRAITS
-$UI_DEFQ_MODS	Mod
-$UI_DEMO_IMPORT_OPTIONS	Import option settings from demo?
-$UI_DEMO_IMPORT_SAVES	Import saves from demo?
-$UI_DEMO_OPTIONS_DETECTED	Demo Options Detected!
-$UI_DEMO_SAVES_DETECTED	Demo Saves Detected!
-$UI_DOWNLOAD_BODY	Click a button to download the<N>desktop version of the game.<N><N>It will download in a new window/tab.<N>There might be a slight delay, so give it<N>a minute and try not to spam the buttons.
-$UI_DOWNLOAD_LINUX	Linux
-$UI_DOWNLOAD_MACINTOSH	Macintosh
-$UI_DOWNLOAD_SOUNDTRACK	Soundtrack
-$UI_DOWNLOAD_WARNING	DISABLE YOUR<N>POP-UP BLOCKER!
-$UI_DOWNLOAD_WINDOWS	Windows
-$UI_DQ_SAVE_FILES	DQ<X> Save Files
-$UI_EQUIP_ALL_A_HEAVY	All heavy armor equipped!
-$UI_EQUIP_ALL_A_HEAVY_EQUIPPED	All heavy armor equipped!
-$UI_EQUIP_ALL_A_LIGHT	All light armor equipped!
-$UI_EQUIP_ALL_A_LIGHT_EQUIPPED	All light armor equipped!
-$UI_EQUIP_ALL_ACC_BOOK	All books equipped!
-$UI_EQUIP_ALL_W_BOW	All bows equipped!
-$UI_EQUIP_ALL_W_BOW_EQUIPPED	All bows equipped!
-$UI_EQUIP_ALL_W_STAFF	All staffs equipped!
-$UI_EQUIP_ALL_W_STAFF_EQUIPPED	All staffs equipped!
-$UI_EQUIP_ALL_W_SWORD	All swords equipped!
-$UI_EQUIP_ALL_W_SWORD_EQUIPPED	All swords equipped!
-$UI_EQUIP_CANT_SELL_UNIQUE	Can't sell unique items!
-$UI_EQUIP_CANT_UPGRADE_A_HEAVY	You have no heavy armor I could improve!
-$UI_EQUIP_CANT_UPGRADE_A_LIGHT	You have no light armor I could improve!
-$UI_EQUIP_CANT_UPGRADE_W_BOW	You have no bows I could improve!
-$UI_EQUIP_CANT_UPGRADE_W_STAFF	You have no staffs I could improve!
-$UI_EQUIP_CANT_UPGRADE_W_SWORD	You have no swords I could improve!
-$UI_EQUIP_CLASS_CANT_A	This class can't equip armor!
-$UI_EQUIP_CLASS_CANT_W	This class can't equip weapons!
-$UI_EQUIP_COMPARE	compare
-$UI_EQUIP_EQUIP_AFTER	Equip after purchase
-$UI_EQUIP_EQUIP_WHO	Who will equip it?
-$UI_EQUIP_EQUIPPED	Equipped
-$UI_EQUIP_MAX_OWNED	MAXIMUM OWNED
-$UI_EQUIP_NAME	Name
-$UI_EQUIP_NO_A_HEAVY	No heavy armor owned!
-$UI_EQUIP_NO_A_HEAVY	No heavy armor owned!
-$UI_EQUIP_NO_A_LIGHT	No light armor owned!
-$UI_EQUIP_NO_A_LIGHT	No light armor owned!
-$UI_EQUIP_NO_ACC_BOOK	No books owned!
-$UI_EQUIP_NO_W_BOW	No bows owned!
-$UI_EQUIP_NO_W_BOW	No bows owned!
-$UI_EQUIP_NO_W_STAFF	No staffs owned!
-$UI_EQUIP_NO_W_STAFF	No staffs owned!
-$UI_EQUIP_NO_W_SWORD	No swords owned!
-$UI_EQUIP_NO_W_SWORD	No swords owned!
-$UI_EQUIP_OWNED	owned
-$UI_EQUIP_OWNER	Owner
-$UI_EQUIP_PRICE	price
-$UI_EQUIP_SELL_OLD_ARMOR_FOR	Sell old armor for <SELL_PRICE> Scrap?
-$UI_EQUIP_SELL_OLD_WEAPON_FOR	Sell old weapon for <SELL_PRICE> Scrap?
-$UI_EQUIP_SHOW_EQUIPPED	Show Equipped
-$UI_EQUIP_SHOW_EQUIPPED	Show equipped
-$UI_EQUIP_STAT	Stat
-$UI_EQUIP_WHO_WILL	Who will equip:
-$UI_EULA_TITLE	END USER LICENSE AGREEMENT
-$UI_GAMEPLAY_ALWAYS	Always
-$UI_GAMEPLAY_AUTO_UPDATE	Auto-Updater
-$UI_GAMEPLAY_BATTLE_NUMBERS	Battle Numbers
-$UI_GAMEPLAY_CLOUD_SAVE	Cloud Saves
-$UI_GAMEPLAY_DEFAULT	New Battles Only
-$UI_GAMEPLAY_DIALOGUE	Dialogue
-$UI_GAMEPLAY_DISABLE_UPDATER	Disable auto-updater
-$UI_GAMEPLAY_ENABLE_UPDATER	Check for updates when game starts
-$UI_GAMEPLAY_HIDE	Hide
-$UI_GAMEPLAY_MISCELLANEOUS	Miscellaneous
-$UI_GAMEPLAY_NEVER	Never
-$UI_GAMEPLAY_OFF	Off
-$UI_GAMEPLAY_ON	On
-$UI_GAMEPLAY_SHOW	Show
-$UI_GAMEPLAY_SLOW_FOOTNOTE	Might slow down the game
-$UI_GAMEPLAY_TRACK_NO	Don't track me, bro!
-$UI_GAMEPLAY_TRACK_YES	Let us track anonymous play stats
-$UI_GAMEPLAY_TRACKING	Data Tracking
-$UI_GAMEPLAY_TUTORIALS	Tutorials
-$UI_GRAPHICS_HD	HD
-$UI_GRAPHICS_ORIGINAL	Original
-$UI_HIGH	High
-$UI_HIGH()	High(<X>)
-$UI_LEGACY_IMPORT_SAVES	Import saves from old version of Defender's Quest?
-$UI_LEGACY_SAVES_DETECTED	Legacy Saves Detected!
-$UI_LOGGING_ALWAYS	Always
-$UI_LOGGING_ASK	Ask each time
-$UI_LOGGING_CRASH	Record crash logs
-$UI_LOGGING_CRASH_CONTENT	Include with crash log:
-$UI_LOGGING_CRASH_OPTIONS	Game settings
-$UI_LOGGING_CRASH_REPLAY	User input records
-$UI_LOGGING_CRASH_SAVES	Save files
-$UI_LOGGING_CRASH_SCREENSHOT	Screenshot
-$UI_LOGGING_CRASH_SYSTEM	System specs
-$UI_LOGGING_NEVER	Never
-$UI_LOGGING_SEND	Send crash logs to developer
-$UI_LOGGING_TITLE	Logging
-$UI_LOW	Low
-$UI_LOW()	Low(<X>)
-$UI_MISC_NUMS	font:18,off_y:1,off_x:-2
-$UI_MISC_TITLE	Miscellaneous
-$UI_MOD_ALL_FILES	All Files (*.*)
-$UI_MOD_AUTHOR	Author
-$UI_MOD_BKGS	#ERROR!
-$UI_MOD_BROWSE_QUEUE	My Mods
-$UI_MOD_BROWSE_WORKSHOP	Steam Workshop
-$UI_MOD_CREATE_NEW	Create new Mod
-$UI_MOD_DATA_ONLY	Data Only (1M)
-$UI_MOD_DEFQ_SAVE	Defender's Quest Save Files (*.dfq)
-$UI_MOD_DOWNLOAD	Downloading Mod
-$UI_MOD_DOWNLOAD_TEXT	
-$UI_MOD_EDIT	Edit
-$UI_MOD_EXISTS	Mod exists.<N>Load it?
-$UI_MOD_EXPORT_CANCEL	Export Cancelled!
-$UI_MOD_EXPORT_CANCEL_TEXT	Files are located at:
-$UI_MOD_EXPORT_CHURN	Task <TASK_PROGRESS><N><N><TASK><N><PROGRESS>
-$UI_MOD_EXPORT_FAIL	Export Failed!
-$UI_MOD_EXPORT_FAIL_TEXT	There was an error!
-$UI_MOD_EXPORT_FINISH	Export Complete!
-$UI_MOD_EXPORT_FINISH_TEXT	Your mod is located at:
-$UI_MOD_EXPORTING	Exporting Data
-$UI_MOD_INSTALL_ERROR	That mod folder name exists.<N>Try installing with a suffix?
-$UI_MOD_INSTALL_ERROR2	Sorry, we couldn't install the Mod.
-$UI_MOD_INSTALL_STANDALONE	Install from ZIP
-$UI_MOD_LATER	Later
-$UI_MOD_LOAD_EXISTING	Load existing Mod
-$UI_MOD_LOAD_FAIL	Loading Failed!
-$UI_MOD_LOAD_FAIL_TEXT	Error loading mod:
-$UI_MOD_LOAD_FINISH	Loading Complete
-$UI_MOD_LOAD_FINISH_TEXT	Mod loaded successfully.<N>Game will now Restart.
-$UI_MOD_LOAD_MOD	Load Mod
-$UI_MOD_LOAD_MOD_TEXT	Load mod <LQ><MOD><RQ>?<N>This will restart the game.
-$UI_MOD_LOADING	Loading Mod...
-$UI_MOD_MISSING	Couldn't find settings.xml.<N>Either there's no mod there,<N>or it's broken.
-$UI_MOD_MISSING_SUBSCRIBE	Subscribed Files
-$UI_MOD_MISSING_SUBSCRIBE_TEXT	Would you like to download:<N><NUM> subscribed workshop file(s)?
-$UI_MOD_MOD_INCOMPAT_TEXT	<N>File is from a different mod,<N>it might be incompatible.<N><N>Try importing anyway?
-$UI_MOD_MOVIES	#ERROR!
-$UI_MOD_NAME	Enter a Name for this Mod
-$UI_MOD_NORM_INCOMPAT_TEXT	<N>A mod is active, but that<N>file is from the normal game,<N>it might be incompatibile.<N><N>Try importing anyway?
-$UI_MOD_NOT_DIR	Whoa!<N>That's not even a directory!<N>Try Again.
-$UI_MOD_PATH	Mod Files Path...
-$UI_MOD_PLAY	Play
-$UI_MOD_PLEASE_WAIT	Please Wait While<N>We Load Your Mod
-$UI_MOD_PROGRESS	Task <TASK><N>File <FILE><N>
-$UI_MOD_SELECT_DIR	Select Mod Directory
-$UI_MOD_SHARE	Share
-$UI_MOD_SHARE_TEXT_LOCAL	This will package your mod into a single file for easy distribution.
-$UI_MOD_SHARE_TEXT_STEAM	This will package and upload your mod to Steam Workshop.
-$UI_MOD_SHARE_TITLE	Share Mod
-$UI_MOD_SHARED	Shared
-$UI_MOD_SPRITES	#ERROR!
-$UI_MOD_STEAM_SEND	Sending to Steam
-$UI_MOD_STEAM_UPLOAD	Uploading to Steam...
-$UI_MOD_STEAM_WAIT	Waiting for response from Steam...<N>(Might be a short wait)
-$UI_MOD_SUBSCRIBED	Subscribed
-$UI_MOD_TEMPLATE_SETTINGS	Mod Template Settings
-$UI_MOD_TITLE	Modifications
-$UI_MOD_TITLE	Modifications
-$UI_MOD_UPDATE	Update
-$UI_MOD_UPDATE_STEAM_FINISH	Update Complete
-$UI_MOD_UPDATE_STEAM_FINISH_TEXT	Mod successfully updated on<N>Steam Workshop
-$UI_MOD_UPDATE_TEXT_STEAM	This will update your mod on Steam Workshop.
-$UI_MOD_WEB_BROWSER	Web Browser
-$UI_MOD_WORKSHOP	Workshop
-$UI_MOD_ZIP_FAIL	Packaging Failed!
-$UI_MOD_ZIP_FAIL_TEXT	There was an error while zipping the files.
-$UI_MOD_ZIP_FILES	Zip Files (*.*)
-$UI_MOD_ZIP_FINISH	Packaging Complete
-$UI_MOD_ZIP_FINISH_TEXT	Mod zipped successfully.
-$UI_MOD_ZIP_PROGRESS	Task <TASK><N>File <FILE><N>
-$UI_MOD_ZIP_STEAM_FAIL	Upload Failed!
-$UI_MOD_ZIP_STEAM_FAIL_TEXT	Could not upload the mod to<N>Steam Workshop.
-$UI_MOD_ZIP_STEAM_FINISH	Upload Complete
-$UI_MOD_ZIP_STEAM_FINISH_TEXT	Mod successfully uploaded to<N>Steam Workshop
-$UI_MOD_ZIPPING	Packaging Mod Files
-$UI_MOVIE_END	end
-$UI_MOVIE_QUEST	quest
-$UI_MOVIE_SCENE	scene
-$UI_MOVIE_SELECT_A_MOVIE	Select a Movie
-$UI_MUSIC	Music:
-$UI_NORM_MOD_INCOMPAT_TEXT	<N>File is from a mod,<N>it might be incompatibile.<N><N>Try importing anyway?
-$UI_OPTIONS_MENU	Options Menu
-$UI_OPTIONS_NUMS	font:18,off_y:1,off_x:-2
-$UI_OPTIONS_SPEED	Game Speed
-$UI_OPTIONS_TITLE	Options
-$UI_QUIT_NUMS	font:18,off_y:1,off_x:-2
-$UI_RECRUIT_BERSERKER_NUMS	font:14,x_off:0,y_off:0
-$UI_RECRUIT_CLASS_FULL	CLASS IS FULL
-$UI_RECRUIT_DRAGON_NUMS	font:14,x_off:0,y_off:0
-$UI_RECRUIT_HEALER_NUMS	font:14,x_off:0,y_off:0
-$UI_RECRUIT_KNIGHT_NUMS	font:14,x_off:0,y_off:0
-$UI_RECRUIT_MAGE_NUMS	font:14,x_off:0,y_off:0
-$UI_RECRUIT_RANGER_NUMS	font:14,x_off:0,y_off:0
-$UI_RESOLUTION_CHOICES	Available:
-$UI_RESOLUTION_CURRENT	Current:
-$UI_RESOLUTION_CURRENT_PARENTHESES	(Current)
-$UI_RESOLUTION_TITLE	Monitor Resolution
-$UI_RESTART_NUMS	font:18,off_y:1,off_x:-2
-$UI_SAVE_CONFIRM_DELETE	Confirm Delete?
-$UI_SAVE_CONFIRM_DELETE_TEXT	PERMANENTLY erase this<N>save slot?
-$UI_SAVE_DEMO_ATTENTION	Attention!
-$UI_SAVE_DEMO_IMPORT	Demo Import
-$UI_SAVE_DEMO_IMPORT_TEXT	That file is from the DEMO. Some adjustments might be made.<N>Is that cool?
-$UI_SAVE_DEMO_NEWER	File is from NEWER version of game,<N>it might be incompatibile.<N>Try importing anyway?
-$UI_SAVE_DEMO_OLDER	File is from OLDER version of game<N>some adjustments might be made.<N>Is that cool?
-$UI_SAVE_ERROR_INCOMPAT	Incompatible!
-$UI_SAVE_ERROR_INCOMPAT_TEXT	Error! You're playing the DEMO<N>and that file is from the FULL version
-$UI_SAVE_MENU_CHECK_GOG	Check GOG for free updates!
-$UI_SAVE_MENU_DOWNLOAD	Get downloadable version
-$UI_SAVE_MENU_FULL_VERSION	Full Version
-$UI_SAVE_MENU_KONG_DEMO	<RE>$MISC_DEMO_VERSION
-$UI_SAVE_MENU_KONG_DEMO_LOGIN_FULL	Demo - Log in to kongregate to access the full game!
-$UI_SAVE_MENU_KONG_DEMO_LOGIN_XDEMO	Demo - Log in to kongregate to access extended content!
-$UI_SAVE_MENU_KONG_XDEMO	Extended Demo Version
-$UI_SAVE_MENU_KONG_XDEMO_LOGIN	Extended Demo - Log in to kongregate to access the full game!
-$UI_SAVE_MENU_LOADED	Loading Complete!
-$UI_SAVE_PATH	Save Files Path...
-$UI_SAVE_SELECT_DIR	Select Save Directory
-$UI_SELECT_A_FILE_TEXT	Please select a save file to import
-$UI_SELECT_A_FILE_TITLE	Select a file please!
-$UI_SFX	SFX:
-$UI_SKILLS_CLICK_TO_UPGRADE	Click to Upgrade.
-$UI_SKILLS_MAX	MAXIMUM
-$UI_SKILLS_MOUSE_OVER	Mouse-over to inspect.
-$UI_SKILLS_NO_LEARN_SPELL	You haven't learned this spell yet.
-$UI_SKILLS_NO_POINTS	No points available.
-$UI_SKILLS_REQ_1PT	REQUIRES: Char. LVL <LVL>,<N><PT> point in <SKILL>
-$UI_SKILLS_REQ_XPT	REQUIRES: Char. LVL <LVL>,<N><PT> points in <SKILL>
-$UI_TIPS_TITLE	Tips & Tricks
-$UI_UPDATER_ASK_DOWNLOAD	Download the update?
-$UI_UPDATER_CANCEL	<RE>$MISC_CANCEL
-$UI_UPDATER_CHECKING	Checking for updates...
-$UI_UPDATER_CHECKSUM	Calculating checksum...
-$UI_UPDATER_CHECKSUM_MISMATCH	The file's checksum didn't match what we expected.<N><N>Possible causes are an incomplete download (likely), a security problem (unlikely), or cosmic rays (you never know!).<N><N>Either way, the update failed.
-$UI_UPDATER_CLOSE_WINDOW	You must close this window before installing the update.
-$UI_UPDATER_CONNECT_AGAIN	Connecting Again
-$UI_UPDATER_CONNECTING	Connecting to server...
-$UI_UPDATER_CURRENT_VERSION	Current Version:<T>
-$UI_UPDATER_DEB	DEB package
-$UI_UPDATER_DETAILS	Details:
-$UI_UPDATER_DOWNLOADED	Update Downloaded!
-$UI_UPDATER_DOWNLOADING_FILE	Downloading update file...
-$UI_UPDATER_DOWNLOADING_SIG	Downloading update signature...
-$UI_UPDATER_ERROR!	ERROR!
-$UI_UPDATER_EXITING	Exiting Application...
-$UI_UPDATER_FILE_IS_AT	Your update file is located at:
-$UI_UPDATER_GIVE_UP	Give Up
-$UI_UPDATER_IF_NO_WINDOW	If a navigation folder does not open, try going there manually.
-$UI_UPDATER_INSTALLING	Installing Update...
-$UI_UPDATER_NAVIGATE_NOW	Navigate to file now?
-$UI_UPDATER_NAVIGATING	Navigating to file...
-$UI_UPDATER_NEWEST_VERSION	Newest   Version:<T>
-$UI_UPDATER_NO_BIG_DEAL	This isn't a big deal, you can still play the game, you just can't reach the update server right now.
-$UI_UPDATER_NO_DOWNLOAD	Couldn't download update file.
-$UI_UPDATER_NO_INFO	Couldn't find update info on server.
-$UI_UPDATER_NO_UPDATES	No updates are available
-$UI_UPDATER_NO_VERIFY	Couldn't verify update file.
-$UI_UPDATER_NOTE	Note:
-$UI_UPDATER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
-$UI_UPDATER_RPM	RPM package
-$UI_UPDATER_SECURED_WITH	This update mechanism is secured with HTTPS,<N>as well as public key fingerprint verification.
-$UI_UPDATER_SECURITY	For security reasons, you must run the downloaded installer manually.<N><N>This program will navigate to your file's download location.
-$UI_UPDATER_SERVER_TIMEOUT	Server Timeout!
-$UI_UPDATER_TARGZ	TAR.GZ archive
-$UI_UPDATER_TRY_AGAIN	Try Again
-$UI_UPDATER_TRYING_30	Trying for 30 seconds
-$UI_UPDATER_UPDATE_EXISTS	Updated version available!
-$UI_VIDEO_AOE	Hilight area attacks
-$UI_VIDEO_BIT_DEPTH	Depth
-$UI_VIDEO_CAN_SLOW_GAME	(Can slow game)
-$UI_VIDEO_CHANGE_RES	Change Resolution
-$UI_VIDEO_CHANGE_RES_BUTTON	Change it!
-$UI_VIDEO_CHANGE_RES_TO	Change Resolution to <X>
-$UI_VIDEO_CUTSCENES	Cutscenes
-$UI_VIDEO_FULLSCREEN	Fullscreen
-$UI_VIDEO_GRAPHICS	Graphics
-$UI_VIDEO_HD	Wide (16:9)
-$UI_VIDEO_IF_DOESNT_WORK	If the new resolution doesn't work,<N>it will revert after a few seconds.
-$UI_VIDEO_MATCH_MONITOR	Match Fullscreen
-$UI_VIDEO_MODE	Mode
-$UI_VIDEO_MOUSE	Mouse Cursor
-$UI_VIDEO_MOUSE_DEFAULT	Default
-$UI_VIDEO_MOUSE_FANCY	Fancy
-$UI_VIDEO_NUMS	font:18,off_y:1,off_x:-2
-$UI_VIDEO_PARTICLES	Particles
-$UI_VIDEO_PIXELS	Pixels
-$UI_VIDEO_RECOMMENDED	Recommended:
-$UI_VIDEO_REFRESH	Refresh
-$UI_VIDEO_RES_CHANGED	Resolution changed.<N>Do you like it?<N><N>Reverting in <TIME> seconds
-$UI_VIDEO_RESOLUTION	Fullscreen Monitor Resolution
-$UI_VIDEO_SCALE	Scale
-$UI_VIDEO_SCREEN_POS	Screen Position
-$UI_VIDEO_SCREEN_SIZE	Game Window Size
-$UI_VIDEO_SD	Standard (4:3)
-$UI_VIDEO_SELECT_NEW	Select New...
-$UI_VIDEO_SETTINGS	Video Settings
-$UI_VIDEO_SHOW_ALL_RES	Show All Resolutions
-$UI_VIDEO_SPRITES	Sprites
-$UI_VIDEO_STANDARD_RATIO	(Standard ratio)
-$UI_VIDEO_SWIRL	Pre-Battle Animation
-$UI_VIDEO_TITLE	Video
-$UI_VIDEO_WARNING	Video options disabled in browser mode.
-$UI_VIDEO_WARNING2	Your system configuration does not support in-game resolution switching, unfortunately :(
-$UI_VIDEO_WARNING3	In COMPATIBILITY MODE, resolution switching is disabled.<N><N>Sorry about that!
-$UI_VIDEO_WIDESCREEN	(Widescreen)
-$UI_VIDEO_WINDOWED	Windowed
-$WEAK_DMG_MULT	#ERROR!
-$YOU_GOT	You got
-$YOU_GOT_JOIN	<NAME> the <CLASS><N>joined the party!
-$YOU_GOT_MONEY	You got <MONEY> scrap!
-$YOU_GOT_NEW_GAME_PLUS_TEXT	Congratulations! You can now start a new adventure with your old party!<N><N>Face mutant enemies with new abilities, infuse your equipment with amazing new powers, and stock your library with many new books. Engage in numerous new side-quests with additional cutscenes and story, unlock developer commentary, translate Eztli-Tenoch's speech, meet new characters, and so much more!<N><N><RE>[$NEW_GAME_PLUS_NOTE]<N><N>You can return to your <LQ>regular<RQ> game at any time.
-$YOU_GOT_NEW_GAME_PLUS_TITLE	New Game+ Unlocked!
-$YOU_GOT_NO_EQUIP	This item cannot be equipped.
-$YOU_GOT_NO_EQUIP_YET	No one in your party can equip <THING> yet.<N>Don't worry, just keep playing and new characters will show up who can.
-$YOU_GOT_X	<NUM>x <THING>!
-$GAMEPAD_TEMP_SPACER	,,,,,,
-$GAMEPAD_BUTTON_SPACER	
-$ACTIONS_MENUCONTROLS	Menu
-$ACTIONS_MENUCONTROLSWITHANALOG	Menu
-$ACTIONS_CUTSCENECONTROLS	Cutscene
-$ACTIONS_BATTLECONTROLS	Battle
-$ACTIONS_MAPCONTROLS	Overworld Map
-$ACTIONS_MENU_MENU	Menu
-$ACTIONS_MENU_SELECT	Select
-$ACTIONS_MENU_CANCEL	Cancel
-$ACTIONS_MENU_THING_1	Choice 1
-$ACTIONS_MENU_THING_2	Choice 2
-$ACTIONS_MENU_THING_3	Choice 3
-$ACTIONS_MENU_MOVE	Move Cursor
-$GAMEPAD_A	A button
-$GAMEPAD_B	B button
-$GAMEPAD_X	X button
-$GAMEPAD_Y	Y button
-$GAMEPAD_BACK	Back button
-$GAMEPAD_START	Start button
-$GAMEPAD_LEFT_SHOULDER	Left shoulder button
-$GAMEPAD_RIGHT_SHOULDER	Right shoulder button
-$GAMEPAD_LEFT_TRIGGER	Left analog trigger
-$GAMEPAD_RIGHT_TRIGGER	Right analog trigger
-$GAMEPAD_DPAD	Directional pad
-$GAMEPAD_DPAD_UP	Directional pad up
-$GAMEPAD_DPAD_DOWN	Directional pad down
-$GAMEPAD_DPAD_LEFT	Directional pad left
-$GAMEPAD_DPAD_RIGHT	Directional pad right
-$GAMEPAD_LEFT_ANALOG_STICK	Left-hand analog stick
-$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS	Left-hand analog stick, pointing LEFT
-$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS	Left-hand analog stick, pointing RIGHT
-$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS	Left-hand analog stick, pointing UP
-$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS	Left-hand analog stick, pointing DOWN
-$GAMEPAD_RIGHT_ANALOG_STICK	Right-hand analog stick
-$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS	Right-hand analog stick, pointing LEFT
-$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS	Right-hand analog stick, pointing RIGHT
-$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS	Right-hand analog stick, pointing UP
-$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS	Right-hand analog stick, pointing DOWN
-$GAMEPAD_LEFT_STICK_CLICK	Left-hand analog stick, CLICKED in
-$GAMEPAD_RIGHT_STICK_CLICK	Right-hand analog stick, CLICKED in
-$GAMEPAD_EMPTY	Nothing
-$XBOX360_A	<RE>$GAMEPAD_A
-$XBOX360_B	<RE>$GAMEPAD_B
-$XBOX360_X	<RE>$GAMEPAD_X
-$XBOX360_Y	<RE>$GAMEPAD_Y
-$XBOX360_BACK	<RE>$GAMEPAD_BACK
-$XBOX360_START	<RE>$GAMEPAD_START
-$XBOX360_LEFT_SHOULDER	<RE>$GAMEPAD_LEFT_SHOULDER
-$XBOX360_RIGHT_SHOULDER	<RE>$GAMEPAD_RIGHT_SHOULDER
-$XBOX360_LEFT_TRIGGER	<RE>$GAMEPAD_LEFT_TRIGGER
-$XBOX360_RIGHT_TRIGGER	<RE>$GAMEPAD_RIGHT_TRIGGER
-$XBOX360_DPAD	<RE>$GAMEPAD_DPAD
-$XBOX360_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
-$XBOX360_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
-$XBOX360_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
-$XBOX360_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
-$XBOX360_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
-$XBOX360_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
-$XBOX360_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
-$XBOX360_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
-$XBOX360_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
-$XBOX360_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
-$XBOX360_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
-$XBOX360_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
-$XBOX360_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
-$XBOX360_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
-$XBOX360_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
-$XBOX360_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
-$XBOX360_EMPTY	<RE>$GAMEPAD_EMPTY
-$XBOXONE_A	<RE>$GAMEPAD_A
-$XBOXONE_B	<RE>$GAMEPAD_B
-$XBOXONE_X	<RE>$GAMEPAD_X
-$XBOXONE_Y	<RE>$GAMEPAD_Y
-$XBOXONE_BACK	View button
-$XBOXONE_START	Menu button
-$XBOXONE_LEFT_SHOULDER	<RE>$GAMEPAD_LEFT_SHOULDER
-$XBOXONE_RIGHT_SHOULDER	<RE>$GAMEPAD_RIGHT_SHOULDER
-$XBOXONE_LEFT_TRIGGER	<RE>$GAMEPAD_LEFT_TRIGGER
-$XBOXONE_RIGHT_TRIGGER	<RE>$GAMEPAD_RIGHT_TRIGGER
-$XBOXONE_DPAD	<RE>$GAMEPAD_DPAD
-$XBOXONE_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
-$XBOXONE_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
-$XBOXONE_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
-$XBOXONE_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
-$XBOXONE_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
-$XBOXONE_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
-$XBOXONE_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
-$XBOXONE_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
-$XBOXONE_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
-$XBOXONE_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
-$XBOXONE_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
-$XBOXONE_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
-$XBOXONE_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
-$XBOXONE_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
-$XBOXONE_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
-$XBOXONE_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
-$XBOXONE_EMPTY	<RE>$GAMEPAD_EMPTY
-$PS4_A	X button
-$PS4_B	Circle button
-$PS4_X	Square button
-$PS4_Y	Triangle button
-$PS4_BACK	Share button
-$PS4_START	Options button
-$PS4_LEFT_SHOULDER	L1 shoulder button
-$PS4_RIGHT_SHOULDER	R1 shoulder button
-$PS4_LEFT_TRIGGER	L2 analog trigger
-$PS4_RIGHT_TRIGGER	R2 analog trigger
-$PS4_DPAD	<RE>$GAMEPAD_DPAD
-$PS4_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
-$PS4_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
-$PS4_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
-$PS4_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
-$PS4_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
-$PS4_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
-$PS4_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
-$PS4_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
-$PS4_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
-$PS4_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
-$PS4_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
-$PS4_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
-$PS4_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
-$PS4_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
-$PS4_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
-$PS4_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
-$PS4_EMPTY	<RE>$GAMEPAD_EMPTY
-$PS3_A	<RE>$PS4_A
-$PS3_B	<RE>$PS4_B
-$PS3_X	<RE>$PS4_X
-$PS3_Y	<RE>$PS4_Y
-$PS3_BACK	Select button
-$PS3_START	<RE>$GAMEPAD_START
-$PS3_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER
-$PS3_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER
-$PS3_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER
-$PS3_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
-$PS3_DPAD	<RE>$PS4_DPAD
-$PS3_DPAD_UP	<RE>$PS4_DPAD_UP
-$PS3_DPAD_DOWN	<RE>$PS4_DPAD_DOWN
-$PS3_DPAD_LEFT	<RE>$PS4_DPAD_LEFT
-$PS3_DPAD_RIGHT	<RE>$PS4_DPAD_RIGHT
-$PS3_LEFT_ANALOG_STICK	<RE>$PS4_LEFT_ANALOG_STICK
-$PS3_LEFT_ANALOG_STICK_X_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_X_MINUS
-$PS3_LEFT_ANALOG_STICK_X_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_X_PLUS
-$PS3_LEFT_ANALOG_STICK_Y_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_MINUS
-$PS3_LEFT_ANALOG_STICK_Y_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_PLUS
-$PS3_RIGHT_ANALOG_STICK	<RE>$PS4_RIGHT_ANALOG_STICK
-$PS3_RIGHT_ANALOG_STICK_X_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_MINUS
-$PS3_RIGHT_ANALOG_STICK_X_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_PLUS
-$PS3_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_MINUS
-$PS3_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_PLUS
-$PS3_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
-$PS3_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
-$PS3_EMPTY	<RE>$PS4_EMPTY
-$PSVITA_A	<RE>$PS4_A
-$PSVITA_B	<RE>$PS4_B
-$PSVITA_X	<RE>$PS4_X
-$PSVITA_Y	<RE>$PS4_Y
-$PSVITA_BACK	Select button
-$PSVITA_START	<RE>$GAMEPAD_START
-$PSVITA_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER
-$PSVITA_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER
-$PSVITA_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER
-$PSVITA_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
-$PSVITA_DPAD	<RE>$PS4_DPAD
-$PSVITA_DPAD_UP	<RE>$PS4_DPAD_UP
-$PSVITA_DPAD_DOWN	<RE>$PS4_DPAD_DOWN
-$PSVITA_DPAD_LEFT	<RE>$PS4_DPAD_LEFT
-$PSVITA_DPAD_RIGHT	<RE>$PS4_DPAD_RIGHT
-$PSVITA_LEFT_ANALOG_STICK	<RE>$PS4_LEFT_ANALOG_STICK
-$PSVITA_LEFT_ANALOG_STICK_X_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_X_MINUS
-$PSVITA_LEFT_ANALOG_STICK_X_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_X_PLUS
-$PSVITA_LEFT_ANALOG_STICK_Y_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_MINUS
-$PSVITA_LEFT_ANALOG_STICK_Y_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_PLUS
-$PSVITA_RIGHT_ANALOG_STICK	<RE>$PS4_RIGHT_ANALOG_STICK
-$PSVITA_RIGHT_ANALOG_STICK_X_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_MINUS
-$PSVITA_RIGHT_ANALOG_STICK_X_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_PLUS
-$PSVITA_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_MINUS
-$PSVITA_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_PLUS
-$PSVITA_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
-$PSVITA_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
-$PSVITA_EMPTY	<RE>$PS4_EMPTY
-$LOGITECH_A	2 (face) button
-$LOGITECH_B	3 (face) button
-$LOGITECH_X	1 (face) button
-$LOGITECH_Y	4 (face) button
-$LOGITECH_BACK	9 (back) button
-$LOGITECH_START	10 (start) button
-$LOGITECH_LEFT_SHOULDER	5 (left shoulder) button
-$LOGITECH_RIGHT_SHOULDER	6 (right shoulder) button
-$LOGITECH_LEFT_TRIGGER	7 (left analog) trigger
-$LOGITECH_RIGHT_TRIGGER	8 (right analog) trigger
-$LOGITECH_DPAD	<RE>$GAMEPAD_DPAD
-$LOGITECH_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
-$LOGITECH_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
-$LOGITECH_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
-$LOGITECH_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
-$LOGITECH_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
-$LOGITECH_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
-$LOGITECH_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
-$LOGITECH_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
-$LOGITECH_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
-$LOGITECH_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
-$LOGITECH_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
-$LOGITECH_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
-$LOGITECH_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
-$LOGITECH_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
-$LOGITECH_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
-$LOGITECH_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
-$LOGITECH_EMPTY	<RE>$GAMEPAD_EMPTY
-$WIIU_A	B button
-$WIIU_B	A button
-$WIIU_X	Y button
-$WIIU_Y	X button
-$WIIU_BACK	- (select) button
-$WIIU_START	#ERROR!
-$WIIU_LEFT_SHOULDER	L shoulder button
-$WIIU_RIGHT_SHOULDER	R shoulder button
-$WIIU_LEFT_TRIGGER	ZL analog trigger
-$WIIU_RIGHT_TRIGGER	ZR analog trigger
-$WIIU_DPAD	<RE>$GAMEPAD_DPAD
-$WIIU_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
-$WIIU_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
-$WIIU_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
-$WIIU_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
-$WIIU_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
-$WIIU_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
-$WIIU_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
-$WIIU_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
-$WIIU_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
-$WIIU_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
-$WIIU_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
-$WIIU_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
-$WIIU_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
-$WIIU_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
-$WIIU_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
-$WIIU_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
-$WIIU_EMPTY	<RE>$GAMEPAD_EMPTY
-$OUYA_A	O button
-$OUYA_B	A button
-$OUYA_X	U button
-$OUYA_Y	Y button
-$OUYA_BACK	<RE>$GAMEPAD_BACK
-$OUYA_START	<RE>$GAMEPAD_START
-$OUYA_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER
-$OUYA_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER
-$OUYA_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER
-$OUYA_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
-$OUYA_DPAD	<RE>$GAMEPAD_DPAD
-$OUYA_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
-$OUYA_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
-$OUYA_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
-$OUYA_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
-$OUYA_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
-$OUYA_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
-$OUYA_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
-$OUYA_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
-$OUYA_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
-$OUYA_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
-$OUYA_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
-$OUYA_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
-$OUYA_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
-$OUYA_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
-$OUYA_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
-$OUYA_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
-$OUYA_EMPTY	<RE>$GAMEPAD_EMPTY
-$MISC_INPUT_0	Input:
-$MISC_INPUT_1	Input 1:
-$MISC_INPUT_2	Input 2:
-$MISC_INPUT_3	Input 3:
-$GAMEPAD_NOTE	Select to customize
-$MISC_DEVICE_DISCONNECTED_TITLE	Device Disconnected!
-$MISC_DEVICE_DISCONNECTED_TEXT	<NAME> in slot <SLOT> was disconnected!
-$MISC_EDIT	Edit
-$SOFT_KEYBOARD_SPACE	Space
-$SOFT_KEYBOARD_BACKSPACE	Backspace
-$SOFT_KEYBOARD_CLEAR	Clear
-$CONTROL_SWITCH_WARNING	You cannot switch fundamental input methods in the middle of a battle. Sorry about that!
-$MISC_TITLE_SAFE_TEXT	Move analog sticks until all arrows are visible.
-$MISC_UNIVERSAL	Universal
+$CONFIRM_QUIT_TITLE	是否退出战斗？	
+$CONFIRM_RES_CHANGE	分辨率设置改变。<N>是否保留当前设置？<N><N> <SECONDS> 秒后还原回原来的设置。	
+$CONFIRM_RESTART_TEXT	你会失去目前为止获得的所有经验和金钱。	
+$CONFIRM_RESTART_TITLE	是否重新开始战斗？	
+$DATA_DUMP_AUDIO	正在导出音频……	
+$DATA_DUMP_BACKGROUNDS	<RE>$DATA_DUMP_BKG	
+$DATA_DUMP_BKG	正在导出背景图片……	
+$DATA_DUMP_CUTSCENE	正在导出剧情图片……	
+$DATA_DUMP_CUTSCENES	<RE>$DATA_DUMP_CUTSCENE	
+$DATA_DUMP_DATA	正在导出数据文件……	
+$DATA_DUMP_EMBED	正在导出嵌入式图形……	
+$DATA_DUMP_IMAGES	正在导出数据图形……	
+$DATA_DUMP_LOCALES	正在导出语言环境……	
+$DATA_DUMP_MAP_FILES	正在导出地图文件……	
+$DATA_DUMP_MAP_IMAGES	正在导出地图图片……	COMMENT: <N> means a line break. <N> works too, but not <N> or <n>
+$DATA_DUMP_MAPS	<RE>$DATA_DUMP_MAP_FILES	
+$DATA_DUMP_MOD_INFO	正在导出mod信息……	
+$DATA_DUMP_MUSIC	正在导出音乐……	
+$DATA_DUMP_SFX	正在导出音效……	
+$DATA_DUMP_SPRITES	正在导出游戏界面……	
+$DATA_DUMP_TABLES	正在导出数据表……	
+$DECIMATE_BY	压缩采样倍数<PERCENT>%	
+$DEMO_OVER_ACTS	第三、四<N>章	
+$DEMO_OVER_DONT_FORGET	不要忘记存档！	
+$DEMO_OVER_ENORMOUS	点击这个巨大的按钮来继续你的冒险！	
+$DEMO_OVER_ENORMOUS_2	点击一个巨大的按钮来继续你的冒险！	
+$DEMO_OVER_EXPORT_HOW	点击此按钮导出存档。	
+$DEMO_OVER_FULL_GAME	获取完整游戏！	
+$DEMO_OVER_FULL_GAME_SHORT	完整<N>游戏!	
+$DEMO_OVER_PLAY	继续游戏！	
+$DEMO_OVER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT	
+$DEMO_OVER_THANKS	感谢对我们的支持！	COMMENT: <MCG> is a variable. In this exact string, the game expects this exact variable, and will replace <MCG> with Azra's name. Any other variable is ignored and will appear as-is.
+$DEMO_OVER_USE_IT	使用这个从你上次中断的地方继续！	
+$EN_SPELL_DRAGON_FIRE_1_DESC	<DMG> 伤害	
+$EN_SPELL_DRAGON_FIRE_2_DESC	<LOW>-<HIGH> 伤害	
+$EN_SPELL_FRENZY_DESC	+<PERCENT> 点速度，持续 <SEC> 秒	
+$EN_SPELL_HEAL_DESC	治疗：<PERCENT> 点生命值	
+$END	结束	
+$ERROR_CONTEXT	内容	
+$ERROR_MESSAGE	消息	
+$ERROR_NUMBER	错误 #	
+$ERROR_STACK	堆叠追踪	
+$ERROR_TITLE	发生了一个错误！	
+$FB_HARD_SELL_NO	我说了绝不！	
+$FB_HARD_SELL_TEXT	你确定吗？<N>看！它在发光！	
+$FB_HARD_SELL_YES	嗯……好吧。	
+$FB_LIKE_US_NO	哈哈哈，不。	COMMENT: The game will put Zelemir, Tletl-Meztli, or any other alternate mcguffin's name where <ALLY> appears.
+$FB_LIKE_US_TEXT	去Facebook上关注我们，你就可以<N>获得这份免费的奖励！	
+$FB_LIKE_US_YES	好的！	
+$FB_PERSISTENT_OK	胜利属于我！	
+$FB_PERSISTENT_TEXT	好吧，你赢了！<N>总之你可以拥有它 :)	
+$FB_REBEL_TEXT	没错，挑战权威！<N>重新选择吧！	
+$FB_SECOND_PITCH	你仍然可以获得这个<N>只需要去Facebook上关注我们！	
+$FB_SECOND_PITCH_NO	绝不！	
+$FB_SECOND_PITCH_YES	好的！	
+$FB_THANKS_OK	好的	
+$FB_THANKS_SUCKS	Facebook太糟糕了	
+$FB_THANKS_TEXT	感谢你在Facbook上关注了我们！<N>你获得了这份奖励！	
+$FB_THIS_ITEM_WILL_NOW	这件物品会存在在任意玩家的库存中。	
+$FLAV_DESC_ARMOR_BREAK_AMT_GRTR_1	每点伤害可以破坏 <AMT_2DIG><EXTRA> 点护甲。	
+$FLAV_DESC_ARMOR_BREAK_AMT_LESS_1	每 <AMT_2DIG><EXTRA> 点伤害可以破坏1点护甲。	
+$FLAV_DESC_ARMOR_BREAK_DIRECT	攻击破坏了 <AMTDMG><EXTRA> 点护甲。	
+$FLAV_DESC_ARMOR_BREAK_SHORT	攻击破坏了若干点护甲。	COMMENT: There are 4 variants here to handle the various pluralizations
+$FLAV_DESC_ARMOR_PIERCE_AMT_GRTR_1	每点攻击可以无视 <AMT_2DIG><EXTRA> 点护甲。	
+$FLAV_DESC_ARMOR_PIERCE_AMT_LESS_1	每 <AMT_2DIG><EXTRA> 点伤害可以无视1点护甲。	
+$FLAV_DESC_ARMOR_PIERCE_DIRECT	攻击无视了 <AMTDMG><EXTRA> 点护甲。	
+$FLAV_DESC_ARMOR_PIERCE_SHORT	攻击无视了若干点护甲。	
+$FLAV_DESC_AUTO_KILL	生命值低于 <PERCENT>%<EXTRA> 的敌人自动死亡。	
+$FLAV_DESC_AUTO_KILL_SHORT	足够虚弱的敌人自动死亡。	
+$FLAV_DESC_BLEED	敌人会从之后的攻击中受到 <PERCENT>%<EXTRA> 的额外伤害，持续 <TIME><EXTRA_TIME> 秒。	
+$FLAV_DESC_BLEED_SHORT	敌人会从之后的攻击中受到额外的伤害，持续一段时间。	
+$FLAV_DESC_BLINDED	敌人的攻击命中率降低 <PERCENT>% <EXTRA>，持续 <TIME><EXTRA_TIME> 秒。	
+$FLAV_DESC_BLINDED_SHORT	敌人的攻击命中率下降，持续一段时间。	
+$FLAV_DESC_BURN	敌人每秒受到 <AMTDMG><EXTRA> 点伤害，持续 <TIME><EXTRA_TIME> 秒。冰冻会清除该状态。	
+$FLAV_DESC_BURN_SHORT	敌人受到持续伤害，持续一段时间。冰冻会清除该状态。	
+$FLAV_DESC_CHILL	敌人速度降低 <PERCENT>%<EXTRA>，持续 <TIME><EXTRA_TIME> 秒。燃烧会清除该状态。	
+$FLAV_DESC_CHILL_SHORT	敌人速度降低，持续一段时间。燃烧会清除该状态。	
+$FLAV_DESC_CONFUSED	敌人向后倒退，持续 <TIME><EXTRA_TIME> 秒。	
+$FLAV_DESC_CONFUSED_SHORT	敌人向后倒退，持续一段时间。	
+$FLAV_DESC_CRITICAL	伤害 = <AMT_1DIG>x<EXTRA> 正常。	
+$FLAV_DESC_CRITICAL_SHORT	伤害大于正常。	
+$FLAV_DESC_DISEASE	敌人的生命恢复减少了 <PERCENT>%<EXTRA>。	
+$FLAV_DESC_DISEASE_SHORT	敌人的生命恢复减少了。	
+$FLAV_DESC_FREEZE	敌人无法移动，持续 <TIME><EXTRA_TIME> 秒。燃烧会清除该状态。	
+$FLAV_DESC_FREEZE_SHORT	敌人无法移动，持续一段时间。燃烧会清除该状态。	
+$FLAV_DESC_INSPIRE	友方造成 <M_MULT_PERCENT>%<EXTRA> 的额外伤害，持续 <TIME><EXTRA_TIME> 秒。	
+$FLAV_DESC_INSPIRE_SHORT	友方造成额外伤害，持续一段时间。	
+$FLAV_DESC_KNOCK_BACK	敌人被击退回 <AMT_1DIG><EXTRA> 个方格。	
+$FLAV_DESC_KNOCK_BACK_SHORT	敌人被击退回若干个方格。	
+$FLAV_DESC_LIGHT	黑暗敌人受到额外 <AMT_2DIG>x<EXTRA> 伤害，并且更容易被命中，持续 <TIME><EXTRA_TIME> 秒。	
+$FLAV_DESC_LIGHT_SHORT	黑暗敌人受到额外伤害，并且更容易被命中。	
+$FLAV_DESC_POISON	敌人每秒受到攻击的 <PERCENT>%<EXTRA> 的伤害，持续 <TIME><EXTRA_TIME> 秒。	COMMENT: Font size and x/y offsets for options menu button labels
+$FLAV_DESC_POISON_DIRECT	敌人每秒受到 <AMTDMG><EXTRA> 的伤害，持续 <TIME><EXTRA_TIME> 秒。	
+$FLAV_DESC_POISON_SHORT	敌人受到持续伤害，持续一小段时间。	
+$FLAV_DESC_SINGLE_STUN	敌人无法移动，持续 <TIME><EXTRA_TIME> 秒。只能被施加一次。	
+$FLAV_DESC_SINGLE_STUN_SHORT	敌人无法移动，持续 一段时间。只能被施加一次。	
+$FLAV_DESC_SLOW	敌人速度降低 <PERCENT>%<EXTRA>，持续 <TIME><EXTRA_TIME> 秒。	COMMENT: hide/show accessibility box graphic, offset for 'absence' text, offset for 'speed' text
+$FLAV_DESC_SLOW_SHORT	敌人速度降低，持续一段时间。	
+$FLAV_DESC_STRIKE_THROUGH	攻击可以命中 <INTI><EXTRA> 个敌人。	
+$FLAV_DESC_STRIKE_THROUGH_SHORT	攻击可以命中多个敌人。	
+$FLAV_DESC_STUN	敌人无法移动，持续 <TIME><EXTRA_TIME> 秒。	
+$FLAV_DESC_STUN_SHORT	敌人无法移动，持续 一段时间。	
+$GETSCRAP1	一堆垃圾，破布，损坏的工具和几片锋利生锈的金属碎片。<N><N>根本没有人会要这个吧？	
+$GETSCRAP2	显然，墓坑的居民使用这些垃圾作为货币。	
+$HERO_BLURB_BAKAL	一位温文尔雅的老僧人，为他的罪寻求宽恕……	
+$HERO_BLURB_KETTA	一位游牧的女猎手，非常的愤世嫉俗……	
+$HERO_BLURB_MARKOS	一位久经沙场的其实，厌倦了无休止的斗争……	
+$HERO_BLURB_NIRU	暴力并且神秘，这条龙从不会分享它的任何秘密……	
+$HERO_BLURB_SLAK	一个勇敢的年轻人，勇敢但鲁莽……	
+$HERO_BLURB_WRENNA	奎德最后的公主，渴望报复她堕落的王国……	
+$LQ	“	
+$MAP_TEXT_HERMIT	隐士	
+$MAP_TEXT_LAIR	巢穴	
+$MAP_TEXT_PRISON	监牢	
+$MAP_TEXT_SHRINE	圣地	
+$MAP_TEXT_TREASURE	洞穴	
+$MAP_TEXT_UNKNOWN	？？？	
+$MCGUFFIN_LEARN_SPELL	<MCG> 学会了新法术！	
+$MISC_1_FOE	1个敌人	
+$MISC_1_FRIEND	1个友方	
+$MISC_ABSORB_X	吸收 <X>	
+$MISC_ABSORB_X_RESIST_Y	吸收 <X>，抵抗 <Y>%	
+$MISC_ACCEPT	接受	
+$MISC_ACCEPT_AND_CLOSE	接受并关闭	
+$MISC_ACHIEVEMENT!	成就！	
+$MISC_ADJUST_REWARDS	100%是默认数额，向上或向下调整来改变你的奖励。	
+$MISC_ADVANCED	高级	
+$MISC_ADVANCED_SHORT	高级	
+$MISC_ALL_FOES	范围内所有的敌人	
+$MISC_ALL_FOES_IN	<TILES> 方格内所有的敌人	
+$MISC_ALL_FRIENDS	范围内所有的友方	
+$MISC_ALL_FRIENDS_IN	<TILES> 方格内所有的友方	
+$MISC_ALL_TARGETS	范围内的目标	
+$MISC_ALL_TARGETS_IN	<TILES> 方格内的目标	
+$MISC_AMOUNT	数量	
+$MISC_AMOUNT_SHORT	数量	
+$MISC_ANONYMOUS	无名	
+$MISC_ARE_YOU_SURE	你确定吗？	
+$MISC_ARMOR	护甲	
+$MISC_ARMOR_PLURAL	<RE>$MISC_ARMOR	
+$MISC_ARMOR_SINGULAR	<RE>$MISC_ARMOR	
+$MISC_ARMOR_SHORT	护甲	
+$MISC_ASSIGN_POINTS	分配<N>点	
+$MISC_ATTACK	攻击	
+$MISC_ATTACK_SHORT	攻击	
+$MISC_BACK	返回	
+$MISC_BASE_ATTACK	基础攻击	
+$MISC_BATTLE	战斗	
+$MISC_BEGIN	开始	
+$MISC_BONUS	额外奖励	
+$MISC_BONUS_DEFENSE	基础防御	
+$MISC_BOOST	强化	
+$MISC_BOOST_X	强化 <X>	
+$MISC_BREAK_HERO_MODE_TEXT	你选择了<LQ>英雄模式<RQ>，在此模式中禁止招募通用人物。<N>是否离开此模式去招募人物进行游戏？	
+$MISC_BREAK_HERO_MODE_TITLE	离开英雄模式？	
+$MISC_BUY	购买	
+$MISC_CANCEL	取消	
+$MISC_CANT_AFFORD	余额不足	
+$MISC_CANT_EQUIP!	无法装备	
+$MISC_CASUAL	普通	
+$MISC_CASUAL_SHORT	普通	
+$MISC_CHANCE	几率	
+$MISC_CHANGE	更改	
+$MISC_CLICK_HERE	点击这里	
+$MISC_CLOSE	关闭	
+$MISC_COMPLETE	完成	
+$MISC_COMPLETE!	完成！	
+$MISC_CONFIG_DIR	配置.文件夹	
+$MISC_CONFIRM	确认	
+$MISC_CONFIRM_CHANGE	确认更改	
+$MISC_CONFIRM_RECRUIT	确认雇佣	
+$MISC_CONTINUE	继续	
+$MISC_COST	消耗	
+$MISC_COST:	消耗：	
+$MISC_COUNTER	计数器	
+$MISC_CREDITS	鸣谢	
+$MISC_CURRENT_SAVE	当前保存文档：	
+$MISC_CUSTOM_SETTINGS	自定义……	
+$MISC_DAMAGE	伤害	
+$MISC_DAMAGE_RESIST	伤害抵抗	
+$MISC_DAMAGE_SHORT	伤害	
+$MISC_DARK	黑暗	
+$MISC_DARK_DESC	（回避 75% 的伤害）	
+$MISC_DEATH_SPLASH	死亡溅射	
+$MISC_DEF_SHORT	防御	
+$MISC_DEFAULT	默认	
+$MISC_DEFAULT_SETTINGS	默认（推荐新手玩家选择）	
+$MISC_DEFEAT	战胜	
+$MISC_DEFEND	守护	
+$MISC_DEFENDER	守护者	
+$MISC_DEFENDERS	守护者	
+$MISC_DEFENSE	防守	
+$MISC_DEFENSE_ABS	防守	
+$MISC_DEFENSE_SHORT	防御	
+$MISC_DELETE_ACHIEVEMENT	是否删除成就？	
+$MISC_DELETE_BOTH_GOG_ACHIEVEMENT	删除本地以及GOG的成就	
+$MISC_DELETE_BOTH_STEAM_ACHIEVEMENT	删除本地以及Steam的成就	
+$MISC_DELETE_LOCAL_ACHIEVEMENT	仅删除本地成就	
+$MISC_DEMO_VERSION	试玩版本	
+$MISC_DEMO_VERSION_DESC	这是《守护者冒险：遗忘山谷 豪华版》的公开试玩版本。<N><N>它大约包含了完整游戏20%的内容，如果您选择购买完整版，则可以导出您的存档，这样您就不会丢失您的游戏进度。	
+$MISC_DESCRIPTION	描述	
+$MISC_DISABLED	关闭功能	
+$MISC_DOWNLOAD	下载	
+$MISC_DQ_NEWS	获得资讯！	
+$MISC_DQ_SITE	DefendersQuest.com	
+$MISC_EASIER	更简单	
+$MISC_EASY	普通	
+$MISC_EASY_SHORT	普通	
+$MISC_EMPTY	空的	
+$MISC_ENABLED	打开	
+$MISC_ENEMY_LEVELS	敌人等级	
+$MISC_ENTER	进入	
+$MISC_ENTER_TEXT	输入文本内容：	
+$MISC_EQUIP	装备	
+$MISC_SLOT	槽位	
+$MISC_ERROR	错误	
+$MISC_ERROR_INVALID_MOD_NAME	mod名称无效！	
+$MISC_ERROR_MOD_BAD	非常抱歉，mod与游戏版本不兼容！	
+$MISC_ERROR_MOD_EXISTS	已存在同名mod！	
+$MISC_ERROR_UNKNOWN	非常抱歉，发生了未知错误！	
+$MISC_ERROR_UNZIP	无法解压缩该mod。在选项菜单中更改mod路径，或检查硬盘驱动器空间。	
+$MISC_ERROR!	发生错误！	
+$MISC_EVADE	闪避	
+$MISC_EVADE_SHORT	闪避	
+$MISC_EVASION	闪避	
+$MISC_EXIT	离开	
+$MISC_EXPERIENCE	经验	
+$MISC_EXTREME	极限	
+$MISC_EXTREME_SHORT	极限	
+$MISC_FAIL_TT_TEXT	如果你失败了，你将从奖励中扣除多少经验和废品作为惩罚。<N> -50％是默认额度，向上或向下调整以更改惩罚额度。	
+$MISC_FAIL_TT_TITLE		
+$MISC_FAST	快速	
+$MISC_FOE_PLURAL	敌人	
+$MISC_FOE_SINGULAR	敌人	
+$MISC_FRIEND_PLURAL	友方	
+$MISC_FRIEND_SINGULAR	友方	
+$MISC_GAIN	获得	
+$MISC_GAME_DATA	游戏数据	
+$MISC_GOLD	废品	
+$MISC_GOLD_TT_TEXT	你在战斗中获得的废品（金钱）。<N><RE>[$MISC_ADJUST_REWARDS]	
+$MISC_GOLD_TT_TITLE	废品	
+$MISC_GOLD:	废品：	
+$MISC_HARD	<RE>$MISC_EXTREME	
+$MISC_HARD_SHORT	<RE>$MISC_EXTREME_SHORT	
+$MISC_HARDER	更困难	
+$MISC_HEAL	治疗	
+$MISC_HERO_MODE	英雄模式	
+$MISC_HERO_MODE_TEXT	禁止招募通用人物。<N>强烈建议第一次游戏不要选择此模式！<N><N>注意：<N>如果你想改变你的主意，你可以尝试去招募一个角色并且解除弹出的警告。<N><N>当你选择英雄模式时，我们强烈建议把经验和废品获得调整为300%。<N><N>最后，“英雄模式”成就不需要这项设置——没有通用人物就已经可以达成成就。	
+$MISC_HERO_MODE_TITLE	<RE>$MISC_HERO_MODE	
+$MISC_HIRE	雇佣！	
+$MISC_HIRE_Q	<NAME> ，职业为 <CLASS> ，消耗 <N><SCRAP> 废品，是否确定雇佣？ 	
+$MISC_HP	生命值	
+$MISC_HP_SHORT	生命值	
+$MISC_IMMUNE_TO	免疫 <SOMETHING> 	
+$MISC_INFO	信息	
+$MISC_JOURNAL	日志	
+$MISC_LANGUAGES	语言	
+$MISC_LEADER	领导者	
+$MISC_LEAVE	离开	
+$MISC_LEVEL	等级	
+$MISC_LEVEL_SHORT	等级	
+$MISC_LEVEL_SHORT_X	等级 <X>	
+$MISC_LEVEL_PARTY_GEM	等级	Appears on character blocks in the party screen
+$MISC_LEVEL_WAVE_BLOCK	等级	Appears on enemy wave blocks in battle
+$MISC_LEVEL_SUPER_SHORT	等级	
+$MISC_LEVEL_UP!	升级！	
+$MISC_LEVEL_UPX	升级x	
+$MISC_LEVEL_X	等级 <X>	
+$MISC_LOADING	加载中……	
+$MISC_LOADING_PERCENT	加载中……<PERCENT>%	
+$MISC_LOCKED	未解锁	
+$MISC_LVLUP	升级	
+$MISC_MAKE_CHANGE	确定更改吗？	
+$MISC_MAX	最大	
+$MISC_MEDIUM	<RE>$MISC_ADVANCED	
+$MISC_MEDIUM_SHORT	<RE>$MISC_ADVANCED_SHORT	
+$MISC_MENU	菜单	
+$MISC_PAUSE	暂停	
+$MISC_MISS	未命中	
+$MISC_MODS	Mods	
+$MISC_MORE	更多……	COMMENT: moves the 'cycle defenders' text and associated buttons
+$MISC_MOVIES	影片	
+$MISC_NEED_PSI	需要<N>能量	
+$MISC_NEW_GAME_SETTINGS	新的游戏设定	
+$MISC_NEXT	继续	
+$MISC_NO	不	
+$MISC_NO_AFFORD	余额不足	
+$MISC_NO_CHANGE	没有变化	
+$MISC_NO_HARDWARE	您的系统不支持硬件加速。游戏仍然会运行，但如果看起来很慢，你可以关闭图形设置。	
+$MISC_NOBODY	没有人	
+$MISC_NOM!	吞下	
+$MISC_NONE	没有	
+$MISC_NONE_DEFAULT	没有 *	
+$MISC_NORMAL	普通	
+$MISC_NORMAL_SHORT	普通	
+$MISC_NOTHING	没有东西	
+$MISC_NOTHING_TO_EQUIP	没有装备！	
+$MISC_NOTHING!	没有东西！	
+$MISC_OF_DAMAGE	的伤害	
+$MISC_OK	好的	
+$MISC_OKAY	好的	
+$MISC_OPTIONS	选项	
+$MISC_OTHER	其他	
+$MISC_PARTY	队伍	
+$MISC_PASS	跳过	
+$MISC_PERFECT	完美	
+$MISC_PERFECT_BONUS	完美额外奖励：	
+$MISC_PERFECT!	完美！	
+$MISC_PHASES	阶段	
+$MISC_PLEASE_ENTER_A_NAME!	请输入名字！	
+$MISC_PLEASE_WAIT	请稍等……	
+$MISC_PLUS_X_STAT	+<X> <STAT>	
+$MISC_PLUS_X_TO_ARMOR_ABS	<PLUS_OR_MINUS><X> 护甲	
+$MISC_PLUS_X_TO_ATTACK	<PLUS_OR_MINUS><X> 攻击	
+$MISC_PLUS_X_TO_ATTACK_SPEED	<PLUS_OR_MINUS><X> 速度	
+$MISC_PLUS_X_TO_DEFENSE_ABS	<PLUS_OR_MINUS><X> 防御	
+$MISC_PLUS_X_TO_HP	<PLUS_OR_MINUS><X> 生命值	
+$MISC_PLUS_X_TO_RANGE	<PLUS_OR_MINUS><X> 范围	
+$MISC_PLUS_X_TO_REGEN_ABS	<PLUS_OR_MINUS><X> 生命恢复	
+$MISC_PLUS_X%_TO_ARMOR_MULT	<PLUS_OR_MINUS><X> 护甲2	
+$MISC_PLUS_X%_TO_DEFENSE_MULT	<PLUS_OR_MINUS><X>% 防御	
+$MISC_PLUS_X%_TO_DODGE	<PLUS_OR_MINUS><X> 闪避	
+$MISC_PLUS_X%_TO_EVADE	<PLUS_OR_MINUS><X>	
+$MISC_PLUS_X%_TO_REGEN_MULT	<PLUS_OR_MINUS><X>% 生命恢复	
+$MISC_PORCUPINE	荆棘伤害	
+$MISC_PREV	返回	
+$MISC_PREVIOUS	返回	
+$MISC_PROBLEM?	有问题吗？	
+$MISC_PSI	能量	
+$MISC_PSI_SHORT	能量	
+$MISC_QUIT	离开	
+$MISC_QUIT	离开	
+$MISC_QUIT_BATTLE	离开战斗	
+$MISC_RANDOM	随机	
+$MISC_RANGE	范围	
+$MISC_RANGE_SHORT	范围	
+$MISC_RECRUIT	招募	
+$MISC_REFUSE	拒绝	
+$MISC_REGEN	回复	
+$MISC_REGEN_LONG	生命恢复	
+$MISC_REGEN_SHORT	回复	
+$MISC_RESET	重新设定	
+$MISC_RESIST	抵抗 <SOMETHING>	
+$MISC_RESIST_X	抵抗 <X>%	
+$MISC_RESTART	重新开始	
+$MISC_RESTORE_DEFAULTS	恢复默认设置	
+$MISC_REWARD	奖励：	
+$MISC_SAVE_DATA	保存数据	
+$MISC_SAVE_ERROR_TEXT	自动保存失败,检查您的文件权限。<N>我们将稍后进行重试。	
+$MISC_SAVE_ERROR_TITLE	自动保存发生错误！	
+$MISC_SAVE_FIXED_TEXT	自动保存成功，看来您已经修复了错误。<N>我们现在就闭嘴。	
+$MISC_SAVE_FIXED_TITLE	自动保存中！	
+$MISC_SAVED	已保存	
+$MISC_SAVED!	已保存！	
+$MISC_SCRAP	废品	
+$MISC_SECOND	秒	
+$MISC_SECOND_SHORT	秒	
+$MISC_SECONDS	秒	
+$MISC_SECONDS_SHORT	秒	
+$MISC_SELECT	选择	
+$MISC_SELECT_CHALLENGE	选择难度：	
+$MISC_SELL	出售	
+$MISC_SEND_NEXT	下次派遣	
+$MISC_SKILL	技能	
+$MISC_SKILLS	技能	
+$MISC_INSPECT	检查	
+$MISC_SKIP	跳过	
+$MISC_SLOW	缓慢	
+$MISC_SPAWNS	怪物刷新	
+$MISC_SPECIAL	特殊	
+$MISC_SPEED	速度	
+$MISC_SPEED_SHORT	速度	
+$MISC_SPELL	法术	
+$MISC_SPLASH_DAMAGE	溅射	
+$MISC_SPLASH_LINE	<AMT> 伤害, <TILES> 方格	
+$MISC_STATS	数值	
+$MISC_STATUS	状态	
+$MISC_STRANGER	陌生人	
+$MISC_STRENGTHS	强项	
+$MISC_SWIMS	游泳	
+$MISC_TALK	交谈	
+$MISC_THORNS	荆棘伤害	
+$MISC_THRESHOLD	临界值	
+$MISC_TIPS	提示	
+$MISC_TO	到	
+$MISC_TOWN	城镇	
+$MISC_TRY_AGAIN	再试一次	
+$MISC_TYPES	类型	
+$MISC_UNDO	撤销	
+$MISC_UNDO_ALL	撤销所有	
+$MISC_UNEQUIP	卸下	
+$MISC_UNIQUE	特殊	
+$MISC_UNKNOWN	未知	
+$MISC_UNSAVED	未保存	
+$MISC_UP_TO_X_FOES	最多 <NUM> 个 <FOE>	
+$MISC_UP_TO_X_FRIENDS	最多 <NUM> 个 <FRIEND>	
+$MISC_UPGRADE	升级	
+$MISC_VERSUS	对阵	
+$MISC_VICTORY	胜利	
+$MISC_VS	对阵	
+$MISC_WAIT	等待	
+$MISC_WALKS_ON	行走	
+$MISC_WARNING	警告！	
+$MISC_WAVE_X	第 <X> 波	
+$MISC_WAVES	波	
+$MISC_WEAKNESSES	弱点	
+$MISC_WEAPON_SINGULAR	武器	
+$MISC_WEAPON	<RE>$MISC_WEAPONS	
+$MISC_WEAPONS	武器	
+$MISC_WEAPON_PLURAL	<RE>$MISC_WEAPONS	
+$MISC_ACCESSORY_SINGULAR	<RE>$MISC_ACCESSORY	
+$MISC_ACCESSORY	配件	
+$MISC_ACCESSORIES	配件	
+$MISC_ACCESSORY_PLURAL	<RE>$MISC_ACCESSORIES	
+$MISC_X_FOES	<NUM> 个敌人	
+$MISC_X_FRIENDS	<NUM> 个友方	
+$MISC_X_HITS_FOE	每个敌人 <NUM> 次	
+$MISC_X_HITS_FRIEND	每个友军 <NUM> 次	
+$MISC_X_HITS_TARGET	每个目标 <NUM> 次	
+$MISC_X_HITS_TOTAL	总共 <NUM> 次	
+$MISC_X_MORE	<X> 额外的…	
+$MISC_X_PSI	<X> 能量	
+$MISC_XP	经验	
+$MISC_XP_TT_TEXT	你在战斗中获得的经验。<N><RE>[$MISC_ADJUST_REWARDS]	
+$MISC_XP_TT_TITLE	经验	
+$MISC_YES	是的	
+$MISC_YOU_SURE	你确定吗？	
+$NEW_GAME_PLUS_NOTE	转到保存界面，并在旧的保存位置上选择“新游戏+”。	
+$PARTY_1_NEW_ACHIEVE	1个新的成就！	
+$PARTY_ACHIEVE_PLURAL	成就	
+$PARTY_ACHIEVE_SINGULAR	成就	
+$PARTY_ATTACK	攻击:<T>	
+$PARTY_CANT_ARMOR	无法<N>装备<N>护甲	
+$PARTY_CANT_WEAPON	无法<N>装备<N>武器	
+$PARTY_CHANGE_NAME	重命名	
+$PARTY_CHARACTER	人物	
+$PARTY_CHARACTERS	人物	
+$PARTY_CONFIRM_CHANGES	确认更改	
+$PARTY_CONFIRM_POINTS_1_1	是否确定将1个技能点永久分配给1个角色？	
+$PARTY_CONFIRM_POINTS_1_X	是否确定将1个技能点永久分配给 <CHARS> 个角色？	
+$PARTY_CONFIRM_POINTS_TITLE	确认技能点数	
+$PARTY_CONFIRM_POINTS_X_1	是否确定将 <POINTS> 个技能点永久分配给1个角色？	
+$PARTY_CONFIRM_POINTS_X_X	是否确定将 <POINTS> 个技能点永久分配给 <CHARS> 个角色？	
+$PARTY_DEFEATED_WAVE_X	已击败 <X> 波	
+$PARTY_DEFEND	防御：<T>	
+$PARTY_EVADE	闪避：<T>	
+$PARTY_FAIL_PENALTY	失败惩罚	
+$PARTY_FAILED	通关失败！	
+$PARTY_FAILED_DESC	<MCG> 被杀死了。	
+$PARTY_FROM_BATTLE	从战斗中	
+$PARTY_GO_TO_MAP	前往地图	
+$PARTY_HP	生命值	
+$PARTY_NO_AFFORD	你买不起！<N>花费： <COST><N>废品： <SCRAP>	
+$PARTY_NO_NEW_ACHIEVE	没有新的成就。	
+$PARTY_NO_POINTS	没有可供重新分配的技能点！	
+$PARTY_PASSED	通关成功！	
+$PARTY_PASSED_ALLY_DEAD_DESC	<ALLY> 被杀死了，<N>但是 <MCG> 存活了下来。	
+$PARTY_PASSED_DESC	<MCG> 在战斗中存活了下来，<N>但是受伤了。	
+$PARTY_PASSED_WORD	通过	
+$PARTY_PASSED+	通关成功！+	
+$PARTY_PASSED+_DESC	<MCG> 受伤了！<N><ALLY> 存活了下来!	
+$PARTY_PASSED++	通关成功！++	
+$PARTY_PASSED++_DESC	<MCG> 受伤了！<N><ALLY> 毫发无伤地存活了下来!	
+$PARTY_PERFECT	完美！	
+$PARTY_PERFECT_ALLY_DEAD_DESC	<MCG> 毫发无伤， 但是 <ALLY> 死亡了。	
+$PARTY_PERFECT_DESC	<MCG> 毫发无伤地存活了下来!	
+$PARTY_PERFECT_WORD	完美	
+$PARTY_PERFECT+	完美！+	
+$PARTY_PERFECT+_DESC	<MCG> 毫发无伤！<N><ALLY> 受伤了！	
+$PARTY_PERFECT++	完美！++	
+$PARTY_PERFECT++_DESC	<MCG> 和 <ALLY><N>毫发无伤！	
+$PARTY_POINT	点	
+$PARTY_POINTS	点	
+$PARTY_PSI	能量	
+$PARTY_RANGE	范围：<T>	
+$PARTY_RE_ASSIGN	重新分配 <NAME> 的所有技能？<N>花费： <COST><N>废品： <SCRAP>	
+$PARTY_REACHED_WAVE_X	达到 <X> 波	
+$PARTY_REDESIGN	重新设计	
+$PARTY_REGEN	生命回复：	
+$PARTY_RENAME	重命名	
+$PARTY_RESET_POINTS	重设点数	
+$PARTY_RETURN_TOWN	返回城镇	
+$PARTY_SPEED	速度：<T>	
+$PARTY_TOTAL	总共	
+$PARTY_WELL_DONE	干得好！	
+$PARTY_X_NEW_ACHIEVE	<NUM> 个新的成就！	
+$PARTY_X_PTS	<X> 能量	
+$PARTY_XP	经验	
+$REWARD_FINISH	结束游戏	
+$REWARD_GOLD	+ <GOLD> 废品	
+$REWARD_NEXT_LEVEL	解锁下一关	
+$REWARD_NO_GOLD	没有	
+$REWARD_NO_XP	没有	
+$REWARD_QUEST	冒险完成	
+$REWARD_XP	+ <XP> 经验	
+$RQ	”	
+$SAVE_SLOT_DELETE	删除	
+$SAVE_SLOT_DELETE_TEXT	从电脑中永久删除该存档。您知道自己在做什么，是吧？	
+$SAVE_SLOT_DELETE_TITLE	删除存档	
+$SAVE_SLOT_EXPORT	导出存档	
+$SAVE_SLOT_EXPORT_TEXT	将存档备份为一个简单的文本文件。	
+$SAVE_SLOT_EXPORT_TITLE	导出存档到文件	
+$SAVE_SLOT_IMPORT	导入存档	
+$SAVE_SLOT_IMPORT_TEXT	浏览您的电脑来查找可使用的《守护者冒险》的存档。	
+$SAVE_SLOT_IMPORT_TITLE	从文件中导入存档	
+$SAVE_SLOT_NEW_GAME	新游戏	
+$SAVE_SLOT_NEW_GAME_PLUS	新游戏+	
+$SAVE_SLOT_NEW_GAME_PLUS_TEXT	开始一段更有挑战性的新冒险，同时保留你所有的经验，技能和装备。新游戏+包含新的敌人类型，新的支线任务，更强大的装备，以及大大扩展的日志。<N><N>注意：您的原创游戏和新游戏+之间共享进度。你可以随时往返于它们之间而不丢失任何东西。	
+$SAVE_SLOT_NEW_GAME_PLUS_TITLE	开始新游戏+	
+$SAVE_SLOT_PLAY	开始游戏	
+$SAVE_SLOT_PLAY_PLUS	开始游戏+	
+$SAVE_SLOT_PLAY_PLUS_TEXT	您的原创游戏和新游戏+之间共享进度。你可以随时往返于它们之间而不丢失任何东西。	
+$SAVE_SLOT_PLAY_PLUS_TITLE	继续新游戏+	
+$SKILL_DESC_ADDS_CHANCE_TO_ALL	所有攻击增加<PERCENT>%<EXTRA>几率的<FLAV>* 。	
+$SKILL_DESC_ADDS_CHANCE_TO_ONE	<LQ><ATTACK><RQ> 增加<PERCENT>%<EXTRA>几率的<FLAV>* 。	
+$SKILL_DESC_ADDS_TO_ALL	所有攻击增加<FLAV>* 。	
+$SKILL_DESC_ADDS_TO_ONE	<LQ><ATTACK><RQ> 增加<FLAV>* 。	
+$SKILL_DESC_COOLDOWN	冷却	
+$SKILL_DESC_DMG	伤害	
+$SKILL_DESC_EFFECT	效果	
+$SKILL_DESC_HEAL	治疗	
+$SKILL_DESC_HITS	命中	
+$SKILL_DESC_HITS_NUM	# 命中	
+$SKILL_DESC_PSI_COST	能量消耗	
+$SKILL_DESC_SPECIAL		
+$SKILL_DESC_SPLASH	溅射	
+$SKILL_DESC_TARGET	目标	
+$SKILL_DESC_TOTAL_BONUS	<STAT>*<N>的属性加成变成 +<AMOUNT><EXTRA>。	
+$SPECIAL_IMPROVES	提高 <FLAVOR>：	
+$SPECIAL_PLUS_FLAV	增加 <FLAVOR>：	
+$SPECIAL_SAVE_VS	如果生命值 >= <PERCENT>%，保存为 <FLAVOR> 	
+$STAT_DESC_ARMOR	护甲<N>吸收的伤害量。	
+$STAT_DESC_ARMOR_ENEMY	护甲<N>吸收的伤害量。	
+$STAT_DESC_ATTACK	攻击<N>造成更多的伤害。	
+$STAT_DESC_ATTACK_ENEMY	攻击<N>敌人的最佳攻击造成的伤害。	
+$STAT_DESC_BARRIER	屏障<N>免受伤害的保护层。只有非常强大的魔法才能破坏它。	
+$STAT_DESC_DEFENSE	防御<N>吸收的伤害量。	
+$STAT_DESC_DEFENSE_ENEMY	护甲<N>吸收的伤害量。	
+$STAT_DESC_EVADE	闪避<N>闪避敌人攻击的几率。	
+$STAT_DESC_EVADE_ENEMY	闪避<N>闪避攻击的几率。	
+$STAT_DESC_FINAL_HIT	最后一击<N>当敌人抵达终点时， <FINAL_HIT_TARGET> 受到的伤害量。	
+$STAT_DESC_HP	生命值<N>当生命值降为0时，你将被淘汰出局。	
+$STAT_DESC_PHASING	瞬移<N>定期移出移入；在瞬移离开时，无法被当作目标或者击中。<N>图案是方格(进，出)。	
+$STAT_DESC_RANGE	范围<N>攻击范围的大小。	
+$STAT_DESC_RANGE_ENEMY	范围<N>攻击范围的大小。	
+$STAT_DESC_REGEN	生命恢复<N>生命值恢复的速度，单位：生命值/秒。	
+$STAT_DESC_REGEN_ENEMY	生命恢复<N>生命值恢复的速度，单位：生命值/秒。	
+$STAT_DESC_SPAWN	怪物刷新：<N>	
+$STAT_DESC_SPEED	速度<N>攻击速度：<N>每 <SPEED_SHOW_MULT> 点速度加快攻击速度1x	
+$STAT_DESC_SPEED_ENEMY	速度<N>敌人的移动速度和攻击速度。1 点= 每秒 1方格	
+$STAT_DESC_SPELLS	法术	
+$STAT_DESC_STRONGS	强项	
+$STAT_DESC_THORNS	荆棘伤害<N>对近战单位造成的伤害量。	
+$STAT_DESC_WEAKS	弱点	
+$STAT_DESC_XP	经验<N>	
+$STATE_CRASH_DETAILS	细节：	
+$STATE_CRASH_PROMPT	你想要做什么？	
+$STATE_CRASH_SEND	发送报告<N>给开发人员	
+$STATE_CRASH_SHOW_DUMP	显示崩溃<N>转存文件	
+$STATE_CRASH_TITLE	严重错误！	
+$STATUS_DESC_ANONYMOUS	+<PERCENT>% 闪避率。	
+$STATUS_DESC_BLEED	承受 +<PERCENT>% 伤害。	
+$STATUS_DESC_BLINDED	攻击有 <PERCENT>% 几率不命中。	
+$STATUS_DESC_BURN	<AMT_1DIG> 伤害/秒<N>冰冻可以清除该状态。	
+$STATUS_DESC_CHILL	-<PERCENT>% 速度。<N>燃烧可以清除该状态。	
+$STATUS_DESC_DARK	<PERCENT>% 几率闪避非范围攻击。	
+$STATUS_DESC_DARK_FRENZY	<RE>$STATUS_DESC_FRENZY	
+$STATUS_DESC_DISEASE	生命恢复减少 <PERCENT>%	
+$STATUS_DESC_EVER_BLEED	<RE>$STATUS_DESC_BLEED	
+$STATUS_DESC_EVER_POISON	<INTI> 伤害/秒。	
+$STATUS_DESC_FB_BORED	不会妨碍移动。	
+$STATUS_DESC_FB_EXISTENTIAL	-<PERCENT>% 速度， +<PERCENT>% 伤害抵抗。	
+$STATUS_DESC_FB_HAPPY	+<PERCENT>% 速度。	
+$STATUS_DESC_FB_LOL	+<PERCENT>% 速度。	
+$STATUS_DESC_FB_OMG	+<PERCENT>% 速度， -<PERCENT>% 伤害抵抗。	
+$STATUS_DESC_FB_SAD	-<PERCENT>% 速度。	
+$STATUS_DESC_FIRE		
+$STATUS_DESC_FREEZE	无法移动。<N>燃烧可以清除该状态。	
+$STATUS_DESC_FRENZY	加速 <PERCENT>%	COMMENT: Status descriptions have LOTS of variables. Ask Lars is you have any questions.
+$STATUS_DESC_INSPIRE	<RE>$STATUS_DESC_INSPIRED	
+$STATUS_DESC_INSPIRED	攻击造成的伤害 +<M_MULT_PERCENT>% 。	
+$STATUS_DESC_INSPIRED_HIT	<RE>$STATUS_DESC_INSPIRED	
+$STATUS_DESC_LIGHT	驱散黑暗。	
+$STATUS_DESC_POISON	<INTI> 伤害/秒，持续 <TIME> 秒	
+$STATUS_DESC_SINGLE_STUN	无法移动，只能被施加一次。	
+$STATUS_DESC_SLOW	-<PERCENT>% 速度。	
+$STATUS_DESC_STUN	无法移动。	
+$STATUS_DESC_TROLL	<PERCENT> % 几率闪避攻击。	
+$STATUS_TIME_FOREVER	永久存在。	
+$STATUS_TIME_LEFT	剩余 <TIME_LEFT>/<TIME> 秒。	
+$STRONG_DMG_MULT	对阵<FLAVOR>时，抵抗<PERCENT>% 伤害	
+$STRONG_EVADE	<PERCENT>% 闪避 <FLAVOR>	
+$TALK_ASH	死灰难民	
+$TALK_CULTIST	邪教牧师	
+$TALK_NOMAD	游牧难民	
+$TALK_QUAID	奎德难民	
+$TARGET_BOSS_TEXT	如果不选择，会无视首领级敌人	
+$TARGET_BOSS_TITLE	攻击首领	
+$TARGET_BOTH_TEXT	根据强化等级使用技能	
+$TARGET_BOTH_TITLE	普通优先级	
+$TARGET_BULLDOG_TEXT	不改变攻击目标，直到敌人离开攻击范围或死亡。<N><N>比较难掌握，仅建议高手玩家使用！	
+$TARGET_BULLDOG_TITLE	恶犬模式	
+$TARGET_CHANCE_TEXT	攻击那些最不擅长闪避攻击或者抵抗攻击的敌人。	
+$TARGET_CHANCE_TITLE	最佳时机	
+$TARGET_CHEAP_TEXT	把高级技能留给那些难以杀死的目标。	
+$TARGET_CHEAP_TITLE	消耗最低的技能	
+$TARGET_EFFECT_TEXT	使用状态效果攻击受到影响最少的敌人。	
+$TARGET_EFFECT_TITLE	最佳效果	
+$TARGET_FAST_TEXT	攻击移动最快的敌人。	
+$TARGET_FAST_TITLE	攻击最快的	
+$TARGET_FIGHT_TEXT	优先攻击，即使更强大的治疗技能已经准备好。	
+$TARGET_FIGHT_TITLE	战斗优先级	
+$TARGET_FIRST_TEXT	攻击离终点最近的敌人。	
+$TARGET_FIRST_TITLE	攻击最前面的敌人	
+$TARGET_HEAL_TEXT	优先治疗，即使更强大的攻击技能已经准备好。	
+$TARGET_HEAL_TITLE	治疗优先级	
+$TARGET_LAST_TEXT	攻击离终点最远的敌人。	
+$TARGET_LAST_TITLE	攻击最后面的敌人	
+$TARGET_SAVE_TEXT	将当前的攻击优先级设置为此人物的默认设置。	
+$TARGET_SAVE_TITLE	保存设置	
+$TARGET_SPECIFIC_TEXT	手动选择一个特定的敌人进行攻击，忽略所有其他敌人。	
+$TARGET_SPECIFIC_TITLE	特定目标	
+$TARGET_STRONG_TEXT	攻击生命值最高、护甲最高的敌人。	
+$TARGET_STRONG_TITLE	攻击最强大的敌人	
+$TARGET_WEAK_TEXT	攻击生命值最低、护甲最低的敌人。	
+$TARGET_WEAK_TITLE		
+$TIP_00_TEXT	<N><N>有时候，可以选择玩一下早期的关卡，来提升等级，获得金钱，并且购买更好的装备。你也可以选择简单难度来降低关卡的挑战性。	
+$TIP_00_TITLE	遇到困难了？	
+$TIP_10_TEXT	你可以使用键盘控制游戏！<N><N>- 选择法术<N>- 选择召唤的人物<N>- 强化/召回守护者<N>- 暂停/继续游戏<N>- 循环召唤守护者<N>- 更改目标/速度选项<N>- Tab浏览界面<N>- 移动鼠标/点击键盘<N><N>(在选择菜单自定义按键)	
+$TIP_10_TITLE	热键	
+$TIP_100_TEXT	召回已召唤的守护者可以回收当时消耗的能源中的一部分。<N><N>守护者受伤时，回收的能源也会减少。	
+$TIP_100_TITLE	召回	
+$TIP_110_TEXT	如果您有障碍，请在选项菜单中查看以下内容：<N><N>1）视频 - 全屏游戏, 提升图像<N> 2）控制 - 更改所有控制<N>辅助功能 - 开关效果，游戏速度，经验加成	
+$TIP_110_TITLE	辅助功能	
+$TIP_120_TEXT	这个提示是内置的，所以没有人去尝试分析代码和破解谜题。	
+$TIP_120_TITLE	公益广告	
+$TIP_130_TEXT	如果你点击守护者，你可以设置它们的攻击偏好，例如是前面，后面，强壮，虚弱和快速的敌人。使用它们来优化你的攻击。举例说“强壮”可以让你集中攻击大型的敌人，或削弱一整群人。	
+$TIP_130_TITLE	攻击选项	
+$TIP_140_TEXT	除基本攻击选项外，还有四个可选设置：<N><N>1）消耗最低的技能 <N>2）优化效果 <N>3）最佳时机 <N>4）恶犬模式<N><N>这些不是必选项，但可以帮助高级玩家将战斗策略提升到最大化，你甚至能为指定人物保存默认目标选项！	
+$TIP_140_TITLE	高级攻击选项	
+$TIP_150_TEXT	冰与火彼此不容。寒冷和冰冻会清除火焰，火焰会融化冰冻，也会清除寒冷效果。	
+$TIP_150_TITLE	冰与火之歌	
+$TIP_160_TEXT	最好不要立即尝试“高级”和“极限”难度。<N><N>在普通难度下进行一些战斗后，再向高难度进军吧。	
+$TIP_160_TITLE	更高难度	
+$TIP_170_TEXT	当你为英雄人物购买新装备以后，可以把就装备给其它的队伍成员使用。	
+$TIP_170_TITLE	装备	
+$TIP_180_TEXT	将守护者靠近在一起，可以使敌人的攻击更分散，从而使每个人都更容易生存。<N><N>该策略的缺点是，你的防守覆盖范围就减小了。	
+$TIP_180_TITLE	团结就是力量	
+$TIP_190_TEXT	如果你想调整游戏的升级速度，你可以在选项菜单中改变全局经验加成。<N><N>默认设置是100%。<N><N>你也可以关闭经验加成。	
+$TIP_190_TITLE	奖励加成	
+$TIP_20_TEXT	每个防守者升级时，会获得1个技能点。<N><N>在队伍菜单分配这些点数，可以解锁新技能。<N><N>1）技能（圆形）- 战斗中使用的攻击技能<N>2）特性（方形）- 被动技能，永久生效的能力。<N><N>更多高级技能需要在战斗中使用强化来解锁。	
+$TIP_20_TITLE	技能	
+$TIP_200_TEXT	有时，某个特别技能能让你脱离困境（例如你的神龙火球能把冰融化），或者你仅仅打算保存强大的攻击，供以后使用。在这种情况下，你可以点击守护者，然后点击右下角菜单中的技能，来暂时关闭它。	
+$TIP_200_TITLE	关闭技能	
+$TIP_210_TEXT	在保存菜单，有一个带有文件夹和软盘图片的按钮。<N><N>你可以在这里知道保存的游戏和配置文件存储在什么位置。	
+$TIP_210_TITLE	我的存档在哪？	
+$TIP_220_TEXT	通关常规游戏后，你可以带领你原有的队伍开始一段新冒险，挑战更高难度的战斗，并获得疯狂的奖励！<N><N>前往保存界面，在你的旧存档上，选择新游戏+。	
+$TIP_220_TITLE	新游戏+	
+$TIP_230_TEXT	在新游戏+模式，你可以获得特别的神器，并用它们来升级你在常规游戏中获得的独特装备。升级后的物品将有特殊力量！	
+$TIP_230_TITLE	升级	
+$TIP_240_TEXT	一旦你获得足够的星星后，你就可以解锁额外战斗。这些特别任务包含额外的挑战和奖励。	
+$TIP_240_TITLE	额外任务	
+$TIP_250_TEXT	闪电法术有“能量燃烧”的效果，每次都会燃烧敌人的一部分能量奖励。例如法术对敌人造成40%的伤害，那敌人40%的普通能源奖励将会被扣除。	
+$TIP_250_TITLE	能量燃烧？	
+$TIP_260_TEXT	你知道吗，在游戏中你可以制作自己的MOD（修改）。<N><N>在保存游戏界面，点击扳手按钮，你几乎可以修改任何东西 - 状态，等级，职业，人物，过场动画，图像，物品等等。	
+$TIP_260_TITLE	支持Mod	
+$TIP_270_TEXT	<N><N>给妈妈打个电话吧，她很想念你。	
+$TIP_270_TITLE	想念母亲	
+$TIP_30_TEXT	<N><N>战斗过后，如果最终人物活下来，并且被召唤了，那她们都会得到相同的经验。<N><N>此外的人，获得一半经验。不论有多少人，每人分得的经验数都是相同的。<N><N>你可以在辅助功能菜单更改该惩罚。	
+$TIP_30_TITLE	谁得到了经验？	
+$TIP_40_TEXT	你能通过点击和拖动鼠标，滚动世界地图，或者通过操作键盘浏览。<N><N>滚动默认映射到方向键。	
+$TIP_40_TITLE	主世界	
+$TIP_50_TEXT	通常你可以通过召回守护者来收回一部分当初消耗的能量。<N><N>如果你在第一波敌人出现前召回守护者，你可以获得所有消耗的能量。	
+$TIP_50_TITLE	召回获得100%能量	
+$TIP_60_TEXT	如果你有任何问题，可以加入《守护者冒险》在线社区！网址www.defendersquest.com<N><N>我们有一个论坛，你可以在那里提出任何问题，我们也有合作的wiki，和开发博客。	
+$TIP_60_TITLE	网站和论坛	
+$TIP_70_TEXT	在战斗时，你可以使用键盘放置守护者。<N><N>默认按键是方向键。	
+$TIP_70_TITLE	放置守护者	
+$TIP_80_TEXT	跳动数字的颜色表示伤害类型，白色代表普通，灰色会被护甲减少的，红色是流血，橙色是火焰，紫色是毒素，大数字代表暴击。<N><N>你可以在“游戏设置”界面选择打开或关闭。	
+$TIP_80_TITLE	战斗效果	
+$TIP_90_TEXT	你在高难度游戏时，你偶尔会找到独特道具。它们威力强大，而且无法在商店出售。	
+$TIP_90_TITLE	特殊道具	
+$TITLE_BONUS_GOODIES	额外奖励	
+$TITLE_BONUS_GOODIES_2	秘密？	
+$TITLE_CONNECTING_KONG	连接到 KONG……	
+$TITLE_EULA_1	在游戏前，你需要先同意我们的	
+$TITLE_EULA_2	最终用户许可协议	
+$TITLE_FULL_GAME	完整游戏	
+$TITLE_OPTIONS	选项	
+$TITLE_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT	
+$TITLE_QUIT	退出	
+$TITLE_RELOAD_MOD	重载Mod	
+$TITLE_START	开始	
+$TITLE_START_DEMO	开始试玩	
+$TITLE_START_GAME	开始游戏	
+$TITLE_UNLOAD_MOD	上传Mod	
+$TOOLTIP_ADVANCED	最难的挑战，最多的报酬。<N><N>当你足够强大的时候来挑战吧。	
+$TOOLTIP_CASUAL	在普通模式，敌人的生命值和攻击伤害会被减少。	
+$TOOLTIP_CHANGE_PATH_1	注意：	
+$TOOLTIP_CHANGE_PATH_2	你的旧文件不会自动转移到新位置。<N><N>它们仍然会在原来的目录。	
+$TOOLTIP_EXTREME	最难的挑战，最多的报酬。<N><N>做好准备！	
+$TOOLTIP_NORMAL	普通挑战。<N><N>大部分玩家应该从这里开始。	
+$TYPE_ARMOR	护甲	
+$TYPE_ATTACKER	攻击者	
+$TYPE_BOSS	Boss	
+$TYPE_CULTIST	邪教徒	
+$TYPE_DARK	黑暗	
+$TYPE_EXALTED	高尚的	
+$TYPE_FAST	快速	
+$TYPE_NO_END_DAMAGE	无限伤害	
+$TYPE_NORMAL	普通挑战。<N><N>大部分玩家应该从这里开始。	
+$TYPE_NUKE_ON_KILL	NukeOnKill	
+$TYPE_REVENANT	亡灵	
+$TYPE_SHEEP	速度	
+$TYPE_SNAIL	移动迟缓	
+$TYPE_SPITTER	喷吐者	
+$TYPE_SPLITTER	切割者	
+$TYPE_STATIONARY	静止	
+$TYPE_TELEPORTER	传送点	
+$TYPE_WATER	水	
+$TYPE_WORM	蠕虫	
+$UI_ACCEPT_NUMS	font:18,off_y:1,off_x:-3	
+$UI_ACCESS_ABSENCE	缺少	
+$UI_ACCESS_DEFAULT	*默认设置	
+$UI_ACCESS_FAIL	失败	
+$UI_ACCESS_FAILURE_PENALTY	失败惩罚	
+$UI_ACCESS_FLASHING	闪光效果	
+$UI_ACCESS_NUMS	font:18,off_y:1,off_x:-2,show_boxes:1,absence_off_x:0,speed_off_x:0	
+$UI_ACCESS_PENALTIES	惩罚	
+$UI_ACCESS_REWARDS	奖励	
+$UI_ACCESS_SEE_ALSO	参见：	
+$UI_ACCESS_SPEED	游戏速度	
+$UI_ACCESS_TITLE	辅助功能	
+$UI_ACHIEVE_CATEGORIES	目录	
+$UI_ACHIEVE_COMPLETION	完成	
+$UI_ACHIEVE_EASY	简单	
+$UI_ACHIEVE_HARD	困难	
+$UI_ACHIEVE_IMPOSSIBLE	毫无机会	
+$UI_ACHIEVE_MEDIUM	中等	
+$UI_ACHIEVE_POP_UP	弹出通知	
+$UI_ACHIEVE_TRAINER	训练师	
+$UI_ACHIEVEMENTS_BUTTON_NUMBERS	font:18,offy:-2	
+$UI_ACHIEVEMENTS_NUMS	font:18,off_y:0,pop_up_off_y:0	
+$UI_ACHIEVEMENTS_TITLE	成就	
+$UI_ALL_FILES	所有文件	
+$UI_AUDIO_NUMS	font:18,off_y:1,off_x:-2	
+$UI_AUDIO_TITLE		
+$UI_BACK_NUMS	font:18,off_y:1,off_x:-3	
+$UI_BATTLE_CASH_OUT	兑现	
+$UI_BATTLE_CASH_OUT_TEXT	是否立刻结束战斗并且结算现在获得的奖励？	
+$UI_BATTLE_CASH_OUT?	兑现？	
+$UI_BATTLE_MORE	更多	
+$UI_BATTLE_NEXT	继续	
+$UI_BATTLE_SEND_NEXT	派遣<N>下一波	
+$UI_BATTLE_WAVE	波	
+$UI_BATTLE_WAVES	波	
+$UI_BONUS_BLUE_STARS_LINE	<STAR_NUM> 蓝星	
+$UI_BONUS_BONUS_LEVELS	奖励关卡	
+$UI_BONUS_GOLD_STARS_LINE	<STAR_NUM> 金星	
+$UI_BONUS_STARS_LINE	<STAR_NUM> <STAR_COLOR>星	
+$UI_CLOUD_UNKNOWN	云存档	
+$UI_CLOUD_UNKNOWN_TEXT	<N>是否启用Steam云存档？	
+$UI_CLOUD_UNKNOWN_TEXT_2	您可以随时在以下位置更改此设置<N>选项：其他	
+$UI_CONFLICT_BACKUP	备份文件:<N><LOC>	
+$UI_CONFLICT_BETTER	我们认为这个更好	
+$UI_CONFLICT_BUTTON	使用这个	
+$UI_CONFLICT_CLOUD	云	
+$UI_CONFLICT_LOCAL	电脑	
+$UI_CONFLICT_MSG	我们不确定哪个应该进入<SLOT>插槽。<N>请选择你需要保留的。	
+$UI_CONFLICT_NGP	新游戏+	
+$UI_CONFLICT_TITLE	Steam云存档发生冲突！	
+$UI_CONTROLS_ACCEL	加速	
+$UI_CONTROLS_ACCEPT	接受	
+$UI_CONTROLS_ACCEPT_SELECT	接受/选择	
+$UI_CONTROLS_AUTO	自动检测	
+$UI_CONTROLS_BACK	返回	
+$UI_CONTROLS_BACK_CANCEL	返回/取消	
+$UI_CONTROLS_BOOST	强化	
+$UI_CONTROLS_CANCEL	取消	
+$UI_CONTROLS_CHARACTER	人物	
+$UI_CONTROLS_CLASS	职业	
+$UI_CONTROLS_CLICK	点击	
+$UI_CONTROLS_CURSOR	光标	
+$UI_CONTROLS_CYCLE	循环<N>守护者	
+$UI_CONTROLS_CYCLE_NUMS	off_x:-5,off_y:0	
+$UI_CONTROLS_DEVICE	操作工具	
+$UI_CONTROLS_FAST	快速	
+$UI_CONTROLS_GAMEPAD	手柄	
+$UI_CONTROLS_GAMEPAD_MODEL	模型	
+$UI_CONTROLS_GAMEPAD_ICONS	图标	
+$UI_CONTROLS_GAMEPAD_ACTION_SET	操作集	
+$UI_CONTROLS_KEYBOARD	鼠标和键盘	
+$UI_CONTROLS_STEAM_CONTROLLER	Steam手柄	
+$UI_CONTROLS_LOGITECH	罗技	
+$UI_CONTROLS_MENU	菜单	
+$UI_CONTROLS_MENU_ALT	菜单2	
+$UI_CONTROLS_MINUS_PLUS_SPEED	-/+<N>速度	
+$UI_CONTROLS_MINUS_SPEED	- 速度	
+$UI_CONTROLS_MOVE_CURSOR	移动鼠标	
+$UI_CONTROLS_NAVIGATE_MENU	导航菜单	
+$UI_CONTROLS_NONE	没有	
+$UI_CONTROLS_NORMAL	普通	
+$UI_CONTROLS_NUMS	font:18,off_y:1,off_x:-2	
+$UI_CONTROLS_OUYA	Ouya	
+$UI_CONTROLS_PAUSE	暂停	
+$UI_CONTROLS_PLUS_SPEED	+ 速度	
+$UI_CONTROLS_POINTER	指针	
+$UI_CONTROLS_PRESET_AZERTY	Azerty	
+$UI_CONTROLS_PRESET_COLEMAK	Colemak	
+$UI_CONTROLS_PRESET_CUSTOM	习惯	
+$UI_CONTROLS_PRESET_DEFAULT	默认	
+$UI_CONTROLS_PRESET_DVORAK	Dvorak	
+$UI_CONTROLS_PRESET_LEFTY	左撇子	
+$UI_CONTROLS_PRESET_PS	PlayStation	
+$UI_CONTROLS_PRESET_PSJ	日本PlayStation	
+$UI_CONTROLS_PRESET_QWERTY	传统键盘	
+$UI_CONTROLS_PRESET_QWERTZ	Qwertz	
+$UI_CONTROLS_PRESET_WIIU	WiiU默认设定	
+$UI_CONTROLS_PRESET_XBOX	Xbox默认设定	
+$UI_CONTROLS_PRESETS	预设	
+$UI_CONTROLS_PS3	Playstation 3	
+$UI_CONTROLS_PS4	Playstation 4	
+$UI_CONTROLS_PSVITA	Playstation Vita	
+$UI_CONTROLS_RECALL	召回	
+$UI_CONTROLS_SCROLL	滚动地图，<N>放置守护者	
+$UI_CONTROLS_SEE_ALSO	参见：	
+$UI_CONTROLS_SELECT	选择	
+$UI_CONTROLS_SLOW	缓慢	
+$UI_CONTROLS_SLOWEST	最慢	
+$UI_CONTROLS_SPEED	速度	
+$UI_CONTROLS_SPELL	法术	
+$UI_CONTROLS_TAB_NAV	Tab<N>导航	
+$UI_CONTROLS_TARGET	目标攻击	
+$UI_CONTROLS_TITLE	控制	
+$UI_CONTROLS_VIRTUAL_MOUSE	虚拟鼠标	
+$UI_CONTROLS_XBOX1	Xbox One	
+$UI_CONTROLS_XBOX360	Xbox 360	
+$UI_CONTROLS_XINPUT	Xinput	
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG	安装	
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG_FAIL_TITLE	Steam错误！	
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG_FAIL_TEXT	无法打开配置界面：Steam是否在全屏模式下运行，或Steam是否处于叠加工作状态？	
+$UI_DEFENDER_BOOST	强化：<PSI> 能量	
+$UI_DEFENDER_BOOST_MAX	一键强化	
+$UI_DEFENDER_BOOST_NEED	强化：需要 <PSI> 能量	
+$UI_DEFENDER_BOOST_UNLOCK	强化到 <LVL> 级后解锁	
+$UI_DEFENDER_CLICK_TO	(点击以打开/关闭)	
+$UI_DEFENDER_RECALL	召回	
+$UI_DEFENDER_RECALL_LINE	召回：<N>+<PSI> 能量	
+$UI_DEFENDER_TECHNIQUE	技能	
+$UI_DEFENDER_TECHNIQUES	技能	
+$UI_DEFENDER_TRAIT	特质	
+$UI_DEFENDER_TRAITS	特质	
+$UI_DEFQ_MODS	Mod	
+$UI_DEMO_IMPORT_OPTIONS	是否从试玩版本导入选项设置？	
+$UI_DEMO_IMPORT_SAVES	是否从试玩版本导入存档？	
+$UI_DEMO_OPTIONS_DETECTED	检测到试玩版本选项设置！	
+$UI_DEMO_SAVES_DETECTED	检测到试玩版本存档！	
+$UI_DOWNLOAD_BODY	点击按钮，下载<N>游戏的桌面版。<N><N>它会在新的窗口/标签下载。<N>实际可能会有延迟，请等<N>上一分钟，不要去把弄按钮	
+$UI_DOWNLOAD_LINUX	Linux	
+$UI_DOWNLOAD_MACINTOSH	Macintosh	
+$UI_DOWNLOAD_SOUNDTRACK	游戏原声	
+$UI_DOWNLOAD_WARNING	禁用<N>弹出窗口屏蔽！	
+$UI_DOWNLOAD_WINDOWS	Windows	
+$UI_DQ_SAVE_FILES	DQ<X> 保存文件	
+$UI_EQUIP_ALL_A_HEAVY	已装备所有的重型护甲！	
+$UI_EQUIP_ALL_A_HEAVY_EQUIPPED	已装备所有的重型护甲！	
+$UI_EQUIP_ALL_A_LIGHT	已装备所有的轻型护甲！	
+$UI_EQUIP_ALL_A_LIGHT_EQUIPPED	已装备所有的轻型护甲！	
+$UI_EQUIP_ALL_ACC_BOOK	已装备所有书！	
+$UI_EQUIP_ALL_W_BOW	已装备所有弓箭！	
+$UI_EQUIP_ALL_W_BOW_EQUIPPED	已装备所有弓箭！	
+$UI_EQUIP_ALL_W_STAFF	已装备所有法杖！	
+$UI_EQUIP_ALL_W_STAFF_EQUIPPED	已装备所有法杖！	
+$UI_EQUIP_ALL_W_SWORD	已装备所有剑！	
+$UI_EQUIP_ALL_W_SWORD_EQUIPPED	已装备所有剑！	
+$UI_EQUIP_CANT_SELL_UNIQUE	无法出售特殊道具！	
+$UI_EQUIP_CANT_UPGRADE_A_HEAVY	你没有可以提升的重型护甲！	
+$UI_EQUIP_CANT_UPGRADE_A_LIGHT	你没有可以提升的轻型护甲！	
+$UI_EQUIP_CANT_UPGRADE_W_BOW	你没有可以提升的弓箭！	
+$UI_EQUIP_CANT_UPGRADE_W_STAFF	你没有可以提升的法杖！	
+$UI_EQUIP_CANT_UPGRADE_W_SWORD	你没有可以提升的剑！	
+$UI_EQUIP_CLASS_CANT_A	该职业无法装备护甲！	
+$UI_EQUIP_CLASS_CANT_W	该职业无法装备武器！	
+$UI_EQUIP_COMPARE	比较	
+$UI_EQUIP_EQUIP_AFTER	购买后装备	
+$UI_EQUIP_EQUIP_WHO	给谁装备？	
+$UI_EQUIP_EQUIPPED	已装备	
+$UI_EQUIP_MAX_OWNED	已达到最大拥有数	
+$UI_EQUIP_NAME	名称	
+$UI_EQUIP_NO_A_HEAVY	未拥有任何重型护甲！	
+$UI_EQUIP_NO_A_HEAVY	未拥有任何重型护甲！	
+$UI_EQUIP_NO_A_LIGHT	未拥有任何轻型护甲！	
+$UI_EQUIP_NO_A_LIGHT	未拥有任何轻型护甲！	
+$UI_EQUIP_NO_ACC_BOOK	未拥有任何书！	
+$UI_EQUIP_NO_W_BOW	未拥有任何弓箭！	
+$UI_EQUIP_NO_W_BOW	未拥有任何弓箭！	
+$UI_EQUIP_NO_W_STAFF	未拥有任何法杖！	
+$UI_EQUIP_NO_W_STAFF	未拥有任何法杖！	
+$UI_EQUIP_NO_W_SWORD	未拥有任何剑！	
+$UI_EQUIP_NO_W_SWORD	未拥有任何剑！	
+$UI_EQUIP_OWNED	拥有	
+$UI_EQUIP_OWNER	拥有者	
+$UI_EQUIP_PRICE	价格	
+$UI_EQUIP_SELL_OLD_ARMOR_FOR	以<SELL_PRICE>废铁的价格售出护甲？	
+$UI_EQUIP_SELL_OLD_WEAPON_FOR	以<SELL_PRICE>废铁的价格售出武器？	
+$UI_EQUIP_SHOW_EQUIPPED	显示装备	
+$UI_EQUIP_SHOW_EQUIPPED	显示装备	
+$UI_EQUIP_STAT	状态	
+$UI_EQUIP_WHO_WILL	给谁装备：	
+$UI_EULA_TITLE	最终用户许可协议	
+$UI_GAMEPLAY_ALWAYS	一直	
+$UI_GAMEPLAY_AUTO_UPDATE	自动更新	
+$UI_GAMEPLAY_BATTLE_NUMBERS	战斗数字	
+$UI_GAMEPLAY_CLOUD_SAVE	云存档	
+$UI_GAMEPLAY_DEFAULT	只限新战斗	
+$UI_GAMEPLAY_DIALOGUE	对话	
+$UI_GAMEPLAY_DISABLE_UPDATER	禁用自动更新	
+$UI_GAMEPLAY_ENABLE_UPDATER	游戏开始时检测更新	
+$UI_GAMEPLAY_HIDE	隐藏	
+$UI_GAMEPLAY_MISCELLANEOUS	其他	
+$UI_GAMEPLAY_NEVER	从不	
+$UI_GAMEPLAY_OFF	关闭	
+$UI_GAMEPLAY_ON	打开	
+$UI_GAMEPLAY_SHOW	显示	
+$UI_GAMEPLAY_SLOW_FOOTNOTE	也许会降低游戏运行速度	
+$UI_GAMEPLAY_TRACK_NO	不要追踪我，朋友！	
+$UI_GAMEPLAY_TRACK_YES	让我们追踪匿名游戏状态	
+$UI_GAMEPLAY_TRACKING	追踪文件	
+$UI_GAMEPLAY_TUTORIALS	教程	
+$UI_GRAPHICS_HD	高清	
+$UI_GRAPHICS_ORIGINAL	原始	
+$UI_HIGH	高	
+$UI_HIGH()	高（<X>）	
+$UI_LEGACY_IMPORT_SAVES	是否从旧版本的《守护者冒险》中导入存档？	
+$UI_LEGACY_SAVES_DETECTED	检测到旧存档！	
+$UI_LOGGING_ALWAYS	总是	
+$UI_LOGGING_ASK	每次都询问	
+$UI_LOGGING_CRASH	记录崩溃日志	
+$UI_LOGGING_CRASH_CONTENT	包含崩溃日志：	
+$UI_LOGGING_CRASH_OPTIONS	游戏设置	
+$UI_LOGGING_CRASH_REPLAY	用户输入记录	
+$UI_LOGGING_CRASH_SAVES	存档文件	
+$UI_LOGGING_CRASH_SCREENSHOT	截屏	
+$UI_LOGGING_CRASH_SYSTEM	系统参数	
+$UI_LOGGING_NEVER	从不	
+$UI_LOGGING_SEND	发送崩溃日志给开发人员	
+$UI_LOGGING_TITLE	记录日志	
+$UI_LOW	低	
+$UI_LOW()	低（<X>）	
+$UI_MISC_NUMS	font:18,off_y:1,off_x:-2	
+$UI_MISC_TITLE	其他	
+$UI_MOD_ALL_FILES	所有文件（*.*）	
+$UI_MOD_AUTHOR	作者	
+$UI_MOD_BKGS	+42M 原画资源	
+$UI_MOD_BROWSE_QUEUE	我的Mods	
+$UI_MOD_BROWSE_WORKSHOP	Steam创意工坊	
+$UI_MOD_CREATE_NEW	创建新的Mod	
+$UI_MOD_DATA_ONLY	只有文件（1M）	
+$UI_MOD_DEFQ_SAVE	《守护者冒险》存档文件（*.dfq）	
+$UI_MOD_DOWNLOAD	下载Mod中	
+$UI_MOD_DOWNLOAD_TEXT		
+$UI_MOD_EDIT	编辑	
+$UI_MOD_EXISTS	Mod已存在<N>是否加载？	
+$UI_MOD_EXPORT_CANCEL	导出已取消！	
+$UI_MOD_EXPORT_CANCEL_TEXT	文件位于：	
+$UI_MOD_EXPORT_CHURN	任务<TASK_PROGRESS><N><N><TASK><N><PROGRESS>	
+$UI_MOD_EXPORT_FAIL	导出失败！	
+$UI_MOD_EXPORT_FAIL_TEXT	发生错误！	
+$UI_MOD_EXPORT_FINISH	导出完成！	
+$UI_MOD_EXPORT_FINISH_TEXT	你的Mod位于：	
+$UI_MOD_EXPORTING	导出数据	
+$UI_MOD_INSTALL_ERROR	已存在相同的Mod名字。<N>是否加上后缀安装？	
+$UI_MOD_INSTALL_ERROR2	非常抱歉，无法安装此Mod。	
+$UI_MOD_INSTALL_STANDALONE	从ZIP中安装	
+$UI_MOD_LATER	稍后	
+$UI_MOD_LOAD_EXISTING	加载存在的Mod	
+$UI_MOD_LOAD_FAIL	加载失败！	
+$UI_MOD_LOAD_FAIL_TEXT	加载Mod失败：	
+$UI_MOD_LOAD_FINISH	加载完成	
+$UI_MOD_LOAD_FINISH_TEXT	Mod加载成功。<N>游戏将立即重启。	
+$UI_MOD_LOAD_MOD	加载Mod	
+$UI_MOD_LOAD_MOD_TEXT	是否加载<LQ><MOD><RQ>？<N>这将使游戏重启。	
+$UI_MOD_LOADING	正在加载Mod……	
+$UI_MOD_MISSING	无法找到settings.xml。<N>Mod不存在或Mod已损坏。	
+$UI_MOD_MISSING_SUBSCRIBE	订阅文件	
+$UI_MOD_MISSING_SUBSCRIBE_TEXT	是否下载：<N><NUM> 个已订阅的创意工坊的文件吗？	
+$UI_MOD_MOD_INCOMPAT_TEXT	<N>文件来自不同的mod，<N>它可能不兼容。<N><N>是否仍然尝试导入？	
+$UI_MOD_MOVIES	+42M 影片资源	
+$UI_MOD_NAME	输入此Mod的名称	
+$UI_MOD_NORM_INCOMPAT_TEXT	<N>已经激活mod，但是<N>该文件来自普通游戏，<N>它可能不兼容。<N><N>是否仍然尝试导入？	
+$UI_MOD_NOT_DIR	哇！<N>这不是一个目录！<N>再试一次。	
+$UI_MOD_PATH	Mod文件路径……	
+$UI_MOD_PLAY	开始游戏	
+$UI_MOD_PLEASE_WAIT	请稍等片刻<N>正在加载Mod	
+$UI_MOD_PROGRESS	任务<TASK><N>文件<FILE><N>	
+$UI_MOD_SELECT_DIR	选择Mod目标	
+$UI_MOD_SHARE	分享	
+$UI_MOD_SHARE_TEXT_LOCAL	这将使你的mod打包成一个文件，以方便分布。	
+$UI_MOD_SHARE_TEXT_STEAM	打包你的Mod并且发布到Steam创意工坊。	
+$UI_MOD_SHARE_TITLE	分享Mod	
+$UI_MOD_SHARED	已分享	
+$UI_MOD_SPRITES	+4M 界面资源	
+$UI_MOD_STEAM_SEND	正在发送至Steam……	
+$UI_MOD_STEAM_UPLOAD	正在上传至Steam……	
+$UI_MOD_STEAM_WAIT	正在等待Steam的回复……<N>(或需要等一会)	
+$UI_MOD_SUBSCRIBED	已订阅	
+$UI_MOD_TEMPLATE_SETTINGS	Mod模块设定	
+$UI_MOD_TITLE	修改	
+$UI_MOD_TITLE	修改	
+$UI_MOD_UPDATE	更新	
+$UI_MOD_UPDATE_STEAM_FINISH	更新完成	
+$UI_MOD_UPDATE_STEAM_FINISH_TEXT	Mod已经在Steam创意工坊上<N>成功更新	
+$UI_MOD_UPDATE_TEXT_STEAM	Mod已经在Steam创意工坊上更新。	
+$UI_MOD_WEB_BROWSER	浏览器	
+$UI_MOD_WORKSHOP	创意工坊	
+$UI_MOD_ZIP_FAIL	打包失败！	
+$UI_MOD_ZIP_FAIL_TEXT	压缩文件时发生了错误。	
+$UI_MOD_ZIP_FILES	压缩文件（*.*）	
+$UI_MOD_ZIP_FINISH	打包完成。	
+$UI_MOD_ZIP_FINISH_TEXT	Mod已成功压缩。	
+$UI_MOD_ZIP_PROGRESS	任务<TASK><N>文件<FILE><N>	
+$UI_MOD_ZIP_STEAM_FAIL	上传失败！	
+$UI_MOD_ZIP_STEAM_FAIL_TEXT	无法将Mod上传至<N>Steam创意工坊	
+$UI_MOD_ZIP_STEAM_FINISH	上传成功	
+$UI_MOD_ZIP_STEAM_FINISH_TEXT	Mod已成功上传至<N>Steam创意工坊	
+$UI_MOD_ZIPPING	正在打包Mod文件	
+$UI_MOVIE_END	结束	
+$UI_MOVIE_QUEST	任务	
+$UI_MOVIE_SCENE	场景	
+$UI_MOVIE_SELECT_A_MOVIE	选择一段影片	
+$UI_MUSIC	音乐：	
+$UI_NORM_MOD_INCOMPAT_TEXT	<N>文件来自Mod，<N>它可能不兼容。<N><N>是否仍然尝试导入？	
+$UI_OPTIONS_MENU	选项菜单	
+$UI_OPTIONS_NUMS	font:18,off_y:1,off_x:-2	
+$UI_OPTIONS_SPEED	游戏速度	
+$UI_OPTIONS_TITLE	选项	
+$UI_QUIT_NUMS	font:18,off_y:1,off_x:-2	
+$UI_RECRUIT_BERSERKER_NUMS	font:14,x_off:0,y_off:0	
+$UI_RECRUIT_CLASS_FULL	职业已满	
+$UI_RECRUIT_DRAGON_NUMS	font:14,x_off:0,y_off:0	
+$UI_RECRUIT_HEALER_NUMS	font:14,x_off:0,y_off:0	
+$UI_RECRUIT_KNIGHT_NUMS	font:14,x_off:0,y_off:0	
+$UI_RECRUIT_MAGE_NUMS	font:14,x_off:0,y_off:0	
+$UI_RECRUIT_RANGER_NUMS	font:14,x_off:0,y_off:0	
+$UI_RESOLUTION_CHOICES	可用：	
+$UI_RESOLUTION_CURRENT	当前：	
+$UI_RESOLUTION_CURRENT_PARENTHESES	（当前）	
+$UI_RESOLUTION_TITLE	屏幕分辨率	
+$UI_RESTART_NUMS	font:18,off_y:1,off_x:-2	
+$UI_SAVE_CONFIRM_DELETE	是否确认删除？	
+$UI_SAVE_CONFIRM_DELETE_TEXT	是否永久删除该<N>存档位？	
+$UI_SAVE_DEMO_ATTENTION	注意！	
+$UI_SAVE_DEMO_IMPORT	试玩版本导入	
+$UI_SAVE_DEMO_IMPORT_TEXT	文件来自试玩版本，可能会进行一些调整。<N>是否接受？	
+$UI_SAVE_DEMO_NEWER	文件来自新版本的游戏，<N>它可能不兼容。<N><N>是否仍然尝试导入？	
+$UI_SAVE_DEMO_OLDER	文件来自旧版本的游戏，<N>它可能不兼容。<N><N>是否仍然尝试导入？	
+$UI_SAVE_ERROR_INCOMPAT	无法兼容！	
+$UI_SAVE_ERROR_INCOMPAT_TEXT	错误！你正在玩试玩版本<N>这个文件来自完整版本	
+$UI_SAVE_MENU_CHECK_GOG	到GOG上获取免费更新！	
+$UI_SAVE_MENU_DOWNLOAD	获得可下载版本	
+$UI_SAVE_MENU_FULL_VERSION	完整版本	
+$UI_SAVE_MENU_KONG_DEMO	<RE>$MISC_DEMO_VERSION	
+$UI_SAVE_MENU_KONG_DEMO_LOGIN_FULL	试玩版本 - 登陆kongregate进入完整游戏！	
+$UI_SAVE_MENU_KONG_DEMO_LOGIN_XDEMO	试玩版本 - 登陆kongregate进入扩展内容！	
+$UI_SAVE_MENU_KONG_XDEMO	扩展试玩版本	
+$UI_SAVE_MENU_KONG_XDEMO_LOGIN	扩展试玩版本 - 登陆kongregate进入完整游戏！	
+$UI_SAVE_MENU_LOADED	加载完成！	
+$UI_SAVE_PATH	保存文件路径……	
+$UI_SAVE_SELECT_DIR	选择保持目录	
+$UI_SELECT_A_FILE_TEXT	请选择一个保存文件导入	
+$UI_SELECT_A_FILE_TITLE	请选择一个文件！	
+$UI_SFX	特别效果：	
+$UI_SKILLS_CLICK_TO_UPGRADE	点击更新。	
+$UI_SKILLS_MAX	最大	
+$UI_SKILLS_MOUSE_OVER	移动鼠标到上面检查。	
+$UI_SKILLS_NO_LEARN_SPELL	你还没学习这个法术。	
+$UI_SKILLS_NO_POINTS	没有点数。	
+$UI_SKILLS_REQ_1PT	需要：人物等级达到<LVL>，<N>在<SKILL>上投入<PT>点	
+$UI_SKILLS_REQ_XPT	需要：人物等级达到<LVL>，<N>在<SKILL>上投入<PT>点	
+$UI_TIPS_TITLE	提示和技巧	
+$UI_UPDATER_ASK_DOWNLOAD	是否下载更新？	
+$UI_UPDATER_CANCEL	<RE>$MISC_CANCEL	
+$UI_UPDATER_CHECKING	正在检测更新……	
+$UI_UPDATER_CHECKSUM	正在计算校验和……	
+$UI_UPDATER_CHECKSUM_MISMATCH	文件的校验和不符合预期。 原因可能是因为下载版本不完整（可能），或者是安全问题（不太可能），或者是宇宙射线（谁知道呢！），不管怎样，更新失败。	
+$UI_UPDATER_CLOSE_WINDOW	你必须在安装更新之前关闭此窗口。	
+$UI_UPDATER_CONNECT_AGAIN	正在再次连接	
+$UI_UPDATER_CONNECTING	正在连接到服务器……	
+$UI_UPDATER_CURRENT_VERSION	当前版本：<T>	
+$UI_UPDATER_DEB	DEB包	
+$UI_UPDATER_DETAILS	详情：	
+$UI_UPDATER_DOWNLOADED	更新下载完毕！	
+$UI_UPDATER_DOWNLOADING_FILE	正在下载更新文件……	
+$UI_UPDATER_DOWNLOADING_SIG	正在下载更新签名……	
+$UI_UPDATER_ERROR!	错误！	
+$UI_UPDATER_EXITING	正在关闭应用……	
+$UI_UPDATER_FILE_IS_AT	你的更新文件位于：	
+$UI_UPDATER_GIVE_UP	放弃	
+$UI_UPDATER_IF_NO_WINDOW	如果导航文件没有打开，请手动前往打开。	
+$UI_UPDATER_INSTALLING	正在安装更新……	
+$UI_UPDATER_NAVIGATE_NOW	导航到文件吗？	
+$UI_UPDATER_NAVIGATING	正在导航到文件……	
+$UI_UPDATER_NEWEST_VERSION	最新版本：<T>	
+$UI_UPDATER_NO_BIG_DEAL	没什么大问题，你仍然可以玩游戏，你只是现在不能连接到更新服务器。	
+$UI_UPDATER_NO_DOWNLOAD	无法下载更新文件。	
+$UI_UPDATER_NO_INFO	无法在服务器上找到更新信息。	
+$UI_UPDATER_NO_UPDATES	没有可用更新。	
+$UI_UPDATER_NO_VERIFY	无法验证更新文件。	
+$UI_UPDATER_NOTE	注意：	
+$UI_UPDATER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT	
+$UI_UPDATER_RPM	RPM包	
+$UI_UPDATER_SECURED_WITH	此更新机制通过HTTPS，<N>以及公钥指纹验证保护。	
+$UI_UPDATER_SECURITY	出于安全考虑，您必须手动运行下载的安装程序。<N><N>此程序将定位到您文件的下载位置。	
+$UI_UPDATER_SERVER_TIMEOUT	服务器超时！	
+$UI_UPDATER_TARGZ	TAR.GZ文档	
+$UI_UPDATER_TRY_AGAIN	再试一次	
+$UI_UPDATER_TRYING_30	尝试30秒	
+$UI_UPDATER_UPDATE_EXISTS	有可用的更新版本！	
+$UI_VIDEO_AOE	高亮范围攻击	
+$UI_VIDEO_BIT_DEPTH	深度	
+$UI_VIDEO_CAN_SLOW_GAME	（可以将游戏减速）	
+$UI_VIDEO_CHANGE_RES	更改分辨率	
+$UI_VIDEO_CHANGE_RES_BUTTON	更改！	
+$UI_VIDEO_CHANGE_RES_TO	更改分辨率至<X>	
+$UI_VIDEO_CUTSCENES	过场动画	
+$UI_VIDEO_FULLSCREEN	全屏	
+$UI_VIDEO_GRAPHICS	显卡	
+$UI_VIDEO_HD	宽屏（16:9）	
+$UI_VIDEO_IF_DOESNT_WORK	如果新分辨率不起作用，<N>则它将在几秒钟后恢复。	
+$UI_VIDEO_MATCH_MONITOR	匹配全屏	
+$UI_VIDEO_MODE	模式	
+$UI_VIDEO_MOUSE	鼠标指针	
+$UI_VIDEO_MOUSE_DEFAULT	默认	
+$UI_VIDEO_MOUSE_FANCY	花俏的	
+$UI_VIDEO_NUMS	font:18,off_y:1,off_x:-2	
+$UI_VIDEO_PARTICLES	粒子	
+$UI_VIDEO_PIXELS	像素	
+$UI_VIDEO_RECOMMENDED	推荐：	
+$UI_VIDEO_REFRESH	刷新	
+$UI_VIDEO_RES_CHANGED	分辨率已更改。<N>您是否满意？<N><N>在 <TIME> 秒后还原	
+$UI_VIDEO_RESOLUTION	全屏显示器分辨率	
+$UI_VIDEO_SCALE	比例	
+$UI_VIDEO_SCREEN_POS	屏幕位置	
+$UI_VIDEO_SCREEN_SIZE	游戏窗口的大小	
+$UI_VIDEO_SD	标准（4:3）	
+$UI_VIDEO_SELECT_NEW	选择新的……	
+$UI_VIDEO_SETTINGS	视频设置	
+$UI_VIDEO_SHOW_ALL_RES	显示所有分辨率	
+$UI_VIDEO_SPRITES	界面	
+$UI_VIDEO_STANDARD_RATIO	（标准比例）	
+$UI_VIDEO_SWIRL	战前动画	
+$UI_VIDEO_TITLE	视频	
+$UI_VIDEO_WARNING	在浏览器模式中禁用视频选项。	
+$UI_VIDEO_WARNING2	很不幸，您的系统配置不支持游戏中的分辨率转换:(	
+$UI_VIDEO_WARNING3	非常抱歉！<N><N>在兼容模式下，分辨率切换被禁用。	
+$UI_VIDEO_WIDESCREEN	（宽屏）	
+$UI_VIDEO_WINDOWED	窗口化	
+$WEAK_DMG_MULT	+<PERCENT>% <FLAVOR>的额外伤害	
+$YOU_GOT	你获得了	
+$YOU_GOT_JOIN	<CLASS> <NAME> <N>加入了队伍！	
+$YOU_GOT_MONEY	你获得了 <MONEY> 废品！	
+$YOU_GOT_NEW_GAME_PLUS_TEXT	恭喜你！现在你可以用你原有的队伍开始一场新的挑战！<N><N>面对那些拥有新能力的变异敌人，为你的图书馆囤积更多的新书。完成更多新的支线任务，观看额外的过场动画和剧情故事故事，解锁开发者的传记，翻译Eztli Tenoch的演讲，遇到新的人物角色，等等一系列崭新的体验！<N><N><RE>[$NEW_GAME_PLUS_NOTE]<N><N>你也可以随时随地回到你<LQ>常规<RQ>游戏。	
+$YOU_GOT_NEW_GAME_PLUS_TITLE	解锁新游戏+	
+$YOU_GOT_NO_EQUIP	无法装备这个道具。	
+$YOU_GOT_NO_EQUIP_YET	你的队伍中还没有人能装备 <THING>。别担心，继续游戏，马上就会出现可以装备的新角色。	
+$YOU_GOT_X	<THING>x <NUM>！	
+$GAMEPAD_TEMP_SPACER	,,,,,,	
+$GAMEPAD_BUTTON_SPACER		
+$ACTIONS_MENUCONTROLS	菜单	
+$ACTIONS_MENUCONTROLSWITHANALOG	菜单	
+$ACTIONS_CUTSCENECONTROLS	过场动画	
+$ACTIONS_BATTLECONTROLS	战斗	
+$ACTIONS_MAPCONTROLS	世界地图	
+$ACTIONS_MENU_MENU	菜单	
+$ACTIONS_MENU_SELECT	选择	
+$ACTIONS_MENU_CANCEL	取消	
+$ACTIONS_MENU_THING_1	选项1	
+$ACTIONS_MENU_THING_2	选项2	
+$ACTIONS_MENU_MOVE	移动鼠标	
+$GAMEPAD_A	A键	
+$GAMEPAD_B	B键	
+$GAMEPAD_X	X键	
+$GAMEPAD_Y	Y键	
+$GAMEPAD_BACK	返回键	
+$GAMEPAD_START	开始键	
+$GAMEPAD_LEFT_SHOULDER	LB键	
+$GAMEPAD_RIGHT_SHOULDER	RB键	
+$GAMEPAD_LEFT_TRIGGER	LT键	
+$GAMEPAD_RIGHT_TRIGGER	RT键	
+$GAMEPAD_DPAD	RT键	
+$GAMEPAD_DPAD_UP	方向键上	
+$GAMEPAD_DPAD_DOWN	方向键下	
+$GAMEPAD_DPAD_LEFT	方向键左	
+$GAMEPAD_DPAD_RIGHT	方向键右	
+$GAMEPAD_LEFT_ANALOG_STICK	左摇杆	
+$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS	左摇杆-左	
+$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS	左摇杆-右	
+$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS	左摇杆-上	
+$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS	左摇杆-下	
+$GAMEPAD_RIGHT_ANALOG_STICK	右摇杆	
+$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS	右摇杆-左	
+$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS	右摇杆-右	
+$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS	右摇杆-上	
+$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS	右摇杆-下	
+$GAMEPAD_LEFT_STICK_CLICK	左摇杆-按下	
+$GAMEPAD_RIGHT_STICK_CLICK	右摇杆-按下	
+$GAMEPAD_EMPTY	无	
+$XBOX360_A	<RE>$GAMEPAD_A	
+$XBOX360_B	<RE>$GAMEPAD_B	
+$XBOX360_X	<RE>$GAMEPAD_X	
+$XBOX360_Y	<RE>$GAMEPAD_Y	
+$XBOX360_BACK	<RE>$GAMEPAD_BACK	
+$XBOX360_START	<RE>$GAMEPAD_START	
+$XBOX360_LEFT_SHOULDER	<RE>$GAMEPAD_LEFT_SHOULDER	
+$XBOX360_RIGHT_SHOULDER	<RE>$GAMEPAD_RIGHT_SHOULDER	
+$XBOX360_LEFT_TRIGGER	<RE>$GAMEPAD_LEFT_TRIGGER	
+$XBOX360_RIGHT_TRIGGER	<RE>$GAMEPAD_RIGHT_TRIGGER	
+$XBOX360_DPAD	<RE>$GAMEPAD_DPAD	
+$XBOX360_DPAD_UP	<RE>$GAMEPAD_DPAD_UP	
+$XBOX360_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN	
+$XBOX360_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT	
+$XBOX360_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT	
+$XBOX360_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK	
+$XBOX360_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS	
+$XBOX360_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS	
+$XBOX360_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS	
+$XBOX360_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS	
+$XBOX360_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK	
+$XBOX360_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS	
+$XBOX360_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS	
+$XBOX360_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS	
+$XBOX360_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS	
+$XBOX360_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK	
+$XBOX360_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK	
+$XBOX360_EMPTY	<RE>$GAMEPAD_EMPTY	
+$XBOXONE_A	<RE>$GAMEPAD_A	
+$XBOXONE_B	<RE>$GAMEPAD_B	
+$XBOXONE_X	<RE>$GAMEPAD_X	
+$XBOXONE_Y	<RE>$GAMEPAD_Y	
+$XBOXONE_BACK	显示键	
+$XBOXONE_START	菜单键	
+$XBOXONE_LEFT_SHOULDER	<RE>$GAMEPAD_LEFT_SHOULDER	
+$XBOXONE_RIGHT_SHOULDER	<RE>$GAMEPAD_RIGHT_SHOULDER	
+$XBOXONE_LEFT_TRIGGER	<RE>$GAMEPAD_LEFT_TRIGGER	
+$XBOXONE_RIGHT_TRIGGER	<RE>$GAMEPAD_RIGHT_TRIGGER	
+$XBOXONE_DPAD	<RE>$GAMEPAD_DPAD	
+$XBOXONE_DPAD_UP	<RE>$GAMEPAD_DPAD_UP	
+$XBOXONE_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN	
+$XBOXONE_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT	
+$XBOXONE_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT	
+$XBOXONE_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK	
+$XBOXONE_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS	
+$XBOXONE_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS	
+$XBOXONE_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS	
+$XBOXONE_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS	
+$XBOXONE_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK	
+$XBOXONE_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS	
+$XBOXONE_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS	
+$XBOXONE_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS	
+$XBOXONE_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS	
+$XBOXONE_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK	
+$XBOXONE_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK	
+$XBOXONE_EMPTY	<RE>$GAMEPAD_EMPTY	
+$PS4_A	×键	
+$PS4_B	○键	
+$PS4_X	△键	
+$PS4_Y	□键	
+$PS4_BACK	Share键	
+$PS4_START	选项键	
+$PS4_LEFT_SHOULDER	L1键	
+$PS4_RIGHT_SHOULDER	R1键	
+$PS4_LEFT_TRIGGER	L2键	
+$PS4_RIGHT_TRIGGER	R2键	
+$PS4_DPAD	<RE>$GAMEPAD_DPAD	
+$PS4_DPAD_UP	<RE>$GAMEPAD_DPAD_UP	
+$PS4_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN	
+$PS4_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT	
+$PS4_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT	
+$PS4_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK	
+$PS4_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS	
+$PS4_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS	
+$PS4_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS	
+$PS4_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS	
+$PS4_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK	
+$PS4_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS	
+$PS4_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS	
+$PS4_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS	
+$PS4_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS	
+$PS4_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK	
+$PS4_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK	
+$PS4_EMPTY	<RE>$GAMEPAD_EMPTY	
+$PS3_A	<RE>$PS4_A	
+$PS3_B	<RE>$PS4_B	
+$PS3_X	<RE>$PS4_X	
+$PS3_Y	<RE>$PS4_Y	
+$PS3_BACK	选择键	
+$PS3_START	<RE>$GAMEPAD_START	
+$PS3_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER	
+$PS3_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER	
+$PS3_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER	
+$PS3_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER	
+$PS3_DPAD	<RE>$PS4_DPAD	
+$PS3_DPAD_UP	<RE>$PS4_DPAD_UP	
+$PS3_DPAD_DOWN	<RE>$PS4_DPAD_DOWN	
+$PS3_DPAD_LEFT	<RE>$PS4_DPAD_LEFT	
+$PS3_DPAD_RIGHT	<RE>$PS4_DPAD_RIGHT	
+$PS3_LEFT_ANALOG_STICK	<RE>$PS4_LEFT_ANALOG_STICK	
+$PS3_LEFT_ANALOG_STICK_X_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_X_MINUS	
+$PS3_LEFT_ANALOG_STICK_X_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_X_PLUS	
+$PS3_LEFT_ANALOG_STICK_Y_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_MINUS	
+$PS3_LEFT_ANALOG_STICK_Y_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_PLUS	
+$PS3_RIGHT_ANALOG_STICK	<RE>$PS4_RIGHT_ANALOG_STICK	
+$PS3_RIGHT_ANALOG_STICK_X_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_MINUS	
+$PS3_RIGHT_ANALOG_STICK_X_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_PLUS	
+$PS3_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_MINUS	
+$PS3_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_PLUS	
+$PS3_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK	
+$PS3_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK	
+$PS3_EMPTY	<RE>$PS4_EMPTY	
+$PSVITA_A	<RE>$PS4_A	
+$PSVITA_B	<RE>$PS4_B	
+$PSVITA_X	<RE>$PS4_X	
+$PSVITA_Y	<RE>$PS4_Y	
+$PSVITA_BACK	选择键	
+$PSVITA_START	<RE>$GAMEPAD_START	
+$PSVITA_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER	
+$PSVITA_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER	
+$PSVITA_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER	
+$PSVITA_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER	
+$PSVITA_DPAD	<RE>$PS4_DPAD	
+$PSVITA_DPAD_UP	<RE>$PS4_DPAD_UP	
+$PSVITA_DPAD_DOWN	<RE>$PS4_DPAD_DOWN	
+$PSVITA_DPAD_LEFT	<RE>$PS4_DPAD_LEFT	
+$PSVITA_DPAD_RIGHT	<RE>$PS4_DPAD_RIGHT	
+$PSVITA_LEFT_ANALOG_STICK	<RE>$PS4_LEFT_ANALOG_STICK	
+$PSVITA_LEFT_ANALOG_STICK_X_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_X_MINUS	
+$PSVITA_LEFT_ANALOG_STICK_X_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_X_PLUS	
+$PSVITA_LEFT_ANALOG_STICK_Y_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_MINUS	
+$PSVITA_LEFT_ANALOG_STICK_Y_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_PLUS	
+$PSVITA_RIGHT_ANALOG_STICK	<RE>$PS4_RIGHT_ANALOG_STICK	
+$PSVITA_RIGHT_ANALOG_STICK_X_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_MINUS	
+$PSVITA_RIGHT_ANALOG_STICK_X_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_PLUS	
+$PSVITA_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_MINUS	
+$PSVITA_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_PLUS	
+$PSVITA_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK	
+$PSVITA_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK	
+$PSVITA_EMPTY	<RE>$PS4_EMPTY	
+$LOGITECH_A	2 （face）键	
+$LOGITECH_B	3 （face）键	
+$LOGITECH_X	1 （face）键	
+$LOGITECH_Y	4 （face）键	
+$LOGITECH_BACK	9 （back）键	
+$LOGITECH_START	10 （start）键	
+$LOGITECH_LEFT_SHOULDER	5 （LB） 键	
+$LOGITECH_RIGHT_SHOULDER	6 （RB） 键	
+$LOGITECH_LEFT_TRIGGER	7 （LT） 键	
+$LOGITECH_RIGHT_TRIGGER	8 （RT） 键	
+$LOGITECH_DPAD	<RE>$GAMEPAD_DPAD	
+$LOGITECH_DPAD_UP	<RE>$GAMEPAD_DPAD_UP	
+$LOGITECH_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN	
+$LOGITECH_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT	
+$LOGITECH_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT	
+$LOGITECH_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK	
+$LOGITECH_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS	
+$LOGITECH_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS	
+$LOGITECH_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS	
+$LOGITECH_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS	
+$LOGITECH_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK	
+$LOGITECH_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS	
+$LOGITECH_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS	
+$LOGITECH_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS	
+$LOGITECH_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS	
+$LOGITECH_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK	
+$LOGITECH_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK	
+$LOGITECH_EMPTY	<RE>$GAMEPAD_EMPTY	
+$WIIU_A	B键	
+$WIIU_B	A键	
+$WIIU_X	Y键	
+$WIIU_Y	X键	
+$WIIU_BACK	Err:509	
+$WIIU_START	Err:509	
+$WIIU_LEFT_SHOULDER	L键	
+$WIIU_RIGHT_SHOULDER	R键	
+$WIIU_LEFT_TRIGGER	ZL键	
+$WIIU_RIGHT_TRIGGER	ZR键	
+$WIIU_DPAD	<RE>$GAMEPAD_DPAD	
+$WIIU_DPAD_UP	<RE>$GAMEPAD_DPAD_UP	
+$WIIU_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN	
+$WIIU_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT	
+$WIIU_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT	
+$WIIU_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK	
+$WIIU_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS	
+$WIIU_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS	
+$WIIU_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS	
+$WIIU_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS	
+$WIIU_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK	
+$WIIU_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS	
+$WIIU_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS	
+$WIIU_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS	
+$WIIU_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS	
+$WIIU_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK	
+$WIIU_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK	
+$WIIU_EMPTY	<RE>$GAMEPAD_EMPTY	
+$OUYA_A	O键	
+$OUYA_B	A键	
+$OUYA_X	U键	
+$OUYA_Y	Y键	
+$OUYA_BACK	<RE>$GAMEPAD_BACK	
+$OUYA_START	<RE>$GAMEPAD_START	
+$OUYA_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER	
+$OUYA_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER	
+$OUYA_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER	
+$OUYA_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER	
+$OUYA_DPAD	<RE>$GAMEPAD_DPAD	
+$OUYA_DPAD_UP	<RE>$GAMEPAD_DPAD_UP	
+$OUYA_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN	
+$OUYA_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT	
+$OUYA_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT	
+$OUYA_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK	
+$OUYA_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS	
+$OUYA_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS	
+$OUYA_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS	
+$OUYA_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS	
+$OUYA_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK	
+$OUYA_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS	
+$OUYA_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS	
+$OUYA_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS	
+$OUYA_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS	
+$OUYA_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK	
+$OUYA_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK	
+$OUYA_EMPTY	<RE>$GAMEPAD_EMPTY	
+$MISC_INPUT_0	输入：	
+$MISC_INPUT_1	输入1：	
+$MISC_INPUT_2	输入2：	
+$MISC_INPUT_3	输入3：	
+$GAMEPAD_NOTE	选择自定义	
+$MISC_DEVICE_DISCONNECTED_TITLE	设备已断开连接！	
+$MISC_DEVICE_DISCONNECTED_TEXT	插槽 <SLOT> 中的 <NAME> 已断开连接！	
+$MISC_EDIT	编辑	
+$SOFT_KEYBOARD_SPACE	空格键	
+$SOFT_KEYBOARD_BACKSPACE	删除键	
+$SOFT_KEYBOARD_CLEAR	Clear键	
+$CONTROL_SWITCH_WARNING	非常抱歉！你无法在战斗中切换基本输入法。	
+$MISC_TITLE_SAFE_TEXT	移动模拟摇杆，直到所有箭头都可见。	

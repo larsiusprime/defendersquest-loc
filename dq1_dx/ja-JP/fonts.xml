@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <data>
+	
+	<font value="verdana_noloc" replace="verdana"/>>
+	
 	<font value="verdana" replace="mplus2c">
 		<size value="10" replace="12"/>
 		<size value="11" replace="12"/>

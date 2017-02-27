@@ -1,44 +1,44 @@
 flag	name	description
-$ITEM_SWORD	<RE>$ITM_W_SWORD
-$ITEM_BOW	<RE>$ITM_W_BOW
-$ITEM_STAFF	<RE>$ITM_W_STAFF
-$ITEM_LIGHT	<RE>$ITM_A_LIGHT
-$ITEM_HEAVY	<RE>$ITM_A_HEAVY
-$ITEM_BOOK	<RE>$ITM_ACC_BOOK
-$ITEM_WEAPON	Weapon
-$ITEM_ARMOR	Armor
-$ITM_ACC_BOOK	book	<NULL>
-$ITM_ACC_BOOK_PLURAL	books	<NULL>
-$ITM_ACC_BOOK_PLURAL_SHORT	books	<NULL>
-$ITM_A_LIGHT	light armor	<NULL>
-$ITM_A_LIGHT_PLURAL	light armor	<NULL>
-$ITM_A_HEAVY	heavy armor	<NULL>
-$ITM_A_HEAVY_PLURAL	heavy armor	<NULL>
-$ITM_W_SWORD	sword	<NULL>
-$ITM_W_SWORD_PLURAL	swords	<NULL>
-$ITM_W_BOW	bow	<NULL>
-$ITM_W_BOW_PLURAL	bows	<NULL>
-$ITM_W_STAFF	staff	<NULL>
-$ITM_W_STAFF_PLURAL	staffs	<NULL>
-$ITM_A_LIGHT_PLURAL_SHORT	light	<NULL>
-$ITM_A_HEAVY_PLURAL_SHORT	heavy	<NULL>
-$ITM_W_SWORD_PLURAL_SHORT	swords	<NULL>
-$ITM_W_STAFF_PLURAL_SHORT	staffs	<NULL>
-$ITM_W_BOW_PLURAL_SHORT	bows	<NULL>
-$ITM_A_LIGHT_1	Sackcloth	A burlap sack worn underneath the clothes. Itchy, but better than nothing.
-$ITM_A_LIGHT_2	Hide	Dried animal skins roughly sewn into a protective vest. Thick and sturdy.
-$ITM_A_LIGHT_3	Chieftain's Tunic	This brilliantly colored nomad tunic is crafted from heavy wool and ornamented with ornate embroidery. The hem of the garment depicts the continuously winding roots of the World Tree.
-$ITM_A_LIGHT_4	Heavy Wool Tunic	A long, thick tunic fashioned from the prized wool of nomadic herdsmen.
-$ITM_A_LIGHT_5	Tiger Skin Vest	Quaid fire motifs on the tooled leather belt are the only hint at the origins of this exotic garment.
-$ITM_A_LIGHT_6	Fur	Valuable animal furs fashioned into a warm and well padded vest.
-$ITM_A_LIGHT_7	Ozimal's Coat	Smells faintly of cheese.
-$ITM_A_LIGHT_8	Leather	Cured leather carefully sewn into a well fashioned jerkin.
-$ITM_A_LIGHT_9	Warrior Monk's Habit	This heavily padded monk's habit is adorned with the symbols of the 9th Branch of the Selini, House Militant, Defenders of Truth and Order.
-$ITM_A_LIGHT_10	Wool Gambeson	Several layers of fine wool, painstakingly quilted together and stuffed with scrap cloth and animal hair to form a sturdy defense against all but the most devastating blows.
-$ITM_A_LIGHT_11	Assassin's Folly	At first glance this appears to be no more than an ornate nobleman's shirt. Closer inspection reveals row upon row of light metal plates sewn to the inside of the garment. A gash at the small of the back indicates that it's ingenious design foiled at least one assassin.
-$ITM_A_LIGHT_12	Silk Gambeson	Layer upon layer of durable silk quilted together with horse hair padding to create an armor capable of stopping an arrow with no injury to the wearer.
-$ITM_A_LIGHT_13	Master of Archers	This Ash gambeson is crafted from the finest silk and features intricate embroidery identifying its owner as the 'King's Master of Archers'. Dozens of minor repairs over the surface indicate that this unparalleled armor has seen many conflicts, most likely passed from one Master to the next upon retirement.
-$ITM_A_LIGHT_14	The Platinum Fleece	Much more valuable than a mere 'golden' one. Stripped from the corpse of the  Axxima Vatta Muttunaxxor itself, this blindingly brilliant fleece knows no equal.
+$ITEM_SWORD	<RE>$ITM_W_SWORD	
+$ITEM_BOW	<RE>$ITM_W_BOW	
+$ITEM_STAFF	<RE>$ITM_W_STAFF	
+$ITEM_LIGHT	<RE>$ITM_A_LIGHT	
+$ITEM_HEAVY	<RE>$ITM_A_HEAVY	
+$ITEM_BOOK	<RE>$ITM_ACC_BOOK	
+$ITEM_WEAPON	武器	
+$ITEM_ARMOR	護甲	
+$ITM_ACC_BOOK	書籍	<NULL>
+$ITM_ACC_BOOK_PLURAL	書籍	<NULL>
+$ITM_ACC_BOOK_PLURAL_SHORT	書籍	<NULL>
+$ITM_A_LIGHT	輕型護甲	<NULL>
+$ITM_A_LIGHT_PLURAL	輕型護甲	<NULL>
+$ITM_A_HEAVY	重型護甲	<NULL>
+$ITM_A_HEAVY_PLURAL	重型護甲	<NULL>
+$ITM_W_SWORD	劍	<NULL>
+$ITM_W_SWORD_PLURAL	劍	<NULL>
+$ITM_W_BOW	弓	<NULL>
+$ITM_W_BOW_PLURAL	弓	<NULL>
+$ITM_W_STAFF	法杖	<NULL>
+$ITM_W_STAFF_PLURAL	法杖	<NULL>
+$ITM_A_LIGHT_PLURAL_SHORT	輕型	<NULL>
+$ITM_A_HEAVY_PLURAL_SHORT	重型	<NULL>
+$ITM_W_SWORD_PLURAL_SHORT	劍	<NULL>
+$ITM_W_STAFF_PLURAL_SHORT	法杖	<NULL>
+$ITM_W_BOW_PLURAL_SHORT	弓	<NULL>
+$ITM_A_LIGHT_1	粗布衣	衣服下是粗麻，讓人發癢，但總比一絲不掛要強。
+$ITM_A_LIGHT_2	獸皮外套	用死亡動物的皮粗制而成的保護性衣物，又厚又扎實。
+$ITM_A_LIGHT_3	酋長長袍	這件色彩絢麗的牧民外衣，是用沉沉的羊毛所編成，上面還裝飾著華美的刺繡。衣服下擺描繪著世界之樹纏綿不斷的根系。
+$ITM_A_LIGHT_4	厚羊毛外衣	這件外衣又長又厚，是用珍貴的牧民牲畜的羊毛所編制而成。
+$ITM_A_LIGHT_5	虎皮背心	這件異域風格的特製皮衣上腰帶上繡著奎德的火焰圖案，這是探究它的來源的唯一線索。
+$ITM_A_LIGHT_6	毛皮大衣	用珍貴的動物皮料製成的溫暖舒適的皮衣。
+$ITM_A_LIGHT_7	歐茲默的外套	帶著一股淡淡的芝士味。
+$ITM_A_LIGHT_8	皮衣	將皮革仔細地加工後，縫製成的一件時髦漂亮的上衣。
+$ITM_A_LIGHT_9	武僧服	一件重型的僧侶外套，上面裝飾著刹靈尼的尚武之屋第九分支的標記，他們是真理和秩序的守護者。
+$ITM_A_LIGHT_10	羊毛軟鎧甲	把多層上好的羊毛，精心絎縫在一起，再用廢舊的布料和動物的毛加以填充而製成。它耐用堅固，可以抵禦除毀滅性打擊之外的絕大部分攻擊。
+$ITM_A_LIGHT_11	刺客的徒勞	咋看之下，它看上去只不過是一件裝飾華麗的貴族外套。但仔細檢查就會發現，有一排排的輕金屬板縫在衣服的內側.。腰背部有一道裂痕，說明這樣精巧的設計至少挫敗了一位刺客的計畫。
+$ITM_A_LIGHT_12	絲綢軟鎧甲	這件鎧甲用層層的耐用絲綢縫合，再用馬毛進行襯墊，能夠使穿戴者有效的抵禦來自弓箭的傷害。
+$ITM_A_LIGHT_13	弓箭大師	這件死灰軟鎧甲是用最好的絲綢製成，上面錯綜複雜的刺繡工藝，彰顯了穿戴者是“弓箭大師之王”。而鎧甲上數十處小修小補的痕跡，顯示這件非凡的鎧甲經過了無數場戰爭，它很可能是一件代代相傳之物。
+$ITM_A_LIGHT_14	鉑金羊毛	它是從阿西瑪·瓦塔·穆塔拿斯爾本人屍體上剝下來的，比一件金製成的衣服更珍貴，炫目閃耀的毛色顯出它是多麼無可匹敵。
 $ITM_A_LIGHT_15	<RE>[$ITM_A_LIGHT_3_NAME]+	<RE>[$ITM_A_LIGHT_3_DESCRIPTION]
 $ITM_A_LIGHT_16	<RE>[$ITM_A_LIGHT_5_NAME]+	<RE>[$ITM_A_LIGHT_5_DESCRIPTION]
 $ITM_A_LIGHT_17	<RE>[$ITM_A_LIGHT_7_NAME]+	<RE>[$ITM_A_LIGHT_7_DESCRIPTION]
@@ -53,20 +53,20 @@ $ITM_A_LIGHT_25	<RE>[$ITM_A_LIGHT_6_NAME]+	<RE>[$ITM_A_LIGHT_6_DESCRIPTION] <RE>
 $ITM_A_LIGHT_26	<RE>[$ITM_A_LIGHT_8_NAME]+	<RE>[$ITM_A_LIGHT_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
 $ITM_A_LIGHT_27	<RE>[$ITM_A_LIGHT_10_NAME]+	<RE>[$ITM_A_LIGHT_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
 $ITM_A_LIGHT_28	<RE>[$ITM_A_LIGHT_12_NAME]+	<RE>[$ITM_A_LIGHT_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_HEAVY_1	Jack of Chains	A light gambeson with several crudely forged metal links attached to the outside of the arms for added protection.
-$ITM_A_HEAVY_2	Maille Shirt	A shirt made from hundreds of interlinking metal rings, each one riveted shut to prevent rupture.
-$ITM_A_HEAVY_3	Glory of War	This exquisite Quaid armor luxuriates in style.  Each ring of maille is blued, and the last rows of the shirt are gilded to create a golden border.  The reinforcing plates are ornamented with gilded patterns and prominently display the symbol of the Imperial family.  Scratched into the surface of the metal are the Quaid words <LQ>how late it is to think on these things<RQ>.  Several more words are scratched around the corners of the plates, but the haste in which they appear to have been written has rendered them illegible.
-$ITM_A_HEAVY_4	Mixed Maille	A maille shirt with metal plates linked directly into the rings for extra torso protection.  Standard issue for Quaid infantry during the war.
-$ITM_A_HEAVY_5	Horseman's Lamellar	This well-fashioned lamellar harness features extended shoulder protection and knee length tassets, indicating that the harness was designed for heavy cavalry.  The gilded vambraces and silk gambeson reveal the previous owner to have been a warrior of wealth and taste.  Several of the plates are etched with a small foreign script that does not appear to be any regional language.  The location of these plates over the wearer's heart may mean that the script is some kind of protective prayer or charm, but this is pure conjecture.
-$ITM_A_HEAVY_6	Lamellar	Dozens of small metal plates laced together with durable silk cord.
-$ITM_A_HEAVY_7	Traitor's Harness	The gilded spaulders on this Ash-made coat of plates indicate that it most likely belonged to a high ranking official.  The canvas surface has been repaired, but the Ash word <LQ>traitor<RQ> can still be seen carved into the cloth.  Extensive bloodstains are visible through the red dye, though no discernible damage has been done to the armor.
-$ITM_A_HEAVY_8	Coat of Plates	Excellent torso protection made by riveting several large heavy metal plates to the inside of a durable canvas surcoat.
-$ITM_A_HEAVY_9	Strength of Wocolan	This green velvet brigandine features large, brightly polished spaulders typical of Quaid heavy infantry.  The gilded crest depicts the Quaid hero Wocolan crushing a bear's head with his hands.  Below, his children Wastan and Wacella drink the blood running from the bear's mouth in order to survive the family's grueling march into exile.
-$ITM_A_HEAVY_10	Brigandine	Hundreds of metal plates riveted to the inside of a canvas and silk-velvet shell to create a form fitting torso protection.
-$ITM_A_HEAVY_11	Lord Warden's Harness	Insignia identify the owner of this excellent plate harness as the Lord Warden, the Ash official assigned to oversee the Pit.  How he came to be lost inside his own prison is unknown, but blood stains on the shoulder straps indicate that the story did not end well.
-$ITM_A_HEAVY_12	Plate Harness	Complexly shaped steel plates articulated on a leather base to create maximum protection while preserving range of motion.  The preferred gear of Ash Knights.
-$ITM_A_HEAVY_13	Purity of Flame	This brilliantly polished plate harness reflects any light with an almost inferno-like intensity.  Faint etchings appear to be Quaid, but the dialect is so archaic as to be unreadable save for the phrase <LQ>that which consumes<RQ>.  This breastplate has most likely been refurbished countless times - the rest of the harness is far more modern.  Cryptic pictograms hint at some possible role in the Imperial Fire Ritual.
-$ITM_A_HEAVY_14	Guardian of the Fountain	This masterfully crafted plate harness has been blued to almost blackness.  Gilded patterns across the surface of the breastplate depict the Ash Temple Fountain, indicating that this amazing armor most likely belonged to one of the elite Temple Guards.  How such a priceless artifact came to be in the Pit is a mystery.
+$ITM_A_HEAVY_1	鎖鏈夾克	這件輕型軟鎧甲的手臂處，連著幾塊粗糙的鍛造金屬，以增加防禦。
+$ITM_A_HEAVY_2	鎖甲上衣	這件上衣上有數百個金屬環，彼此環環相扣，防止破裂。
+$ITM_A_HEAVY_3	戰爭榮耀	這件精緻的奎德護甲款式華麗，每個環扣都染成了藍色，而在護甲邊緣處，還鍍上了金色的邊。加強板上修飾著鍍金圖案和突出的皇家圖案。金屬表面用奎德語刻著幾個字<LQ>現在才想這些事太遲了<RQ>。還有幾個字刻在板甲的角落，但似乎由於寫得太過匆忙，字跡已經難以辨認。
+$ITM_A_HEAVY_4	混合鎖甲	這件鎖甲為了加強保護，特意用金屬板和環圈相連。它是奎德步兵戰鬥時的基本配備。
+$ITM_A_HEAVY_5	騎士的片甲	這件老式的薄片甲胄，特色是能擴展的護肩，和及膝的腿甲，這些特點正表明這是專門為重型騎兵而設的護甲。鍍金的前臂鎧甲和絲制的軟鎧揭示了它曾經的擁有者是一個財富千萬，品味高雅的戰士。幾塊甲板上刻著一些不知名的外國文字。而這些甲板正位於穿戴者的心臟位置，說明那些文字可能是某種保護性的符文，但這僅僅是猜測。
+$ITM_A_HEAVY_6	片甲	這件絲羅緞是用無數的小金屬片編織而成的。
+$ITM_A_HEAVY_7	叛徒的甲胄	這件板甲製成的死灰甲胄上的鍍金裝飾，顯示它很可能屬於一個高級官員。帆布的表面經過了修補，但上面的死灰語<LQ>叛徒<RQ>仍然清晰可見。在紅染料上，可以看到大片的血跡，但裝甲上沒有任何可見的傷痕。
+$ITM_A_HEAVY_8	板甲衣	這幅甲胄，是由幾塊重型金屬片鉚接起來，並用耐用的帆布外衣包裹加以包裹，它能提供極好的防禦。
+$ITM_A_HEAVY_9	奧克蘭之力	這件綠色的天鵝絨鎖子鎧，特色是巨大閃亮的肩甲，專為奎德的重型步兵而設。鍍金冠畫了一個場面：奎德的英雄，奧克蘭用手碾壓巨熊的腦袋。而他的兒子則在下麵喝從熊嘴流出的鮮血。這是他們的家族競賽，失敗的者要接受被流放的命運。
+$ITM_A_HEAVY_10	鑲甲	在帆布和絲絨底下，是數百塊用柳釘連成的金屬片，為這件盔甲提供了合適的保護。
+$ITM_A_HEAVY_11	典獄長的甲胄	這件優秀的甲胄上的標記，顯示它正是典獄長的盔甲，此人是受死灰官方派遣看守墓坑。沒有人知道他是如迷失在自己的牢房裡的，但肩膀上的血跡顯示，故事的結局應該以悲劇告終。
+$ITM_A_HEAVY_12	金屬板甲	複雜而鋒利的鐵片鉸接在皮革上，為裝備者提供靈活活動的前提下，給與其最大的防禦。這是死灰騎士喜歡的裝備。
+$ITM_A_HEAVY_13	純潔烈焰	這件光亮華麗的鎧甲反射出地獄般的光芒。上面那模糊的刻文，似乎是用奎德語寫成的，但那些語言很古老，除了<LQ>消耗了<RQ>這幾個字，其他都難以辨認。這件護胸甲似乎已經被翻新了無數次，剩餘部分都顯得更現代。神秘的象形文字顯示這件盔甲可能是用作帝國火焰儀式之用。
+$ITM_A_HEAVY_14	噴泉守護者	這件精心打造的甲胄已經上的藍色已經將近黑色。護胸甲表面的鍍金圖案，描畫了一個死灰神殿的噴泉，顯示這件神器的裝甲很可能屬於其中一個神殿精英守衛。至於這件無價的神器為何會落到墓坑這裡的原因，就無從得知了。
 $ITM_A_HEAVY_15	<RE>[$ITM_A_HEAVY_3_NAME]+	<RE>[$ITM_A_HEAVY_3_DESCRIPTION]
 $ITM_A_HEAVY_16	<RE>[$ITM_A_HEAVY_5_NAME]+	<RE>[$ITM_A_HEAVY_5_DESCRIPTION]
 $ITM_A_HEAVY_17	<RE>[$ITM_A_HEAVY_7_NAME]+	<RE>[$ITM_A_HEAVY_7_DESCRIPTION]
@@ -81,32 +81,33 @@ $ITM_A_HEAVY_25	<RE>[$ITM_A_HEAVY_6_NAME]+	<RE>[$ITM_A_HEAVY_6_DESCRIPTION] <RE>
 $ITM_A_HEAVY_26	<RE>[$ITM_A_HEAVY_8_NAME]+	<RE>[$ITM_A_HEAVY_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
 $ITM_A_HEAVY_27	<RE>[$ITM_A_HEAVY_10_NAME]+	<RE>[$ITM_A_HEAVY_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
 $ITM_A_HEAVY_28	<RE>[$ITM_A_HEAVY_12_NAME]+	<RE>[$ITM_A_HEAVY_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_A_SKULL_1	Stone Skull	A polished stone skull.  Some suggest it is a magic talisman carried into battle by the revenant.<N><N><N>Experts agree that you could probably trade this for something really cool.
-$ITM_A_SKULL_2	Bronze Skull	Cast of solid bronze, perhaps used for special incantations and ceremonies.<N>Certainly more valuable than a polished stone skull.
-$ITM_A_SKULL_3	Obsidian Skull	Meticulously carved out of solid obsidian, the detail in this deep black skull is both<N>magnificent and haunting. Extremely rare, this type of skull is highly sought-after by collectors.
-$ITM_A_SKULL_4	Silver Skull	This skull is made of pure silver. What could it be for?
-$ITM_A_SKULL_5	Gold Skull	This skull is made of pure gold. What could it be for?
-$ITM_A_SKULL_6	Unobtanium Skull	Made of pure unobtanium, and therefore impossible to obtain. You've actually been carrying it with you this whole time but, mysteriously, just haven't noticed it until now.
-$ITM_W_SWORD_1	Stone shiv	A sharp rock affixed to a wood handle. Better than nothing.
-$ITM_W_SWORD_2	Metal shiv	A blade of scrap metal. Crude, but effective.
-$ITM_W_SWORD_3	Rusty sword	A rusty, beaten-up sword. The Pit is littered with such cast-off relics of the war.
-$ITM_W_SWORD_4	Blood-Feud Kopal	This nomad fighting knife is engraved with the symbols of the Gasta tribe above the symbol of an unknown rival group - indicating a blood-feud between the two.  Its bone handle is grooved with 17 death notches.
-$ITM_W_SWORD_5	Iron sword	A simple iron sword. It's poorly balanced and crudely forged, but otherwise in good condition.
-$ITM_W_SWORD_6	Honor's Vindication	The ornate jade hilt and pommel inlays belie the wicked functionality of this Quaid dueling sword.  The base of the blade bears the inscription,<N><LQ>Vindication of the Honorable.  The Flame Within Me Burns.<RQ>  It was most likely created for a specific duel, settling an alleged dishonor between two nobles.
-$ITM_W_SWORD_7	Soldier's sword	A military sword, mass-produced during the war. It's effective and strong.
-$ITM_W_SWORD_8	Edge of Order	This Ash-made cutter bears an archaic inscription running the length of the blade's spine:<N><LQ>I am the edge of order.  I divide the righteous from the evil, the darkness from the light.  I guide the hand that wields me to d...<RQ> Generations of polishing render the rest of the text too faint to make out.
-$ITM_W_SWORD_9	Officer's sword	Another remnant of the war, this one was hand-crafted for an officer.
-$ITM_W_SWORD_10	Commander of Legions	The elegant yet simple construction of this Ash weapon indicates that it was created for a modest noble.<N><N>One side of the hilt bears the inscription 'Commander of Legions' while the reverse reads 'Servant of the Unmoved Mover.' The disc pommel is engraved on one side with the spheres of the celestial machine and on the other with a pilgrim drinking from the Ash Temple Fountain.
-$ITM_W_SWORD_11	Master's sword	Expertly balanced and tempered, this sword is the work of a master craftsman.
-$ITM_W_SWORD_12	Eye of the Flame	This faultless sword bears an ancient Quaid inscription running down the fuller.  The extreme age of the dialect and wear to the blade have made it all but indecipherable:<N><LQ>Behold...Eye of the Flame...Glory...Flee shameful...A Kingly Thing...<RQ>  Two enourmous rubies on the pommel seem to burn with an internal fire.  The expertly cast hilt shows the Wall of Remembrance - where the names of all honorable Quaid Emperors are marked down.  This remarkable weapon most likely belonged to a member of the Royal line.
-$ITM_W_SWORD_13	Evni	A berserker's dream sword.  There's only one in the world, and the price seems to have been set accordingly.
+$ITM_A_SKULL_1	石質骷髏	一塊被拋光的石質骷髏，有些人認為這是亡魂在戰鬥時攜帶的魔法護身符。<N><N><N>專家認為，你可以用它來換取一些很酷的裝備。
+$ITM_A_SKULL_2	青銅骷髏	它由堅固的青銅鑄成，或許是用於特別的咒語或者儀式。<N>絕對比一個拋光的石質骷髏更有價值。
+$ITM_A_SKULL_3	黑曜石骷髏	由黑曜石雕琢而成，這個深黑色的頭骨的細節既華麗又恐怖。<N>由於它極為罕有，所以這類頭骨非常受收藏家的歡迎。
+$ITM_A_SKULL_4	白銀骷髏	這個骷髏是用純銀打造而成，它有什麼用途呢？
+$ITM_A_SKULL_5	黃金骷髏	這個骷髏是用純金打造而成，它有什麼用途呢？
+$ITM_A_SKULL_6	超導體骷髏	它由純淨的超導礦石打造而成，幾乎無法獲得。實際上，你自始至終都把它帶在身上，但神奇的是，你剛剛才發現這件事。
+$ITM_W_SWORD_1	石質小刀	一塊鋒利的石頭固定在一個木柄上。聊勝於無。
+$ITM_W_SWORD_2	金屬小刀	一塊廢棄的金屬片，粗糙，但有效。
+$ITM_W_SWORD_3	生銹的劍	一柄生銹、破爛的劍，墓坑裡到處都是這樣的戰爭遺棄物。
+$ITM_W_SWORD_4	科波的血仇	在這柄遊牧民族的戰鬥小刀上，格斯塔的部落標記覆蓋在其它標記上，這說明這兩個部落曾經有過血腥的鬥爭。骨制的把手上有十七道刻痕。
+$ITM_W_SWORD_5	鐵劍	一把樸素的鐵劍，平衡性差，工藝粗糙，但狀態良好。
+$ITM_W_SWORD_6	榮譽的證明	華麗的玉柄和尖兵圓頭的鑲嵌鑲嵌物，似乎想掩飾這把奎德決鬥劍的邪惡功能。劍的底部刻有銘文<N><LQ>榮譽的證明。內心的烈焰。<RQ>它很可能是為某種特別的對決而設計，解決兩個貴族之間的榮譽矛盾。
+$ITM_W_SWORD_7	士兵的劍	軍用劍，在戰爭時大量製造。它堅固且有效。
+$ITM_W_SWORD_8	秩序邊緣	"這把死灰製造的刀，刀脊上寫著如下古老的文字：
+<N><LQ>我是秩序的邊緣，我從邪惡中斷分正義，從暗黑中割裂光芒。我講引導那雙使用我的手走向死……<RQ>由於已經過了幾代人的拋光，剩餘的文字已無法辨認。"		
+$ITM_W_SWORD_9	軍官之劍	這又是一把戰爭時的遺留物，這是為軍官而設的武器。
+$ITM_W_SWORD_10	軍團指揮官	這把雅致而樸素的死灰武器，顯示它的主人是一個謙卑的貴族。<N><N>它的其中一邊寫著如下文字“軍團指揮官”，而另一邊則是“不動的動者之僕”。它圓頭的一側刻著天文圖像，而另一側刻著一個朝聖者在死灰神殿的噴泉喝水的情景。
+$ITM_W_SWORD_11	大師之劍	精心打造，平衡性極好，沒有武器能與之匹敵。
+$ITM_W_SWORD_12	火焰之眼	這把無與倫比的劍其劍柄上刻著古老的奎德文字，由於方言味極重和使用久遠，已經使它難以辨認：<N><LQ>看啊……火焰之眼……榮耀……可恥的逃跑……國王……<RQ>刀柄上有兩個巨大的寶石上，寶石裡面似乎有火焰在熊熊燃燒。精巧雕琢的刀柄上刻著回憶之牆，上面刻著奎德所有尊貴可敬的皇帝的名字。這把非同一般的武器很可能是屬於一個皇家的成員。
+$ITM_W_SWORD_13	伊伏尼	這是狂戰士夢寐以求的劍，世界上只有一把，所以價格也水漲船高。
 $ITM_W_SWORD_14	<RE>[$ITM_W_SWORD_4_NAME]+	<RE>$ITM_W_SWORD_4_DESCRIPTION
 $ITM_W_SWORD_15	<RE>[$ITM_W_SWORD_6_NAME]+	<RE>$ITM_W_SWORD_6_DESCRIPTION
 $ITM_W_SWORD_16	<RE>[$ITM_W_SWORD_8_NAME]+	<RE>$ITM_W_SWORD_8_DESCRIPTION
 $ITM_W_SWORD_17	<RE>[$ITM_W_SWORD_10_NAME]+	<RE>$ITM_W_SWORD_10_DESCRIPTION
 $ITM_W_SWORD_18	<RE>[$ITM_W_SWORD_12_NAME]+	<RE>$ITM_W_SWORD_12_DESCRIPTION
 $ITM_W_SWORD_19	<RE>[$ITM_W_SWORD_13_NAME]+	<RE>$ITM_W_SWORD_13_DESCRIPTION
-$ITM_PLUS	Item+	A mysterious + symbol marks it as much stronger than normal.
+$ITM_PLUS	物品+	一個神秘的+符號標誌著它比普通的更強大。
 $ITM_W_SWORD_20	<RE>[$ITM_W_SWORD_1_NAME]+	<RE>[$ITM_W_SWORD_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
 $ITM_W_SWORD_21	<RE>[$ITM_W_SWORD_2_NAME]+	<RE>[$ITM_W_SWORD_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
 $ITM_W_SWORD_22	<RE>[$ITM_W_SWORD_3_NAME]+	<RE>[$ITM_W_SWORD_3_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
@@ -114,18 +115,18 @@ $ITM_W_SWORD_23	<RE>[$ITM_W_SWORD_5_NAME]+	<RE>[$ITM_W_SWORD_5_DESCRIPTION] <RE>
 $ITM_W_SWORD_24	<RE>[$ITM_W_SWORD_7_NAME]+	<RE>[$ITM_W_SWORD_7_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
 $ITM_W_SWORD_25	<RE>[$ITM_W_SWORD_9_NAME]+	<RE>[$ITM_W_SWORD_9_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
 $ITM_W_SWORD_26	<RE>[$ITM_W_SWORD_11_NAME]+	<RE>[$ITM_W_SWORD_11_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_BOW_1	Green bow	A simple bow made from sapling wood and stocked with wooden arrows.
-$ITM_W_BOW_2	Wood bow	A bow made from wood and stocked with stone-tipped arrows.
-$ITM_W_BOW_3	Hunter Warrior	This nomad hunting bow appears to have doubled as a weapon of war.  The Nomad symbol for 'good hunting' has been painted over with the symbol for 'death'. On the inside of the bow is a depiction of a Sdeka family god, holding a severed head.  Red victory stripes at the tips indicate that this weapon was put to much use in some conflict long forgotten.
-$ITM_W_BOW_4	Hunter's bow	A strong bow made from yew and stocked with stone-tipped arrows.
-$ITM_W_BOW_5	Relic of the North	This fine hunting bow is crafted from pure white birchwood.  The blue leather grip is wound with gold wire, and a strange script winds around the ends - possibly one of the many languages of the Northern city states.   The nomad symbol of the Ked family is painted on one side, indicating that the weapon traveled South with that tribe.
-$ITM_W_BOW_6	Antler bow	A powerful bow carved from a hart's antler.
-$ITM_W_BOW_7	Captain's Warbow	This Ashani warbow is composed of several layers of rare woods glued together.  The grip has a depiction of a turning gear and a gold inscription. It reads, Captain Zantimon, defender of the way, most likely a leader of one of the numerous patrols that used to safeguard Ash Temple pilgrims against bandits and Nomad raiders.
-$ITM_W_BOW_8	Great stag bow	An ancient bow carved from a great stag's antler.
-$ITM_W_BOW_9	Warlord's Triumph	This expertly crafted recurve bow is adorned with gold ringlets and brightly colored leather.  The tooled grip depicts a victorious warlord standing on a mountain of slain enemies.  Several unrecognizable dieties bless him from above.  This weapon obviously belonged to a wealthy and successful Nomad Chieftan.
-$ITM_W_BOW_10	Composite warbow	This composite bow, formed from several different woods, likely belonged to a officer.
-$ITM_W_BOW_11	Gilded Death	This horn-tipped warbow is ornamented with numerous golden rings.  The leather grip carries an archaic Quaid inscription: <LQ>Lucawan, you who have murdered honor for tawdry gold, in the gold of this weapon see your death. Its dart shall find you, and your traitorous corpse shall be the plaything of dogs and worms.<RQ>  Below, scratched into the surface of the leather are the words <LQ>it has been done.<RQ>
-$ITM_W_BOW_12	Reinforced longbow	Composed of thick oak, this bow takes incredible strength to draw, but is able to deliver lethal strikes for those who can handle it.
+$ITM_W_BOW_1	綠色長弓	這張樸素的弓使用幼樹而制，配有普通的木質箭矢。
+$ITM_W_BOW_2	木質長弓	由木頭製成的弓，配有石質箭頭的箭矢。
+$ITM_W_BOW_3	獵人戰士	這樣遊牧的獵弓，還能用於戰爭之上。上面畫了一個“好好狩獵”的符號，下面還有一個“死亡”的符號。弓的內側畫著斯卡達家族的神袛，拿著一個人頭。箭兩端的紅色勝利條紋，顯示著這個武器是使用在很久以前已被遺忘的衝突上。
+$ITM_W_BOW_4	獵人長弓	由紫衫木製成的強弓，配有石質箭頭的箭矢。
+$ITM_W_BOW_5	北方遺物	這把上好的狩獵弓是使用純白奇伍德木而制。藍色的皮柄纏繞著金絲，在末端寫著一些古怪的文字，或許是北部城市的眾多語言中的一種。弓箭一側畫著吉德家族的遊牧符號，說明這把武器跟隨部落，輾轉到了南方。
+$ITM_W_BOW_6	鹿角弓	這把強大的弓箭，使用赤鹿的角而製成。
+$ITM_W_BOW_7	船長的戰鬥長弓	這把阿撒尼戰弓，用幾種罕有的木材組合而成。手握的位置，畫著一個轉動的齒輪和一個黃金的標誌。上面寫著：贊提頓隊長，道路的守護者。也許這把弓的擁有者是眾多的巡邏隊隊長之一。這些巡邏隊負責守護前往死灰神殿的朝聖者，免其落入強盜和遊牧掠奪者之手。
+$ITM_W_BOW_8	巨鹿長弓	這把古老的弓箭，使用巨大赤鹿的角而製成。
+$ITM_W_BOW_9	戰神的凱旋	這把精心打造的彎弓使用金圈和亮色的皮革裝飾。它的手握處描繪了一位勝利的戰士站立在敵人堆的小山丘之上。在他上面，有幾位無法辨認的神袛在祝福他。這件武器屬於一個富有且成功的遊牧酋長。
+$ITM_W_BOW_10	複合戰弓	這把複合弓用幾種木頭組成，似乎屬於一個指揮官。
+$ITM_W_BOW_11	鍍金的死亡	這把兩端為號角的戰弓，使用無數的金環裝飾。皮質的手握處寫著如下的奎德文字<LQ>魯卡萬，你為流俗的金錢，謀殺了榮耀，在這把黃金的武器前見證你的死亡吧。它疾馳的箭矢會找到你，而你那叛徒的屍體，會被野狗和蠕蟲蹂躪。<RQ>而再往下，皮革上的四散的文字寫著<LQ>使命已完成<RQ>。
+$ITM_W_BOW_12	強化長弓	因為這把弓由堅固的橡木製成，所以需要無比強大的力氣才能夠拉動，但它也為那些能夠使用它的人提供無可匹敵的破壞力。
 $ITM_W_BOW_13	<RE>[$ITM_W_BOW_3_NAME]+	<RE>[$ITM_W_BOW_3_DESCRIPTION]
 $ITM_W_BOW_14	<RE>[$ITM_W_BOW_5_NAME]+	<RE>[$ITM_W_BOW_5_DESCRIPTION]
 $ITM_W_BOW_15	<RE>[$ITM_W_BOW_7_NAME]+	<RE>[$ITM_W_BOW_7_DESCRIPTION]
@@ -138,19 +139,19 @@ $ITM_W_BOW_21	<RE>[$ITM_W_BOW_6_NAME]+	<RE>[$ITM_W_BOW_6_DESCRIPTION] <RE>[$ITM_
 $ITM_W_BOW_22	<RE>[$ITM_W_BOW_8_NAME]+	<RE>[$ITM_W_BOW_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
 $ITM_W_BOW_23	<RE>[$ITM_W_BOW_10_NAME]+	<RE>[$ITM_W_BOW_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
 $ITM_W_BOW_24	<RE>[$ITM_W_BOW_12_NAME]+	<RE>[$ITM_W_BOW_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_W_STAFF_1	Walking stick	A stout, solid stick.
-$ITM_W_STAFF_2	Shepherd's crook	A simple shepherd's crook.
-$ITM_W_STAFF_3	Charlatan's Staff	This ornately carved staff is adorned with a strange text running along the shaft. Closer inspection reveals that this script is no more than gibberish, carved to fool the illiterate. The ends of the staff contain several hollow compartments containing powders to produce colored smoke and what was presumably once a live canary.
-$ITM_W_STAFF_4	Oaken staff	A finely carved oaken staff with a sturdy leather grip.
-$ITM_W_STAFF_5	Archshepherd Stave	This sturdy staff is covered in charms written in multiple dialects of Quaid, Ash, Nomad and several unidentifiable languages.  Along the top of the staff are the Quaid words <LQ>Master of Sheep, Keeper of the Stores<RQ>.  The Jewel of the Desert crest appears below, indicating that the unfortunate owner was charged with administering the vicious feral sheep below the city.  The lower end of the staff is covered in hundreds of toothmarks, with several teeth still lodged in the surface of the wood.
-$ITM_W_STAFF_6	Bludgeon	A sturdy oak staff with one end hollowed out and filled with lead for added weight.
-$ITM_W_STAFF_7	The Beast's Weapon	This remarkable staff is carved from a single piece of ivory.  What monster could produce a horn of such size is a truly terrifying thought.  Ornate carvings down the length of the staff appear to tell the story of some unknown hero.  It matches no Ash, Nomad or Quaid motifs, and there are no identifying words, leaving both the identity of the carver and the monster from which the horn originally came a mystery.
-$ITM_W_STAFF_8	Ironwood staff	An excellent staff carved from the rarest of woods.
-$ITM_W_STAFF_9	Executioner's Bludgeon	This hefty staff is shod with iron and one end has been hollowed out and filled with lead to provide added momentum to its swing.  Strange etchings adorn the surface of the metal.  The language is unknown, most likely one of the many tongues spoken in the Northern city states.  Crossed keys underneath a death's head most likely symbolize some position of authority, possibly a jailor, executioner or some other office seen as unworthy of using a sword.  Blood stains on the staff's striking end indicate that this authority was frequently exercised.
-$ITM_W_STAFF_10	Steel-Shod Staff	A sturdy staff that has been reinforced with long steel plates.
-$ITM_W_STAFF_11	Keeper of the Flame	This silver-plated staff is tarnished with generations of handling. Less sullied areas appear to be covered with archaic Quaid writing. The darkening of the silver and the extreme age of the dialect render most of it indecipherable. The phrase <LQ>those who hold the flame<RQ> appears several times, as does, <LQ>ecstasy... consume<RQ>. Both ends of the staff are almost black with accumulated scorch marks, hinting at possible use in the Quaid Imperial fire ritual.
-$ITM_W_STAFF_12	Pilgrim's Staff	One of the many staffs given out to travelers by the Selini monks.  The shaft is reinforced with steel plates and the surface of the wood has been carved with prayers.
-$ITM_W_STAFF_13	Kozomon's Scepter	This rustic oak staff bears the inscription <LQ>Kozomon Kastankim<RQ> in an incredibly archaic Ash dialect, labeling this simple implement as the property of Selinadt's first disciple.  This relic was believed to have been lost when its chapter house was looted in the last years of the Quaidian war.  The gold and jewels that used to adorn it have been stripped away long ago, but the staff itself remains undamaged.  Centuries of veneration and several fires have darkened the original wood to almost pitch blackness, though it retains all of its strength.
+$ITM_W_STAFF_1	手杖	一根結實堅固的棍子。
+$ITM_W_STAFF_2	牧羊杖	一根樸素的牧羊杖。
+$ITM_W_STAFF_3	江湖騙子之杖	這根華麗的雕刻手杖，杆上裝飾著奇怪的文字。仔細查看的話，可以發現那些僅僅是胡言亂語，愚弄文盲的文字。權杖的末段包含一些中空的部分，裡面裝著能產生彩色煙霧的粉末，這些煙幕似乎曾經是一隻金絲雀。
+$ITM_W_STAFF_4	橡木杖	一把上好的橡木權杖，把手上纏繞著厚實的皮革。
+$ITM_W_STAFF_5	佝僂牧羊人之杖	這根結實的權杖上滿是文字，它包含了奎德，死灰和遊牧還有幾種無法辨認的語言。在權杖頂部，是奎德語寫成的<LQ>沉睡大師，石頭守護者<RQ>。下面裝飾著沙漠之峰的珠寶，說明了那個不幸的擁有者因為在城市地下養殖兇猛惡毒的綿羊而被控告。權杖的末端滿是牙印，還有幾隻牙嵌在木頭上。
+$ITM_W_STAFF_6	棍棒	根堅固的橡木杖一側被掏空並灌上鉛，以增加重量。
+$ITM_W_STAFF_7	野獸的武器	這根非凡的權杖由一枚乳白色的長牙雕琢而成。如果去深究這顆牙齒究竟屬於什麼樣的怪獸不免讓人不寒而慄。權杖下面的華麗裝飾顯然是訴說一個不知名英雄的故事。這把武器上沒有死灰，遊牧或者奎德的圖案，也沒有能供辨認的文字，使雕刻者的身份和那頭巨角怪物的源頭成為一個謎。
+$ITM_W_STAFF_8	鐵木權杖	這把極好的權杖使用最罕有的木頭製成的。
+$ITM_W_STAFF_9	劊子手的棍棒	這根巨大的權杖裝著鐵塊，一側被挖空了並灌上鉛，以增加揮舞的衝擊力。金屬的表面刻著一些古怪的東西。似乎是一種未知的語言，或許是北部城市眾多的口語之一。骷髏頭下面的十字鑰匙，象徵著一種權威，或許是獄卒，行刑者又或者是其它指揮官，那種不配使用劍的人。權杖末端的血跡顯示那個人經常使用它練習。
+$ITM_W_STAFF_10	鋼釘權杖	這根堅固的木杖用長長的鐵塊進行了加固。
+$ITM_W_STAFF_11	火焰守護者	這根銀包裹的權杖經過一代代的傳下來，已經汙跡斑斑。還未被汙跡沾染的部分上寫著古老的奎德語言。由於銀變成黑色，在加上年代久遠，大部分的文字已難以辨認。那句話<LQ>手握火焰的人<RQ> 出現過幾次，此外，還有<LQ>入迷？……狂喜<RQ>。權杖的兩端都因為焦痕而發黑，這說明它可能在奎德帝國火焰儀式上所用。
+$ITM_W_STAFF_12	朝聖者之杖	這是刹靈尼僧侶給旅行者的其中一根權杖，這跟權杖使用鐵片進行了加固，木頭表面刻滿了禱文。
+$ITM_W_STAFF_13	科左曼的節杖	這根工藝粗糙的橡木棍上雕刻著如下的文字<LQ>科左曼·卡坦金<RQ>，這是一種非常古老的奎德方言，揭示了這根樸素的權杖屬於瑟林達的首席弟子。這個遺物應該是當年的奎德戰爭中，在小教堂中被奪走的。上面那些裝飾的黃金和珠寶早已被剝去，但權杖本身依然完好無缺。經過數個世紀的敬奉，幾場大火的洗禮，原來的木頭已變成了深黑色。但它的仍然保持原有的威力。
 $ITM_W_STAFF_14	<RE>[$ITM_W_STAFF_3_NAME]+	<RE>[$ITM_W_STAFF_3_DESCRIPTION]
 $ITM_W_STAFF_15	<RE>[$ITM_W_STAFF_5_NAME]+	<RE>[$ITM_W_STAFF_5_DESCRIPTION]
 $ITM_W_STAFF_16	<RE>[$ITM_W_STAFF_7_NAME]+	<RE>[$ITM_W_STAFF_7_DESCRIPTION]
@@ -164,28 +165,28 @@ $ITM_W_STAFF_23	<RE>[$ITM_W_STAFF_6_NAME]+	<RE>[$ITM_W_STAFF_6_DESCRIPTION] <RE>
 $ITM_W_STAFF_24	<RE>[$ITM_W_STAFF_8_NAME]+	<RE>[$ITM_W_STAFF_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
 $ITM_W_STAFF_25	<RE>[$ITM_W_STAFF_10_NAME]+	<RE>[$ITM_W_STAFF_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
 $ITM_W_STAFF_26	<RE>[$ITM_W_STAFF_12_NAME]+	<RE>[$ITM_W_STAFF_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
-$ITM_BOOK_PERHAPS	<NOTHING>	Perhaps you should take this book with you on your next adventure.
-$ITM_ACC_BOOK_1	Shock Lightning	Lightning shocks enemies, paralyzing them briefly.
-$ITM_ACC_BOOK_2	Chain Lightning	Lightning strikes 1 additional target with diminishing power for each skill point in Lightning.
-$ITM_ACC_BOOK_3	Furious Start	Newly summoned defenders have frenzy.
-$ITM_ACC_BOOK_4	Furious End	Defenders below 25% health gain frenzy.
-$ITM_ACC_BOOK_5	Light of Judgment	Casting Heal also applies BLIND to all enemies.
-$ITM_ACC_BOOK_6	Light of Glory	Casting Heal also applies LIGHT to all enemies.
-$ITM_ACC_BOOK_7	Slow Start	Newly spawned enemies are slowed temporarily.
-$ITM_ACC_BOOK_8	Slow End	Enemies within slow down as they approach $MCG.
-$ITM_ACC_BOOK_9	Crystal patch	$MCG begins the level surrounded by several crystals.
-$ITM_ACC_BOOK_10	Psi Shield	Enemies that hit $MCG deduct Psi instead of HP. Less Psi is lost for every point spent on the Crystal spell.
-$ITM_ACC_BOOK_11	Explosive Start	Summoning and boosting defenders causes a small explosion.
-$ITM_ACC_BOOK_12	Explosive End	A small explosion goes off when a defender is defeated.
-$ITM_ACC_BOOK_13	Book of Plagues	All defenders except $MCG can't regenerate, and all enemies except bosses are permanently toxic.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
-$ITM_ACC_BOOK_14	Book of Blood	All defenders and enemies, except $MCG and bosses, are permanently bleeding.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
-$ITM_ACC_BOOK_15	Book of Synergy	Ice, water, and fire no longer cancel.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
-$ITM_ACC_BOOK_16	Valley of the Forgotten	This book has no magical powers, but is instead an autobiography. It tells the story of a young Ashani librarian who survives an epidemic only to find herself trapped in a plague colony.  It is written in the form of a journal, with many illustrations drawn with improvised materials such as charcoal, tea, plant extracts, and blood.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
-$ITM_ACC_BOOK_17	Book of Daring	Defenders cannot be re-summoned once defeated or recalled in battle.
-$ITM_ACC_BOOK_18	Book of Silence	$MCG cannot cast spells in battle.
-$ITM_ACC_BOOK_19	Book of Face	ONLY works on EXTREME challenges: <N><N>Enemies will randomly update their <LQ>status<RQ> with new faces. Quite strange.
-$ITM_ACC_BOOK_20	Anonymous Book	ONLY works on EXTREME challenges: <N><N>Defenders become anonymous, and gain +3% chance to dodge.
-$ITM_ACC_BOOK_21	Book of Secrets	You can hear a soft whispering when you hold it to your ear.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
+$ITM_BOOK_PERHAPS	<NOTHING>	也許你應該在下次冒險時帶上這本書。
+$ITM_ACC_BOOK_1	閃電震擊	閃電震擊敵人，使之短暫麻痹。
+$ITM_ACC_BOOK_2	閃電鏈	每加1個技能點到閃電上，便召喚多一道強大的閃電打擊多一個敵人。
+$ITM_ACC_BOOK_3	狂暴開始	新召喚的防禦者變得狂暴。
+$ITM_ACC_BOOK_4	狂暴結束	生命值在25%以下的防禦者獲得狂暴。
+$ITM_ACC_BOOK_5	審判之光	釋放治療，並使所有敵人進入致盲狀態。
+$ITM_ACC_BOOK_6	榮耀之光	釋放治療，並使所有敵人進入炫光狀態。
+$ITM_ACC_BOOK_7	緩慢開始	新出現的敵人速度暫時被降低。
+$ITM_ACC_BOOK_8	緩慢結束	當敵人靠近 $MCG 時，速度被降低。
+$ITM_ACC_BOOK_9	水晶之路	$MCG 在關卡一開始時被若干水晶環繞。
+$ITM_ACC_BOOK_10	能量護盾	當 $MCG 遭到敵人攻擊時，能量會損失，但生命值不會下降。投入到水晶法術的技能點越多，能量損失的數量越少。
+$ITM_ACC_BOOK_11	爆破開始	召喚並強化守護者，並且造成小範圍的爆破。
+$ITM_ACC_BOOK_12	爆破結束	每當一個防禦者被擊敗後，會產生小範圍的爆破。
+$ITM_ACC_BOOK_13	瘟疫之書	除$MCG 之外的所有防禦者無法恢復生命，除首領之外的敵人都永久中毒。<N><N>或許你應該在下次冒險時帶上這本書。
+$ITM_ACC_BOOK_14	鮮血之書	除了$MCG 之外的所有防禦者和敵人，都永久流血。<N><N>或許你應該在下次冒險時帶上這本書。
+$ITM_ACC_BOOK_15	協同之書	無法再清除冰，水和火的狀態。<N><N>或許你應該在下次冒險時帶上這本書。
+$ITM_ACC_BOOK_16	遺忘山谷	這本書沒有魔法力量，它是一本自傳。這本書寫的是，一個年輕的阿撒尼圖書館員被困在瘟疫橫行的殖民地，最後在流行病中生存下來。它以日記的形式記錄，上面還有很多即興的插圖，例如是煤塊，茶，植物提取物和血。<N><N>或許你應該在下次冒險時帶上這本書。
+$ITM_ACC_BOOK_17	勇氣之書	在戰鬥時，防禦者一旦被擊倒，就無法再次被召喚。
+$ITM_ACC_BOOK_18	沉默之書	$MCG 無法在戰鬥中釋放法術。
+$ITM_ACC_BOOK_19	臉孔之書	只在終極挑戰中生效：<N><N>敵人會隨機更新他們的<LQ>狀態<RQ>，並且變成新的樣子。非常奇怪。
+$ITM_ACC_BOOK_20	無名之書	只在終極挑戰中生效：<N><N>防禦者變成無名者，獲得3%的躲閃加成，對巨魔的傷害加倍。
+$ITM_ACC_BOOK_21	秘密之書	當你把它拿到耳朵旁時，你會聽到很多溫柔的耳語。<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
 $ITM_W_BOOK_1	<RE>$ITM_ACC_BOOK_1_NAME	<RE>$ITM_ACC_BOOK_1_DESCRIPTION
 $ITM_W_BOOK_2	<RE>$ITM_ACC_BOOK_2_NAME	<RE>$ITM_ACC_BOOK_2_DESCRIPTION
 $ITM_W_BOOK_3	<RE>$ITM_ACC_BOOK_3_NAME	<RE>$ITM_ACC_BOOK_3_DESCRIPTION
