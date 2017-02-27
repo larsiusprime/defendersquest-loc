@@ -271,6 +271,8 @@ $MISC_LEAVE	verlassen
 $MISC_LEVEL	Level
 $MISC_LEVEL_SHORT	LVL
 $MISC_LEVEL_SHORT_X	LVL <X>
+$MISC_LEVEL_PARTY_GEM	Level	Appears on character blocks in the party screen
+$MISC_LEVEL_WAVE_BLOCK	Level	Appears on enemy wave blocks in battle
 $MISC_LEVEL_SUPER_SHORT	L
 $MISC_LEVEL_UP!	LEVEL UP!
 $MISC_LEVEL_UPX	LEVEL Upx

@@ -267,6 +267,8 @@ $MISC_LEADER	líder
 $MISC_LEAVE	salir			
 $MISC_LEVEL	nivel			
 $MISC_LEVEL_SHORT	NIV			
+$MISC_LEVEL_PARTY_GEM	Nivel	Appears on character blocks in the party screen
+$MISC_LEVEL_WAVE_BLOCK	Nivel	Appears on enemy wave blocks in battle
 $MISC_LEVEL_SHORT_X	NIV <X>			
 $MISC_LEVEL_SUPER_SHORT	N			
 $MISC_LEVEL_UP!	¡SUBE NIVEL!			

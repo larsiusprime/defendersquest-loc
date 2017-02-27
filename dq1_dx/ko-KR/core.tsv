@@ -665,6 +665,11 @@ $MISC_LEVEL_UPX	레벨업x
 $MISC_LEVEL_UP!	레벨업!
 $MISC_ANONYMOUS	익명
 $MISC_LEVEL_SHORT	레벨
+$MISC_LEVEL_SHORT_X	레벨 <X>
+$MISC_LEVEL_PARTY_GEM	레벨	Appears on character blocks in the party screen
+$MISC_LEVEL_WAVE_BLOCK	레벨	Appears on enemy wave blocks in battle
+$MISC_LEVEL_SUPER_SHORT	레벨
+$MISC_LEVEL_X	레벨 <X>
 $PARTY_HP	체력
 $PARTY_PSI	정신력
 $PARTY_XP	경험치

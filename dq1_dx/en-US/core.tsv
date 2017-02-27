@@ -1493,3 +1493,9 @@ $SOFT_KEYBOARD_CLEAR	Clear
 $CONTROL_SWITCH_WARNING	You cannot switch fundamental input methods in the middle of a battle. Sorry about that!
 $MISC_TITLE_SAFE_TEXT	Move analog sticks until all arrows are visible.
 $MISC_UNIVERSAL	Universal
+$MISC_LOAD_ORDER	Load Order
+$MISC_SELECTED	Selected
+$MISC_OVERWRITE	Confirm overwrite
+$MISC_OVERWRITE_TEXT	Some subscribed mods conflict with local versions. Proceed with overwrites one by one?
+$MISC_OVERWRITE2	Overwrite "<MODNAME>"?
+$MISC_OVERWRITE_TEXT2	<SOURCE><N><N>--><N><N><DEST>

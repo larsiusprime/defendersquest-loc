@@ -666,6 +666,8 @@ $MISC_LEVEL_UPX	Nová úroveňx
 $MISC_LEVEL_UP!	Nová úroveň!
 $MISC_ANONYMOUS	anonym
 $MISC_LEVEL_SHORT	ÚR
+$MISC_LEVEL_PARTY_GEM	úroveň	Appears on character blocks in the party screen
+$MISC_LEVEL_WAVE_BLOCK	úroveň	Appears on enemy wave blocks in battle
 $PARTY_HP	HP
 $PARTY_PSI	PSI
 $PARTY_XP	XP

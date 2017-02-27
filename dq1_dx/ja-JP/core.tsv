@@ -646,6 +646,8 @@ $MISC_LEVEL_UPX	レベルアップx
 $MISC_LEVEL_UP!	レベルアップ！
 $MISC_ANONYMOUS	名無し
 $MISC_LEVEL_SHORT	レベル
+$MISC_LEVEL_PARTY_GEM	レベル	Appears on character blocks in the party screen
+$MISC_LEVEL_WAVE_BLOCK	レベル	Appears on enemy wave blocks in battle
 $PARTY_HP	HP
 $PARTY_PSI	Psi
 $PARTY_XP	経験値
