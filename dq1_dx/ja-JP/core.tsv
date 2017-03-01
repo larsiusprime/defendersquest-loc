@@ -853,8 +853,8 @@ $REWARD_FINISH	ゲームクリア
 $REWARD_QUEST	クエスト完了
 $REWARD_NO_XP	なし！
 $REWARD_NO_GOLD	なし！
-$REWARD_XP	#ERROR!
-$REWARD_GOLD	#ERROR!
+$REWARD_XP	<PLUS> <XP> 経験値
+$REWARD_GOLD	<PLUS> <GOLD> スクラップ
 $HERO_BLURB_SLAK	勇敢だがちょっとバカなヘンな男・・・。
 $HERO_BLURB_KETTA	遊牧民の女ハンター。ひねくれものでニヒリスト・・・。
 $HERO_BLURB_BAKAL	穏やかな修道僧。罪が許される日を待っている・・・。

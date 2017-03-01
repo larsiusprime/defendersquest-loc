@@ -41,7 +41,7 @@ $DEMO_OVER_THANKS	¡Gracias por jugar!
 $DEMO_OVER_USE_IT	¡Úsalo para continuar desde donde lo dejaste!			
 $EN_SPELL_DRAGON_FIRE_1_DESC	<DMG> DAÑO			
 $EN_SPELL_DRAGON_FIRE_2_DESC	<LOW>-<HIGH> DAÑO			
-$EN_SPELL_FRENZY_DESC	#ERROR!	COMMENT: <MCG> is a variable. In this exact string, the game expects this exact variable, and will replace <MCG> with Azra's name. Any other variable is ignored and will appear as-is.		
+$EN_SPELL_FRENZY_DESC	<PLUS><PERCENT> de velocidad durante <SEC> seg.	COMMENT: <MCG> is a variable. In this exact string, the game expects this exact variable, and will replace <MCG> with Azra's name. Any other variable is ignored and will appear as-is.		
 $EN_SPELL_HEAL_DESC	Curación: <PERCENT> PV			
 $END	terminar			
 $ERROR_CONTEXT	contexto			
@@ -316,7 +316,7 @@ $MISC_PERFECT!	¡perfecto!
 $MISC_PHASES	desaparece			
 $MISC_PLEASE_ENTER_A_NAME!	¡Introduce un nombre!			
 $MISC_PLEASE_WAIT	Por favor, espera...			
-$MISC_PLUS_X_STAT	#ERROR!			
+$MISC_PLUS_X_STAT	<PLUS><X> <STAT>			
 $MISC_PLUS_X_TO_ARMOR_ABS	<PLUS_OR_MINUS><X> a ARMADURA			
 $MISC_PLUS_X_TO_ATTACK	<PLUS_OR_MINUS><X> a ATAQUE			
 $MISC_PLUS_X_TO_ATTACK_SPEED	<PLUS_OR_MINUS><X> a VELOCIDAD			
@@ -494,12 +494,12 @@ $PARTY_X_NEW_ACHIEVE	¡<NUM> logros nuevos!
 $PARTY_X_PTS	<X> pts			
 $PARTY_XP	EXP			
 $REWARD_FINISH	Termina el juego			
-$REWARD_GOLD	#ERROR!			
+$REWARD_GOLD	<PLUS> <GOLD> de CHATARRA			
 $REWARD_NEXT_LEVEL	Desbloquea el siguiente nivel			
 $REWARD_NO_GOLD	¡Nada!			
 $REWARD_NO_XP	¡Nada!			
 $REWARD_QUEST	Misión completada			
-$REWARD_XP	#ERROR!			
+$REWARD_XP	<PLUS> <XP> EXP.			
 $RQ	»			
 $SAVE_SLOT_DELETE	Eliminar			
 $SAVE_SLOT_DELETE_TEXT	Borra permanentemente esta partida guardada de tu ordenador. Sabes lo que estás haciendo			
@@ -566,22 +566,22 @@ $STATE_CRASH_PROMPT	¿Qué quieres hacer?
 $STATE_CRASH_SEND	Enviar informe<N>al desarrollador			
 $STATE_CRASH_SHOW_DUMP	Mostrar archivos<N>de volcado de memoria			
 $STATE_CRASH_TITLE	¡Error crítico!			
-$STATUS_DESC_ANONYMOUS	#ERROR!			
+$STATUS_DESC_ANONYMOUS	<PLUS><PERCENT>% de probabilidad de esquivar.			
 $STATUS_DESC_BLEED	Recibe +<PERCENT>% de DAÑO.			
 $STATUS_DESC_BLINDED	Los ataques fallan el <PERCENT> % de las veces.			
 $STATUS_DESC_BURN	<AMT_1DIG> DAÑO/seg<N>Cancelado por hielo.			
-$STATUS_DESC_CHILL	-<PERCENT>% de velocidad.<N>Cancelado por fuego.			
+$STATUS_DESC_CHILL	<MINUS><PERCENT>% de velocidad.<N>Cancelado por fuego.			
 $STATUS_DESC_DARK	Esquiva ataques que no sean de área el <PERCENT> % de las veces.			
 $STATUS_DESC_DARK_FRENZY	<RE>$STATUS_DESC_FRENZY			
 $STATUS_DESC_DISEASE	Se reduce la regeneración en <PERCENT>%			
 $STATUS_DESC_EVER_BLEED	<RE>$STATUS_DESC_BLEED			
 $STATUS_DESC_EVER_POISON	<INTI> DAÑO/seg.			
 $STATUS_DESC_FB_BORED	No se molesta en moverse.			
-$STATUS_DESC_FB_EXISTENTIAL	-<PERCENT>% de velocidad, +<PERCENT>% de resistencia al daño			
-$STATUS_DESC_FB_HAPPY	#ERROR!			
-$STATUS_DESC_FB_LOL	#ERROR!			
-$STATUS_DESC_FB_OMG	#ERROR!			
-$STATUS_DESC_FB_SAD	-<PERCENT>% de velocidad.			
+$STATUS_DESC_FB_EXISTENTIAL	<MINUS><PERCENT>% de velocidad, +<PERCENT>% de resistencia al daño			
+$STATUS_DESC_FB_HAPPY	<PLUS><PERCENT>% de velocidad.			
+$STATUS_DESC_FB_LOL	<PLUS><PERCENT>% de velocidad.			
+$STATUS_DESC_FB_OMG	<PLUS><PERCENT>% de velocidad, -<PERCENT>% de resistencia al daño.			
+$STATUS_DESC_FB_SAD	<MINUS><PERCENT>% de velocidad.			
 $STATUS_DESC_FIRE	<RE>$STATUS_DESC_BURN			
 $STATUS_DESC_FREEZE	No se puede mover.<N>Cancelado por fuego.			
 $STATUS_DESC_FRENZY	Aumenta la velocidad un <PERCENT>%			
@@ -960,7 +960,7 @@ $UI_MISC_NUMS	font:18,off_y:1,off_x:-2
 $UI_MISC_TITLE	Miscelánea			
 $UI_MOD_ALL_FILES	Todos los archivos (*.*)			
 $UI_MOD_AUTHOR	Autor			
-$UI_MOD_BKGS	#ERROR!			
+$UI_MOD_BKGS	<PLUS>42M de escenarios			
 $UI_MOD_BROWSE_QUEUE	Mis Mods			
 $UI_MOD_BROWSE_WORKSHOP	Steam Workshop			
 $UI_MOD_CREATE_NEW	Crear nuevo Mod			
@@ -994,7 +994,7 @@ $UI_MOD_MISSING	No se pudo encontrar settings.xml.<N>O no hay mod,<N>o está cor
 $UI_MOD_MISSING_SUBSCRIBE	Archivos suscritos			
 $UI_MOD_MISSING_SUBSCRIBE_TEXT	¿Quieres descargar:<N><NUM> archivo(s) suscrito(s) a la workshop?			
 $UI_MOD_MOD_INCOMPAT_TEXT	<N>El archivo es de un mod diferente,<N>podría ser incompatible.<N><N>¿Intentar la importación de todos modos?			
-$UI_MOD_MOVIES	#ERROR!			
+$UI_MOD_MOVIES	<PLUS>13M de secuencias			
 $UI_MOD_NAME	Introduce un nombre para este Mod			
 $UI_MOD_NORM_INCOMPAT_TEXT	<N>Hay un mod activo, pero este<N>archivo es del juego normal,<N>podría ser incompatible.<N><N>¿Intentar la importación de todos modos?			
 $UI_MOD_NOT_DIR	¡Hala!<N>¡Eso ni siquiera es un directorio!<N>Inténtalo otra vez.			
@@ -1008,7 +1008,7 @@ $UI_MOD_SHARE_TEXT_LOCAL	Se creará un paquete de tu mod en un único archivo pa
 $UI_MOD_SHARE_TEXT_STEAM	Se creará un paquete y se subiré tu mod al Steam Workshop.			
 $UI_MOD_SHARE_TITLE	Compartir Mod			
 $UI_MOD_SHARED	Compartido			
-$UI_MOD_SPRITES	#ERROR!			
+$UI_MOD_SPRITES	<PLUS>4M de Sprites			
 $UI_MOD_STEAM_SEND	Enviando a Steam			
 $UI_MOD_STEAM_UPLOAD	Subiendo a Steam...			
 $UI_MOD_STEAM_WAIT	Esperando respuesta de Steam...<N>(Puede tardar un poco)			
@@ -1167,7 +1167,7 @@ $UI_VIDEO_WARNING2	Desafortunadamente, la configuración de tu sistema no permit
 $UI_VIDEO_WARNING3	En MODO COMPATIBILIDAD, el cambio de resolución está desactivado.<N><N>¡Lo siento!			
 $UI_VIDEO_WIDESCREEN	(Panorámica)	las habilidades y el equipo. Nueva partida+ cuenta con nuevos tipos de enemigos	nuevas misiones secundarias	equipo más poderoso y un diario mucho más amplio. <N><N>NOTA: El progreso del equipo se COMPARTE entre la partida original y la Nueva partida+. Puedes jugar libremente a ambas versiones en cualquier momento sin perder nada.
 $UI_VIDEO_WINDOWED	Ventana			
-$WEAK_DMG_MULT	#ERROR!			
+$WEAK_DMG_MULT	<PLUS><PERCENT>% extra DMG from <FLAVOR>			
 $YOU_GOT	¡Has conseguido			
 $YOU_GOT_JOIN	¡<CLASS> <NAME><N>se ha unido al grupo!			
 $YOU_GOT_MONEY	¡Has conseguido <MONEY> de chatarra!			

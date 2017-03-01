@@ -25,7 +25,7 @@ $DEMO_OVER_FULL_GAME_SHORT	JEU<N>COMPLET !	COMMENT: <N> means a line break. <N>
 $DEMO_OVER_ACTS	Actes<N>III & IV
 $ERROR_TITLE	Une erreur est survenue !
 $ERROR_NUMBER	Erreur
-$#ERROR_CONTEXT	contexte
+$ERROR_CONTEXT	contexte
 $ERROR_MESSAGE	message
 $ERROR_STACK	trace de la pile
 $PARTY_FROM_BATTLE	De la bataille
@@ -365,9 +365,9 @@ $UI_MOD_INSTALL_ERROR2	Désolé, l'installation du Mod a échoué.
 $UI_DEFQ_MODS	Mod
 $UI_MOD_TITLE	Modifications
 $UI_MOD_DATA_ONLY	Données uniquement (1M)
-$UI_MOD_SPRITES	#ERROR!
-$UI_MOD_MOVIES	#ERROR!
-$UI_MOD_BKGS	#ERROR!
+$UI_MOD_SPRITES	<PLUS>4M de Sprites
+$UI_MOD_MOVIES	<PLUS>13M de Scènes Intermédiaires
+$UI_MOD_BKGS	<PLUS>42M de Décors
 $UI_MOD_TEMPLATE_SETTINGS	Paramètres du modèle de Mod
 $UI_MOD_SELECT_DIR	Sélection du répertoire du Mod
 $UI_SAVE_SELECT_DIR	Sélection du répertoire de sauvegarde
@@ -471,7 +471,7 @@ $STATUS_DESC_FB_BORED	N'a pas envie de bouger.
 $STATUS_DESC_FB_LOL	Vitesse +<PERCENT>%.
 $STATUS_DESC_FB_OMG	Vitesse +<PERCENT>%, résistance DGT -<PERCENT>%.
 $STATUS_DESC_TROLL	Esquive <PERCENT>% des attaques.
-$STATUS_DESC_ANONYMOUS	#ERROR!
+$STATUS_DESC_ANONYMOUS	<PLUS><PERCENT>% de chances d'esquiver.	
 $STATUS_DESC_DARK	Esquive <PERCENT>% des attaques ciblées.
 $STATUS_DESC_LIGHT	Supprime le voile de ténèbres.
 $STATUS_DESC_FRENZY	Vitesse +<PERCENT>%
@@ -846,8 +846,8 @@ $REWARD_FINISH	Termine le jeu
 $REWARD_QUEST	Quête accomplie
 $REWARD_NO_XP	Rien !
 $REWARD_NO_GOLD	Rien !
-$REWARD_XP	#ERROR!
-$REWARD_GOLD	#ERROR!
+$REWARD_XP	<PLUS> <XP> EXP
+$REWARD_GOLD	<PLUS> <GOLD> CAMELOTE
 $HERO_BLURB_SLAK	Un étrange jeune homme, à la fois courageux et instable...
 $HERO_BLURB_KETTA	Une chasseuse nomade, cynique et désillusionnée...
 $HERO_BLURB_BAKAL	Un vieux moine à la voix douce, en quête d'absolution pour ses péchés...
@@ -1000,7 +1000,7 @@ $MISC_PLUS_X%_TO_DEFENSE_MULT	<PLUS_OR_MINUS><X>% à DÉFENSE
 $MISC_PLUS_X%_TO_DODGE	<PLUS_OR_MINUS><X> à ESQUIVE
 $MISC_PLUS_X%_TO_EVADE	<RE>$MISC_PLUS_X%_TO_DODGE
 $MISC_PLUS_X%_TO_REGEN_MULT	<PLUS_OR_MINUS><X>% à RÉGÉNÉRATION
-$MISC_PLUS_X_STAT	#ERROR!
+$MISC_PLUS_X_STAT	<PLUS><X> <STAT>
 $MISC_PLUS_X_TO_ARMOR_ABS	<PLUS_OR_MINUS><X> à ARMURE
 $MISC_PLUS_X_TO_ATTACK	<PLUS_OR_MINUS><X> à ATTAQUE
 $MISC_PLUS_X_TO_ATTACK_SPEED	<PLUS_OR_MINUS><X> à VITESSE
@@ -1111,5 +1111,5 @@ $UI_VIDEO_SCREEN_SIZE	Taille de la fenêtre de jeu
 $UI_VIDEO_SD	Standard (4:3)
 $UI_VIDEO_SELECT_NEW	Sélectionnez...
 $UI_VIDEO_SPRITES	Sprites
-$WEAK_DMG_MULT	#ERROR!
+$WEAK_DMG_MULT	<PLUS><PERCENT>% DGT de <FLAVOR>
 $YOU_GOT_MONEY	Vous avez obtenu <MONEY> Camelote !

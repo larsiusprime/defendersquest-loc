@@ -873,8 +873,8 @@ $REWARD_FINISH	게임을 끝낸다.
 $REWARD_QUEST	퀘스트 완료
 $REWARD_NO_XP	없음!
 $REWARD_NO_GOLD	없음!
-$REWARD_XP	#ERROR!
-$REWARD_GOLD	#ERROR!
+$REWARD_XP	<PLUS><XP> XP
+$REWARD_GOLD	<PLUS><GOLD> SCRAP
 $HERO_BLURB_SLAK	괴상한 젊은이입니다. 용맹하지만 종잡을 수 없습니다.
 $HERO_BLURB_KETTA	유목민 여성 사냥꾼입니다. 냉소적이고 세상일에 관심이 없습니다···.
 $HERO_BLURB_BAKAL	부드러운 말투의 나이 든 수행자입니다. 자신의 죄를 속죄할 방법을 찾고 있습니다···.
