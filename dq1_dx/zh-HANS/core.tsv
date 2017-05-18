@@ -790,7 +790,7 @@ $UI_ACHIEVEMENTS_NUMS	font:18,off_y:0,pop_up_off_y:0
 $UI_ACHIEVEMENTS_TITLE	成就	
 $UI_ALL_FILES	所有文件	
 $UI_AUDIO_NUMS	font:18,off_y:1,off_x:-2	
-$UI_AUDIO_TITLE		
+$UI_AUDIO_TITLE	音频	
 $UI_BACK_NUMS	font:18,off_y:1,off_x:-3	
 $UI_BATTLE_CASH_OUT	兑现	
 $UI_BATTLE_CASH_OUT_TEXT	是否立刻结束战斗并且结算现在获得的奖励？	
