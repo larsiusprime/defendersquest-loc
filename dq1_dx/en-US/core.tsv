@@ -1492,7 +1492,7 @@ $SOFT_KEYBOARD_SPACE	Space
 $SOFT_KEYBOARD_BACKSPACE	Backspace
 $SOFT_KEYBOARD_CLEAR	Clear
 $CONTROL_SWITCH_WARNING	You cannot switch fundamental input methods in the middle of a battle. Sorry about that!
-$MISC_TITLE_SAFE_TEXT	Move analog sticks until all arrows are visible.
+$MISC_TITLE_SAFE_TEXT	Move analog sticks until all boxes are visible.
 $MISC_UNIVERSAL	Universal
 $MISC_LOAD_ORDER	Load Order
 $MISC_SELECTED	Selected
