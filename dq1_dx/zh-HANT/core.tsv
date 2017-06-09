@@ -203,8 +203,8 @@ $MISC_BUY	購買
 $MISC_CANCEL	取消	
 $MISC_CANT_AFFORD	餘額不足	
 $MISC_CANT_EQUIP!	無法裝備	
-$MISC_CASUAL	普通	
-$MISC_CASUAL_SHORT	普通	
+$MISC_CASUAL	容易	
+$MISC_CASUAL_SHORT	容易	
 $MISC_CHANCE	幾率	
 $MISC_CHANGE	更改	
 $MISC_CLICK_HERE	點擊這裡	
@@ -296,7 +296,7 @@ $MISC_HERO_MODE_TITLE	<RE>$MISC_HERO_MODE
 $MISC_HIRE	雇傭！	
 $MISC_HIRE_Q	<NAME> ，職業為 <CLASS> ，消耗 <N><SCRAP> 廢品，是否確定雇傭？	
 $MISC_HP	生命值	
-$MISC_HP_SHORT	生命值	
+$MISC_HP_SHORT	生命	
 $MISC_IMMUNE_TO	免疫 <SOMETHING>	
 $MISC_INFO	信息	
 $MISC_JOURNAL	日誌	
@@ -306,9 +306,9 @@ $MISC_LEAVE	離開
 $MISC_LEVEL	等級	
 $MISC_LEVEL_SHORT	等級	
 $MISC_LEVEL_SHORT_X	等級 <X>	
-$MISC_LEVEL_SUPER_SHORT	等級	
 $MISC_LEVEL_PARTY_GEM	等級	Appears on character blocks in the party screen
 $MISC_LEVEL_WAVE_BLOCK	等級	Appears on enemy wave blocks in battle
+$MISC_LEVEL_SUPER_SHORT	等級	
 $MISC_LEVEL_UP!	升級！	
 $MISC_LEVEL_UPX	升級x	
 $MISC_LEVEL_X	等級 <X>	
@@ -741,7 +741,7 @@ $TITLE_START_DEMO	開始試玩
 $TITLE_START_GAME	開始遊戲	
 $TITLE_UNLOAD_MOD	上傳Mod	
 $TOOLTIP_ADVANCED	最難的挑戰，最多的報酬。<N><N>當你足夠強大的時候來挑戰吧。	
-$TOOLTIP_CASUAL	在普通模式，敵人的生命值和攻擊傷害會被減少。	
+$TOOLTIP_CASUAL	在容易模式，敵人的生命值和攻擊傷害會被減少。	
 $TOOLTIP_CHANGE_PATH_1	注意：	
 $TOOLTIP_CHANGE_PATH_2	你的舊檔不會自動轉移到新位置。<N><N>它們仍然會在原來的目錄。	
 $TOOLTIP_EXTREME	最難的挑戰，最多的報酬。<N><N>做好準備！	
@@ -790,7 +790,7 @@ $UI_ACHIEVEMENTS_NUMS	font:18,off_y:0,pop_up_off_y:0
 $UI_ACHIEVEMENTS_TITLE	成就	
 $UI_ALL_FILES	所有檔	
 $UI_AUDIO_NUMS	font:18,off_y:1,off_x:-2	
-$UI_AUDIO_TITLE	音頻	
+$UI_AUDIO_TITLE	音訊	
 $UI_BACK_NUMS	font:18,off_y:1,off_x:-3	
 $UI_BATTLE_CASH_OUT	兌現	
 $UI_BATTLE_CASH_OUT_TEXT	是否立刻結束戰鬥並且結算現在獲得的獎勵？	
