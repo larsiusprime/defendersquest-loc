@@ -161,8 +161,8 @@ $ENTRY_JOURNAL_WRENNA_LEFT_0_10	薄利蒙对奎德族的王族的描述并不夸
 $ENTRY_JOURNAL_NOMADS_TITLE	
 $ENTRY_JOURNAL_NOMADS_LEFT_0_00	第14天 - 诺曼族
 $ENTRY_JOURNAL_NOMADS_LEFT_0_10	跟诺曼族接触的第一手经验非常有意思。这些原住民占<N>领了艾殊城市和奎德帝国之间的山谷峻岭。在卡提门·薄利蒙的东方远行之旅中，<N>
+$ENTRY_JOURNAL_NOMADS_LEFT_0_15	就像名字所说，这些部落逐水草而居,在山岭中饲养山羊和马。<N>少部分生活习惯也带来了墓坑，这种守卫永远是必须品的地方。<N><N>^少于一半还是一个健存的部落。
 $ENTRY_JOURNAL_NOMADS_LEFT_0_20	有超过100个部落被 记录下来， 但我相信经过战火的洗礼，<N>留下来的已经不多。在墓坑中，我遇到来自27^个部落的人，<N>在外面世界生活的人的数量是不可估计的。
-$ENTRY_JOURNAL_NOMADS_LEFT_0_30	就像名字所说，这些部落逐水草而居,在山岭中饲养山羊和马。<N>少部分生活习惯也带来了墓坑，这种守卫永远是必须品的地方。<N><N>^少于一半还是一个健存的部落。
 $ENTRY_JOURNAL_NOMADS_RIGHT_0_00	健存的部落会像卡革斯一样来建筑村落，依赖山羊和简单的农业来生活。 <N><N>离散的诺曼族（那些家园被破坏或是一直分散在外的）会在一些比较现代的都市，好像勒萨斯一类的，寻找栖身之所, <N>或是成为游侠-传达信息，并守护墓坑村庄之间的贸易。
 $ENTRY_JOURNAL_DREAM1_TITLE	
 $ENTRY_JOURNAL_DREAM1_LEFT_0_00	第15天 -奇怪的梦
@@ -282,13 +282,13 @@ $ENTRY_JOURNAL_GIBBERISH_RIGHT_0_00	好美好美好美你真的好美<N>我终�
 $ENTRY_JOURNAL_WRENNASTORY_TITLE	
 $ENTRY_JOURNAL_WRENNASTORY_LEFT_0_00	第 26天 – [mage_hero_pos] 的故事
 $ENTRY_JOURNAL_WRENNASTORY_LEFT_0_10	我继续发现现实和我有巨大的鸿沟，因为它客观的存在，<N>而我则在脑海中塑造的它，为它赋予解释。看起来我一直花时间去衡量的，并非事物本身，而是我创造出来的认知。
-$ENTRY_JOURNAL_WRENNASTORY_LEFT_0_20	当我们一起围着营火坐下， [mage_hero] 开始说一个故事。我抱住自己，期待著一個艱難的旅程：<N>是年轻时的肆意杀戮，还是狂野的激情呢？
+$ENTRY_JOURNAL_WRENNASTORY_LEFT_0_20	当我们一起围着营火坐下， [mage_hero]开始说一个故事。我抱住自己，期待著一個艱難的旅程：<N>是年轻时的肆意杀戮，还是狂野的激情呢？
 $ENTRY_JOURNAL_WRENNASTORY_LEFT_0_30	都不是，她说了一个有关她最小的妹妹的故事。
 $ENTRY_JOURNAL_WRENNASTORY_LEFT_0_40	这个孩子，比[mage_hero_pos]小七年，非常羡慕其他姐姐可以自由自在。她一直都不满足，所以总是出其不意地爬上[mage_hero_pos] 的背上，<N>假装有一样的身高和一样的灵活。但是让小女孩沮丧的是，[mage_hero] 很快就变得很迅速地移除这个小麻烦。这
 $ENTRY_JOURNAL_WRENNASTORY_RIGHT_0_00	持续了一段时间，最小的老是想爬上老大的背，但每次都被人立刻扳下来。
 $ENTRY_JOURNAL_WRENNASTORY_RIGHT_0_10	有一天[mage_hero]醒来时发现她的妹妹就在她的床头，费力地将一罐蜂蜜往自己身上涂，想用一个临时的方法来把自己永远地粘在可怜的姐姐身上。[mage_hero]说完后期待地看着我，带着一丝少女的微笑。我忽然发现她在等我笑出来。
-$ENTRY_JOURNAL_WRENNASTORY_RIGHT_0_20	这对我来说是又新又奇怪的反应。在我的印象中，[mage_hero] 是充满悲伤或恐惧的人。<N>她的形象一直是严肃又可怕的军人，即使在私底下她都表现得嗜血，<N>连笑也是带着疯狂，其他时间她就像个疼苦又无助的孩子，让我的正义感涌出。
-$ENTRY_JOURNAL_WRENNASTORY_RIGHT_0_30	我的误解是多么的严重，<N>它试图将人的灵魂凝聚成一个简单的对象，只在与我的关系中才有意义。
+$ENTRY_JOURNAL_WRENNASTORY_RIGHT_0_20	这对我来说是又新又奇怪的反应。在我的印象中，[mage_hero]
+$ENTRY_JOURNAL_WRENNASTORY_RIGHT_0_30	是充满悲伤或恐惧的人。<N>她的形象一直是严肃又可怕的军人，即使在私底下她都表现得嗜血，<N>连笑也是带着疯狂，其他时间她就像个疼苦又无助的孩子，让我的正义感涌出。我的误解是多么的严重，<N>它试图将人的灵魂凝聚成一个简单的对象，只在与我的关系中才有意义。
 $ENTRY_JOURNAL_EVILINSIDE_TITLE	
 $ENTRY_JOURNAL_EVILINSIDE_LEFT_0_00	第27天 – 里面的恶魔
 $ENTRY_JOURNAL_EVILINSIDE_LEFT_0_10	瑟连达在他第二封写给维卡利蒙王的信中提到, <LQ>当然拥抱在心内的恶魔时，胜利者并不存在。<RQ>
@@ -610,8 +610,9 @@ $ENTRY_JOURNAL2_STORYINSPIRE_LEFT_10	有一个英语专业的朋友曾经问我V
 $ENTRY_JOURNAL2_STORYINSPIRE_LEFT_20	瘟疫殖民地的概念其实是来自拉迪亚德·吉卜林（Rudyard Kipling）的短篇小说”The Strange Ride of Morrowbie Jukes”。我在11或是12岁的时候就读过这本书，那个自然形成的监狱，满满都是人，他们原本应该已经<LQ>死了的<RQ>，却后来痊愈了，这让我印象非常深刻。瘟疫社会强烈的景象也启发了我创作墓坑的一些细节（好像那里并没有马。Morrowbie 遭遇的第一件事就是他的马被人杀来吃，不过他也分到一份肉，所以并没有那么糟糕。）
 $ENTRY_JOURNAL2_STORYINSPIRE_LEFT_30	除此以外，很多文化的元素来自于拜占庭的历史记录。很多瑟连里文化都是来自仙逝的伟人
 $ENTRY_JOURNAL2_STORYINSPIRE_RIGHT_0_00	和早期东方基督教徒的手稿。
-$ENTRY_JOURNAL2_STORYINSPIRE_RIGHT_0_10	还有我是一个历史文学的书呆子，很多灵感是来自盎格鲁-撒克逊的文学。当我开始进行Defender's Quest的创作时，我开始了古英语这门课，于是当中的语言和文化对近乎所有东西都有影响。那种忧郁有哀伤的语调看起来非常符合我们这个中世纪后末世时代设定。如果你对这一类的东西很感兴趣的话，我非常推荐“The Ruin”。它虽然短，但是包含了所有盎格鲁-撒克逊文学的死亡气息。
-$ENTRY_JOURNAL3_STORYINSPIRE_RIGHT_0_20	当然，那里有很多东西在背后，但是这三个是对设定有最大的影响。嘿，这有我最喜欢的幽默作家的影响。
+$ENTRY_JOURNAL2_STORYINSPIRE_RIGHT_0_10	还有我是一个历史文学的书呆子，很多灵感是来自盎格鲁-撒克逊的文学。当我开始进行Defender's Quest的创作时，我开始了古英语这门课，于是当中的语言和文化对近乎所有东西都有影响。那种忧郁有哀伤的语调看起来非常符合我们这个中世纪后末世时代设定。
+$ENTRY_JOURNAL2_STORYINSPIRE_RIGHT_0_20	如果你对这一类的东西很感兴趣的话，我非常推荐“The Ruin”。它虽然短，但是包含了所有盎格鲁-撒克逊文学的死亡气息。
+$ENTRY_JOURNAL3_STORYINSPIRE_RIGHT_0_30	当然，那里有很多东西在背后，但是这三个是对设定有最大的影响。嘿，这有我最喜欢的幽默作家的影响。
 $ENTRY_JOURNAL2_STORYINSPIRE_LEFT_1_00	
 $ENTRY_JOURNAL2_STORYINSPIRE_RIGHT_1_00	
 $ENTRY_JOURNAL2_WOCOLAN_TITLE	
