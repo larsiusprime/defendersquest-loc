@@ -478,7 +478,7 @@ $INDEX_SLAK_DIE_00_TITLE	TALK_$BER_SMILE
 $INDEX_SLAK_DIE_00_TEXT	$MCG ! T'as perdu mon corps !
 $INDEX_SLAK_DIE_10_TITLE	TALK_$MCG_POWER
 $INDEX_SLAK_DIE_10_TEXT	Désolée, c'est difficile de rester concentrée lorsque vous vous faites malmener comme ça !
-$INDEX_SLAK_DIE_20_TITLE	TALK_$BER_NORMAL
+$INDEX_SLAK_DIE_20_TITLE	TALK_$BER_SMILE
 $INDEX_SLAK_DIE_20_TEXT	Eh ben grouille-toi de me ramener dans la bataille ! Je suis en train de louper plein de trucs à tuer !
 $INDEX_BER_DIE_30_TITLE	TALK_$BER_SURPRISE
 $INDEX_BER_DIE_30_TEXT	Yo $MCG ! Un de mes potes s'est fait latter ! Ramène-le vite ! Le meurtre n'attend pas !

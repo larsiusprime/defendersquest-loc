@@ -122,7 +122,7 @@ $1_2_THE_SHADOW_WORLD_140_TITLE
 $1_2_THE_SHADOW_WORLD_140_TEXT	Используйте ее расчетливо.<N>При ее использовании тратится ПСИ.
 $1_3_COLISEUM_1_00_TITLE	TALK_$RAN_NORMAL
 $1_3_COLISEUM_1_00_TEXT	Что за... Что ты делаешь?
-$1_3_COLISEUM_1_10_TITLE	TALK_$BER_NORMAL
+$1_3_COLISEUM_1_10_TITLE	TALK_$BER_SMILE
 $1_3_COLISEUM_1_10_TEXT	Странновато, не правда ли?
 $1_3_COLISEUM_1_20_TITLE	TALK_$RAN_NORMAL
 $1_3_COLISEUM_1_20_TEXT	Я словно снова... заражена чумой...
@@ -166,7 +166,7 @@ $3_1_TO_THE_PASS_40_TITLE	TALK_$BER_DERANGED
 $3_1_TO_THE_PASS_40_TEXT	<LQ>ВСЕ, ЧТО ДВИЖЕТСЯ!!!<RQ>
 $3_1_TO_THE_PASS_50_TITLE	TALK_$MCG_POWER
 $3_1_TO_THE_PASS_50_TEXT	Подождите... мне показалось, или эти гады могут плавать?
-$3_1_TO_THE_PASS_60_TITLE	TALK_$BER_NORMAL
+$3_1_TO_THE_PASS_60_TITLE	TALK_$BER_SMILE
 $3_1_TO_THE_PASS_60_TEXT	Больше похоже на плавание по-собачьи. Ваш стиль - отстой!
 $3_1_TO_THE_PASS_70_TITLE	TALK_$BER_DERANGED
 $3_1_TO_THE_PASS_70_TEXT	Вы слышали? Я только, что назвал вас песиками!
@@ -214,9 +214,9 @@ $3_6_INTO_THE_CITY_30_TITLE	TALK_$BER_DERANGED
 $3_6_INTO_THE_CITY_30_TEXT	Никогда!
 $3_6_INTO_THE_CITY_40_TITLE	TALK_$MCG_POWER
 $3_6_INTO_THE_CITY_40_TEXT	Надень, или я исключу тебя из команды и оставлю здесь.
-$3_6_INTO_THE_CITY_50_TITLE	TALK_$BER_NORMAL
+$3_6_INTO_THE_CITY_50_TITLE	TALK_$BER_SMILE
 $3_6_INTO_THE_CITY_50_TEXT	...ладно.
-$3_11_CITADEL_BOSS_00_TITLE	TALK_$BER_NORMAL
+$3_11_CITADEL_BOSS_00_TITLE	TALK_$BER_SMILE
 $3_11_CITADEL_BOSS_00_TEXT	Как мне бить этих гадов, если я не вижу их?!
 $3_11_CITADEL_BOSS_10_TITLE	TALK_$HEA_NORMAL
 $3_11_CITADEL_BOSS_10_TEXT	Кажется, они создают что-то типа облака вокруг себя.
@@ -248,7 +248,7 @@ $4_2_WIZARDS_REALM_00_TITLE	TALK_$RAN_SQUINT
 $4_2_WIZARDS_REALM_00_TEXT	Какого черта! Что это за твари?!
 $4_2_WIZARDS_REALM_10_TITLE	TALK_$RAN_SQUINT
 $4_2_WIZARDS_REALM_10_TEXT	Похоже, они вот-вот лопнут!
-$4_2_WIZARDS_REALM_20_TITLE	TALK_$BER_NORMAL
+$4_2_WIZARDS_REALM_20_TITLE	TALK_$BER_SMILE
 $4_2_WIZARDS_REALM_20_TEXT	Ага, они мне напоминают тот гуляш с забродившими грибами...
 $4_2_WIZARDS_REALM_30_TITLE	TALK_$BER_LOOKBACK
 $4_2_WIZARDS_REALM_30_TEXT	Только эти извергают маленьких загробников вместо...
@@ -522,11 +522,11 @@ $SIDEQUEST_7_120_TITLE	TALK_EZTLI-TENOCH_NORMAL
 $SIDEQUEST_7_120_TEXT	Вы отбросили все, чем мы являемся! Все, что мы создали!
 $SIDEQUEST_7_130_TITLE	TALK_EZTLI-TENOCH_NORMAL
 $SIDEQUEST_7_130_TEXT	...Поэтому я должен очиститься от последней смертной оболочки.
-$INDEX_SLAK_DIE_00_TITLE	TALK_$BER_NORMAL
+$INDEX_SLAK_DIE_00_TITLE	TALK_$BER_SMILE
 $INDEX_SLAK_DIE_00_TEXT	$MCG! Ты потеряла мое тело!
 $INDEX_SLAK_DIE_10_TITLE	TALK_$MCG_POWER
 $INDEX_SLAK_DIE_10_TEXT	Прости, трудно сконцентрироваться, когда ты так быстро машешь саблей!
-$INDEX_SLAK_DIE_20_TITLE	TALK_$BER_NORMAL
+$INDEX_SLAK_DIE_20_TITLE	TALK_$BER_SMILE
 $INDEX_SLAK_DIE_20_TEXT	Скорее! Верни меня обратно! Я должен убить каждую тварь!
 $INDEX_BER_DIE_30_TITLE	TALK_$BER_SURPRISE
 $INDEX_BER_DIE_30_TEXT	Эй, $MCG! Один из моих корешей пал! Верни его! Нам еще многих надо убить!
