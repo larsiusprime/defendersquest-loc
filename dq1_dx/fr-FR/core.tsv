@@ -588,6 +588,7 @@ $MISC_UP_TO_X_FRIENDS	Jusqu'à <NUM> <FRIEND>
 $MISC_UP_TO_X_FOES	Jusqu'à <NUM> <FOE>
 $MISC_SPLASH_DAMAGE	Explosion
 $MISC_SPLASH_LINE	<AMT> dgt, <TILES> cases
+$MISC_SPLASH_TILES	cases
 $MISC_SAVED!	Sauvegardé !
 $MISC_MISS	raté
 $MISC_PROBLEM?	problème ?

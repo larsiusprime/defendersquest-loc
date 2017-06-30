@@ -382,6 +382,7 @@ $MISC_SPEED_SHORT	VLC
 $MISC_SPELL	hechizo			
 $MISC_SPLASH_DAMAGE	Salpicadura			
 $MISC_SPLASH_LINE	<AMT> de daño, <TILES> casillas			
+$MISC_SPLASH_TILES	casillas			
 $MISC_STATS	estadísticas			
 $MISC_STATUS	estado			
 $MISC_STRANGER	desconocido			
