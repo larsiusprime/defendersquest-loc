@@ -513,6 +513,7 @@ $MISC_SPEED_SHORT	СКОРОСТЬ
 $MISC_SPELL	Заклинание
 $MISC_SPLASH_DAMAGE	Брызги
 $MISC_SPLASH_LINE	<AMT> урон, <TILES> клетках
+$MISC_SPLASH_TILES	 клетках
 $MISC_STATS	АТРИБУТЫ
 $MISC_STATUS	статус
 $MISC_STRANGER	незнакомец

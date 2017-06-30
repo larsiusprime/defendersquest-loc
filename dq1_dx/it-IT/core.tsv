@@ -625,6 +625,7 @@ $MISC_UP_TO_X_FRIENDS	Fino a <NUM> <FRIEND>
 $MISC_UP_TO_X_FOES	Fino a <NUM> <FOE>
 $MISC_SPLASH_DAMAGE	Area
 $MISC_SPLASH_LINE	<AMT> danno, <TILES> caselle
+$MISC_SPLASH_TILES	caselle
 $MISC_SAVED!	Salvato!
 $MISC_MISS	mancato
 $MISC_PROBLEM?	problemi?

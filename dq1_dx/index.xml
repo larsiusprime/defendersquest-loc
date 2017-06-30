@@ -251,7 +251,7 @@
 	<locale id="zh-HANS" beta="true" volunteer="false" sort="100">
 		<status value="99%" word="状态"/>
 		<font value="notosanscjksc" style="bold" size="12"/>
-		<contributors value="Hoi Lam"/>
+		<contributors value="Amy Ho, Lexie Wu"/>
 		<ui language="语言" region="地区" accept="确认"/>
 		<label id="en-US,en-GB,en-CA,en-NES" language="Simplified Chinese" region=""/>
 		<label id="ru-RU" language="Упрощенный китайский" region=""/>
@@ -273,7 +273,7 @@
 	<locale id="zh-HANT" beta="true" volunteer="false" sort="100">
 		<status value="99%" word="狀態"/>
 		<font value="notosanscjktc" style="bold" size="12"/>
-		<contributors value="Hoi Lam"/>
+		<contributors value="Amy Ho, Lexie Wu"/>
 		<ui language="語言" region="地區" accept="確認"/>
 		<label id="en-US,en-GB,en-CA,en-NES" language="Traditional Chinese" region=" "/>
 		<label id="ru-RU" language="Традиционный китайский" region=" "/>
