@@ -1318,6 +1318,7 @@ $PS4_B	Circle button
 $PS4_X	Square button
 $PS4_Y	Triangle button
 $PS4_BACK	Share button
+$PS4_BACK_PS4	Touch pad
 $PS4_START	Options button
 $PS4_LEFT_SHOULDER	L1 shoulder button
 $PS4_RIGHT_SHOULDER	R1 shoulder button
