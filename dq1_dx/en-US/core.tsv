@@ -996,6 +996,7 @@ $UI_LOGGING_CRASH_SYSTEM	System specs
 $UI_LOGGING_NEVER	Never
 $UI_LOGGING_SEND	Send crash logs to developer
 $UI_LOGGING_TITLE	Logging
+$UI_LEGAL_TITLE	Legal
 $UI_LOW	Low
 $UI_LOW()	Low(<X>)
 $UI_MISC_NUMS	font:18,off_y:1,off_x:-2
