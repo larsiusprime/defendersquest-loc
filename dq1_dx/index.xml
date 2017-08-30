@@ -313,15 +313,15 @@
 	<note id="status">
 		<text id="en-US" title="Status"	body="100%"/>
 		<text id="de-DE" title="Status"	body="95%"/>
-		<text id="es-ES" title="Estado"	body="75%"/>
+		<text id="es-ES" title="Estado"	body="100%"/>
 		<text id="fr-FR" title="État"	body="75%"/>
 		<text id="ja-JP" title="ステータス"	body="75%"/>
 		<text id="ko-KR" title="상태"		body="60%"/>
 		<text id="it-IT" title="Status"	body="60%"/>
 		<text id="cs-CZ" title="Stav"	body="60%"/>
 		<text id="ru-RU" title="Статус"	body="60%"/>
-		<text id="zh-HANS" title=""	body="5%"/>
-		<text id="zh-HANT" title=""	body="5%"/>
+		<text id="zh-HANS" title=""	body="100%"/>
+		<text id="zh-HANT" title=""	body="100%"/>
 	</note>
 	
 	<note id="beta">

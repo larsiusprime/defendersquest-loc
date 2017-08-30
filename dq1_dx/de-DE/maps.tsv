@@ -1,5 +1,5 @@
 flag	name	comment
-$BLANK	
+$BLANK		KOMMENTAR: Diese Datei enthält alle Tutorial-Texte der Karten(Level)-Dateien.
 $1_1_WHERE_AM_I_00_TITLE	TALK_$MCG_POWER
 $1_1_WHERE_AM_I_00_TEXT	Wo bin ich?
 $1_1_WHERE_AM_I_10_TITLE	
@@ -27,7 +27,7 @@ $1_1_WHERE_AM_I_110_TEXT	Dies zeigt dir alle BERSERKER in deiner Gruppe.<N>Momen
 $1_1_WHERE_AM_I_120_TITLE	
 $1_1_WHERE_AM_I_120_TEXT	Klicke hier, um ihn auzuwählen!
 $1_1_WHERE_AM_I_130_TITLE	
-$1_1_WHERE_AM_I_130_TEXT	Deine alten Charaktere haben alle Werte, Talente und Ausrüstungen aus dem letzten Spiel.
+$1_1_WHERE_AM_I_130_TEXT	Deine alten Charaktere haben alle Werte, Talente und Ausrüstungen aus dem letzten Spiel.<N>Drücke <SELECT>.
 $1_1_WHERE_AM_I_140_TITLE	TALK_$MCG_POWER
 $1_1_WHERE_AM_I_140_TEXT	Ich habe gerufen … und dich in meinem Geist gespürt …
 $1_1_WHERE_AM_I_150_TITLE	TALK_$MCG_POWER
@@ -39,7 +39,7 @@ $1_1_WHERE_AM_I_170_TEXT	Öhm … Okay.
 $1_1_WHERE_AM_I_180_TITLE	TALK_$BER_LOOKBACK
 $1_1_WHERE_AM_I_180_TEXT	Ich hätte wirklich nicht den Echseneintopf essen sollen …
 $1_1_WHERE_AM_I_190_TITLE	
-$1_1_WHERE_AM_I_190_TEXT	Klicke dorthin, wo du deinen Verteidiger platzieren möchtest.<N><N>Dies ist ein guter Ort!
+$1_1_WHERE_AM_I_190_TEXT	Klicke dorthin, wo du deinen Verteidiger platzieren möchtest.<N>Dies ist ein guter Ort!
 $1_1_WHERE_AM_I_200_TITLE	TALK_$BER_SMILE
 $1_1_WHERE_AM_I_200_TEXT	Heeeeeey!<N>So gefällts mir besser!
 $1_1_WHERE_AM_I_210_TITLE	
@@ -127,7 +127,7 @@ $1_3_COLISEUM_1_100_TEXT	Achte außerdem auf dieses Symbol. Dort werden die näc
 $1_4_COLISEUM_2_00_TITLE	
 $1_4_COLISEUM_2_00_TEXT	Wenn du mehr Berserker angeheuert hast,<N>kann $MCG sie in die Halbaußenwelt beschwören, indem sie im BERSERKER-Menü gewählt werden.
 $1_4_COLISEUM_2_10_TITLE	Hinweis
-$1_4_COLISEUM_2_10_TEXT	$BER ist immer noch unser bester Kämpfer –<N>verstärke ihn, um seine „Doppelschlag“-Attacke zu benutzen.
+$1_4_COLISEUM_2_10_TEXT	$BER ist immer noch unser bester Kämpfer –<N>verstärke ihn, um seine <LQ>Doppelschlag<HQ>-Attacke zu benutzen.
 $2_2_UNDEAD_RANGERS_00_TITLE	
 $2_2_UNDEAD_RANGERS_00_TEXT	Diese untoten Waldläufer haben einen großen Angriffsradius – plane entsprechend!
 $2_4_MONASTERY_00_TITLE	Rückruf
@@ -681,3 +681,52 @@ $4_5_RIGHT_HAND_91_TEXT	Mach mich zu deinem Kind!
 $4_5_RIGHT_HAND_91_TITLE	TALKSYMBOLS_CULTIST_PRIEST
 $SIDEQUEST_7_111_TEXT	Wie kannst du uns beide zerstören?
 $SIDEQUEST_7_111_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$1_1_WHERE_AM_I_121_TEXT	Drücke <DOWN> und dann <SELECT>, um ihn auszuwählen!
+$1_1_WHERE_AM_I_121_TITLE
+$1_1_WHERE_AM_I_191_TEXT	Benutze <TILE_MOVE> zum Bewegen, dann <SELECT> zum Platzieren.<N>Das ist eine gute Stelle!
+$1_1_WHERE_AM_I_191_TITLE
+$1_1_WHERE_AM_I_271_TEXT	Drücke <PAUSE>, damit es losgeht.
+$1_1_WHERE_AM_I_271_TITLE
+$1_1_WHERE_AM_I_341_TEXT	Drücke BOOST mit <SELECT>!<N>Du wirst es nicht bereuen!
+$1_1_WHERE_AM_I_341_TITLE
+$1_1_WHERE_AM_I_61_TEXT	Drücke <DEFENDERS> oder <UP>, um das BERSERKER-Menü zu wählen.
+$1_1_WHERE_AM_I_61_TITLE
+$1_2_THE_SHADOW_WORLD_121_TEXT	Benutze $MCGs BLITZSCHLAG, um sie zu erwischen!<N>Drücke <SPELLS>, dann <SELECT>.
+$1_2_THE_SHADOW_WORLD_121_TITLE
+$1_2_THE_SHADOW_WORLD_31_TEXT	Denk dran,<N>drücke <DEFENDERS> oder <UP>, um das BERSERKER-Menü zu wählen.
+$1_2_THE_SHADOW_WORLD_31_TITLE
+$1_2_THE_SHADOW_WORLD_51_TEXT	Benutze <TILE_MOVE> und <SELECT>, um $BER auszuwählen.
+$1_2_THE_SHADOW_WORLD_51_TITLE
+$1_2_THE_SHADOW_WORLD_91_TEXT	Vergiss nicht, $BER mit <SELECT> zu verstärken.<N>Das ist eine lebenswichtige Taktik.
+$1_2_THE_SHADOW_WORLD_91_TITLE
+$INDEX_A_201_TEXT	Drücke <MENU_MENU>, um deine Charaktere zu wechseln.
+$INDEX_A_201_TITLE	Tutorial
+$INDEX_B1_250_TEXT	Drücke <MENU_SELECT>, um $MCG anzuschauen.
+$INDEX_B1_250_TITLE	Tutorial
+$INDEX_C1_260_TEXT	Drücke <MENU_DOWN> und dann <MENU_SELECT>, um $MCGs TALENTBAUM zu untersuchen.
+$INDEX_C1_260_TITLE	Tutorial
+$INDEX_CLICK_DUDE1_190_TEXT	Drücke <MENU_SELECT>, um diesen Charakter anzuschauen.
+$INDEX_CLICK_DUDE1_190_TITLE	Tutorial
+$INDEX_D1_270_TEXT	<RE>$INDEX_B_210_TEXT
+$INDEX_D1_270_TITLE	Tutorial
+$INDEX_D1_280_TEXT	$MCG hat einen TALENTPUNKT.<N>Dies zeigt, was passieren wird, wenn du dieses Talent verbesserst.
+$INDEX_D1_280_TITLE	Tutorial
+$INDEX_D1_290_TEXT	Drücke <MENU_SELECT>, um dieses Talent um einen Punkt zu erhöhen.
+$INDEX_D1_290_TITLE	Tutorial
+$INDEX_LVL_DUDE_131_TEXT	Drücke <MENU_MENU>, um deine Charaktere zu wechseln.
+$INDEX_LVL_DUDE_131_TITLE	Tutorial
+$INDEX_ORB_DUDE1_210_TEXT	<RE>$INDEX_CLICK_DUDE_140_TEXT
+$INDEX_ORB_DUDE1_210_TITLE	Tutorial
+$INDEX_ORB_DUDE1_220_TEXT	<RE>$INDEX_CLICK_DUDE_150_TEXT
+$INDEX_ORB_DUDE1_220_TITLE	Tutorial
+$INDEX_ORB_DUDE1_230_TEXT	<RE>$INDEX_CLICK_DUDE_160_TEXT
+$INDEX_ORB_DUDE1_230_TITLE	Tutorial
+$INDEX_ORB_DUDE1_240_TEXT	Hier kannst du sehen, was passieren wird, wenn du dieses Talent erhöhst.
+$INDEX_ORB_DUDE1_240_TITLE	Tutorial
+$INDEX_ORB_DUDE1_250_TEXT	<RE>$INDEX_D1_290_TEXT
+$INDEX_ORB_DUDE1_250_TITLE	Tutorial
+$INDEX_SECOND_LEVEL_111_TEXT	Drücke <MOVE_MAP_DOWN>, um fortzufahren.
+$INDEX_SECOND_LEVEL_111_TITLE
+$INDEX_SKILL_DUDE1_200_TEXT	Drücke <MENU_DOWN> und dann <MENU_SELECT>, um den TALENTBAUM dieses Charakters anzuzeigen.
+$INDEX_SKILL_DUDE1_200_TITLE	Tutorial
+$TEST	nur ein Test...

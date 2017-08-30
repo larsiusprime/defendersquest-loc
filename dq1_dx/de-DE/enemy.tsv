@@ -22,7 +22,7 @@ $EN_APC	TEILER	Monstrosität	Brutwirt|Diese aufgeblähten Leichen können sich k
 $EN_APC_W	<RE>$EN_APC_NICK_NAME	Stinkende Leiche	Schwimmender Brutwirt|Diese Wiedergänger riechen wie ein Sack verfaulter Fische, eingewickelt in Abwässern und Tod.<N><N>Sie treiben problemlos und drohen, jeden Moment aufzuplatzen.	
 $EN_ARMORED APC	GEPANZERTER TEILER	Schalen-Bestie	Gepanzerter Brutwirt|Ein gigantischer Panzer schützt diesen monströsen Flatschen aus verdautem Fleisch.<N><N>Man vermutet, dass er keinerlei Knochen mehr besitzt.	
 $EN_DOUBLE APC	DOPPEL-TEILER	Scheußlichkeit	Teilender Brutwirt|Dieses seltsame Monster ist verfärbt und aufgebläht.<N><N>Was könnte das bedeuten?	
-$EN_ARMORED RANGED ATTACKER	<RE>$EN_RANGED ATTACKER_NICK_NAME	Schlangenghul	Schießender gepanzerter Wiedergänger<RE>[$EN_RANGED ATTACKER_FLAVOR_TEXT]	
+$EN_ARMORED RANGED ATTACKER	<RE>$EN_RANGED ATTACKER_NICK_NAME	Schlangenghul	Schießender gepanzerter Wiedergänger|<RE>[$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT]	
 $EN_RANGED ATTACKER	FERNKÄMPFER	Schlangenghul	Schießender Wiedergänger|<RE>[$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT]	
 $EN_RANGED ATTACKER_W	<RE>$EN_RANGED ATTACKER_NICK_NAME	Fluss-Schlangenghul	Schwimmender, schießender Wiedergänger|<RE>[$EN_RANGED ATTACKER_BASIC_FLAVOR_TEXT]	
 $EN_DARK	DUNKEL	Shattenwurm	Schnelle, dunkle Brut|Diese Würmer sind ummantelt von dichtem schwarzen Nebel, der es fast unmöglich macht, sie zu treffen.
@@ -57,7 +57,7 @@ $EN_SHEEP	SCHAF	Schaf	Köstliches Säugetier|Drachen können jahrelang ohne Futt
 $EN_PSI SHEEP	<RE>$EN_SHEEP_NICK_NAME	<RE>$EN_SHEEP_FLAVOR_NAME	<RE>$EN_SHEEP_FLAVOR_TEXT	
 $EN_SPEEDY SHEEP	SCHNELLES SCHAF	Schnelles Schaf	Schnelles, köstliches Säugetier|Einige Schafe haben sich an die lebensfeindlichen Umstände in der Grube mit stark ausgeprägten schnellen Muskeln angepasst. Damit können sie zwar nicht vor Drachen weglaufen, aber sie können sich immerhin von den anderen Schafen absetzen.
 $EN_SUPER SHEEP	SUPERSCHAF	Superschaf	Mythisches, köstliches Säugetier|Legenden der Drachen erzählen voller Erfurcht von diesem seltenen Schaf, dem Axxima Vatta Muttanaxxor. Die heiligen Drachenschriften beschreiben ein kompliziertes Ritual bei seiner Ankunft. Traditionelle Wissenschaften stufen die Drachenschriften so ein wie andere religiöse Schriften, aber moderne Forschung legt nahe, sie als Kochbuch zu klassifizieren.
-$EN_OZIMAL	OZIMAL	Ozimal Kaz	Wiedergänger-Sklave|Zauberer wie Zelemir haben bekanntlich gesunde lebendige Kreaturen ohne Umschweife in untote Sklaven verwandeln können. <N> Die Vorbereitung des Zaubers benötigt Zeit, da der Zauberer seinem Ziel über mehrere Tage hinweg ein spezielles Gift ins Essen mischen muss. <N> Dies wird als "Versicherung" genutzt, sollten die Anhänger eines Zauberers gegen ihn aufbegehren.
+$EN_OZIMAL	OZIMAL	Ozimal Kaz	Wiedergänger-Sklave|Einst war er der große Schreckensherrscher der Grube, jetzt ist er Zelemirs willenlose Kreatur.<N>Seine Robe ist aber immer noch ziemlich schick.
 $EN_TWIN	ZWILLING	Zwilling	Wiedergänger-Bruder|BLARGH YAAAARGH GAR GAR HUR.
 $EN_3_11_BOSS	BOSS
 $EN_RIGHT_INDEX_FINGER	ZEIGEFINGER	Zeigefinger	Mönströser Finger|Obwohl er von seiner Hand abgetrennt wurde, bewegt sich dieser Finger aus eigenem Antrieb.

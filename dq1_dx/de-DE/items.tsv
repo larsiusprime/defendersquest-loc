@@ -87,7 +87,7 @@ $ITM_A_SKULL_6	Unobtanium-Schädel	Gefertigt aus reinem Unobtanium, und daher un
 $ITM_W_SWORD_1	Steinmesser	Ein scharfer Stein, der an einem hölzernen Griff angebracht wurde. Besser als nichts.
 $ITM_W_SWORD_2	Metallmesser	Eine Klinge aus Restmetall. Einfach, aber effektiv.
 $ITM_W_SWORD_3	Verrostetes Schwert	Ein verrostetes, kaputtes Schwert. Solche abgeworfenen Relikte des Krieges gibt es in der Grube wie Sand am Meer.	
-$ITM_W_SWORD_4	Blutfehden-Kopal	Auf diesem Nomaden-Kampfmesser sind die Symbole des Gasta-Stamms oberhalb einer unbekannten rivalisierenden Gruppe eingraviert - ein Hinweis auf eine Blutfehde zwischen den beiden Stämmen. In den Steingriff sind 17 Todes-Markierungen eingekerbt.	
+$ITM_W_SWORD_4	Blutfehden-Kopal	Auf diesem Nomaden-Kampfmesser sind die Symbole des Gasta-Stamms oberhalb einer unbekannten rivalisierenden Gruppe eingraviert - ein Hinweis auf eine Blutfehde zwischen den beiden Stämmen. In den Steingriff sind 17 Todes-Markierungen eingekerbt.
 $ITM_W_SWORD_5	Eisenschwert	Ein einfaches Eisenschwert. Schlecht ausbalanciert und einfach geschmiedet, aber ansonsten in gutem Zustand.
 $ITM_W_SWORD_6	Rehabilitation der Ehre	Das verzierte Jadeheft und Einlagen im Knauf täuschen über die bösartige Funktionalität dieses Quaid-Duellschwerts hinweg.  Die Klingenbasis trägt die Inschrift<N><LQ>Rehabilitation des Ehrenvollen. Die Flamme in mir brennt.<RQ> Wahrscheinlich wurde es für ein spezielles Duell erschaffen, um eine vermeintliche Schande zwischen zwei Adligen zu klären.	
 $ITM_W_SWORD_7	Soldatenschwert	Ein militärisches Schwert, während des Krieges in Massen produziert. Effektiv und stark.
@@ -122,17 +122,18 @@ $ITM_W_BOW_9	Triumph des Kriegsherrn	Dieser fachmännisch hergestellte Recurvebo
 $ITM_W_BOW_10	Komposit-Kriegsbogen	Dieser aus mehreren unterschiedlichen Holzarten geschaffene Kompositbogen gehörte vermutlich einem Offizier.
 $ITM_W_BOW_11	Vergoldeter Tod	Dieser mit Hornspitzen besetzte Kriegsbogen ist mit zahlreichen Goldringen verziert. Der Ledergriff trägt eine alte Quaid-Inschrift: <LQ>Lucawan, du, der du Ehre opfertest für billiges Gold, erblicke deinen Tod im Gold dieser Waffe. Treffen soll dich ihr Pfeil und deine Verräter-Leiche soll Hunden und Würmern als Spielzeug dienen.<RQ> Darunter, in die Oberfläche des Leders eingraviert, steht <LQ>Es ist vollbracht.<RQ>	
 $ITM_W_BOW_12	Verstärkter Langbogen	Da er aus dickem Eichenholz besteht, benötigt dieser Bogen zwar unglaublich viel Stärke zum Spannen, kann aber in der Hand derer, die ihn im Griff haben, tödliche Schüsse abgeben.
-$ITM_W_BOW_13	<RE>[$ITM_W_BOW_3_NAME]+	<RE>[$ITM_W_BOW_3_DESCRIPTION]	
-$ITM_W_BOW_14	<RE>[$ITM_W_BOW_5_NAME]+	<RE>[$ITM_W_BOW_5_DESCRIPTION]	
-$ITM_W_BOW_15	<RE>[$ITM_W_BOW_7_NAME]+	<RE>[$ITM_W_BOW_7_DESCRIPTION]	
-$ITM_W_BOW_16	<RE>[$ITM_W_BOW_9_NAME]+	<RE>[$ITM_W_BOW_9_DESCRIPTION]	
-$ITM_W_BOW_17	<RE>[$ITM_W_BOW_11_NAME]+	<RE>[$ITM_W_BOW_11_DESCRIPTION]	
-$ITM_W_BOW_18	<RE>[$ITM_W_BOW_1_NAME]+	<RE>[$ITM_W_BOW_1_DESCRIPTION]	
-$ITM_W_BOW_19	<RE>[$ITM_W_BOW_2_NAME]+	<RE>[$ITM_W_BOW_2_DESCRIPTION]	
-$ITM_W_BOW_20	<RE>[$ITM_W_BOW_4_NAME]+	<RE>[$ITM_W_BOW_4_DESCRIPTION]	
-$ITM_W_BOW_21	<RE>[$ITM_W_BOW_6_NAME]+	<RE>[$ITM_W_BOW_6_DESCRIPTION]	
-$ITM_W_BOW_22	<RE>[$ITM_W_BOW_8_NAME]+	<RE>[$ITM_W_BOW_8_DESCRIPTION]	
-$ITM_W_BOW_23	<RE>[$ITM_W_BOW_10_NAME]+	<RE>[$ITM_W_BOW_10_DESCRIPTION]	
+$ITM_W_BOW_13	<RE>[$ITM_W_BOW_3_NAME]+	<RE>[$ITM_W_BOW_3_DESCRIPTION]
+$ITM_W_BOW_14	<RE>[$ITM_W_BOW_5_NAME]+	<RE>[$ITM_W_BOW_5_DESCRIPTION]
+$ITM_W_BOW_15	<RE>[$ITM_W_BOW_7_NAME]+	<RE>[$ITM_W_BOW_7_DESCRIPTION]
+$ITM_W_BOW_16	<RE>[$ITM_W_BOW_9_NAME]+	<RE>[$ITM_W_BOW_9_DESCRIPTION]
+$ITM_W_BOW_17	<RE>[$ITM_W_BOW_11_NAME]+	<RE>[$ITM_W_BOW_11_DESCRIPTION]
+$ITM_W_BOW_18	<RE>[$ITM_W_BOW_1_NAME]+	<RE>[$ITM_W_BOW_1_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
+$ITM_W_BOW_19	<RE>[$ITM_W_BOW_2_NAME]+	<RE>[$ITM_W_BOW_2_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
+$ITM_W_BOW_20	<RE>[$ITM_W_BOW_4_NAME]+	<RE>[$ITM_W_BOW_4_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
+$ITM_W_BOW_21	<RE>[$ITM_W_BOW_6_NAME]+	<RE>[$ITM_W_BOW_6_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
+$ITM_W_BOW_22	<RE>[$ITM_W_BOW_8_NAME]+	<RE>[$ITM_W_BOW_8_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
+$ITM_W_BOW_23	<RE>[$ITM_W_BOW_10_NAME]+	<RE>[$ITM_W_BOW_10_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
+$ITM_W_BOW_24	<RE>[$ITM_W_BOW_12_NAME]+	<RE>[$ITM_W_BOW_12_DESCRIPTION] <RE>[$ITM_PLUS_DESCRIPTION]
 $ITM_W_BOW_24	Verstärkter Langbogen+	<RE>$ITM_W_BOW_12_DESC
 $ITM_W_STAFF_1	Gehstock	Ein fester, massiver Stock.
 $ITM_W_STAFF_2	Hirtenstab	Ein einfacher Hirtenstab.
