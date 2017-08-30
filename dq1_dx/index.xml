@@ -56,6 +56,7 @@
 	</locale>
 	<!--Castillian Spanish-->
 	<locale id="es-ES" sort="1" official="true" beta="true"> 
+		<hide if="console_spanish" value="false"/>
 		<font value="verdana" style="bold" size="12" alpha="latin"/>
 		<status value="75%" word="Estado"/>
 		<contributors value="Felipe Mercader Martínez"/>
@@ -77,6 +78,7 @@
 	</locale>
 	<!--German German-->
 	<locale id="de-DE" sort="2" official="true" beta="true">
+		<hide if="console_german" value="false"/>
 		<font value="verdana" style="bold" size="12" alpha="latin"/>
 		<status value="95%" word="Status"/>
 		<contributors value="Fabian Bindel, Thomas Faust, Alexander Sturm"/>
@@ -98,6 +100,7 @@
 	</locale>
 	<!--French French-->
 	<locale id="fr-FR" sort="3" official="true" beta="true">
+		<hide if="console_french" value="false"/>
 		<status value="75%" word="État"/>
 		<font value="verdana" style="bold" size="12" alpha="latin"/>
 		<contributors value="Words of Magic"/>
@@ -119,6 +122,7 @@
 	</locale>
 	<!--Japanese Japanese-->
 	<locale id="ja-JP" sort="4" official="true" beta="true">
+		<hide if="console_japanese" value="false"/>
 		<status value="75%" word="ステータス"/>
 		<font value="mplus2c" style="bold" size="14" alpha="japanese"/>
 		<contributors value="Playism, Yukichika Chayama"/>
@@ -140,8 +144,9 @@
 	</locale>
 	<!--Italiano Italiano-->
 	<locale id="it-IT" volunteer="true" sort="5" beta="true">
+		<hide if="console_italian" value="false"/>
 		<status value="60%" word="status"/>
-		<font value="Verdana" style="bold" size="12" alpha="latin"/>
+		<font value="verdana" style="bold" size="12" alpha="latin"/>
 		<contributors value="Luca Locci"/>
 		<ui language="Linguaggio" region="Regione" accept="Accetta"/>
 		<label id="en-US,en-GB,en-CA,en-NES" language="Italian" region="Italy"/>
@@ -183,7 +188,8 @@
 	
 	<!--Czech Republic Czech-->
     <locale id="cs-CZ" volunteer="true" sort="25" beta="true">
-		<font value="Verdana" style="bold" size="12" alpha="latin"/>
+		<hide if="console_czech" value="false"/>
+		<font value="verdana" style="bold" size="12" alpha="latin"/>
 		<status value="60%" word=""/>
 		<contributors value="Viktor 'Coyot' Urban, Helena 'Hekko' Houzarová"/>
           <ui language="Jazyk" region="Region" accept="Vyber"/>
@@ -205,6 +211,7 @@
 	
 	<!--South Korean Korean-->
 	<locale id="ko-KR" volunteer="true" beta="true" sort="30">
+		<hide if="console_korean" value="false"/>
 		<status value="60%" word="상태"/>
 		<font value="nanumgothic" style="bold" size="13" alpha="korean"/>
 		<ui language="언어" region="국가" accept="언어선택"/>
@@ -226,6 +233,7 @@
 	
 	<!-- Русский язык (Russian Russian) -->
 	<locale id="ru-RU" beta="false" volunteer="true" sort="95">
+		<hide if="console_russian" value="false"/>
 		<status value="60%" word="Статус"/>
 		<font value="verdana" style="bold" size="12" alpha="cyrillic"/>
 		<contributors value="Lord_Draconis, cm3x, Dimon485, Landfar, Hy60koshk, WoRG55, andrew2405, DART, Romens, EvgenyChizhov, iriska128, Artillery, parabashka"/>
@@ -249,6 +257,7 @@
 	<!--Simplified Chinese-->
 	
 	<locale id="zh-HANS" beta="true" volunteer="false" sort="100">
+		<hide if="console_chinese" value="false"/>
 		<status value="99%" word="状态"/>
 		<font value="notosanscjksc" style="bold" size="12"/>
 		<contributors value="Amy Ho, Lexie Wu"/>
@@ -271,6 +280,7 @@
 	
 	<!--Traditional Chinese-->
 	<locale id="zh-HANT" beta="true" volunteer="false" sort="100">
+		<hide if="console_chinese" value="false"/>
 		<status value="99%" word="狀態"/>
 		<font value="notosanscjktc" style="bold" size="12"/>
 		<contributors value="Amy Ho, Lexie Wu"/>
