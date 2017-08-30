@@ -158,7 +158,7 @@ $LINE_TALK_BERSERKER_160_TEXT	Das hat noch niemand geschafft!
 $LINE_TALK_BERSERKER_170_CHAR	$MCG
 $LINE_TALK_BERSERKER_170_TEXT	Was?
 $LINE_TALK_BERSERKER_180_CHAR	$BER
-$LINE_TALK_BERSERKER_180_TEXT	Wiederg�nger k�nnen nicht sterben... oder zumindest konnten sie das nicht!
+$LINE_TALK_BERSERKER_180_TEXT	Wiedergänger können nicht sterben... oder zumindest konnten sie das nicht!
 $LINE_TALK_BERSERKER_190_CHAR	$BER
 $LINE_TALK_BERSERKER_190_TEXT	Oh Mann! Heute ist mein Glückstag!
 $LINE_TALK_BERSERKER_200_CHAR	$BER
@@ -269,15 +269,15 @@ $LINE_COLISEUM_2_INTRO_10_TEXT	Die Seuche hat das Quaid-Imperium vollständig ze
 $LINE_COLISEUM_2_INTRO_20_CHAR	OZIMAL
 $LINE_COLISEUM_2_INTRO_20_TEXT	Na, da kann man doch seine Freude dran haben.
 $LINE_COLISEUM_2_INTRO_30_CHAR	MANN IN ROT
-$LINE_COLISEUM_2_INTRO_30_TEXT	Nun breitet sie sich in das Ash-K�nigreich aus. Wenn nichts unternommen wird, gelingt dieser Krankheit, was die Armeen von Quaid nicht geschafft haben.
+$LINE_COLISEUM_2_INTRO_30_TEXT	Nun breitet sie sich in das Ash-Königreich aus. Wenn nichts unternommen wird, gelingt dieser Krankheit, was die Armeen von Quaid nicht geschafft haben.
 $LINE_COLISEUM_2_INTRO_40_CHAR	OZIMAL
-$LINE_COLISEUM_2_INTRO_40_TEXT	Nun, solange panische Ashen ihre Infizierten weiterhin hier ins Exil schicken, bleiben wir F�rsten der Grube im Gesch�ft.
+$LINE_COLISEUM_2_INTRO_40_TEXT	Nun, solange panische Ashen ihre Infizierten weiterhin hier ins Exil schicken, bleiben wir Fürsten der Grube im Geschäft.
 $LINE_COLISEUM_2_INTRO_50_CHAR	OZIMAL
 $LINE_COLISEUM_2_INTRO_50_TEXT	Die Seuchen-Monstrositäten sind ziemlich wertvoll für denjenigen, der sie zu nutzen weiß, nicht wahr?
 $LINE_COLISEUM_2_INTRO_60_CHAR	MANN IN ROT
 $LINE_COLISEUM_2_INTRO_60_TEXT	Genug geplaudert. Wo ist dieses Mädchen?
 $LINE_COLISEUM_2_INTRO_70_CHAR	OZIMAL
-$LINE_COLISEUM_2_INTRO_70_TEXT	Da dr�ben. Ich denke, Ihr werdet ihre F�higkeiten sehr... interessant finden.
+$LINE_COLISEUM_2_INTRO_70_TEXT	Da drüben. Ich denke, Ihr werdet ihre Fähigkeiten sehr... interessant finden.
 $LINE_COLISEUM_2_INTRO_80_CHAR	MANN IN ROT
 $LINE_COLISEUM_2_INTRO_80_TEXT	Das werden wir sehen.
 $LINE_COLISEUM_2_INTRO_90_CHAR	OZIMAL
@@ -325,7 +325,7 @@ $LINE_RIVER_INTRO_50_TEXT	Zeit für kranke selbstmörderische Rage!!
 $LINE_RIVER_INTRO_60_CHAR	$MCG
 $LINE_RIVER_INTRO_60_TEXT	Ich glaube, ich bin auf der richtigen Spur...
 $LINE_RIVER_INTRO_70_CHAR	$BER
-$LINE_RIVER_INTRO_70_TEXT	So wie, wenn du alles, was sich bewegt, abschlachten und dann durch die herabregnenden Innereien tanzen willst, als w�ren sie Konfetti auf der besten Geburtstagsparty aller Zeiten?
+$LINE_RIVER_INTRO_70_TEXT	So wie, wenn du alles, was sich bewegt, abschlachten und dann durch die herabregnenden Innereien tanzen willst, als wären sie Konfetti auf der besten Geburtstagsparty aller Zeiten?
 $SCENE_RIVER_OUTRO_TITLE	Auf der Flucht
 $NARR_RIVER_OUTRO_00_TEXT	AKT II
 $NARR_RIVER_OUTRO_00_SUB_TEXT	*Ich spucke dem Verräter, dem Mörder von Ehre, vor die Füße.$NMöge er im eigenen Blut ertrinken.$NMögen seine Eingeweide im Boden verrotten.$NMöge ewiger Frost seine Knochen bedecken.
@@ -335,7 +335,7 @@ $LINE_RIVER_OUTRO_00_TEXT	Wer ist für Runde zwei bereit?
 $LINE_RIVER_OUTRO_10_CHAR	$BER
 $LINE_RIVER_OUTRO_10_TEXT	Ich werde eure Gesichter abreißen und eure Schädel als Behälter für DEKORATIVE PFLANZEN BENUTZEN!
 $LINE_RIVER_OUTRO_20_CHAR	$MCG
-$LINE_RIVER_OUTRO_20_TEXT	*$BER, sie sind alle tot. ...Und au�erdem w�rden alle unsere Zimmerpflanzen nach toten Leuten stinken.
+$LINE_RIVER_OUTRO_20_TEXT	*$BER, sie sind alle tot. ...Und außerdem würden alle unsere Zimmerpflanzen nach toten Leuten stinken.
 $LINE_RIVER_OUTRO_30_CHAR	$BER
 $LINE_RIVER_OUTRO_30_TEXT	Oh.
 $LINE_RIVER_OUTRO_40_CHAR	$BER
@@ -357,7 +357,7 @@ $LINE_RIVER_OUTRO_110_TEXT	Nein, ich meine nicht den Clown, ich meine den komisc
 $LINE_RIVER_OUTRO_120_CHAR	$MCG
 $LINE_RIVER_OUTRO_120_TEXT	Wenn er ein Mönch des Ash-Tempels ist, müssen wir uns keine Sorgen machen.
 $LINE_RIVER_OUTRO_130_CHAR	$RAN
-$LINE_RIVER_OUTRO_130_TEXT	Glaubst du etwa, dein Tempel hat sich nie die H�nde schmutzig gemacht?
+$LINE_RIVER_OUTRO_130_TEXT	Glaubst du etwa, dein Tempel hat sich nie die Hände schmutzig gemacht?
 $LINE_RIVER_OUTRO_140_CHAR	$MCG
 $LINE_RIVER_OUTRO_140_TEXT	Hey, du musst nicht mitkommen, wenn du ihm nicht traust.
 $LINE_RIVER_OUTRO_150_CHAR	$RAN
@@ -455,7 +455,7 @@ $LINE_CARAVAN_TOWN_INTRO_20_TEXT	Schaut sie euch an!
 $LINE_CARAVAN_TOWN_INTRO_30_CHAR	$BER
 $LINE_CARAVAN_TOWN_INTRO_30_TEXT	Ich nenne den Großen Blinky und den Kleinen hier Mister Zahn.
 $LINE_CARAVAN_TOWN_INTRO_40_CHAR	$MCG
-$LINE_CARAVAN_TOWN_INTRO_40_TEXT	*Das ist... ernsthaft verst�rend, $BER...
+$LINE_CARAVAN_TOWN_INTRO_40_TEXT	*Das ist... ernsthaft verstörend, $BER...
 $LINE_CARAVAN_TOWN_INTRO_50_CHAR	$RAN
 $LINE_CARAVAN_TOWN_INTRO_50_TEXT	*$MCG, dort ist eine kleine Nomaden-Karawane, die uns Vorräte anbietet - natürlich nur, wenn der Preis stimmt.
 $LINE_CARAVAN_TOWN_INTRO_60_CHAR	$RAN
@@ -560,7 +560,7 @@ $LINE_MONASTERY_SIEGE_OUTRO_20_TEXT	Es ist nicht vorbei, Freund.
 $LINE_MONASTERY_SIEGE_OUTRO_30_CHAR	$MCG
 $LINE_MONASTERY_SIEGE_OUTRO_30_TEXT	Was war das?
 $LINE_MONASTERY_SIEGE_OUTRO_40_CHAR	$HEA
-$LINE_MONASTERY_SIEGE_OUTRO_40_TEXT	Jetzt erledigen deine toten Diener auch das Sprechen f�r dich und nicht nur das K�mpfen?
+$LINE_MONASTERY_SIEGE_OUTRO_40_TEXT	Jetzt erledigen deine toten Diener auch das Sprechen für dich und nicht nur das Kämpfen?
 $LINE_MONASTERY_SIEGE_OUTRO_50_CHAR	MANN IN ROT
 $LINE_MONASTERY_SIEGE_OUTRO_50_TEXT	Jetzt siehst du, dass ich nicht aufgehalten werden kann.
 $LINE_MONASTERY_SIEGE_OUTRO_60_CHAR	MANN IN ROT
@@ -570,7 +570,7 @@ $LINE_MONASTERY_SIEGE_OUTRO_70_TEXT	Zelemir, der Mann, der du einst warst -
 $LINE_MONASTERY_SIEGE_OUTRO_80_CHAR	ZELEMIR
 $LINE_MONASTERY_SIEGE_OUTRO_80_TEXT	<LQ>Mann<RQ>, sagst du?
 $LINE_MONASTERY_SIEGE_OUTRO_90_CHAR	ZELEMIR
-$LINE_MONASTERY_SIEGE_OUTRO_90_TEXT	Was wei�t DU schon davon, ein <LQ>Mann<RQ> zu sein? Du, der du dem Ende der Welt hinter M�nchskutten und Klostermauern versteckt zusiehst!
+$LINE_MONASTERY_SIEGE_OUTRO_90_TEXT	Was weißt DU schon davon, ein <LQ>Mann<RQ> zu sein? Du, der du dem Ende der Welt hinter Mönchskutten und Klostermauern versteckt zusiehst!
 $LINE_MONASTERY_SIEGE_OUTRO_100_CHAR	ZELEMIR
 $LINE_MONASTERY_SIEGE_OUTRO_100_TEXT	Du würdest deine Hände in diesem Blutbad unbefleckt lassen?
 $LINE_MONASTERY_SIEGE_OUTRO_110_CHAR	ZELEMIR
@@ -712,7 +712,7 @@ $LINE_3_2_OUTRO_80_TEXT	Wir diskutierten, ähm, dieses und jenes ...
 $LINE_3_2_OUTRO_90_CHAR	$MAG
 $LINE_3_2_OUTRO_90_TEXT	Das ist gut. Du weißt, was man sagt:
 $LINE_3_2_OUTRO_100_CHAR	$MAG
-$LINE_3_2_OUTRO_100_TEXT	<LQ>L�stere nicht �ber jemanden, der dir nachts die Kehle aufschlitzen k�nnte.<RQ>
+$LINE_3_2_OUTRO_100_TEXT	<LQ>Lästere nicht über jemanden, der dir nachts die Kehle aufschlitzen könnte.<RQ>
 $LINE_3_2_OUTRO_110_CHAR	$MCG
 $LINE_3_2_OUTRO_110_TEXT	Die Redewendung ist mir nicht vertraut ... wer ... wer sagt sowas?
 $LINE_3_2_OUTRO_120_CHAR	$MAG
@@ -722,11 +722,11 @@ $LINE_3_2_OUTRO_130_TEXT	Denn jene, denen das widerfährt, haben eh nicht viel z
 $LINE_3_2_OUTRO_140_CHAR	$MAG
 $LINE_3_2_OUTRO_140_TEXT	Eher so wie <LQ>Gurgel, gurgel, gurgel.<RQ>
 $LINE_3_2_OUTRO_150_CHAR	$MAG
-$LINE_3_2_OUTRO_150_TEXT	Und dann sagst du: <LQ>War das ein Ratschlag? Ich wei� nicht. Kannst du das noch mal lauter wiederholen?<RQ>
+$LINE_3_2_OUTRO_150_TEXT	Und dann sagst du: <LQ>War das ein Ratschlag? Ich weiß nicht. Kannst du das noch mal lauter wiederholen?<RQ>
 $LINE_3_2_OUTRO_160_CHAR	$MCG
 $LINE_3_2_OUTRO_160_TEXT	... Ich bin wirklich froh, dass wir Freunde sind.
 $LINE_3_2_OUTRO_170_CHAR	$MAG
-$LINE_3_2_OUTRO_170_TEXT	Ich auch! Freunde sind toll! Zum Beispiel, wenn du jemandem die Kehle im Schlaf aufschlitzen m�chtest, kannst du sagen: <LQ>Hey Freund, kannst du die Person eben festhalten?<RQ>
+$LINE_3_2_OUTRO_170_TEXT	Ich auch! Freunde sind toll! Zum Beispiel, wenn du jemandem die Kehle im Schlaf aufschlitzen möchtest, kannst du sagen: <LQ>Hey Freund, kannst du die Person eben festhalten?<RQ>
 $LINE_3_2_OUTRO_180_CHAR	$MCG
 $LINE_3_2_OUTRO_180_TEXT	... ALSO!
 $LINE_3_2_OUTRO_190_CHAR	$MCG
@@ -851,7 +851,7 @@ $NARR_3_3_OUTRO_00_TEXT	AKT IV
 $NARR_3_3_OUTRO_00_SUB_TEXT	*Ich kann nicht sagen, wie lange ich an dem Ort unter der Erde war -$NWochen, Monate vielleicht, ohne Sonne,$Njeden Moment mit der Angst vor der sich windenden Schwärze und den Dingen, die sich in ihr bewegten, lebend.
 $NARR_3_3_OUTRO_00_SUB_SUB_TEXT	*$N$N$N$N$N– aus den gesammelten Geschichten Klest Kadas, dem Nomadenabenteurer
 $LINE_3_3_OUTRO_00_CHAR	$BER
-$LINE_3_3_OUTRO_00_TEXT	*Ja! Sp�rt den Zorn von $BER! Flieht vor meiner rauen aber doch irgendwie verf�hrerischen und sinnlichen Gro�artigkeit!
+$LINE_3_3_OUTRO_00_TEXT	*Ja! Spürt den Zorn von $BER! Flieht vor meiner rauen aber doch irgendwie verführerischen und sinnlichen Großartigkeit!
 $LINE_3_3_OUTRO_10_CHAR	$BER
 $LINE_3_3_OUTRO_10_TEXT	*Flieht solange ihr noch könnt, ihr armseligen Schufte! Ihr plappernden, scheußlichen Taugenichtse! Ihr ... Ihr ...weibischen Paviane!
 $LINE_3_3_OUTRO_20_CHAR	$HEA
@@ -969,9 +969,9 @@ $LINE_3_5_OUTRO_90_TEXT	Mein Schwert hört auf Euren Befehl, in jeder Eurer Unte
 $LINE_3_5_OUTRO_100_CHAR	$KNI
 $LINE_3_5_OUTRO_100_TEXT	Ich meine, in einem vernünftigen Rahmen.
 $LINE_3_5_OUTRO_110_CHAR	$KNI
-$LINE_3_5_OUTRO_110_TEXT	Nichts im Sinne von <LQ>Steh auf einem Bein und sing das Liebeskummerlamalied r�ckw�rts im Falsett!<RQ>
+$LINE_3_5_OUTRO_110_TEXT	Nichts im Sinne von <LQ>Steh auf einem Bein und sing das Liebeskummerlamalied rückwärts im Falsett!<RQ>
 $LINE_3_5_OUTRO_120_CHAR	$KNI
-$LINE_3_5_OUTRO_120_TEXT	Ihr w�rt erstaunt, was f�r verr�ckte Ideen Leute haben, wenn sie <LQ>Lebensschuld<RQ> h�ren.
+$LINE_3_5_OUTRO_120_TEXT	Ihr wärt erstaunt, was für verrückte Ideen Leute haben, wenn sie <LQ>Lebensschuld<RQ> hören.
 $LINE_3_5_OUTRO_130_CHAR	$MCG
 $LINE_3_5_OUTRO_130_TEXT	Das <LQ>Liebeskummerlamalied?<RQ>
 $LINE_3_5_OUTRO_140_CHAR	$KNI
@@ -1128,7 +1128,7 @@ $LINE_SIDEQUEST_5_OUTRO_220_TEXT	Mehr als das. Sie konnte verschwinden und an ei
 $LINE_SIDEQUEST_5_OUTRO_230_CHAR	$MCG
 $LINE_SIDEQUEST_5_OUTRO_230_TEXT	Wenn ich das könnte, würde ich bestimmt nicht in der Grube herumhängen.
 $LINE_SIDEQUEST_5_OUTRO_240_CHAR	$KNI
-$LINE_SIDEQUEST_5_OUTRO_240_TEXT	Ich glaube, sie sucht nach etwas. Als wir in den seltsamen Ruinen auftauchten, erz�hlte sie etwas von wegen <LQ>es ist noch nicht Zeit<RQ>.
+$LINE_SIDEQUEST_5_OUTRO_240_TEXT	Ich glaube, sie sucht nach etwas. Als wir in den seltsamen Ruinen auftauchten, erzählte sie etwas von wegen <LQ>es ist noch nicht Zeit<RQ>.
 $LINE_SIDEQUEST_5_OUTRO_250_CHAR	$KNI
 $LINE_SIDEQUEST_5_OUTRO_250_TEXT	Außerdem trug sie etwas.
 $LINE_SIDEQUEST_5_OUTRO_260_CHAR	$KNI
@@ -1142,7 +1142,7 @@ $LINE_SIDEQUEST_5_OUTRO_290_TEXT	Es ähnelte ein klein wenig Nomadenwaffen, die 
 $LINE_SIDEQUEST_5_OUTRO_300_CHAR	$MCG
 $LINE_SIDEQUEST_5_OUTRO_300_TEXT	... Ich habe in der Bibliothek Skizzen von solchen Dingern gesehen ... Es ist uralt…
 $LINE_SIDEQUEST_5_OUTRO_310_CHAR	$MCG
-$LINE_SIDEQUEST_5_OUTRO_310_TEXT	Wer auch immer sie ist, sie verf�gt �ber eine be�ngstigende Menge an Wissen.
+$LINE_SIDEQUEST_5_OUTRO_310_TEXT	Wer auch immer sie ist, sie verfügt über eine beängstigende Menge an Wissen.
 $LINE_SIDEQUEST_5_OUTRO_320_CHAR	$KNI
 $LINE_SIDEQUEST_5_OUTRO_320_TEXT	Wir sollten uns von jetzt an vor ihr in Acht nehmen.
 $LINE_SIDEQUEST_5_OUTRO_330_CHAR	$MCG
@@ -1382,9 +1382,9 @@ $LINE_3_9_INTRO_20_TEXT	Was denkst du passiert, wenn wir diese magischen Schafe,
 $LINE_3_9_INTRO_30_CHAR	$MCG
 $LINE_3_9_INTRO_30_TEXT	Ich hab nur gesagt, was mir in den Sinn kam.
 $LINE_3_9_INTRO_40_CHAR	$RAN
-$LINE_3_9_INTRO_40_TEXT	Und das erste, was dir einf�llt, ist <LQ>Schafe?<RQ> Sieht das hier etwa nach einer Weide aus?
+$LINE_3_9_INTRO_40_TEXT	Und das erste, was dir einfällt, ist <LQ>Schafe?<RQ> Sieht das hier etwa nach einer Weide aus?
 $LINE_3_9_INTRO_50_CHAR	$MCG
-$LINE_3_9_INTRO_50_TEXT	Nein, zuerst kam mir in den Sinn <LQ>Ja, nimm das nervt�tende d�rre M�dchen mit dem schwarzen Haar, das nie die Klappe h�lt.<RQ>
+$LINE_3_9_INTRO_50_TEXT	Nein, zuerst kam mir in den Sinn <LQ>Ja, nimm das nervtötende dürre Mädchen mit dem schwarzen Haar, das nie die Klappe hält.<RQ>
 $LINE_3_9_INTRO_60_CHAR	$RAN
 $LINE_3_9_INTRO_60_TEXT	Was kann nichts für sich behalten, ich oder mein Haar?
 $LINE_3_9_INTRO_70_CHAR	$MCG
@@ -1448,7 +1448,7 @@ $SCENE_DRAGON_LAIR_INTRO_TITLE	Drachenhort
 $LINE_DRAGON_LAIR_INTRO_00_CHAR	$DRA
 $LINE_DRAGON_LAIR_INTRO_00_TEXT	Über die Jahre hinweg haben wir viele Waffen und Rüstungen der Sterblichen angehäuft.
 $LINE_DRAGON_LAIR_INTRO_10_CHAR	$DRA
-$LINE_DRAGON_LAIR_INTRO_10_TEXT	Wir k�nnen sie nicht benutzen, aber sie haben einen gewissen... Glanz. Wir m�gen gl�nzende Dinge.
+$LINE_DRAGON_LAIR_INTRO_10_TEXT	Wir können sie nicht benutzen, aber sie haben einen gewissen... Glanz. Wir mögen glänzende Dinge.
 $LINE_DRAGON_LAIR_INTRO_20_CHAR	$DRA
 $LINE_DRAGON_LAIR_INTRO_20_TEXT	Ich bin sicher, eine Truppe Krieger wie die Eure könnte sie sehr gut nutzen!
 $LINE_DRAGON_LAIR_INTRO_30_CHAR	$DRA
@@ -1493,7 +1493,7 @@ $LINE_DRAGON_LAIR_OUTRO_120_TEXT	Er bemerkte es nicht einmal. So verbrachten wir
 $LINE_DRAGON_LAIR_OUTRO_130_CHAR	$HEA
 $LINE_DRAGON_LAIR_OUTRO_130_TEXT	Zur Morgendämmerung des dritten Tages blinzelte er drei Mal und stand auf.
 $LINE_DRAGON_LAIR_OUTRO_140_CHAR	$HEA
-$LINE_DRAGON_LAIR_OUTRO_140_TEXT	<LQ>Unsere Probleme sind gel�st<RQ>, sagte er.
+$LINE_DRAGON_LAIR_OUTRO_140_TEXT	<LQ>Unsere Probleme sind gelöst<RQ>, sagte er.
 $LINE_DRAGON_LAIR_OUTRO_150_CHAR	$HEA
 $LINE_DRAGON_LAIR_OUTRO_150_TEXT	Als wir zu unserem Lager zurückkehrten, war die feindliche Streitmacht gänzlich in die Flucht geschlagen.
 $LINE_DRAGON_LAIR_OUTRO_160_CHAR	$HEA
@@ -1544,11 +1544,11 @@ $LINE_SIDEQUEST_6_GET_20_TEXT	Ich möchte nicht deine Wahl an Verbündeten beurt
 $LINE_SIDEQUEST_6_GET_30_CHAR	$MCG
 $LINE_SIDEQUEST_6_GET_30_TEXT	*$MAG ist nicht wirklich so schlimm, sobald du über ihren mörderischen Wahnsinn hinweg siehst.
 $LINE_SIDEQUEST_6_GET_40_CHAR	$KNI
-$LINE_SIDEQUEST_6_GET_40_TEXT	Nur, dass es bei ihr ausschlie�lich <LQ>m�rderischen Wahnsinn<RQ> gibt.
+$LINE_SIDEQUEST_6_GET_40_TEXT	Nur, dass es bei ihr ausschließlich <LQ>mörderischen Wahnsinn<RQ> gibt.
 $LINE_SIDEQUEST_6_GET_50_CHAR	$MCG
 $LINE_SIDEQUEST_6_GET_50_TEXT	Du solltest mal versuchen, mit ihr zu reden.
 $LINE_SIDEQUEST_6_GET_60_CHAR	$KNI
-$LINE_SIDEQUEST_6_GET_60_TEXT	Ja, ein ehemaliger W�rter und eine ehemalige Gef�ngnisinsassin sind ideal dazu geeignet, allerbeste Kumpel zu werden.
+$LINE_SIDEQUEST_6_GET_60_TEXT	Ja, ein ehemaliger Wärter und eine ehemalige Gefängnisinsassin sind ideal dazu geeignet, allerbeste Kumpel zu werden.
 $LINE_SIDEQUEST_6_GET_70_CHAR	$KNI
 $LINE_SIDEQUEST_6_GET_70_TEXT	Und dann nutzen wir die Kraft der Freundschaft, schnappen uns einen Regenbogen und reiten auf ihm aus der Grube.
 $LINE_SIDEQUEST_6_GET_80_CHAR	$MCG
@@ -1560,7 +1560,7 @@ $LINE_SIDEQUEST_6_GET_100_TEXT	*$MAG hat das rausgefunden und ist danach etwas .
 $LINE_SIDEQUEST_6_GET_110_CHAR	$KNI
 $LINE_SIDEQUEST_6_GET_110_TEXT	Du bist eine Bibliothekarin - gibt es ein Adjektiv, das Folgendes bedeutet:
 $LINE_SIDEQUEST_6_GET_120_CHAR	$KNI
-$LINE_SIDEQUEST_6_GET_120_TEXT	<LQ>Hat die hauchd�nne Maske der Normalit�t abgeworfen, um den dahinter verborgenen Topf kochender Wahnsinnssuppe zu enth�llen?<RQ>
+$LINE_SIDEQUEST_6_GET_120_TEXT	<LQ>Hat die hauchdünne Maske der Normalität abgeworfen, um den dahinter verborgenen Topf kochender Wahnsinnssuppe zu enthüllen?<RQ>
 $LINE_SIDEQUEST_6_GET_130_CHAR	$BER
 $LINE_SIDEQUEST_6_GET_130_TEXT	*$MCG!
 $LINE_SIDEQUEST_6_GET_140_CHAR	$MCG
@@ -1623,11 +1623,11 @@ $LINE_SIDEQUEST_6_INTRO_130_TEXT	Oh, und du dienst der Flamme, indem du dafür s
 $LINE_SIDEQUEST_6_INTRO_140_CHAR	$MCG
 $LINE_SIDEQUEST_6_INTRO_140_TEXT	Möchtest du dich am Jüngsten Tag verteidigen wollen mit:
 $LINE_SIDEQUEST_6_INTRO_150_CHAR	$MCG
-$LINE_SIDEQUEST_6_INTRO_150_TEXT	<LQ>Ich f�rchtete mich vor meiner Aufgabe und verachtete die Werkzeuge, die ihr mir gegeben habt. Also beschloss ich, zu sterben.<RQ>
+$LINE_SIDEQUEST_6_INTRO_150_TEXT	<LQ>Ich fürchtete mich vor meiner Aufgabe und verachtete die Werkzeuge, die ihr mir gegeben habt. Also beschloss ich, zu sterben.<RQ>
 $LINE_SIDEQUEST_6_INTRO_160_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_160_TEXT	Das ist nicht wahr!
 $LINE_SIDEQUEST_6_INTRO_170_CHAR	$MCG
-$LINE_SIDEQUEST_6_INTRO_170_TEXT	Wirklich? Denn f�r mich sieht das ganz so aus. Auf deinem Grabe wird <LQ>Sie hatte zu viel Angst, ihr K�nigreich wieder aufzubauen und schloss sich den Besiegten an<RQ> stehen.
+$LINE_SIDEQUEST_6_INTRO_170_TEXT	Wirklich? Denn für mich sieht das ganz so aus. Auf deinem Grabe wird <LQ>Sie hatte zu viel Angst, ihr Königreich wieder aufzubauen und schloss sich den Besiegten an<RQ> stehen.
 $LINE_SIDEQUEST_6_INTRO_180_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_180_TEXT	DAS IST NICHT WAHR!
 $LINE_SIDEQUEST_6_INTRO_190_CHAR	$MCG
@@ -1725,7 +1725,7 @@ $LINE_3_10_INTRO_30_TEXT	Nachfahren ... Blut ... der Erstgeborenen ...
 $LINE_3_10_INTRO_40_CHAR	$HEA
 $LINE_3_10_INTRO_40_TEXT	Wir brachen ein Siegel, das durch das Blut unserer Ahnen geschaffen wurde.
 $LINE_3_10_INTRO_50_CHAR	$HEA
-$LINE_3_10_INTRO_50_TEXT	Dieses <LQ>Blutsiegel<RQ> kann nur vom Blut jener ge�ffnet werden, die es erschaffen haben -
+$LINE_3_10_INTRO_50_TEXT	Dieses <LQ>Blutsiegel<RQ> kann nur vom Blut jener geöffnet werden, die es erschaffen haben -
 $LINE_3_10_INTRO_60_CHAR	$MCG
 $LINE_3_10_INTRO_60_TEXT	Aber die sind alle schon lange tot.
 $LINE_3_10_INTRO_70_CHAR	$HEA
@@ -1737,19 +1737,19 @@ $LINE_3_10_INTRO_90_TEXT	*Ich bin mir nicht sicher, die Sprache wird besonders s
 $LINE_3_10_INTRO_100_CHAR	$MAG
 $LINE_3_10_INTRO_100_TEXT	Es ist viel älter als jegliches Quaid, das ich bisher gesehen habe.
 $LINE_3_10_INTRO_110_CHAR	$MAG
-$LINE_3_10_INTRO_110_TEXT	<LQ>... F�hrer der freien Menschen... vereinigt... Feld eines gro�en Kampfes/Konfliktes...<RQ>
+$LINE_3_10_INTRO_110_TEXT	<LQ>... Führer der freien Menschen... vereinigt... Feld eines großen Kampfes/Konfliktes...<RQ>
 $LINE_3_10_INTRO_120_CHAR	$MAG
-$LINE_3_10_INTRO_120_TEXT	<LQ>Der Gro�e K�nig war gefallen<RQ> - das d�rfte dann der Quaid-K�nig sein.
+$LINE_3_10_INTRO_120_TEXT	<LQ>Der Große König war gefallen<RQ> - das dürfte dann der Quaid-König sein.
 $LINE_3_10_INTRO_130_CHAR	$MAG
-$LINE_3_10_INTRO_130_TEXT	<LQ>...gefallen, aber seine Verb�ndeten...<RQ>
+$LINE_3_10_INTRO_130_TEXT	<LQ>...gefallen, aber seine Verbündeten...<RQ>
 $LINE_3_10_INTRO_140_CHAR	$MAG
 $LINE_3_10_INTRO_140_TEXT	<LQ>Bannten die Boshaftigkeit... durch Opfer gebunden... Lord Ashanti, sein treuer Vezir, Komnat Kozar...<RQ>
 $LINE_3_10_INTRO_150_CHAR	$MAG
-$LINE_3_10_INTRO_150_TEXT	<LQ>Und ein weiterer, der in der Zeit gro�er Not hervortrat... Fu�soldat...<RQ>
+$LINE_3_10_INTRO_150_TEXT	<LQ>Und ein weiterer, der in der Zeit großer Not hervortrat... Fußsoldat...<RQ>
 $LINE_3_10_INTRO_160_CHAR	$MAG
-$LINE_3_10_INTRO_160_TEXT	<LQ>Aus der Familie Nefir, nun Herren der k�niglichen ... Sammlung?<RQ>
+$LINE_3_10_INTRO_160_TEXT	<LQ>Aus der Familie Nefir, nun Herren der königlichen ... Sammlung?<RQ>
 $LINE_3_10_INTRO_170_CHAR	$MAG
-$LINE_3_10_INTRO_170_TEXT	<LQ>Diese drei vergossen ihr Blut, um das B�se zu verbannen...<RQ>
+$LINE_3_10_INTRO_170_TEXT	<LQ>Diese drei vergossen ihr Blut, um das Böse zu verbannen...<RQ>
 $LINE_3_10_INTRO_180_CHAR	$MAG
 $LINE_3_10_INTRO_180_TEXT	<LQ>Eztli-Tenoch<RQ>
 $LINE_3_10_INTRO_190_CHAR	$MCG
@@ -1806,7 +1806,7 @@ $LINE_3_10_OUTRO_30_TEXT	.... Ich erinnere mich, meinen Urgroßvater dort besuch
 $LINE_3_10_OUTRO_40_CHAR	$MCG
 $LINE_3_10_OUTRO_40_TEXT	Soweit ich weiß, war meine Familie immer dort.
 $LINE_3_10_OUTRO_50_CHAR	$MCG
-$LINE_3_10_OUTRO_50_TEXT	Unser Familienname bedeutet wortw�rtlich <LQ>Aus der Bibliothek.<RQ>
+$LINE_3_10_OUTRO_50_TEXT	Unser Familienname bedeutet wortwörtlich <LQ>Aus der Bibliothek.<RQ>
 $LINE_3_10_OUTRO_60_CHAR	$HEA
 $LINE_3_10_OUTRO_60_TEXT	Hier steht, dass der Fußsoldat -
 $LINE_3_10_OUTRO_70_CHAR	$BER
@@ -2006,7 +2006,7 @@ $LINE_3_12_OUTRO_140_TEXT	Ich weiß nicht, ob es du es irgendwie nutzen kannst .
 $LINE_3_12_OUTRO_150_CHAR	$KNI
 $LINE_3_12_OUTRO_150_TEXT	Der weiseste Schwertkämpfer, den ich je kannte, meinte einst zu mir:
 $LINE_3_12_OUTRO_160_CHAR	$KNI
-$LINE_3_12_OUTRO_160_TEXT	<LQ>Schlage nicht mit der Kraft des Arms, sondern mit der Kraft des Geistes. Wenn Geist und K�rper dann eins sind, wirf deine Gegner von dir fort.<RQ>
+$LINE_3_12_OUTRO_160_TEXT	<LQ>Schlage nicht mit der Kraft des Arms, sondern mit der Kraft des Geistes. Wenn Geist und Körper dann eins sind, wirf deine Gegner von dir fort.<RQ>
 $LINE_3_12_OUTRO_170_CHAR	$KNI
 $LINE_3_12_OUTRO_170_TEXT	Es hat Jahre gedauert, bis ich es verstand.
 $LINE_3_12_OUTRO_180_CHAR	$KNI
@@ -2241,11 +2241,11 @@ $LINE_4_3_INTRO_40_TEXT	Mein Thron!
 $LINE_4_3_INTRO_50_CHAR	$MCG
 $LINE_4_3_INTRO_50_TEXT	Das hier ist in altertümlichem Ash geschrieben.
 $LINE_4_3_INTRO_60_CHAR	$MCG
-$LINE_4_3_INTRO_60_TEXT	<LQ>...viele Leben hier... f�r die wenigen...<RQ>
+$LINE_4_3_INTRO_60_TEXT	<LQ>...viele Leben hier... für die wenigen...<RQ>
 $LINE_4_3_INTRO_70_CHAR	$MCG
-$LINE_4_3_INTRO_70_TEXT	<LQ>Der D�mon wurde niedergeschmettert... durch ein Opfer versiegelt...<RQ>
+$LINE_4_3_INTRO_70_TEXT	<LQ>Der Dämon wurde niedergeschmettert... durch ein Opfer versiegelt...<RQ>
 $LINE_4_3_INTRO_80_CHAR	$MCG
-$LINE_4_3_INTRO_80_TEXT	<LQ>...seine Stadt in Tr�mmern...<RQ>
+$LINE_4_3_INTRO_80_TEXT	<LQ>...seine Stadt in Trümmern...<RQ>
 $LINE_4_3_INTRO_90_CHAR	$RAN
 $LINE_4_3_INTRO_90_TEXT	*$MCG, wir werden gejagt.
 $LINE_4_3_INTRO_100_CHAR	$RAN
@@ -2280,11 +2280,11 @@ $LINE_4_3_OUTRO_50_TEXT	Lange Epochen gefangen mit keiner anderen Gesellschaft a
 $LINE_4_3_OUTRO_60_CHAR	$MCG
 $LINE_4_3_OUTRO_60_TEXT	Der ... goldene Mann ...
 $LINE_4_3_OUTRO_70_CHAR	EZTLI-TENOCH
-$LINE_4_3_OUTRO_70_TEXT	Verlassen... Doch nun... Die Erl�sung in deinem Blut und die Erl�sung in deiner Reichweite. Eine Dualit�t, die -
+$LINE_4_3_OUTRO_70_TEXT	Verlassen... Doch nun... Die Erlösung in deinem Blut und die Erlösung in deiner Reichweite. Eine Dualität, die -
 $LINE_4_3_OUTRO_80_CHAR	EZTLI-TENOCH
-$LINE_4_3_OUTRO_80_TEXT	Aber wie soll ich den Tod w�hlen? Wie...
+$LINE_4_3_OUTRO_80_TEXT	Aber wie soll ich den Tod wählen? Wie...
 $LINE_4_3_OUTRO_90_CHAR	EZTLI-TENOCH
-$LINE_4_3_OUTRO_90_TEXT	ICH KANN MEINE G�TTLICHKEIT NICHT HINTER MIR LASSEN!
+$LINE_4_3_OUTRO_90_TEXT	ICH KANN MEINE GÖTTLICHKEIT NICHT HINTER MIR LASSEN!
 $LINE_4_3_OUTRO_100_CHAR	$MCG
 $LINE_4_3_OUTRO_100_TEXT	VERSCHWINDE VON HIER!
 $LINE_4_3_OUTRO_110_CHAR	$MCG
@@ -2758,7 +2758,7 @@ $LINE_4_8_INTRO_40_TEXT	Mensch ... Ich wünsche, ich hätte einen tollen Kampfsc
 $LINE_4_8_INTRO_50_CHAR	$BER
 $LINE_4_8_INTRO_50_TEXT	<LQ>Wooaaaarrrrgh<RQ> klingt einfach nicht ausreichend.
 $LINE_4_8_INTRO_60_CHAR	$RAN
-$LINE_4_8_INTRO_60_TEXT	Ich wei� nicht, ich mochte <LQ>Wooaaaarrrrgh<RQ> irgendwie immer.
+$LINE_4_8_INTRO_60_TEXT	Ich weiß nicht, ich mochte <LQ>Wooaaaarrrrgh<RQ> irgendwie immer.
 $LINE_4_8_INTRO_70_CHAR	$RAN
 $LINE_4_8_INTRO_70_TEXT	Du solltest es behalten.
 $LINE_4_8_INTRO_80_CHAR	$BER
@@ -3113,13 +3113,13 @@ $LINE_ENDING_ZELEMIR_WOUNDED_90_TEXT	- machst es, denn die Dinge werden ... oh.
 $LINE_ENDING_ZELEMIR_WOUNDED_100_CHAR	$RAN
 $LINE_ENDING_ZELEMIR_WOUNDED_100_TEXT	*Gut gemacht, $MCG!
 $LINE_ENDING_ZELEMIR_WOUNDED_110_CHAR	$MCG
-$LINE_ENDING_ZELEMIR_WOUNDED_110_TEXT	Kennt sich hier irgendjemand aus mit... �h, K�rperteile wieder festmachen? Mein Arm f�hlt sich gerade so an, als w�rde er... sich von mir trennen wollen.
+$LINE_ENDING_ZELEMIR_WOUNDED_110_TEXT	Kennt sich hier irgendjemand aus mit... äh, Körperteile wieder festmachen? Mein Arm fühlt sich gerade so an, als würde er... sich von mir trennen wollen.
 $LINE_ENDING_ZELEMIR_WOUNDED_120_CHAR	$MAG
 $LINE_ENDING_ZELEMIR_WOUNDED_120_TEXT	Ohne Leid keine Ehre.
 $LINE_ENDING_ZELEMIR_WOUNDED_130_CHAR	$MAG
-$LINE_ENDING_ZELEMIR_WOUNDED_130_TEXT	...Das sollte erstmal reichen. Wir m�ssen es sp�ter richten und verbinden.
+$LINE_ENDING_ZELEMIR_WOUNDED_130_TEXT	...Das sollte erstmal reichen. Wir müssen es später richten und verbinden.
 $LINE_ENDING_ZELEMIR_WOUNDED_140_CHAR	$MAG
-$LINE_ENDING_ZELEMIR_WOUNDED_140_TEXT	Als ich behandelt wurde, sagte man mir, dass Schmerz... Schmerz unser Verlangen nach Perfektion ausdr�ckt...
+$LINE_ENDING_ZELEMIR_WOUNDED_140_TEXT	Als ich behandelt wurde, sagte man mir, dass Schmerz... Schmerz unser Verlangen nach Perfektion ausdrückt...
 $LINE_ENDING_ZELEMIR_WOUNDED_150_CHAR	$MAG
 $LINE_ENDING_ZELEMIR_WOUNDED_150_TEXT	...
 $LINE_ENDING_ZELEMIR_WOUNDED_160_CHAR	$MCG
@@ -3348,7 +3348,7 @@ $LINE_ENDING_ZELEMIR_UNSCATHED_90_TEXT	- machst es, denn die Dinge werden ... oh
 $LINE_ENDING_ZELEMIR_UNSCATHED_100_CHAR	$RAN
 $LINE_ENDING_ZELEMIR_UNSCATHED_100_TEXT	*Gut gemacht, $MCG!
 $LINE_ENDING_ZELEMIR_UNSCATHED_110_CHAR	$MCG
-$LINE_ENDING_ZELEMIR_UNSCATHED_110_TEXT	Kennt sich hier irgendjemand aus mit... �h, K�rperteile wieder festmachen? Mein Arm f�hlt sich gerade so an, als w�rde er... sich von mir trennen wollen.
+$LINE_ENDING_ZELEMIR_UNSCATHED_110_TEXT	Kennt sich hier irgendjemand aus mit... äh, Körperteile wieder festmachen? Mein Arm fühlt sich gerade so an, als würde er... sich von mir trennen wollen.
 $LINE_ENDING_ZELEMIR_UNSCATHED_120_CHAR	$MAG
 $LINE_ENDING_ZELEMIR_UNSCATHED_120_TEXT	Ach, komm schon. Das hab ich mit beiden Armen gemacht, als ich zehn war... Und ich hab den Kampf trotzdem mit einer Reihe von Tritten und einem in der Spitze meines Schuhs versteckten Messers gewonnen.
 $LINE_ENDING_ZELEMIR_UNSCATHED_130_CHAR	$MAG
@@ -3584,7 +3584,7 @@ $LINE_ENDING_ZELEMIR_UNSCATHED_1270_TEXT	Weißt du ...
 $LINE_ENDING_ZELEMIR_UNSCATHED_1280_CHAR	$KNI
 $LINE_ENDING_ZELEMIR_UNSCATHED_1280_TEXT	... Es wird   seltsam langweilig scheinen, ohne jemanden zu reisen, der uns auf Schritt und Tritt zu töten versucht.
 $LINE_ENDING_ZELEMIR_UNSCATHED_1290_CHAR	$MCG
-$LINE_ENDING_ZELEMIR_UNSCATHED_1290_TEXT	Nun, ich wette, dass dieses <LQ>Liebeskummerlamalied<RQ> uns helfen w�rde, die Zeit totzuschlagen ...
+$LINE_ENDING_ZELEMIR_UNSCATHED_1290_TEXT	Nun, ich wette, dass dieses <LQ>Liebeskummerlamalied<RQ> uns helfen würde, die Zeit totzuschlagen ...
 $LINE_ENDING_ZELEMIR_UNSCATHED_1300_CHAR	$KNI
 $LINE_ENDING_ZELEMIR_UNSCATHED_1300_TEXT	Netter Versuch, aber ich werde viel zu beschäftigt sein, nicht mehr in deiner Schuld zu stehen und damit nicht mehr so albernen Vorschlägen zuhören zu müssen.
 $LINE_ENDING_ZELEMIR_UNSCATHED_1310_CHAR	$MCG
@@ -3631,7 +3631,7 @@ $LINE_EPILOGUE_80_TEXT	Yo!
 $LINE_EPILOGUE_90_CHAR	$MCG
 $LINE_EPILOGUE_90_TEXT	*$BER? $RAN? Was macht ihr hier?
 $LINE_EPILOGUE_100_CHAR	$BER
-$LINE_EPILOGUE_100_TEXT	Nun, wie sich herausgestellt hat, war dieses <LQ>Auge des Steins<RQ>-Ding ein Riesenschw�chling. Hab ihn mit nur einem Schlag umgehauen.
+$LINE_EPILOGUE_100_TEXT	Nun, wie sich herausgestellt hat, war dieses <LQ>Auge des Steins<RQ>-Ding ein Riesenschwächling. Hab ihn mit nur einem Schlag umgehauen.
 $LINE_EPILOGUE_110_CHAR	$RAN
 $LINE_EPILOGUE_110_TEXT	Und dann hatte der auch nur fünf Köpfe!
 $LINE_EPILOGUE_120_CHAR	$BER
@@ -3641,7 +3641,7 @@ $LINE_EPILOGUE_130_TEXT	Jedenfalls haben wir einige Kultisten erledigt -
 $LINE_EPILOGUE_140_CHAR	$BER
 $LINE_EPILOGUE_140_TEXT	Mensch, diese Leute sind jetzt einfach nur noch traurig!
 $LINE_EPILOGUE_150_CHAR	$RAN
-$LINE_EPILOGUE_150_TEXT	- aber dann haben wir von diesem Juwel <LQ>Drachenauge<RQ> geh�rt. Irgendein Oger h�lt es in einem Turm voller gigantischer Schlangen unter Verschluss.
+$LINE_EPILOGUE_150_TEXT	- aber dann haben wir von diesem Juwel <LQ>Drachenauge<RQ> gehört. Irgendein Oger hält es in einem Turm voller gigantischer Schlangen unter Verschluss.
 $LINE_EPILOGUE_160_CHAR	$BER
 $LINE_EPILOGUE_160_TEXT	Und dann hat der Oger sieben -
 $LINE_EPILOGUE_170_CHAR	$RAN
@@ -3667,7 +3667,7 @@ $LINE_EPILOGUE_260_TEXT	Öhm, seine Majestät, der König.
 $LINE_EPILOGUE_270_CHAR	$RAN
 $LINE_EPILOGUE_270_TEXT	Ernsthaft, ihr wusstet das nicht?
 $LINE_EPILOGUE_280_CHAR	$BER
-$LINE_EPILOGUE_280_TEXT	Mann, ich bin echt froh, dass der Prinz vollj�hrig wird, bevor ich �bernehmen muss. Allein schon der Gedanke, ein Land zu regieren, l�sst meinen Kopf explodieren...
+$LINE_EPILOGUE_280_TEXT	Mann, ich bin echt froh, dass der Prinz volljährig wird, bevor ich übernehmen muss. Allein schon der Gedanke, ein Land zu regieren, lässt meinen Kopf explodieren...
 $LINE_EPILOGUE_290_CHAR	$RAN
 $LINE_EPILOGUE_290_TEXT	Erzählt ihnen nicht, in welche Richtung wir auf sind, ok?
 $LINE_EPILOGUE_300_CHAR	$BER
@@ -3745,7 +3745,7 @@ $LINE_SIDEQUEST_1_INTRO_00_TEXT	Oh schau, es ist das zombieverseuchte Gefängnis
 $LINE_SIDEQUEST_1_INTRO_10_CHAR	$RAN
 $LINE_SIDEQUEST_1_INTRO_10_TEXT	Ok, lass mich das verstehen: wir haben gerade unsere Hand aus dem Feuer genommen ...
 $LINE_SIDEQUEST_1_INTRO_20_CHAR	$RAN
-$LINE_SIDEQUEST_1_INTRO_20_TEXT	Und wir dann so <LQ>Oh schau, etwas Glitzerndes! Lasst uns unsere H�nde gleich wieder rein schieben!<RQ>
+$LINE_SIDEQUEST_1_INTRO_20_TEXT	Und wir dann so <LQ>Oh schau, etwas Glitzerndes! Lasst uns unsere Hände gleich wieder rein schieben!<RQ>
 $LINE_SIDEQUEST_1_INTRO_30_CHAR	$RAN
 $LINE_SIDEQUEST_1_INTRO_30_TEXT	Das ist vielleicht nicht dem Rest von euch klar geworden, aber–
 $LINE_SIDEQUEST_1_INTRO_40_CHAR	$MCG
@@ -3782,9 +3782,9 @@ $LINE_SIDEQUEST_1_OUTRO_30_TEXT	Oh ja, ich denk, das habt ihr gerade so gesagt.
 $LINE_SIDEQUEST_1_OUTRO_40_CHAR	HÄFTLING
 $LINE_SIDEQUEST_1_OUTRO_40_TEXT	Entschuldigung, verrückter Mann, aber was ist hier gerade passiert?
 $LINE_SIDEQUEST_1_OUTRO_50_CHAR	$BER
-$LINE_SIDEQUEST_1_OUTRO_50_TEXT	Sie wurden ausgel�scht! Sie meinten so <LQ>Yo, wir machen dich fertig!<RQ>
+$LINE_SIDEQUEST_1_OUTRO_50_TEXT	Sie wurden ausgelöscht! Sie meinten so <LQ>Yo, wir machen dich fertig!<RQ>
 $LINE_SIDEQUEST_1_OUTRO_60_CHAR	$BER
-$LINE_SIDEQUEST_1_OUTRO_60_TEXT	...und ich dann so <LQ>Das glaub ich aber nicht, scheu�liche Unholde!<RQ>
+$LINE_SIDEQUEST_1_OUTRO_60_TEXT	...und ich dann so <LQ>Das glaub ich aber nicht, scheußliche Unholde!<RQ>
 $LINE_SIDEQUEST_1_OUTRO_70_CHAR	$BER
 $LINE_SIDEQUEST_1_OUTRO_70_TEXT	Und dann machte mein Bizeps so <LQ>PATSCH! KRACH!<RQ> und -
 $LINE_SIDEQUEST_1_OUTRO_80_CHAR	$BER
@@ -3916,7 +3916,7 @@ $SCENE_SIDEQUEST_3_GET_TITLE	Verwandtschaft verpflichtet
 $LINE_SIDEQUEST_3_GET_00_CHAR	SCHWESTER
 $LINE_SIDEQUEST_3_GET_00_TEXT	Entschuldigen Sie bitte, aber stimmt es, dass Sie mit einem Mitglied des Geka-Stamms reisen?
 $LINE_SIDEQUEST_3_GET_10_CHAR	$MCG
-$LINE_SIDEQUEST_3_GET_10_TEXT	Tats�chlich mit mehreren, falls Sie <LQ>Ehrenmitglieder<RQ> mitz�hlen wollen.
+$LINE_SIDEQUEST_3_GET_10_TEXT	Tatsächlich mit mehreren, falls Sie <LQ>Ehrenmitglieder<RQ> mitzählen wollen.
 $LINE_SIDEQUEST_3_GET_20_CHAR	SCHWESTER
 $LINE_SIDEQUEST_3_GET_20_TEXT	Wir kümmern uns um eine sehr kranke Geka in unserem Kloster.
 $LINE_SIDEQUEST_3_GET_30_CHAR	SCHWESTER
@@ -4078,11 +4078,11 @@ $LINE_SIDEQUEST_3_OUTRO_350_TEXT	Der Trick ist, den Kopf noch eine Minute länge
 $LINE_SIDEQUEST_3_OUTRO_360_CHAR	$MAG
 $LINE_SIDEQUEST_3_OUTRO_360_TEXT	Sonst tauchen sie als Puddingmonster auf und du musst sie mit dem gebratenen Truthahn zu Tode prügeln.
 $LINE_SIDEQUEST_3_OUTRO_370_CHAR	$MAG
-$LINE_SIDEQUEST_3_OUTRO_370_TEXT	...Dann wird dein Papa sauer auf dich, weil du den Truthahn versaut hast und du sagst <LQ>Aber Papa, Meuchelm�rder!<RQ>
+$LINE_SIDEQUEST_3_OUTRO_370_TEXT	...Dann wird dein Papa sauer auf dich, weil du den Truthahn versaut hast und du sagst <LQ>Aber Papa, Meuchelmörder!<RQ>
 $LINE_SIDEQUEST_3_OUTRO_380_CHAR	$MAG
-$LINE_SIDEQUEST_3_OUTRO_380_TEXT	...und er so <LQ>Warum tr�gst du nicht das Schwert, das ich dir gegeben habe?!<RQ>
+$LINE_SIDEQUEST_3_OUTRO_380_TEXT	...und er so <LQ>Warum trägst du nicht das Schwert, das ich dir gegeben habe?!<RQ>
 $LINE_SIDEQUEST_3_OUTRO_390_CHAR	$MAG
-$LINE_SIDEQUEST_3_OUTRO_390_TEXT	Und du so <LQ>Die anderen M�dchen lachen mich aus<RQ> und er dann so <LQ>Dann schneide ihnen die K�pfe ab! Jetzt geh in dein Zimmer und �be Messerwerfen!<RQ>
+$LINE_SIDEQUEST_3_OUTRO_390_TEXT	Und du so <LQ>Die anderen Mädchen lachen mich aus<RQ> und er dann so <LQ>Dann schneide ihnen die Köpfe ab! Jetzt geh in dein Zimmer und übe Messerwerfen!<RQ>
 $LINE_SIDEQUEST_3_OUTRO_400_CHAR	$RAN
 $LINE_SIDEQUEST_3_OUTRO_400_TEXT	...
 $LINE_SIDEQUEST_3_OUTRO_410_CHAR	$MAG
@@ -4226,7 +4226,7 @@ $LINE_SIDEQUEST_7_INTRO_10_TEXT	Ach, bitte.
 $LINE_SIDEQUEST_7_INTRO_20_CHAR	$KNI
 $LINE_SIDEQUEST_7_INTRO_20_TEXT	Und bevor Ihr mir vortragt, dass ich damit leben muss, dass Ihr auf euch selbst aufpassen müsst, möchte ich klarstellen, dass meine Beweggründe rein selbstsüchtig sind.
 $LINE_SIDEQUEST_7_INTRO_30_CHAR	$MCG
-$LINE_SIDEQUEST_7_INTRO_30_TEXT	Ich wei� nicht, ob ich das Anbieten eines ganzen Lebens wegen einer Ehrenschuld als <LQ>selbsts�chtig<RQ> bezeichnen w�rde.
+$LINE_SIDEQUEST_7_INTRO_30_TEXT	Ich weiß nicht, ob ich das Anbieten eines ganzen Lebens wegen einer Ehrenschuld als <LQ>selbstsüchtig<RQ> bezeichnen würde.
 $LINE_SIDEQUEST_7_INTRO_40_CHAR	$KNI
 $LINE_SIDEQUEST_7_INTRO_40_TEXT	Ja, was denkt Ihr passiert, falls ich Euch sterben ließe?
 $LINE_SIDEQUEST_7_INTRO_50_CHAR	$MCG
@@ -4240,7 +4240,7 @@ $LINE_SIDEQUEST_7_INTRO_80_TEXT	Was?
 $LINE_SIDEQUEST_7_INTRO_90_CHAR	$MCG
 $LINE_SIDEQUEST_7_INTRO_90_TEXT	Liegt an der Rüstung. Jedenfalls glaube ich nicht, dass wir uns um etwas fürchten müssen. Es ist nur eine alte Schatzkammer.
 $LINE_SIDEQUEST_7_INTRO_100_CHAR	$MCG
-$LINE_SIDEQUEST_7_INTRO_100_TEXT	Das sind aber eine ganze Menge... Leichen. Dieses Mal scheinen sie allerdings wahrlich und wahrhaftig tot zu sein, was un�blich f�r uns ist.
+$LINE_SIDEQUEST_7_INTRO_100_TEXT	Das sind aber eine ganze Menge... Leichen. Dieses Mal scheinen sie allerdings wahrlich und wahrhaftig tot zu sein, was unüblich für uns ist.
 $LINE_SIDEQUEST_7_INTRO_110_CHAR	SELTSAME FRAU
 $LINE_SIDEQUEST_7_INTRO_110_TEXT	*$MCG Livbar. Ich hoffte, Ihr würdet kommen.
 $LINE_SIDEQUEST_7_INTRO_120_CHAR	$MCG
@@ -4264,7 +4264,7 @@ $LINE_SIDEQUEST_7_INTRO_200_TEXT	Der Feuermond, begehrenswert über allen Dingen
 $LINE_SIDEQUEST_7_INTRO_210_CHAR	TLETL-MEZTLI
 $LINE_SIDEQUEST_7_INTRO_210_TEXT	Nein ... um uns beide zu befreien.
 $LINE_SIDEQUEST_7_INTRO_220_CHAR	EZTLI-TENOCH
-$LINE_SIDEQUEST_7_INTRO_220_TEXT	Nein - Du sprichst von Unm�glichem.
+$LINE_SIDEQUEST_7_INTRO_220_TEXT	Nein - Du sprichst von Unmöglichem.
 $LINE_SIDEQUEST_7_INTRO_230_CHAR	TLETL-MEZTLI
 $LINE_SIDEQUEST_7_INTRO_230_TEXT	Das habe ich mir auch viele Jahre lang gesagt ... doch schau:
 $LINE_SIDEQUEST_7_INTRO_240_CHAR	TLETL-MEZTLI
@@ -4345,7 +4345,7 @@ $LINE_SIDEQUEST_7_OUTRO_290_TEXT	Du hast mich viel gekostet... mehr, als du dir 
 $LINE_SIDEQUEST_7_OUTRO_300_CHAR	EZTLI-TENOCH
 $LINE_SIDEQUEST_7_OUTRO_300_TEXT	*Mach dich bereit, $MCG.
 $LINE_SIDEQUEST_7_OUTRO_310_CHAR	EZTLI-TENOCH
-$LINE_SIDEQUEST_7_OUTRO_310_TEXT	Du sollst der Kanal des Gro�artigen werden... f�r die gesamte Menschheit.
+$LINE_SIDEQUEST_7_OUTRO_310_TEXT	Du sollst der Kanal des Großartigen werden... für die gesamte Menschheit.
 $LINE_SIDEQUEST_7_OUTRO_320_CHAR	$MCG
 $LINE_SIDEQUEST_7_OUTRO_320_TEXT	...
 $LINE_SIDEQUEST_7_OUTRO_330_CHAR	$MCG
@@ -4475,73 +4475,73 @@ $LINE_HERMIT_4_INTRO_160_TEXT	Ach ja, Verbesserungen!
 $LINE_4_1_INTRO_101_CHAR	BLUTIRRER KULTIST
 $LINE_4_1_INTRO_101_TEXT	Mach mich zu einem deiner Kinder!
 $LINE_4_3_OUTRO_61_CHAR	EZTLI-TENOCH
-$LINE_4_3_OUTRO_61_TEXT	Von meiner K�nigin verlassen
+$LINE_4_3_OUTRO_61_TEXT	Von meiner Königin verlassen
 $LINE_4_3_OUTRO_91_CHAR	EZTLI-TENOCH
 $LINE_4_3_OUTRO_91_TEXT	DU WIRST STERBEN!
-$LINE_ENDING_4_6_OUTRO_121_TEXT	Wenn ich die Augen schlie�e kann ich immer noch den Nachhall der zusammenst�rzenden Grube f�hlen und die Schreie der Opfer h�ren.
-$LINE_ENDING_4_6_OUTRO_122_TEXT	Zwei Monate sind vergangen, doch die Intensit�t dieser Empfindungen ist nach wie vor stark. Der Geschmack von Blut wird meinen Mund wohl nie mehr verlassen.
-$LINE_ENDING_4_6_OUTRO_123_TEXT	Nicht, dass ich das �berhaupt wollte.
-$LINE_ENDING_4_6_OUTRO_124_TEXT	In diesem d�steren Abenteuer wurde so viel Blut vergossen und ich, in meinem eigenen K�fig, konnte meins nicht zu ihrem beitragen.
+$LINE_ENDING_4_6_OUTRO_121_TEXT	Wenn ich die Augen schließe kann ich immer noch den Nachhall der zusammenstürzenden Grube fühlen und die Schreie der Opfer hören.
+$LINE_ENDING_4_6_OUTRO_122_TEXT	Zwei Monate sind vergangen, doch die Intensität dieser Empfindungen ist nach wie vor stark. Der Geschmack von Blut wird meinen Mund wohl nie mehr verlassen.
+$LINE_ENDING_4_6_OUTRO_123_TEXT	Nicht, dass ich das überhaupt wollte.
+$LINE_ENDING_4_6_OUTRO_124_TEXT	In diesem düsteren Abenteuer wurde so viel Blut vergossen und ich, in meinem eigenen Käfig, konnte meins nicht zu ihrem beitragen.
 $LINE_ENDING_4_6_OUTRO_125_TEXT	Meine Erinnerung ist meine Teilnahme. Solang ich dieses geliehene Leben habe, werde ich stets daran denken.
 $LINE_ENDING_4_6_OUTRO_126_TEXT	*$RAN hat ihren Fuchs beerdigt. Ich kann mir nicht vorstellen, was das für einen Nomaden bedeutet.
-$LINE_ENDING_4_6_OUTRO_127_TEXT	Ich h�tte sie gefragt, aber die akademische Neugierde, die mich f�r einen Gro�teil meines Lebens begleitet hat, scheint mich nicht mehr so zu ergreifen wie einst.
-$LINE_ENDING_4_6_OUTRO_128_TEXT	Am Ende ist es irrelevant. Eines Morgens war sie einfach verschwunden und das war ein Abschluss f�r unser geteiltes Abenteuer, so gut wie jeder andere.
+$LINE_ENDING_4_6_OUTRO_127_TEXT	Ich hätte sie gefragt, aber die akademische Neugierde, die mich für einen Großteil meines Lebens begleitet hat, scheint mich nicht mehr so zu ergreifen wie einst.
+$LINE_ENDING_4_6_OUTRO_128_TEXT	Am Ende ist es irrelevant. Eines Morgens war sie einfach verschwunden und das war ein Abschluss für unser geteiltes Abenteuer, so gut wie jeder andere.
 $LINE_ENDING_4_6_OUTRO_129_TEXT	*Ich glaube, $KNI wäre geblieben, wenn ich ihn darum gebeten hätte. Irgendwie schien mir das aber nicht angemessen zu sein.
-$LINE_ENDING_4_6_OUTRO_130_TEXT	Ich habe ihn entlassen, damit er sich um seine neuen Pflichten in unserer sich lagsam wieder im Aufbau befindlichen Welt k�mmern kann. Ich habe an diesem Ort keinen Nutzen f�r einen Leibw�chter.
-$LINE_ENDING_4_6_OUTRO_131_TEXT	Die Seuche ist vor�ber. Die Quaid sind fort.
-$LINE_ENDING_4_6_OUTRO_132_TEXT	Das einzige B�se ist das, welches wir selbst erschaffen.
+$LINE_ENDING_4_6_OUTRO_130_TEXT	Ich habe ihn entlassen, damit er sich um seine neuen Pflichten in unserer sich lagsam wieder im Aufbau befindlichen Welt kümmern kann. Ich habe an diesem Ort keinen Nutzen für einen Leibwächter.
+$LINE_ENDING_4_6_OUTRO_131_TEXT	Die Seuche ist vorüber. Die Quaid sind fort.
+$LINE_ENDING_4_6_OUTRO_132_TEXT	Das einzige Böse ist das, welches wir selbst erschaffen.
 $LINE_ENDING_4_6_OUTRO_133_TEXT	*-$MCG Yalkie Livbar
 $LINE_ENDING_ZELEMIR_UNSCATHED_121_CHAR	$MAG
 $LINE_ENDING_ZELEMIR_UNSCATHED_121_TEXT	Bumm! Schuhmesser, du Penner! Ich wette, das hast du nicht kommen gesehen!
 $LINE_ENDING_ZELEMIR_UNSCATHED_122_CHAR	$MAG
-$LINE_ENDING_ZELEMIR_UNSCATHED_122_TEXT	Oder irgendwas anderes! Ich meine... weil dir ein Kind mit einem Schuhmesser gerade die Aug�pfel rausgekickt hat.
+$LINE_ENDING_ZELEMIR_UNSCATHED_122_TEXT	Oder irgendwas anderes! Ich meine... weil dir ein Kind mit einem Schuhmesser gerade die Augäpfel rausgekickt hat.
 $LINE_ENDING_ZELEMIR_UNSCATHED_123_CHAR	$MAG
 $LINE_ENDING_ZELEMIR_UNSCATHED_123_TEXT	...
 $LINE_ENDING_ZELEMIR_UNSCATHED_124_CHAR	$MAG
 $LINE_ENDING_ZELEMIR_UNSCATHED_124_TEXT	...Ist irgendwas nicht in Ordnung mit mir?
 $LINE_ENDING_ZELEMIR_UNSCATHED_125_CHAR	$MCG
-$LINE_ENDING_ZELEMIR_UNSCATHED_125_TEXT	�h, mein Arm ist immer noch gebrochen?
+$LINE_ENDING_ZELEMIR_UNSCATHED_125_TEXT	Äh, mein Arm ist immer noch gebrochen?
 $LINE_ENDING_ZELEMIR_UNSCATHED_131_CHAR	$MAG
-$LINE_ENDING_ZELEMIR_UNSCATHED_131_TEXT	Das sollte f�rs Erste reichen. Wir m�ssen es noch richten und vielleicht noch ein verstecktes Armschlingenmesser einbauen, aber zun�chst...
+$LINE_ENDING_ZELEMIR_UNSCATHED_131_TEXT	Das sollte fürs Erste reichen. Wir müssen es noch richten und vielleicht noch ein verstecktes Armschlingenmesser einbauen, aber zunächst...
 $LINE_ENDING_ZELEMIR_WOUNDED_121_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_WOUNDED_121_TEXT	...Es ist gerade wirklich, wirklich wunderbar...
 $LINE_EPILOGUE_281_CHAR	$BER
-$LINE_EPILOGUE_281_CHAR	Und wo bleibt der Spa�? Ich steh eher drauf, die K�pfe anderer Leute explodieren zu lassen!
+$LINE_EPILOGUE_281_CHAR	Und wo bleibt der Spaß? Ich steh eher drauf, die Köpfe anderer Leute explodieren zu lassen!
 $LINE_MONASTERY_SIEGE_INTRO_51_CHAR	OZIMAL
 $LINE_MONASTERY_SIEGE_INTRO_51_TEXT	Was?!
 $LINE_MONASTERY_SIEGE_INTRO_52_CHAR	MANN IN ROT
-$LINE_MONASTERY_SIEGE_INTRO_52_TEXT	Ihr solltet Eure Vorr�te besser im Auge behalten haben. Ein wenig Gift und Ihr seid nur eine weitere Leiche, in die ich meinen Willen einflie�en lassen kann.
+$LINE_MONASTERY_SIEGE_INTRO_52_TEXT	Ihr solltet Eure Vorräte besser im Auge behalten haben. Ein wenig Gift und Ihr seid nur eine weitere Leiche, in die ich meinen Willen einfließen lassen kann.
 $LINE_RIVER_INTRO_61_CHAR	$MCG
-$LINE_RIVER_INTRO_61_TEXT	Was ist das f�r ein Gef�hl? Als ob ich -
+$LINE_RIVER_INTRO_61_TEXT	Was ist das für ein Gefühl? Als ob ich -
 $LINE_RIVER_INTRO_71_CHAR	$MCG
 $LINE_RIVER_INTRO_71_TEXT	...
 $LINE_RIVER_INTRO_72_CHAR	$MCG
 $LINE_RIVER_INTRO_72_TEXT	...Ja?
 $LINE_SIDEQUEST_7_INTRO_101_CHAR	$BER
-$LINE_SIDEQUEST_7_INTRO_101_TEXT	Schatzkammer, sagst du? Ich hab's! Leichen waren ihre W�hrung! Ich sag dir, wir sind reich! Reicher als in unseren wildesten Tr�umen!
+$LINE_SIDEQUEST_7_INTRO_101_TEXT	Schatzkammer, sagst du? Ich hab's! Leichen waren ihre Währung! Ich sag dir, wir sind reich! Reicher als in unseren wildesten Träumen!
 $LINE_SIDEQUEST_7_INTRO_102_CHAR	$MCG
 $LINE_SIDEQUEST_7_INTRO_102_TEXT	Irgendwie glaube ich... dass das nicht der Fall ist.
 $LINE_SIDEQUEST_7_INTRO_211_CHAR	EZTLI-TENOCH
 $LINE_SIDEQUEST_7_INTRO_211_TEXT	Ich habe mich danach gesehnt...
 $LINE_SIDEQUEST_7_OUTRO_101_CHAR	EZTLI-TENOCH
-$LINE_SIDEQUEST_7_OUTRO_101_TEXT	Und ich... Nach so langer Zeit... Aber wir k�nnen nicht.
+$LINE_SIDEQUEST_7_OUTRO_101_TEXT	Und ich... Nach so langer Zeit... Aber wir können nicht.
 $LINE_SIDEQUEST_7_OUTRO_271_CHAR	EZTLI-TENOCH
 $LINE_SIDEQUEST_7_OUTRO_271_TEXT	...Und damit... Nein...
 $LINE_SIDEQUEST_7_OUTRO_281_CHAR	EZTLI-TENOCH
 $LINE_SIDEQUEST_7_OUTRO_281_TEXT	...Oder seinen Tod betrauern.
 $LINE_SIDEQUEST_7_OUTRO_291_CHAR	EZTLI-TENOCH
-$LINE_SIDEQUEST_7_OUTRO_291_TEXT	G�ttlichkeit...
+$LINE_SIDEQUEST_7_OUTRO_291_TEXT	Göttlichkeit...
 $LINE_SIDEQUEST_7_OUTRO_292_CHAR	EZTLI-TENOCH
-$LINE_SIDEQUEST_7_OUTRO_292_TEXT	Du bietest mir zwei Freiheiten an. Aber welche bietet die wahre Erl�sung?
+$LINE_SIDEQUEST_7_OUTRO_292_TEXT	Du bietest mir zwei Freiheiten an. Aber welche bietet die wahre Erlösung?
 $LINE_SIDEQUEST_7_OUTRO_293_CHAR	EZTLI-TENOCH
 $LINE_SIDEQUEST_7_OUTRO_293_TEXT	Ich habe einen einzelnen Schritt gewagt... Aber... Nein.
 $LINE_SIDEQUEST_7_OUTRO_294_CHAR	EZTLI-TENOCH
 $LINE_SIDEQUEST_7_OUTRO_294_TEXT	NEIN!
 $LINE_SIDEQUEST_7_OUTRO_91_CHAR	TLETL-MEZTLI
-$LINE_SIDEQUEST_7_OUTRO_91_TEXT	Ich habe... so viele Leben ohne dich gelebt. Ich habe in allen vier Ecken der Welt vor Verlangen geschluchzt. Ich habe versucht, dieses Verlangen zu stillen, diese Leere zu f�llen.
+$LINE_SIDEQUEST_7_OUTRO_91_TEXT	Ich habe... so viele Leben ohne dich gelebt. Ich habe in allen vier Ecken der Welt vor Verlangen geschluchzt. Ich habe versucht, dieses Verlangen zu stillen, diese Leere zu füllen.
 $LINE_SIDEQUEST_7_OUTRO_92_CHAR	TLETL-MEZTLI
 $LINE_SIDEQUEST_7_OUTRO_92_TEXT	Keine Freude konnte meine Trauer beenden.
 $LINE_SIDEQUEST_7_OUTRO_93_CHAR	TLETL-MEZTLI
-$LINE_SIDEQUEST_7_OUTRO_93_TEXT	Aber unsere Wiedervereinigung kann so nicht sein. Lass uns unseren selbstgew�hlten Fluch hinter uns lassen. Lass uns Sar und Salea sein.
+$LINE_SIDEQUEST_7_OUTRO_93_TEXT	Aber unsere Wiedervereinigung kann so nicht sein. Lass uns unseren selbstgewählten Fluch hinter uns lassen. Lass uns Sar und Salea sein.
 $LINE_TALK_BERSERKER_221_CHAR	$MCG
 $LINE_TALK_BERSERKER_221_TEXT	Mach lieber drei Flaschen draus...
