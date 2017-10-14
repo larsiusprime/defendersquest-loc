@@ -277,10 +277,11 @@ $UI_DOWNLOAD_LINUX	Linux
 $UI_DOWNLOAD_WINDOWS	Windows
 $UI_DOWNLOAD_MACINTOSH	Macintosh
 $UI_DOWNLOAD_SOUNDTRACK	Colonna sonora
-$UI_CONFLICT_TITLE	Conflitto Steam Cloud!
+$UI_CONFLICT_TITLE	Conflitto Cloud!
 $UI_CONFLICT_MSG	Non siamo sicuri quale di questi debba andare nello Slot <SLOT>.<N>Per favore, scegli quello che vuoi mantenere.
 $UI_CONFLICT_CLOUD	CLOUD
 $UI_CONFLICT_LOCAL	COMPUTER
+$UI_CONFLICT_LOCAL	CONSOLLE
 $UI_CONFLICT_BETTER	Questo ci sembra meglio
 $UI_CONFLICT_BUTTON	Usa questo
 $UI_CONFLICT_BUTTON_NUMS	font:13,x_off:0,y_off:0
@@ -767,6 +768,7 @@ $MISC_NEXT	avanti
 $MISC_PREVIOUS	indietro
 $MISC_PREV	prec
 $MISC_CANCEL	annulla
+$MISC_IGNORE	ignora
 $MISC_UNDO_ALL	annulla tutto
 $MISC_UNDO	annulla
 $MISC_DOWNLOAD	scarica
@@ -784,6 +786,9 @@ $MISC_ARMOR_SINGULAR	<RE>$MISC_ARMOR
 $MISC_RECRUIT	recluta
 $MISC_TALK	parla
 $MISC_QUIT	esci
+$MISC_CHANGE_USER	Cambia utente
+$MISC_WRONG_USER	Si è verificato un problema con l'utente che ha effettuato l'accesso.
+$MISC_SIGN_IN	Accedi
 $MISC_ENTER	entra
 $MISC_YES	si
 $MISC_NO	no
@@ -1538,3 +1543,7 @@ $SOFT_KEYBOARD_BACKSPACE	Backspace
 $SOFT_KEYBOARD_CLEAR	Cancella
 $CONTROL_SWITCH_WARNING	Non è possibile cambiare i metodi di controllo fondamentali durante una battaglia. Siamo spiacenti!
 $MISC_TITLE_SAFE_TEXT	Muovi le levette analogiche fino a quando tutte le frecce saranno visibili.
+$MISC_PLEASE_RECONNECT_CONTROLLER	Riconnetti controller
+$PRESS_A	Premere <A> per continuare.
+$MISC_REQUIRES_RESTART	(sarà necessario riavviare il computer)
+$MISC_PICTURE_SIZE	Dimensioni immagine

@@ -164,6 +164,7 @@ $MISC_BREAK_HERO_MODE_TEXT	Escogiste jugar en <LQ>Modo héroe<RQ>
 $MISC_BREAK_HERO_MODE_TITLE	¿Salir del Modo héroe?			
 $MISC_BUY	comprar			
 $MISC_CANCEL	cancelar			
+$MISC_IGNORE	Ignorar
 $MISC_CANT_AFFORD	No tienes suficiente			
 $MISC_CANT_EQUIP!	No puedes equipar			
 $MISC_CASUAL	casual			
@@ -335,6 +336,9 @@ $MISC_PREVIOUS	anterior
 $MISC_PROBLEM?	problem?			
 $MISC_PSI	psi			
 $MISC_PSI_SHORT	psi			
+$MISC_CHANGE_USER	Cambiar usuario
+$MISC_WRONG_USER	Algo va mal con el usuario que ha iniciado sesión.
+$MISC_SIGN_IN	Iniciar sesión
 $MISC_QUIT	salir			
 $MISC_QUIT	salir			
 $MISC_QUIT_BATTLE	salir de la batalla			
@@ -775,10 +779,11 @@ $UI_CONFLICT_BACKUP	Copia de seguridad del archivo que no elijo:<N><LOC>
 $UI_CONFLICT_BETTER	Creemos que este parece mejor			
 $UI_CONFLICT_BUTTON	Usa este			
 $UI_CONFLICT_CLOUD	NUBE			
-$UI_CONFLICT_LOCAL	ORDENADOR			
+$UI_CONFLICT_LOCAL	ORDENADOR		
+$UI_CONFLICT_CONSOLE	VIDEOCONSOLA 
 $UI_CONFLICT_MSG	No estamos seguro sobre cuál de estos deberíar ir en el espacio <SLOT>.<N>Escoge el que quieres conservar.			
 $UI_CONFLICT_NGP	Nueva partida+			
-$UI_CONFLICT_TITLE	¡Problema con la Nube de Steam!			
+$UI_CONFLICT_TITLE	¡Problema con la Nube!			
 $UI_CONTROLS_ACCEL	Aceleración			
 $UI_CONTROLS_ACCEL_NUMS	font:13,off_x:15,off_y:0,text_off_x:0,text_off_y:0			
 $UI_CONTROLS_ACCEPT	Aceptar			
@@ -1177,3 +1182,7 @@ $YOU_GOT_NEW_GAME_PLUS_TITLE	¡Nueva partida+ desbloqueada!
 $YOU_GOT_NO_EQUIP	Este objeto no se puede equipar.			
 $YOU_GOT_NO_EQUIP_YET	Nadie de tu grupo puede equiparse con <THING> todavía.<N>No te preocupes, sigue jugando y aparecerán otros personajes que sí puedan.	imbuye tu equipo con nuevos e increíbles poderes y completa tu biblioteca con muchos libros sorprendentes. Embárcate en numerosas misiones secundarias nuevas con cinemáticas e historia adicional	desbloquea los comentarios del desarrollador	traduce el idioma de Eztli-Tenoch	conoce a nuevos personajes ¡y mucho más!<N><N><RE>[$NEW_GAME_PLUS_NOTE]<N><N>Puedes volver a tu partida <LQ>normal<RQ> en cualquier momento.
 $YOU_GOT_X	x<NUM> <THING>!			
+$MISC_PLEASE_RECONNECT_CONTROLLER	Vuelve a conectar el mando
+$PRESS_A	Pulsa <A> para continuar.
+$MISC_REQUIRES_RESTART	(requiere reiniciar)
+$MISC_PICTURE_SIZE	Tamaño de la imagen

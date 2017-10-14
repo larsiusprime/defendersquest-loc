@@ -263,10 +263,11 @@ $UI_DOWNLOAD_LINUX	Linux
 $UI_DOWNLOAD_WINDOWS	Windows
 $UI_DOWNLOAD_MACINTOSH	Macintosh
 $UI_DOWNLOAD_SOUNDTRACK	Bande originale
-$UI_CONFLICT_TITLE	Conflit avec le Steam Cloud !
+$UI_CONFLICT_TITLE	Conflit avec le Cloud !
 $UI_CONFLICT_MSG	Impossible de déterminer la version qui devrait être placée dans l'emplacement <SLOT>.<N>Veuillez choisir celle que vous désirez conserver.
 $UI_CONFLICT_CLOUD	CLOUD
 $UI_CONFLICT_LOCAL	ORDINATEUR
+$UI_CONFLICT_LOCAL	CONSOLE
 $UI_CONFLICT_BETTER	Celle-ci semble la meilleure
 $UI_CONFLICT_BUTTON	Utiliser celle-ci
 $UI_CONFLICT_NGP	Nouvelle partie+
@@ -709,6 +710,9 @@ $MISC_SAVED	sauvegardé
 $MISC_UNSAVED	non sauvegardé
 $MISC_EXIT	sortir
 $MISC_QUIT	quitter
+$MISC_CHANGE_USER	Changer d'utilisateur
+$MISC_WRONG_USER	Quelque chose ne va pas avec l'utilisateur actuellement connecté.
+$MISC_SIGN_IN	Se connecter
 $MISC_CLOSE	fermer
 $MISC_TRY_AGAIN	Réessayer
 $MISC_RANDOM	aléatoire
@@ -727,6 +731,7 @@ $MISC_NEXT	suivant
 $MISC_PREVIOUS	précédent
 $MISC_PREV	préc
 $MISC_CANCEL	annuler
+$MISC_IGNORE	Ignorer
 $MISC_UNDO_ALL	annuler tout
 $MISC_UNDO	annuler
 $MISC_DOWNLOAD	télécharger
@@ -1114,3 +1119,7 @@ $UI_VIDEO_SELECT_NEW	Sélectionnez...
 $UI_VIDEO_SPRITES	Sprites
 $WEAK_DMG_MULT	<PLUS><PERCENT>% DGT de <FLAVOR>
 $YOU_GOT_MONEY	Vous avez obtenu <MONEY> Camelote !
+$MISC_PLEASE_RECONNECT_CONTROLLER	Reconnectez la manette
+$PRESS_A	Appuyez sur <A> pour continuer.
+$MISC_REQUIRES_RESTART	(redémarrage nécessaire)
+$MISC_PICTURE_SIZE	Taille de l'image

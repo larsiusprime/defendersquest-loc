@@ -270,10 +270,11 @@ $UI_DOWNLOAD_LINUX	리눅스
 $UI_DOWNLOAD_WINDOWS	윈도우
 $UI_DOWNLOAD_MACINTOSH	매킨토시
 $UI_DOWNLOAD_SOUNDTRACK	사운드트랙
-$UI_CONFLICT_TITLE	스팀 클라우드 충돌!
+$UI_CONFLICT_TITLE	클라우드 충돌!
 $UI_CONFLICT_MSG	어떤 것이 <SLOT>란에 가야 할지 결정할 수 없습니다. <N>원하는 것을 골라주세요.
 $UI_CONFLICT_CLOUD	클라우드
 $UI_CONFLICT_LOCAL	컴퓨터
+$UI_CONFLICT_CONSOLE	게임기
 $UI_CONFLICT_BETTER	이것을 더 권장합니다.
 $UI_CONFLICT_BUTTON	사용하세요
 $UI_CONFLICT_BUTTON_NUMS	font:13,x_off:0,y_off:0
@@ -753,6 +754,7 @@ $MISC_NEXT	다음
 $MISC_PREVIOUS	이전
 $MISC_PREV	이전
 $MISC_CANCEL	취소
+$MISC_IGNORE	무시
 $MISC_UNDO_ALL	모두 되돌리기
 $MISC_UNDO	되돌리기
 $MISC_DOWNLOAD	다운로드
@@ -763,6 +765,9 @@ $MISC_ARMOR	방어구
 $MISC_RECRUIT	고용
 $MISC_TALK	대화
 $MISC_QUIT	종료
+$MISC_SIGN_IN	로그인
+$MISC_CHANGE_USER	사용자 변경
+$MISC_WRONG_USER	현재 로그인된 사용자에 오류가 발생했습니다.
 $MISC_ENTER	입력
 $MISC_YES	예
 $MISC_NO	아니오
@@ -982,3 +987,7 @@ $GETSCRAP1	쓰레기 더미입니다. 천 조각, 망가진 도구, 날카로운
 $GETSCRAP2	아무래도 구덩이의 주민들은 이 쓰레기를 화폐로 사용하는 것 같습니다.
 $MISC_!	!
 $END	끝
+$MISC_PLEASE_RECONNECT_CONTROLLER	컨트롤러를 다시 연결하십시오.
+$PRESS_A	계속하려면 <A>를 누르십시오.
+$MISC_REQUIRES_RESTART	(다시 시작해야 함)
+$MISC_PICTURE_SIZE	사진 크기

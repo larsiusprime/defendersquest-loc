@@ -201,6 +201,7 @@ $MISC_BREAK_HERO_MODE_TEXT	You've chosen to play in <LQ>Hero Mode<RQ>, which for
 $MISC_BREAK_HERO_MODE_TITLE	Leave Hero Mode?
 $MISC_BUY	buy
 $MISC_CANCEL	cancel
+$MISC_IGNORE	Ignore
 $MISC_CANT_AFFORD	Can't Afford
 $MISC_CANT_EQUIP!	Can't Equip
 $MISC_CASUAL	casual
@@ -377,6 +378,9 @@ $MISC_PREVIOUS	previous
 $MISC_PROBLEM?	problem?
 $MISC_PSI	psi
 $MISC_PSI_SHORT	psi
+$MISC_CHANGE_USER	Change User
+$MISC_WRONG_USER	Something is wrong with the current signed in user.
+$MISC_SIGN_IN	Sign in
 $MISC_QUIT	quit
 $MISC_QUIT	quit
 $MISC_QUIT_BATTLE	quit battle
@@ -816,9 +820,10 @@ $UI_CONFLICT_BETTER	We think this one seems better
 $UI_CONFLICT_BUTTON	Use this
 $UI_CONFLICT_CLOUD	CLOUD
 $UI_CONFLICT_LOCAL	COMPUTER
+$UI_CONFLICT_CONSOLE	CONSOLE
 $UI_CONFLICT_MSG	We're not sure which of these should go in Slot <SLOT>.<N>Please pick the one you want to keep.
 $UI_CONFLICT_NGP	New Game+
-$UI_CONFLICT_TITLE	Steam Cloud Conflict!
+$UI_CONFLICT_TITLE	Cloud Conflict!
 $UI_CONTROLS_ACCEL	Acceleration
 $UI_CONTROLS_INERTIA	Inertia
 $UI_CONTROLS_ACCEPT	Accept
@@ -1490,6 +1495,7 @@ $MISC_INPUT_3	Input 3:
 $GAMEPAD_NOTE	Select to customize
 $MISC_DEVICE_DISCONNECTED_TITLE	Device Disconnected!
 $MISC_DEVICE_DISCONNECTED_TEXT	"<NAME>" in slot <SLOT> was disconnected!
+$MISC_PLEASE_RECONNECT_CONTROLLER	Please reconnect controller
 $MISC_EDIT	Edit
 $SOFT_KEYBOARD_SPACE	Space
 $SOFT_KEYBOARD_BACKSPACE	Backspace
@@ -1503,3 +1509,6 @@ $MISC_OVERWRITE	Confirm overwrite
 $MISC_OVERWRITE_TEXT	Some subscribed mods conflict with local versions. Proceed with overwrites one by one?
 $MISC_OVERWRITE2	Overwrite "<MODNAME>"?
 $MISC_OVERWRITE_TEXT2	<SOURCE><N><N>--><N><N><DEST>
+$PRESS_A	Press <A> to continue.
+$MISC_REQUIRES_RESTART	(requires restart)
+$MISC_PICTURE_SIZE	Picture size

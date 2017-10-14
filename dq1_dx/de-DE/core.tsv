@@ -164,6 +164,7 @@ $MISC_BREAK_HERO_MODE_TEXT	Du spielst im <LQ>Heldenmodus<RQ>, in dem du keine ge
 $MISC_BREAK_HERO_MODE_TITLE	Heldenmodus verlassen?
 $MISC_BUY	kaufen
 $MISC_CANCEL	abbrechen
+$MISC_IGNORE	Ignorieren
 $MISC_CANT_AFFORD	Zu<N>teuer
 $MISC_CANT_EQUIP_NUMS	font:12,x_off:0,y_off:-4
 $MISC_CANT_EQUIP!	Kann nicht ausrüsten
@@ -339,6 +340,9 @@ $MISC_PROBLEM?	Problem?
 $MISC_PROBLEM?	Problem?
 $MISC_PSI	Psi
 $MISC_PSI_SHORT	Psi
+$MISC_CHANGE_USER	Benutzer ändern
+$MISC_WRONG_USER	Mit dem angemeldeten Benutzer ist ein Problem aufgetreten.
+$MISC_SIGN_IN	Anmelden
 $MISC_QUIT	beenden
 $MISC_QUIT	beenden
 $MISC_QUIT_BATTLE	Schlacht beenden
@@ -780,9 +784,10 @@ $UI_CONFLICT_BETTER	Wir denken, dass dies besser ist
 $UI_CONFLICT_BUTTON	Benutze dies
 $UI_CONFLICT_CLOUD	CLOUD
 $UI_CONFLICT_LOCAL	COMPUTER
+$UI_CONFLICT_CONSOLE	Spielkonsole
 $UI_CONFLICT_MSG	Wir wissen nicht, was hiervon in Position <SLOT> soll.<N>Bitte wähle das aus, was du behalten möchtest.
 $UI_CONFLICT_NGP	Neues Spiel+
-$UI_CONFLICT_TITLE	Steam-Cloud-Konflikt!
+$UI_CONFLICT_TITLE	Cloud-Konflikt!
 $UI_CONTROLS_ACCEL	Beschleu-<N>nigung
 $UI_CONTROLS_ACCEL_NUMS	font:13,off_x:0,off_y:0,text_off_x:0,text_off_y:-8
 $UI_CONTROLS_ACCEPT	OK
@@ -1185,3 +1190,7 @@ $YOU_GOT_NEW_GAME_PLUS_TITLE	Neues Spiel+ freigeschaltet!
 $YOU_GOT_NO_EQUIP	Dieser Gegenstand kann nicht ausgerüstet werden.
 $YOU_GOT_NO_EQUIP_YET	Niemand in deiner Gruppe kann momentan <THING> ausrüsten.<N>Keine Sorge, spiel einfach weiter und neue Charaktere tauchen auf, die es können.
 $YOU_GOT_X	<NUM>x <THING>!
+$MISC_PLEASE_RECONNECT_CONTROLLER	Bitte schließen Sie den Controller wieder an.
+$PRESS_A	Drücken Sie <A>, um fortzufahren.
+$MISC_REQUIRES_RESTART	(Neustart erforderlich)
+$MISC_PICTURE_SIZE	Bildgröße

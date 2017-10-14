@@ -270,10 +270,11 @@ $UI_DOWNLOAD_LINUX	Linux
 $UI_DOWNLOAD_WINDOWS	Windows
 $UI_DOWNLOAD_MACINTOSH	Macintosh
 $UI_DOWNLOAD_SOUNDTRACK	Hudba
-$UI_CONFLICT_TITLE	Konflikt s úložistěm STEAM!
+$UI_CONFLICT_TITLE	Konflikt se vzdáleným ukládáním!
 $UI_CONFLICT_MSG	Nevíme jistě<C> která z těchto uložených her by měla být v pozici <SLOT>.<N>Vyber<C> kterou si chceš nechat.
 $UI_CONFLICT_CLOUD	ÚLOŽIŠTĚ
 $UI_CONFLICT_LOCAL	POČÍTAČ
+$UI_CONFLICT_CONSOLE	KONZOLE
 $UI_CONFLICT_BETTER	Myslíme si<C> že tahle je lepší
 $UI_CONFLICT_BUTTON	Použij tuhle
 $UI_CONFLICT_BUTTON_NUMS	font:13<C>x_off:0<C>y_off:-8
@@ -751,6 +752,7 @@ $MISC_NEXT	další
 $MISC_PREVIOUS	předchozí
 $MISC_PREV	předchozí
 $MISC_CANCEL	zpět
+$MISC_IGNORE	Ignorovat
 $MISC_UNDO_ALL	zrušit vše
 $MISC_UNDO	zrušit
 $MISC_DOWNLOAD	stáhnout
@@ -1149,3 +1151,5 @@ $UI_VIDEO_SELECT_NEW	Select New...
 $UI_VIDEO_SPRITES	Sprites
 $WEAK_DMG_MULT	<PLUS><PERCENT>% extra DMG from <FLAVOR>
 $YOU_GOT_MONEY	You got <MONEY> scrap!
+$MISC_REQUIRES_RESTART	(vyžaduje restartování)
+$MISC_PICTURE_SIZE	Velikost obrázku

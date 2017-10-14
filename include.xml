@@ -1,5 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
-	<assets path="dq1_dx/" rename="assets/locales" if="DQ1" />
-	<assets path="dq2/" rename="assets/locales" if="DQ2" />
+	
+	<section if="DQ1" unless="console || vita">
+		<assets path="dq1_dx/" rename="assets/locales"/>
+	</section>
+	
+	<section if="DQ2" unless="console || vita">
+		<assets path="dq2/" rename="assets/locales"/>
+	</section>
+	
+	<section if="langwest">
+		<haxeflag name="-D" value="console_spanish"/>
+		<haxeflag name="-D" value="console_german"/>
+		<haxeflag name="-D" value="console_french"/>
+		<haxedef name="console_spanish"/>
+		<haxedef name="console_german"/>
+		<haxedef name="console_french"/>
+		<set name="console_spanish"/>
+		<set name="console_german"/>
+		<set name="console_french"/>
+	</section>
+	
+	<section if="langeast">
+		<haxeflag name="-D" value="console_japanese"/>
+		<haxeflag name="-D" value="console_korean"/>
+		<haxeflag name="-D" value="console_chinese"/>
+		<haxedef name="console_japanese"/>
+		<haxedef name="console_korean"/>
+		<haxedef name="console_chinese"/>
+		<set name="console_japanese"/>
+		<set name="console_korean"/>
+		<set name="console_chinese"/>
+	</section>
+	
+	<section if="langall">
+		<haxeflag name="-D" value="console_spanish"/>
+		<haxeflag name="-D" value="console_german"/>
+		<haxeflag name="-D" value="console_french"/>
+		<haxeflag name="-D" value="console_japanese"/>
+		<haxeflag name="-D" value="console_korean"/>
+		<haxeflag name="-D" value="console_chinese"/>
+		<haxedef name="console_spanish"/>
+		<haxedef name="console_german"/>
+		<haxedef name="console_french"/>
+		<haxedef name="console_japanese"/>
+		<haxedef name="console_korean"/>
+		<haxedef name="console_chinese"/>
+		<set name="console_spanish"/>
+		<set name="console_german"/>
+		<set name="console_french"/>
+		<set name="console_japanese"/>
+		<set name="console_korean"/>
+		<set name="console_chinese"/>
+	</section>
+	
+	<section if="langsanschinese">
+		<haxeflag name="-D" value="console_spanish"/>
+		<haxeflag name="-D" value="console_german"/>
+		<haxeflag name="-D" value="console_french"/>
+		<haxeflag name="-D" value="console_italian"/>
+		<haxeflag name="-D" value="console_russian"/>
+		<haxeflag name="-D" value="console_czech"/>
+		<haxeflag name="-D" value="console_japanese"/>
+		<haxeflag name="-D" value="console_korean"/>
+		<haxedef name="console_spanish"/>
+		<haxedef name="console_german"/>
+		<haxedef name="console_french"/>
+		<haxedef name="console_italian"/>
+		<haxedef name="console_russian"/>
+		<haxedef name="console_czech"/>
+		<haxedef name="console_japanese"/>
+		<haxedef name="console_korean"/>
+		<set name="console_spanish"/>
+		<set name="console_german"/>
+		<set name="console_french"/>
+		<set name="console_italian"/>
+		<set name="console_russian"/>
+		<set name="console_czech"/>
+		<set name="console_japanese"/>
+		<set name="console_korean"/>
+	</section>
+	
+	<section if="DQ1 console">
+		<assets path="dq1_dx/index.xml" rename="assets/locales/index.xml"/>
+		<assets path="dq1_dx/en-US" rename="assets/locales/en-US"/>
+		<assets path="dq1_dx/cs-CZ" rename="assets/locales/cs-CZ" if="console_czech" />
+		<assets path="dq1_dx/de-DE" rename="assets/locales/de-DE" if="console_german" />
+		<assets path="dq1_dx/es-ES" rename="assets/locales/es-ES" if="console_spanish" />
+		<assets path="dq1_dx/fr-FR" rename="assets/locales/fr-FR" if="console_french" />
+		<assets path="dq1_dx/it-IT" rename="assets/locales/it-IT" if="console_italian" />
+		<assets path="dq1_dx/ja-JP" rename="assets/locales/ja-JP" if="console_japanese" />
+		<assets path="dq1_dx/ko-KR" rename="assets/locales/ko-KR" if="console_korean" />
+		<assets path="dq1_dx/ru-RU" rename="assets/locales/ru-RU" if="console_russian" />
+		<assets path="dq1_dx/zh-HANS" rename="assets/locales/zh-HANS" if="console_chinese" />
+		<assets path="dq1_dx/zh-HANT" rename="assets/locales/zh-HANT" if="console_chinese" />
+		<assets path="dq2/" rename="assets/locales" if="DQ2" />
+	</section>
+	
+	<section if="DQ2 console">
+		<assets path="dq2/index.xml" rename="assets/locales/index.xml"/>
+		<assets path="dq2/en-US" rename="assets/locales/en-US"/>
+		<assets path="dq2/cs-CZ" rename="assets/locales/cs-CZ" if="console_czech" />
+		<assets path="dq2/de-DE" rename="assets/locales/de-DE" if="console_german" />
+		<assets path="dq2/es-ES" rename="assets/locales/es-ES" if="console_spanish" />
+		<assets path="dq2/fr-FR" rename="assets/locales/fr-FR" if="console_french" />
+		<assets path="dq2/it-IT" rename="assets/locales/it-IT" if="console_italian" />
+		<assets path="dq2/ja-JP" rename="assets/locales/ja-JP" if="console_japanese" />
+		<assets path="dq2/ko-KR" rename="assets/locales/ko-KR" if="console_korean" />
+		<assets path="dq2/ru-RU" rename="assets/locales/ru-RU" if="console_russian" />
+		<assets path="dq2/zh-HANS" rename="assets/locales/zh-HANS" if="console_chinese" />
+		<assets path="dq2/zh-HANT" rename="assets/locales/zh-HANT" if="console_chinese" />
+		<assets path="dq2/" rename="assets/locales" if="DQ2" />
+	</section>
 </project>

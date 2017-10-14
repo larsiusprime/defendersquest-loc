@@ -55,10 +55,10 @@
 		<label id="it-IT" language="Inglese" region="Stati Uniti"/>
 	</locale>
 	<!--Castillian Spanish-->
-	<locale id="es-ES" sort="1" official="true" beta="true"> 
+	<locale id="es-ES" sort="1" official="true"> 
 		<hide if="console_spanish" value="false"/>
 		<font value="verdana" style="bold" size="12" alpha="latin"/>
-		<status value="75%" word="Estado"/>
+		<status value="100%" word="Estado"/>
 		<contributors value="Felipe Mercader Martínez"/>
 		<ui language="Idioma" region="Región" accept="Vale"/>
 		<label id="en-US,en-GB,en-CA,en-NES" language="Spanish" region="Spain"/>
@@ -77,10 +77,10 @@
 	   <label id="it-IT" language="Spagnolo" region="Spagna"/>
 	</locale>
 	<!--German German-->
-	<locale id="de-DE" sort="2" official="true" beta="true">
+	<locale id="de-DE" sort="2" official="true">
 		<hide if="console_german" value="false"/>
 		<font value="verdana" style="bold" size="12" alpha="latin"/>
-		<status value="95%" word="Status"/>
+		<status value="100%" word="Status"/>
 		<contributors value="Fabian Bindel, Thomas Faust, Alexander Sturm"/>
 		<ui language="Sprache" region="Region" accept="Okay"/>
 		<label id="en-US,en-NES,en-GB,en-CA" language="German" region="Germany"/>        

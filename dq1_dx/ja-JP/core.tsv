@@ -265,10 +265,11 @@ $UI_DOWNLOAD_LINUX	Linux
 $UI_DOWNLOAD_WINDOWS	Windows
 $UI_DOWNLOAD_MACINTOSH	Macintosh
 $UI_DOWNLOAD_SOUNDTRACK	サウンドトラック
-$UI_CONFLICT_TITLE	スチームクラウドの衝突！
+$UI_CONFLICT_TITLE	クラウドの衝突！
 $UI_CONFLICT_MSG	どちらのスロットに行くべきか、不明です<SLOT>。<N>好きな方を選んでください。
 $UI_CONFLICT_CLOUD	クラウド
 $UI_CONFLICT_LOCAL	コンピューター
+$UI_CONFLICT_CONSOLE	ゲーム機
 $UI_CONFLICT_BETTER	こちらの方がいいと思います
 $UI_CONFLICT_BUTTON	これを使う
 $UI_CONFLICT_NGP	ニューゲーム+
@@ -731,6 +732,10 @@ $MISC_NEXT	次へ
 $MISC_PREVIOUS	戻る
 $MISC_PREV	戻る
 $MISC_CANCEL	キャンセル
+$MISC_IGNORE	無視
+$MISC_SIGN_IN	サインイン
+$MISC_CHANGE_USER	ユーザーを変更
+$MISC_WRONG_USER	サインインしているユーザーに問題があります。
 $MISC_UNDO_ALL	すべてやり直す
 $MISC_UNDO	やり直す
 $MISC_UNDO_NUMS	y_off:0,leading:-4
@@ -1163,3 +1168,7 @@ $UI_LEGACY_IMPORT_SAVES	旧バージョンのDefender's Questからセーブフ�
 $UI_LEGACY_SAVES_DETECTED	旧バージョンのセーブファイルがあります！
 $YOU_GOT_NEW_GAME_PLUS_TEXT	おめでとうございます！パーティーはそのままで、新しい冒険を始めることができます。<N><N>変異して新たな能力を持った敵と対峙し、新たなすばらしいパワーを備えた武器を装備し、図書館に新たな本を加えましょう。追加のカットシーンとストーリーを楽しめるたくさんの新たなサイドクエストをプレイし、開発者の解説をアンロックし、エズティル・テノクのことばを解読し、新たなキャラクターを使用するなど、たくさんのことができます！<N><N><RE>[$NEW_GAME_PLUS_NOTE]<N><N><LQ>オリジナル<RQ>ゲームにはいつでも戻ることができます。
 $YOU_GOT_NEW_GAME_PLUS_TITLE	ニューゲーム+が解除されました！
+$MISC_PLEASE_RECONNECT_CONTROLLER	コントローラーを\n接続しなおしてください
+$PRESS_A	<A> ボタンを押すと開始します。
+$MISC_REQUIRES_RESTART	(再起動が必要)
+$MISC_PICTURE_SIZE	画像サイズ
