@@ -750,6 +750,7 @@ $MISC_ACCEPT	accepter
 $MISC_BACK	retour
 $MISC_REFUSE	refuser
 $MISC_RESTART	recommencer
+$MISC_RESTART?	Recommencer ?
 $MISC_OKAY	OK
 $MISC_QUIT_BATTLE	quitter la bataille
 $UI_QUIT_NUMS	font:16,off_y:3,off_x:0
@@ -1123,3 +1124,7 @@ $MISC_PLEASE_RECONNECT_CONTROLLER	Reconnectez la manette
 $PRESS_A	Appuyez sur <A> pour continuer.
 $MISC_REQUIRES_RESTART	(redémarrage nécessaire)
 $MISC_PICTURE_SIZE	Taille de l'image
+$MISC_SIGNED_OUT	<USER> s’est déconnecté(e).
+$MISC_SIGNED_IN	Connecté en tant que <USER>.
+$MISC_SWITCH_USER	Changer d'utilisateur
+$MISC_RESTART_XBOX	Redémarrer votre Xbox ?

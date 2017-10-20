@@ -354,6 +354,7 @@ $MISC_RESET	Reiniciar
 $MISC_RESIST	resistencia a <SOMETHING>			
 $MISC_RESIST_X	resiste <X>%			
 $MISC_RESTART	reiniciar			
+$MISC_RESTART?	¿Reiniciar?			
 $MISC_RESTORE_DEFAULTS	Restablecer ajustes por defecto			
 $MISC_REWARD	Recompensa:			
 $MISC_SAVE_DATA	Guardar datos			
@@ -1186,3 +1187,7 @@ $MISC_PLEASE_RECONNECT_CONTROLLER	Vuelve a conectar el mando
 $PRESS_A	Pulsa <A> para continuar.
 $MISC_REQUIRES_RESTART	(requiere reiniciar)
 $MISC_PICTURE_SIZE	Tamaño de la imagen
+$MISC_SIGNED_OUT	<USER> ha cerrado la sesión.
+$MISC_SIGNED_IN	Sesión iniciada como <USER>.
+$MISC_SWITCH_USER	Cambiar de usuario
+$MISC_RESTART_XBOX	¿Reiniciar la Xbox?

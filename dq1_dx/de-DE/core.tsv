@@ -358,6 +358,7 @@ $MISC_RESET	Zurücksetzen
 $MISC_RESIST	<SOMETHING> widerstehen
 $MISC_RESIST_X	widerstehe <X>%
 $MISC_RESTART	neu starten
+$MISC_RESTART?	Neustart?
 $MISC_RESTORE_DEFAULTS	Standardeinstellungen wiederherstellen
 $MISC_REWARD	Belohnung:
 $MISC_SAVE_DATA	Spielstände
@@ -1194,3 +1195,5 @@ $MISC_PLEASE_RECONNECT_CONTROLLER	Bitte schließen Sie den Controller wieder an.
 $PRESS_A	Drücken Sie <A>, um fortzufahren.
 $MISC_REQUIRES_RESTART	(Neustart erforderlich)
 $MISC_PICTURE_SIZE	Bildgröße
+$MISC_SIGNED_OUT	<USER> hat sich abgemeldet.
+$MISC_SIGNED_IN	Angemeldet als <USER>.

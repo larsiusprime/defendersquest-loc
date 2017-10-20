@@ -797,6 +797,7 @@ $MISC_ACCEPT	accetta
 $MISC_BACK	indietro
 $MISC_REFUSE	rifiuta
 $MISC_RESTART	ricomincia
+$MISC_RESTART	Ricomincia?
 $MISC_OKAY	conferma
 $MISC_QUIT_BATTLE	esci dalla battaglia
 $MISC_NONE	nessuna
@@ -1547,3 +1548,7 @@ $MISC_PLEASE_RECONNECT_CONTROLLER	Riconnetti controller
 $PRESS_A	Premere <A> per continuare.
 $MISC_REQUIRES_RESTART	(sarà necessario riavviare il computer)
 $MISC_PICTURE_SIZE	Dimensioni immagine
+$MISC_SIGNED_OUT	<USER> si è disconnesso.
+$MISC_SIGNED_IN	Accesso effettuato come <USER>.
+$MISC_SWITCH_USER	Cambia utente
+$MISC_RESTART_XBOX	Riavviare Xbox?

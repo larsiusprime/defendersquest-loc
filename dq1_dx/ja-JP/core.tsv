@@ -755,6 +755,7 @@ $MISC_ACCEPT	適用
 $MISC_BACK	戻る
 $MISC_REFUSE	拒否する
 $MISC_RESTART	リスタートする
+$MISC_RESTART?	再起動？
 $MISC_OKAY	OK
 $MISC_QUIT_BATTLE	バトルを止める
 $MISC_NONE	なし
@@ -1172,3 +1173,7 @@ $MISC_PLEASE_RECONNECT_CONTROLLER	コントローラーを\n接続しなおし�
 $PRESS_A	<A> ボタンを押すと開始します。
 $MISC_REQUIRES_RESTART	(再起動が必要)
 $MISC_PICTURE_SIZE	画像サイズ
+$MISC_SIGNED_OUT	<USER> はサインアウトしました
+$MISC_SIGNED_IN	<USER> としてサインイン済み
+$MISC_SWITCH_USER	ユーザーをきりかえ
+$MISC_RESTART_XBOX	Xbox を再起動しますか?

@@ -396,6 +396,7 @@ $MISC_RESET	Reset
 $MISC_RESIST	resist <SOMETHING>
 $MISC_RESIST_X	resist <X>%
 $MISC_RESTART	restart
+$MISC_RESTART?	Restart?
 $MISC_RESTORE_DEFAULTS	Restore Defaults
 $MISC_REWARD	Reward:
 $MISC_SAVE_DATA	Save Data
@@ -1512,3 +1513,7 @@ $MISC_OVERWRITE_TEXT2	<SOURCE><N><N>--><N><N><DEST>
 $PRESS_A	Press <A> to continue.
 $MISC_REQUIRES_RESTART	(requires restart)
 $MISC_PICTURE_SIZE	Picture size
+$MISC_SIGNED_OUT	<USER> has signed out.
+$MISC_SIGNED_IN	Signed in as <USER>.
+$MISC_SWITCH_USER	Switch user
+$MISC_RESTART_XBOX	Restart your Xbox?

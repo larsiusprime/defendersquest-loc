@@ -484,6 +484,7 @@ $MISC_RESET	Сброс
 $MISC_RESIST	сопротивление <SOMETHING>
 $MISC_RESIST_X	сопротивление <X>%
 $MISC_RESTART	Начать заново
+$MISC_RESTART?	Перезапустить?
 $MISC_RESTORE_DEFAULTS	Сбросить настройки
 $MISC_REWARD	Награда:
 $MISC_SAVE_DATA	Папка с сохранениями
@@ -1537,3 +1538,7 @@ $MISC_PLEASE_RECONNECT_CONTROLLER	Подключите геймпад повто
 $PRESS_A	Для продолжения нажмите <А>.
 $MISC_REQUIRES_RESTART	(требуется перезапуск)
 $MISC_PICTURE_SIZE	Размер изображения
+$MISC_SIGNED_OUT	Пользователь <USER> вышел.
+$MISC_SIGNED_IN	Выполнен вход в качестве <USER>.
+$MISC_SWITCH_USER	Сменить профиль
+$MISC_RESTART_XBOX	Перезапустить Xbox?
