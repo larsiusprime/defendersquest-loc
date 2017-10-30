@@ -54,6 +54,27 @@
 		<set name="console_chinese"/>
 	</section>
 	
+	<section if="langsansasian">
+		<haxeflag name="-D" value="console_spanish"/>
+		<haxeflag name="-D" value="console_german"/>
+		<haxeflag name="-D" value="console_french"/>
+		<haxeflag name="-D" value="console_italian"/>
+		<haxeflag name="-D" value="console_russian"/>
+		<haxeflag name="-D" value="console_czech"/>
+		<haxedef name="console_spanish"/>
+		<haxedef name="console_german"/>
+		<haxedef name="console_french"/>
+		<haxedef name="console_italian"/>
+		<haxedef name="console_russian"/>
+		<haxedef name="console_czech"/>
+		<set name="console_spanish"/>
+		<set name="console_german"/>
+		<set name="console_french"/>
+		<set name="console_italian"/>
+		<set name="console_russian"/>
+		<set name="console_czech"/>
+	</section>
+	
 	<section if="langsanschinese">
 		<haxeflag name="-D" value="console_spanish"/>
 		<haxeflag name="-D" value="console_german"/>
