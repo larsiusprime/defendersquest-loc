@@ -491,6 +491,7 @@ $PARTY_REDESIGN_NUMS	font:12,off_x:0,off_y:-6,leading:-4
 $PARTY_REGEN	Regen.:<T><T>			
 $PARTY_RENAME	Cambiar nombre			
 $PARTY_RESET_POINTS	Restabl-<N>ecer pts			
+$PARTY_RESET_POINTS2	Restablecer puntos			
 $PARTY_RESET_POINTS_NUMS	font:12,off_x:0,off_y:-4,leading:-4			
 $PARTY_RETURN_TOWN	Volver a la ciudad			
 $PARTY_SPEED	Velocidad:<T>			
@@ -857,6 +858,7 @@ $UI_CONTROLS_XINPUT	Xinput
 $UI_DEFENDER_BOOST	MEJORAR: <PSI> Psi			
 $UI_DEFENDER_BOOST_MAX	MEJORA MÁXIMA			
 $UI_DEFENDER_BOOST_NEED	MEJORAR: Requiere<N><PSI> de Psi			
+$UI_DEFENDER_BOOST_NEED2	MEJORAR: Requiere <PSI> de Psi			
 $UI_DEFENDER_BOOST_NEED_NUMS	font:11,x_off:0,y_off:-4			
 $UI_DEFENDER_BOOST_UNLOCK	Se desbloquea en el NIVEL <LVL> DE MEJORA			
 $UI_DEFENDER_CLICK_TO	(Clic para activar/desactivar)			
@@ -1135,7 +1137,7 @@ $UI_UPDATER_TARGZ	Archivo TAR.GZ
 $UI_UPDATER_TRY_AGAIN	Lo intento de nuevo			
 $UI_UPDATER_TRYING_30	Inténtadolo durante 30 segundos			
 $UI_UPDATER_UPDATE_EXISTS	¡Versión actualizada disponible!			
-$UI_VIDEO_AOE	Resaltar áreas de ataque			
+$UI_VIDEO_AOE	Resaltar áreas<N>de ataque			
 $UI_VIDEO_BIT_DEPTH	Profundidad			
 $UI_VIDEO_CAN_SLOW_GAME	(Puede ralentizar el juego)			
 $UI_VIDEO_CHANGE_RES	Cambiar resolución			
@@ -1191,3 +1193,113 @@ $MISC_SIGNED_OUT	<USER> ha cerrado la sesión.
 $MISC_SIGNED_IN	Sesión iniciada como <USER>.
 $MISC_SWITCH_USER	Cambiar de usuario
 $MISC_RESTART_XBOX	¿Reiniciar la Xbox?
+$ACTIONS_BATTLE_CYCLE_NEXT	Siguiente<N>defensor
+$ACTIONS_BATTLE_CYCLE_PREVIOUS	Defensor<N>anterior
+$ACTIONS_BATTLE_SPEED_MINUS	Reducir<N>velocidad
+$ACTIONS_BATTLE_SPEED_PLUS	Incrementar<N>velocidad
+$ACTIONS_BATTLE_SPELL_SPAM	Repetición<N>de hechizo
+$ACTIONS_BATTLE_SPELLS	Hechizos
+$ACTIONS_BATTLECONTROLS	Batalla
+$ACTIONS_CUTSCENECONTROLS	Cinemática
+$ACTIONS_MAP_MOVE	Mover cursor
+$ACTIONS_MAP_MOVE_MAP	Moverse en mapa
+$ACTIONS_MAP_SCROLL_MAP	Desplazar mapa
+$ACTIONS_MAPCONTROLS	Mapa del mundo
+$ACTIONS_MENU_CANCEL	Cancelar
+$ACTIONS_MENU_MENU	Menú
+$ACTIONS_MENU_MOVE	Mover cursor
+$ACTIONS_MENU_SELECT	Seleccionar
+$ACTIONS_MENU_THING_1	Selección 1
+$ACTIONS_MENU_THING_2	Selección 2
+$ACTIONS_MENU_THING_3	Selección 3
+$ACTIONS_MENUCONTROLS	Menú
+$ACTIONS_MENUCONTROLSWITHANALOG	Menú
+$BATTLE_FINE_MOVE	Movimiento lento
+$BATTLE_FREE_MOVE	Dedo puntero
+$BATTLE_MAP	mapa
+$BATTLE_MOVE	Movimiento
+$BATTLE_MOVE_MOUSE	Movimiento ratón
+$BATTLE_SELECT_UNIT	Seleccionar<N>unidad
+$BATTLE_TILE_MOVE	Movimiento<N>casilla
+$BOOK_COOLDOWN_OP	Tiempo de enfriamiento de hechizo <X>
+$BOOK_COST_OP	Coste de hechizo <X>
+$CONTROL_SWITCH_WARNING	No puedes cambiar métodos de entrada básicos en medio de un combate. ¡Lo sentimos!
+$GAMEPAD_A	Botón A
+$GAMEPAD_B	Botón B
+$GAMEPAD_BACK	Botón atrás
+$GAMEPAD_DPAD	Mando de dirección
+$GAMEPAD_DPAD_DOWN	Mando de dirección abajo
+$GAMEPAD_DPAD_LEFT	Mando de dirección izquierda
+$GAMEPAD_DPAD_RIGHT	Mando de dirección derecha
+$GAMEPAD_DPAD_UP	Mando de dirección arriba
+$GAMEPAD_EMPTY	Nada
+$GAMEPAD_LEFT_ANALOG_STICK	Palanca analógica izquierda
+$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS	Palanca analógica izquierda, apuntando IZQUIERDA
+$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS	Palanca analógica izquierda, apuntando DERECHA
+$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS	Palanca analógica izquierda, apuntando ARRIBA
+$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS	Palanca analógica izquierda, apuntando ABAJO
+$GAMEPAD_LEFT_SHOULDER	Botón superior izquierdo
+$GAMEPAD_LEFT_STICK_CLICK	Botón de palanca analógica izquierda
+$GAMEPAD_LEFT_TRIGGER	Gatillo izquierdo
+$GAMEPAD_NOTE	Selecciona para personalizar
+$GAMEPAD_RIGHT_ANALOG_STICK	Palanca analógica derecha
+$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS	Palanca analógica derecha, apuntando IZQUIERDA
+$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS	Palanca analógica derecha, apuntando DERECHA
+$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS	Palanca analógica derecha, apuntando ARRIBA
+$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS	Palanca analógica derecha, apuntando ARRIBA
+$GAMEPAD_RIGHT_SHOULDER	Botón superior derecho
+$GAMEPAD_RIGHT_STICK_CLICK	Botón de palanca analógica derecha
+$GAMEPAD_RIGHT_TRIGGER	Gatillo derecho
+$GAMEPAD_START	Botón inicio
+$GAMEPAD_X	Botón X
+$GAMEPAD_Y	Botón Y
+$MISC_ACCESSORIES	accesorios
+$MISC_ACCESSORY	accesorio
+$MISC_DEVICE_DISCONNECTED_TEXT	¡<NAME> de la ranura <SLOT> se ha desconectado!
+$MISC_DEVICE_DISCONNECTED_TITLE	¡Dispositivo desconectado!
+$MISC_EDIT	Editar
+$MISC_INPUT_0	Entrada:
+$MISC_INPUT_1	Entrada 1:
+$MISC_INPUT_2	Entrada 2:
+$MISC_INPUT_3	Entrada 3:
+$MISC_INSPECT	inspeccionar
+$MISC_LOAD_ORDER	Orden de carga
+$MISC_OVERWRITE	Confirmar sobrescritura
+$MISC_OVERWRITE_TEXT	Algunos mods suscritos entran en conflicto con versiones locales. ¿Realizar sobrescrituras de manera individual?
+$MISC_OVERWRITE_TEXT2	<SOURCE><N><N>--><N><N><DEST>
+$MISC_OVERWRITE2	¿Sobrescribir "<MODNAME>"?
+$MISC_PAUSE	pausa
+$MISC_SELECTED	Seleccionado
+$MISC_SLOT	espacio
+$MISC_TITLE_SAFE_TEXT	Mueves las palancas/sticks/joysticks<N>hasta que todas las cajas sean visibles.
+$MISC_UNIVERSAL	Universal
+$MISC_WEAPON_SINGULAR	arma
+$MISC_XP_TT_TEXT	Los puntos de experiencia que obtienes tras una batalla.<N><RE>[$MISC_ADJUST_REWARDS]
+$MISC_XP_TT_TITLE	Experiencia
+$NEW_GAME_PLUS_NOTE	Ve a la pantalla de guardado y selecciona NUEVA PARTIDA+ en tu ranura de guardado existente.
+$PS4_A	Botón X
+$PS4_B	Botón círculo
+$PS4_BACK	Botón SHARE
+$PS4_BACK_PS4	Panel táctil
+$PS4_LEFT_SHOULDER	Botón L1
+$PS4_LEFT_TRIGGER	Botón L2
+$PS4_RIGHT_SHOULDER	Botón R1
+$PS4_RIGHT_TRIGGER	Botón R2
+$PS4_START	Botón OPTIONS
+$PS4_X	Botón cuadrado
+$PS4_Y	Botón triángulo
+$PSVITA_BACK	Botón SELECT
+$SOFT_KEYBOARD_BACKSPACE	Retroceso
+$SOFT_KEYBOARD_CLEAR	Clear
+$SOFT_KEYBOARD_SPACE	Espacio
+$UI_CONTROLS_GAMEPAD_ACTION_SET	Action Set
+$UI_CONTROLS_GAMEPAD_ICONS	Iconos
+$UI_CONTROLS_INERTIA	Inercia
+$UI_CONTROLS_PSVITA	PlayStation Vita
+$UI_CONTROLS_STEAM_CONTROLLER	Steam Controller
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG	Configurar
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG_FAIL_TEXT	No se pudo abrir la pantalla de configuración: ¿está Steam en modo Big Picture y está funcionando Steam Overlay?
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG_FAIL_TITLE	¡Error de Steam!
+$UI_LEGAL_TITLE	Legal
+$XBOXONE_BACK	Botón Vista
+$XBOXONE_START	Botón Menú

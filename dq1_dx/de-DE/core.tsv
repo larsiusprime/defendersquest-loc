@@ -2,9 +2,9 @@ flag	content	comment
 $BASE_ATTACK	Grundangriff
 $BATTLE_STARTING_FORMATION_TEXT	Gleiche Aufstellung wie beim letzten Mal benutzen?
 $BONUS_DEFENSE	Bonus-Verteidigung
-$BOOK_COOL_MULT	Zauber Abklingzeit x
+$BOOK_COOL_MULT	Zauber Abklingzeit x<X>
 $BOOK_COST_MULT	Zauberkosten x
-$BOOK_PSI_TAX	PSI-Steuern:
+$BOOK_PSI_TAX	PSI-Steuern: <X>
 $CANT_AFFORD_NUMS	font:16,x_off:1,y_off:-4
 $CONFIRM_QUIT_TEXT	<RE>$CONFIRM_RESTART_TEXT
 $CONFIRM_QUIT_TITLE	Die Schlacht verlassen?
@@ -69,7 +69,7 @@ $FB_THIS_ITEM_WILL_NOW	Dieser Gegenstand wird nun immer in jedem Spieler-Inventa
 $FLAV_DESC_ARMOR_BREAK_AMT_GRTR_1	Zerstört <AMT_2DIG><EXTRA> Rüstungspunkte für jeden Punkt bei „Angriff“
 $FLAV_DESC_ARMOR_BREAK_AMT_LESS_1	Zerstört 1 Rüstungspunkt für jeden <INV_AMOUNT><EXTRA>. Punkt bei „Angriff“.
 $FLAV_DESC_ARMOR_BREAK_DIRECT	Angriff zerstört <AMTDMG><EXTRA> Rüstungspunkte.
-$FLAV_DESC_ARMOR_BREAK_SHORT	Angriff ignoriert mehrere Rüstungspunkte.
+$FLAV_DESC_ARMOR_BREAK_SHORT	Angriff zerstört mehrere Rüstungspunkte.
 $FLAV_DESC_ARMOR_PIERCE_AMT_GRTR_1	Ignoriert <AMT_1DIG><EXTRA> Rüstungspunkte für jeden Punkt bei „Angriff“.
 $FLAV_DESC_ARMOR_PIERCE_AMT_LESS_1	Ignoriert 1 Rüstungspunkt für jeden <INV_AMOUNT><EXTRA>. Punkt bei „Angriff“.
 $FLAV_DESC_ARMOR_PIERCE_DIRECT	Angriff ignoriert <AMTDMG><EXTRA> Rüstungspunkte.
@@ -103,7 +103,7 @@ $FLAV_DESC_POISON_DIRECT	Feind erleidet <AMTDMG>%<EXTRA> des Angriffsschadens f�
 $FLAV_DESC_POISON_SHORT	Feind erleidet für eine kurze Zeit Schaden.
 $FLAV_DESC_SINGLE_STUN	Feind kann sich für <TIME><EXTRA_TIME> s nicht bewegen. Kann nur ein Mal gewirkt werden.
 $FLAV_DESC_SINGLE_STUN_SHORT	Feind kann sich für einige Sekunden nicht bewegen. Kann nur ein Mal gewirkt werden.
-$FLAV_DESC_SLOW	Feind ist um <PERCENT>%<EXTRA> für <TIME><EXTRA_TIME> s verlangsamt.
+$FLAV_DESC_SLOW	Feind ist für <TIME><EXTRA_TIME> s um <PERCENT>%<EXTRA> verlangsamt.
 $FLAV_DESC_SLOW_SHORT	Feind ist permanent verlangsamt.
 $FLAV_DESC_STRIKE_THROUGH	Angriff kann bis zu <INTI><EXTRA> zusätzliche Feinde treffen.
 $FLAV_DESC_STRIKE_THROUGH_SHORT	Angriff kann mehrere Feinde treffen.
@@ -209,7 +209,7 @@ $MISC_DELETE_BOTH_GOG_ACHIEVEMENT	Lokale & GOG-Achievements löschen
 $MISC_DELETE_BOTH_STEAM_ACHIEVEMENT	Lokale & Steam-Achievements löschen
 $MISC_DELETE_LOCAL_ACHIEVEMENT	Nur lokale Achievements löschen
 $MISC_DEMO_VERSION	Demo-Version
-$MISC_DEMO_VERSION_DESC	Dies ist eine öffentliche Pre-Release Demo von Defender's Quest: Valley of the Forgotten, HD Special Edition.<N><N>Sie könnte ein paar Fehler enthalten und die Grafiken und andere Features sind noch nicht ganz vollständig.<N><N>Bitte denke daran, dass diese Demo nicht repräsentativ für das fertige Produkt ist.
+$MISC_DEMO_VERSION_DESC	Dies ist die Demoversion von Defender's Quest: Valley of the Forgotten, Deluxe Edition.<N><N>Sie enthält etwa 20% des ganzen Spiels und erlaubt dir, deinen Spielstand in die Vollversion zu importieren, damit du deinen Fortschritt nicht verlierst.
 $MISC_DESCRIPTION	Beschreibung
 $MISC_DISABLED	deaktiviert
 $MISC_DOWNLOAD	Download
@@ -538,7 +538,7 @@ $SKILL_DESC_HEAL	Heilen
 $SKILL_DESC_HITS	Treffer
 $SKILL_DESC_HITS_NUM	# Treffer
 $SKILL_DESC_PSI_COST	Psi-Kosten
-$SKILL_DESC_SPECIAL	
+$SKILL_DESC_SPECIAL	Speziell
 $SKILL_DESC_SPLASH	Umgebung
 $SKILL_DESC_TARGET	Ziel
 $SKILL_DESC_TOTAL_BONUS	Gesamtbonus für <STAT>*<N> wird zu +<AMOUNT><EXTRA>.
@@ -668,9 +668,9 @@ $TIP_20_TEXT	Jeder Verteidiger erhält mit jedem erlangten Level 1 Talentpunkt.<
 $TIP_20_TITLE	Talente
 $TIP_200_TEXT	Manchmal kann dir eine spezielle Technik Probleme bereiten (vielleicht schmelzen deine Drachen-Feuerbälle all dein Eis) oder du möchtest einfach eine starke Attacke für später aufsparen. Dann kannst du auf einen Verteidiger klicken und im Menü unten rechts auf die Technik klicken, um sie zu temporär zu deaktivieren.
 $TIP_200_TITLE	Techniken ausschalten
-$TIP_210_TEXT	Im Speichermenü gibt es einen Knopf mit Bild eines Ordners und einem Schraubenschlüssel.<N><N>Dieser wird dich zu dem Ordner bringen, in dem deine gespeicherten Spiele und Einstellungen gespeichert sind.
+$TIP_210_TEXT	Im Speichermenü gibt es einen Knopf mit Bild eines Ordners und einer Diskette.<N><N>Dieser wird dich zu dem Ordner bringen, in dem deine gespeicherten Spiele und Einstellungen gespeichert sind.
 $TIP_210_TITLE	Wo sind meine Spielstände?
-$TIP_220_TEXT	Nachdem du das reguläre Spiel beendet hast, kannst du ein neues Abenteuer mit deiner alten Gruppe starten, eines mit schwierigeren Kämpfen und verrückten Belohnungen!<N><N>Begib dich zum Speicher-Bildschirm und wähle NEUES SPIEL+ bei deinem alten Speicherstand.
+$TIP_220_TEXT	Nachdem du das reguläre Spiel beendet hast, kannst du ein neues Abenteuer mit deiner alten Gruppe starten, eines mit schwierigeren Kämpfen und verrückten Belohnungen!<N><N><RE>[$NEW_GAME_PLUS_NOTE]
 $TIP_220_TITLE	Neues Spiel+
 $TIP_230_TEXT	Im NS+-Modus kannst du besondere Artefakte verdienen, die du nutzen kannst, um einzigartige Ausrüstung aus dem normalen Spiel zu verbessern. Diese verbesserten Gegenstände haben besondere Kräfte!
 $TIP_230_TITLE	Verbesserungen
@@ -678,7 +678,7 @@ $TIP_240_TEXT	Sobald du genügend Sterne verdient hast, wirst du anfangen, Bonus
 $TIP_240_TITLE	Bonus-Missionen
 $TIP_250_TEXT	Der Blitzzauber hat „Psibrand“, was jedes Mal einen Teil des feindlichen Psis verbrennt. Falls der Zauber dem Feind 40% Schaden zufügt, wird 40% der ursprünglichen Psi-Belohnung entfernt.
 $TIP_250_TITLE	Psi-Brand?
-$TIP_260_TEXT	Wusstest du, dass du deine eigenen Mods (Modifikationen) für Defender's Quest machen kannst?<N><N>Clicke auf den großen „M“-Knopf im Speichermenü. Du kannst fast alles ändern – Eigenschaften, Level, Klassen, Charaktere, Zwischensequenzen, Grafiken, Gegenstände, etc.
+$TIP_260_TEXT	Wusstest du, dass du deine eigenen Mods (Modifikationen) für Defender's Quest erstellen kannst?<N><N>Clicke auf den Schraubenschlüssel im Speichermenü. Du kannst fast alles ändern – Eigenschaften, Level, Klassen, Charaktere, Zwischensequenzen, Grafiken, Gegenstände, usw.
 $TIP_260_TITLE	Mod-Unterstützung
 $TIP_270_TEXT	<N><N>Ruf deine Mutter an, sie vermisst dich.
 $TIP_270_TITLE	Denk an deine Mutter
@@ -704,7 +704,7 @@ $TITLE_EULA_1	Durch Spielen akzeptierst du unseren
 $TITLE_EULA_2	Endnutzer-Lizenzvertrag („EULA“)
 $TITLE_FULL_GAME	VOLLVERSION
 $TITLE_OPTIONS	Optionen
-$TITLE_PLEASE_WAIT	Bitte warten …
+$TITLE_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
 $TITLE_QUIT	Beenden
 $TITLE_RELOAD_MOD	Mod wieder aktivieren
 $TITLE_START	Start
@@ -779,7 +779,7 @@ $UI_BONUS_NUMS	select_font:14,locked_font:11
 $UI_BONUS_STARS_LINE	<STAR_NUM> <STAR_COLOR> Sterne
 $UI_CLOUD_UNKNOWN	Cloud-Spielstände
 $UI_CLOUD_UNKNOWN_TEXT	Aktiviere Steam-Cloud-Spielstände?
-$UI_CLOUD_UNKNOWN_TEXT_2	Du kannst diese Einstellung jederzeit ändern unter:<N><N>Optionen:Sonstiges
+$UI_CLOUD_UNKNOWN_TEXT_2	Ändere diese Einstellung jederzeit unter:<N>Optionen:Sonstiges
 $UI_CONFLICT_BACKUP	Sichere die Datei, die ich nicht auswähle, unter:<N><LOC>
 $UI_CONFLICT_BETTER	Wir denken, dass dies besser ist
 $UI_CONFLICT_BUTTON	Benutze dies
@@ -821,7 +821,7 @@ $UI_CONTROLS_NORMAL	Normal
 $UI_CONTROLS_NUMS	font:18,off_y:1,off_x:-2
 $UI_CONTROLS_OUYA	Ouya
 $UI_CONTROLS_PAUSE	Pause
-$UI_CONTROLS_PLUS_SPEED	schneller
+$UI_CONTROLS_PLUS_SPEED	<PLUS> Schnelle
 $UI_CONTROLS_POINTER	Pointer
 $UI_CONTROLS_PRESET_AZERTY	Azerty
 $UI_CONTROLS_PRESET_COLEMAK	Colemak
@@ -830,7 +830,7 @@ $UI_CONTROLS_PRESET_DEFAULT	Standard
 $UI_CONTROLS_PRESET_DVORAK	Dvorak
 $UI_CONTROLS_PRESET_LEFTY	Lefty
 $UI_CONTROLS_PRESET_PS	PlayStation
-$UI_CONTROLS_PRESET_PSJ	Japanese
+$UI_CONTROLS_PRESET_PSJ	Japanisch
 $UI_CONTROLS_PRESET_QWERTY	Qwerty
 $UI_CONTROLS_PRESET_QWERTZ	Qwertz
 $UI_CONTROLS_PRESET_WIIU	WiiU Standard
@@ -1016,7 +1016,7 @@ $UI_MOD_SHARE_TEXT_LOCAL	Dies wird deine Mod in eine einzige Datei für eine ein
 $UI_MOD_SHARE_TEXT_STEAM	Dies wird deine Mod packen und in den Steam Workshop hochladen.
 $UI_MOD_SHARE_TITLE	Mod teilen
 $UI_MOD_SHARED	Geteilt
-$UI_MOD_SPRITES	<PLUS>4M für Sprites
+$UI_MOD_SPRITES	<PLUS>4M Sprites
 $UI_MOD_STEAM_SEND	An Steam senden
 $UI_MOD_STEAM_UPLOAD	Zu Steam hochladen …
 $UI_MOD_STEAM_WAIT	Warten auf Antwort von Steam …<N>(Könnte etwas dauen)
@@ -1197,3 +1197,401 @@ $MISC_REQUIRES_RESTART	(Neustart erforderlich)
 $MISC_PICTURE_SIZE	Bildgröße
 $MISC_SIGNED_OUT	<USER> hat sich abgemeldet.
 $MISC_SIGNED_IN	Angemeldet als <USER>.
+$MISC_RESTART_XBOX Deine Xbox neu starten?
+$MISC_SWITCH_USER	Benutzer wechseln
+$ACTIONS_BATTLECONTROLS	Kampf
+$ACTIONS_BATTLE_BACK	<RE>$BATTLE_BACK
+$ACTIONS_BATTLE_CYCLE_NEXT	Nächster<N>Verteidiger
+$ACTIONS_BATTLE_CYCLE_PREVIOUS	Vorheriger<N>Verteidiger
+$ACTIONS_BATTLE_DEFENDERS	<RE>$BATTLE_DEFENDERS
+$ACTIONS_BATTLE_FINE_MOVE	<RE>$BATTLE_FINE_MOVE
+$ACTIONS_BATTLE_FREE_MOVE	<RE>$BATTLE_FREE_MOVE
+$ACTIONS_BATTLE_MENU	<RE>$BATTLE_MENU
+$ACTIONS_BATTLE_MENU_MOVE	<RE>$BATTLE_MOVE
+$ACTIONS_BATTLE_PAUSE	<RE>$MISC_PAUSE
+$ACTIONS_BATTLE_SELECT	<RE>$BATTLE_SELECT_UNIT
+$ACTIONS_BATTLE_SPEED_MINUS	Langsamer
+$ACTIONS_BATTLE_SPEED_PLUS	Schneller
+$ACTIONS_BATTLE_SPELLS	Zauber
+$ACTIONS_BATTLE_SPELL_SPAM	Zauber<N>wiederholen
+$ACTIONS_BATTLE_TILE_MOVE	<RE>$BATTLE_TILE_MOVE
+$ACTIONS_CUTSCENECONTROLS	Cutscene
+$ACTIONS_CUTSCENE_NEXT	<RE>$MISC_NEXT
+$ACTIONS_CUTSCENE_PREVIOUS	<RE>$MISC_PREVIOUS
+$ACTIONS_CUTSCENE_SKIP	<RE>$MISC_SKIP
+$ACTIONS_MAPCONTROLS	Weltkarte
+$ACTIONS_MAP_EXIT	<RE>$MISC_EXIT
+$ACTIONS_MAP_JOURNAL	<RE>$MISC_JOURNAL
+$ACTIONS_MAP_MENU	<RE>$MISC_MENU
+$ACTIONS_MAP_MOVE	Zeiger bewegen
+$ACTIONS_MAP_MOVE_MAP	Auf Karte bewegen
+$ACTIONS_MAP_SCROLL_MAP	Karte scrollen
+$ACTIONS_MAP_SELECT	<RE>$MISC_SELECT
+$ACTIONS_MENUCONTROLS	Menü
+$ACTIONS_MENUCONTROLSWITHANALOG	Menü
+$ACTIONS_MENU_CANCEL	Abbruch
+$ACTIONS_MENU_MENU	Menü
+$ACTIONS_MENU_MOVE	Zeiger bewegen
+$ACTIONS_MENU_SELECT	Wählen
+$ACTIONS_MENU_THING_1	Option 1
+$ACTIONS_MENU_THING_2	Option 2
+$ACTIONS_MENU_THING_3	Option 3
+$BATTLE_BACK	<RE>$MISC_BACK
+$BATTLE_DEFENDERS	<RE>$MISC_DEFENDERS
+$BATTLE_FINE_MOVE	Langsam bewegen
+$BATTLE_FREE_MOVE	Fingerzeiger
+$BATTLE_MAP	Karte
+$BATTLE_MENU	<RE>$MISC_MENU
+$BATTLE_MOVE	Bewegen
+$BATTLE_MOVE_MOUSE	Maus bewegen
+$BATTLE_SELECT_UNIT	Einheit<N>wählen
+$BATTLE_SPELLS	<RE>$STAT_DESC_SPELLS
+$BATTLE_TILE_MOVE	Kachel bewegen
+$BOOK_COOLDOWN_OP	Zauber-Abklingzeit <X>
+$BOOK_COST_OP	Zauberkosten <X>
+$CONTROL_SWITCH_WARNING	Du kannst wichtige Eingabemethoden nicht mitten in der Schlacht wechseln. Tut uns leid!
+$DATA_DUMP_MAPS	<RE>$DATA_DUMP_MAP_FILES
+$EQUIP_THE_THING	<RE>$MISC_EQUIP	The word 'equip' that appears on the button in the equip menu in the party screen, to actually put the item on your character
+$GAMEPAD_A	A-Taste
+$GAMEPAD_B	B-Taste
+$GAMEPAD_BACK	Zurück-Taste
+$GAMEPAD_BUTTON_SPACER
+$GAMEPAD_DPAD	Steuerkreuz
+$GAMEPAD_DPAD_DOWN	Unten-Taste
+$GAMEPAD_DPAD_LEFT	Links-Taste
+$GAMEPAD_DPAD_RIGHT	Rechts-Taste
+$GAMEPAD_DPAD_UP	Oben-Taste
+$GAMEPAD_EMPTY	Leer
+$GAMEPAD_LEFT_ANALOG_STICK	Linker Stick
+$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS	Linker Stick, zeigt nach LINKS
+$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS	Linker Stick, zeigt nach RECHTS
+$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS	Linker Stick, zeigt nach OBEN
+$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS	Linker Stick, zeigt nach UNTEN
+$GAMEPAD_LEFT_SHOULDER	Linke Schultertaste
+$GAMEPAD_LEFT_STICK_CLICK	Linker Stick, GEDRÜCKT
+$GAMEPAD_LEFT_TRIGGER	Linker Analog-Trigger
+$GAMEPAD_NOTE	Zum Verändern auswählen
+$GAMEPAD_RIGHT_ANALOG_STICK	Rechte Rechter Stick
+$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS	Rechter Stick, zeigt nach LINKS
+$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS	Rechter Stick, zeigt nach RECHTS
+$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS	Rechter Stick, zeigt nach OBEN
+$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS	Rechter Stick, zeigt nach UNTEN
+$GAMEPAD_RIGHT_SHOULDER	Rechte Schultertaste
+$GAMEPAD_RIGHT_STICK_CLICK	Rechter Stick, GEDRÜCKT
+$GAMEPAD_RIGHT_TRIGGER	Rechter Analog-Trigger
+$GAMEPAD_START	Start-Taste
+$GAMEPAD_TEMP_SPACER	,,,,,,
+$GAMEPAD_X	X-Taste
+$GAMEPAD_Y	Y-Taste
+$GO_TO_EQUIP_MENU	<RE>$MISC_EQUIP	The word 'equip' that appears on the button in the skills menu in the party screen, to switch to the equip menu
+$LOGITECH_A	2 (vordere) Taste
+$LOGITECH_B	3 (vordere) Taste
+$LOGITECH_BACK	9 (hintere) Taste
+$LOGITECH_DPAD	<RE>$GAMEPAD_DPAD
+$LOGITECH_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$LOGITECH_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$LOGITECH_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$LOGITECH_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$LOGITECH_EMPTY	<RE>$GAMEPAD_EMPTY
+$LOGITECH_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$LOGITECH_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$LOGITECH_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$LOGITECH_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$LOGITECH_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$LOGITECH_LEFT_SHOULDER	5 (linke Schulter) Taste
+$LOGITECH_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$LOGITECH_LEFT_TRIGGER	7 (linker) Analog-Trigger
+$LOGITECH_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$LOGITECH_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$LOGITECH_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$LOGITECH_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$LOGITECH_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$LOGITECH_RIGHT_SHOULDER	6 (rechte Schulter) Taste
+$LOGITECH_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$LOGITECH_RIGHT_TRIGGER	8 (rechter) Analog-Trigger
+$LOGITECH_START	10 (Start) Taste
+$LOGITECH_X	1 (vordere) Taste
+$LOGITECH_Y	4 (vordere) Taste
+$MISC_ACCESSORIES	Hilfsmittel
+$MISC_ACCESSORY	Hilfsmittel
+$MISC_ACCESSORY_PLURAL	<RE>$MISC_ACCESSORIES
+$MISC_ACCESSORY_SINGULAR	<RE>$MISC_ACCESSORY
+$MISC_ADJUST_REWARDS	100% ist der normale Wert. Ändere ihn, um die Menge deiner Belohnungen anzupassen.
+$MISC_ARMOR_PLURAL	<RE>$MISC_ARMOR
+$MISC_ARMOR_SINGULAR	<RE>$MISC_ARMOR
+$MISC_BREAK_HERO_MODE_TEXT	Du hast dich für den <LQ>Heldenmodus<RQ> entschieden. Dieser lässt dich keine generischen Charaktere rekrutieren.<N>Den Modus verlassen und doch einen Charakter rekrutieren?
+$MISC_BREAK_HERO_MODE_TITLE	Heldenmodus verlassen?
+$MISC_CURRENT_SAVE	Derzeitiger Spielstand:
+$MISC_CUSTOM_SETTINGS	Ändern...
+$MISC_DEFAULT_SETTINGS	Standard (empfohlen für neue Spieler)
+$MISC_DELETE_ACHIEVEMENT	Achievements löschen?
+$MISC_DELETE_BOTH_GOG_ACHIEVEMENT	Lokale & GOG-Achievements löschen
+$MISC_DELETE_BOTH_STEAM_ACHIEVEMENT	Lokale & Steam-Achievements löschen
+$MISC_DELETE_LOCAL_ACHIEVEMENT	Nur lokale Achievements löschen
+$MISC_DEVICE_DISCONNECTED_TEXT	Verbindung mit "<NAME>" in Steckplatz <SLOT> wurde getrennt!
+$MISC_DEVICE_DISCONNECTED_TITLE	Gerät entfernt!
+$MISC_EDIT	Bearbeiten
+$MISC_FAIL_TT_TEXT	So viel Erfahrung und Kram geht verloren, wenn du eine Schlacht verlierst.<N>-50% ist der normale Wert. Ändere ihn, um die Höhe der Strafe anzupassen.
+$MISC_FAIL_TT_TITLE	<RE>$UI_ACCESS_FAILURE_PENALTY
+$MISC_GOLD_TT_TEXT	Kram (Geld), den du nach einer Schlacht bekommst.<N><RE>[$MISC_ADJUST_REWARDS]
+$MISC_GOLD_TT_TITLE	Kram
+$MISC_HERO_MODE	Heldenmodus
+$MISC_HERO_MODE_TEXT	Generische Charaktere können nicht rekrutiert werden.<N>Überhaupt NICHT empfohlen, wenn du das Spiel zum ersten Mal spielst!<N><N>ANMERKUNG:<N>Du kannst deine Meinung später noch ändern, indem du einen Charakter rekrutierst und die Warnung ignorierst.<N><N>Wir empfehlen dir, erhaltene Erfahrung und Kram auf 300% anzuheben, wenn du im Heldenmodus spielst.<N><N>Zu guter Letzt: diese Einstellung wird für Heldenmodus-Achievements nicht benötigt. Du kannst auch ganz normal ohne generische Charaktere spielen.
+$MISC_HERO_MODE_TITLE	<RE>$MISC_HERO_MODE
+$MISC_INPUT_0	Eingabe:
+$MISC_INPUT_1	Eingabe 1:
+$MISC_INPUT_2	Eingabe 2:
+$MISC_INPUT_3	Eingabe 3:
+$MISC_INSPECT	ansehen
+$MISC_LEVEL_PARTY_GEM	Level	Erscheint auf Charakterblöcken im Gruppen-Bildschirm
+$MISC_LEVEL_WAVE_BLOCK	Level	Erscheint auf feindlichen Blöcken in der Schlacht
+$MISC_LOAD_ORDER	Ladereihenfolge
+$MISC_NEW_GAME_SETTINGS	Einstellungen Neues Spiel
+$MISC_OVERWRITE	Überschreiben bestätigen
+$MISC_OVERWRITE2	"<MODNAME>" überschreiben?
+$MISC_OVERWRITE_TEXT	Einige abonnierte Mods entsprechen nicht den lokalen Versionen. Mit dem Überschreiben fortfahren?
+$MISC_OVERWRITE_TEXT2	<SOURCE><N><N>--><N><N><DEST>
+$MISC_PAUSE	anhalten
+$MISC_RESTORE_DEFAULTS	Standard wiederherstellen
+$MISC_SAVE_ERROR_TEXT	Autospeichern hat nicht funktioniert, Zugriffserlaubnisse prüfen?<N>Wir versuchen es später nochmal.
+$MISC_SAVE_ERROR_TITLE	Autospeichern Fehler!
+$MISC_SAVE_FIXED_TEXT	Autospeichern erfolgreich. Sieht so aus, als würde jetzt alles funktionieren.<N>Wir halten jetzt auch die Klappe.
+$MISC_SAVE_FIXED_TITLE	Autospeichern erfolreich!
+$MISC_SELECTED	Gewählt
+$MISC_SLOT	Platz
+$MISC_SPLASH_TILES	Kacheln
+$MISC_TITLE_SAFE_TEXT	Bewege die Analogsticks, bis alle Kästen sichtbar sind.
+$MISC_UNIVERSAL	Universal
+$MISC_WAVE_X	Welle <X>
+$MISC_WEAPON_PLURAL	<RE>$MISC_WEAPONS
+$MISC_WEAPON_SINGULAR	Waffe
+$MISC_XP_TT_TEXT	Erfahrung, die du nach einer Schlacht bekommst.<N><RE>[$MISC_ADJUST_REWARDS]
+$MISC_XP_TT_TITLE	Erfahrung
+$NEW_GAME_PLUS_NOTE	Geh zum Speicherbildschirm und wähle NEUES SPIEL+ an deinem alten Spielstand.
+$OUYA_A	O-Taste
+$OUYA_B	A-Taste
+$OUYA_BACK	<RE>$GAMEPAD_BACK
+$OUYA_DPAD	<RE>$GAMEPAD_DPAD
+$OUYA_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$OUYA_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$OUYA_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$OUYA_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$OUYA_EMPTY	<RE>$GAMEPAD_EMPTY
+$OUYA_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$OUYA_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$OUYA_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$OUYA_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$OUYA_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$OUYA_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER
+$OUYA_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$OUYA_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER
+$OUYA_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$OUYA_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$OUYA_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$OUYA_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$OUYA_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$OUYA_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER
+$OUYA_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$OUYA_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
+$OUYA_START	<RE>$GAMEPAD_START
+$OUYA_X	U-Taste
+$OUYA_Y	Y-Taste
+$PS3_A	<RE>$PS4_A
+$PS3_B	<RE>$PS4_B
+$PS3_BACK	Select-Taste
+$PS3_DPAD	<RE>$PS4_DPAD
+$PS3_DPAD_DOWN	<RE>$PS4_DPAD_DOWN
+$PS3_DPAD_LEFT	<RE>$PS4_DPAD_LEFT
+$PS3_DPAD_RIGHT	<RE>$PS4_DPAD_RIGHT
+$PS3_DPAD_UP	<RE>$PS4_DPAD_UP
+$PS3_EMPTY	<RE>$PS4_EMPTY
+$PS3_LEFT_ANALOG_STICK	<RE>$PS4_LEFT_ANALOG_STICK
+$PS3_LEFT_ANALOG_STICK_X_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_X_MINUS
+$PS3_LEFT_ANALOG_STICK_X_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_X_PLUS
+$PS3_LEFT_ANALOG_STICK_Y_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_MINUS
+$PS3_LEFT_ANALOG_STICK_Y_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_PLUS
+$PS3_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER
+$PS3_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$PS3_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER
+$PS3_RIGHT_ANALOG_STICK	<RE>$PS4_RIGHT_ANALOG_STICK
+$PS3_RIGHT_ANALOG_STICK_X_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_MINUS
+$PS3_RIGHT_ANALOG_STICK_X_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_PLUS
+$PS3_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_MINUS
+$PS3_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_PLUS
+$PS3_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER
+$PS3_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$PS3_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
+$PS3_START	<RE>$GAMEPAD_START
+$PS3_X	<RE>$PS4_X
+$PS3_Y	<RE>$PS4_Y
+$PS4_A	X-Taste
+$PS4_B	Kreis-Taste
+$PS4_BACK	Share-Taste
+$PS4_BACK_PS4	Touchpad
+$PS4_DPAD	<RE>$GAMEPAD_DPAD
+$PS4_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$PS4_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$PS4_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$PS4_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$PS4_EMPTY	<RE>$GAMEPAD_EMPTY
+$PS4_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$PS4_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$PS4_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$PS4_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$PS4_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$PS4_LEFT_SHOULDER	L1-Schultertaste
+$PS4_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$PS4_LEFT_TRIGGER	L2-Analogtrigger
+$PS4_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$PS4_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$PS4_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$PS4_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$PS4_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$PS4_RIGHT_SHOULDER	R1-Schultertaste
+$PS4_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$PS4_RIGHT_TRIGGER	R2-Analogtrigger
+$PS4_START	Options-Taste
+$PS4_X	Quadrat-Taste
+$PS4_Y	Dreieck-Taste
+$PSVITA_A	<RE>$PS4_A
+$PSVITA_B	<RE>$PS4_B
+$PSVITA_BACK	Select-Taste
+$PSVITA_DPAD	<RE>$PS4_DPAD
+$PSVITA_DPAD_DOWN	<RE>$PS4_DPAD_DOWN
+$PSVITA_DPAD_LEFT	<RE>$PS4_DPAD_LEFT
+$PSVITA_DPAD_RIGHT	<RE>$PS4_DPAD_RIGHT
+$PSVITA_DPAD_UP	<RE>$PS4_DPAD_UP
+$PSVITA_EMPTY	<RE>$PS4_EMPTY
+$PSVITA_LEFT_ANALOG_STICK	<RE>$PS4_LEFT_ANALOG_STICK
+$PSVITA_LEFT_ANALOG_STICK_X_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_X_MINUS
+$PSVITA_LEFT_ANALOG_STICK_X_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_X_PLUS
+$PSVITA_LEFT_ANALOG_STICK_Y_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_MINUS
+$PSVITA_LEFT_ANALOG_STICK_Y_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_PLUS
+$PSVITA_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER
+$PSVITA_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$PSVITA_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER
+$PSVITA_RIGHT_ANALOG_STICK	<RE>$PS4_RIGHT_ANALOG_STICK
+$PSVITA_RIGHT_ANALOG_STICK_X_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_MINUS
+$PSVITA_RIGHT_ANALOG_STICK_X_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_PLUS
+$PSVITA_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_MINUS
+$PSVITA_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_PLUS
+$PSVITA_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER
+$PSVITA_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$PSVITA_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
+$PSVITA_START	<RE>$GAMEPAD_START
+$PSVITA_X	<RE>$PS4_X
+$PSVITA_Y	<RE>$PS4_Y
+$SAVE_SLOT_DELETE_TEXT	Löscht diesen Spielstand permanent von deinem Computer. Du weißt schon, was du da tust, oder?
+$SAVE_SLOT_DELETE_TITLE	Spielstand löschen
+$SAVE_SLOT_EXPORT_TEXT	Sichere deinen Spielstand in einer einfachen Textdatei.
+$SAVE_SLOT_EXPORT_TITLE	Exportiere Spielstand in Datei
+$SAVE_SLOT_IMPORT_TEXT	Durchsuche deinen Computer nach einem Defender's Quest Spielstand.
+$SAVE_SLOT_IMPORT_TITLE	Importiere Spielstand von Datei
+$SAVE_SLOT_NEW_GAME_PLUS_TEXT	Beginnt ein neues, schwierigeres Abenteuer. Deine Erfahrung, Talente und Ausrüstung bleiben erhalten. Neues Spiel+ enthält neue Gegner, neue Nebenaufgaben, stärkere Ausrüstung und ein ausführlicheres Tagebuch. <N><N>ANMERKUNG: der Charakterfortschritt zwischen deinem Originalspielstand und Neues Spiel+ ist GETEILT. Du kannst jederzeit zwischen ihnen wechseln, ohne irgendetwas zu verlieren.
+$SAVE_SLOT_NEW_GAME_PLUS_TITLE	Starte ein Neues Spiel+
+$SAVE_SLOT_PLAY_PLUS_TEXT	Charakterfortschritt zwischen deinem Originalspielstand und Neues Spiel+ ist GETEILT. Du kannst jederzeit zwischen ihnen wechseln, ohne irgendetwas zu verlieren.
+$SAVE_SLOT_PLAY_PLUS_TITLE	Neues Spiel+ fortsetzen
+$SHOP_EQUIP	<RE>$MISC_EQUIP	The word 'equip' that appears on the button in the shopping screen in towns
+$SOFT_KEYBOARD_BACKSPACE	Rücktaste
+$SOFT_KEYBOARD_CLEAR	Entf
+$SOFT_KEYBOARD_SPACE	Leertaste
+$UI_ACCESS_FAILURE_PENALTY	Strafe bei Versagen
+$UI_CONTROLS_GAMEPAD_ACTION_SET	Handlung übernommen
+$UI_CONTROLS_GAMEPAD_ICONS	Icons
+$UI_CONTROLS_INERTIA	Trägheit
+$UI_CONTROLS_PSVITA	PlayStation Vita
+$UI_CONTROLS_STEAM_CONTROLLER	Steam Controller
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG	Einstellen
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG_FAIL_TEXT	Konnte Optionsmenü nicht öffnen: ist Steam im Big Picture Modus und funktioniert das Steam-Overlay?
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG_FAIL_TITLE	Steam-Fehler!
+$UI_DEMO_IMPORT_OPTIONS	Einstellungen von der Demo importieren?
+$UI_DEMO_OPTIONS_DETECTED	Demo-Einstellungen gefunden!
+$UI_LEGACY_IMPORT_SAVES	Spielstände aus einer alten Version von Defender's Quest importieren?
+$UI_LEGACY_SAVES_DETECTED	Legacy-Spielstände gefunden!
+$UI_LEGAL_TITLE	Rechtliches
+$WIIU_A	B-Knopf
+$WIIU_B	A-Knopf
+$WIIU_BACK	-/SELECT-Knopf
+$WIIU_DPAD	<RE>$GAMEPAD_DPAD
+$WIIU_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$WIIU_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$WIIU_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$WIIU_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$WIIU_EMPTY	<RE>$GAMEPAD_EMPTY
+$WIIU_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$WIIU_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$WIIU_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$WIIU_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$WIIU_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$WIIU_LEFT_SHOULDER	L-Taste
+$WIIU_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$WIIU_LEFT_TRIGGER	ZL-Taste
+$WIIU_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$WIIU_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$WIIU_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$WIIU_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$WIIU_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$WIIU_RIGHT_SHOULDER	R-Taste
+$WIIU_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$WIIU_RIGHT_TRIGGER	ZR-Taste
+$WIIU_START	<PLUS>/START-Knopf
+$WIIU_X	Y-Knopf
+$WIIU_Y	X-Knopf
+$XBOX360_A	<RE>$GAMEPAD_A
+$XBOX360_B	<RE>$GAMEPAD_B
+$XBOX360_BACK	<RE>$GAMEPAD_BACK
+$XBOX360_DPAD	<RE>$GAMEPAD_DPAD
+$XBOX360_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$XBOX360_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$XBOX360_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$XBOX360_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$XBOX360_EMPTY	<RE>$GAMEPAD_EMPTY
+$XBOX360_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$XBOX360_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$XBOX360_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$XBOX360_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$XBOX360_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$XBOX360_LEFT_SHOULDER	<RE>$GAMEPAD_LEFT_SHOULDER
+$XBOX360_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$XBOX360_LEFT_TRIGGER	<RE>$GAMEPAD_LEFT_TRIGGER
+$XBOX360_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$XBOX360_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$XBOX360_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$XBOX360_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$XBOX360_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$XBOX360_RIGHT_SHOULDER	<RE>$GAMEPAD_RIGHT_SHOULDER
+$XBOX360_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$XBOX360_RIGHT_TRIGGER	<RE>$GAMEPAD_RIGHT_TRIGGER
+$XBOX360_START	<RE>$GAMEPAD_START
+$XBOX360_X	<RE>$GAMEPAD_X
+$XBOX360_Y	<RE>$GAMEPAD_Y
+$XBOXONE_A	<RE>$GAMEPAD_A
+$XBOXONE_B	<RE>$GAMEPAD_B
+$XBOXONE_BACK	View-Taste
+$XBOXONE_DPAD	<RE>$GAMEPAD_DPAD
+$XBOXONE_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$XBOXONE_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$XBOXONE_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$XBOXONE_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$XBOXONE_EMPTY	<RE>$GAMEPAD_EMPTY
+$XBOXONE_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$XBOXONE_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$XBOXONE_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$XBOXONE_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$XBOXONE_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$XBOXONE_LEFT_SHOULDER	<RE>$GAMEPAD_LEFT_SHOULDER
+$XBOXONE_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$XBOXONE_LEFT_TRIGGER	<RE>$GAMEPAD_LEFT_TRIGGER
+$XBOXONE_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$XBOXONE_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$XBOXONE_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$XBOXONE_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$XBOXONE_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$XBOXONE_RIGHT_SHOULDER	<RE>$GAMEPAD_RIGHT_SHOULDER
+$XBOXONE_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$XBOXONE_RIGHT_TRIGGER	<RE>$GAMEPAD_RIGHT_TRIGGER
+$XBOXONE_START	Menü-Taste
+$XBOXONE_X	<RE>$GAMEPAD_X
+$XBOXONE_Y	<RE>$GAMEPAD_Y
+$YOU_GOT_NEW_GAME_PLUS_TEXT	Herzlichen Glückwunsch! Du kannst jetzt ein neues Abenteuer mit deiner alten Gruppe beginnen!<N><N>Stelle dich Mutanten mit neuen Fähigkeiten, verzaubere deine Ausrüstung mit wundersamen neuen Kräften und hol dir neue Bücher für deine Bibliothek. Löse neue Nebenaufgaben mit zusätzlichen Zwischensequenzen und neuen Geschichten, schalte Kommentare der Entwickler frei, übersetze Eztli-Tenochs Sprache, triff neue Charaktere und noch viel mehr!<N><N><RE>[$NEW_GAME_PLUS_NOTE]<N><N>Du kannst jederzeit zu deinem <LQ>normalen<RQ> Spiel zurückkehren.
+$YOU_GOT_NEW_GAME_PLUS_TITLE	Neues Spiel+ freigeschaltet!
