@@ -829,7 +829,7 @@ $UI_CONTROLS_PRESET_COLEMAK	Colemak
 $UI_CONTROLS_PRESET_CUSTOM	Personalizado			
 $UI_CONTROLS_PRESET_DEFAULT	Por defecto			
 $UI_CONTROLS_PRESET_DVORAK	Dvorak			
-$UI_CONTROLS_PRESET_LEFTY	Lefty			
+$UI_CONTROLS_PRESET_LEFTY	Zurdo			
 $UI_CONTROLS_PRESET_PS	PlayStation			
 $UI_CONTROLS_PRESET_PSJ	Japonés			
 $UI_CONTROLS_PRESET_QWERTY	Qwerty			
@@ -1271,7 +1271,7 @@ $MISC_OVERWRITE2	¿Sobrescribir "<MODNAME>"?
 $MISC_PAUSE	pausa
 $MISC_SELECTED	Seleccionado
 $MISC_SLOT	espacio
-$MISC_TITLE_SAFE_TEXT	Mueves las palancas/sticks/joysticks<N>hasta que todas las cajas sean visibles.
+$MISC_TITLE_SAFE_TEXT	Mueves las sticks hasta que<N>todas las cajas sean visibles.
 $MISC_UNIVERSAL	Universal
 $MISC_WEAPON_SINGULAR	arma
 $MISC_XP_TT_TEXT	Los puntos de experiencia que obtienes tras una batalla.<N><RE>[$MISC_ADJUST_REWARDS]
