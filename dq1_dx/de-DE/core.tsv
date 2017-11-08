@@ -1099,7 +1099,7 @@ $UI_SKILLS_CLICK_TO_UPGRADE	Zum Verbessern klicken.
 $UI_SKILLS_MAX	MAXIMUM
 $UI_SKILLS_MOUSE_OVER	Zum Ansehen mit Maus überfahren.
 $UI_SKILLS_NO_LEARN_SPELL	Du hast diesen Zauber noch nicht gelernt.
-$UI_SKILLS_NO_POINTS	Keine Punkte verfügbar.
+$UI_SKILLS_NO_POINTS	Keine Punkte.
 $UI_SKILLS_REQ_1PT	BENÖTIGT: Char. Level <LVL>,<N><PT> Punkt bei <SKILL>
 $UI_SKILLS_REQ_XPT	BENÖTIGT: Char. Level <LVL>,<N><PT> Punkte in <SKILL>
 $UI_TIPS_TITLE	Tipps & Tricks

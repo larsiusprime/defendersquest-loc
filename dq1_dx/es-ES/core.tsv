@@ -372,7 +372,7 @@ $MISC_SECONDS_SHORT	segs
 $MISC_SELECT	Seleccionar			
 $MISC_SELECT_CHALLENGE	Seleccionar desafío:			
 $MISC_SELL	vender			
-$MISC_SEND_NEXT	Enviar SIGUIENTE			
+$MISC_SEND_NEXT	SIGUIENTE			
 $MISC_SKILL	habilidad			
 $MISC_SKILLS	habilidades			
 $MISC_SKILLTREE_DESC_NUMS	x_off:12			
@@ -462,7 +462,7 @@ $PARTY_GO_TO_MAP	Ir al mapa
 $PARTY_HP	PV			
 $PARTY_NO_AFFORD	¡No tienes suficiente para esto!<N>Coste: <COST><N>Chatarra: <SCRAP>			
 $PARTY_NO_NEW_ACHIEVE	No hay logros nuevos.			
-$PARTY_NO_POINTS	¡No hay puntos de habilidad que reasignar!			
+$PARTY_NO_POINTS	¡No hay puntos!			
 $PARTY_PASSED	¡Nivel completado!			
 $PARTY_PASSED_ALLY_DEAD_DESC	<ALLY> ha muerto,<N>pero <MCG> ha sobrevivido.			
 $PARTY_PASSED_DESC	<MCG> sobrevivió a la batalla<N>con algunas heridas.			
