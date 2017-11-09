@@ -1303,3 +1303,5 @@ $UI_CONTROLS_STEAM_CONTROLLER_CONFIG_FAIL_TITLE	¡Error de Steam!
 $UI_LEGAL_TITLE	Legal
 $XBOXONE_BACK	Botón Vista
 $XBOXONE_START	Botón Menú
+$MISC_NO_SIGN_IN_WARNING	Tus avances no se guardarán si no inicias sesión.
+$MISC_NEW_USER	Nuevo usuario

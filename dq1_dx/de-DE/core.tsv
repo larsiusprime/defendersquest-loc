@@ -763,7 +763,7 @@ $UI_ALL_FILES	Alle Dateien
 $UI_AUDIO_NUMS	font:18,off_y:1,off_x:-2
 $UI_AUDIO_TITLE	Audio
 $UI_BACK_NUMS	font:18,off_y:1,off_x:-3
-$UI_BATTLE_CASH_OUT	Ausbe-<N>zahlen
+$UI_BATTLE_CASH_OUT	Ausbezahlen
 $UI_BATTLE_CASH_OUT_NUMS	y_off:-6,leading:-3
 $UI_BATTLE_CASH_OUT_TEXT	Die Schlacht jetzt beenden und alle Belohnungen, die du verdient hast, einsammeln?
 $UI_BATTLE_CASH_OUT?	Ausbezahlen?

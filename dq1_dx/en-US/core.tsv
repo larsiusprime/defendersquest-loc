@@ -1519,3 +1519,5 @@ $MISC_SIGNED_OUT	<USER> has signed out.
 $MISC_SIGNED_IN	Signed in as <USER>.
 $MISC_SWITCH_USER	Switch user
 $MISC_RESTART_XBOX	Restart your Xbox?
+$MISC_NO_SIGN_IN_WARNING	Your progress will not be saved unless you sign in.
+$MISC_NEW_USER	New user
