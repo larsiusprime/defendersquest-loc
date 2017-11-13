@@ -1193,7 +1193,7 @@ $YOU_GOT_NO_EQUIP_YET	Niemand in deiner Gruppe kann momentan <THING> ausrüsten.
 $YOU_GOT_X	<NUM>x <THING>!
 $MISC_PLEASE_RECONNECT_CONTROLLER	Bitte schließen Sie den Controller wieder an.
 $PRESS_A	Drücken Sie <A>, um fortzufahren.
-$MISC_REQUIRES_RESTART	(Neustart erforderlich)
+$MISC_REQUIRES_RESTART	(Erfordert Neustart)
 $MISC_PICTURE_SIZE	Bildgröße
 $MISC_SIGNED_OUT	<USER> hat sich abgemeldet.
 $MISC_SIGNED_IN	Angemeldet als <USER>.
@@ -1595,3 +1595,5 @@ $XBOXONE_X	<RE>$GAMEPAD_X
 $XBOXONE_Y	<RE>$GAMEPAD_Y
 $YOU_GOT_NEW_GAME_PLUS_TEXT	Herzlichen Glückwunsch! Du kannst jetzt ein neues Abenteuer mit deiner alten Gruppe beginnen!<N><N>Stelle dich Mutanten mit neuen Fähigkeiten, verzaubere deine Ausrüstung mit wundersamen neuen Kräften und hol dir neue Bücher für deine Bibliothek. Löse neue Nebenaufgaben mit zusätzlichen Zwischensequenzen und neuen Geschichten, schalte Kommentare der Entwickler frei, übersetze Eztli-Tenochs Sprache, triff neue Charaktere und noch viel mehr!<N><N><RE>[$NEW_GAME_PLUS_NOTE]<N><N>Du kannst jederzeit zu deinem <LQ>normalen<RQ> Spiel zurückkehren.
 $YOU_GOT_NEW_GAME_PLUS_TITLE	Neues Spiel+ freigeschaltet!
+$MISC_NO_SIGN_IN_WARNING	Dein Fortschritt wird nur gespeichert, wenn du dich anmeldest.
+$MISC_NEW_USER	Neuer Benutzer

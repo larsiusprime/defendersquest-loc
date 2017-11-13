@@ -180,7 +180,7 @@ $ITM_ACC_BOOK_12	Final explosivo	Cuando derrotan a un defensor se activa una peq
 $ITM_ACC_BOOK_13	Libro de enfermedad	Ningún defensor salvo $MCG puede regenerar, y todos los enemigos excepto los jefes son tóxicos continuamente.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
 $ITM_ACC_BOOK_14	Libro de sangre	Todos los defensores y enemigos, excepto $MCG y los jefes, sangran continuamente.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
 $ITM_ACC_BOOK_15	Libro de sinergia	Hielo, agua y fuego ya no se cancelan.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
-$ITM_ACC_BOOK_16	Valley of the Forgotten	Este libro no tiene poderes mágicos, es una autobiografía. Cuenta la historia de una joven bibliotecaria ashiana que sobrevivió a una epidemia solo para verse atrapada en una colonia infecta.  Está escrito como un diario, con dibujos hechos a mano con materiales improvisados como carbón, té, savia de plantas y sangre.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
+$ITM_ACC_BOOK_16	El valle de los olvidados	Este libro no tiene poderes mágicos, es una autobiografía. Cuenta la historia de una joven bibliotecaria ashiana que sobrevivió a una epidemia solo para verse atrapada en una colonia infecta.  Está escrito como un diario, con dibujos hechos a mano con materiales improvisados como carbón, té, savia de plantas y sangre.<N><N><RE>[$ITM_BOOK_PERHAPS_DESCRIPTION]
 $ITM_ACC_BOOK_17	Libro de atrevimiento	Los defensores no pueden invocarse nuevamente si han sido derrotados o retirados de la batalla.
 $ITM_ACC_BOOK_18	Libro de silencio	$MCG no puede usar hechizos durante la batalla.
 $ITM_ACC_BOOK_19	Libro de caras	SOLO funciona en desafíos EXTREMOS: <N><N>Los enemigos cambiarán su <LQ>estado<RQ> aleatoriamente con nuevas caras. Muy extraño.
