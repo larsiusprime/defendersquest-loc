@@ -683,3 +683,52 @@ $4_5_RIGHT_HAND_91_TEXT	Fais de moi ton enfant !
 $4_5_RIGHT_HAND_91_TITLE	TALKSYMBOLS_CULTIST_PRIEST
 $SIDEQUEST_7_111_TEXT	Comment peux-tu nous détruire tous les deux ?
 $SIDEQUEST_7_111_TITLE	TALK_EZTLI-TENOCH_NORMAL
+$1_1_WHERE_AM_I_121_TEXT	Appuyez sur <DOWN>, puis sur <SELECT> pour le sélectionner !
+$1_1_WHERE_AM_I_121_TITLE	
+$1_1_WHERE_AM_I_191_TEXT	Utilisez <TILE_MOVE> pour vous déplacer, puis <SELECT> pour placer votre défenseur.<N>Voilà un bon endroit !
+$1_1_WHERE_AM_I_191_TITLE	
+$1_1_WHERE_AM_I_271_TEXT	Appuyez sur <PAUSE> pour lancer la bataille.
+$1_1_WHERE_AM_I_271_TITLE	
+$1_1_WHERE_AM_I_341_TEXT	Appuyez sur BOOSTER avec <SELECT> !<N>Vous ne le regretterez pas !
+$1_1_WHERE_AM_I_341_TITLE	
+$1_1_WHERE_AM_I_61_TEXT	Appuyez sur <DEFENDERS> ou sur <UP> pour sélectionner le menu BERSERKER.
+$1_1_WHERE_AM_I_61_TITLE	
+$1_2_THE_SHADOW_WORLD_121_TEXT	Utilisez le sort FOUDRE de $MCG pour les éliminer !<N>Appuyez sur <SPELLS>, puis sur <SELECT>.
+$1_2_THE_SHADOW_WORLD_121_TITLE	
+$1_2_THE_SHADOW_WORLD_31_TEXT	N'oubliez pas,<N>appuyez sur <DEFENDERS> ou sur <UP> pour sélectionner le menu BERSERKER.
+$1_2_THE_SHADOW_WORLD_31_TITLE	
+$1_2_THE_SHADOW_WORLD_51_TEXT	Utilisez <TILE_MOVE> et <SELECT> pour sélectionner $BER.
+$1_2_THE_SHADOW_WORLD_51_TITLE	
+$1_2_THE_SHADOW_WORLD_91_TEXT	N'oubliez pas de BOOSTER $BER avec <SELECT>.<N>C'est une tactique essentielle.
+$1_2_THE_SHADOW_WORLD_91_TITLE	
+$INDEX_A_201_TEXT	Appuyez sur <MENU_MENU> pour basculer vers vos personnages.
+$INDEX_A_201_TITLE	Didacticiel
+$INDEX_B1_250_TEXT	Appuyez sur <MENU_SELECT> pour inspecter $MCG.
+$INDEX_B1_250_TITLE	Didacticiel
+$INDEX_C1_260_TEXT	Appuyez sur <MENU_DOWN>, puis sur <MENU_SELECT> pour inspecter l'ARBRE DE COMPÉTENCES de $MCG.
+$INDEX_C1_260_TITLE	Didacticiel
+$INDEX_CLICK_DUDE1_190_TEXT	Appuyez sur <MENU_SELECT> pour inspecter ce personnage.
+$INDEX_CLICK_DUDE1_190_TITLE	Didacticiel
+$INDEX_D1_270_TEXT	<RE>$INDEX_B_210_TEXT
+$INDEX_D1_270_TITLE	Didacticiel
+$INDEX_D1_280_TEXT	$MCG dispose de 1 POINT DE COMPÉTENCE à dépenser.<N>Ceci vous indique ce qui se produira lorsque vous aurez amélioré cette compétence.
+$INDEX_D1_280_TITLE	Didacticiel
+$INDEX_D1_290_TEXT	Appuyez sur <MENU_SELECT> pour attribuer 1 point d'amélioration à cette compétence.
+$INDEX_D1_290_TITLE	Didacticiel
+$INDEX_LVL_DUDE_131_TEXT	Appuyez sur <MENU_MENU> pour basculer vers vos personnages.
+$INDEX_LVL_DUDE_131_TITLE	Didacticiel
+$INDEX_ORB_DUDE1_210_TEXT	<RE>$INDEX_CLICK_DUDE_140_TEXT
+$INDEX_ORB_DUDE1_210_TITLE	Didacticiel
+$INDEX_ORB_DUDE1_220_TEXT	<RE>$INDEX_CLICK_DUDE_150_TEXT
+$INDEX_ORB_DUDE1_220_TITLE	Didacticiel
+$INDEX_ORB_DUDE1_230_TEXT	<RE>$INDEX_CLICK_DUDE_160_TEXT
+$INDEX_ORB_DUDE1_230_TITLE	Didacticiel
+$INDEX_ORB_DUDE1_240_TEXT	Ce panneau montre ce qui se produira lorsque vous aurez amélioré cette compétence.
+$INDEX_ORB_DUDE1_240_TITLE	Didacticiel
+$INDEX_ORB_DUDE1_250_TEXT	<RE>$INDEX_D1_290_TEXT
+$INDEX_ORB_DUDE1_250_TITLE	Didacticiel
+$INDEX_SECOND_LEVEL_111_TEXT	Appuyez sur <MOVE_MAP_DOWN> pour passer à la suite.
+$INDEX_SECOND_LEVEL_111_TITLE	
+$INDEX_SKILL_DUDE1_200_TEXT	Appuyez sur <MENU_DOWN>, puis sur <MENU_SELECT> pour inspecter l'ARBRE DE COMPÉTENCES de ce personnage.
+$INDEX_SKILL_DUDE1_200_TITLE	Didacticiel
+$TEST	juste un test...

@@ -633,7 +633,7 @@ $LINE_3_1_INTRO_20_TEXT	Vous pensez que nous y serons à l'abri ?
 $LINE_3_1_INTRO_30_CHAR	$HEA
 $LINE_3_1_INTRO_30_TEXT	Non, mais l'une des patientes pourrait faire une alliée très puissante...
 $LINE_3_1_INTRO_40_CHAR	$HEA
-$LINE_3_1_INTRO_40_TEXT	Vous n'êtes pas la seule à être revenue des rivages de la mort avec d'étranges nouveaux talents...
+$LINE_3_1_INTRO_40_TEXT	Vous n'êtes pas la seule à être revenue des rivages de la mort avec d'étranges nouveaux talents...
 $LINE_3_1_INTRO_50_CHAR	$MCG
 $LINE_3_1_INTRO_50_TEXT	Ancien, est-ce de la fumée que j'aperçois au loin ?
 $LINE_3_1_INTRO_60_CHAR	$HEA
@@ -907,7 +907,7 @@ $LINE_3_4_INTRO_150_CHAR	$HEA
 $LINE_3_4_INTRO_150_TEXT	Je l'ai fait ! Ça doit être autre chose !
 $LINE_3_4_INTRO_160_CHAR	$MCG
 $LINE_3_4_INTRO_160_TEXT	Tout le monde autour de moi !
-$SCENE_3_4_OUTRO_TITLE	Le carburant de la machine<N><T><T><T>  de guerre
+$SCENE_3_4_OUTRO_TITLE	Le carburant de la machine<N>de guerre
 $LINE_3_4_OUTRO_00_CHAR	$MCG
 $LINE_3_4_OUTRO_00_TEXT	Qu'est-ce que c'était que ce cristal ?
 $LINE_3_4_OUTRO_10_CHAR	$HEA
@@ -2139,7 +2139,7 @@ $LINE_4_1_INTRO_80_TEXT	Son sang... SON SANG !
 $LINE_4_1_INTRO_90_CHAR	PRÉDICATEUR SANGUINAIRE
 $LINE_4_1_INTRO_90_TEXT	Zèle du Maître, emplis-moi !
 $LINE_4_1_INTRO_100_CHAR	PRÉDICATEUR SANGUINAIRE
-$LINE_4_1_INTRO_100_TEXT	AFIN QUE J'ACCOMPLISSE TA VOLONTÉ !",,,,<N>"FOR THE GREAT STONE!"	,"POUR LA GRANDE PIERRE !"",,,,
+$LINE_4_1_INTRO_100_TEXT	AFIN QUE J'ACCOMPLISSE TA VOLONTÉ !<N>POUR LA GRANDE PIERRE !
 $SCENE_4_1_OUTRO_TITLE	Accrochez-vous
 $LINE_4_1_OUTRO_00_CHAR	$MCG
 $LINE_4_1_OUTRO_00_TEXT	Mais qu'est-ce que c'était que ça ?
@@ -4484,14 +4484,14 @@ $LINE_ENDING_4_6_OUTRO_122_TEXT	Les deux mois qui se sont écoulés n’ont en r
 $LINE_ENDING_4_6_OUTRO_123_TEXT	Je n’en ai de toute façon aucune envie.
 $LINE_ENDING_4_6_OUTRO_124_TEXT	Une telle quantité de sang a été versée au cours de cette sinistre aventure, mais moi, dans ma propre cage, je n’ai pas pu y ajouter mon propre sang.
 $LINE_ENDING_4_6_OUTRO_125_TEXT	J’aurai comme souvenir ma contribution. Tant que je pourrai m’accrocher à cette vie qu’on m’a prêtée, je consacrerai mon esprit à me souvenir.
-$LINE_ENDING_4_6_OUTRO_126_TEXT	$RAN a enterré son renard. Ce que cet acte peut signifier pour un nomade, je n’en ai aucune idée.
+$LINE_ENDING_4_6_OUTRO_126_TEXT	*$RAN a enterré son renard. Ce que cet acte peut signifier pour un nomade, je n’en ai aucune idée.
 $LINE_ENDING_4_6_OUTRO_127_TEXT	Je le lui aurais bien demandé, mais la curiosité qui m’avait jusqu’à présent tant motivée au cours de ma vie, n’exerce plus aujourd’hui la même emprise sur mes pensées.
 $LINE_ENDING_4_6_OUTRO_128_TEXT	Au final, cela n’a guère d’importance... Un matin, elle ne fut plus là, conclusion sans surprise de la saga que nous avions partagée.
-$LINE_ENDING_4_6_OUTRO_129_TEXT	$KNI serait bien resté, je crois, si je le lui avais demandé. Mais cela me semble assez malvenu.
+$LINE_ENDING_4_6_OUTRO_129_TEXT	*$KNI serait bien resté, je crois, si je le lui avais demandé. Mais cela me semble assez malvenu.
 $LINE_ENDING_4_6_OUTRO_130_TEXT	Je l’ai libéré de son serment, afin qu’il puisse aller accomplir le devoir qu’il estime être le sien dans notre monde en lente reconstruction. En quoi aurais-je l’utilité d’un garde du corps en ce lieu ?
 $LINE_ENDING_4_6_OUTRO_131_TEXT	La peste a disparu. L’Empire de Quaid a disparu.
 $LINE_ENDING_4_6_OUTRO_132_TEXT	Le seul mal qui demeure encore, c’est le nôtre.
-$LINE_ENDING_4_6_OUTRO_133_TEXT	-$MCG Livbar
+$LINE_ENDING_4_6_OUTRO_133_TEXT	*-$MCG Livbar
 $LINE_ENDING_ZELEMIR_UNSCATHED_121_CHAR	$MAG
 $LINE_ENDING_ZELEMIR_UNSCATHED_121_TEXT	Bam ! Lame de semelle ! Tu ne l’avais pas vue venir celle-là, hein ?
 $LINE_ENDING_ZELEMIR_UNSCATHED_122_CHAR	$MAG

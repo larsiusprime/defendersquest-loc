@@ -306,7 +306,7 @@ $UI_VIDEO_MOUSE_DEFAULT	Par défaut
 $UI_VIDEO_MOUSE_FANCY	Fantaisie
 $UI_VIDEO_PARTICLES	Particules
 $UI_VIDEO_SWIRL	Animation pré-combat
-$UI_VIDEO_AOE	Surligner les attaques de zone
+$UI_VIDEO_AOE	Surligner les<N>attaques de zone
 $UI_VIDEO_CHANGE_RES	Changer de résolution
 $UI_VIDEO_SCREEN_POS	Position de l'écran
 $UI_VIDEO_CHANGE_RES_BUTTON	La modifier !
@@ -440,7 +440,7 @@ $UI_REWARD_BOX_ENEMY_LEVELS_NUMS	y_off:-5
 $UI_REWARD_BOX_COMPLETE_NUMS	x_off:5
 $UI_REWARD_BOX_PERFECT_NUMS	x_off:5
 $UI_BATTLE_MORE	PLUS
-$UI_BATTLE_SEND_NEXT	Envoyer<N>suivant
+$UI_BATTLE_SEND_NEXT	Suivant
 $UI_BATTLE_NEXT	SUIVANT
 $UI_BATTLE_WAVES	Vagues
 $UI_BATTLE_WAVE	Vague
@@ -1123,8 +1123,352 @@ $YOU_GOT_MONEY	Vous avez obtenu <MONEY> Camelote !
 $MISC_PLEASE_RECONNECT_CONTROLLER	Reconnectez la manette
 $PRESS_A	Appuyez sur <A> pour continuer.
 $MISC_REQUIRES_RESTART	(redémarrage nécessaire)
-$MISC_PICTURE_SIZE	Taille de l'image
+$MISC_PICTURE_SIZE	Taille de<N>l'image
 $MISC_SIGNED_OUT	<USER> s’est déconnecté(e).
 $MISC_SIGNED_IN	Connecté en tant que <USER>.
 $MISC_SWITCH_USER	Changer d'utilisateur
 $MISC_RESTART_XBOX	Redémarrer votre Xbox ?
+$ACTIONS_BATTLECONTROLS	Bataille
+$ACTIONS_BATTLE_BACK	<RE>$BATTLE_BACK
+$ACTIONS_BATTLE_CYCLE_NEXT	Défenseur suivant
+$ACTIONS_BATTLE_CYCLE_PREVIOUS	Défenseur<N>précédent
+$ACTIONS_BATTLE_DEFENDERS	<RE>$BATTLE_DEFENDERS
+$ACTIONS_BATTLE_FINE_MOVE	<RE>$BATTLE_FINE_MOVE
+$ACTIONS_BATTLE_FREE_MOVE	<RE>$BATTLE_FREE_MOVE
+$ACTIONS_BATTLE_MENU	<RE>$BATTLE_MENU
+$ACTIONS_BATTLE_MENU_MOVE	<RE>$BATTLE_MOVE
+$ACTIONS_BATTLE_PAUSE	<RE>$MISC_PAUSE
+$ACTIONS_BATTLE_SELECT	<RE>$BATTLE_SELECT_UNIT
+$ACTIONS_BATTLE_SPEED_MINUS	Vitesse -
+$ACTIONS_BATTLE_SPEED_PLUS	Vitesse +
+$ACTIONS_BATTLE_SPELLS	Sorts
+$ACTIONS_BATTLE_SPELL_SPAM	Répéter sort
+$ACTIONS_BATTLE_TILE_MOVE	<RE>$BATTLE_TILE_MOVE
+$ACTIONS_CUTSCENECONTROLS	Cinématique
+$ACTIONS_CUTSCENE_NEXT	<RE>$MISC_NEXT
+$ACTIONS_CUTSCENE_PREVIOUS	<RE>$MISC_PREVIOUS
+$ACTIONS_CUTSCENE_SKIP	<RE>$MISC_SKIP
+$ACTIONS_MAPCONTROLS	Carte du monde
+$ACTIONS_MAP_EXIT	<RE>$MISC_EXIT
+$ACTIONS_MAP_JOURNAL	<RE>$MISC_JOURNAL
+$ACTIONS_MAP_MENU	<RE>$MISC_MENU
+$ACTIONS_MAP_MOVE	Déplacement curseur
+$ACTIONS_MAP_MOVE_MAP	Déplacement sur carte
+$ACTIONS_MAP_SCROLL_MAP	Défilement carte
+$ACTIONS_MAP_SELECT	<RE>$MISC_SELECT
+$ACTIONS_MENUCONTROLS	Menu
+$ACTIONS_MENUCONTROLSWITHANALOG	Menu
+$ACTIONS_MENU_CANCEL	Annuler
+$ACTIONS_MENU_MENU	Menu
+$ACTIONS_MENU_MOVE	Déplacement curseur
+$ACTIONS_MENU_SELECT	Sélection
+$ACTIONS_MENU_THING_1	Choix 1
+$ACTIONS_MENU_THING_2	Choix 2
+$ACTIONS_MENU_THING_3	Choix 3
+$BATTLE_BACK	<RE>$MISC_BACK
+$BATTLE_DEFENDERS	<RE>$MISC_DEFENDERS
+$BATTLE_FINE_MOVE	Déplacement lent
+$BATTLE_FREE_MOVE	Pointeur doigt
+$BATTLE_MAP	carte
+$BATTLE_MENU	<RE>$MISC_MENU
+$BATTLE_MOVE	Déplacement
+$BATTLE_MOVE_MOUSE	Déplacement souris
+$BATTLE_SELECT_UNIT	Sélection<N>d'unité
+$BATTLE_SPELLS	<RE>$STAT_DESC_SPELLS
+$BATTLE_TILE_MOVE	Déplacement case
+$BOOK_COOLDOWN_OP	Temps de recharge du sort <X>
+$BOOK_COST_OP	Coût du sort <X>
+$CONTROL_SWITCH_WARNING	Vous ne pouvez pas changer de technique fondamentale de contrôle pendant une bataille. Désolé !
+$DATA_DUMP_MAPS	<RE>$DATA_DUMP_MAP_FILES
+$EQUIP_THE_THING	<RE>$MISC_EQUIP
+$GAMEPAD_A	Bouton A
+$GAMEPAD_B	Bouton B
+$GAMEPAD_BACK	Bouton Back
+$GAMEPAD_BUTTON_SPACER	
+$GAMEPAD_DPAD	Croix multidirectionnelle
+$GAMEPAD_DPAD_DOWN	Croix multidirectionnelle bas
+$GAMEPAD_DPAD_LEFT	Croix multidirectionnelle gauche
+$GAMEPAD_DPAD_RIGHT	Croix multidirectionnelle droite
+$GAMEPAD_DPAD_UP	Croix multidirectionnelle haut
+$GAMEPAD_EMPTY	Rien
+$GAMEPAD_LEFT_ANALOG_STICK	Stick analogique gauche
+$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS	Stick analogique gauche, vers la GAUCHE
+$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS	Stick analogique gauche, vers la DROITE
+$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS	Stick analogique gauche, vers le HAUT
+$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS	Stick analogique gauche, vers le BAS
+$GAMEPAD_LEFT_SHOULDER	Gâchette haute gauche
+$GAMEPAD_LEFT_STICK_CLICK	Stick analogique gauche, CLIQUÉ
+$GAMEPAD_LEFT_TRIGGER	Gâchette gauche
+$GAMEPAD_NOTE	Sélectionnez pour personnaliser
+$GAMEPAD_RIGHT_ANALOG_STICK	Stick analogique droit
+$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS	Stick analogique droit, vers la GAUCHE
+$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS	Stick analogique droit, vers la DROITE
+$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS	Stick analogique droit, vers le HAUT
+$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS	Stick analogique droit, vers le BAS
+$GAMEPAD_RIGHT_SHOULDER	Gâchette haute droite
+$GAMEPAD_RIGHT_STICK_CLICK	Stick analogique droit, CLIQUÉ
+$GAMEPAD_RIGHT_TRIGGER	Gâchette droite
+$GAMEPAD_START	Bouton Start
+$GAMEPAD_TEMP_SPACER	,,,,,,
+$GAMEPAD_X	Bouton X
+$GAMEPAD_Y	Bouton Y
+$GO_TO_EQUIP_MENU	<RE>$MISC_EQUIP
+$LOGITECH_A	bouton 2 (façade)
+$LOGITECH_B	bouton 3 (façade)
+$LOGITECH_BACK	bouton 9 (arrière)
+$LOGITECH_DPAD	<RE>$GAMEPAD_DPAD
+$LOGITECH_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
+$LOGITECH_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
+$LOGITECH_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
+$LOGITECH_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$LOGITECH_EMPTY	<RE>$GAMEPAD_EMPTY
+$LOGITECH_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
+$LOGITECH_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
+$LOGITECH_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
+$LOGITECH_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
+$LOGITECH_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
+$LOGITECH_LEFT_SHOULDER	bouton 5 (gâchette haute gauche) 
+$LOGITECH_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$LOGITECH_LEFT_TRIGGER	bouton 7 (gâchette analogique gauche)
+$LOGITECH_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
+$LOGITECH_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
+$LOGITECH_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
+$LOGITECH_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
+$LOGITECH_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
+$LOGITECH_RIGHT_SHOULDER	bouton 6 (gâchette haute droite) 
+$LOGITECH_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$LOGITECH_RIGHT_TRIGGER	bouton 8 (gâchette analogique droite)
+$LOGITECH_START	bouton 10 (Start)
+$LOGITECH_X	bouton 1 (façade)
+$LOGITECH_Y	bouton 4 (façade)
+$MISC_ACCESSORIES	accessoires
+$MISC_ACCESSORY	accessoire
+$MISC_ACCESSORY_PLURAL	<RE>$MISC_ACCESSORIES
+$MISC_ACCESSORY_SINGULAR	<RE>$MISC_ACCESSORY
+$MISC_ADJUST_REWARDS	100 % est la quantité par défaut, ajustez-la avec haut et bas pour modifier vos récompenses.
+$MISC_ARMOR_PLURAL	<RE>$MISC_ARMOR
+$MISC_ARMOR_SINGULAR	<RE>$MISC_ARMOR
+$MISC_BREAK_HERO_MODE_TEXT	Vous avez choisi de jouer en <LQ>Mode Héros<RQ>, ce qui vous interdit de recruter des personnages génériques.<N>Souhaitez-vous quitter ce mode pour pouvoir recruter un personnage ?
+$MISC_BREAK_HERO_MODE_TITLE	Quitter le Mode Héros ?
+$MISC_CURRENT_SAVE	Sauvegarde actuelle :
+$MISC_CUSTOM_SETTINGS	Personnaliser...
+$MISC_DEFAULT_SETTINGS	Par défaut (recommandé pour les nouveaux joueurs)
+$MISC_DELETE_ACHIEVEMENT	Supprimer les succès ?
+$MISC_DELETE_BOTH_GOG_ACHIEVEMENT	Supprimer les succès locaux & GOG
+$MISC_DELETE_BOTH_STEAM_ACHIEVEMENT	Supprimer les succès locaux & Steam
+$MISC_DELETE_LOCAL_ACHIEVEMENT	Supprimer les succès locaux uniquement
+$MISC_DEVICE_DISCONNECTED_TEXT	<NAME> de l'emplacement <SLOT> déconnectée !
+$MISC_DEVICE_DISCONNECTED_TITLE	Périphérique déconnecté !
+$MISC_EDIT	Éditer
+$MISC_FAIL_TT_TEXT	La quantité d’Expérience et de Camelote soustraite de vos récompenses si vous perdez une bataille.<N>-50 % est la quantité défaut, ajustez-la avec haut et bas pour modifier la pénalité.
+$MISC_FAIL_TT_TITLE	<RE>$UI_ACCESS_FAILURE_PENALTY
+$MISC_GOLD_TT_TEXT	La Camelote (l’argent) que vous obtenez après une bataille.<N><RE>[$MISC_ADJUST_REWARDS]
+$MISC_GOLD_TT_TITLE	Camelote
+$MISC_HERO_MODE	Mode Héros
+$MISC_HERO_MODE_TEXT	Il vous est interdit de recruter des personnages génériques.<N>PAS DU TOUT recommandé pour les nouveaux joueurs !<N><N>Notes :<N>Vous pourrez revenir sur votre décision plus tard en essayant de recruter un personnage et en confirmant votre volonté de quitter ce mode.<N><N>Nous vous recommandons vraiment de configurer les gains d’Expérience et de Camelote sur 300 % lorsque vous jouez en Mode Héros.<N><N>Ce paramétrage n’est pas obligatoire pour les succès en « Mode Héros », l’absence de personnages génériques est largement suffisante.
+$MISC_HERO_MODE_TITLE	<RE>$MISC_HERO_MODE
+$MISC_INPUT_0	Entrée :
+$MISC_INPUT_1	Entrée 1 :
+$MISC_INPUT_2	Entrée 1 :
+$MISC_INPUT_3	Entrée 1 :
+$MISC_INSPECT	inspecter
+$MISC_LOAD_ORDER	Ordre de chargement
+$MISC_NEW_GAME_SETTINGS	Configuration de la nouvelle partie
+$MISC_NO_HARDWARE	Votre système ne supporte pas l’accélération matérielle. Le jeu pourra tout de même s’exécuter, mais vous devrez peut-être réduire la qualité graphique si vous notez des ralentissements.
+$MISC_OVERWRITE	Confirmation d'écrasement
+$MISC_OVERWRITE2	Écraser « <MODNAME> » ?
+$MISC_OVERWRITE_TEXT	Certains mods auxquels vous êtes abonné entrent en conflit avec les versions locales. Les écraser un par un ?
+$MISC_OVERWRITE_TEXT2	<SOURCE><N><N>--><N><N><DEST>
+$MISC_PAUSE	pause
+$MISC_RESTORE_DEFAULTS	Restaurer les paramètres par<N>défaut
+$MISC_SAVE_ERROR_TEXT	La sauvegarde automatique a échoué. Vérifiez les permissions de vos fichiers...<N>Nous réessayerons plus tard.
+$MISC_SAVE_ERROR_TITLE	Erreur de sauvegarde automatique !
+$MISC_SAVE_FIXED_TEXT	La sauvegarde automatique a réussi, vous avez dû corriger ce qui clochait.<N>Nous allons arrêter de vous embêter avec ça.
+$MISC_SAVE_FIXED_TITLE	La sauvegarde automatique fonctionne !
+$MISC_SELECTED	Sélectionné
+$MISC_SLOT	emplacement
+$MISC_TITLE_SAFE_TEXT	Déplacez les sticks analogiques jusqu'à ce que toutes les boîtes soient visibles.
+$MISC_UNIVERSAL	Universel
+$MISC_WARNING	Attention !
+$MISC_WAVE_X	Vague <X>
+$MISC_WEAPON_PLURAL	<RE>$MISC_WEAPONS
+$MISC_WEAPON_SINGULAR	arme
+$MISC_XP_TT_TEXT	Le nombre de points d'expérience obtenus après une bataille.<N><RE>[$MISC_ADJUST_REWARDS]
+$MISC_XP_TT_TITLE	Expérience
+$NEW_GAME_PLUS_NOTE	Depuis le menu Sauvegarde, sélectionnez NOUVELLE PARTIE+ sur votre ancien emplacement de sauvegarde.
+$PS3_A	<RE>$PS4_A
+$PS3_B	<RE>$PS4_B
+$PS3_BACK	Touche SELECT (sélection)
+$PS3_DPAD	<RE>$PS4_DPAD
+$PS3_DPAD_DOWN	<RE>$PS4_DPAD_DOWN
+$PS3_DPAD_LEFT	<RE>$PS4_DPAD_LEFT
+$PS3_DPAD_RIGHT	<RE>$PS4_DPAD_RIGHT
+$PS3_DPAD_UP	<RE>$PS4_DPAD_UP
+$PS3_EMPTY	<RE>$PS4_EMPTY
+$PS3_LEFT_ANALOG_STICK	<RE>$PS4_LEFT_ANALOG_STICK
+$PS3_LEFT_ANALOG_STICK_X_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_X_MINUS
+$PS3_LEFT_ANALOG_STICK_X_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_X_PLUS
+$PS3_LEFT_ANALOG_STICK_Y_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_MINUS
+$PS3_LEFT_ANALOG_STICK_Y_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_PLUS
+$PS3_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER
+$PS3_LEFT_STICK_CLICK	Touche L3
+$PS3_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER
+$PS3_RIGHT_ANALOG_STICK	<RE>$PS4_RIGHT_ANALOG_STICK
+$PS3_RIGHT_ANALOG_STICK_X_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_MINUS
+$PS3_RIGHT_ANALOG_STICK_X_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_PLUS
+$PS3_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_MINUS
+$PS3_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_PLUS
+$PS3_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER
+$PS3_RIGHT_STICK_CLICK	Touche R3
+$PS3_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
+$PS3_START	Touche START (mise en marche)
+$PS3_X	<RE>$PS4_X
+$PS3_Y	<RE>$PS4_Y
+$PS4_A	Touche X
+$PS4_B	Touche O
+$PS4_BACK	Touche SHARE
+$PS4_BACK_PS4	Pavé tactile
+$PS4_DPAD	Touches directionnelles
+$PS4_DPAD_DOWN	Touche directionnelle bas
+$PS4_DPAD_LEFT	Touche directionnelle gauche
+$PS4_DPAD_RIGHT	Touche directionnelle droite
+$PS4_DPAD_UP	Touche directionnelle haut
+$PS4_EMPTY	<RE>$GAMEPAD_EMPTY
+$PS4_LEFT_ANALOG_STICK	Joystick gauche
+$PS4_LEFT_ANALOG_STICK_X_MINUS	Joystick gauche, vers la GAUCHE
+$PS4_LEFT_ANALOG_STICK_X_PLUS	Joystick gauche, vers la DROITE
+$PS4_LEFT_ANALOG_STICK_Y_MINUS	Joystick gauche, vers le HAUT
+$PS4_LEFT_ANALOG_STICK_Y_PLUS	Joystick gauche, vers le BAS
+$PS4_LEFT_SHOULDER	Touche L1
+$PS4_LEFT_STICK_CLICK	Touche L3
+$PS4_LEFT_TRIGGER	Touche L2
+$PS4_RIGHT_ANALOG_STICK	Joystick droit
+$PS4_RIGHT_ANALOG_STICK_X_MINUS	Joystick droit, vers la GAUCHE
+$PS4_RIGHT_ANALOG_STICK_X_PLUS	Joystick droit, vers la DROITE
+$PS4_RIGHT_ANALOG_STICK_Y_MINUS	Joystick droit, vers le HAUT
+$PS4_RIGHT_ANALOG_STICK_Y_PLUS	Joystick droit, vers le BAS
+$PS4_RIGHT_SHOULDER	Touche R1
+$PS4_RIGHT_STICK_CLICK	Touche R3
+$PS4_RIGHT_TRIGGER	Touche R2
+$PS4_START	Touche OPTIONS
+$PS4_X	Touche carré
+$PS4_Y	Touche triangle
+$PSVITA_A	<RE>$PS4_A
+$PSVITA_B	<RE>$PS4_B
+$PSVITA_BACK	Touche SELECT
+$PSVITA_DPAD	<RE>$PS4_DPAD
+$PSVITA_DPAD_DOWN	<RE>$PS4_DPAD_DOWN
+$PSVITA_DPAD_LEFT	<RE>$PS4_DPAD_LEFT
+$PSVITA_DPAD_RIGHT	<RE>$PS4_DPAD_RIGHT
+$PSVITA_DPAD_UP	<RE>$PS4_DPAD_UP
+$PSVITA_EMPTY	<RE>$PS4_EMPTY
+$PSVITA_LEFT_ANALOG_STICK	<RE>$PS4_LEFT_ANALOG_STICK
+$PSVITA_LEFT_ANALOG_STICK_X_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_X_MINUS
+$PSVITA_LEFT_ANALOG_STICK_X_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_X_PLUS
+$PSVITA_LEFT_ANALOG_STICK_Y_MINUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_MINUS
+$PSVITA_LEFT_ANALOG_STICK_Y_PLUS	<RE>$PS4_LEFT_ANALOG_STICK_Y_PLUS
+$PSVITA_LEFT_SHOULDER	<RE>$PS4_LEFT_SHOULDER
+$PSVITA_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
+$PSVITA_LEFT_TRIGGER	<RE>$PS4_LEFT_TRIGGER
+$PSVITA_RIGHT_ANALOG_STICK	<RE>$PS4_RIGHT_ANALOG_STICK
+$PSVITA_RIGHT_ANALOG_STICK_X_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_MINUS
+$PSVITA_RIGHT_ANALOG_STICK_X_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_X_PLUS
+$PSVITA_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_MINUS
+$PSVITA_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$PS4_RIGHT_ANALOG_STICK_Y_PLUS
+$PSVITA_RIGHT_SHOULDER	<RE>$PS4_RIGHT_SHOULDER
+$PSVITA_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$PSVITA_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
+$PSVITA_START	Touche START
+$PSVITA_X	<RE>$PS4_X
+$PSVITA_Y	<RE>$PS4_Y
+$SAVE_SLOT_DELETE_TEXT	Supprime définitivement cette sauvegarde de votre ordinateur. Vous savez ce que vous faites, n’est-ce pas ?
+$SAVE_SLOT_DELETE_TITLE	Supprimer la sauvegarde
+$SAVE_SLOT_EXPORT_TEXT	Faire une copie de votre sauvegarde vers un fichier texte.
+$SAVE_SLOT_EXPORT_TITLE	Exporter la sauvegarde vers un fichier
+$SAVE_SLOT_IMPORT_TEXT	Chercher un fichier de sauvegarde de Defender’s Quest sur votre ordinateur.
+$SAVE_SLOT_IMPORT_TITLE	Importer une sauvegarde depuis un fichier
+$SAVE_SLOT_NEW_GAME_PLUS_TEXT	Lance une nouvelle quête bien plus difficile, en conservant toute vote expérience, vos compétences et votre équipement. La Nouvelle partie+ comporte de nouveaux types d’ennemis, de nouvelles quêtes secondaires, de l’équipement plus puissant, et un journal beaucoup plus détaillé.<N><N>NOTE : la progression de votre équipe est PARTAGÉE entre votre partie originale et la Nouvelle partie+. Vous pouvez donc librement passer de l’une à l’autre sans rien perdre.
+$SAVE_SLOT_NEW_GAME_PLUS_TITLE	Commencer une Nouvelle partie+
+$SAVE_SLOT_PLAY_PLUS_TEXT	La progression de votre équipe est PARTAGÉE entre votre partie originale et la Nouvelle partie+. Vous pouvez donc librement passer de l’une à l’autre sans rien perdre.
+$SAVE_SLOT_PLAY_PLUS_TITLE	Reprendre la Nouvelle partie+
+$SHOP_EQUIP	<RE>$MISC_EQUIP
+$SKILL_DESC_SPECIAL	Spécial
+$SKILL_DESC_SPLASH	Explosion
+$SOFT_KEYBOARD_BACKSPACE	Effacement arrière
+$SOFT_KEYBOARD_CLEAR	Suppr
+$SOFT_KEYBOARD_SPACE	Espace
+$UI_ACCESS_FAILURE_PENALTY	Pénalité d’échec
+$UI_CONFLICT_CONSOLE	CONSOLE
+$UI_CONTROLS_GAMEPAD_ACTION_SET	Action configurée
+$UI_CONTROLS_GAMEPAD_ICONS	Icônes
+$UI_CONTROLS_INERTIA	Inertie
+$UI_CONTROLS_PSVITA	Playstation Vita
+$UI_CONTROLS_STEAM_CONTROLLER	Steam Controller
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG	Configuration
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG_FAIL_TEXT	Impossible d'ouvrir l'écran de configuration : Steam est-il en mode Big Picture, et l'overlay Steam fonctionne-t-il ?
+$UI_CONTROLS_STEAM_CONTROLLER_CONFIG_FAIL_TITLE	Erreur Steam !
+$UI_DEMO_IMPORT_OPTIONS	Importer les paramètres depuis la démo ?
+$UI_DEMO_OPTIONS_DETECTED	Paramètres de la démo détectés !
+$UI_LEGACY_IMPORT_SAVES	Importer les sauvegardes depuis une ancienne version de Defender’s Quest ?
+$UI_LEGACY_SAVES_DETECTED	Anciennes sauvegardes détectées !
+$UI_LEGAL_TITLE	Légal
+$UI_MOD_DOWNLOAD_TEXT	
+$UI_MOD_LATER	Plus tard
+$XBOX360_A	Touche A
+$XBOX360_B	Touche B
+$XBOX360_BACK	Touche BACK
+$XBOX360_DPAD	Bouton multidirectionnel
+$XBOX360_DPAD_DOWN	Bouton multidirectionnel bas
+$XBOX360_DPAD_LEFT	Bouton multidirectionnel gauche
+$XBOX360_DPAD_RIGHT	Bouton multidirectionnel droit
+$XBOX360_DPAD_UP	Bouton multidirectionnel haut
+$XBOX360_EMPTY	<RE>$GAMEPAD_EMPTY
+$XBOX360_LEFT_ANALOG_STICK	Stick analogique gauche
+$XBOX360_LEFT_ANALOG_STICK_X_MINUS	Stick analogique gauche, vers la GAUCHE
+$XBOX360_LEFT_ANALOG_STICK_X_PLUS	Stick analogique gauche, vers la DROITE
+$XBOX360_LEFT_ANALOG_STICK_Y_MINUS	Stick analogique gauche, vers le HAUT
+$XBOX360_LEFT_ANALOG_STICK_Y_PLUS	Stick analogique gauche, vers le BAS
+$XBOX360_LEFT_SHOULDER	Gâchette haute gauche
+$XBOX360_LEFT_STICK_CLICK	Stick analogique gauche (appuyer)
+$XBOX360_LEFT_TRIGGER	Gâchette gauche
+$XBOX360_RIGHT_ANALOG_STICK	Stick analogique droit
+$XBOX360_RIGHT_ANALOG_STICK_X_MINUS	Stick analogique droit, vers la GAUCHE
+$XBOX360_RIGHT_ANALOG_STICK_X_PLUS	Stick analogique droit, vers la DROITE
+$XBOX360_RIGHT_ANALOG_STICK_Y_MINUS	Stick analogique droit, vers le HAUT
+$XBOX360_RIGHT_ANALOG_STICK_Y_PLUS	Stick analogique droit, vers le BAS
+$XBOX360_RIGHT_SHOULDER	Gâchette haute droite
+$XBOX360_RIGHT_STICK_CLICK	Stick analogique droit (appuyer)
+$XBOX360_RIGHT_TRIGGER	Gâchette droite
+$XBOX360_START	Touche START
+$XBOX360_X	Touche X
+$XBOX360_Y	Touche Y
+$XBOXONE_A	Touche A
+$XBOXONE_B	Touche B
+$XBOXONE_BACK	Touche Affichage
+$XBOXONE_DPAD	Bouton multidirectionnel
+$XBOXONE_DPAD_DOWN	Bouton multidirectionnel bas
+$XBOXONE_DPAD_LEFT	Bouton multidirectionnel gauche
+$XBOXONE_DPAD_RIGHT	Bouton multidirectionnel droit
+$XBOXONE_DPAD_UP	Bouton multidirectionnel haut
+$XBOXONE_EMPTY	<RE>$GAMEPAD_EMPTY
+$XBOXONE_LEFT_ANALOG_STICK	Stick analogique gauche
+$XBOXONE_LEFT_ANALOG_STICK_X_MINUS	Stick analogique gauche, vers la GAUCHE
+$XBOXONE_LEFT_ANALOG_STICK_X_PLUS	Stick analogique gauche, vers la DROITE
+$XBOXONE_LEFT_ANALOG_STICK_Y_MINUS	Stick analogique gauche, vers le HAUT
+$XBOXONE_LEFT_ANALOG_STICK_Y_PLUS	Stick analogique gauche, vers le BAS
+$XBOXONE_LEFT_SHOULDER	Gâchette haute gauche
+$XBOXONE_LEFT_STICK_CLICK	Stick analogique gauche (appuyer)
+$XBOXONE_LEFT_TRIGGER	Gâchette gauche
+$XBOXONE_RIGHT_ANALOG_STICK	Stick analogique droit
+$XBOXONE_RIGHT_ANALOG_STICK_X_MINUS	Stick analogique droit, vers la GAUCHE
+$XBOXONE_RIGHT_ANALOG_STICK_X_PLUS	Stick analogique droit, vers la DROITE
+$XBOXONE_RIGHT_ANALOG_STICK_Y_MINUS	Stick analogique droit, vers le HAUT
+$XBOXONE_RIGHT_ANALOG_STICK_Y_PLUS	Stick analogique droit, vers le BAS
+$XBOXONE_RIGHT_SHOULDER	Gâchette haute droite
+$XBOXONE_RIGHT_STICK_CLICK	Stick analogique droit (appuyer)
+$XBOXONE_RIGHT_TRIGGER	Gâchette droite
+$XBOXONE_START	Touche Menu
+$XBOXONE_X	Touche X
+$XBOXONE_Y	Touche Y
+$YOU_GOT_NEW_GAME_PLUS_TEXT	Félicitations ! Vous pouvez désormais vous lancer dans une nouvelle aventure avec votre ancienne équipe!<N><N>Affrontez des ennemis mutants dotés de nouvelles capacités, imprégnez votre équipement de nouveaux pouvoirs étonnants, et remplissez votre bibliothèque d’un tas de nouveaux livres. Accomplissez de nombreuses quêtes secondaires avec de nouvelles histoires et de nouvelles cinématiques, déverrouillez le commentaire du développeur, découvrez la traduction des paroles d’Eztli-Tenoch, rencontrez de nouveaux personnages, et bien plus !<N><N><RE>[$NEW_GAME_PLUS_NOTE]<N><N>Vous pourrez revenir à votre partie <LQ>normale<RQ> à tout moment.
+$YOU_GOT_NEW_GAME_PLUS_TITLE	Nouvelle partie+ déverrouillée !
