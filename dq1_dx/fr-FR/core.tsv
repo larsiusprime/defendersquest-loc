@@ -576,11 +576,11 @@ $MISC_X_FOES	<NUM> ennemis
 $MISC_1_FRIEND	1 allié
 $MISC_X_FRIENDS	<NUM> alliés
 $MISC_ALL_FOES	Tous les ennemis à portée
-$MISC_ALL_FOES_IN	Tous les ennemis dans un rayon de <TILES> cases
+$MISC_ALL_FOES_IN	Tous les ennemis dans un<?N>rayon de <TILES> cases
 $MISC_ALL_FRIENDS	Tous les alliés à portée
-$MISC_ALL_FRIENDS_IN	Tous les alliés dans un rayon de <TILES> cases
+$MISC_ALL_FRIENDS_IN	Tous les alliés dans un<?N>rayon de <TILES> cases
 $MISC_ALL_TARGETS	Cibles à portée
-$MISC_ALL_TARGETS_IN	Toutes les cibles dans un rayon de <TILES> cases
+$MISC_ALL_TARGETS_IN	Toutes les cibles dans un<?N>rayon de <TILES> cases
 $MISC_X_HITS_FOE	<NUM> par ennemi
 $MISC_X_HITS_FRIEND	<NUM> par allié
 $MISC_X_HITS_TARGET	<NUM> par cible
@@ -1018,7 +1018,7 @@ $MISC_PLUS_X_TO_REGEN_ABS	<PLUS_OR_MINUS><X> à RÉGÉNÉRATION
 $MISC_PSI_SHORT	psi
 $MISC_RESIST_X	résistance <X>%
 $MISC_SAVE_DATA	Sauvegarder les données
-$MISC_SEND_NEXT	Envoyer SUIVANT
+$MISC_SEND_NEXT	SUIVANT
 $MISC_THORNS	épines
 $MISC_UNIQUE	unique
 $MISC_VICTORY	Victoire
@@ -1472,3 +1472,5 @@ $XBOXONE_X	Touche X
 $XBOXONE_Y	Touche Y
 $YOU_GOT_NEW_GAME_PLUS_TEXT	Félicitations ! Vous pouvez désormais vous lancer dans une nouvelle aventure avec votre ancienne équipe!<N><N>Affrontez des ennemis mutants dotés de nouvelles capacités, imprégnez votre équipement de nouveaux pouvoirs étonnants, et remplissez votre bibliothèque d’un tas de nouveaux livres. Accomplissez de nombreuses quêtes secondaires avec de nouvelles histoires et de nouvelles cinématiques, déverrouillez le commentaire du développeur, découvrez la traduction des paroles d’Eztli-Tenoch, rencontrez de nouveaux personnages, et bien plus !<N><N><RE>[$NEW_GAME_PLUS_NOTE]<N><N>Vous pourrez revenir à votre partie <LQ>normale<RQ> à tout moment.
 $YOU_GOT_NEW_GAME_PLUS_TITLE	Nouvelle partie+ déverrouillée !
+$MISC_NO_SIGN_IN_WARNING	Votre progression ne sera pas sauvegardée si vous n'êtes pas connecté.
+$MISC_NEW_USER	Nouvel utilisateur

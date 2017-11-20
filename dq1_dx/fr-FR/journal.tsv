@@ -183,7 +183,7 @@ $ENTRY_JOURNAL_ASSASSIN_TITLE
 $ENTRY_JOURNAL_BLACKROBES_LEFT_0_00	Jour 33 - Les Robes Noires
 $ENTRY_JOURNAL_BLACKROBES_LEFT_0_10	[berserker_hero] a commencé à rassembler les robes imbibées de sang des Sanguinaires vaincus, dans un but dont je préfère encore tout ignorer. Il est étrange de découvrir les visages qui se cachent derrière ces masques, bien que distordus par leur soudaine transformation en revenants. Ils sont pour la plupart mutilés, victimes de ce qui me semble à première vue être des blessures auto-infligées. En dépit de tout cela, il est encore possible de deviner les traits des hommes qu'ils ont été. À une époque, ils n'auraient pas semblé hors contexte en compagnie de Nomades.<N>[mage_hero] semble étrangement joyeuse d'avoir été confrontée à eux, comme si avoir combattu le même ennemi que son grand-père lui permettait de partager la gloire de ce héros. Les Sanguinaires, comme elle me l'a expliqué, ont à une époque constitué la plus grande menace pesant sur l'Empire de Quaid. Unis sous la bannière d'un matriarcat central, ces fous constituaient un royaume à part entière, et ils lançaient des invasions à grande échelle afin de satisfaire leur insatiable appétit de victimes à sacrifier. Plusieurs générations de Quaidiens les ont combattus sans parvenir à sortir du statu quo, et ce
 $ENTRY_JOURNAL_BLACKROBES_LEFT_1_00	[ranger_hero] les a qualifiés de <LQ>tribus anathèmes<RQ>, ce qui, couplé à leur apparence, m'amène à me demander si ces hommes n'étaient pas autrefois des Nomades comme elle... Quant à ce qui a bien pu les persuader à embrasser la vie qu'ils mènent (ou menaient) désormais, mon esprit est bien loin d'être en mesure de se l'imaginer.<N>[ranger_hero] demeure réticente à évoquer le sujet. Au-delà de ses déclarations initiales spontanées, juste après la bataille, elle n'a rien voulu dire de plus. Apparemment, célébrer la victoire est une chose, mais satisfaire la <LQ>détestable curiosité<RQ> d'une étrangère, c'en est une autre. Ma soif de comprendre est peut-être inconsidérée. Lorsqu'elle croit que personne ne l'observe, j'ai vu [ranger_hero] tripoter l'idole en forme de renard qu'elle porte autour du cou, les yeux virevoltant nerveusement entre les formes recroquevillées de nos nouveaux ennemis.<N>Le fait que les Geka, avec parmi eux une jeune [ranger_hero], aient pu avoir affaire à ces aliénés de par le passé est pour moi une certitude.<N>Pour une fois, j'ai l'impression que c'est moi qui me suis montrée rustre et désinvolte.
-$ENTRY_JOURNAL_BLACKROBES_LEFT_1_10	<N><N><N>Je ne peux m'empêcher de repenser à la prière secrète de [ranger_hero] implorant d'être délivrée de <LQ>ceux mis à l'écart<RQ>, et à sa dette quasi suicidaire envers les fils de Krast.
+$ENTRY_JOURNAL_BLACKROBES_LEFT_1_10	<N><N><N><N>Je ne peux m'empêcher de repenser à la prière secrète de [ranger_hero] implorant d'être délivrée de <LQ>ceux mis à l'écart<RQ>, et à sa dette quasi suicidaire envers les fils de Krast.
 $ENTRY_JOURNAL_BLACKROBES_RIGHT_0_00	 n'est qu'à l'arrivée du grand-père de [mage_hero] que l'Empire a réussi à mener véritablement l'offensive. Ses victoires furent rapides et brutales.<N>Après plusieurs générations de succès, les Sanguinaires ont apparemment été victimes de leur propre dégénérescence. L'institution matriarcale autrefois puissante avait laissé la place à une classe dirigeante désorganisée de hauts prêtres, chacun plus concerné par son pouvoir personnel que par le bien-être de l'ensemble. Sans l'autorité centralisée de la <LQ>Reine des Innombrables Diables<RQ> (comme l'avaient nommée les Quaidiens), les Sanguinaires s'avérèrent incapables de présenter une résistance uniforme, et ils furent écrasés par la puissance de l'offensive de Quaid.<N><N>Jusqu'à l'avènement des années de la peste, [mage_hero] et son peuple étaient persuadés que tous les Sanguinaires avaient été exterminés. À présent, en ces temps de chaos, il semblerait que ces aliénés soient de retour, nourris par un pouvoir nouveau et ténébreux. Ce synchronisme n'est pas une coïncidence. Eztli-Tenoch a trouvé ses séides, des hommes prêts à sacrifier leur humanité à son seul bénéfice.
 $ENTRY_JOURNAL_BLACKROBES_RIGHT_1_00	Addendum - Nuit 33
 $ENTRY_JOURNAL_BLACKROBES_RIGHT_1_10	Mon esprit en revient encore et encore aux mots que j'ai entendu les Sanguinaires prononcer, des charmes ténébreux dans une langue ténébreuse. Ils me sont d'une familiarité malsaine. Ils ne sont pas étrangers à mes lèvres, au plus profond de la nuit, lorsque mon esprit ne m'appartient plus.<N><N>Ces vocables arrosés de sang ne sont pas la seule chose dont j'ai l'impression d'avoir une connaissance secrète. Ici, sous le violent éclat d'une lune croissante, je peux voir des choses qu'il ne m'aurait pas été permis de voir à la lueur du jour. Je connais ces robes noires, ces masques couverts de sang, et les innombrables diables qui les portent.<N><N>Je les ai gouvernés dans mes rêves.
@@ -255,39 +255,6 @@ $ENTRY_JOURNAL_GIBBERISH_LEFT_0_00	Jour 25 - Charabia
 $ENTRY_JOURNAL_GIBBERISH_LEFT_0_10	[knight_hero] m'a réveillée aujourd'hui. Nous nous étions brièvement arrêtés pour avaler quelques miettes de nourriture et, épuisée par une longue marche, je m'étais couchée dans la fraîcheur d'une arche de pierre que nous venions de dépasser. Le sommeil, qui me pose problème ces derniers temps, m'était pour une fois venu facilement. Cependant, mon repos n'a probablement pas duré plus de quelques instants. J'ai ouvert les yeux pour trouver [knight_hero] se tenant devant moi. Il m'a informé que nous devions poursuivre notre voyage, et alors qu'il s'engageait sur le chemin devant moi, il a ajouté que j'avais parlé en charabia durant mon sommeil.<N><N>Bien que cela ait pu n'avoir aucun sens à ses oreilles, je pouvais encore sentir un sens s'accrocher aux recoins de mon esprit encore à moitié endormi. J'ai sorti mon journal en toute hâte, n'osant pas m'arrêter pour examiner mon ressenti de peur de tout perdre, et j'ai rapidement griffonné ce dont je me souvenais.
 $ENTRY_JOURNAL_GIBBERISH_RIGHT_0_00	À quel point à quel point à quel point tu étais belle<N>et j'ai tout détruit<N>et j'ai fait de toi ma semblable<N><N>et à présent et à présent et à présent<N>je suis le prisonnier et le fou<N>qui dévore son propre esprit<N>puisqu'il ne peut dévorer le monde
 $ENTRY_JOURNAL_GIBBERISH_TITLE	
-$ENTRY_JOURNAL_INDEX_2_LEFT_10	@<LQ>cotte de plates<RQ>@
-$ENTRY_JOURNAL_INDEX_2_LEFT_100	@Gedemon Dalavbar, Maître des Archers@
-$ENTRY_JOURNAL_INDEX_2_LEFT_110	@Introduction@
-$ENTRY_JOURNAL_INDEX_2_LEFT_120	@La recette de sandwich préférée de James@
-$ENTRY_JOURNAL_INDEX_2_LEFT_130	@Le harnais du Seigneur Gardien@
-$ENTRY_JOURNAL_INDEX_2_LEFT_140	@La moustache de Markos@
-$ENTRY_JOURNAL_INDEX_2_LEFT_150	@Le nom de Markos@
-$ENTRY_JOURNAL_INDEX_2_LEFT_160	@La jupe de Markos@
-$ENTRY_JOURNAL_INDEX_2_LEFT_170	@Le sortilège de Markos et le Livre des Cinq Anneaux@
-$ENTRY_JOURNAL_INDEX_2_LEFT_180	@Le Berserker fait son entrée : scène coupée@
-$ENTRY_JOURNAL_INDEX_2_LEFT_190	@Noms et langages@
-$ENTRY_JOURNAL_INDEX_2_LEFT_20	@Une note à propos des dimensions@
-$ENTRY_JOURNAL_INDEX_2_LEFT_200	@Donner un nom au mal@
-$ENTRY_JOURNAL_INDEX_2_LEFT_210	@Le spiritualisme des Nomades@
-$ENTRY_JOURNAL_INDEX_2_LEFT_220	@La fin@
-$ENTRY_JOURNAL_INDEX_2_LEFT_230	@Cicatrices@
-$ENTRY_JOURNAL_INDEX_2_LEFT_240	@Slak le bibliothécaire@
-$ENTRY_JOURNAL_INDEX_2_LEFT_250	@Inspirations pour l'histoire@
-$ENTRY_JOURNAL_INDEX_2_LEFT_260	@La force de Wocolan@
-$ENTRY_JOURNAL_INDEX_2_LEFT_270	@Les Tribus Sanguinaires@
-$ENTRY_JOURNAL_INDEX_2_LEFT_280	@Les Cités-États du Nord@
-$ENTRY_JOURNAL_INDEX_2_LEFT_290	@Le Culte du Feu Impérial de Quaid@
-$ENTRY_JOURNAL_INDEX_2_LEFT_30	@Les citations d'introduction des actes@
-$ENTRY_JOURNAL_INDEX_2_LEFT_300	@Les Selini@
-$ENTRY_JOURNAL_INDEX_2_LEFT_310	@Le Temple d'Ash@
-$ENTRY_JOURNAL_INDEX_2_LEFT_320	@L'Habit de Moine Guerrier@
-$ENTRY_JOURNAL_INDEX_2_LEFT_330	@Le nom de Zelemir@
-$ENTRY_JOURNAL_INDEX_2_LEFT_40	@Des Berserkers et du bon positionnement du fourreau@
-$ENTRY_JOURNAL_INDEX_2_LEFT_50	@Le boss revenant@
-$ENTRY_JOURNAL_INDEX_2_LEFT_60	@La Tunique de Chef de Clan et l'Arbre Monde@
-$ENTRY_JOURNAL_INDEX_2_LEFT_70	@Personnages coupés : le Paladin et le Protecteur@
-$ENTRY_JOURNAL_INDEX_2_LEFT_80	@L'Oeil de la Flamme@
-$ENTRY_JOURNAL_INDEX_2_LEFT_90	@La Main Droite d'Eztli-Tenoch@
 $ENTRY_JOURNAL_INDEX_LEFT_101	Jour 9 : @Voyages@
 $ENTRY_JOURNAL_INDEX_LEFT_141	Jour 11 : @Un manuscrit carcassien@
 $ENTRY_JOURNAL_INDEX_LEFT_171	Nuit 15 : @D'étranges paroles@
