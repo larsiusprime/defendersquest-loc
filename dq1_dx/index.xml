@@ -99,7 +99,7 @@
 		<label id="it-IT" language="Tedesco" region="Germania"/>
 	</locale>
 	<!--French French-->
-	<locale id="fr-FR" sort="3" official="true" beta="true">
+	<locale id="fr-FR" sort="3" official="true">
 		<hide if="console_french" value="false"/>
 		<status value="75%" word="État"/>
 		<font value="verdana" style="bold" size="12" alpha="latin"/>
