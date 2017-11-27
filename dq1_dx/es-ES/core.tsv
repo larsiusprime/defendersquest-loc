@@ -1271,7 +1271,7 @@ $MISC_OVERWRITE2	¿Sobrescribir "<MODNAME>"?
 $MISC_PAUSE	pausa
 $MISC_SELECTED	Seleccionado
 $MISC_SLOT	espacio
-$MISC_TITLE_SAFE_TEXT	Mueves las sticks hasta que<N>todas las cajas sean visibles.
+$MISC_TITLE_SAFE_TEXT	Mueve los sticks hasta que<N>todas las cajas sean visibles.
 $MISC_UNIVERSAL	Universal
 $MISC_WEAPON_SINGULAR	arma
 $MISC_XP_TT_TEXT	Los puntos de experiencia que obtienes tras una batalla.<N><RE>[$MISC_ADJUST_REWARDS]

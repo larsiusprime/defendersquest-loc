@@ -398,6 +398,7 @@ $MISC_RESIST_X	resist <X>%
 $MISC_RESTART	restart
 $MISC_RESTART?	Restart?
 $MISC_RESTORE_DEFAULTS	Restore Defaults
+$MISC_RESTORE_DEFAULTS_2	<RE>$MISC_RESTORE_DEFAULTS
 $MISC_REWARD	Reward:
 $MISC_SAVE_DATA	Save Data
 $MISC_SAVE_ERROR_TEXT	Autosave just failed, check your file permissions?<N>We'll try again later.

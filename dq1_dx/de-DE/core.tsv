@@ -1353,6 +1353,7 @@ $MISC_OVERWRITE_TEXT	Einige abonnierte Mods entsprechen nicht den lokalen Versio
 $MISC_OVERWRITE_TEXT2	<SOURCE><N><N>--><N><N><DEST>
 $MISC_PAUSE	anhalten
 $MISC_RESTORE_DEFAULTS	Standard wiederherstellen
+$MISC_RESTORE_DEFAULTS_2	Standard wiederher- stellen
 $MISC_SAVE_ERROR_TEXT	Autospeichern hat nicht funktioniert, Zugriffserlaubnisse prüfen?<N>Wir versuchen es später nochmal.
 $MISC_SAVE_ERROR_TITLE	Autospeichern Fehler!
 $MISC_SAVE_FIXED_TEXT	Autospeichern erfolgreich. Sieht so aus, als würde jetzt alles funktionieren.<N>Wir halten jetzt auch die Klappe.
