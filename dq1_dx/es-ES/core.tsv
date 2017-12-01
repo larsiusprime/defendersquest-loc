@@ -1277,17 +1277,35 @@ $MISC_WEAPON_SINGULAR	arma
 $MISC_XP_TT_TEXT	Los puntos de experiencia que obtienes tras una batalla.<N><RE>[$MISC_ADJUST_REWARDS]
 $MISC_XP_TT_TITLE	Experiencia
 $NEW_GAME_PLUS_NOTE	Ve a la pantalla de guardado y selecciona NUEVA PARTIDA+ en tu ranura de guardado existente.
-$PS4_A	Botón X
+$PS4_A	Botón cruz
 $PS4_B	Botón círculo
+$PS4_X	Botón cuadrado
+$PS4_Y	Botón triángulo
 $PS4_BACK	Botón SHARE
-$PS4_BACK_PS4	Panel táctil
+$PS4_BACK_PS4	Botón del touch pad 
+$PS4_START	Botón OPTIONS
 $PS4_LEFT_SHOULDER	Botón L1
 $PS4_LEFT_TRIGGER	Botón L2
 $PS4_RIGHT_SHOULDER	Botón R1
 $PS4_RIGHT_TRIGGER	Botón R2
-$PS4_START	Botón OPTIONS
-$PS4_X	Botón cuadrado
-$PS4_Y	Botón triángulo
+$PS4_DPAD	Botones de dirección
+$PS4_DPAD_UP	Botón hacia arriba
+$PS4_DPAD_DOWN	Botón hacia abajo 
+$PS4_DPAD_LEFT	Botón hacia la izquierda
+$PS4_DPAD_RIGHT	Botón hacia la derecha
+$PS4_LEFT_ANALOG_STICK	Joystick izquierdo
+$PS4_LEFT_ANALOG_STICK_X_MINUS	Joystick izquierdo, apuntando IZQUIERDA
+$PS4_LEFT_ANALOG_STICK_X_PLUS	Joystick izquierdo, apuntando DERECHA
+$PS4_LEFT_ANALOG_STICK_Y_MINUS	Joystick izquierdo, apuntando ARRIBA
+$PS4_LEFT_ANALOG_STICK_Y_PLUS	Joystick izquierdo, apuntando ABAJO
+$PS4_LEFT_STICK_CLICK	Botón L3
+$PS4_RIGHT_ANALOG_STICK	Joystick derecho
+$PS4_RIGHT_ANALOG_STICK_X_MINUS	Joystick derecho, apuntando IZQUIERDA
+$PS4_RIGHT_ANALOG_STICK_X_PLUS	Joystick derecho, apuntando DERECHA
+$PS4_RIGHT_ANALOG_STICK_Y_MINUS	Joystick derecho, apuntando ARRIBA
+$PS4_RIGHT_ANALOG_STICK_Y_PLUS	Joystick derecho, apuntando ABAJO
+$PS4_RIGHT_STICK_CLICK	Botón R3
+$PS4_EMPTY	<RE>$GAMEPAD_EMPTY
 $PSVITA_BACK	Botón SELECT
 $SOFT_KEYBOARD_BACKSPACE	Retroceso
 $SOFT_KEYBOARD_CLEAR	Clear

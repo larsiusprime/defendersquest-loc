@@ -1324,35 +1324,35 @@ $PS3_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
 $PS3_START	Touche START (mise en marche)
 $PS3_X	<RE>$PS4_X
 $PS3_Y	<RE>$PS4_Y
-$PS4_A	Touche X
-$PS4_B	Touche O
+$PS4_A	Touche croix
+$PS4_B	Touche cercle
+$PS4_X	Touche carré
+$PS4_Y	Touche triangle
 $PS4_BACK	Touche SHARE
-$PS4_BACK_PS4	Pavé tactile
+$PS4_BACK_PS4	Touche pavé tactile
+$PS4_START	Touche OPTIONS
+$PS4_LEFT_SHOULDER	Touche L1
+$PS4_RIGHT_SHOULDER	Touche R1
+$PS4_LEFT_TRIGGER	Touche L2
+$PS4_RIGHT_TRIGGER	Touche R2
 $PS4_DPAD	Touches directionnelles
-$PS4_DPAD_DOWN	Touche directionnelle bas
-$PS4_DPAD_LEFT	Touche directionnelle gauche
-$PS4_DPAD_RIGHT	Touche directionnelle droite
-$PS4_DPAD_UP	Touche directionnelle haut
-$PS4_EMPTY	<RE>$GAMEPAD_EMPTY
+$PS4_DPAD_DOWN	Touche bas
+$PS4_DPAD_LEFT	Touche gauche
+$PS4_DPAD_RIGHT	Touche droite
+$PS4_DPAD_UP	Touche haut
 $PS4_LEFT_ANALOG_STICK	Joystick gauche
 $PS4_LEFT_ANALOG_STICK_X_MINUS	Joystick gauche, vers la GAUCHE
 $PS4_LEFT_ANALOG_STICK_X_PLUS	Joystick gauche, vers la DROITE
 $PS4_LEFT_ANALOG_STICK_Y_MINUS	Joystick gauche, vers le HAUT
 $PS4_LEFT_ANALOG_STICK_Y_PLUS	Joystick gauche, vers le BAS
-$PS4_LEFT_SHOULDER	Touche L1
 $PS4_LEFT_STICK_CLICK	Touche L3
-$PS4_LEFT_TRIGGER	Touche L2
 $PS4_RIGHT_ANALOG_STICK	Joystick droit
 $PS4_RIGHT_ANALOG_STICK_X_MINUS	Joystick droit, vers la GAUCHE
 $PS4_RIGHT_ANALOG_STICK_X_PLUS	Joystick droit, vers la DROITE
 $PS4_RIGHT_ANALOG_STICK_Y_MINUS	Joystick droit, vers le HAUT
 $PS4_RIGHT_ANALOG_STICK_Y_PLUS	Joystick droit, vers le BAS
-$PS4_RIGHT_SHOULDER	Touche R1
 $PS4_RIGHT_STICK_CLICK	Touche R3
-$PS4_RIGHT_TRIGGER	Touche R2
-$PS4_START	Touche OPTIONS
-$PS4_X	Touche carré
-$PS4_Y	Touche triangle
+$PS4_EMPTY	<RE>$GAMEPAD_EMPTY
 $PSVITA_A	<RE>$PS4_A
 $PSVITA_B	<RE>$PS4_B
 $PSVITA_BACK	Touche SELECT
