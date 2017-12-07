@@ -647,6 +647,7 @@ $TIP_10_TITLE	Hotkeys
 $TIP_100_TEXT	Beschworene Verteidiger zurückzurufen gibt einen Teil des ausgegebenen Psis wieder.<N><N>Die Menge an Psi ist geringer, wenn der Verteidiger verletzt ist.
 $TIP_100_TITLE	Zurückrufen
 $TIP_110_TEXT	Falls du physische Behinderungen hast, schau dir die folgenden Optionen an:<N><N>1) Video – spiele im Vollbildmodus, vergrößere das Bild<N>2) Steuerung – Ändere die Steuerung<N>3) Schwierigkeit – ändere Effekte, Spielgeschwindigkeit und den Erfahrungs-Multiplikator
+$TIP_110C_TEXT	Falls du physische Behinderungen hast, schau dir die folgenden Optionen an:<N><N>1) Steuerung – Ändere die Steuerung<N>2) Schwierigkeit – ändere Effekte, Spielgeschwindigkeit und den Erfahrungs-Multiplikator
 $TIP_110_TITLE	Barrierefreiheit
 $TIP_120_TEXT	Dieser Hinweis ist lediglich eingebaut, damit niemand versucht, Code zu analysieren oder Enigmas zu dechiffieren.
 $TIP_120_TITLE	Öffentliche Bekanntmachung

@@ -906,6 +906,7 @@ $TIP_100_TITLE	Rappel
 $TIP_100_TEXT	Rappeler des défenseurs invoqués vous permet de récupérer une fraction de l'énergie Psi investie.<N><N>La quantité récupérée diminue lorsque le défenseur est blessé.
 $TIP_110_TITLE	Accessibilité
 $TIP_110_TEXT	Si vous souffrez d'un handicap, vous pouvez ajuster certains paramètres depuis le menu Options :<N><N>1) Vidéo - Jouer en mode plein écran, mettre les graphismes à l'échelle<N>2) Commandes - Modifier les contrôles du jeu<N>3) Accessibilité - Active ou désactive certains effets, modifie la vitesse de jeu et le multiplicateur d'expérience
+$TIP_110C_TEXT	Si vous souffrez d'un handicap, vous pouvez ajuster certains paramètres depuis le menu Options :<N><N>1) Commandes - Modifier les contrôles du jeu<N>2) Accessibilité - Active ou désactive certains effets, modifie la vitesse de jeu et le multiplicateur d'expérience
 $TIP_120_TITLE	Message d'intérêt général
 $TIP_120_TEXT	Ce conseil est juste là afin que personne n'essaye d'analyser des codes ou de déchiffrer des énigmes.
 $TIP_130_TITLE	Options de ciblage

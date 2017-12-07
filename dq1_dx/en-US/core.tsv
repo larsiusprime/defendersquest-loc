@@ -688,6 +688,7 @@ $TIP_10_TITLE	Hotkeys
 $TIP_100_TEXT	Recalling summoned defenders will let you regain a portion of the Psi you've invested in them.<N><N>The amount of recalled Psi gets lower when the defender is injured.
 $TIP_100_TITLE	Recalling
 $TIP_110_TEXT	If you have physical disabilities, check out the following in the options menu:<N><N>1) Video - play in fullscreen mode, scale up the visuals<N>2) Controls - remap all the controls<N>3) Accessibility - toggle effects, play speed, and experience multiplier
+$TIP_110C_TEXT	If you have physical disabilities, check out the following in the options menu:<N><N>1) Controls - remap all the controls<N>2) Accessibility - toggle effects, play speed, and experience multiplier
 $TIP_110_TITLE	Accessibility
 $TIP_120_TEXT	This hint is simply included so nobody tries analyzing codes or deciphering enigmas.
 $TIP_120_TITLE	Public Service Announcement
