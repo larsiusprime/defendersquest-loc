@@ -651,6 +651,7 @@ $TIP_120_TEXT	Este consejo se añade simplemente para que nadie intente analizar
 $TIP_120_TITLE	Anuncios de interés público			
 $TIP_130_TEXT	Si clicas en un defensor, puedes elegir la opción de fijación de objetivo para dar prioridad a los enemigos adelantados, atrasados, fuertes, débiles o rápidos. Úsalas para optimizar tus ataques. Por ejemplo, «fuerte? te puede ayudar a centrarte en las unidades más importantes o debilitar una multitud de enemigos.			
 $TIP_130_TITLE	Opciones de fijación de objetivo			
+$TIP_130C_TEXT	Si seleccionas un defensor, puedes elegir la opción de fijación de objetivo para dar prioridad a los enemigos adelantados, atrasados, fuertes, débiles o rápidos. Úsalas para optimizar tus ataques. Por ejemplo, «fuerte? te puede ayudar a centrarte en las unidades más importantes o debilitar una multitud de enemigos.			
 $TIP_140_TEXT	Además de las opciones de fijación de objetivo básicas, existen cuatro ajustes opcionales:<N><N>1) Técnica de menos coste<N>2) Optimizar efectos <N>3) Mejor probabilidad <N>4) Modo bulldog<N><N>No son necesarias, pero pueden ser de ayuda para que los jugadores avanzados maximicen sus estrategias de batalla. ¡Incluso puedes guardar opciones de fijación de objetivo predeterminadas para un personaje concreto!			
 $TIP_140_TITLE	Opción de fijación de objetivo avanzada			
 $TIP_150_TEXT	El hielo y el fuego no se llevan bien.  Escalofrío y congelación cancelarán fuego; fuego derretirá congelación y cancelará escalofrío.			
@@ -665,7 +666,8 @@ $TIP_190_TEXT	Si quieres ajustar el ritmo de la subida de niveles del juego, pue
 $TIP_190_TITLE	Multiplicador de recompensa			
 $TIP_20_TEXT	Cada defensor gana 1 punto de habilidad cada vez que sube de nivel.<N><N>Asigna estos puntos en el menú de grupo para desbloquear nuevas habilidades para la batalla.<N><N>1) TÉCNICAS (circulares) - ataques que se usan en la batalla<N>2) CUALIDADES (cuadradas) - pasivas, habilidades siempre activas.<N><N>Las técnicas más avanzadas requieren la mejora de unidades para usarlas en la batalla.			
 $TIP_20_TITLE	Habilidades			
-$TIP_200_TEXT	A veces una técnica determindada puede estropear tu ritmo (quizás las bolas de fuego de tu dragón están derritiendo el hielo de los enemigos), o simplemente quieres guardar un ataque poderoso para después. Si es as?, puedes clicar en el defensor y después clicar sobre la técnica en el men? inferior derecho para desactivarla temporalmente.			
+$TIP_200_TEXT	A veces una técnica determindada puede estropear tu ritmo (quizás las bolas de fuego de tu dragón están derritiendo el hielo de los enemigos), o simplemente quieres guardar un ataque poderoso para después. Si es así, puedes clicar en el defensor y después clicar sobre la técnica en el menú inferior derecho para desactivarla temporalmente.			
+$TIP_200C_TEXT	A veces una técnica determindada puede estropear tu ritmo (quizás las bolas de fuego de tu dragón están derritiendo el hielo de los enemigos), o simplemente quieres guardar un ataque poderoso para después. Si es así, puedes seleccionar en el defensor y después seleccionar la técnica en el menú inferior derecho para desactivarla temporalmente.			
 $TIP_200_TITLE	Desactivar técnicas			
 $TIP_210_TEXT	En el menú de guardado de partida, hay un botón con un dibujo de una carpeta y una llave inglesa.<N><N>Esto te llevará a la carpeta donde están las partidas guardadas y el archivo de configuración.			
 $TIP_210_TITLE	¿Dónde están mis archivos de guardado?			
@@ -677,11 +679,11 @@ $TIP_240_TEXT	Cuando hayas conseguido suficientes estrellas, empezarás a desblo
 $TIP_240_TITLE	Misiones de Bonus			
 $TIP_250_TEXT	El hechizo Rayo tiene «Abrasión de Psi», que reduce una parte de la recompensa de Psi del enemigo cada vez.  Si el hechizo causa 40% de daño al enemigo, se eliminará el 40% de la recompesa normal de Psi.			
 $TIP_250_TITLE	¿Abrasión de Psi?			
-$TIP_260_TEXT	¿Sabes que puedes hacer tus propios mods (modificaciones) de Defender's Quest?<N><N>Clica en el gran botón con la M en el men? de guardado de partida.  Puedes cambiar prácticamente todo: estadísticas, niveles, clases, personajes, cinemáticas, gráficos, objetos, etc.			
+$TIP_260_TEXT	¿Sabes que puedes hacer tus propios mods (modificaciones) de Defender's Quest?<N><N>Clica en el gran botón con la M en el menú de guardado de partida.  Puedes cambiar prácticamente todo: estadísticas, niveles, clases, personajes, cinemáticas, gráficos, objetos, etc.			
 $TIP_260_TITLE	Compatible con mods			
 $TIP_270_TEXT	<N><N>Llama a tu madre, que seguro que te echa de menos.			
 $TIP_270_TITLE	Acuérdate de mamá			
-$TIP_30_TEXT	<N><N>Tras una batalla, todos obtienen la misma experiencia si estaban vivos e invocados al final.<N><N>Los demás obtienen la mitad de experiencia.  La EXP. por personaje es la misma sin tener en cuenta el número de personajes.<N><N>Puedes cambiar esta penalización en el men? de accesibilidad.			
+$TIP_30_TEXT	<N><N>Tras una batalla, todos obtienen la misma experiencia si estaban vivos e invocados al final.<N><N>Los demás obtienen la mitad de experiencia.  La EXP. por personaje es la misma sin tener en cuenta el número de personajes.<N><N>Puedes cambiar esta penalización en el menú de accesibilidad.			
 $TIP_30_TITLE	¿Quién consigue experiencia?			
 $TIP_40_TEXT	Puedes clicar y arrastrar para recorrer el mapa del mundo, o navegar con el teclado.<N><N>El desplazamiento está configurado por defecto en las teclas de las flechas de dirección.			
 $TIP_40_TITLE	Mapa del mundo			
@@ -862,6 +864,7 @@ $UI_DEFENDER_BOOST_NEED2	MEJORAR: Requiere <PSI> de Psi
 $UI_DEFENDER_BOOST_NEED_NUMS	font:11,x_off:0,y_off:-4			
 $UI_DEFENDER_BOOST_UNLOCK	Se desbloquea en el NIVEL <LVL> DE MEJORA			
 $UI_DEFENDER_CLICK_TO	(Clic para activar/desactivar)			
+$UI_DEFENDER_CLICK_TO_CONSOLE	(Selecciona para activar/desactivar)			
 $UI_DEFENDER_RECALL	Retirar			
 $UI_DEFENDER_RECALL_LINE	RETIRAR: +<PSI> Psi			
 $UI_DEFENDER_TECHNIQUE	Técnica			
@@ -1306,6 +1309,34 @@ $PS4_RIGHT_ANALOG_STICK_Y_MINUS	Joystick derecho, apuntando ARRIBA
 $PS4_RIGHT_ANALOG_STICK_Y_PLUS	Joystick derecho, apuntando ABAJO
 $PS4_RIGHT_STICK_CLICK	Botón R3
 $PS4_EMPTY	<RE>$GAMEPAD_EMPTY
+$XBOXONE_A	Botón cruz
+$XBOXONE_B	Botón círculo
+$XBOXONE_X	Botón cuadrado
+$XBOXONE_Y	Botón triángulo
+$XBOXONE_BACK	Botón Vista
+$XBOXONE_START	Botón Menú
+$XBOXONE_LEFT_SHOULDER	Botón superior izquierdo
+$XBOXONE_LEFT_TRIGGER	Gatillo izquierdo
+$XBOXONE_RIGHT_SHOULDER	Botón superior derecho
+$XBOXONE_RIGHT_TRIGGER	Gatillo derecho
+$XBOXONE_DPAD	Cruceta
+$XBOXONE_DPAD_UP	Botón hacia arriba
+$XBOXONE_DPAD_DOWN	Botón hacia abajo 
+$XBOXONE_DPAD_LEFT	Botón hacia la izquierda
+$XBOXONE_DPAD_RIGHT	Botón hacia la derecha
+$XBOXONE_LEFT_ANALOG_STICK	Stick izquierdo
+$XBOXONE_LEFT_ANALOG_STICK_X_MINUS	Stick izquierdo, apuntando IZQUIERDA
+$XBOXONE_LEFT_ANALOG_STICK_X_PLUS	Stick izquierdo, apuntando DERECHA
+$XBOXONE_LEFT_ANALOG_STICK_Y_MINUS	Stick izquierdo, apuntando ARRIBA
+$XBOXONE_LEFT_ANALOG_STICK_Y_PLUS	Stick izquierdo, apuntando ABAJO
+$XBOXONE_LEFT_STICK_CLICK	Botón de stick izquierdo
+$XBOXONE_RIGHT_ANALOG_STICK	Stick derecho
+$XBOXONE_RIGHT_ANALOG_STICK_X_MINUS	Stick derecho, apuntando IZQUIERDA
+$XBOXONE_RIGHT_ANALOG_STICK_X_PLUS	Stick derecho, apuntando DERECHA
+$XBOXONE_RIGHT_ANALOG_STICK_Y_MINUS	Stick derecho, apuntando ARRIBA
+$XBOXONE_RIGHT_ANALOG_STICK_Y_PLUS	Stick derecho, apuntando ABAJO
+$XBOXONE_RIGHT_STICK_CLICK	Botón de stick derecho
+$XBOXONE_EMPTY	<RE>$GAMEPAD_EMPTY
 $PSVITA_BACK	Botón SELECT
 $SOFT_KEYBOARD_BACKSPACE	Retroceso
 $SOFT_KEYBOARD_CLEAR	Clear

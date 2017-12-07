@@ -692,6 +692,7 @@ $TIP_110_TITLE	Accessibility
 $TIP_120_TEXT	This hint is simply included so nobody tries analyzing codes or deciphering enigmas.
 $TIP_120_TITLE	Public Service Announcement
 $TIP_130_TEXT	If you click on a defender, you can set their targeting options to favor enemies in the front, back, strong, weak, or fast - use these to optimize your attacks. For example, 'strong' can help you focus on bigger units or soften up a whole crowd.
+$TIP_130C_TEXT	If you select a defender, you can set their targeting options to favor enemies in the front, back, strong, weak, or fast - use these to optimize your attacks. For example, 'strong' can help you focus on bigger units or soften up a whole crowd.
 $TIP_130_TITLE	Targeting Options
 $TIP_140_TEXT	In addition to basic targeting options, there are four optional settings:<N><N>1) Cheapest technique <N>2) Optimize Effects <N>3) Best Chance <N>4) Bulldog mode<N><N>These aren't necessary, but can help advanced players maximize their battle strategies. You can even save default target options for a given character!
 $TIP_140_TITLE	Advanced Targeting
@@ -708,6 +709,7 @@ $TIP_190_TITLE	Reward Multiplier
 $TIP_20_TEXT	Each defender gains 1 skill point whenever they level up.<N><N>Assign these points in the party menu to unlock new abilities for battle.<N><N>1) TECHNIQUES (round) - attacks used in battle<N>2) TRAITS (square) - passive, 'always-on' abilities.<N><N>More advanced techniques require boosting to use in battle.
 $TIP_20_TITLE	Skills
 $TIP_200_TEXT	Sometimes a particular technique may be throwing off your groove (perhaps your dragon fireballs are melting all your ice), or you just want to save a powerful attack for later. If so, you can click on the defender, then click on the technique in the menu on the lower-right to temporarily disable it.
+$TIP_200C_TEXT	Sometimes a particular technique may be throwing off your groove (perhaps your dragon fireballs are melting all your ice), or you just want to save a powerful attack for later. If so, you can select the defender, then select the technique in the menu on the lower-right to temporarily disable it.
 $TIP_200_TITLE	Disabling Techniques
 $TIP_210_TEXT	On the save game menu, there's a button with a picture of a folder and floppy disk.<N><N>This will take you to where your saved games and configuration file are stored.
 $TIP_210_TITLE	Where Are My Save Files?
@@ -904,6 +906,7 @@ $UI_DEFENDER_BOOST_NEED	BOOST: Need <PSI> Psi
 $UI_DEFENDER_BOOST_NEED2	<RE>$UI_DEFENDER_BOOST_NEED
 $UI_DEFENDER_BOOST_UNLOCK	Unlocks at BOOST LEVEL <LVL>
 $UI_DEFENDER_CLICK_TO	(Click to enable/disable)
+$UI_DEFENDER_CLICK_TO_CONSOLE	(Select to enable/disable)
 $UI_DEFENDER_RECALL	Recall
 $UI_DEFENDER_RECALL_LINE	RECALL:<N>+<PSI> Psi
 $UI_DEFENDER_TECHNIQUE	Technique
@@ -1295,33 +1298,33 @@ $XBOX360_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
 $XBOX360_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
 $XBOX360_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
 $XBOX360_EMPTY	<RE>$GAMEPAD_EMPTY
-$XBOXONE_A	<RE>$GAMEPAD_A
-$XBOXONE_B	<RE>$GAMEPAD_B
-$XBOXONE_X	<RE>$GAMEPAD_X
-$XBOXONE_Y	<RE>$GAMEPAD_Y
+$XBOXONE_A	A button
+$XBOXONE_B	B button
+$XBOXONE_X	X button
+$XBOXONE_Y	Y button
 $XBOXONE_BACK	View button
 $XBOXONE_START	Menu button
-$XBOXONE_LEFT_SHOULDER	<RE>$GAMEPAD_LEFT_SHOULDER
-$XBOXONE_RIGHT_SHOULDER	<RE>$GAMEPAD_RIGHT_SHOULDER
-$XBOXONE_LEFT_TRIGGER	<RE>$GAMEPAD_LEFT_TRIGGER
-$XBOXONE_RIGHT_TRIGGER	<RE>$GAMEPAD_RIGHT_TRIGGER
-$XBOXONE_DPAD	<RE>$GAMEPAD_DPAD
-$XBOXONE_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
-$XBOXONE_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
-$XBOXONE_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
-$XBOXONE_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
-$XBOXONE_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
-$XBOXONE_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
-$XBOXONE_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
-$XBOXONE_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
-$XBOXONE_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
-$XBOXONE_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
-$XBOXONE_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
-$XBOXONE_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
-$XBOXONE_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
-$XBOXONE_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
-$XBOXONE_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
-$XBOXONE_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$XBOXONE_LEFT_SHOULDER	Left bumper
+$XBOXONE_RIGHT_SHOULDER	Right bumper
+$XBOXONE_LEFT_TRIGGER	Left trigger
+$XBOXONE_RIGHT_TRIGGER	Right trigger
+$XBOXONE_DPAD	D-pad
+$XBOXONE_DPAD_UP	D-pad up
+$XBOXONE_DPAD_DOWN	D-pad down
+$XBOXONE_DPAD_LEFT	D-pad left
+$XBOXONE_DPAD_RIGHT	D-pad right
+$XBOXONE_LEFT_ANALOG_STICK	Left stick
+$XBOXONE_LEFT_ANALOG_STICK_X_MINUS	Left stick, pointing LEFT
+$XBOXONE_LEFT_ANALOG_STICK_X_PLUS	Left stick, pointing RIGHT
+$XBOXONE_LEFT_ANALOG_STICK_Y_MINUS	Left stick, pointing UP
+$XBOXONE_LEFT_ANALOG_STICK_Y_PLUS	Left stick, pointing DOWN
+$XBOXONE_RIGHT_ANALOG_STICK	Right stick
+$XBOXONE_RIGHT_ANALOG_STICK_X_MINUS	Right stick, pointing LEFT
+$XBOXONE_RIGHT_ANALOG_STICK_X_PLUS	Right stick, pointing RIGHT
+$XBOXONE_RIGHT_ANALOG_STICK_Y_MINUS	Right stick, pointing UP
+$XBOXONE_RIGHT_ANALOG_STICK_Y_PLUS	Right stick, pointing DOWN
+$XBOXONE_LEFT_STICK_CLICK	Left stick, CLICKED in
+$XBOXONE_RIGHT_STICK_CLICK	Right stick, CLICKED in
 $XBOXONE_EMPTY	<RE>$GAMEPAD_EMPTY
 $PS4_A	Cross button
 $PS4_B	Circle button
@@ -1505,7 +1508,7 @@ $SOFT_KEYBOARD_SPACE	Space
 $SOFT_KEYBOARD_BACKSPACE	Backspace
 $SOFT_KEYBOARD_CLEAR	Clear
 $CONTROL_SWITCH_WARNING	You cannot switch fundamental input methods in the middle of a battle. Sorry about that!
-$MISC_TITLE_SAFE_TEXT	Move analog sticks until all boxes are visible.
+$MISC_TITLE_SAFE_TEXT	Move sticks until all boxes are visible.
 $MISC_UNIVERSAL	Universal
 $MISC_LOAD_ORDER	Load Order
 $MISC_SELECTED	Selected

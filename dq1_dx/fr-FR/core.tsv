@@ -181,6 +181,7 @@ $UI_DEFENDER_BOOST_NEED	<PSI> Psi requis
 $UI_DEFENDER_BOOST_MAX	BOOST MAXIMUM
 $UI_DEFENDER_BOOST_UNLOCK	Activé au NIV <LVL> DE BOOST
 $UI_DEFENDER_CLICK_TO	(Cliquer pour activer/désactiver)
+$UI_DEFENDER_CLICK_TO_CONSOLE	(Sélectionner pour activer/désactiver)
 $UI_DEFENDER_TECHNIQUES	TECHNIQUES
 $UI_DEFENDER_TECHNIQUE	Technique
 $UI_DEFENDER_TRAITS	TRAITS
@@ -909,6 +910,7 @@ $TIP_120_TITLE	Message d'intérêt général
 $TIP_120_TEXT	Ce conseil est juste là afin que personne n'essaye d'analyser des codes ou de déchiffrer des énigmes.
 $TIP_130_TITLE	Options de ciblage
 $TIP_130_TEXT	Si vous cliquez sur un défenseur, vous pourrez lui donner différentes consignes de ciblages, comme de favoriser les ennemis en avant, en arrière, les plus forts, les plus faibles ou les plus rapides. Servez-vous de ces paramètres pour optimiser vos attaques. Par exemple, « fort » peut vous permettre de vous concentrer sur les grosses unités, ou d'affaiblir une horde d'ennemis.
+$TIP_130C_TEXT	Si vous sélectionnez un défenseur, vous pourrez lui donner différentes consignes de ciblages, comme de favoriser les ennemis en avant, en arrière, les plus forts, les plus faibles ou les plus rapides. Servez-vous de ces paramètres pour optimiser vos attaques. Par exemple, « fort » peut vous permettre de vous concentrer sur les grosses unités, ou d'affaiblir une horde d'ennemis.
 $TIP_140_TITLE	Ciblage avancé
 $TIP_140_TEXT	En plus des options de ciblage de base, il existe quatre paramètres optionnels : <N><N>1) Technique la moins chère<N>2) Optimiser les effets<N>3) Meilleure chance<N>4) Mode bulldog<N><N>Ces paramètres ne sont pas obligatoires, mais ils peuvent aider les joueurs expérimentés à optimiser leurs stratégies. Vous pouvez même sauvegarder les paramètres de ciblage par défaut d'un personnage donné !
 $TIP_150_TITLE	Feu et glace
@@ -923,6 +925,7 @@ $TIP_190_TITLE	Multiplicateurs de gains
 $TIP_190_TEXT	Si vous souhaitez ajuster la vitesse de montée en niveau de vos personnages, vous pouvez modifier le multiplicateur global de gain d'expérience depuis le menu Options.<N><N>Le réglage par défaut est à 100 %.<N><N>Vous pouvez également modifier le multiplicateur pour les gains de Camelote.
 $TIP_200_TITLE	Désactivation de techniques
 $TIP_200_TEXT	Il peut arriver qu'une technique particulière vienne perturber vos projets (les boules de feu des Dragons peuvent par exemple libérer des ennemis que vous venez de geler). Vous pouvez également avoir envie de garder une attaque puissante pour plus tard. Dans ce cas, vous pouvez cliquer sur un défenseur, puis sur une technique dans le menu en bas à droite afin de la désactiver temporairement.
+$TIP_200C_TEXT	Il peut arriver qu'une technique particulière vienne perturber vos projets (les boules de feu des Dragons peuvent par exemple libérer des ennemis que vous venez de geler). Vous pouvez également avoir envie de garder une attaque puissante pour plus tard. Dans ce cas, vous pouvez sélectionner un défenseur, puis sur une technique dans le menu en bas à droite afin de la désactiver temporairement.
 $TIP_210_TITLE	Où sont mes sauvegardes ?
 $TIP_210_TEXT	Dans le menu Sauvegarde, vous trouverez un bouton orné d'une icône en forme de dossier avec une clé anglaise.<N><N>Ce bouton vous amènera à l'emplacement où vos sauvegardes et votre fichier de configuration sont enregistrés.
 $TIP_220_TITLE	Nouvelle partie+
@@ -1416,6 +1419,8 @@ $UI_MOD_DOWNLOAD_TEXT
 $UI_MOD_LATER	Plus tard
 $XBOX360_A	Touche A
 $XBOX360_B	Touche B
+$XBOX360_X	Touche X
+$XBOX360_Y	Touche Y
 $XBOX360_BACK	Touche BACK
 $XBOX360_DPAD	Bouton multidirectionnel
 $XBOX360_DPAD_DOWN	Bouton multidirectionnel bas
@@ -1440,16 +1445,16 @@ $XBOX360_RIGHT_SHOULDER	Gâchette haute droite
 $XBOX360_RIGHT_STICK_CLICK	Stick analogique droit (appuyer)
 $XBOX360_RIGHT_TRIGGER	Gâchette droite
 $XBOX360_START	Touche START
-$XBOX360_X	Touche X
-$XBOX360_Y	Touche Y
 $XBOXONE_A	Touche A
 $XBOXONE_B	Touche B
+$XBOXONE_X	Touche X
+$XBOXONE_Y	Touche Y
 $XBOXONE_BACK	Touche Affichage
-$XBOXONE_DPAD	Bouton multidirectionnel
-$XBOXONE_DPAD_DOWN	Bouton multidirectionnel bas
-$XBOXONE_DPAD_LEFT	Bouton multidirectionnel gauche
-$XBOXONE_DPAD_RIGHT	Bouton multidirectionnel droit
-$XBOXONE_DPAD_UP	Bouton multidirectionnel haut
+$XBOXONE_DPAD	BMD
+$XBOXONE_DPAD_DOWN	BMD bas
+$XBOXONE_DPAD_LEFT	BMD gauche
+$XBOXONE_DPAD_RIGHT	BMD droit
+$XBOXONE_DPAD_UP	BMD haut
 $XBOXONE_EMPTY	<RE>$GAMEPAD_EMPTY
 $XBOXONE_LEFT_ANALOG_STICK	Stick analogique gauche
 $XBOXONE_LEFT_ANALOG_STICK_X_MINUS	Stick analogique gauche, vers la GAUCHE
@@ -1468,8 +1473,6 @@ $XBOXONE_RIGHT_SHOULDER	Gâchette haute droite
 $XBOXONE_RIGHT_STICK_CLICK	Stick analogique droit (appuyer)
 $XBOXONE_RIGHT_TRIGGER	Gâchette droite
 $XBOXONE_START	Touche Menu
-$XBOXONE_X	Touche X
-$XBOXONE_Y	Touche Y
 $YOU_GOT_NEW_GAME_PLUS_TEXT	Félicitations ! Vous pouvez désormais vous lancer dans une nouvelle aventure avec votre ancienne équipe!<N><N>Affrontez des ennemis mutants dotés de nouvelles capacités, imprégnez votre équipement de nouveaux pouvoirs étonnants, et remplissez votre bibliothèque d’un tas de nouveaux livres. Accomplissez de nombreuses quêtes secondaires avec de nouvelles histoires et de nouvelles cinématiques, déverrouillez le commentaire du développeur, découvrez la traduction des paroles d’Eztli-Tenoch, rencontrez de nouveaux personnages, et bien plus !<N><N><RE>[$NEW_GAME_PLUS_NOTE]<N><N>Vous pourrez revenir à votre partie <LQ>normale<RQ> à tout moment.
 $YOU_GOT_NEW_GAME_PLUS_TITLE	Nouvelle partie+ déverrouillée !
 $MISC_NO_SIGN_IN_WARNING	Votre progression ne sera pas sauvegardée si vous n'êtes pas connecté.

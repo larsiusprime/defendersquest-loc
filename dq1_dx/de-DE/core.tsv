@@ -651,6 +651,7 @@ $TIP_110_TITLE	Barrierefreiheit
 $TIP_120_TEXT	Dieser Hinweis ist lediglich eingebaut, damit niemand versucht, Code zu analysieren oder Enigmas zu dechiffieren.
 $TIP_120_TITLE	Öffentliche Bekanntmachung
 $TIP_130_TEXT	Wenn du auf einen Verteidiger klickst, kannst du dessen Zieloptionen so einstellen, dass dieser Gegner, die vorne, hinten, stark, schwach oder schnell sind zu bevorzugen – benutze dies, um deine Attacken zu optimieren. Zum Beispiel kann dir „stark“ helfen, dich auf größere Einheiten zu konzentrieren oder um eine ganze Menge zu schwächen.
+$TIP_130C_TEXT	Wenn du auf einen Verteidiger wählst, kannst du dessen Zieloptionen so einstellen, dass dieser Gegner, die vorne, hinten, stark, schwach oder schnell sind zu bevorzugen – benutze dies, um deine Attacken zu optimieren. Zum Beispiel kann dir „stark“ helfen, dich auf größere Einheiten zu konzentrieren oder um eine ganze Menge zu schwächen.
 $TIP_130_TITLE	Zieloptionen
 $TIP_140_TEXT	Zusätzlich zu normalen Zieloptionen gibt es vier optionale Einstellungen:<N><N>1) Günstigste Technik <N>2) Effekte optimieren <N>3) Größte Chance <N>4) Bulldoggen-Modus<N><N>Diese sind nicht notwendig, können aber fortgeschrittenen Spielern helfen, ihre Kampfstrategien zu verbessern. Du kannst auch Standard-Zieloptionen für einen Charakter speichern!
 $TIP_140_TITLE	Erweitertes Zielen
@@ -667,6 +668,7 @@ $TIP_190_TITLE	Belohnungs-Multiplikator
 $TIP_20_TEXT	Jeder Verteidiger erhält mit jedem erlangten Level 1 Talentpunkt.<N><N>Weise diese Punkte im Gruppen-Menü zu, um neue Fähigkeiten im Kampf freizuschalten.<N><N>1) TECHNIKEN (rund) – Attacken, die im Kampf eingesetzt werden<N>2) MERKMALE (quadratisch) – passive, „immer-aktive“ Fähigkeiten.<N><N>Fortgeschrittenere Fähigkeiten benötigen eine Verstärkung im Kampf.
 $TIP_20_TITLE	Talente
 $TIP_200_TEXT	Manchmal kann dir eine spezielle Technik Probleme bereiten (vielleicht schmelzen deine Drachen-Feuerbälle all dein Eis) oder du möchtest einfach eine starke Attacke für später aufsparen. Dann kannst du auf einen Verteidiger klicken und im Menü unten rechts auf die Technik klicken, um sie zu temporär zu deaktivieren.
+$TIP_200C_TEXT	Manchmal kann dir eine spezielle Technik Probleme bereiten (vielleicht schmelzen deine Drachen-Feuerbälle all dein Eis) oder du möchtest einfach eine starke Attacke für später aufsparen. Dann kannst du einen Verteidiger auswählen und im Menü unten rechts auf die Technik wählen, um sie zu temporär zu deaktivieren.
 $TIP_200_TITLE	Techniken ausschalten
 $TIP_210_TEXT	Im Speichermenü gibt es einen Knopf mit Bild eines Ordners und einer Diskette.<N><N>Dieser wird dich zu dem Ordner bringen, in dem deine gespeicherten Spiele und Einstellungen gespeichert sind.
 $TIP_210_TITLE	Wo sind meine Spielstände?
@@ -861,6 +863,7 @@ $UI_DEFENDER_BOOST_NEED	STÄRKEN: Brauche <PSI> Psi
 $UI_DEFENDER_BOOST_NEED_NUMS	font:11,x_off:0,y_off:2
 $UI_DEFENDER_BOOST_UNLOCK	Wird auf STÄRKUNGSLEVEL <LVL> freigeschaltet.
 $UI_DEFENDER_CLICK_TO	(Zum Aktivieren/Deaktivieren klicken)
+$UI_DEFENDER_CLICK_TO_CONSOLE	(Zum Aktivieren/Deaktivieren wählen)			
 $UI_DEFENDER_RECALL	Zurückrüfen
 $UI_DEFENDER_RECALL_LINE	RÜCKRUF:<N>+<PSI> Psi
 $UI_DEFENDER_TECHNIQUE	Technik
@@ -1361,7 +1364,7 @@ $MISC_SAVE_FIXED_TITLE	Autospeichern erfolreich!
 $MISC_SELECTED	Gewählt
 $MISC_SLOT	Platz
 $MISC_SPLASH_TILES	Kacheln
-$MISC_TITLE_SAFE_TEXT	Bewege die Analogsticks, bis alle Kästen sichtbar sind.
+$MISC_TITLE_SAFE_TEXT	Bewege die sticks, bis alle Kästen sichtbar sind.
 $MISC_UNIVERSAL	Universal
 $MISC_WAVE_X	Welle <X>
 $MISC_WEAPON_PLURAL	<RE>$MISC_WEAPONS
@@ -1540,6 +1543,8 @@ $WIIU_X	Y-Knopf
 $WIIU_Y	X-Knopf
 $XBOX360_A	<RE>$GAMEPAD_A
 $XBOX360_B	<RE>$GAMEPAD_B
+$XBOX360_X	<RE>$GAMEPAD_X
+$XBOX360_Y	<RE>$GAMEPAD_Y
 $XBOX360_BACK	<RE>$GAMEPAD_BACK
 $XBOX360_DPAD	<RE>$GAMEPAD_DPAD
 $XBOX360_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
@@ -1564,36 +1569,34 @@ $XBOX360_RIGHT_SHOULDER	<RE>$GAMEPAD_RIGHT_SHOULDER
 $XBOX360_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
 $XBOX360_RIGHT_TRIGGER	<RE>$GAMEPAD_RIGHT_TRIGGER
 $XBOX360_START	<RE>$GAMEPAD_START
-$XBOX360_X	<RE>$GAMEPAD_X
-$XBOX360_Y	<RE>$GAMEPAD_Y
-$XBOXONE_A	<RE>$GAMEPAD_A
-$XBOXONE_B	<RE>$GAMEPAD_B
+$XBOXONE_A	A-Taste
+$XBOXONE_B	B-Taste
+$XBOXONE_X	X-Taste
+$XBOXONE_Y	Y-Taste
 $XBOXONE_BACK	View-Taste
-$XBOXONE_DPAD	<RE>$GAMEPAD_DPAD
-$XBOXONE_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
-$XBOXONE_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
-$XBOXONE_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
-$XBOXONE_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
+$XBOXONE_DPAD	Steuerkreuz
+$XBOXONE_DPAD_DOWN	Unten-Taste
+$XBOXONE_DPAD_LEFT	Links-Taste
+$XBOXONE_DPAD_RIGHT	Rechts-Taste
+$XBOXONE_DPAD_UP	Oben-Taste
 $XBOXONE_EMPTY	<RE>$GAMEPAD_EMPTY
-$XBOXONE_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
-$XBOXONE_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
-$XBOXONE_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
-$XBOXONE_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
-$XBOXONE_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
-$XBOXONE_LEFT_SHOULDER	<RE>$GAMEPAD_LEFT_SHOULDER
-$XBOXONE_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
-$XBOXONE_LEFT_TRIGGER	<RE>$GAMEPAD_LEFT_TRIGGER
-$XBOXONE_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
-$XBOXONE_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
-$XBOXONE_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
-$XBOXONE_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
-$XBOXONE_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
-$XBOXONE_RIGHT_SHOULDER	<RE>$GAMEPAD_RIGHT_SHOULDER
-$XBOXONE_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
-$XBOXONE_RIGHT_TRIGGER	<RE>$GAMEPAD_RIGHT_TRIGGER
+$XBOXONE_LEFT_ANALOG_STICK	Linker Stick
+$XBOXONE_LEFT_ANALOG_STICK_X_MINUS	Linker Stick, zeigt nach LINKS
+$XBOXONE_LEFT_ANALOG_STICK_X_PLUS	Linker Stick, zeigt nach RECHTS
+$XBOXONE_LEFT_ANALOG_STICK_Y_MINUS	Linker Stick, zeigt nach OBEN
+$XBOXONE_LEFT_ANALOG_STICK_Y_PLUS	Linker Stick, zeigt nach UNTEN
+$XBOXONE_LEFT_SHOULDER	Linker Bumper
+$XBOXONE_LEFT_STICK_CLICK	Linker Stick, GEDRÜCKT
+$XBOXONE_LEFT_TRIGGER	Linker Trigger
+$XBOXONE_RIGHT_ANALOG_STICK	Rechter Stick
+$XBOXONE_RIGHT_ANALOG_STICK_X_MINUS	Rechter Stick, zeigt nach LINKS
+$XBOXONE_RIGHT_ANALOG_STICK_X_PLUS	Rechter Stick, zeigt nach RECHTS
+$XBOXONE_RIGHT_ANALOG_STICK_Y_MINUS	Rechter Stick, zeigt nach OBEN
+$XBOXONE_RIGHT_ANALOG_STICK_Y_PLUS	Rechter Stick, zeigt nach UNTEN
+$XBOXONE_RIGHT_SHOULDER	Rechter Bumper
+$XBOXONE_RIGHT_STICK_CLICK	Rechter Stick, GEDRÜCKT
+$XBOXONE_RIGHT_TRIGGER	Rechter Trigger
 $XBOXONE_START	Menü-Taste
-$XBOXONE_X	<RE>$GAMEPAD_X
-$XBOXONE_Y	<RE>$GAMEPAD_Y
 $YOU_GOT_NEW_GAME_PLUS_TEXT	Herzlichen Glückwunsch! Du kannst jetzt ein neues Abenteuer mit deiner alten Gruppe beginnen!<N><N>Stelle dich Mutanten mit neuen Fähigkeiten, verzaubere deine Ausrüstung mit wundersamen neuen Kräften und hol dir neue Bücher für deine Bibliothek. Löse neue Nebenaufgaben mit zusätzlichen Zwischensequenzen und neuen Geschichten, schalte Kommentare der Entwickler frei, übersetze Eztli-Tenochs Sprache, triff neue Charaktere und noch viel mehr!<N><N><RE>[$NEW_GAME_PLUS_NOTE]<N><N>Du kannst jederzeit zu deinem <LQ>normalen<RQ> Spiel zurückkehren.
 $YOU_GOT_NEW_GAME_PLUS_TITLE	Neues Spiel+ freigeschaltet!
 $MISC_NO_SIGN_IN_WARNING	Dein Fortschritt wird nur gespeichert, wenn du dich anmeldest.
