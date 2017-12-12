@@ -197,7 +197,7 @@ $MISC_BONUS	Bonus
 $MISC_BONUS_DEFENSE	base defense
 $MISC_BOOST	boost
 $MISC_BOOST_X	boost <X>
-$MISC_BREAK_HERO_MODE_TEXT	You've chosen to play in <LQ>Hero Mode<RQ>, which forbids recruiting generic characters.<N>Leave this mode and recruit a character anyway?
+$MISC_BREAK_HERO_MODE_TEXT	You've chosen to play in <LQ>Hero Mode<RQ>, which forbids recruiting generic characters. Leave this mode and recruit a character anyway?
 $MISC_BREAK_HERO_MODE_TITLE	Leave Hero Mode?
 $MISC_BUY	buy
 $MISC_CANCEL	cancel
