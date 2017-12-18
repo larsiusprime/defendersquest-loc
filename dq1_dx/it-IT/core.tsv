@@ -130,6 +130,7 @@ $UI_OPTIONS_TITLE	Opzioni
 $UI_OPTIONS_MENU	Menu opzioni
 $UI_OPTIONS_SPEED	Velocità di gioco
 $UI_ACHIEVEMENTS_TITLE	Achievement
+$UI_ACHIEVEMENTS_TITLE	Premi
 $UI_ACHIEVEMENTS_BUTTON_NUMBERS	font:18,offy:-2
 $UI_SFX	Effetti sonori:
 $UI_MUSIC	Musica:
@@ -634,6 +635,7 @@ $MISC_COUNTER	contrattacco
 $MISC_COUNTER!	CONTRATTACCO!
 $MISC_NOM!	GNAM!
 $MISC_ACHIEVEMENT!	Achievement!
+$MISC_AWARD	Premio
 $BASE_ATTACK	Attacco base
 $BONUS_DEFENSE	Difesa bonus
 $DECIMATE_BY	Riduce i PV del <PERCENT>%
@@ -1192,6 +1194,7 @@ $MISC_GOLD_TT_TEXT	Gli scarti (denaro) ottenuti dopo una battaglia.<N><RE>[$MISC
 $MISC_GOLD_TT_TITLE	Scarti
 $MISC_HERO_MODE	Modalità Eroe
 $MISC_HERO_MODE_TEXT	Il reclutamento di personaggi generici è vietato.<N>Assolutamente sconsigliato ai nuovi giocatori!<N><N>NOTA:<N>Potrai in seguito disabilitare questa modalità semplicemente cercando di reclutare un personaggio e ignorando il messaggio di avviso.<N><N>Raccomandiamo fortemente di impostare a 300% l'acquisizione di esperienza e denaro.<N><N>Infine, questa impostazione non è strettamente necessaria per ottenere l'achievement "Modalità Eroe" -- l'importante è completare la partita senza reclute generiche.
+$MISC_HERO_MODE_SONY_TEXT	Il reclutamento di personaggi generici è vietato.<N>Assolutamente sconsigliato ai nuovi giocatori!<N><N>NOTA:<N>Potrai in seguito disabilitare questa modalità semplicemente cercando di reclutare un personaggio e ignorando il messaggio di avviso.<N><N>Raccomandiamo fortemente di impostare a 300% l'acquisizione di esperienza e denaro.<N><N>Infine, questa impostazione non è strettamente necessaria per ottenere il premio "Modalità Eroe" -- l'importante è completare la partita senza reclute generiche.
 $MISC_HERO_MODE_TITLE	<RE>$MISC_HERO_MODE
 $MISC_NEW_GAME_SETTINGS	Impostazioni Nuova Partita
 $MISC_NO_HARDWARE	Il tuo sistema non supporta l'accelerazione hardware. Il gioco funzionerà comunque, ma potresti dover abbassare la qualità grafica se risultasse troppo lento.

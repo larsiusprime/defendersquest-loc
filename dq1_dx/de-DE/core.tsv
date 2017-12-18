@@ -133,6 +133,7 @@ $MISC_ABSORB_X_RESIST_Y	absorbiere <X>, widerstehe <Y>%
 $MISC_ACCEPT	OK
 $MISC_ACCEPT_AND_CLOSE	Akzeptieren & schließen
 $MISC_ACHIEVEMENT!	Errungenschaft!
+$MISC_AWARD	Auszeichnung
 $MISC_ADJUST_REWARDS	100% ist die normale Menge. Justiere nach oben oder unten, um die Belohnungen zu ändern.
 $MISC_ADVANCED	fortgeschritten
 $MISC_ADVANCED_SHORT	Schwer
@@ -258,6 +259,7 @@ $MISC_HARDER	schwerer
 $MISC_HEAL	heilen
 $MISC_HERO_MODE	Heldenmodus
 $MISC_HERO_MODE_TEXT	Generische Charaktere zu rekrutieren ist verboten.<N>Überhaupt NICHT empfohlen, wenn du das Spiel zum ersten Mal durchspielst!<N><N>ANMERKUNGEN:<N>Du kannst dich später noch umentscheiden, indem du einen generischen Charakter rekrutierst und die Warnung ignorierst.<N><N>Wir empfehlen dir, Erfahrungs- und Kramgewinn auf 300% zu stellen, wenn du im Heldenmodus spielst.<N><N>Diese Einstellung wird nicht für die "Heldenmodus" Achievements benötigt. Die Abwesenheit generischer Charaktere ist genug.
+$MISC_HERO_MODE_TEXT	Generische Charaktere zu rekrutieren ist verboten.<N>Überhaupt NICHT empfohlen, wenn du das Spiel zum ersten Mal durchspielst!<N><N>ANMERKUNGEN:<N>Du kannst dich später noch umentscheiden, indem du einen generischen Charakter rekrutierst und die Warnung ignorierst.<N><N>Wir empfehlen dir, Erfahrungs- und Kramgewinn auf 300% zu stellen, wenn du im Heldenmodus spielst.<N><N>Diese Einstellung wird nicht für die "Heldenmodus" Auszeichnungen benötigt. Die Abwesenheit generischer Charaktere ist genug.
 $MISC_HERO_MODE_TITLE	<RE>$MISC_HERO_MODE
 $MISC_HIRE	ANHE-<N>UERN!
 $MISC_HIRE_Q	Heuere <NAME> aus der Klasse <CLASS> für <SCRAP> Kram an?
@@ -762,6 +764,7 @@ $UI_ACHIEVE_TRAINER	Trainer
 $UI_ACHIEVEMENTS_BUTTON_NUMBERS	font:18,offy:-2
 $UI_ACHIEVEMENTS_NUMS	font:18,off_y:0,pop_up_off_y:0,desc_font:11,title_font:11,popup_font:16
 $UI_ACHIEVEMENTS_TITLE	Erfolge
+$UI_AWARDS_TITLE	Auszeichnungen
 $UI_ALL_FILES	Alle Dateien
 $UI_AUDIO_NUMS	font:18,off_y:1,off_x:-2
 $UI_AUDIO_TITLE	Audio

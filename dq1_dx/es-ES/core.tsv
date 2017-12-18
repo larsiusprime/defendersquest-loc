@@ -133,6 +133,7 @@ $MISC_ABSORB_X_RESIST_Y	absorbe <X>, resiste <Y>%
 $MISC_ACCEPT	aceptar			
 $MISC_ACCEPT_AND_CLOSE	Aceptar y cerrar			
 $MISC_ACHIEVEMENT!	¡Logro!			
+$MISC_AWARD!	Recompensa			
 $MISC_ADJUST_REWARDS	100% es la cantidad por defecto. Ajusta un número mayor o menor para cambiar tus recompensas.			
 $MISC_ADVANCED	avanzado			
 $MISC_ADVANCED_SHORT	avan.			
@@ -760,6 +761,7 @@ $UI_ACHIEVE_TRAINER	Muy fácil
 $UI_ACHIEVEMENTS_BUTTON_NUMBERS	font:18,offy:-2			
 $UI_ACHIEVEMENTS_NUMS	font:18,off_y:0,pop_up_off_y:-15,desc_font:11,title_font:11,popup_font:16,x_off_column:-15,x_space_column:20			
 $UI_ACHIEVEMENTS_TITLE	Logros			
+$UI_AWARDS_TITLE	Recompensas			
 $UI_ALL_FILES	Todos los archivos			
 $UI_AUDIO_NUMS	font:18,off_y:1,off_x:-2			
 $UI_AUDIO_TITLE	Audio			

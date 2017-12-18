@@ -169,6 +169,7 @@ $MISC_ABSORB_X_RESIST_Y	absorb <X>, resist <Y>%
 $MISC_ACCEPT	accept
 $MISC_ACCEPT_AND_CLOSE	Accept & close
 $MISC_ACHIEVEMENT!	Achievement!
+$MISC_AWARD!	Award
 $MISC_ADJUST_REWARDS	100% is the default amount, adjust up or down to change your rewards.
 $MISC_ADVANCED	advanced
 $MISC_ADVANCED_SHORT	adv.
@@ -296,6 +297,7 @@ $MISC_HARDER	harder
 $MISC_HEAL	heal
 $MISC_HERO_MODE	Hero Mode
 $MISC_HERO_MODE_TEXT	Recruiting generic characters is forbidden.<N>Absolutely NOT recommended for first playthroughs!<N><N>NOTES:<N>You can change your mind later by trying to recruit a character and dismissing the warning that pops up.<N><N>We strongly recommend setting XP and Scrap gain to 300% when using hero mode.<N><N>Finally, this setting isn't required for "Hero Mode" achievements -- the absence of generic characters is enough.
+$MISC_HERO_MODE_TEXT_SONY	Recruiting generic characters is forbidden.<N>Absolutely NOT recommended for first playthroughs!<N><N>NOTES:<N>You can change your mind later by trying to recruit a character and dismissing the warning that pops up.<N><N>We strongly recommend setting XP and Scrap gain to 300% when using hero mode.<N><N>Finally, this setting isn't required for "Hero Mode" awards -- the absence of generic characters is enough.
 $MISC_HERO_MODE_TITLE	<RE>$MISC_HERO_MODE
 $MISC_HIRE	HIRE!
 $MISC_HIRE_Q	Hire <NAME> the <CLASS> for<N><SCRAP> scrap?
@@ -802,6 +804,7 @@ $UI_ACHIEVE_TRAINER	Trainer
 $UI_ACHIEVEMENTS_BUTTON_NUMBERS	font:18,offy:-2
 $UI_ACHIEVEMENTS_NUMS	font:18,off_y:0,pop_up_off_y:0
 $UI_ACHIEVEMENTS_TITLE	Achievements
+$UI_AWARDS_TITLE	Awards
 $UI_ALL_FILES	All Files
 $UI_AUDIO_NUMS	font:18,off_y:1,off_x:-2
 $UI_AUDIO_TITLE	Audio

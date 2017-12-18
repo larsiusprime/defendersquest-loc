@@ -169,6 +169,7 @@ $MISC_ABSORB_X_RESIST_Y	吸收 <X>，抵抗 <Y>%
 $MISC_ACCEPT	接受	
 $MISC_ACCEPT_AND_CLOSE	接受并关闭	
 $MISC_ACHIEVEMENT!	成就！	
+$MISC_AWARD!	奖	
 $MISC_ADJUST_REWARDS	100%是默认数额，向上或向下调整来改变你的奖励。	
 $MISC_ADVANCED	高级	
 $MISC_ADVANCED_SHORT	高级	
@@ -293,6 +294,7 @@ $MISC_HARDER	更困难
 $MISC_HEAL	治疗	
 $MISC_HERO_MODE	英雄模式	
 $MISC_HERO_MODE_TEXT	禁止招募通用人物。<N>强烈建议第一次游戏不要选择此模式！<N><N>注意：<N>如果你想改变你的主意，你可以尝试去招募一个角色并且解除弹出的警告。<N><N>当你选择英雄模式时，我们强烈建议把经验和废品获得调整为300%。<N><N>最后，“英雄模式”成就不需要这项设置——没有通用人物就已经可以达成成就。	
+$MISC_HERO_MODE_SONY_TEXT	禁止招募通用人物。<N>强烈建议第一次游戏不要选择此模式！<N><N>注意：<N>如果你想改变你的主意，你可以尝试去招募一个角色并且解除弹出的警告。<N><N>当你选择英雄模式时，我们强烈建议把经验和废品获得调整为300%。<N><N>最后，“英雄模式”奖不需要这项设置——没有通用人物就已经可以达成奖。	
 $MISC_HERO_MODE_TITLE	<RE>$MISC_HERO_MODE	
 $MISC_HIRE	雇佣！	
 $MISC_HIRE_Q	<NAME> ，职业为 <CLASS> ，消耗 <N><SCRAP> 废品，是否确定雇佣？ 	
@@ -795,6 +797,7 @@ $UI_ACHIEVE_TRAINER	训练师
 $UI_ACHIEVEMENTS_BUTTON_NUMBERS	font:18,offy:-2	
 $UI_ACHIEVEMENTS_NUMS	font:18,off_y:0,pop_up_off_y:0	
 $UI_ACHIEVEMENTS_TITLE	成就	
+$UI_AWARDS_TITLE	奖项	
 $UI_ALL_FILES	所有文件	
 $UI_AUDIO_NUMS	font:18,off_y:1,off_x:-2	
 $UI_AUDIO_TITLE	音频	
