@@ -1432,7 +1432,7 @@ $PS3_RIGHT_TRIGGER	<RE>$PS4_RIGHT_TRIGGER
 $PS3_START	<RE>$GAMEPAD_START
 $PS3_X	<RE>$PS4_X
 $PS3_Y	<RE>$PS4_Y
-$PS4_A	Kreus-Taste
+$PS4_A	Kreuz-Taste
 $PS4_B	Kreis-Taste
 $PS4_X	Quadrat-Taste
 $PS4_Y	Dreieck-Taste
