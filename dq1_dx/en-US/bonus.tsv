@@ -6,6 +6,7 @@ $BONUS_4_TITLE	Endless 1
 $BONUS_5_TITLE	Challenge 4
 $BONUS_6_TITLE	Challenge 5
 $BONUS_7_TITLE	Endless 2
+$BONUS_7_TITLE_VITA	Endless* 2
 $BONUS_1_DESC	Those sneaky swimming creeps.
 $BONUS_2_DESC	No archers or dragons<C> and only 6 defender points. What to do?
 $BONUS_3_DESC	A multi-front battle.
@@ -13,6 +14,8 @@ $BONUS_4_DESC	Face an endless challenge of enemies!
 $BONUS_5_DESC	Swimming up stream.
 $BONUS_6_DESC	High traffic down the middle and threats on the flanks.
 $BONUS_7_DESC	Another endless challenge<C> but this time they don't attack - how much DPS can you manage?
+$BONUS_7_DESC_VITA	Another endless* challenge<C> but this time they don't attack - how much DPS can you manage?<N>*Handheld version capped at 100 waves for stability
+$BONUS_7_TOOLTIP_VITA	*On this handheld version only, the waves are capped at 100 for stability.
 $BONUS_RECORD_WAVE	(Record: wave <WAVE_NUM>)
 $BONUS_REWARDS	REWARDS
 $BONUS_HIGH_SCORE	High Score
