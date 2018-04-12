@@ -249,6 +249,7 @@ $MISC_DEMO_VERSION_DESC	This is the public demo of Defender's Quest: Valley of t
 $MISC_DESCRIPTION	description
 $MISC_DISABLED	disabled
 $MISC_DOWNLOAD	download
+$MISC_UPLOAD	upload
 $MISC_DQ_NEWS	Get NEWS!
 $MISC_DQ_SITE	DefendersQuest.com
 $MISC_EASIER	easier
@@ -831,8 +832,11 @@ $UI_CONFLICT_CLOUD	CLOUD
 $UI_CONFLICT_LOCAL	COMPUTER
 $UI_CONFLICT_CONSOLE	CONSOLE
 $UI_CONFLICT_MSG	We're not sure which of these should go in Slot <SLOT>.<N>Please pick the one you want to keep.
+$UI_CONFLICT_CONFIRMATION_CLOUD	Overwrite cloud data with local data for Slot <SLOT>?
+$UI_CONFLICT_CONFIRMATION_LOCAL	Overwrite local data with cloud data for Slot <SLOT>?
 $UI_CONFLICT_NGP	New Game+
 $UI_CONFLICT_TITLE	Cloud Conflict!
+$UI_CONFLICT_CONFIRM	Confirm Overwrite
 $UI_CONTROLS_ACCEL	Acceleration
 $UI_CONTROLS_INERTIA	Inertia
 $UI_CONTROLS_ACCEPT	Accept
@@ -1529,3 +1533,11 @@ $MISC_SWITCH_USER	Switch user
 $MISC_RESTART_XBOX	Restart your Xbox?
 $MISC_NO_SIGN_IN_WARNING	Your progress will not be saved unless you sign in.
 $MISC_NEW_USER	New user
+$MISC_CROSS_SAVE	Cross-Save
+$CROSS_SAVE_RESULT_EQUAL	Slot <X>: Identical, skipped.
+$CROSS_SAVE_RESULT_CONFIRM	Slot <X>: Conflicting data.
+$CROSS_SAVE_RESULT_STOMP_DOWN	Slot <X>: Downloaded.
+$CROSS_SAVE_RESULT_STOMP_UP	Slot <X>: Uploaded.
+$CROSS_SAVE_RESULT_PLEASE_CONFIRM	Please review conflicts.
+$CROSS_SAVE_RESULT_NO_CHANGES	No changes.
+$CROSS_SAVE_RESULT_CHANGES	Success!
