@@ -1538,6 +1538,8 @@ $CROSS_SAVE_RESULT_EQUAL	Slot <X>: Identical, skipped.
 $CROSS_SAVE_RESULT_CONFIRM	Slot <X>: Conflicting data.
 $CROSS_SAVE_RESULT_STOMP_DOWN	Slot <X>: Downloaded.
 $CROSS_SAVE_RESULT_STOMP_UP	Slot <X>: Uploaded.
+$CROSS_SAVE_RESULT_EMPTY	Slot <X>: Empty, skipped.
 $CROSS_SAVE_RESULT_PLEASE_CONFIRM	Please review conflicts.
 $CROSS_SAVE_RESULT_NO_CHANGES	No changes.
 $CROSS_SAVE_RESULT_CHANGES	Success!
+$MISC_NETWORK_ERROR	There was a problem connecting to the network.
