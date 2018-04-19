@@ -209,7 +209,7 @@ $MISC_MAX	MAX
 $UI_SKILLS_NO_POINTS	Nessun punto disponibile.
 $UI_SKILLS_REQ_1PT	RICHIEDE: Personaggio LIV <LVL>,<N><PT> punto in <SKILL>
 $UI_SKILLS_REQ_XPT	RICHIEDE: Personaggio LIV <LVL>,<N><PT> punti in <SKILL>
-$UI_SKILLS_NO_LEARN_SPELL	Non hai ancora imparato questo incantesimo.
+$UI_SKILLS_NO_LEARN_SPELL	Non hai ancora imparato<N>questo incantesimo.
 $UI_SKILLS_MOUSE_OVER	Ispeziona con il cursore.
 $UI_EQUIP_OWNED	posseduto
 $UI_EQUIP_COMPARE	confronta

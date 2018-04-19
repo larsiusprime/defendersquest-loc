@@ -1145,7 +1145,7 @@ $UI_SFX	SFX:
 $UI_SKILLS_CLICK_TO_UPGRADE	Click to Upgrade.
 $UI_SKILLS_MAX	MAXIMUM
 $UI_SKILLS_MOUSE_OVER	Mouse-over to inspect.
-$UI_SKILLS_NO_LEARN_SPELL	You haven't learned this spell yet.
+$UI_SKILLS_NO_LEARN_SPELL	You haven't learned<N>this spell yet.
 $UI_SKILLS_NO_POINTS	No points.
 $UI_SKILLS_REQ_1PT	REQUIRES: Char. LVL <LVL>,<N><PT> point in <SKILL>
 $UI_SKILLS_REQ_XPT	REQUIRES: Char. LVL <LVL>,<N><PT> points in <SKILL>

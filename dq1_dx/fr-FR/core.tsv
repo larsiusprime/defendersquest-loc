@@ -194,7 +194,7 @@ $MISC_MAX	MAX
 $UI_SKILLS_NO_POINTS	Aucun point disponible
 $UI_SKILLS_REQ_1PT	REQUIS : Perso NIV <LVL>,<N><PT> point dans <SKILL>
 $UI_SKILLS_REQ_XPT	REQUIS : Perso NIV <LVL>,<N><PT> points dans <SKILL>
-$UI_SKILLS_NO_LEARN_SPELL	Vous n'avez pas encore appris ce sort.
+$UI_SKILLS_NO_LEARN_SPELL	Vous n'avez pas<N>encore appris ce sort.
 $UI_SKILLS_MOUSE_OVER	Passez la souris pour plus d'infos.
 $UI_EQUIP_OWNED	possédé
 $UI_EQUIP_COMPARE	comparer

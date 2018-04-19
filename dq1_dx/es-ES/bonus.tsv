@@ -18,3 +18,6 @@ $BONUS_REWARDS	RECOMPENSAS
 $BONUS_HIGH_SCORE	Máxima puntuación
 $BONUS_REACH_WAVE	Alcanza la oleada <WAVE_NUM>
 $BONUS_BEAT_WAVE	Supera la oleada <WAVE_NUM>
+$BONUS_7_TITLE_VITA	Infinito* 2
+$BONUS_7_DESC_VITA	Otro desafío interminable,<C> pero esta vez no atacan. ¿Cuánto daño por segundo puedes conseguir?<N>*Versión portátil reducida a 100 oleadas por razones de estabilidad
+$BONUS_7_TOOLTIP_VITA	*Solo en esta versión portátil, las oleadas se reducen a 100 por razones de estabilidad.

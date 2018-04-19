@@ -200,7 +200,7 @@ $MISC_MAX	최대
 $UI_SKILLS_NO_POINTS	잔여 포인트가 없습니다.
 $UI_SKILLS_REQ_1PT	필요합니다: 캐릭터 레벨 <LVL>,<N><PT> 개의 포인트가 <SKILL>에 투자되어있어야 함.
 $UI_SKILLS_REQ_XPT	REQUIRES: 캐릭터 레벨 <LVL>,<N><PT> 개의 포인트가 <SKILL>에 투자되어있어야 함.
-$UI_SKILLS_NO_LEARN_SPELL	당신은 아직 이 스킬을 배우지 않았습니다.
+$UI_SKILLS_NO_LEARN_SPELL	당신은 아직 이<N>스킬을 배우지 않았습니다.
 $UI_SKILLS_MOUSE_OVER	자세히 보려면 마우스를 올려놓으세요
 $UI_EQUIP_OWNED	소유한 장비
 $UI_EQUIP_COMPARE	비교하기

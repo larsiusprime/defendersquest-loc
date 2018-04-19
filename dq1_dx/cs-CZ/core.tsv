@@ -200,7 +200,7 @@ $MISC_MAX	MAX
 $UI_SKILLS_NO_POINTS	Žádné volné body.
 $UI_SKILLS_REQ_1PT	Vyžaduje: Úroveň <LVL><C><N><PT> bod ve <SKILL>
 $UI_SKILLS_REQ_XPT	Vyžaduje: Úroveň <LVL><C><N><PT> body ve <SKILL>
-$UI_SKILLS_NO_LEARN_SPELL	Tohle kouzlo ještě neumíš.
+$UI_SKILLS_NO_LEARN_SPELL	Tohle kouzlo<N>ještě neumíš.
 $UI_SKILLS_MOUSE_OVER	Najeď myší pro detaily.
 $UI_EQUIP_OWNED	Máš
 $UI_EQUIP_COMPARE	Porovnání

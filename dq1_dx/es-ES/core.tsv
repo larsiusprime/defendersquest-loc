@@ -213,6 +213,7 @@ $MISC_DEMO_VERSION_DESC	Esto es la demo pública de Defender's Quest: Valley of 
 $MISC_DESCRIPTION	descripción	
 $MISC_DISABLED	desactivar	
 $MISC_DOWNLOAD	descargar	
+$MISC_UPLOAD	cargar
 $MISC_DQ_NEWS	¡Entérate de las NOTICIAS!	
 $MISC_DQ_SITE	DefendersQuest.com	
 $MISC_EASIER	más fácil	
@@ -864,8 +865,8 @@ $UI_CONTROLS_XBOX360	Xbox 360
 $UI_CONTROLS_XINPUT	Xinput	
 $UI_DEFENDER_BOOST	MEJORAR: <PSI> Psi	
 $UI_DEFENDER_BOOST_MAX	MEJORA MÁXIMA	
-$UI_DEFENDER_BOOST_NEED	MEJORAR: Requiere <PSI> de Psi	
-$UI_DEFENDER_BOOST_NEED2	MEJORAR: Requiere <PSI> de Psi	
+$UI_DEFENDER_BOOST_NEED	MEJORAR: <PSI> Psi	
+$UI_DEFENDER_BOOST_NEED2	MEJORAR: <PSI> Psi	
 $UI_DEFENDER_BOOST_NEED_NUMS	font:11,x_off:0,y_off:-4	
 $UI_DEFENDER_BOOST_UNLOCK	Se desbloquea en el NIVEL <LVL> DE MEJORA	
 $UI_DEFENDER_CLICK_TO	(Clic para activar/desactivar)	
@@ -1101,7 +1102,7 @@ $UI_SHOP_EQUIP_NUMS	font:17,y_off:1
 $UI_SKILLS_CLICK_TO_UPGRADE	Clica para mejorar.	
 $UI_SKILLS_MAX	MÁXIMO	
 $UI_SKILLS_MOUSE_OVER	Pasa el cursor para inspeccionar.	
-$UI_SKILLS_NO_LEARN_SPELL	Todavía no has aprendido este hechizo.	
+$UI_SKILLS_NO_LEARN_SPELL	Todavía no has<N>aprendido este hechizo.	
 $UI_SKILLS_NO_POINTS	No hay puntos disponibles.	
 $UI_SKILLS_REQ_1PT	REQUIERE: Pers. NVL <LVL>,<N><PT> punto en <SKILL>	
 $UI_SKILLS_REQ_XPT	REQUIERE: Pers. NVL <LVL>,<N><PT> puntos en <SKILL>	
@@ -1187,7 +1188,7 @@ $UI_VIDEO_WINDOWED	Ventana
 $WEAK_DMG_MULT	<PLUS><PERCENT>% de DAÑO adicional de <FLAVOR>	
 $YOU_GOT	¡Has conseguido	
 $YOU_GOT_JOIN	¡<CLASS> <NAME><N>se ha unido al grupo!	
-$YOU_GOT_MONEY	¡Has conseguido <MONEY> de chatarra!	
+$YOU_GOT_MONEY	Chatarra ganada: <MONEY>
 $YOU_GOT_NEW_GAME_PLUS_TEXT	¡Enhorabuena! ¡Ahora puedes comenzar una nueva aventura con tu antiguo grupo!<N><N>Enfréntate a enemigos mutantes con nuevas habilidades, imbuye tu equipo con nuevos e increíbles poderes y completa tu biblioteca con muchos libros sorprendentes. Embárcate en numerosas misiones secundarias nuevas con cinemáticas e historia adicional, desbloquea los comentarios del desarrollador, traduce el idioma de Eztli-Tenoch, conoce a nuevos personajes ¡y mucho más!<N><N><RE>[$NEW_GAME_PLUS_NOTE]<N><N>Puedes volver a tu partida <LQ>normal<RQ> en cualquier momento.	
 $YOU_GOT_NEW_GAME_PLUS_TITLE	¡Nueva partida+ desbloqueada!	
 $YOU_GOT_NO_EQUIP	Este objeto no se puede equipar.	
@@ -1359,3 +1360,15 @@ $XBOXONE_BACK	Botón Vista
 $XBOXONE_START	Botón Menú
 $MISC_NO_SIGN_IN_WARNING	Tus avances no se guardarán si no inicias sesión.
 $MISC_NEW_USER	Nuevo usuario
+$UI_CONFLICT_CONFIRMATION_CLOUD	¿Sobrescribir los datos de la nube con los datos locales en el espacio <SLOT>?
+$UI_CONFLICT_CONFIRMATION_LOCAL	¿Sobrescribir los datos locales con los datos de la nube en el espacio <SLOT>?
+$UI_CONFLICT_CONFIRM	Confirmar sobrescritura
+$MISC_CROSS_SAVE	Transferencia de datos
+$CROSS_SAVE_RESULT_EQUAL	Espacio <X>: idéntico, se ha omitido.
+$CROSS_SAVE_RESULT_CONFIRM	Espacio <X>: conflicto de datos.
+$CROSS_SAVE_RESULT_STOMP_DOWN	Espacio <X>: descargado.
+$CROSS_SAVE_RESULT_STOMP_UP	Espacio <X>: cargado.
+$CROSS_SAVE_RESULT_PLEASE_CONFIRM	Revisa los conflictos.
+$CROSS_SAVE_RESULT_NO_CHANGES	Sin cambios.
+$CROSS_SAVE_RESULT_CHANGES	¡Realizado correctamente!
+$MISC_NETWORK_ERROR	Se ha producido un problema al conectarse a la red.
