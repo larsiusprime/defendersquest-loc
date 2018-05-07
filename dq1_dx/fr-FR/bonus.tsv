@@ -18,3 +18,6 @@ $BONUS_REWARDS	RÉCOMPENSES
 $BONUS_HIGH_SCORE	Meilleur Score
 $BONUS_REACH_WAVE	Atteindre la vague <WAVE_NUM>
 $BONUS_BEAT_WAVE	Vaincre la vague <WAVE_NUM>
+$BONUS_7_TITLE_VITA	Infini* 2
+$BONUS_7_DESC_VITA	Un autre Défi Infini*<C> mais cette fois-ci, ils n'attaquent pas. Combien de DPS atteindrez-vous ?<N>*Version portable limitée à 100 vagues pour des raisons de stabilité
+$BONUS_7_TOOLTIP_VITA	*Sur cette version portable uniquement, le nombre de vague est limité à 100 pour des raisons de stabilité.
