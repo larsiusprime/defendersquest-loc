@@ -1389,6 +1389,7 @@ $XBOXONE_BACK	Botón Vista
 $XBOXONE_START	Botón Menú
 $MISC_NO_SIGN_IN_WARNING	Tus avances no se guardarán si no inicias sesión.
 $MISC_NEW_USER	Nuevo usuario
+$MISC_UPLOAD	cargar
 $UI_CONFLICT_CONFIRMATION_CLOUD	¿Sobrescribir los datos de la nube con los datos locales en el espacio <SLOT>?
 $UI_CONFLICT_CONFIRMATION_LOCAL	¿Sobrescribir los datos locales con los datos de la nube en el espacio <SLOT>?
 $UI_CONFLICT_CONFIRM	Confirmar sobrescritura

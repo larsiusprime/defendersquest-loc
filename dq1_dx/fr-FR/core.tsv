@@ -282,7 +282,7 @@ $UI_GAMEPLAY_TUTORIALS	Didacticiels
 $UI_GAMEPLAY_DIALOGUE	Dialogue
 $UI_GAMEPLAY_NEVER	Jamais
 $UI_GAMEPLAY_ALWAYS	Toujours
-$UI_GAMEPLAY_DEFAULT	Nouvelles batailles uniquement
+$UI_GAMEPLAY_DEFAULT	<N>Nouvelles batailles<N>uniquement
 $UI_GAMEPLAY_BATTLE_NUMBERS	Stats des batailles
 $UI_GAMEPLAY_HIDE	Cacher
 $UI_GAMEPLAY_SHOW	Montrer

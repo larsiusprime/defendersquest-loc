@@ -1606,6 +1606,7 @@ $YOU_GOT_NEW_GAME_PLUS_TEXT	Herzlichen Glückwunsch! Du kannst jetzt ein neues A
 $YOU_GOT_NEW_GAME_PLUS_TITLE	Neues Spiel+ freigeschaltet!
 $MISC_NO_SIGN_IN_WARNING	Dein Fortschritt wird nur gespeichert, wenn du dich anmeldest.
 $MISC_NEW_USER	Neuer Benutzer
+$MISC_UPLOAD	hochladen
 $UI_CONFLICT_CONFIRMATION_CLOUD	Cloud-Daten mit lokalen Daten für Spielstand <SLOT> überschreiben?
 $UI_CONFLICT_CONFIRMATION_LOCAL	Lokale Daten mit Cloud-Daten für Spielstand <SLOT> überschreiben?
 $UI_CONFLICT_CONFIRM	Überschreiben bestätigen

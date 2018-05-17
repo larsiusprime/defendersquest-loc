@@ -21,3 +21,6 @@ $BONUS_REWARDS	REWARDS
 $BONUS_HIGH_SCORE	High Score
 $BONUS_REACH_WAVE	Reach wave <WAVE_NUM>
 $BONUS_BEAT_WAVE	Beat wave <WAVE_NUM>
+$BONUS_7_TITLE_VITA    Endlos* 2
+$BONUS_7_DESC_VITA    Noch eine Endlos*-Herausforderung<C> diesmal greifen sie aber nicht an - wieviel Schaden kannst du anrichten?<N>*die Handheld-Version hat aus Stabilitätsgründen nur 100 Wellen
+$BONUS_7_TOOLTIP_VITA    *Bei dieser Handheld-Version sind die Wellen aus Stabilitätsgründen auf 100 beschränkt.
