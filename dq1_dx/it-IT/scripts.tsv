@@ -335,7 +335,7 @@ $LINE_RIVER_INTRO_72_TEXT	...Sì?
 $SCENE_RIVER_OUTRO_TITLE	In fuga
 $NARR_RIVER_OUTRO_00_TEXT	ATTO II
 $NARR_RIVER_OUTRO_00_SUB_TEXT	*Io sputo negli occhi del traditore, l'assassino dell'onore.$NChe possa annegare nel suo stesso sangue.$NChe la sua carcassa marcisca nella terra.$NChe i ghiacci eterni prendano le sue ossa.
-$NARR_RIVER_OUTRO_00_SUB_SUB_TEXT	*$N$N$N$N$N-dal solenne giuramento Quaid
+$NARR_RIVER_OUTRO_00_SUB_SUB_TEXT	*$N$N$N$N$N- solenne giuramento Quaid
 $LINE_RIVER_OUTRO_00_CHAR	$BER
 $LINE_RIVER_OUTRO_00_TEXT	Chi ne vuole ancora?
 $LINE_RIVER_OUTRO_10_CHAR	$BER
@@ -1134,7 +1134,7 @@ $LINE_SIDEQUEST_5_OUTRO_200_TEXT	Potrei avere quel mestolo solo per un momento?
 $LINE_SIDEQUEST_5_OUTRO_210_CHAR	$MCG
 $LINE_SIDEQUEST_5_OUTRO_210_TEXT	Quindi lei vi ha portato nel mondo di mezzo proprio come faccio io?
 $LINE_SIDEQUEST_5_OUTRO_220_CHAR	$KNI
-$LINE_SIDEQUEST_5_OUTRO_220_TEXT	Non solo. Era in grado di svanire e riapparire in un'altro luogo.
+$LINE_SIDEQUEST_5_OUTRO_220_TEXT	Non solo. Era in grado di svanire e riapparire in un altro luogo.
 $LINE_SIDEQUEST_5_OUTRO_230_CHAR	$MCG
 $LINE_SIDEQUEST_5_OUTRO_230_TEXT	Se potessi farlo anch'io, di sicuro ora non sarei qui.
 $LINE_SIDEQUEST_5_OUTRO_240_CHAR	$KNI
@@ -1148,7 +1148,7 @@ $LINE_SIDEQUEST_5_OUTRO_270_TEXT	Non ho idea del perchè, ma non avevo intenzion
 $LINE_SIDEQUEST_5_OUTRO_280_CHAR	$MCG
 $LINE_SIDEQUEST_5_OUTRO_280_TEXT	Che cos'era?
 $LINE_SIDEQUEST_5_OUTRO_290_CHAR	$KNI
-$LINE_SIDEQUEST_5_OUTRO_290_TEXT	Somigliava un po' alle armi dei Nomadi, ma la qualità era superiore a qualunque cosa che le tribù producono oggigiorno.
+$LINE_SIDEQUEST_5_OUTRO_290_TEXT	Somigliava un po' alle armi dei nomadi, ma la qualità era superiore a qualunque cosa che le tribù producono oggigiorno.
 $LINE_SIDEQUEST_5_OUTRO_300_CHAR	$MCG
 $LINE_SIDEQUEST_5_OUTRO_300_TEXT	...Ho visto degli schizzi di qualcosa del genere, nella libreria... molto antichi...
 $LINE_SIDEQUEST_5_OUTRO_310_CHAR	$MCG
@@ -1333,7 +1333,7 @@ $LINE_3_8_INTRO_170_TEXT	Ogni notte, i nemici attaccano.
 $LINE_3_8_INTRO_180_CHAR	$DRA
 $LINE_3_8_INTRO_180_TEXT	Ne respingo a centinaia, ma continuano ad arrivare.
 $LINE_3_8_INTRO_190_CHAR	$DRA
-$LINE_3_8_INTRO_190_TEXT	E ogni mattina scopro che qualcun'altro dei miei piccoli è svanito.
+$LINE_3_8_INTRO_190_TEXT	E ogni mattina scopro che qualcun altro dei miei piccoli è svanito.
 $LINE_3_8_INTRO_200_CHAR	$MCG
 $LINE_3_8_INTRO_200_TEXT	Perchè mai i Revenant dovrebbero volere dei draghi?
 $LINE_3_8_INTRO_210_CHAR	$DRA
@@ -1619,25 +1619,25 @@ $LINE_SIDEQUEST_6_INTRO_60_TEXT	*$MAG? Lasciami solo-
 $LINE_SIDEQUEST_6_INTRO_70_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_70_TEXT	*$MCG, non farlo. Ti dovrei uccidere. Non posso fare altrimenti; nessuno può entrare nel tempio a parte i Custodi della Verità.
 $LINE_SIDEQUEST_6_INTRO_80_CHAR	$MAG
-$LINE_SIDEQUEST_6_INTRO_80_TEXT	Ho giurato di proteggere la Fede e l'Onore a qualunque costo. Non costringermi ad uccidere un'amica.
+$LINE_SIDEQUEST_6_INTRO_80_TEXT	Ho giurato di proteggere Onore e Fede a qualunque costo. Non costringermi ad uccidere un'amica.
 $LINE_SIDEQUEST_6_INTRO_90_CHAR	$MCG
 $LINE_SIDEQUEST_6_INTRO_90_TEXT	E come farai ad uccidere i Revenant senza di me?
 $LINE_SIDEQUEST_6_INTRO_100_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_100_TEXT	...Troverò un modo.
 $LINE_SIDEQUEST_6_INTRO_110_CHAR	$MCG
-$LINE_SIDEQUEST_6_INTRO_110_TEXT	*Così, hai intenzione di morire? È di questo che si tratta, $MAG?
+$LINE_SIDEQUEST_6_INTRO_110_TEXT	*E così hai intenzione di morire? È di questo che si tratta, $MAG?
 $LINE_SIDEQUEST_6_INTRO_120_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_120_TEXT	Io penso solo a servire la Fiamma!
 $LINE_SIDEQUEST_6_INTRO_130_CHAR	$MCG
 $LINE_SIDEQUEST_6_INTRO_130_TEXT	Oh, e servirai la Fiamma facendoti ammazzare? Mettendo fine alla dinastia Quaid per sempre?
 $LINE_SIDEQUEST_6_INTRO_140_CHAR	$MCG
-$LINE_SIDEQUEST_6_INTRO_140_TEXT	Quando la tua anima sarà giudicata dirai:
+$LINE_SIDEQUEST_6_INTRO_140_TEXT	E quando la tua anima verrà giudicata dirai:
 $LINE_SIDEQUEST_6_INTRO_150_CHAR	$MCG
-$LINE_SIDEQUEST_6_INTRO_150_TEXT	"Ho avuto paura del compito che mi spettava e disprezzavo i mezzi che mi hai dato, quindi ho scelto di morire"
+$LINE_SIDEQUEST_6_INTRO_150_TEXT	"Ho avuto paura del compito che mi spettava e disprezzavo i mezzi che mi sono stati dati, quindi ho scelto di morire"
 $LINE_SIDEQUEST_6_INTRO_160_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_160_TEXT	Questo non è vero!
 $LINE_SIDEQUEST_6_INTRO_170_CHAR	$MCG
-$LINE_SIDEQUEST_6_INTRO_170_TEXT	Davvero? Perchè è così che sembra a me. Il tuo epitaffio reciterà "Troppo impaurita per ricostruire il suo regno, decise di unirsi agli sconfitti."
+$LINE_SIDEQUEST_6_INTRO_170_TEXT	Davvero? Perchè a me sembra proprio così. Il tuo epitaffio narrerà "Troppo impaurita per ricostruire il suo regno, decise di unirsi agli sconfitti."
 $LINE_SIDEQUEST_6_INTRO_180_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_180_TEXT	NON È VERO!
 $LINE_SIDEQUEST_6_INTRO_190_CHAR	$MCG
@@ -1757,9 +1757,9 @@ $LINE_3_10_INTRO_140_TEXT	"Arginarono la malvagità... uniti nel sacrificio... L
 $LINE_3_10_INTRO_150_CHAR	$MAG
 $LINE_3_10_INTRO_150_TEXT	"E un altro uomo, fattosi avanti nel momento del bisogno.... un soldato di fanteria..."
 $LINE_3_10_INTRO_160_CHAR	$MAG
-$LINE_3_10_INTRO_160_TEXT	"Della famiglia Nefir, ora i nuovi signori... della Collezione Reale?"
+$LINE_3_10_INTRO_160_TEXT	"Della famiglia Nefir, ora i nuovi signori... della collezione reale?"
 $LINE_3_10_INTRO_170_CHAR	$MAG
-$LINE_3_10_INTRO_170_TEXT	"Questi tre spillarono il loro sangue per contenere il malvagio..."
+$LINE_3_10_INTRO_170_TEXT	"Questi tre spillarono il proprio sangue per contenere il malvagio..."
 $LINE_3_10_INTRO_180_CHAR	$MAG
 $LINE_3_10_INTRO_180_TEXT	"Eztli-Tenoch"
 $LINE_3_10_INTRO_190_CHAR	$MCG
@@ -1783,7 +1783,7 @@ $LINE_3_10_INTRO_270_TEXT	Bene, tutto questo è molto interessante eccetera ecce
 $LINE_3_10_INTRO_280_CHAR	$BER
 $LINE_3_10_INTRO_280_TEXT	Oh, ma non dovete fare niente. Ho solo pensato che vi avrebbe fatto piacere guardarmi mentre risolvo la situazione da solo.
 $LINE_3_10_INTRO_290_CHAR	$BER
-$LINE_3_10_INTRO_290_TEXT	Be', non proprio solo... mi daranno una mano Verità e Giustizia!
+$LINE_3_10_INTRO_290_TEXT	Be', non proprio da solo... Verità e Giustizia mi daranno una mano!
 $LINE_3_10_INTRO_300_CHAR	$BER
 $LINE_3_10_INTRO_300_TEXT	Per non parlare di Tuono, Fulmine, Carneficina, Caos, Trionfo ed Esecutore.
 $LINE_3_10_INTRO_310_CHAR	$RAN
@@ -1801,12 +1801,12 @@ $LINE_3_10_INTRO_360_TEXT	Charissa? Hai chiamato il tuo sedere Charissa?
 $LINE_3_10_INTRO_370_CHAR	$BER
 $LINE_3_10_INTRO_370_TEXT	Solo una metà.
 $LINE_3_10_INTRO_380_CHAR	$BER
-$LINE_3_10_INTRO_380_TEXT	Che ne dici della parte proprio lì sotto?  È un muscolo completamente diverso?  Voglio dire, in tal caso mi seccherebbe non dargli un nome, ma... non sono sicuro... sembra...
+$LINE_3_10_INTRO_380_TEXT	Che ne dici della parte proprio lì sotto?  È un muscolo completamente diverso?  Voglio dire, in quel caso mi seccherebbe non avergli dato un nome, ma... non sono sicuro... sembra...
 $LINE_3_10_INTRO_390_CHAR	$RAN
-$LINE_3_10_INTRO_390_TEXT	Oh ragazzi! I Revenant sono arrivati, grazie al cielo!
+$LINE_3_10_INTRO_390_TEXT	Ehi gente! I Revenant sono arrivati, grazie al cielo!
 $SCENE_3_10_OUTRO_TITLE	Pausa drammatica
 $LINE_3_10_OUTRO_00_CHAR	$MCG
-$LINE_3_10_OUTRO_00_TEXT	Quello doveva essere l'ultimo.
+$LINE_3_10_OUTRO_00_TEXT	Quello dovrebbe essere l'ultimo.
 $LINE_3_10_OUTRO_10_CHAR	$HEA
 $LINE_3_10_OUTRO_10_TEXT	Quella scritta...
 $LINE_3_10_OUTRO_20_CHAR	$HEA
@@ -2471,7 +2471,7 @@ $LINE_4_5_INTRO_70_CHAR	CULTISTA SANGUINARIO
 $LINE_4_5_INTRO_70_TEXT	Guardate: la morte.
 $SCENE_4_5_OUTRO_TITLE	L'offerta di Zelemir
 $NARR_4_5_OUTRO_00_TEXT	ATTO VII
-$NARR_4_5_OUTRO_00_SUB_TEXT	*Si dice che l'uomo abbia paura della morte. La mia esperienza è che ciò che l'uomo teme davvero è l'incertezza della morte.  In tutta quell'ordalia, quando la morte era ormai certa, fui assalito da un'imperturbabile calma, una sensazione mai provata né prima né dopo.$N$NFu solo quando apparse la speranza di poter sopravvivere$Nche sentii la vera morsa del terrore.
+$NARR_4_5_OUTRO_00_SUB_TEXT	*Si dice che l'uomo abbia paura della morte. La mia esperienza è che ciò che l'uomo teme davvero è l'incertezza della morte.  Durante quell'ordalia, quando la morte era ormai certa, fui assalito da un'imperturbabile calma, una sensazione mai provata né prima né dopo.$N$NFu solo quando apparve la speranza di poter sopravvivere$Nche sentii la vera morsa del terrore.
 $NARR_4_5_OUTRO_00_SUB_SUB_TEXT	*$N$N$N$N$N$N$N-dalle Memorie di Gedemon Dalavbar, Maestro degli Arcieri,$N Storia delle sue Imprese e Avventure al Servizio del Re di Ash
 $LINE_4_5_OUTRO_00_CHAR	$MCG
 $LINE_4_5_OUTRO_00_TEXT	Se è un combattimento che vuoi - 
@@ -3023,13 +3023,13 @@ $LINE_ENDING_ZELEMIR_DEAD_580_TEXT	Spero che ci incontreremo ancora, in circosta
 $LINE_ENDING_ZELEMIR_DEAD_590_CHAR	$RAN
 $LINE_ENDING_ZELEMIR_DEAD_590_TEXT	Ehi.
 $LINE_ENDING_ZELEMIR_DEAD_600_CHAR	$MCG
-$LINE_ENDING_ZELEMIR_DEAD_600_TEXT	Stai andando via con i Nomadi?
+$LINE_ENDING_ZELEMIR_DEAD_600_TEXT	Stai andando via con i nomadi?
 $LINE_ENDING_ZELEMIR_DEAD_610_CHAR	$RAN
-$LINE_ENDING_ZELEMIR_DEAD_610_TEXT	No, penso che me ne andrò per conto mio.
+$LINE_ENDING_ZELEMIR_DEAD_610_TEXT	No, credo che me ne andrò per conto mio.
 $LINE_ENDING_ZELEMIR_DEAD_620_CHAR	$RAN
-$LINE_ENDING_ZELEMIR_DEAD_620_TEXT	Non ci ho mai pensato bene finora...
+$LINE_ENDING_ZELEMIR_DEAD_620_TEXT	Finora non ci ho mai pensato bene...
 $LINE_ENDING_ZELEMIR_DEAD_630_CHAR	$RAN
-$LINE_ENDING_ZELEMIR_DEAD_630_TEXT	Credo che andrò verso nord... chi lo sa, forse c'è ancora qualche Geka, laggiù, da qualche parte.
+$LINE_ENDING_ZELEMIR_DEAD_630_TEXT	Penso che andrò verso nord... chi lo sa, forse c'è ancora qualche Geka, laggiù, da qualche parte.
 $LINE_ENDING_ZELEMIR_DEAD_640_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_DEAD_640_TEXT	Buon viaggio, amica mia.
 $LINE_ENDING_ZELEMIR_DEAD_650_CHAR	$RAN
@@ -3069,7 +3069,7 @@ $LINE_ENDING_ZELEMIR_DEAD_810_TEXT	Tutto questo... sacrificare...
 $LINE_ENDING_ZELEMIR_DEAD_820_CHAR	$BER
 $LINE_ENDING_ZELEMIR_DEAD_820_TEXT	Non è il mio genere di cose.
 $LINE_ENDING_ZELEMIR_DEAD_830_CHAR	$BER
-$LINE_ENDING_ZELEMIR_DEAD_830_TEXT	Ho bisogno di tornare alle origini...
+$LINE_ENDING_ZELEMIR_DEAD_830_TEXT	Ho bisogno di un ritorno alle origini...
 $LINE_ENDING_ZELEMIR_DEAD_840_CHAR	$BER
 $LINE_ENDING_ZELEMIR_DEAD_840_TEXT	Una bella caccia al tesoro!
 $LINE_ENDING_ZELEMIR_DEAD_850_CHAR	$BER
@@ -3096,7 +3096,7 @@ $LINE_ENDING_ZELEMIR_DEAD_950_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_DEAD_950_TEXT	...
 $SCENE_ENDING_ZELEMIR_WOUNDED_TITLE	  Un epilogo dolceamaro
 $NARR_ENDING_ZELEMIR_WOUNDED_00_TEXT	Discutiamo per giorni.
-$NARR_ENDING_ZELEMIR_WOUNDED_10_TEXT	Le carovane Nomadi sono felici di barattare cibo con il nostro oro.
+$NARR_ENDING_ZELEMIR_WOUNDED_10_TEXT	Le carovane nomadi sono felici di barattare cibo con il nostro oro.
 $NARR_ENDING_ZELEMIR_WOUNDED_20_TEXT	I vari capi dei rifugiati vengono ascoltati.
 $NARR_ENDING_ZELEMIR_WOUNDED_30_TEXT	Ma siamo tutti troppo felici di essere vivi per litigare.
 $NARR_ENDING_ZELEMIR_WOUNDED_40_TEXT	Ci sembra ancora strano respirare di nuovo aria fresca.
@@ -3276,7 +3276,7 @@ $LINE_ENDING_ZELEMIR_WOUNDED_840_TEXT	Quasi quasi mi mancherà...
 $LINE_ENDING_ZELEMIR_WOUNDED_850_CHAR	$RAN
 $LINE_ENDING_ZELEMIR_WOUNDED_850_TEXT	Ehi.
 $LINE_ENDING_ZELEMIR_WOUNDED_860_CHAR	$MCG
-$LINE_ENDING_ZELEMIR_WOUNDED_860_TEXT	Ehi. Credevo che stessi partendo con i Nomadi?
+$LINE_ENDING_ZELEMIR_WOUNDED_860_TEXT	Ehi. Credevo che stessi partendo con i nomadi?
 $LINE_ENDING_ZELEMIR_WOUNDED_870_CHAR	$RAN
 $LINE_ENDING_ZELEMIR_WOUNDED_870_TEXT	No... ho cambiato idea.
 $LINE_ENDING_ZELEMIR_WOUNDED_880_CHAR	$RAN
@@ -3535,13 +3535,13 @@ $LINE_ENDING_ZELEMIR_UNSCATHED_900_TEXT	Scherzi? Una vita di lusso e ricchezze?
 $LINE_ENDING_ZELEMIR_UNSCATHED_910_CHAR	$BER
 $LINE_ENDING_ZELEMIR_UNSCATHED_910_TEXT	Non quando c'è ancora un sacco di roba da ammazzare!
 $LINE_ENDING_ZELEMIR_UNSCATHED_920_CHAR	$BER
-$LINE_ENDING_ZELEMIR_UNSCATHED_920_TEXT	Ho parlato con alcuni dei profughi Nomadi, e mi hanno detto che c'è questo mostro nel lontano nord, chiamato 'L'Occhio della Roccia'!
+$LINE_ENDING_ZELEMIR_UNSCATHED_920_TEXT	Ho parlato con alcuni dei profughi nomadi, e mi hanno detto che c'è questo mostro nel lontano nord, chiamato 'L'Occhio della Roccia'!
 $LINE_ENDING_ZELEMIR_UNSCATHED_930_CHAR	$BER
 $LINE_ENDING_ZELEMIR_UNSCATHED_930_TEXT	Ha qualcosa come sette teste, ognuna con sette occhi!
 $LINE_ENDING_ZELEMIR_UNSCATHED_940_CHAR	$BER
 $LINE_ENDING_ZELEMIR_UNSCATHED_940_TEXT	Non ho mai decapitato qualcosa con sette teste!
 $LINE_ENDING_ZELEMIR_UNSCATHED_950_CHAR	$BER
-$LINE_ENDING_ZELEMIR_UNSCATHED_950_TEXT	E dopo, da lì potrò spostarmi un po' più a est per trovare quei teppistelli dei Cultisti del Sangue e fargli un mazzo così!
+$LINE_ENDING_ZELEMIR_UNSCATHED_950_TEXT	E dopo, da lì basterà spostarmi un po' più verso est per trovare quei teppistelli di Cultisti del Sangue e fargli un mazzo così!
 $LINE_ENDING_ZELEMIR_UNSCATHED_960_CHAR	$BER
 $LINE_ENDING_ZELEMIR_UNSCATHED_960_TEXT	Mi servono solo altri tre dei loro mantelli insanguinati per finire il mio...
 $LINE_ENDING_ZELEMIR_UNSCATHED_970_CHAR	$BER
@@ -3557,7 +3557,7 @@ $LINE_ENDING_ZELEMIR_UNSCATHED_1010_TEXT	Credo che quasi quasi mi mancherà.
 $LINE_ENDING_ZELEMIR_UNSCATHED_1020_CHAR	$RAN
 $LINE_ENDING_ZELEMIR_UNSCATHED_1020_TEXT	Ehi.
 $LINE_ENDING_ZELEMIR_UNSCATHED_1030_CHAR	$MCG
-$LINE_ENDING_ZELEMIR_UNSCATHED_1030_TEXT	Ehi. Credevo stessi partendo con i Nomadi?
+$LINE_ENDING_ZELEMIR_UNSCATHED_1030_TEXT	Ehi. Credevo stessi partendo con i nomadi?
 $LINE_ENDING_ZELEMIR_UNSCATHED_1040_CHAR	$RAN
 $LINE_ENDING_ZELEMIR_UNSCATHED_1040_TEXT	No... alla fine ho deciso di no.
 $LINE_ENDING_ZELEMIR_UNSCATHED_1050_CHAR	$RAN
@@ -4099,7 +4099,7 @@ $LINE_SIDEQUEST_3_OUTRO_330_TEXT	Accidenti!
 $LINE_SIDEQUEST_3_OUTRO_340_CHAR	$MAG
 $LINE_SIDEQUEST_3_OUTRO_340_TEXT	Una volta ho ucciso qualcuno con un budino alle uvette.
 $LINE_SIDEQUEST_3_OUTRO_350_CHAR	$MAG
-$LINE_SIDEQUEST_3_OUTRO_350_TEXT	Il segreto è tenergli giù la testa per un'altro paio di minuti dopo che hanno smesso di agitarsi, giusto per essere sicuri.
+$LINE_SIDEQUEST_3_OUTRO_350_TEXT	Il segreto è tenergli giù la testa per un altro paio di minuti dopo che hanno smesso di agitarsi, giusto per essere sicuri.
 $LINE_SIDEQUEST_3_OUTRO_360_CHAR	$MAG
 $LINE_SIDEQUEST_3_OUTRO_360_TEXT	Altrimenti rischiano di saltar fuori come una sorta di mostro-budino e ti tocca picchiarli a morte con il tacchino arrosto.
 $LINE_SIDEQUEST_3_OUTRO_370_CHAR	$MAG
@@ -4524,7 +4524,6 @@ $LINE_ENDING_4_6_OUTRO_132_TEXT	Non esiste altro male se non quello nei nostri c
 $LINE_ENDING_4_6_OUTRO_133_TEXT	*-$MCG Yalkie Livbar
 $LINE_EPILOGUE_281_CHAR	$BER
 $LINE_EPILOGUE_281_CHAR	Where's the fun in that? I'm way more into making other people's heads explode!
-$LINE_MONASTERY_SIEGE_INTRO_52_CHAR	UOMO IN ROSSO
 $LINE_SIDEQUEST_7_INTRO_101_CHAR	$BER
 $LINE_SIDEQUEST_7_INTRO_101_TEXT	Dici che è una camera del tesoro? Ho capito! Usavano i cadaveri come valuta! Siamo ricchi! Ricchi oltre ogni immaginazione!
 $LINE_SIDEQUEST_7_INTRO_102_CHAR	$MCG
