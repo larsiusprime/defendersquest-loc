@@ -15,7 +15,7 @@ $TITLE_RELOAD_MOD	Ricarica Mod
 $DEMO_OVER_PLEASE_WAIT	<RE>$MISC_PLEASE_WAIT
 $DEMO_OVER_DONT_FORGET	Non dimenticare il tuo file di salvataggio!
 $DEMO_OVER_EXPORT_HOW	Esporta il tuo salvataggio con questo pulsante.
-$DEMO_OVER_USE_IT	Usalo per continuare dal punto in cui ti eri fermato!
+$DEMO_OVER_USE_IT	Usalo per continuare dal punto in cui eri rimasto!
 $DEMO_OVER_PLAY	Continua a giocare!
 $DEMO_OVER_THANKS	Grazie per aver giocato!
 $DEMO_OVER_ENORMOUS	Clicca sull'enorme pulsante per continuare la tua avventura!
@@ -130,7 +130,6 @@ $UI_OPTIONS_TITLE	Opzioni
 $UI_OPTIONS_MENU	Menu opzioni
 $UI_OPTIONS_SPEED	Velocità di gioco
 $UI_ACHIEVEMENTS_TITLE	Achievement
-$UI_ACHIEVEMENTS_TITLE	Premi
 $UI_ACHIEVEMENTS_BUTTON_NUMBERS	font:18,offy:-2
 $UI_SFX	Effetti sonori:
 $UI_MUSIC	Musica:
@@ -155,8 +154,8 @@ $UI_UPDATER_CANCEL	<RE>$MISC_CANCEL
 $UI_UPDATER_SECURED_WITH	Questo meccanismo di aggiornamento è protetto con HTTPS,<N>oltre che dalla verifica della firma digitale.
 $UI_UPDATER_ASK_DOWNLOAD	Scaricare l'aggiornamento?
 $UI_UPDATER_SERVER_TIMEOUT	Server Timeout!
-$UI_UPDATER_NO_INFO	Non è stato possibile trovare informazioni di aggiornamento sul server.
-$UI_UPDATER_NO_BIG_DEAL	Nulla di grave, puoi ancora usare il gioco, semplicemente non è possibile contattare il server, per il momento.
+$UI_UPDATER_NO_INFO	Impossibile trovare le informazioni di aggiornamento sul server.
+$UI_UPDATER_NO_BIG_DEAL	Nulla di grave, puoi ancora usare il gioco, semplicemente non è possibile contattare il server al momento.
 $UI_UPDATER_DEB	pacchetto DEB
 $UI_UPDATER_RPM	pacchetto RPM
 $UI_UPDATER_TARGZ	archivio TAR.GZ
@@ -170,9 +169,9 @@ $UI_UPDATER_TRYING_30	Riprovo per 30 secondi
 $UI_UPDATER_CONNECT_AGAIN	Nuova Connessione...
 $UI_UPDATER_ERROR!	ERRORE!
 $UI_UPDATER_DETAILS	Dettagli:
-$UI_UPDATER_NO_VERIFY	Couldn't verify update file.
-$UI_UPDATER_NO_DOWNLOAD	Couldn't download update file.
-$UI_UPDATER_CHECKSUM_MISMATCH	The file's checksum didn't match what we expected.<N><N>Possible causes are an incomplete download (likely), a security problem (unlikely), or cosmic rays (you never know!).<N><N>Either way, the update failed.
+$UI_UPDATER_NO_VERIFY	Impossibile verificare i file di aggiornamento.
+$UI_UPDATER_NO_DOWNLOAD	Impossibile scaricare i file di aggiornamento.
+$UI_UPDATER_CHECKSUM_MISMATCH	Il checksum dei file non corrisponde sum alle aspettative.<N><N>Le possibili cause sono uno scaricamento incompleto (probabile), un problema di sicurezza (improbabile), o raggi cosmici(non si sa mai!).<N><N>In ogni caso, l'aggiornamento non è ruscito.
 $UI_UPDATER_GIVE_UP	Annulla
 $UI_UPDATER_TRY_AGAIN	Prova ancora
 $UI_UPDATER_CONNECTING	Connessione al server...
@@ -209,7 +208,7 @@ $MISC_MAX	MAX
 $UI_SKILLS_NO_POINTS	Nessun punto disponibile.
 $UI_SKILLS_REQ_1PT	RICHIEDE: Personaggio LIV <LVL>,<N><PT> punto in <SKILL>
 $UI_SKILLS_REQ_XPT	RICHIEDE: Personaggio LIV <LVL>,<N><PT> punti in <SKILL>
-$UI_SKILLS_NO_LEARN_SPELL	Non hai ancora imparato<N>questo incantesimo.
+$UI_SKILLS_NO_LEARN_SPELL	Non hai ancora imparato questo incantesimo.
 $UI_SKILLS_MOUSE_OVER	Ispeziona con il cursore.
 $UI_EQUIP_OWNED	posseduto
 $UI_EQUIP_COMPARE	confronta
@@ -278,16 +277,15 @@ $UI_DOWNLOAD_LINUX	Linux
 $UI_DOWNLOAD_WINDOWS	Windows
 $UI_DOWNLOAD_MACINTOSH	Macintosh
 $UI_DOWNLOAD_SOUNDTRACK	Colonna sonora
-$UI_CONFLICT_TITLE	Conflitto Cloud!
-$UI_CONFLICT_MSG	Non siamo sicuri quale di questi debba andare nello Slot <SLOT>.<N>Per favore, scegli quello che vuoi mantenere.
+$UI_CONFLICT_TITLE	Conflitto col Cloud!
+$UI_CONFLICT_MSG	Non siamo sicuri di quale fra questi debba andare nello Slot <SLOT>.<N>Per favore, scegli quello che vuoi tenere.
 $UI_CONFLICT_CLOUD	CLOUD
 $UI_CONFLICT_LOCAL	COMPUTER
-$UI_CONFLICT_LOCAL	CONSOLLE
 $UI_CONFLICT_BETTER	Questo ci sembra meglio
 $UI_CONFLICT_BUTTON	Usa questo
 $UI_CONFLICT_BUTTON_NUMS	font:13,x_off:0,y_off:0
 $UI_CONFLICT_NGP	Nuova Partita+
-$UI_CONFLICT_BACKUP	Fai un backup del file che non ho scelto in:<N><LOC>
+$UI_CONFLICT_BACKUP	Fai un backup del file non scelto in:<N><LOC>
 $UI_GAMEPLAY_MISCELLANEOUS	Varie
 $UI_GAMEPLAY_CLOUD_SAVE	Salvataggi Cloud
 $UI_GAMEPLAY_CLOUD_NUMS	x_space:70
@@ -627,7 +625,6 @@ $MISC_UP_TO_X_FRIENDS	Fino a <NUM> <FRIEND>
 $MISC_UP_TO_X_FOES	Fino a <NUM> <FOE>
 $MISC_SPLASH_DAMAGE	Area
 $MISC_SPLASH_LINE	<AMT> danno, <TILES> caselle
-$MISC_SPLASH_TILES	caselle
 $MISC_SAVED!	Salvato!
 $MISC_MISS	mancato
 $MISC_PROBLEM?	problemi?
@@ -635,7 +632,6 @@ $MISC_COUNTER	contrattacco
 $MISC_COUNTER!	CONTRATTACCO!
 $MISC_NOM!	GNAM!
 $MISC_ACHIEVEMENT!	Achievement!
-$MISC_AWARD	Premio
 $BASE_ATTACK	Attacco base
 $BONUS_DEFENSE	Difesa bonus
 $DECIMATE_BY	Riduce i PV del <PERCENT>%
@@ -770,7 +766,6 @@ $MISC_NEXT	avanti
 $MISC_PREVIOUS	indietro
 $MISC_PREV	prec
 $MISC_CANCEL	annulla
-$MISC_IGNORE	ignora
 $MISC_UNDO_ALL	annulla tutto
 $MISC_UNDO	annulla
 $MISC_DOWNLOAD	scarica
@@ -788,9 +783,6 @@ $MISC_ARMOR_SINGULAR	<RE>$MISC_ARMOR
 $MISC_RECRUIT	recluta
 $MISC_TALK	parla
 $MISC_QUIT	esci
-$MISC_CHANGE_USER	Cambia utente
-$MISC_WRONG_USER	Si è verificato un problema con l'utente che ha effettuato l'accesso.
-$MISC_SIGN_IN	Accedi
 $MISC_ENTER	entra
 $MISC_YES	si
 $MISC_NO	no
@@ -799,7 +791,6 @@ $MISC_ACCEPT	accetta
 $MISC_BACK	indietro
 $MISC_REFUSE	rifiuta
 $MISC_RESTART	ricomincia
-$MISC_RESTART	Ricomincia?
 $MISC_OKAY	conferma
 $MISC_QUIT_BATTLE	esci dalla battaglia
 $MISC_NONE	nessuna
@@ -959,7 +950,6 @@ $TIP_100_TITLE	Richiamare i difensori
 $TIP_100_TEXT	Richiamare i difensori evocati ti permetterà di recuperare parte dello Psi che hai investito su di loro.<N><N>L'ammontare recuperato diminuisce se il difensore è ferito.
 $TIP_110_TITLE	Accessibilità
 $TIP_110_TEXT	Se hai delle disabilità, controlla le seguenti opzioni nei rispettivi menu:<N><N>1) Video - gioca in modalità a schermo intero, ingrandisci la visuale<N>2) Controlli - riconfigura i tasti<N>3) Accessibilità - togli gli effetti, modifica la velocità di gioco e il moltiplicatore dell'esperienza
-$TIP_110C_TEXT	Se hai delle disabilità, controlla le seguenti opzioni nei rispettivi menu:<N><N>1) Controlli - riconfigura i tasti<N>2) Accessibilità - togli gli effetti, modifica la velocità di gioco e il moltiplicatore dell'esperienza
 $TIP_120_TITLE	Comunicazione di servizio
 $TIP_120_TEXT	Questo consiglio è stato incluso in modo che nessuno cerchi di di analizzare i codici o decifrare gli enigmi.
 $TIP_130_TITLE	Opzioni di attacco
@@ -987,9 +977,9 @@ $TIP_230_TEXT	In modalità NP+, sarai in grado di guadagnare degli speciali arte
 $TIP_240_TITLE	Missioni Bonus
 $TIP_240_TEXT	Una volta ottenute abbastanza stelle, inizierai a sbloccare le battaglie bonus. Queste missioni speciali sono più difficili e danno ricompense extra.
 $TIP_250_TITLE	Penalità Psi
-$TIP_250_TEXT	L'incantesimo Fulmine 'brucia' l'energia Psi del nemico, riducendone la quantità ottenibile in proporzione al danno causato. Se l'incantesimo lo danneggia per il 40% dei suoi punti vita totali, varrà il 40% di Psi in meno, e così via.
+$TIP_250_TEXT	L'incantesimo Fulmine 'brucia' l'energia Psi del nemico, riducendone la quantità ottenibile in proporzione al danno causato. Se l'incantesimo danneggia il 40% dei suoi punti vita totali, varrà il 40% di Psi in meno, e così via.
 $TIP_260_TITLE	Supporto per i Mod
-$TIP_260_TEXT	Sai che puoi fare i tuoi mod (modifiche) per Defender's Quest?<N><N>Clicca sul pulsante con la chiave inglese nel menu dei salvataggi.  Quasi tutto può essere cambiato - attributi, livelli, classi, personaggi, scenette, grafica, oggetti, etc.
+$TIP_260_TEXT	Sai che puoi fare i tuoi mod (modifiche) per Defender's Quest?<N><N>Clicca sul pulsante con la chiave inglese nel menu dei salvataggi.  Quasi tutto può essere cambiato - attributi, livelli, classi, personaggi, scenette, grafica, oggetti, ecc.
 $TIP_270_TITLE	Ricordati della Mamma
 $TIP_270_TEXT	<N><N>Telefona a mammà, che le manchi!
 $TYPE_DARK	Oscuro
@@ -1122,7 +1112,7 @@ $UI_CONTROLS_POINTER	Puntatore
 $UI_CONTROLS_PRESET_COLEMAK	Colemak
 $UI_CONTROLS_PRESET_DEFAULT	Standard
 $UI_CONTROLS_PRESET_PS	PlayStation
-$UI_CONTROLS_PRESET_PSJ	Giapponese
+$UI_CONTROLS_PRESET_PSJ	PlayStation (Giappone)
 $UI_CONTROLS_PRESET_WIIU	WiiU Standard
 $UI_CONTROLS_PRESET_XBOX	XBox Standard
 $UI_CONTROLS_PS3	Playstation 3
@@ -1187,14 +1177,13 @@ $MISC_DELETE_BOTH_GOG_ACHIEVEMENT	Elimina gli achievement locali e di GOG
 $MISC_DELETE_BOTH_STEAM_ACHIEVEMENT	Elimina gli achievement locali e di Steam
 $MISC_DELETE_LOCAL_ACHIEVEMENT	Elimina solo gli achievement locali
 $MISC_DEMO_VERSION	Versione Demo
-$MISC_DEMO_VERSION_DESC	Questo è il demo pubblico di Defender's Quest: Valley of the Forgotten, Edizione Deluxe.<N><N>Contiene circa il 20% dell'intero gioco e consente di esportare i salvataggi, così, se deciderai di acquistare il gioco completo, non perderai i progressi fatti.
+$MISC_DEMO_VERSION_DESC	Questo è il demo di Defender's Quest: Valley of the Forgotten, Edizione Deluxe.<N><N>Contiene circa il 20% dell'intero gioco e consente di esportare i salvataggi, così, se deciderai di acquistare il gioco completo, non perderai i progressi fatti.
 $MISC_FAIL_TT_TEXT	La quantità di esperienza e scarti che viene detratta in caso di fallimento in battaglia.<N>-50% è il valore predefinito, aumentalo o diminuiscilo per cambiare la penalità.
 $MISC_FAIL_TT_TITLE	<RE>$UI_ACCESS_FAILURE_PENALTY
 $MISC_GOLD_TT_TEXT	Gli scarti (denaro) ottenuti dopo una battaglia.<N><RE>[$MISC_ADJUST_REWARDS]
 $MISC_GOLD_TT_TITLE	Scarti
 $MISC_HERO_MODE	Modalità Eroe
 $MISC_HERO_MODE_TEXT	Il reclutamento di personaggi generici è vietato.<N>Assolutamente sconsigliato ai nuovi giocatori!<N><N>NOTA:<N>Potrai in seguito disabilitare questa modalità semplicemente cercando di reclutare un personaggio e ignorando il messaggio di avviso.<N><N>Raccomandiamo fortemente di impostare a 300% l'acquisizione di esperienza e denaro.<N><N>Infine, questa impostazione non è strettamente necessaria per ottenere l'achievement "Modalità Eroe" -- l'importante è completare la partita senza reclute generiche.
-$MISC_HERO_MODE_TEXT_SONY	Il reclutamento di personaggi generici è vietato.<N>Assolutamente sconsigliato ai nuovi giocatori!<N><N>NOTA:<N>Potrai in seguito disabilitare questa modalità semplicemente cercando di reclutare un personaggio e ignorando il messaggio di avviso.<N><N>Raccomandiamo fortemente di impostare a 300% l'acquisizione di esperienza e denaro.<N><N>Infine, questa impostazione non è strettamente necessaria per ottenere il premio "Modalità Eroe" -- l'importante è completare la partita senza reclute generiche.
 $MISC_HERO_MODE_TITLE	<RE>$MISC_HERO_MODE
 $MISC_NEW_GAME_SETTINGS	Impostazioni Nuova Partita
 $MISC_NO_HARDWARE	Il tuo sistema non supporta l'accelerazione hardware. Il gioco funzionerà comunque, ma potresti dover abbassare la qualità grafica se risultasse troppo lento.
@@ -1372,28 +1361,29 @@ $PS4_B	Pulsante Cerchio
 $PS4_X	Pulsante Quadrato
 $PS4_Y	Pulsante Triangolo
 $PS4_BACK	Tasto Share
-$PS4_START	Tasto Options
+$PS4_BACK_PS4 	Pulsante touch pad
+$PS4_START	Tasto Opzioni
 $PS4_LEFT_SHOULDER	Pulsante dorsale L1
 $PS4_RIGHT_SHOULDER	Pulsante dorsale R1
 $PS4_LEFT_TRIGGER	Grilletto analogico L2
 $PS4_RIGHT_TRIGGER	Grilletto analogico R2
-$PS4_DPAD	<RE>$GAMEPAD_DPAD
-$PS4_DPAD_UP	<RE>$GAMEPAD_DPAD_UP
-$PS4_DPAD_DOWN	<RE>$GAMEPAD_DPAD_DOWN
-$PS4_DPAD_LEFT	<RE>$GAMEPAD_DPAD_LEFT
-$PS4_DPAD_RIGHT	<RE>$GAMEPAD_DPAD_RIGHT
-$PS4_LEFT_ANALOG_STICK	<RE>$GAMEPAD_LEFT_ANALOG_STICK
-$PS4_LEFT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_MINUS
-$PS4_LEFT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_X_PLUS
-$PS4_LEFT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_MINUS
-$PS4_LEFT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_LEFT_ANALOG_STICK_Y_PLUS
-$PS4_RIGHT_ANALOG_STICK	<RE>$GAMEPAD_RIGHT_ANALOG_STICK
-$PS4_RIGHT_ANALOG_STICK_X_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_MINUS
-$PS4_RIGHT_ANALOG_STICK_X_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_X_PLUS
-$PS4_RIGHT_ANALOG_STICK_Y_MINUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_MINUS
-$PS4_RIGHT_ANALOG_STICK_Y_PLUS	<RE>$GAMEPAD_RIGHT_ANALOG_STICK_Y_PLUS
-$PS4_LEFT_STICK_CLICK	<RE>$GAMEPAD_LEFT_STICK_CLICK
-$PS4_RIGHT_STICK_CLICK	<RE>$GAMEPAD_RIGHT_STICK_CLICK
+$PS4_DPAD	Pulsanti direzionali
+$PS4_DPAD_UP	Su
+$PS4_DPAD_DOWN	Giù
+$PS4_DPAD_LEFT	Sinistra
+$PS4_DPAD_RIGHT	Destra
+$PS4_LEFT_ANALOG_STICK	Levetta analogica sinistra
+$PS4_LEFT_ANALOG_STICK_X_MINUS	Levetta analogica sinistra verso SINISTRA
+$PS4_LEFT_ANALOG_STICK_X_PLUS	Levetta analogica sinistra verso DESTRA
+$PS4_LEFT_ANALOG_STICK_Y_MINUS	Levetta analogica sinistra verso SU
+$PS4_LEFT_ANALOG_STICK_Y_PLUS	Levetta analogica sinistra verso GIÙ
+$PS4_RIGHT_ANALOG_STICK	Levetta analogica destra
+$PS4_RIGHT_ANALOG_STICK_X_MINUS	Levetta analogica destra verso SINISTRA
+$PS4_RIGHT_ANALOG_STICK_X_PLUS	Levetta analogica destra verso DESTRA
+$PS4_RIGHT_ANALOG_STICK_Y_MINUS	Levetta analogica destra verso SU
+$PS4_RIGHT_ANALOG_STICK_Y_PLUS	Levetta analogica destra verso GIÙ
+$PS4_LEFT_STICK_CLICK	Pulsante L3
+$PS4_RIGHT_STICK_CLICK	Pulsante R3
 $PS4_EMPTY	<RE>$GAMEPAD_EMPTY
 $PS3_A	<RE>$PS4_A
 $PS3_B	<RE>$PS4_B
@@ -1547,12 +1537,44 @@ $SOFT_KEYBOARD_SPACE	Spazio
 $SOFT_KEYBOARD_BACKSPACE	Backspace
 $SOFT_KEYBOARD_CLEAR	Cancella
 $CONTROL_SWITCH_WARNING	Non è possibile cambiare i metodi di controllo fondamentali durante una battaglia. Siamo spiacenti!
-$MISC_TITLE_SAFE_TEXT	Muovi le levette analogiche fino a quando tutte le frecce saranno visibili.
-$MISC_PLEASE_RECONNECT_CONTROLLER	Riconnetti controller
-$PRESS_A	Premere <A> per continuare.
-$MISC_REQUIRES_RESTART	(sarà necessario riavviare il computer)
-$MISC_PICTURE_SIZE	Dimensioni immagine
-$MISC_SIGNED_OUT	<USER> si è disconnesso.
-$MISC_SIGNED_IN	Accesso effettuato come <USER>.
-$MISC_SWITCH_USER	Cambia utente
-$MISC_RESTART_XBOX	Riavviare Xbox?
+$MISC_TITLE_SAFE_TEXT	Muovi le levette analogiche fino a quando tutti i riquadri saranno visibili.
+$CROSS_SAVE_RESULT_CHANGES 	Successo!
+$CROSS_SAVE_RESULT_CONFIRM 	Slot <X>: dati discordanti.
+$CROSS_SAVE_RESULT_EMPTY 	Slot <X>: ignorato poichè vuoto.
+$CROSS_SAVE_RESULT_EQUAL 	Slot <X>: ignorato poichè identico.
+$CROSS_SAVE_RESULT_NO_CHANGES 	Nessun cambiamento.
+$CROSS_SAVE_RESULT_PLEASE_CONFIRM 	Per favore, controllare i conflitti.
+$CROSS_SAVE_RESULT_STOMP_DOWN 	Slot <X>: scaricato.
+$CROSS_SAVE_RESULT_STOMP_UP 	Slot <X>: caricato.
+$MISC_AWARD! 	Trofeo
+$MISC_CROSS_SAVE 	Cross-Save
+$MISC_LOAD_ORDER 	Ordine di caricamento
+$MISC_NETWORK_ERROR 	C'è stato un problema di connessione al network.
+$MISC_NEW_USER 	Nuovo utente
+$MISC_NO_SIGN_IN_WARNING 	Se non effettui l'accesso i tuoi progressi non verranno salvati.
+$MISC_OVERWRITE 	Confermare sovrascrittura
+$MISC_OVERWRITE2 	Sovrascrivere "<MODNAME>"?
+$MISC_OVERWRITE_TEXT 	Alcuni mod sottoscritti sono in conflitto con le versioni locali. Sovrascriverli uno per uno?
+$MISC_OVERWRITE_TEXT2 	<SOURCE><N><N>--><N><N><DEST>
+$MISC_RESTART? 	Riavviare?
+$MISC_RESTORE_DEFAULTS_2 	<RE>$MISC_RESTORE_DEFAULTS
+$MISC_SAVE_ERROR_TEXT 	Il salvataggio automatico è fallito, controllare i permessi dei file?<N>Proveremo di nuovo in seguito.
+$MISC_SAVE_ERROR_TITLE 	Errore del salvataggio automatico!
+$MISC_SAVE_FIXED_TEXT 	Il salvataggio ha avuto successo, sembra che tu abbia risolto il problema.<N>Ora ti lasciamo in pace.
+$MISC_SAVE_FIXED_TITLE 	Salvataggio automatico funzionante!
+$MISC_SELECTED 	Selezionato
+$MISC_UNIVERSAL 	Universale
+$MISC_UPLOAD 	carica
+$PARTY_RESET_POINTS2 	<RE>$PARTY_RESET_POINTS
+$TIP_130C_TEXT 	Selezionando un difensore, puoi cambiare le sue priorità d'attacco facendogli preferire i nemici più vicini, lontani, forti, deboli o veloci - usa queste opzioni per ottimizzare i tuoi attacchi. Ad esempio, attaccare i nemici 'forti' concentrerà gli attacchi sulle unità più grosse.
+$TIP_200C_TEXT 	A volte una tecnica particolare potrebbe non essere ottimale (magari le palle di fuoco dei draghi ti stanno sciogliendo tutto il ghiaccio), o magari preferiresti conservare una attacco particolarmente potente per il momento giusto. In tal caso, seleziona il difensore e poi seleziona un'abilità dal menù in basso a destra per disabilitarla temporaneamente.
+$UI_AWARDS_TITLE 	Trofei
+$UI_CONFLICT_CONFIRM 	Confermare sovrascrittura
+$UI_CONFLICT_CONFIRMATION_CLOUD 	Sovrascrivere i dati del cloud con i dati locali per lo slot <SLOT>?
+$UI_CONFLICT_CONFIRMATION_LOCAL 	Sovrascrivere i dati locali con i dati del cloud per lo slot <SLOT>?
+$UI_CONFLICT_CONSOLE 	CONSOLE
+$UI_CONTROLS_INERTIA 	Inerzia
+$UI_DEFENDER_BOOST_NEED2 	<RE>$UI_DEFENDER_BOOST_NEED
+$UI_DEFENDER_CLICK_TO_CONSOLE 	(Selezionare per abilitare/disabilitare)
+$UI_GAMEPLAY_CUTSCENES 	<RE>$UI_VIDEO_CUTSCENES
+$UI_LEGAL_TITLE 	Legale
