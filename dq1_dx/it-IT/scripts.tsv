@@ -271,7 +271,7 @@ $LINE_COLISEUM_2_INTRO_20_TEXT	Be', è qualcosa di cui rallegrarsi.
 $LINE_COLISEUM_2_INTRO_30_CHAR	UOMO IN ROSSO
 $LINE_COLISEUM_2_INTRO_30_TEXT	Ora si sta diffondendo nel Regno di Ash. Se non verrà fermata, la malattia riuscirà a fare ciò che le armate del Quaid non hanno potuto.
 $LINE_COLISEUM_2_INTRO_40_CHAR	OZIMAL
-$LINE_COLISEUM_2_INTRO_40_TEXT	Be', fintanto che gli Ashiani terrorizzati continueranno a spedire gli infetti qui in esilio, noi signori della Valle resteremo in affari.
+$LINE_COLISEUM_2_INTRO_40_TEXT	Be', fintanto che gli ashiani terrorizzati continueranno a spedire gli infetti qui in esilio, noi signori della Valle resteremo in affari.
 $LINE_COLISEUM_2_INTRO_50_CHAR	OZIMAL
 $LINE_COLISEUM_2_INTRO_50_TEXT	Le mostruosità della piaga sono piuttosto preziose per un uomo che se ne sa servire, eh?
 $LINE_COLISEUM_2_INTRO_60_CHAR	UOMO IN ROSSO
@@ -3308,7 +3308,7 @@ $LINE_ENDING_ZELEMIR_WOUNDED_1000_TEXT	Signorina.
 $LINE_ENDING_ZELEMIR_WOUNDED_1010_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_WOUNDED_1010_TEXT	*$KNI.
 $LINE_ENDING_ZELEMIR_WOUNDED_1020_CHAR	$KNI
-$LINE_ENDING_ZELEMIR_WOUNDED_1020_TEXT	I profughi Ashiani sono pronti. Possiamo partire quando volete.
+$LINE_ENDING_ZELEMIR_WOUNDED_1020_TEXT	I profughi ashiani sono pronti. Possiamo partire quando volete.
 $LINE_ENDING_ZELEMIR_WOUNDED_1030_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_WOUNDED_1030_TEXT	*Che mi dite di voi, $KNI?  Volete tornare alla capitale?
 $LINE_ENDING_ZELEMIR_WOUNDED_1040_CHAR	$KNI
@@ -3589,7 +3589,7 @@ $LINE_ENDING_ZELEMIR_UNSCATHED_1170_TEXT	Signorina.
 $LINE_ENDING_ZELEMIR_UNSCATHED_1180_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_UNSCATHED_1180_TEXT	*$KNI.
 $LINE_ENDING_ZELEMIR_UNSCATHED_1190_CHAR	$KNI
-$LINE_ENDING_ZELEMIR_UNSCATHED_1190_TEXT	I profughi Ashiani sono pronti a partire quando volete.
+$LINE_ENDING_ZELEMIR_UNSCATHED_1190_TEXT	I profughi ashiani sono pronti a partire quando volete.
 $LINE_ENDING_ZELEMIR_UNSCATHED_1200_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_UNSCATHED_1200_TEXT	*Che mi dici di te, $KNI?  Vuoi tornare nella capitale?
 $LINE_ENDING_ZELEMIR_UNSCATHED_1210_CHAR	$KNI
@@ -4514,7 +4514,7 @@ $LINE_ENDING_4_6_OUTRO_122_TEXT	I due mesi che sono trascorsi da allora non hann
 $LINE_ENDING_4_6_OUTRO_123_TEXT	Né io desidero che ciò accada.
 $LINE_ENDING_4_6_OUTRO_124_TEXT	Così tanto sangue è andato versato in questa tragica avventura, ed io, imprigionata nella mia gabbia, non ho potuto aggiungervi il mio.
 $LINE_ENDING_4_6_OUTRO_125_TEXT	Il mio ricordo sarà la mia partecipazione. Finchè vivrò, la mia mente resterà immersa in quelle memorie.
-$LINE_ENDING_4_6_OUTRO_126_TEXT	*$RAN ha seppellito la sua volpe. Che cosa questo significhi per un Nomade, non lo so.
+$LINE_ENDING_4_6_OUTRO_126_TEXT	*$RAN ha seppellito la sua volpe. Che cosa questo significhi per un nomade, non lo so.
 $LINE_ENDING_4_6_OUTRO_127_TEXT	Gliel'avrei chiesto, ma la curiosità che ha guidato così tanto la mia vita non ha più la stessa intensità di una volta.
 $LINE_ENDING_4_6_OUTRO_128_TEXT	Alla fine, è irrilevante. Una mattina lei è sparita, e questa è stata la fine della nostra avventura insieme.
 $LINE_ENDING_4_6_OUTRO_129_TEXT	*$KNI sarebbe rimasto, credo, se solo gliel'avessi chiesto. Ma per qualche ragione, mi è sembrato inappropriato.
