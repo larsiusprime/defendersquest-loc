@@ -384,6 +384,7 @@ $MISC_SKILL	Talent
 $MISC_SKILLS	Talente
 $MISC_SKILLTREE_SKILL_NUMS	font:13,x_off:-2,y_off:0
 $MISC_SKIP	über-<N>springen
+$UI_GAMEPLAY_SKIP	überspringen
 $MISC_SLOW	langsam
 $MISC_SPAWNS	brütet
 $MISC_SPECIAL	spezial
