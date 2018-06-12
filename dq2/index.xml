@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<!--Add list of files you're including in your localization here
+	    The engine will NOT load any files that are not listed.	
+	-->
+	
+	<file id="ui" value="achievements.tsv"/>
+	<file id="ui" value="bonus.tsv"/>
+	<file id="ui" value="defender.tsv"/>
+	<file id="ui" value="enemy.tsv"/>
+	<file id="ui" value="enemy_plus.tsv"/>
+	<file id="items" value="items.tsv"/>
+	<file id="journal" value="journal.tsv"/>
+	<file id="ui" value="status_effects.tsv"/>
+	<file id="ui" value="core.tsv"/>
+	<file id="ui" value="maps.tsv"/>
+	<file id="goodies" value="goodies.tsv"/>
+	<file id="mods" value="mods.tsv"/>
+	<file id="cutscene" value="scripts.tsv"/>
+	
+	<file id="fonts" value="fonts.xml"/>
+	
+	<!--Add locale entries here. 
+	
+	The locale id is the ISO 639-1 country language code with 2-letter country suffix:
+	http://en.wikipedia.org/wiki/ISO_639-1
+	
+	1) Add the locale entry
+	2) Add a corresponding folder with localization content matching the id
+	3) Add a corresponding flag image in the _flags folder matching the id
+	4) Add any labels you want to display the language text in the menu
+	
+	-->
+	
+	<!--American English-->
+	<locale id="en-US" default="true" sort="0">
+		<font value="verdana" style="bold" size="12" alpha="latin"/>
+		<status value="0%" word="Status"/>
+		<contributors value="James Cavin, Level Up Labs"/>
+		<ui language="Language" region="Region" accept="Okay"/>
+		<label id="en-US,en-GB,en-CA,en-NES" language="English" region="United States"/>
+		<label id="es-ES" language="Inglés" region="Estados Unidos"/>
+		<label id="de-DE" language="Englisch" region="Vereinigte Staaten"/>
+		<label id="fr-FR" language="Anglais" region="États-Unis"/>
+		<label id="nb-NO" language="Engelsk" region="U.S.A."/>
+		<label id="cs-CZ" language="Angličtina" region="Spojené státy"/>
+		<label id="pl-PL" language="Angielski" region="Stany Zjednoczone"/>
+		<label id="ja-JP" language="英語" region="アメリカ合衆国"/>
+		<label id="ru-RU" language="Aнглийский" region="Соединенные Штаты"/>
+		<label id="ko-KR" language="영어" region="미국"/>
+		<label id="zh-HANS" language="英语" region="美国"/>
+		<label id="zh-HANT" language="英語" region="美國"/>
+		<label id="pt-PT" language="Inglês" region="Estados Unidos"/>
+		<label id="it-IT" language="Inglese" region="Stati Uniti"/>
+	</locale>
+	
+	<!--Castillian Spanish-->
+	<!--
+	<locale id="es-ES" sort="1" official="true" beta="true"> 
+		<hide if="console_spanish" value="false"/>
+		<font value="verdana" style="bold" size="12" alpha="latin"/>
+		<status value="0%" word="Estado"/>
+		<contributors value="TBD"/>
+		<ui language="Idioma" region="Región" accept="Vale"/>
+		<label id="en-US,en-GB,en-CA,en-NES" language="Spanish" region="Spain"/>
+		<label id="ru-RU" language="Испанский" region="Испания"/>
+		<label id="es-ES" language="Español" region="España"/>
+		<label id="de-DE" language="Spanisch" region="Spanien"/>
+		<label id="fr-FR" language="Espagnol" region="Espagne"/>
+		<label id="nb-NO" language="Spansk" region="Spania"/>
+		<label id="cs-CZ" language="Španělský" region="Španělsko"/>
+		<label id="pl-PL" language="Hiszpański" region="Hiszpania"/>
+		<label id="ja-JP" language="スペイン語" region="スペイン"/>
+		<label id="ko-KR" language="스페인어" region="스페인"/>
+		<label id="zh-HANS" language="西班牙语" region="西班牙"/>
+		<label id="zh-HANT" language="西班牙語" region="西班牙"/>
+		<label id="pt-PT" language="Espanhol" region="Espanha"/>
+	   <label id="it-IT" language="Spagnolo" region="Spagna"/>
+	</locale>
+	-->
+	
+	<!--German German-->
+	<!--
+	<locale id="de-DE" sort="2" official="true" beta="true">
+		<hide if="console_german" value="false"/>
+		<font value="verdana" style="bold" size="12" alpha="latin"/>
+		<status value="0%" word="Status"/>
+		<contributors value="TBD"/>
+		<ui language="Sprache" region="Region" accept="Okay"/>
+		<label id="en-US,en-NES,en-GB,en-CA" language="German" region="Germany"/>        
+		<label id="es-ES" language="Alemán" region="Alemania"/>
+		<label id="de-DE" language="Deutsch" region="Deutschland"/>
+		<label id="fr-FR" language="Allemand" region="Allemagne"/>
+		<label id="nb-NO" language="Tysk" region="Tyskland"/>
+		<label id="cs-CZ" language="Němčina" region="Německo"/>
+		<label id="pl-PL" language="Niemiecki" region="Niemcy"/>
+		<label id="ja-JP" language="ドイツ語" region="ドイツ"/>
+		<label id="ko-KR" language="독일어" region="독일"/>
+		<label id="ru-RU" language="Немецкий" region="Германия"/>
+		<label id="zh-HANS" language="德语" region="德国"/>
+		<label id="zh-HANT" language="德語" region="德國"/>
+		<label id="pt-PT" language="Alemão" region="Alemanha"/>
+		<label id="it-IT" language="Tedesco" region="Germania"/>
+	</locale>
+	-->
+	
+	<!--French French-->
+	<!--
+	<locale id="fr-FR" sort="3" official="true" beta="true">
+		<hide if="console_french" value="false"/>
+		<status value="0%" word="État"/>
+		<font value="verdana" style="bold" size="12" alpha="latin"/>
+		<contributors value="TBD"/>
+		<ui language="Langue" region="Région" accept="OK" />
+		<label id="en-US,en-GB,en-CA,en-NES" language="French" region="France"/>
+		<label id="ru-RU" language="Французский" region="Франция"/>
+		<label id="es-ES" language="Francés" region="Francia"/>
+		<label id="de-DE" language="Französisch" region="Frankreich"/>
+		<label id="fr-FR" language="Français" region="France"/>
+		<label id="nb-NO" language="Fransk" region="Frankrike"/>
+		<label id="cs-CZ" language="Francouzština" region="Franice"/>
+		<label id="pl-PL" language="Francuski" region="Francja"/>
+		<label id="ja-JP" language="フランス語" region="フランス"/>
+		<label id="ko-KR" language="프랑스어" region="프랑스"/>
+		<label id="zh-HANS" language="法语" region="法国"/>
+		<label id="zh-HANT" language="法語" region="法國"/>
+		<label id="pt-PT" language="Francês" region="França"/>
+		<label id="it-IT" language="Francese" region="Francia"/>
+	</locale>
+	-->
+	
+	<!--Japanese Japanese-->
+	<!--
+	<locale id="ja-JP" sort="4" official="true" beta="true">
+		<hide if="console_japanese" value="false"/>
+		<status value="0%" word="ステータス"/>
+		<font value="mplus2c" style="bold" size="14" alpha="japanese"/>
+		<contributors value="TBD"/>
+		<ui language="言語" region="地域" accept="OK"/>
+		<label id="ja-JP" language="日本語" region="日本"/>
+		<label id="en-US,en-GB,en-CA,en-NES" language="Japanese" region="Japan"/>
+		<label id="es-ES" language="Japonés" region="Japón"/>
+		<label id="de-DE" language="Japanisch" region="Japan"/>
+		<label id="cs-CZ" language="Japonština" region="Japonsko"/>
+		<label id="fr-FR" language="Japonais" region="Japon"/>
+		<label id="pl-PL" language="Japoński" region="Japonia"/>
+		<label id="cs-CZ" language="Japonec" region="Japonsko"/>
+		<label id="ko-KR" language="일본어" region="일본"/>
+		<label id="ru-RU" language="Японский" region="Япония"/>
+		<label id="zh-HANS" language="日语" region="日本"/>
+		<label id="zh-HANT" language="日語" region="日本"/>
+		<label id="pt-PT" language="Japonês" region="Japão"/>
+		<label id="it-IT" language="Giapponese" region="Giappone"/>
+	</locale>
+	-->
+	
+	<!--South Korean Korean-->
+	<!--
+	<locale id="ko-KR" official="true" beta="true" sort="30">
+		<hide if="console_korean" value="false"/>
+		<status value="0%" word="상태"/>
+		<font value="nanumgothic" style="bold" size="13" alpha="korean"/>
+		<ui language="언어" region="국가" accept="언어선택"/>
+		<contributors value="TBD"/>
+		<label id="ko-KR" language="한국어" region="한국"/>
+		<label id="cs-CZ" language="Korejština" region="Jižní Korea"/>
+		<label id="en-US,en-GB,en-CA,en-NES" language="Korean" region="South Korea"/>
+		<label id="es-ES" language="Coreano" region="Coreano del Sur"/>
+		<label id="de-DE" language="Koreanisch" region="Südkorea"/>
+		<label id="fr-FR" language="Coréen" region="Corée du Sud"/>
+		<label id="pl-PL" language="Koreański" region="Korea Południowa"/>
+		<label id="ja-JP" language="韓国語" region="韓国"/>
+		<label id="ru-RU" language="Корейский" region="Южная Корея"/>
+		<label id="zh-HANS" language="韩语" region="韩国"/>
+		<label id="zh-HANT" language="韓語" region="韓國"/>
+		<label id="pt-PT" language="Coreano" region="Coréia do Sul"/>
+		<label id="it-IT" language="Coreano" region="Corea del Sud"/>
+	</locale>
+	-->
+	
+	<!-- Русский язык (Russian Russian) -->
+	<!--
+	<locale id="ru-RU" beta="true" volunteer="true" sort="95">
+		<hide if="console_russian" value="false"/>
+		<status value="0%" word="Статус"/>
+		<font value="verdana" style="bold" size="12" alpha="cyrillic"/>
+		<contributors value="TBD"/>
+		<ui language="Язык" region="Регион" accept="Выбрать"/>
+		<label id="en-US,en-GB,en-CA,en-NES" language="Russian" region="Russia"/>
+		<label id="ru-RU" language="Pусский" region="Россия"/>
+		<label id="es-ES" language="Rusa" region="Rusia"/>
+		<label id="de-DE" language="Russisch" region="Russland"/>
+		<label id="fr-FR" language="Russe" region="Russie"/>
+		<label id="nb-NO" language="Russisk" region="Russland"/>
+		<label id="cs-CZ" language="Ruština" region="Rusko"/>
+		<label id="pl-PL" language="Rosyjski" region="Rosja"/>
+		<label id="ja-JP" language="ロシア語" region="ロシア"/>
+		<label id="ko-KR" language="러시아어" region="러시아"/>
+		<label id="zh-HANS" language="俄语" region="俄罗斯"/>
+		<label id="zh-HANT" language="俄語" region="俄羅斯"/>
+		<label id="pt-PT" language="Russo" region="Rússia"/>
+		<label id="it-IT" language="Russo" region="Russia"/>
+    </locale>
+	-->
+	
+	<!--Simplified Chinese-->
+	
+	<!--
+	<locale id="zh-HANS" official="true" beta="true" sort="100">
+		<hide if="console_chinese" value="false"/>
+		<status value="0%" word="状态"/>
+		<font value="notosanscjksc" style="bold" size="12"/>
+		<contributors value="TBD"/>
+		<ui language="语言" region="地区" accept="确认"/>
+		<label id="en-US,en-GB,en-CA,en-NES" language="Simplified Chinese" region=""/>
+		<label id="ru-RU" language="Упрощенный китайский" region=""/>
+		<label id="es-ES" language="Chino Simplificado" region=""/>
+		<label id="de-DE" language="Vereinfachtes Chinesisch" region=""/>
+		<label id="fr-FR" language="Chinois simplifié" region=""/>
+		<label id="nb-NO" language="Forenklet kinesisk" region=""/>
+		<label id="cs-CZ" language="Zjednodušená čínština" region=""/>
+		<label id="pl-PL" language="Chiński uproszczony" region=""/>
+		<label id="ja-JP" language="簡体字中国語" region=""/>
+		<label id="ko-KR" language="중국어 간체" region=""/>
+		<label id="zh-HANS" language="简体中文" region=""/>
+		<label id="zh-HANT" language="簡體中文" region=""/>
+		<label id="pt-PT" language="Chinês simplificado" region=""/>
+		<label id="it-IT" language="Cinese semplificato" region=""/>
+	</locale>
+	-->
+	
+	<!--Traditional Chinese-->
+	<!--
+	<locale id="zh-HANT" official="true" beta="true" sort="100">
+		<hide if="console_chinese" value="false"/>
+		<status value="0%" word="狀態"/>
+		<font value="notosanscjktc" style="bold" size="12"/>
+		<contributors value="TBD"/>
+		<ui language="語言" region="地區" accept="確認"/>
+		<label id="en-US,en-GB,en-CA,en-NES" language="Traditional Chinese" region=" "/>
+		<label id="ru-RU" language="Традиционный китайский" region=" "/>
+		<label id="es-ES" language="Tradicional china" region=" "/>
+		<label id="de-DE" language="Traditionelles Chinesisch" region=""/>
+		<label id="fr-FR" language="Traditionnelle chinoise" region=""/>
+		<label id="nb-NO" language="Tradisjonell kinesisk" region=""/>
+		<label id="cs-CZ" language="Tradiční čínská" region=""/>
+		<label id="pl-PL" language="Tradycyjny chiński" region=""/>
+		<label id="ja-JP" language="ロシア語" region=""/>
+		<label id="ko-KR" language="중국어 번체" region=""/>
+		<label id="zh-HANS" language="繁體中文" region=""/>
+		<label id="zh-HANT" language="繁體中文" region=""/>
+		<label id="pt-PT" language="Cinese tradizionale" region=""/>
+		<label id="it-IT" language="Cinese tradizionale" region=""/>
+	</locale>
+	-->
+	
+	<!---
+	Any text blurbs that the translation interface itself needs are stored here rather than
+	in text files, to avoid the boot-strapping problem of having to load a locale in order
+	to display locale interface text in that locale.
+	
+	The note will always display in the currently selected locale as a tooltip over various
+	translations.
+	-->
+	
+	<note id="status">
+		<text id="en-US" title="Status"	body="0%"/>
+		<text id="de-DE" title="Status"	body="0%"/>
+		<text id="es-ES" title="Estado"	body="0%"/>
+		<text id="fr-FR" title="État"	body="0%"/>
+		<text id="ja-JP" title="ステータス"	body="0%"/>
+		<text id="ko-KR" title="상태"		body="0%"/>
+		<text id="ru-RU" title="Статус"	body="0%"/>
+		<text id="zh-HANS" title=""	body="0%"/>
+		<text id="zh-HANT" title=""	body="0%"/>
+	</note>
+	
+	<note id="beta">
+		<!--This means that the translation has not been properly integrated yet-->
+		<text id="en-US" title="BETA" body="This translation is still in beta. Untranslated text, missing characters, and other visual glitches are very likely not the fault of the translator."/>
+		<text id="en-NES" title="BETA" body="This conversion is still in beta. Untranslated text, missing people, and other visual fault is probably not the fault of the translation."/>
+		<text id="nb-NO" title="BETA" body="Denne oversettelsen er fortsatt i beta. Uoversatt tekst, manglende bokstaver, og andre visuelle problemer er svært sannsynlig ikke feil av oversetteren."/>
+		<text id="cs-CZ" title="BETA" body="Lokalizace ještě není plně dokončena. Chybějící překlady a vzhledové nedostatky nejsou vinou překladatele."/>
+		<text id="de-DE" title="BETA" body="Diese Übersetzung ist noch im Beta-Status. Unübersetzte Texte, fehlende Zeichen und andere sichtbare Fehler sind sehr wahrscheinlich nicht die Schuld des Übersetzers."/>
+		<text id="fr-FR" title="BÊTA" body="Cette traduction est encore en phase bêta. Des textes non traduits, des erreurs et des problèmes visuels sont probablement présents et seront corrigés prochainement."/>
+		<text id="ru-RU" title="БЕТА" body="Этот перевод еще в стадии бета. Непереведенный текст, отсутствующие символы, и другие визуальные дефекты, скорее всего, не по вине переводчиков."/>
+		<text id="pt-PT" title="BETA" body="*PORTUGUESE BETA NOTE GOES HERE*"/>
+		<text id="zh-HANS" title="BETA" body="此翻译还在 beta阶段. 未翻译的文字，漏字和其他可见问题，敬请原谅。"/>
+		<text id="zh-HANT" title="BETA" body="此翻譯還在 beta階段. 未翻譯的文字，漏字和其他可見問題，敬請原諒。"/>
+		<text id="ko-KR" title="BETA" body="이 번역은 베타입니다. 미번역 텍스트, 누락된 문자 등 문제의 가능성이 있고 번역자의 오류는 없습니다."/>
+		<text id="pl-PL" title="BETA" body="*POLISH BETA NOTE GOES HERE*"/>
+		<text id="ja-JP" title="BETA" body="翻訳はベータ版です。未翻訳のテキストや文字抜けがありますが、翻訳者のミスではありません。"/>
+		<text id="it-IT" title="BETA" body="Questa traduzione è ancora in beta. Qualunque problema è sicuramente ed esclusivamente colpa dei traduttori. :o) "/>
+		<text id="es-ES" title="BETA" body="Esta traducción todavía está en beta. Es muy probable que el texto sin traducir, los caracteres que no se muestran y cualquier otro fallo visual no sean responsabilidad del traductor."/>
+	</note>
+	
+	<note id="volunteer">
+		<!--This means that a fan or other volunteer submitted this to us-->
+		<text id="en-US" title="VOLUNTEER" body="This is a volunteer fan translation.$N$NContributors:"/>
+		<text id="nb-NO" title="FRIVILLIG" body="Dette er en frivillig oversettelse.$N$NBidragsytere:"/>
+		<text id="cs-CZ" title="VOLUNTEER" body="Tento překlad byl vytvořen dobrovolníky. $N$NPřispěli:"/>
+		<text id="de-DE" title="FREIWILLIG" body="Dies ist eine freiwillige Übersetzung von Fans.$N$NMitwirkende:"/>
+		<text id="fr-FR" title="BÉNÉVOLE" body="Cette traduction a été bénévolement réalisée par des fans.$N$NContributeurs :"/>
+		<text id="ru-RU" title="Любительский" body="Это любительский перевод.$N$NУчастники:"/>
+		<text id="pt-PT" title="VOLUNTEER" body="*PORTUGUESE VOLUNTEER NOTE GOES HERE*"/>
+		<text id="zh-HANS" title="志愿者" body="这是粉丝志愿者的翻译。$N$N翻译者:"/>
+		<text id="zh-HANT" title="志願者" body="這是粉絲志願者的翻譯。$N$N翻譯者:"/>
+		<text id="ko-KR" title="VOLUNTEER" body="이 번역은 팬 번역입니다.$N$N번역:"/>
+		<text id="pl-PL" title="VOLUNTEER" body="*POLISH VOLUNTEER NOTE GOES HERE*"/>
+		<text id="ja-JP" title="VOLUNTEER" body="ファン翻訳$N$N参加者："/>
+		<text id="it-IT" title="VOLONTARIA" body="Questa è una traduzione volontaria creata dai fan.$N$NCollaboratori:"/>
+		<text id="es-ES" title="VOLUNTARIO" body="Esta traducción es voluntaria y ha sido realizada por fans.$N$NColaboradores:"/>
+	</note>
+	
+	<note id="official">
+		<!--This means that we solicited and paid the translator for an official translation-->
+		<text id="en-US" title="OFFICIAL" body="This is an official (paid) translation.$N$NContributors:"/>
+		<text id="en-NES" title="OFFICIAL" body="This is a translation of the official (paid) $N$NContributors :"/>
+		<text id="nb-US" title="OFFISIELL" body="Dette er en offisiell (betalt) oversettelse.$N$NBidragsytere:"/>
+		<text id="cs-CZ" title="OFFICIAL" body="Tento překlad byl vytvořen profesionály. $N$NAutoři:"/>
+		<text id="de-DE" title="OFFIZIELL" body="Dies ist eine offizielle (bezahlte) Übersetzung.$N$NMitwirkende:"/>
+		<text id="fr-FR" title="OFFICIAL" body="Cette traduction a été réalisée par des traducteurs professionnels.$N$NContributeurs :"/>
+		<text id="ru-RU" title="Официальный" body="Это официальный (платный) перевод.$N$NУчастники:"/>
+		<text id="pt-PT" title="OFFICIAL" body="*PORTUGUESE OFFICIAL NOTE GOES HERE*"/>
+		<text id="zh-HANS" title="官方" body="这是官方 (付费)翻译。$N$N翻译者:"/>
+		<text id="zh-HANT" title="官方" body="這是官方 (付費)翻譯。$N$N翻譯者:"/>
+		<text id="ko-KR" title="OFFICIAL" body="이 번역은 공식 번역입니다.$N$N번역:"/>
+		<text id="pl-PL" title="OFFICIAL" body="*POLISH OFFICIAL NOTE GOES HERE*"/>
+		<text id="ja-JP" title="OFFICIAL" body="公式翻訳$N$N翻訳："/>
+		<text id="it-IT" title="OFFICIALE" body="Questa è una traduzione ufficiale (pagata).$N$NTraduttori:"/>
+		<text id="es-ES" title="OFICIAL" body="Esta traducción es oficial (pagada).$N$NColaboradores:"/>
+	</note>
+</data>
