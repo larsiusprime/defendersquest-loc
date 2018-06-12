@@ -1,0 +1,2 @@
+flag	nick_name	flavor_name	flavor_text
+$EN_ERROR	ERROR	Error	I Am Error|If you're reading this it means that someone probably has a typo in the enemy data. This is the enemy we show when the intended one can't be found

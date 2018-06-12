@@ -1,0 +1,2 @@
+flag	nick_name	flavor_name	flavor_text
+$EN_ERROR_PLUS	<RE>$EN_ERROR_NICK_NAME	<RE>[$EN_ERROR_FLAVOR_NAME]+	<RE>$EN_ERROR_FLAVOR_TEXT
