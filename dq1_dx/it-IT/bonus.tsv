@@ -7,17 +7,17 @@ $BONUS_5_TITLE	Sfida 4
 $BONUS_6_TITLE	Sfida 5
 $BONUS_7_TITLE	Senza fine 2
 $BONUS_1_DESC	Quei subdoli mostriciattoli acquatici...
-$BONUS_2_DESC	Arcieri e draghi non sono consentiti<C> e puoi usare solo 6 defensori. Come fare?
+$BONUS_2_DESC	Arcieri e draghi non sono consentiti<C> e puoi usare solo 6 difensori. Come fare?
 $BONUS_3_DESC	Una battaglia su più fronti.
 $BONUS_4_DESC	Affronta una schiera infinita di nemici!
 $BONUS_5_DESC	Nuotando controcorrente.
 $BONUS_6_DESC	Molto traffico al centro e minacce dai fianchi.
-$BONUS_7_DESC	Un'altra sfida senza fine<C> ma stavolta non vieni attaccato - quanti danni al secondo puoi sostenere?
+$BONUS_7_DESC	Un'altra sfida senza fine<C> ma stavolta non vieni attaccato - quanti danni al secondo puoi infliggere?
 $BONUS_RECORD_WAVE	(Record: Ondata <WAVE_NUM>)
 $BONUS_REWARDS	RICOMPENSE
 $BONUS_HIGH_SCORE	Punteggio più alto
 $BONUS_REACH_WAVE	Raggiungi l'ondata <WAVE_NUM>
-$BONUS_BEAT_WAVE	Batti l'ondata <WAVE_NUM>
-$BONUS_7_DESC_VITA 	Un'altra sfida senza fine*<C> ma stavolta non vieni attaccato - quanti danni al secondo puoi sostenere?<N>*La versione portatile è limitata a 100 ondate per ragioni di stabilità
+$BONUS_BEAT_WAVE	Sconfiggi l'ondata <WAVE_NUM>
+$BONUS_7_DESC_VITA 	Un'altra sfida senza fine*<C> ma stavolta non vieni attaccato - quanti danni al secondo puoi infliggere?<N>*La versione portatile è limitata a 100 ondate per ragioni di stabilità
 $BONUS_7_TITLE_VITA 	Senza fine* 2
 $BONUS_7_TOOLTIP_VITA 	*Per ragioni di stabilità, in questa versione portatile le ondate sono limitate a 100.
