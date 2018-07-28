@@ -33,7 +33,7 @@ $FLAV_MELEE	Corpo a corpo
 $FLAV_RANGED	A distanza
 $FLAV_UNDODGEABLE	Inevitabile
 $FLAV_REDUCE_HEALTH	Decimare
-$FLAV_ARMOR_PIERCE	Perforazione armatura
+$FLAV_ARMOR_PIERCE	Penetrazione armatura
 $FLAV_ARMOR_IGNORE	Ignorare corazza
 $FLAV_ARMOR_BREAK	Danneggiamento armatura
 $FLAV_CRITICAL	Colpo Critico

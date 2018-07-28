@@ -150,7 +150,7 @@ $LINE_TALK_BERSERKER_120_TEXT	Salve, c'è nessuno in casa? Hai presente la malat
 $LINE_TALK_BERSERKER_130_CHAR	$MCG
 $LINE_TALK_BERSERKER_130_TEXT	Tutto questo è... scusami, io... credo di aver bisogno di un buon libro e una bottiglia - no, due bottiglie di vino.
 $LINE_TALK_BERSERKER_140_CHAR	$BER
-$LINE_TALK_BERSERKER_140_TEXT	Ehi, guarda il lato positivo - almeno i Revenant sono spariti.
+$LINE_TALK_BERSERKER_140_TEXT	Ehi, guarda il lato positivo - almeno i revenant sono spariti.
 $LINE_TALK_BERSERKER_150_CHAR	$BER
 $LINE_TALK_BERSERKER_150_TEXT	Aspetta, non sono semplicemente spariti, sono MORTI!
 $LINE_TALK_BERSERKER_160_CHAR	$BER
@@ -158,7 +158,7 @@ $LINE_TALK_BERSERKER_160_TEXT	Nessuno l'aveva mai fatto prima!
 $LINE_TALK_BERSERKER_170_CHAR	$MCG
 $LINE_TALK_BERSERKER_170_TEXT	Come?
 $LINE_TALK_BERSERKER_180_CHAR	$BER
-$LINE_TALK_BERSERKER_180_TEXT	I Revenant sono invincibili... o almeno finora lo erano!
+$LINE_TALK_BERSERKER_180_TEXT	I revenant sono invincibili... o almeno finora lo erano!
 $LINE_TALK_BERSERKER_190_CHAR	$BER
 $LINE_TALK_BERSERKER_190_TEXT	Oh, ragazzi, se non è questo il mio giorno fortunato!
 $LINE_TALK_BERSERKER_200_CHAR	$BER
@@ -203,11 +203,11 @@ $LINE_COLISEUM_INTRO_80_CHAR	PRIGIONIERA
 $LINE_COLISEUM_INTRO_80_TEXT	Oh, ma certo. Piacere di conoscerti. Io sono...
 $SCENE_COLISEUM_OUTRO_TITLE	Contro ogni probabilità
 $LINE_COLISEUM_OUTRO_00_CHAR	GUARDIA
-$LINE_COLISEUM_OUTRO_00_TEXT	Signore! I Revenant sono morti!
+$LINE_COLISEUM_OUTRO_00_TEXT	Signore! I revenant sono morti!
 $LINE_COLISEUM_OUTRO_10_CHAR	OZIMAL
-$LINE_COLISEUM_OUTRO_10_TEXT	Impossibile. Nessuno ha mai ucciso un Revenant.
+$LINE_COLISEUM_OUTRO_10_TEXT	Impossibile. Nessuno ha mai ucciso un revenant.
 $LINE_COLISEUM_OUTRO_20_CHAR	GUARDIA
-$LINE_COLISEUM_OUTRO_20_TEXT	È stata quella nuova ragazza... Non so cos'ha fatto, ma i prigionieri sono sani e salvi e tutti i Revenant sono morti.
+$LINE_COLISEUM_OUTRO_20_TEXT	È stata quella nuova ragazza... Non so cos'ha fatto, ma i prigionieri sono sani e salvi e tutti i revenant sono morti.
 $LINE_COLISEUM_OUTRO_30_CHAR	OZIMAL
 $LINE_COLISEUM_OUTRO_30_TEXT	Interessante...
 $LINE_COLISEUM_OUTRO_40_CHAR	OZIMAL
@@ -265,7 +265,7 @@ $SCENE_COLISEUM_2_INTRO_TITLE	Una piccola dimostrazione
 $LINE_COLISEUM_2_INTRO_00_CHAR	OZIMAL
 $LINE_COLISEUM_2_INTRO_00_TEXT	Allora, mio onorato ospite, come vanno le cose nel mondo esterno?
 $LINE_COLISEUM_2_INTRO_10_CHAR	UOMO IN ROSSO
-$LINE_COLISEUM_2_INTRO_10_TEXT	La piaga ha completamente distrutto l'Impero Quaid. Nulla è rimasto, oltre alle disumane e contorte orde degli infetti.
+$LINE_COLISEUM_2_INTRO_10_TEXT	La piaga ha completamente distrutto l'Impero Quaid. Nulla ne è rimasto, se non le disumane e contorte orde degli infetti.
 $LINE_COLISEUM_2_INTRO_20_CHAR	OZIMAL
 $LINE_COLISEUM_2_INTRO_20_TEXT	Be', è qualcosa di cui rallegrarsi.
 $LINE_COLISEUM_2_INTRO_30_CHAR	UOMO IN ROSSO
@@ -283,11 +283,11 @@ $LINE_COLISEUM_2_INTRO_80_TEXT	Vedremo.
 $LINE_COLISEUM_2_INTRO_90_CHAR	OZIMAL
 $LINE_COLISEUM_2_INTRO_90_TEXT	Entra in una sorta di catalessi, e i suoi compagni sembrano svanire nel nulla.
 $LINE_COLISEUM_2_INTRO_100_CHAR	OZIMAL
-$LINE_COLISEUM_2_INTRO_100_TEXT	E tutt'intorno a lei i Revenant cadono morti a dozzine, come se colpiti da una forza invisibile.
+$LINE_COLISEUM_2_INTRO_100_TEXT	E tutt'intorno a lei i revenant cadono morti a dozzine, come se colpiti da una forza invisibile.
 $LINE_COLISEUM_2_INTRO_110_CHAR	UOMO IN ROSSO
 $LINE_COLISEUM_2_INTRO_110_TEXT	Mostramelo.
 $LINE_COLISEUM_2_INTRO_120_CHAR	OZIMAL
-$LINE_COLISEUM_2_INTRO_120_TEXT	Guardie, liberate i Revenant!
+$LINE_COLISEUM_2_INTRO_120_TEXT	Guardie, liberate i revenant!
 $SCENE_COLISEUM_2_OUTRO_TITLE	Una fuga rocambolesca
 $LINE_COLISEUM_2_OUTRO_00_CHAR	UOMO IN ROSSO
 $LINE_COLISEUM_2_OUTRO_00_TEXT	Incredibile. Lei li vede per ciò che sono veramente.
@@ -308,7 +308,7 @@ $LINE_COLISEUM_2_OUTRO_70_TEXT	I prigionieri sono scappati!
 $LINE_COLISEUM_2_OUTRO_80_CHAR	OZIMAL
 $LINE_COLISEUM_2_OUTRO_80_TEXT	COSA?
 $LINE_COLISEUM_2_OUTRO_90_CHAR	OZIMAL
-$LINE_COLISEUM_2_OUTRO_90_TEXT	Liberate i Revenant! Inseguiteli!
+$LINE_COLISEUM_2_OUTRO_90_TEXT	Liberate i revenant! Inseguiteli!
 $SCENE_RIVER_INTRO_TITLE	Oltre il fiume
 $LINE_RIVER_INTRO_00_CHAR	$MCG
 $LINE_RIVER_INTRO_00_TEXT	Tutti da questa parte!
@@ -372,7 +372,7 @@ $LINE_RIVER_OUTRO_160_CHAR	$RAN
 $LINE_RIVER_OUTRO_160_TEXT	Dico soltanto - guardati le spalle, ok?
 $SCENE_RANGER_TOWN_INTRO_TITLE	Partendo
 $LINE_RANGER_TOWN_INTRO_00_CHAR	$RAN
-$LINE_RANGER_TOWN_INTRO_00_TEXT	*Ascolta $MCG, se dobbiamo arrivare al Monastero, credo proprio che avremo bisogno di altra gente.
+$LINE_RANGER_TOWN_INTRO_00_TEXT	*Ascolta $MCG, se dobbiamo arrivare al monastero, credo proprio che avremo bisogno di altra gente.
 $LINE_RANGER_TOWN_INTRO_10_CHAR	$MCG
 $LINE_RANGER_TOWN_INTRO_10_TEXT	*Be', abbiamo $BER.
 $LINE_RANGER_TOWN_INTRO_20_CHAR	$RAN
@@ -380,17 +380,17 @@ $LINE_RANGER_TOWN_INTRO_20_TEXT	Voglio dire... gente NORMALE.
 $LINE_RANGER_TOWN_INTRO_30_CHAR	$RAN
 $LINE_RANGER_TOWN_INTRO_30_TEXT	Gente su cui puoi contare in battaglia.
 $LINE_RANGER_TOWN_INTRO_40_CHAR	$RAN
-$LINE_RANGER_TOWN_INTRO_40_TEXT	Gente che si protegge con armature.
+$LINE_RANGER_TOWN_INTRO_40_TEXT	Gente che usa armature.
 $LINE_RANGER_TOWN_INTRO_50_CHAR	$BER
 $LINE_RANGER_TOWN_INTRO_50_TEXT	Hah, e nascondere questo fisico statuario?
 $LINE_RANGER_TOWN_INTRO_60_CHAR	$RAN
-$LINE_RANGER_TOWN_INTRO_60_TEXT	Mmmgià.... meglio cercare rinforzi.
+$LINE_RANGER_TOWN_INTRO_60_TEXT	Mmmgià... meglio cercare rinforzi.
 $LINE_RANGER_TOWN_INTRO_70_CHAR	$BER
 $LINE_RANGER_TOWN_INTRO_70_TEXT	Cosa? Io sono tutto ciò di cui abbiamo bisogno! Ho il corpo di un dio di bronzo!
 $LINE_RANGER_TOWN_INTRO_80_CHAR	$RAN
-$LINE_RANGER_TOWN_INTRO_80_TEXT	...e il cervello di una lontra ubriaca.
+$LINE_RANGER_TOWN_INTRO_80_TEXT	... e il cervello di una lontra ubriaca.
 $LINE_RANGER_TOWN_INTRO_90_CHAR	$BER
-$LINE_RANGER_TOWN_INTRO_90_TEXT	...un DIO lontra ubriaca!
+$LINE_RANGER_TOWN_INTRO_90_TEXT	... un DIO lontra ubriaca!
 $SCENE_RANGER_TOWN_FIGHT_INTRO_TITLE	Sotto assedio
 $LINE_RANGER_TOWN_FIGHT_INTRO_00_CHAR	$MCG
 $LINE_RANGER_TOWN_FIGHT_INTRO_00_TEXT	Ci hanno trovati! Il villaggio è sotto attacco!
@@ -401,12 +401,12 @@ $LINE_RANGER_TOWN_FIGHT_INTRO_20_TEXT	La ragazza vale una fortuna. La voglio viv
 $LINE_RANGER_TOWN_FIGHT_INTRO_30_CHAR	OZIMAL
 $LINE_RANGER_TOWN_FIGHT_INTRO_30_TEXT	Gli altri non hanno alcuna importanza.
 $LINE_RANGER_TOWN_FIGHT_INTRO_40_CHAR	OZIMAL
-$LINE_RANGER_TOWN_FIGHT_INTRO_40_TEXT	Liberate i Revenant!
+$LINE_RANGER_TOWN_FIGHT_INTRO_40_TEXT	Liberate i revenant!
 $SCENE_RANGER_TOWN_FIGHT_OUTRO_TITLE	Rinforzi
 $LINE_RANGER_TOWN_FIGHT_OUTRO_00_CHAR	OZIMAL
 $LINE_RANGER_TOWN_FIGHT_OUTRO_00_TEXT	Che cosa? Un intero villaggio distrutto e neanche un prigioniero?!
 $LINE_RANGER_TOWN_FIGHT_OUTRO_10_CHAR	GUARD
-$LINE_RANGER_TOWN_FIGHT_OUTRO_10_TEXT	Signore, non abbiamo abbastanza Revenant per continuare.
+$LINE_RANGER_TOWN_FIGHT_OUTRO_10_TEXT	Signore, non abbiamo abbastanza revenant per continuare.
 $LINE_RANGER_TOWN_FIGHT_OUTRO_20_CHAR	OZIMAL
 $LINE_RANGER_TOWN_FIGHT_OUTRO_20_TEXT	Credi che non lo sappia? Sparisci dalla mia vista!
 $LINE_RANGER_TOWN_FIGHT_OUTRO_30_CHAR	OZIMAL
@@ -414,7 +414,7 @@ $LINE_RANGER_TOWN_FIGHT_OUTRO_30_TEXT	Sciocchi incompetenti.
 $LINE_RANGER_TOWN_FIGHT_OUTRO_40_CHAR	UOMO IN ROSSO
 $LINE_RANGER_TOWN_FIGHT_OUTRO_40_TEXT	Non puoi permettergli di fuggire.
 $LINE_RANGER_TOWN_FIGHT_OUTRO_50_CHAR	OZIMAL
-$LINE_RANGER_TOWN_FIGHT_OUTRO_50_TEXT	Cosa posso fare? I miei Revenant sono stati decimati.
+$LINE_RANGER_TOWN_FIGHT_OUTRO_50_TEXT	Cosa posso fare? I miei revenant sono stati decimati.
 $LINE_RANGER_TOWN_FIGHT_OUTRO_60_CHAR	OZIMAL
 $LINE_RANGER_TOWN_FIGHT_OUTRO_60_TEXT	Non ho abbastanza truppe per continuare.
 $LINE_RANGER_TOWN_FIGHT_OUTRO_70_CHAR	UOMO IN ROSSO
@@ -440,7 +440,7 @@ $LINE_2_2_INTRO_50_CHAR	$RAN
 $LINE_2_2_INTRO_50_TEXT	Ci attaccano!
 $SCENE_2_2_OUTRO_TITLE	In un solo giorno
 $LINE_2_2_OUTRO_00_CHAR	$MCG
-$LINE_2_2_OUTRO_00_TEXT	Quei Revenant...
+$LINE_2_2_OUTRO_00_TEXT	Quei revenant...
 $LINE_2_2_OUTRO_10_CHAR	$RAN
 $LINE_2_2_OUTRO_10_TEXT	Venivano dal villaggio.
 $LINE_2_2_OUTRO_20_CHAR	$MCG
@@ -455,7 +455,7 @@ $SCENE_CARAVAN_TOWN_INTRO_TITLE	Ho chiamato quello<N>grande...
 $LINE_CARAVAN_TOWN_INTRO_00_CHAR	$MCG
 $LINE_CARAVAN_TOWN_INTRO_00_TEXT	Credo che siamo riusciti a seminarli!
 $LINE_CARAVAN_TOWN_INTRO_10_CHAR	$BER
-$LINE_CARAVAN_TOWN_INTRO_10_TEXT	Che peccato, mi servivano ancora tre teschi di Revenant per finire la mia collana!
+$LINE_CARAVAN_TOWN_INTRO_10_TEXT	Che peccato, mi servivano ancora tre teschi di revenant per finire la mia collana!
 $LINE_CARAVAN_TOWN_INTRO_20_CHAR	$BER
 $LINE_CARAVAN_TOWN_INTRO_20_TEXT	Guarda!
 $LINE_CARAVAN_TOWN_INTRO_30_CHAR	$BER
@@ -537,11 +537,11 @@ $LINE_MONASTERY_GATES_OUTRO_80_CHAR	VECCHIO MISTERIOSO
 $LINE_MONASTERY_GATES_OUTRO_80_TEXT	L'esercito nemico è ancora al di là delle mura.
 $LINE_MONASTERY_GATES_OUTRO_90_CHAR	$MCG
 $LINE_MONASTERY_GATES_OUTRO_90_TEXT	Ditemi almeno questo: a chi devo la vita?
-$SCENE_MONASTERY_SIEGE_INTRO_TITLE	L'Assedio
+$SCENE_MONASTERY_SIEGE_INTRO_TITLE	L'assedio
 $LINE_MONASTERY_SIEGE_INTRO_00_CHAR	OZIMAL
 $LINE_MONASTERY_SIEGE_INTRO_00_TEXT	Ora basta!
 $LINE_MONASTERY_SIEGE_INTRO_10_CHAR	OZIMAL
-$LINE_MONASTERY_SIEGE_INTRO_10_TEXT	Tutti i miei Revenant sono stati distrutti.
+$LINE_MONASTERY_SIEGE_INTRO_10_TEXT	Tutti i miei revenant sono stati distrutti.
 $LINE_MONASTERY_SIEGE_INTRO_20_CHAR	OZIMAL
 $LINE_MONASTERY_SIEGE_INTRO_20_TEXT	E non manderò i miei uomini all'assalto di quel Monastero.
 $LINE_MONASTERY_SIEGE_INTRO_30_CHAR	UOMO IN ROSSO
@@ -570,7 +570,7 @@ $LINE_MONASTERY_SIEGE_OUTRO_20_TEXT	Non è ancora finita, amico mio.
 $LINE_MONASTERY_SIEGE_OUTRO_30_CHAR	$MCG
 $LINE_MONASTERY_SIEGE_OUTRO_30_TEXT	Cos'è stato?
 $LINE_MONASTERY_SIEGE_OUTRO_40_CHAR	$HEA
-$LINE_MONASTERY_SIEGE_OUTRO_40_TEXT	È lui. Parla attraverso quel Revenant morente.
+$LINE_MONASTERY_SIEGE_OUTRO_40_TEXT	È lui. Parla attraverso quel revenant morente.
 $LINE_MONASTERY_SIEGE_OUTRO_50_CHAR	UOMO IN ROSSO
 $LINE_MONASTERY_SIEGE_OUTRO_50_TEXT	Ora comprenderai che niente può fermarmi.
 $LINE_MONASTERY_SIEGE_OUTRO_60_CHAR	UOMO IN ROSSO
@@ -590,7 +590,7 @@ $LINE_MONASTERY_SIEGE_OUTRO_120_TEXT	Costi quel che costi.
 $LINE_MONASTERY_SIEGE_OUTRO_130_CHAR	$HEA
 $LINE_MONASTERY_SIEGE_OUTRO_130_TEXT	Salvare? Questa la chiami salvezza? Milioni di morti? Questo mare di sangue è opera tua!
 $LINE_MONASTERY_SIEGE_OUTRO_140_CHAR	ZELEMIR
-$LINE_MONASTERY_SIEGE_OUTRO_140_TEXT	La morte di alcuni può salvare il resto. Un sacrificio a cui hai preso parte anche tu, se ricordo bene...
+$LINE_MONASTERY_SIEGE_OUTRO_140_TEXT	La morte di alcuni può salvare tutti gli altri. Un sacrificio a cui hai preso parte anche tu, se ricordo bene...
 $LINE_MONASTERY_SIEGE_OUTRO_150_CHAR	ZELEMIR
 $LINE_MONASTERY_SIEGE_OUTRO_150_TEXT	...in più di un occasione.
 $LINE_MONASTERY_SIEGE_OUTRO_160_CHAR	$HEA
@@ -606,7 +606,7 @@ $LINE_MONASTERY_SIEGE_OUTRO_200_TEXT	Sei troppo pericolosa per rimanere in vita.
 $LINE_MONASTERY_SIEGE_OUTRO_210_CHAR	ZELEMIR
 $LINE_MONASTERY_SIEGE_OUTRO_210_TEXT	Vieni con me e salverai migliaia, forse persino milioni di uomini.
 $LINE_MONASTERY_SIEGE_OUTRO_220_CHAR	$HEA
-$LINE_MONASTERY_SIEGE_OUTRO_220_TEXT	L'Ordine non tradirà mai coloro ai quali ha dato rifugio nelle sue mura.
+$LINE_MONASTERY_SIEGE_OUTRO_220_TEXT	L'Ordine non tradirà mai coloro ai quali ha dato rifugio fra le sue mura.
 $LINE_MONASTERY_SIEGE_OUTRO_230_CHAR	ZELEMIR
 $LINE_MONASTERY_SIEGE_OUTRO_230_TEXT	Molto bene.
 $LINE_MONASTERY_SIEGE_OUTRO_240_CHAR	ZELEMIR
@@ -632,7 +632,7 @@ $LINE_MONASTERY_TOWN_OUTRO_60_TEXT	...per conseguire i suoi loschi scopi.
 $LINE_MONASTERY_TOWN_OUTRO_70_CHAR	$HEA
 $LINE_MONASTERY_TOWN_OUTRO_70_TEXT	*Ci sono molte cose che devo dirti, $MCG.
 $LINE_MONASTERY_TOWN_OUTRO_80_CHAR	$HEA
-$LINE_MONASTERY_TOWN_OUTRO_80_TEXT	...ma il tempo si sta esaurendo.  Continueremo quando saremo al sicuro, al di fuori da queste mura.
+$LINE_MONASTERY_TOWN_OUTRO_80_TEXT	...ma il tempo si sta esaurendo.  Continueremo quando saremo al sicuro, al di fuori di queste mura.
 $SCENE_3_1_INTRO_TITLE	Fumo all'orizzonte
 $LINE_3_1_INTRO_00_CHAR	$MCG
 $LINE_3_1_INTRO_00_TEXT	Devo esprimere la mia gratitudine per tutto ciò che voi monaci avete fatto per noi.  Non mi sarei mai aspettata che qualcuno qui aiutasse le vittime della piaga.
@@ -675,11 +675,11 @@ $LINE_3_1_OUTRO_100_CHAR	PAZIENTE
 $LINE_3_1_OUTRO_100_TEXT	È un piacere incontrare nuovi alleati per questa battaglia.
 $SCENE_3_2_INTRO_TITLE	La Figlia del Fuoco
 $LINE_3_2_INTRO_00_CHAR	$MAG
-$LINE_3_2_INTRO_00_TEXT	Sono grata per ciò che questo posto mi ha dato.
+$LINE_3_2_INTRO_00_TEXT	Sono grata per ciò che questo luogo mi ha dato.
 $LINE_3_2_INTRO_10_CHAR	$MAG
 $LINE_3_2_INTRO_10_TEXT	Mi avete salvato la vita quando sarei potuta diventare una di... loro.
 $LINE_3_2_INTRO_20_CHAR	$MAG
-$LINE_3_2_INTRO_20_TEXT	Ma le mura di questo Ospedale mi soffocano sempre di più.
+$LINE_3_2_INTRO_20_TEXT	Ma le mura di questo ospedale mi soffocano sempre di più.
 $LINE_3_2_INTRO_30_CHAR	$MAG
 $LINE_3_2_INTRO_30_TEXT	Anche se ricoperta dal ghiaccio, la furia della Fiamma Cosmica arde ancora dentro di me.
 $LINE_3_2_INTRO_40_CHAR	$MAG
@@ -697,7 +697,7 @@ $LINE_3_2_INTRO_90_TEXT	Il cancello! Ne sono arrivati altri!
 $LINE_3_2_INTRO_100_CHAR	$HEA
 $LINE_3_2_INTRO_100_TEXT	Difensori!  Siamo attaccati!
 $LINE_3_2_INTRO_110_CHAR	$MAG
-$LINE_3_2_INTRO_110_TEXT	Anche in questa vita di servitudine, io sono sempre una figlia del fuoco.
+$LINE_3_2_INTRO_110_TEXT	Anche in questa vita di servitù, io resto sempre una figlia del fuoco.
 $LINE_3_2_INTRO_120_CHAR	$MAG
 $LINE_3_2_INTRO_120_TEXT	I miei nemici bruceranno!
 $SCENE_3_2_OUTRO_TITLE	La natura dei nostri alleati
@@ -710,7 +710,7 @@ $LINE_3_2_OUTRO_20_TEXT	La Valle serviva da campo di prigionia molto prima della
 $LINE_3_2_OUTRO_30_CHAR	$HEA
 $LINE_3_2_OUTRO_30_TEXT	Molta di questa gente ha lavorato nelle miniere per anni, solo per poi vedersi scaricare addosso gli infetti.
 $LINE_3_2_OUTRO_40_CHAR	$MCG
-$LINE_3_2_OUTRO_40_TEXT	Questo non cambia il fatto che si tratta di un branco di fanatici genocidi adoratori del fuoco.  L'Impero Quaid non si è fermato di fronte a nulla pur di-
+$LINE_3_2_OUTRO_40_TEXT	Questo non cambia il fatto che si tratta di un branco di fanatici assassini adoratori del fuoco.  L'Impero Quaid non si è fermato di fronte a nulla pur di-
 $LINE_3_2_OUTRO_50_CHAR	$HEA
 $LINE_3_2_OUTRO_50_TEXT	*$MCG, l'Impero Quaid non esiste più.  Il nemico che lo ha distrutto ora volge il suo sguardo al resto del mondo.
 $LINE_3_2_OUTRO_60_CHAR	$HEA
@@ -756,7 +756,7 @@ $LINE_3_2_OUTRO_250_TEXT	E c'era un uomo dorato, che sussurrava il mio nome.  Sa
 $LINE_3_2_OUTRO_260_CHAR	$MAG
 $LINE_3_2_OUTRO_260_TEXT	Tentai di scappare, ma non potevo muovermi. Secondo dopo secondo i sussurri diventavano sempre più forti, fino a soffocare le mie stesse urla.
 $LINE_3_2_OUTRO_270_CHAR	$MAG
-$LINE_3_2_OUTRO_270_TEXT	E poi tutto svanì all'improvviso.  Mi trovavo qui in ospedale, sotto le cure dei monaci.
+$LINE_3_2_OUTRO_270_TEXT	E poi tutto svanì all'improvviso.  Mi sono ritrovata qui in ospedale, sotto la cura dei monaci.
 $LINE_3_2_OUTRO_280_CHAR	$MAG
 $LINE_3_2_OUTRO_280_TEXT	Ma anche se sono sfuggita all'inferno, ne ho conservato un pezzo dentro di me.
 $LINE_3_2_OUTRO_290_CHAR	$MAG
@@ -771,7 +771,7 @@ $LINE_3_2_OUTRO_330_CHAR	$MAG
 $LINE_3_2_OUTRO_330_TEXT	Questo dimostra che, se ci si mette d'impegno, si può usare qualunque cosa per uccidere i nemici.
 $SCENE_HOSPITAL_INTRO_TITLE	Un sordido passato
 $LINE_HOSPITAL_INTRO_00_CHAR	$MCG
-$LINE_HOSPITAL_INTRO_00_TEXT	Se non possiamo trovare asilo qui, reverendo saggio, cosa programmate di fare?
+$LINE_HOSPITAL_INTRO_00_TEXT	Se non possiamo trovare asilo qui, reverendo saggio, cosa progettate di fare?
 $LINE_HOSPITAL_INTRO_10_CHAR	$HEA
 $LINE_HOSPITAL_INTRO_10_TEXT	*$MCG, nella mia vita sono stato colpevole di molte cose...
 $LINE_HOSPITAL_INTRO_20_CHAR	$HEA
@@ -781,13 +781,13 @@ $LINE_HOSPITAL_INTRO_30_TEXT	Se devo continuare a guidarti, esistono delle cose 
 $LINE_HOSPITAL_INTRO_40_CHAR	$MCG
 $LINE_HOSPITAL_INTRO_40_TEXT	Zelemir?
 $LINE_HOSPITAL_INTRO_50_CHAR	$HEA
-$LINE_HOSPITAL_INTRO_50_TEXT	...Si. Colui che un tempo fu il grande condottiero del nostro popolo, ora spinto alla follia da arcani poteri.
+$LINE_HOSPITAL_INTRO_50_TEXT	...Si. Colui che un tempo fu il grande condottiero del nostro popolo, ma che ora è spinto alla follia da arcani poteri.
 $LINE_HOSPITAL_INTRO_60_CHAR	$MCG
 $LINE_HOSPITAL_INTRO_60_TEXT	Un momento, volete dire che lui è QUEL Zelemir? Il Principe Zelemir Ashantimon?
 $LINE_HOSPITAL_INTRO_70_CHAR	$MCG
 $LINE_HOSPITAL_INTRO_70_TEXT	Ma è morto da eroe durante la guerra!
 $LINE_HOSPITAL_INTRO_80_CHAR	$HEA
-$LINE_HOSPITAL_INTRO_80_TEXT	Così tutti credono, ma la verità è una storia ben più amara.
+$LINE_HOSPITAL_INTRO_80_TEXT	Così tutti credono, ma la verità è ben più amara.
 $LINE_HOSPITAL_INTRO_90_CHAR	$HEA
 $LINE_HOSPITAL_INTRO_90_TEXT	Prima che tu nascessi, all'apice della guerra con il Quaid... non puoi immaginarne la devastazione.
 $LINE_HOSPITAL_INTRO_100_CHAR	$HEA
@@ -795,11 +795,11 @@ $LINE_HOSPITAL_INTRO_100_TEXT	Principati in fiamme. Intere regioni massacrate.
 $LINE_HOSPITAL_INTRO_110_CHAR	$HEA
 $LINE_HOSPITAL_INTRO_110_TEXT	Eravamo sull'orlo dell'estinzione.
 $LINE_HOSPITAL_INTRO_120_CHAR	$HEA
-$LINE_HOSPITAL_INTRO_120_TEXT	Zelemir e io eravamo entrambi generali dell'esercito Ashiano, all'epoca. Eravamo come fratelli.
+$LINE_HOSPITAL_INTRO_120_TEXT	All'epoca, Zelemir ed io eravamo entrambi generali dell'esercito Ashiano. Eravamo come fratelli.
 $LINE_HOSPITAL_INTRO_130_CHAR	$HEA
-$LINE_HOSPITAL_INTRO_130_TEXT	I nostri uomini si battevano come tigri, ma sapevamo bene di essere condannati.
+$LINE_HOSPITAL_INTRO_130_TEXT	I nostri uomini si battevano come leoni, ma sapevamo bene di essere condannati.
 $LINE_HOSPITAL_INTRO_140_CHAR	$HEA
-$LINE_HOSPITAL_INTRO_140_TEXT	Ad ogni nuova alba, il regno Ashiano era un passo più vicino alla distruzione.
+$LINE_HOSPITAL_INTRO_140_TEXT	Ogni nuova alba, il regno Ashiano era un passo più vicino alla distruzione.
 $LINE_HOSPITAL_INTRO_150_CHAR	$HEA
 $LINE_HOSPITAL_INTRO_150_TEXT	Poi, tra le rovine di una città nemica, il Principe Zelemir fece una scoperta.
 $LINE_HOSPITAL_INTRO_160_CHAR	$HEA
@@ -815,7 +815,7 @@ $LINE_HOSPITAL_INTRO_200_TEXT	*$MCG, ho dedicato il tempo che mi resta da vivere
 $LINE_HOSPITAL_INTRO_210_CHAR	$HEA
 $LINE_HOSPITAL_INTRO_210_TEXT	Per qualche ragione, ora ha scelto TE come obbiettivo delle sue follie.
 $LINE_HOSPITAL_INTRO_220_CHAR	$HEA
-$LINE_HOSPITAL_INTRO_220_TEXT	Se riusciremo a scoprirne il motivo, forse potremmo usarlo contro di lui.
+$LINE_HOSPITAL_INTRO_220_TEXT	Se riuscissimo a scoprirne il motivo, forse potremmo usarlo contro di lui.
 $LINE_HOSPITAL_INTRO_230_CHAR	$HEA
 $LINE_HOSPITAL_INTRO_230_TEXT	*Tu hai visto ciò che è capace di fare, $MCG. Mi aiuterai?
 $LINE_HOSPITAL_INTRO_240_CHAR	$MCG
@@ -873,7 +873,7 @@ $LINE_3_3_OUTRO_40_TEXT	Hai finito adesso? Devo sigillare l'entrata dietro di no
 $LINE_3_3_OUTRO_50_CHAR	$BER
 $LINE_3_3_OUTRO_50_TEXT	Occavolo... riesci a far esplodere le cose con la mente?
 $LINE_3_3_OUTRO_60_CHAR	$BER
-$LINE_3_3_OUTRO_60_TEXT	Scusa! Per favore non farmi saltare in aria la testa con i tuoi poteri tele-splodenti!
+$LINE_3_3_OUTRO_60_TEXT	Scusa! Per favore non farmi saltare in aria la testa con i tuoi poteri tele-esplodenti!
 $LINE_3_3_OUTRO_70_CHAR	$BER
 $LINE_3_3_OUTRO_70_TEXT	Restituirò le scarpe che ho rubato dal tuo bagaglio, lo giuro! Ti ripagherò con un centinaio, un migliaio di scarpe!
 $LINE_3_3_OUTRO_80_CHAR	$HEA
@@ -925,7 +925,7 @@ $LINE_3_4_OUTRO_10_TEXT	Era uno dei componenti fondamentali delle armi da assedi
 $LINE_3_4_OUTRO_20_CHAR	$HEA
 $LINE_3_4_OUTRO_20_TEXT	Le miniere al di sotto della città ne sono ricchissime.
 $LINE_3_4_OUTRO_30_CHAR	$MCG
-$LINE_3_4_OUTRO_30_TEXT	Pensate che sia da lì che sono arrivati i Revenant?
+$LINE_3_4_OUTRO_30_TEXT	Pensate che sia da lì che sono arrivati i revenant?
 $LINE_3_4_OUTRO_40_CHAR	$HEA
 $LINE_3_4_OUTRO_40_TEXT	No, vestivano uniformi Ashiane... o almeno quel che ne è rimasto.
 $LINE_3_4_OUTRO_50_CHAR	$HEA
@@ -998,7 +998,7 @@ $LINE_GUARD_TOWN_INTRO_30_TEXT	Comunque, alcuni dei veterani più anziani si ric
 $LINE_GUARD_TOWN_INTRO_40_CHAR	$KNI
 $LINE_GUARD_TOWN_INTRO_40_TEXT	Ma nemmeno qui si è al sicuro dalla piaga.
 $LINE_GUARD_TOWN_INTRO_50_CHAR	$HEA
-$LINE_GUARD_TOWN_INTRO_50_TEXT	I Revenant con le armature.
+$LINE_GUARD_TOWN_INTRO_50_TEXT	I revenant con le armature.
 $LINE_GUARD_TOWN_INTRO_60_CHAR	$KNI
 $LINE_GUARD_TOWN_INTRO_60_TEXT	Una volta erano membri di questo campo.  Tutti coloro che perirono di questa piaga infernale ora rafforzano i loro ranghi.
 $LINE_GUARD_TOWN_INTRO_70_CHAR	$HEA
@@ -1011,7 +1011,7 @@ $LINE_GUARD_TOWN_OUTRO_10_TEXT	È di vitale importanza raggiungere la sala dei R
 $LINE_GUARD_TOWN_OUTRO_20_CHAR	$HEA
 $LINE_GUARD_TOWN_OUTRO_20_TEXT	Vi si trovano informazioni che potrebbero mutare il corso di questa catastrofe.
 $LINE_GUARD_TOWN_OUTRO_30_CHAR	$KNI
-$LINE_GUARD_TOWN_OUTRO_30_TEXT	Devo mettervi in guardia, esistono altri pericoli in questa città oltre ai semplici Revenant.
+$LINE_GUARD_TOWN_OUTRO_30_TEXT	Devo mettervi in guardia, esistono altri pericoli in questa città oltre ai semplici revenant.
 $LINE_GUARD_TOWN_OUTRO_40_CHAR	$KNI
 $LINE_GUARD_TOWN_OUTRO_40_TEXT	Creature di fuoco che dormono quaggiù, tra gli oscuri meandri della terra.
 $LINE_GUARD_TOWN_OUTRO_50_CHAR	$HEA
@@ -1048,7 +1048,7 @@ $LINE_SIDEQUEST_5_GET_90_TEXT	...
 $LINE_SIDEQUEST_5_GET_100_CHAR	$KNI
 $LINE_SIDEQUEST_5_GET_100_TEXT	Cos'è quello?
 $LINE_SIDEQUEST_5_GET_110_CHAR	$BER
-$LINE_SIDEQUEST_5_GET_110_TEXT	È un nuovo fascio di muscoli che ho appena scoperto. Li ho chiamati $BERoidi.
+$LINE_SIDEQUEST_5_GET_110_TEXT	*È un nuovo fascio di muscoli che ho appena scoperto. Li ho chiamati $BERoidi.
 $LINE_SIDEQUEST_5_GET_120_CHAR	$KNI
 $LINE_SIDEQUEST_5_GET_120_TEXT	No, idiota! Laggiù. Ci stanno seguendo.
 $LINE_SIDEQUEST_5_GET_130_CHAR	$BER
@@ -1075,7 +1075,7 @@ $LINE_SIDEQUEST_5_INTRO_60_TEXT	Yo.
 $LINE_SIDEQUEST_5_INTRO_70_CHAR	$KNI
 $LINE_SIDEQUEST_5_INTRO_70_TEXT	Fantastico. Ci sono altri imbecilli che vuoi portare qui, già che ci sei?
 $LINE_SIDEQUEST_5_INTRO_80_CHAR	$BER
-$LINE_SIDEQUEST_5_INTRO_80_TEXT	Che ne dici dei millemila Revenant appena qua fuori?
+$LINE_SIDEQUEST_5_INTRO_80_TEXT	Che ne dici dei millemila revenant appena qua fuori?
 $LINE_SIDEQUEST_5_INTRO_90_CHAR	DONNA MISTERIOSA
 $LINE_SIDEQUEST_5_INTRO_90_TEXT	Cosa?
 $LINE_SIDEQUEST_5_INTRO_100_CHAR	DONNA MISTERIOSA
@@ -1108,7 +1108,7 @@ $LINE_SIDEQUEST_5_OUTRO_70_TEXT	*$MCG, saprai anche fare un sacco di cose, ma de
 $LINE_SIDEQUEST_5_OUTRO_80_CHAR	$MCG
 $LINE_SIDEQUEST_5_OUTRO_80_TEXT	Sei più brava a prenderti una mestolata sul grugno!
 $LINE_SIDEQUEST_5_OUTRO_90_CHAR	$KNI
-$LINE_SIDEQUEST_5_OUTRO_90_TEXT	NON IMPORTA A NESSUNO CHE SONO FINITO IN UNA PENTOLA DI ZUPPA?!!!
+$LINE_SIDEQUEST_5_OUTRO_90_TEXT	NON IMPORTA A NESSUNO CHE SIA FINITO IN UNA PENTOLA DI ZUPPA?!!!
 $LINE_SIDEQUEST_5_OUTRO_100_CHAR	$RAN
 $LINE_SIDEQUEST_5_OUTRO_100_TEXT	Be', se la metti così...
 $LINE_SIDEQUEST_5_OUTRO_110_CHAR	$MCG
@@ -1183,7 +1183,7 @@ $LINE_3_6_INTRO_100_TEXT	Non più!
 $LINE_3_6_INTRO_110_CHAR	$KNI
 $LINE_3_6_INTRO_110_TEXT	Cosa stai - ?
 $LINE_3_6_INTRO_120_CHAR	$MCG
-$LINE_3_6_INTRO_120_TEXT	Altri Revenant!
+$LINE_3_6_INTRO_120_TEXT	Altri revenant!
 $SCENE_3_6_OUTRO_TITLE	Non da soli
 $LINE_3_6_OUTRO_00_CHAR	$KNI
 $LINE_3_6_OUTRO_00_TEXT	Quelli non erano i miei uomini.
@@ -1197,13 +1197,13 @@ $LINE_3_6_OUTRO_40_CHAR	$HEA
 $LINE_3_6_OUTRO_40_TEXT	Zelemir ci insegue.
 $SCENE_3_7_INTRO_TITLE	Ospiti indesiderati
 $LINE_3_7_INTRO_00_CHAR	$MCG
-$LINE_3_7_INTRO_00_TEXT	*$KNI è stupito dal veder cadere i Revenant.
+$LINE_3_7_INTRO_00_TEXT	*$KNI è stupito di veder cadere i revenant.
 $LINE_3_7_INTRO_10_CHAR	$HEA
 $LINE_3_7_INTRO_10_TEXT	Come tutti noi quando ti vedemmo distruggerli per la prima volta.
 $LINE_3_7_INTRO_20_CHAR	$MCG
 $LINE_3_7_INTRO_20_TEXT	Come posso uccidere quelle cose se nessun altro c'è mai riuscito prima?
 $LINE_3_7_INTRO_30_CHAR	$HEA
-$LINE_3_7_INTRO_30_TEXT	I Revenant, come noi li chiamiamo, in realtà non sono altro che dei recipienti vuoti per la volontà di Zelemir.
+$LINE_3_7_INTRO_30_TEXT	I revenant, come noi li chiamiamo, in realtà non sono altro che dei recipienti vuoti per la volontà di Zelemir.
 $LINE_3_7_INTRO_40_CHAR	$HEA
 $LINE_3_7_INTRO_40_TEXT	Attraverso gli arcani poteri che ancora non riesco a comprendere, il suo spirito ne comanda le carni senza vita.
 $LINE_3_7_INTRO_50_CHAR	$HEA
@@ -1225,14 +1225,14 @@ $LINE_3_7_INTRO_120_TEXT	State tutti indietro!
 $LINE_3_7_INTRO_130_CHAR	DRAGO FEROCE
 $LINE_3_7_INTRO_130_TEXT	Parla, o perirai tra le fiamme!
 $LINE_3_7_INTRO_140_CHAR	$HEA
-$LINE_3_7_INTRO_140_TEXT	Questo non è il momento!  I Revenant si avvicinano!
+$LINE_3_7_INTRO_140_TEXT	Questo non è il momento!  I revenant si avvicinano!
 $LINE_3_7_INTRO_150_CHAR	DRAGO FEROCE
 $LINE_3_7_INTRO_150_TEXT	Ancora quelle pesti? Affronteranno la mia furia divina!
 $SCENE_3_7_OUTRO_TITLE	La parola di un drago
 $LINE_3_7_OUTRO_00_CHAR	$DRA
 $LINE_3_7_OUTRO_00_TEXT	Combattete bene, per dei mortali.
 $LINE_3_7_OUTRO_10_CHAR	$DRA
-$LINE_3_7_OUTRO_10_TEXT	Ma ancora non siete stati assolti della vostra impudenza nel venire qui.
+$LINE_3_7_OUTRO_10_TEXT	Ma ancora non siete stati assolti dalla vostra impudenza nel venire qui.
 $LINE_3_7_OUTRO_20_CHAR	$DRA
 $LINE_3_7_OUTRO_20_TEXT	...
 $LINE_3_7_OUTRO_30_CHAR	$DRA
@@ -1293,7 +1293,7 @@ $LINE_3_7_OUTRO_300_CHAR	$MCG
 $LINE_3_7_OUTRO_300_TEXT	Andiamo, era carina.
 $LINE_3_7_OUTRO_310_CHAR	$MAG
 $LINE_3_7_OUTRO_310_TEXT	...mi hai fatto venire mal di testa.
-$SCENE_3_8_INTRO_TITLE	Proteggere il nido
+$SCENE_3_8_INTRO_TITLE	Proteggendo il nido
 $LINE_3_8_INTRO_00_CHAR	$MCG
 $LINE_3_8_INTRO_00_TEXT	Quindi alcuni draghi sono degni di fiducia?
 $LINE_3_8_INTRO_10_CHAR	$MAG
@@ -1335,7 +1335,7 @@ $LINE_3_8_INTRO_180_TEXT	Ne respingo a centinaia, ma continuano ad arrivare.
 $LINE_3_8_INTRO_190_CHAR	$DRA
 $LINE_3_8_INTRO_190_TEXT	E ogni mattina scopro che qualcun altro dei miei piccoli è svanito.
 $LINE_3_8_INTRO_200_CHAR	$MCG
-$LINE_3_8_INTRO_200_TEXT	Perchè mai i Revenant dovrebbero volere dei draghi?
+$LINE_3_8_INTRO_200_TEXT	Perchè mai i revenant dovrebbero volere dei draghi?
 $LINE_3_8_INTRO_210_CHAR	$DRA
 $LINE_3_8_INTRO_210_TEXT	Non è questo il momento per le domande, mortale.
 $LINE_3_8_INTRO_220_CHAR	$MCG
@@ -1410,9 +1410,9 @@ $LINE_3_9_INTRO_110_TEXT	Oh, questa poi...
 $LINE_3_9_INTRO_120_CHAR	$MAG
 $LINE_3_9_INTRO_120_TEXT	*Sono sorpresa, $MCG.
 $LINE_3_9_INTRO_130_CHAR	$MAG
-$LINE_3_9_INTRO_130_TEXT	Non sono in molti a conoscere il segreto delle scorte di pecore sotto gli insediamenti Quaid.
+$LINE_3_9_INTRO_130_TEXT	Non sono in molti a conoscere il segreto delle scorte di pecore sotto agli insediamenti quaidiani.
 $LINE_3_9_INTRO_140_CHAR	$MAG
-$LINE_3_9_INTRO_140_TEXT	Di solito le conserviamo per gli assedi, ma in questo caso credo che potremo fare un'eccezione.
+$LINE_3_9_INTRO_140_TEXT	Di solito le conserviamo per gli assedi, ma in questo caso credo che potremmo fare un'eccezione.
 $LINE_3_9_INTRO_150_CHAR	$MAG
 $LINE_3_9_INTRO_150_TEXT	Spero solo che non siano diventate... aggressive.
 $LINE_3_9_INTRO_160_CHAR	$MCG
@@ -1439,7 +1439,7 @@ $LINE_3_9_OUTRO_40_TEXT	Ma voi avete le ali, non potete semplicemente volare via
 $LINE_3_9_OUTRO_50_CHAR	$DRA
 $LINE_3_9_OUTRO_50_TEXT	Tu fai troppe domande, mortale.
 $LINE_3_9_OUTRO_60_CHAR	$DRA
-$LINE_3_9_OUTRO_60_TEXT	Anche qualcuno utile come te potrebbe finire incenerita per maleducazione.
+$LINE_3_9_OUTRO_60_TEXT	Anche qualcuno utile come te potrebbe finire incenerito per maleducazione.
 $LINE_3_9_OUTRO_70_CHAR	$MCG
 $LINE_3_9_OUTRO_70_TEXT	Va bene, saremo felici di avervi con noi.
 $LINE_3_9_OUTRO_80_CHAR	$DRA
@@ -1564,13 +1564,13 @@ $LINE_SIDEQUEST_6_GET_70_TEXT	E poi, con il potere dell'amicizia, balzeremo su u
 $LINE_SIDEQUEST_6_GET_80_CHAR	$MCG
 $LINE_SIDEQUEST_6_GET_80_TEXT	C'è un senso dietro a tutto questo?
 $LINE_SIDEQUEST_6_GET_90_CHAR	$KNI
-$LINE_SIDEQUEST_6_GET_90_TEXT	Be', sembra che qui sotto ci sia una specie di tempio Quaid dissacrato.
+$LINE_SIDEQUEST_6_GET_90_TEXT	Be', sembra che qui sotto ci sia una specie di tempio quaidiano che è stato profanato.
 $LINE_SIDEQUEST_6_GET_100_CHAR	$KNI
 $LINE_SIDEQUEST_6_GET_100_TEXT	*$MAG lo ha scoperto, ed è diventata un po'... qual'è la parola giusta?
 $LINE_SIDEQUEST_6_GET_110_CHAR	$KNI
 $LINE_SIDEQUEST_6_GET_110_TEXT	Voi siete una bibliotecaria - c'è un aggettivo che significa:
 $LINE_SIDEQUEST_6_GET_120_CHAR	$KNI
-$LINE_SIDEQUEST_6_GET_120_TEXT	"mettere da parte anche l'ultimo barlume di normalità per scoperchiare tutta la follia che ne ribolliva sotto?"
+$LINE_SIDEQUEST_6_GET_120_TEXT	"mettere da parte anche l'ultimo barlume di normalità per scoperchiare tutta la follia che vi ribolliva al di sotto?"
 $LINE_SIDEQUEST_6_GET_130_CHAR	$BER
 $LINE_SIDEQUEST_6_GET_130_TEXT	*$MCG!
 $LINE_SIDEQUEST_6_GET_140_CHAR	$MCG
@@ -1584,32 +1584,32 @@ $LINE_SIDEQUEST_6_GET_170_TEXT	*$MAG ha trovato un altare strafighissimo e ci so
 $LINE_SIDEQUEST_6_GET_180_CHAR	$MCG
 $LINE_SIDEQUEST_6_GET_180_TEXT	Ventordicimila e uno?
 $LINE_SIDEQUEST_6_GET_190_CHAR	$BER
-$LINE_SIDEQUEST_6_GET_190_TEXT	*Si, laggiù ci sono tipo ventordicimila Revenant e uno, e $MAG non ci lascia combattere!
+$LINE_SIDEQUEST_6_GET_190_TEXT	*Si, laggiù ci sono tipo ventordicimila revenant e uno, e $MAG non ci lascia combattere!
 $LINE_SIDEQUEST_6_GET_200_CHAR	$MCG
-$LINE_SIDEQUEST_6_GET_200_TEXT	Ti è mai venuto in mente che forse io non ho voglia di combattere più mostri di quanto sia assolutamente necessario?
+$LINE_SIDEQUEST_6_GET_200_TEXT	Ti è mai venuto in mente che forse io non voglio combattere più mostri di quanto sia assolutamente necessario?
 $LINE_SIDEQUEST_6_GET_210_CHAR	$BER
 $LINE_SIDEQUEST_6_GET_210_TEXT	...
 $LINE_SIDEQUEST_6_GET_220_CHAR	$BER
-$LINE_SIDEQUEST_6_GET_220_TEXT	... impossibile capire... strana... logica aliena...
+$LINE_SIDEQUEST_6_GET_220_TEXT	... impossibile capire... strana logica aliena...
 $LINE_SIDEQUEST_6_GET_230_CHAR	$BER
 $LINE_SIDEQUEST_6_GET_230_TEXT	*Comunque, $MAG ha detto che l'intero posto appartiene a lei, e che ucciderà chiunque cerchi di entrare!
 $LINE_SIDEQUEST_6_GET_240_CHAR	$BER
 $LINE_SIDEQUEST_6_GET_240_TEXT	Non è giusto! Dovresti andare a squagliarle la faccia!!!
 $LINE_SIDEQUEST_6_GET_250_CHAR	$MCG
-$LINE_SIDEQUEST_6_GET_250_TEXT	...ancora con questa storia dello squagliare facce.
+$LINE_SIDEQUEST_6_GET_250_TEXT	... ancora con questa storia.
 $LINE_SIDEQUEST_6_GET_260_CHAR	$KNI
 $LINE_SIDEQUEST_6_GET_260_TEXT	Vedete, è così pazza che sta spaventando anche agli altri pazzi!
 $LINE_SIDEQUEST_6_GET_270_CHAR	$MCG
 $LINE_SIDEQUEST_6_GET_270_TEXT	Suppongo di dover fare chiarezza su questa faccenda.
-$SCENE_SIDEQUEST_6_INTRO_TITLE	Servitrice della Fiamma
+$SCENE_SIDEQUEST_6_INTRO_TITLE	La servitrice della Fiamma
 $LINE_SIDEQUEST_6_INTRO_00_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_00_TEXT	Io sono la figlia del fuoco!
 $LINE_SIDEQUEST_6_INTRO_10_CHAR	$BER
 $LINE_SIDEQUEST_6_INTRO_10_TEXT	*Be', $MCG dice che non gliene frega niente di chi sei, non devi fare l'egoista!
 $LINE_SIDEQUEST_6_INTRO_20_CHAR	$MCG
-$LINE_SIDEQUEST_6_INTRO_20_TEXT	Non è quello che ho detto.
+$LINE_SIDEQUEST_6_INTRO_20_TEXT	Non è ciò che ho detto.
 $LINE_SIDEQUEST_6_INTRO_30_CHAR	$MAG
-$LINE_SIDEQUEST_6_INTRO_30_TEXT	Io sola posso scacciare quegli abomini. Non purificherò questo tempio da un nemico solo per farne arrivare un altro!
+$LINE_SIDEQUEST_6_INTRO_30_TEXT	Soltanto io posso scacciare quegli abomini. Non purificherò questo tempio da un nemico solo per farne arrivare un altro!
 $LINE_SIDEQUEST_6_INTRO_40_CHAR	$MCG
 $LINE_SIDEQUEST_6_INTRO_40_TEXT	*$MAG, ascoltami. Non puoi farcela da sola.
 $LINE_SIDEQUEST_6_INTRO_50_CHAR	$MAG
@@ -1621,23 +1621,23 @@ $LINE_SIDEQUEST_6_INTRO_70_TEXT	*$MCG, non farlo. Ti dovrei uccidere. Non posso 
 $LINE_SIDEQUEST_6_INTRO_80_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_80_TEXT	Ho giurato di proteggere Onore e Fede a qualunque costo. Non costringermi ad uccidere un'amica.
 $LINE_SIDEQUEST_6_INTRO_90_CHAR	$MCG
-$LINE_SIDEQUEST_6_INTRO_90_TEXT	E come farai ad uccidere i Revenant senza di me?
+$LINE_SIDEQUEST_6_INTRO_90_TEXT	E come farai ad uccidere i revenant senza di me?
 $LINE_SIDEQUEST_6_INTRO_100_CHAR	$MAG
-$LINE_SIDEQUEST_6_INTRO_100_TEXT	...Troverò un modo.
+$LINE_SIDEQUEST_6_INTRO_100_TEXT	... Troverò un modo.
 $LINE_SIDEQUEST_6_INTRO_110_CHAR	$MCG
 $LINE_SIDEQUEST_6_INTRO_110_TEXT	*E così hai intenzione di morire? È di questo che si tratta, $MAG?
 $LINE_SIDEQUEST_6_INTRO_120_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_120_TEXT	Io penso solo a servire la Fiamma!
 $LINE_SIDEQUEST_6_INTRO_130_CHAR	$MCG
-$LINE_SIDEQUEST_6_INTRO_130_TEXT	Oh, e servirai la Fiamma facendoti ammazzare? Mettendo fine alla dinastia Quaid per sempre?
+$LINE_SIDEQUEST_6_INTRO_130_TEXT	Oh, e servirai la Fiamma facendoti uccidere? Mettendo fine alla dinastia quaidiana per sempre?
 $LINE_SIDEQUEST_6_INTRO_140_CHAR	$MCG
 $LINE_SIDEQUEST_6_INTRO_140_TEXT	E quando la tua anima verrà giudicata dirai:
 $LINE_SIDEQUEST_6_INTRO_150_CHAR	$MCG
-$LINE_SIDEQUEST_6_INTRO_150_TEXT	"Ho avuto paura del compito che mi spettava e disprezzavo i mezzi che mi sono stati dati, quindi ho scelto di morire"
+$LINE_SIDEQUEST_6_INTRO_150_TEXT	<LQ>Ho avuto paura del compito che mi spettava e non mi piacevano i mezzi che mi sono stati dati, quindi ho scelto di morire.<RQ>
 $LINE_SIDEQUEST_6_INTRO_160_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_160_TEXT	Questo non è vero!
 $LINE_SIDEQUEST_6_INTRO_170_CHAR	$MCG
-$LINE_SIDEQUEST_6_INTRO_170_TEXT	Davvero? Perchè a me sembra proprio così. Il tuo epitaffio narrerà "Troppo impaurita per ricostruire il suo regno, decise di unirsi agli sconfitti."
+$LINE_SIDEQUEST_6_INTRO_170_TEXT	Davvero? Perchè a me sembra proprio così. Il tuo epitaffio reciterà "Troppo impaurita per ricostruire il suo regno, decise di unirsi agli sconfitti".
 $LINE_SIDEQUEST_6_INTRO_180_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_180_TEXT	NON È VERO!
 $LINE_SIDEQUEST_6_INTRO_190_CHAR	$MCG
@@ -1647,7 +1647,7 @@ $LINE_SIDEQUEST_6_INTRO_200_TEXT	Ma...
 $LINE_SIDEQUEST_6_INTRO_210_CHAR	$MCG
 $LINE_SIDEQUEST_6_INTRO_210_TEXT	Va lì da sola, e l'unica cosa che farai sarà aiutare il nemico.
 $LINE_SIDEQUEST_6_INTRO_220_CHAR	$MCG
-$LINE_SIDEQUEST_6_INTRO_220_TEXT	Da che parte stai, $MAG?
+$LINE_SIDEQUEST_6_INTRO_220_TEXT	Tu da che parte stai?
 $LINE_SIDEQUEST_6_INTRO_230_CHAR	$MAG
 $LINE_SIDEQUEST_6_INTRO_230_TEXT	Io... servo sempre la Fiamma...
 $LINE_SIDEQUEST_6_INTRO_240_CHAR	$MCG
@@ -1674,27 +1674,27 @@ $LINE_SIDEQUEST_6_OUTRO_80_TEXT	Ti va di parlare?
 $LINE_SIDEQUEST_6_OUTRO_90_CHAR	$MAG
 $LINE_SIDEQUEST_6_OUTRO_90_TEXT	Le parole non risolvono nulla.
 $LINE_SIDEQUEST_6_OUTRO_100_CHAR	$MCG
-$LINE_SIDEQUEST_6_OUTRO_100_TEXT	Spero non sia vero, altrimenti ho scelto la carriera sbagliata.
+$LINE_SIDEQUEST_6_OUTRO_100_TEXT	Spero che questo non sia vero, perchè altrimenti ho scelto la carriera sbagliata.
 $LINE_SIDEQUEST_6_OUTRO_110_CHAR	$MAG
-$LINE_SIDEQUEST_6_OUTRO_110_TEXT	Hai avuto una scelta? Che cosa "bizzarra".
+$LINE_SIDEQUEST_6_OUTRO_110_TEXT	Hai avuto una scelta? Che cosa bizzarra.
 $LINE_SIDEQUEST_6_OUTRO_120_CHAR	$MAG
-$LINE_SIDEQUEST_6_OUTRO_120_TEXT	...in ogni miserabile gruppo di baracche, ogni tugurio che visitiamo, mi sento addosso lo sguardo dei supravvissuti. Mi riconoscono.
+$LINE_SIDEQUEST_6_OUTRO_120_TEXT	... in ogni miserabile gruppo di baracche, in ogni tugurio che visitiamo, mi sento addosso lo sguardo dei supravvissuti. Mi riconoscono.
 $LINE_SIDEQUEST_6_OUTRO_130_CHAR	$MAG
-$LINE_SIDEQUEST_6_OUTRO_130_TEXT	Credono che li guiderò di nuovo verso le nostre città, verso un mondo che non esiste nemmeno più!
+$LINE_SIDEQUEST_6_OUTRO_130_TEXT	Credono che li guiderò nuovamente alle nostre città, a un mondo che nemmeno esiste più!
 $LINE_SIDEQUEST_6_OUTRO_140_CHAR	$MAG
 $LINE_SIDEQUEST_6_OUTRO_140_TEXT	Questo, questo è il luogo a cui appartengo! Questo tempio tramutato in ossario.
 $LINE_SIDEQUEST_6_OUTRO_150_CHAR	$MAG
-$LINE_SIDEQUEST_6_OUTRO_150_TEXT	Tutti quei miseri profughi si aspettano che li salvi, ed io non posso fornirgli altra protezione che questo decrepito santuario.
+$LINE_SIDEQUEST_6_OUTRO_150_TEXT	Tutti quei miseri profughi si aspettano che io li salvi, e non posso fornirgli altra protezione che questo decrepito santuario.
 $LINE_SIDEQUEST_6_OUTRO_160_CHAR	$MAG
-$LINE_SIDEQUEST_6_OUTRO_160_TEXT	Guardami! Sono stata una prigioniera fin dall'infanzia, una schiava, una... tu non puoi capire... le cose che ci hanno fatto.
+$LINE_SIDEQUEST_6_OUTRO_160_TEXT	Guardami! Sono stata prigioniera fin dall'infanzia, una schiava, una... tu non puoi capire... le cose che ci hanno fatto.
 $LINE_SIDEQUEST_6_OUTRO_170_CHAR	$MAG
 $LINE_SIDEQUEST_6_OUTRO_170_TEXT	No... le cose che CI AVETE fatto!
 $LINE_SIDEQUEST_6_OUTRO_180_CHAR	$MAG
-$LINE_SIDEQUEST_6_OUTRO_180_TEXT	E nella mia mente continuo a sentire le urla, e poi mi rendo conto che sono le mie, e chiudo gli occhi, e vedo le mie sorelle in mezzo a tutto quel sangue...
+$LINE_SIDEQUEST_6_OUTRO_180_TEXT	E nella mia mente continuo a sentire quelle grida, e poi mi rendo conto che sono le mie, e chiudo gli occhi, e vedo le mie sorelle in mezzo a tutto quel sangue...
 $LINE_SIDEQUEST_6_OUTRO_190_CHAR	$MCG
 $LINE_SIDEQUEST_6_OUTRO_190_TEXT	*$MAG...
 $LINE_SIDEQUEST_6_OUTRO_200_CHAR	$MAG
-$LINE_SIDEQUEST_6_OUTRO_200_TEXT	E il sole... picchia sempre più forte, mentre stringo le dita attorno a una punta di freccia, spezzata aspettando che quell'uomo girasse il collo...
+$LINE_SIDEQUEST_6_OUTRO_200_TEXT	E il sole... picchia sempre più forte, mentre stringo in mano una punta di freccia spezzata, aspettando che quell'uomo giri il collo...
 $LINE_SIDEQUEST_6_OUTRO_210_CHAR	$MAG
 $LINE_SIDEQUEST_6_OUTRO_210_TEXT	E adesso sono sola. Di tutti loro... io sono l'ultima del casato reale...
 $LINE_SIDEQUEST_6_OUTRO_220_CHAR	$MAG
@@ -1704,13 +1704,13 @@ $LINE_SIDEQUEST_6_OUTRO_230_TEXT	Cosa posso mai sperare di fare per la mia gente
 $LINE_SIDEQUEST_6_OUTRO_240_CHAR	$MCG
 $LINE_SIDEQUEST_6_OUTRO_240_TEXT	*$MAG, io sono una bibliotecaria. Tu sei una principessa guerriera del Quaid.
 $LINE_SIDEQUEST_6_OUTRO_250_CHAR	$MCG
-$LINE_SIDEQUEST_6_OUTRO_250_TEXT	Sei nata per comandare. Io sono nata per... mettere in fila i libri e farmi guardar male dal Capo Scrivano.
+$LINE_SIDEQUEST_6_OUTRO_250_TEXT	Sei nata per comandare. Io sono nata per... mettere in fila i libri e farmi guardar male dal capo scrivano.
 $LINE_SIDEQUEST_6_OUTRO_260_CHAR	$MCG
-$LINE_SIDEQUEST_6_OUTRO_260_TEXT	Mi sento così persa e terrorizzata all'idea di guidarci... riesco a malapena a tenere insieme i pezzi. A volte tutto ciò che riesco a fare è ricordarmi di respirare.
+$LINE_SIDEQUEST_6_OUTRO_260_TEXT	Mi sento così persa e terrorizzata all'idea di guidarci... riesco a malapena a tenere insieme i cocci. A volte tutto ciò che riesco a fare è ricordarmi di respirare.
 $LINE_SIDEQUEST_6_OUTRO_270_CHAR	$MCG
 $LINE_SIDEQUEST_6_OUTRO_270_TEXT	Non mi affiderei mai a me stessa.
 $LINE_SIDEQUEST_6_OUTRO_280_CHAR	$MCG
-$LINE_SIDEQUEST_6_OUTRO_280_TEXT	Quando ti guardo, vorrei avere solo un decimo del tuo coraggio e della tua determinazione.
+$LINE_SIDEQUEST_6_OUTRO_280_TEXT	Quando ti guardo, vorrei avere anche solo un decimo del tuo coraggio e della tua determinazione.
 $LINE_SIDEQUEST_6_OUTRO_290_CHAR	$MCG
 $LINE_SIDEQUEST_6_OUTRO_290_TEXT	Ma probabilmente è meglio così, altrimenti starei già fondando un'impero invece di limitarmi a scappare.
 $LINE_SIDEQUEST_6_OUTRO_300_CHAR	$MAG
@@ -1718,14 +1718,14 @@ $LINE_SIDEQUEST_6_OUTRO_300_TEXT	...
 $LINE_SIDEQUEST_6_OUTRO_310_CHAR	$MAG
 $LINE_SIDEQUEST_6_OUTRO_310_TEXT	*Grazie, $MCG.
 $LINE_SIDEQUEST_6_OUTRO_320_CHAR	$MAG
-$LINE_SIDEQUEST_6_OUTRO_320_TEXT	...forse mi sbagliavo, sul potere delle parole.
+$LINE_SIDEQUEST_6_OUTRO_320_TEXT	... forse mi sbagliavo, sul potere delle parole.
 $LINE_SIDEQUEST_6_OUTRO_330_CHAR	$MCG
-$LINE_SIDEQUEST_6_OUTRO_330_TEXT	...Vuoi un abbraccio?
+$LINE_SIDEQUEST_6_OUTRO_330_TEXT	... Vuoi un abbraccio?
 $LINE_SIDEQUEST_6_OUTRO_340_CHAR	$MAG
-$LINE_SIDEQUEST_6_OUTRO_340_TEXT	Eh? Che cos'è un "abbraccio"?
-$SCENE_3_10_INTRO_TITLE	La Sala dei Registri Reali
+$LINE_SIDEQUEST_6_OUTRO_340_TEXT	Che cos'è un "abbraccio"?
+$SCENE_3_10_INTRO_TITLE	La sala dei Registri Reali
 $LINE_3_10_INTRO_00_CHAR	$DRA
-$LINE_3_10_INTRO_00_TEXT	Eccovi qui, mortali: la Sala dei Registri Reali.
+$LINE_3_10_INTRO_00_TEXT	Eccovi qui, mortali: la sala dei Registri Reali.
 $LINE_3_10_INTRO_10_CHAR	$MCG
 $LINE_3_10_INTRO_10_TEXT	Che cosa c'è scritto?
 $LINE_3_10_INTRO_20_CHAR	$HEA
@@ -1779,7 +1779,7 @@ $LINE_3_10_INTRO_250_TEXT	I culti dei bevitori di sangue? Mio nonno passò buona
 $LINE_3_10_INTRO_260_CHAR	$RAN
 $LINE_3_10_INTRO_260_TEXT	Oh, in realtà non lo bevono, si limitano a... usarlo per dipingere.
 $LINE_3_10_INTRO_270_CHAR	$BER
-$LINE_3_10_INTRO_270_TEXT	Bene, tutto questo è molto interessante eccetera eccetera, ma ci sono un casino di Revenant che stanno venendo da questa parte...
+$LINE_3_10_INTRO_270_TEXT	Bene, tutto questo è molto interessante eccetera eccetera, ma ci sono un casino di revenant che stanno venendo da questa parte...
 $LINE_3_10_INTRO_280_CHAR	$BER
 $LINE_3_10_INTRO_280_TEXT	Oh, ma non dovete fare niente. Ho solo pensato che vi avrebbe fatto piacere guardarmi mentre risolvo la situazione da solo.
 $LINE_3_10_INTRO_290_CHAR	$BER
@@ -1803,7 +1803,7 @@ $LINE_3_10_INTRO_370_TEXT	Solo una metà.
 $LINE_3_10_INTRO_380_CHAR	$BER
 $LINE_3_10_INTRO_380_TEXT	Che ne dici della parte proprio lì sotto?  È un muscolo completamente diverso?  Voglio dire, in quel caso mi seccherebbe non avergli dato un nome, ma... non sono sicuro... sembra...
 $LINE_3_10_INTRO_390_CHAR	$RAN
-$LINE_3_10_INTRO_390_TEXT	Ehi gente! I Revenant sono arrivati, grazie al cielo!
+$LINE_3_10_INTRO_390_TEXT	Ehi gente! I revenant sono arrivati, grazie al cielo!
 $SCENE_3_10_OUTRO_TITLE	Pausa drammatica
 $LINE_3_10_OUTRO_00_CHAR	$MCG
 $LINE_3_10_OUTRO_00_TEXT	Quello dovrebbe essere l'ultimo.
@@ -1887,7 +1887,7 @@ $LINE_3_11_INTRO_250_TEXT	...Amico mio, speravo avresti capito.
 $LINE_3_11_INTRO_260_CHAR	$HEA
 $LINE_3_11_INTRO_260_TEXT	No.
 $LINE_3_11_INTRO_270_CHAR	$HEA
-$LINE_3_11_INTRO_270_TEXT	Non ti lascerò assassinare un'altra vita innocente.
+$LINE_3_11_INTRO_270_TEXT	Non ti lascerò uccidere un'altra vita innocente.
 $LINE_3_11_INTRO_280_CHAR	ZELEMIR
 $LINE_3_11_INTRO_280_TEXT	E io non mi lascerò legare le mani dall'innocenza mentre il mondo sta bruciando!
 $LINE_3_11_INTRO_290_CHAR	ZELEMIR
@@ -2002,7 +2002,7 @@ $LINE_3_12_OUTRO_70_TEXT	Non posso affrontare la Fiamma Cosmica senza il sangue 
 $LINE_3_12_OUTRO_80_CHAR	$MAG
 $LINE_3_12_OUTRO_80_TEXT	Le vite di milioni lo reclamano.
 $LINE_3_12_OUTRO_90_CHAR	$HEA
-$LINE_3_12_OUTRO_90_TEXT	Allora salva la tua giustizia per il futuro.
+$LINE_3_12_OUTRO_90_TEXT	Allora riserva la tua giustizia per il futuro.
 $LINE_3_12_OUTRO_100_CHAR	$HEA
 $LINE_3_12_OUTRO_100_TEXT	Ora dobbiamo scappare finchè ne abbiamo il tempo!
 $LINE_3_12_OUTRO_110_CHAR	$KNI
@@ -2012,17 +2012,17 @@ $LINE_3_12_OUTRO_120_TEXT	Si?
 $LINE_3_12_OUTRO_130_CHAR	$KNI
 $LINE_3_12_OUTRO_130_TEXT	Una miriade di nemici sta per abbattersi su di noi...
 $LINE_3_12_OUTRO_140_CHAR	$KNI
-$LINE_3_12_OUTRO_140_TEXT	Non so se questo potrà essere d'aiuto... ma potrebbe aiutarvi.
+$LINE_3_12_OUTRO_140_TEXT	Non so se questo potrà esservi di alcuna utilità... ma potrebbe aiutarvi.
 $LINE_3_12_OUTRO_150_CHAR	$KNI
 $LINE_3_12_OUTRO_150_TEXT	Una volta, il più saggio maestro d'arme che abbia mai conosciuto mi disse:
 $LINE_3_12_OUTRO_160_CHAR	$KNI
-$LINE_3_12_OUTRO_160_TEXT	<LQ>Non colpire con la forza del braccio, ma con quella dell'animo, e così, corpo e mente una cosa sola, scaglia il tuo nemico lontano da te.<RQ>
+$LINE_3_12_OUTRO_160_TEXT	<LQ>Non colpire con la forza del braccio, ma con quella dell'animo, e così, corpo e mente una cosa sola, respingi il tuo nemico.<RQ>
 $LINE_3_12_OUTRO_170_CHAR	$KNI
-$LINE_3_12_OUTRO_170_TEXT	Sono passati anni prima che capissi.
+$LINE_3_12_OUTRO_170_TEXT	Passarono anni prima che capissi.
 $LINE_3_12_OUTRO_180_CHAR	$KNI
 $LINE_3_12_OUTRO_180_TEXT	Ciò che credo voles-
 $LINE_3_12_OUTRO_190_CHAR	$MCG
-$LINE_3_12_OUTRO_190_TEXT	Un momento...<LQ>forza dell'animo<RQ>...<LQ>scaglia il tuo nemico<RQ>...
+$LINE_3_12_OUTRO_190_TEXT	Un momento...<LQ>forza dell'animo<RQ>...<LQ>respingi il tuo nemico<RQ>...
 $LINE_3_12_OUTRO_200_CHAR	$MCG
 $LINE_3_12_OUTRO_200_TEXT	Ho capito!
 $LINE_3_12_OUTRO_210_CHAR	$KNI
@@ -2065,15 +2065,15 @@ $LINE_3_13_OUTRO_30_TEXT	Possa avere la pace che ha cercato in vita.
 $LINE_3_13_OUTRO_40_CHAR	$MAG
 $LINE_3_13_OUTRO_40_TEXT	Piangi per quel cane assassino?  Il vile che è sceso a patti col diavolo?
 $LINE_3_13_OUTRO_50_CHAR	$HEA
-$LINE_3_13_OUTRO_50_TEXT	Una volta è stato come un fratello per me, tanto tempo fa.
+$LINE_3_13_OUTRO_50_TEXT	Una volta, tanto tempo fa, era come un fratello per me.
 $LINE_3_13_OUTRO_60_CHAR	$MAG
-$LINE_3_13_OUTRO_60_TEXT	Ora è un nemico.
+$LINE_3_13_OUTRO_60_TEXT	Adesso è un nemico.
 $LINE_3_13_OUTRO_70_CHAR	$MAG
 $LINE_3_13_OUTRO_70_TEXT	Ha avuto la fine che meritava.
 $LINE_3_13_OUTRO_80_CHAR	$MAG
 $LINE_3_13_OUTRO_80_TEXT	Finalmente, il nostro avversario è distrutto.
 $LINE_3_13_OUTRO_90_CHAR	$MAG
-$LINE_3_13_OUTRO_90_TEXT	Possa il suo corpo marcire sotto il suolo.
+$LINE_3_13_OUTRO_90_TEXT	Possa il suo corpo marcire sottoterra.
 $LINE_3_13_OUTRO_100_CHAR	$HEA
 $LINE_3_13_OUTRO_100_TEXT	Non dobbiamo crogiolarci in questo falso senso di sicurezza.
 $LINE_3_13_OUTRO_110_CHAR	$HEA
@@ -2085,7 +2085,7 @@ $LINE_3_13_OUTRO_130_TEXT	Credete che dicesse la verità?  Se è così...
 $LINE_3_13_OUTRO_140_CHAR	$HEA
 $LINE_3_13_OUTRO_140_TEXT	*$MCG, non c'è modo di saperlo.  Zelemir... aveva ormai perso gran parte della sua lucidità, alla fine.
 $LINE_3_13_OUTRO_150_CHAR	$MCG
-$LINE_3_13_OUTRO_150_TEXT	Ma se FOSSE vero... e il mio sangue potesse davvero liberarlo-
+$LINE_3_13_OUTRO_150_TEXT	Ma se FOSSE vero... e il mio sangue potesse davvero liberarlo -
 $LINE_3_13_OUTRO_160_CHAR	$HEA
 $LINE_3_13_OUTRO_160_TEXT	Allora cosa, ti toglieresti la vita?
 $LINE_3_13_OUTRO_170_CHAR	$MCG
@@ -2097,7 +2097,7 @@ $LINE_3_13_OUTRO_190_TEXT	Zelemir ha detto che i suoi seguaci sono già alla tua
 $LINE_3_13_OUTRO_200_CHAR	$HEA
 $LINE_3_13_OUTRO_200_TEXT	Non credo che la morte li fermerebbe dal prendere il tuo sangue.
 $LINE_3_13_OUTRO_210_CHAR	$MCG
-$LINE_3_13_OUTRO_210_TEXT	Molto bene... ma continuo a pensare che sia egoista.
+$LINE_3_13_OUTRO_210_TEXT	Va bene... ma continuo a pensare che sia egoista.
 $LINE_3_13_OUTRO_220_CHAR	$HEA
 $LINE_3_13_OUTRO_220_TEXT	La vita non è egoista quando la si vive per gli altri.
 $LINE_3_13_OUTRO_230_CHAR	$HEA
@@ -2147,23 +2147,23 @@ $LINE_4_1_INTRO_70_TEXT	Come abbiamo fatto a non accorgercene prima?
 $LINE_4_1_INTRO_80_CHAR	CULTISTA SANGUINARIO
 $LINE_4_1_INTRO_80_TEXT	Il suo sangue... IL SUO SANGUE!
 $LINE_4_1_INTRO_90_CHAR	CULTISTA SANGUINARIO
-$LINE_4_1_INTRO_90_TEXT	Zelo del maestro, pervadi il mio corpo!
+$LINE_4_1_INTRO_90_TEXT	Maestro, pervadi il mio corpo con il tuo potere!
 $LINE_4_1_INTRO_100_CHAR	CULTISTA SANGUINARIO
-$LINE_4_1_INTRO_100_TEXT	COSI CHÈ POSSA ESEGUIRE LA TUA VOLONTÀ!
+$LINE_4_1_INTRO_100_TEXT	COSI CHÈ POSSA COMPIERE LA TUA VOLONTÀ!
 $PER LA GRANDE PIETRA!	
 $SCENE_4_1_OUTRO_TITLE	State pronti
 $LINE_4_1_OUTRO_00_CHAR	$MCG
 $LINE_4_1_OUTRO_00_TEXT	Che cosa diamine è stato?
 $LINE_4_1_OUTRO_10_CHAR	$MCG
-$LINE_4_1_OUTRO_10_TEXT	Si sono trasformati in Revenant da soli?
+$LINE_4_1_OUTRO_10_TEXT	Si sono trasformati in revenant da soli?
 $LINE_4_1_OUTRO_20_CHAR	$MCG
-$LINE_4_1_OUTRO_20_TEXT	E non era come le altre volte... il potere che li guidava... sembrava diverso.
+$LINE_4_1_OUTRO_20_TEXT	E non è stato come le altre volte... il potere che li guidava... sembrava diverso.
 $LINE_4_1_OUTRO_30_CHAR	$RAN
 $LINE_4_1_OUTRO_30_TEXT	Queste maschere le ho già viste ...
 $LINE_4_1_OUTRO_40_CHAR	$RAN
 $LINE_4_1_OUTRO_40_TEXT	Dipinte col sangue, ornate di pezzi di cristallo...
 $LINE_4_1_OUTRO_50_CHAR	$RAN
-$LINE_4_1_OUTRO_50_TEXT	Quelli erano cultisti del sangue, delle Tribù Anatema del lontano oriente.
+$LINE_4_1_OUTRO_50_TEXT	Quelli erano cultisti del sangue delle tribù Anatema, del lontano oriente.
 $LINE_4_1_OUTRO_60_CHAR	$RAN
 $LINE_4_1_OUTRO_60_TEXT	*Siamo fortunati ad averti con noi, $MCG.
 $LINE_4_1_OUTRO_70_CHAR	$RAN
@@ -2194,7 +2194,7 @@ $LINE_4_1_OUTRO_190_CHAR	$HEA
 $LINE_4_1_OUTRO_190_TEXT	State all'erta. Il cammino si farà sempre più difficile da qui in poi.
 $SCENE_4_2_INTRO_TITLE	Il regno del mago
 $LINE_4_2_INTRO_00_CHAR	$MCG
-$LINE_4_2_INTRO_00_TEXT	Che posto è questo? Un'altra città Quaid?
+$LINE_4_2_INTRO_00_TEXT	Che posto è questo? Un'altra città quaidiana?
 $LINE_4_2_INTRO_10_CHAR	$MAG
 $LINE_4_2_INTRO_10_TEXT	No, quest'architettura è molto diversa dalla nostra.
 $LINE_4_2_INTRO_20_CHAR	$MAG
@@ -2210,7 +2210,7 @@ $LINE_4_2_INTRO_60_TEXT	Dovevano essere sepolte in profondità nelle sabbie.
 $LINE_4_2_INTRO_70_CHAR	$MCG
 $LINE_4_2_INTRO_70_TEXT	Guardate quei graffi.
 $LINE_4_2_INTRO_80_CHAR	$MCG
-$LINE_4_2_INTRO_80_TEXT	...Credete che i Revenant possano aver riportato tutto questo alla luce?
+$LINE_4_2_INTRO_80_TEXT	...Credete che i revenant possano aver riportato tutto questo alla luce?
 $LINE_4_2_INTRO_90_CHAR	$MAG
 $LINE_4_2_INTRO_90_TEXT	Attenti!  Sembra che il mausoleo sia ancora abitato, dopotutto.
 $SCENE_4_2_OUTRO_TITLE	Nella sua dimora
@@ -2283,7 +2283,7 @@ $LINE_4_3_OUTRO_10_TEXT	Credo che siamo al sicuro... per ora.
 $LINE_4_3_OUTRO_20_CHAR	$RAN
 $LINE_4_3_OUTRO_20_TEXT	Vado a perlustrare i dintorni, per esserne sicura.
 $LINE_4_3_OUTRO_30_CHAR	VOCE MISTERIOSA
-$LINE_4_3_OUTRO_30_TEXT	Così tanti tempo...
+$LINE_4_3_OUTRO_30_TEXT	Così tanto tempo...
 $LINE_4_3_OUTRO_40_CHAR	$MCG
 $LINE_4_3_OUTRO_40_TEXT	Quella voce!
 $LINE_4_3_OUTRO_50_CHAR	EZTLI-TENOCH
@@ -2393,7 +2393,7 @@ $LINE_TREASURE_CHAMBER_OUTRO_200_TEXT	No.
 $LINE_TREASURE_CHAMBER_OUTRO_210_CHAR	$MAG
 $LINE_TREASURE_CHAMBER_OUTRO_210_TEXT	No, la vostra vita non è vostra. Non potete gettarla via!
 $LINE_TREASURE_CHAMBER_OUTRO_220_CHAR	$MAG
-$LINE_TREASURE_CHAMBER_OUTRO_220_TEXT	Appartiene a me, come pegno per le vite dela mia gente. Non avrete il lusso del suicidio!
+$LINE_TREASURE_CHAMBER_OUTRO_220_TEXT	Appartiene a me, come pegno per le vite della mia gente. Non avrete il lusso del suicidio!
 $LINE_TREASURE_CHAMBER_OUTRO_230_CHAR	$HEA
 $LINE_TREASURE_CHAMBER_OUTRO_230_TEXT	Così sia.
 $LINE_TREASURE_CHAMBER_OUTRO_240_CHAR	$HEA
@@ -2408,7 +2408,7 @@ $LINE_TREASURE_CHAMBER_OUTRO_280_CHAR	$MAG
 $LINE_TREASURE_CHAMBER_OUTRO_280_TEXT	Ora muovetevi e venite con noi.
 $SCENE_4_4_INTRO_TITLE	In trappola
 $LINE_4_4_INTRO_00_CHAR	$RAN
-$LINE_4_4_INTRO_00_TEXT	Ehi gente?  Credo di aver capito come mai in città non c'erano Revenant.
+$LINE_4_4_INTRO_00_TEXT	Ehi gente?  Credo di aver capito come mai in città non c'erano revenant.
 $LINE_4_4_INTRO_10_CHAR	$RAN
 $LINE_4_4_INTRO_10_TEXT	Ci stavano tutti aspettando qui.
 $LINE_4_4_INTRO_20_CHAR	$MCG
@@ -2449,7 +2449,7 @@ $LINE_4_4_OUTRO_20_TEXT	Be', anche quello.
 $LINE_4_4_OUTRO_30_CHAR	$RAN
 $LINE_4_4_OUTRO_30_TEXT	Ma non c'è più niente qui attorno.
 $LINE_4_4_OUTRO_40_CHAR	$RAN
-$LINE_4_4_OUTRO_40_TEXT	Neanche un singolo Revenant.
+$LINE_4_4_OUTRO_40_TEXT	Neanche un singolo revenant.
 $LINE_4_4_OUTRO_50_CHAR	$RAN
 $LINE_4_4_OUTRO_50_TEXT	Non ci segue più nessuno.
 $SCENE_4_5_INTRO_TITLE	La Mano Destra di<N>Eztli-Tenoch
@@ -2492,7 +2492,7 @@ $LINE_4_5_OUTRO_70_TEXT	Il loro sacrificio salverà il mondo.
 $LINE_4_5_OUTRO_80_CHAR	ZELEMIR
 $LINE_4_5_OUTRO_80_TEXT	In questo preciso momento, la tua prole è sparsa nelle miniere sotterranee della Valle, in attesa del mio segnale.
 $LINE_4_5_OUTRO_90_CHAR	ZELEMIR
-$LINE_4_5_OUTRO_90_TEXT	Quando darò l'ordine, questi draghi Revenant incendieranno i depositi di minerale.
+$LINE_4_5_OUTRO_90_TEXT	Quando darò l'ordine, questi draghi revenant incendieranno i depositi di minerale.
 $LINE_4_5_OUTRO_100_CHAR	ZELEMIR
 $LINE_4_5_OUTRO_100_TEXT	La Valle collasserà su se stessa...
 $LINE_4_5_OUTRO_110_CHAR	ZELEMIR
@@ -2537,11 +2537,11 @@ $LINE_4_6_INTRO_00_TEXT	Te ne vai e basta?
 $LINE_4_6_INTRO_10_CHAR	$MCG
 $LINE_4_6_INTRO_10_TEXT	Non vedo quale altra scelta abbia.
 $LINE_4_6_INTRO_20_CHAR	$MAG
-$LINE_4_6_INTRO_20_TEXT	Io non resterò a guardare mentre ciò che rimane della mia gente viene sacrificata!
+$LINE_4_6_INTRO_20_TEXT	Io non resterò a guardare mentre ciò che rimane della mia gente viene sacrificato!
 $LINE_4_6_INTRO_30_CHAR	$MAG
 $LINE_4_6_INTRO_30_TEXT	E dire che ti ho quasi considerato un'amica...
 $LINE_4_6_INTRO_40_CHAR	$MAG
-$LINE_4_6_INTRO_40_TEXT	...un giorno imparerai che è meglio morire con i tuoi compagni, che vivere per sempre da sola.
+$LINE_4_6_INTRO_40_TEXT	... un giorno imparerai che è meglio morire con i propri compagni che vivere per sempre da sola.
 $LINE_4_6_INTRO_50_CHAR	$MAG
 $LINE_4_6_INTRO_50_TEXT	Possa essere per te un'amara lezione.
 $LINE_4_6_INTRO_60_CHAR	$MCG
@@ -2555,7 +2555,7 @@ $LINE_4_6_INTRO_90_TEXT	Devi andartene per salvaguardare il futuro.
 $LINE_4_6_INTRO_100_CHAR	$HEA
 $LINE_4_6_INTRO_100_TEXT	Io devo morire per il passato che ho creato.
 $LINE_4_6_INTRO_110_CHAR	$MCG
-$LINE_4_6_INTRO_110_TEXT	Addio, $HEA.
+$LINE_4_6_INTRO_110_TEXT	Addio, amico mio.
 $LINE_4_6_INTRO_120_CHAR	$HEA
 $LINE_4_6_INTRO_120_TEXT	Che la via di Selinadt ti guidi.
 $LINE_4_6_INTRO_130_CHAR	$DRA
@@ -2581,7 +2581,7 @@ $LINE_4_6_INTRO_220_TEXT	Ci siamo divertiti un sacco insieme, ma non posso rinun
 $LINE_4_6_INTRO_230_CHAR	$BER
 $LINE_4_6_INTRO_230_TEXT	Non sono mai scappato da una battaglia in vita mia.
 $LINE_4_6_INTRO_240_CHAR	$MCG
-$LINE_4_6_INTRO_240_TEXT	Questo non è una battaglia, è un suicidio!
+$LINE_4_6_INTRO_240_TEXT	Questa non è una battaglia, è un suicidio!
 $LINE_4_6_INTRO_250_CHAR	$BER
 $LINE_4_6_INTRO_250_TEXT	Oh, non lo so.  Finora sono sopravvissuto a tutto il resto.  Se il mio destino era morire, penso che lo avrei già fatto.
 $LINE_4_6_INTRO_260_CHAR	$BER
@@ -2621,7 +2621,7 @@ $LINE_4_6_INTRO_420_TEXT	Ti rendi conto che stai andando a morire, vero?
 $LINE_4_6_INTRO_430_CHAR	$BER
 $LINE_4_6_INTRO_430_TEXT	Certo.
 $LINE_4_6_INTRO_440_CHAR	$RAN
-$LINE_4_6_INTRO_440_TEXT	Allora... questo non fi fa, non lo so, venire voglia di ripensarci due volte?
+$LINE_4_6_INTRO_440_TEXT	Allora... questo non ti fa, non lo so, venire voglia di ripensarci due volte?
 $LINE_4_6_INTRO_450_CHAR	$BER
 $LINE_4_6_INTRO_450_TEXT	*Ascolta, $RAN, per tutta la nostra vita tu e io siamo stati dei sopravvissuti.
 $LINE_4_6_INTRO_460_CHAR	$BER
@@ -2667,7 +2667,7 @@ $LINE_ENDING_4_6_OUTRO_110_CHAR	$KNI
 $LINE_ENDING_4_6_OUTRO_110_TEXT	Non rimproveratevi di esservi sopravvissuta.
 $LINE_ENDING_4_6_OUTRO_120_CHAR	$MCG
 $LINE_ENDING_4_6_OUTRO_120_TEXT	...
-$SCENE_4_7_INTRO_TITLE	Seguendo Zelemir
+$SCENE_4_7_INTRO_TITLE	All'inseguimento di Zelemir
 $LINE_4_7_INTRO_00_CHAR	$MCG
 $LINE_4_7_INTRO_00_TEXT	So che il piano di Zelemir salverebbe il mondo...
 $LINE_4_7_INTRO_10_CHAR	$MCG
@@ -2677,27 +2677,27 @@ $LINE_4_7_INTRO_20_TEXT	Il prezzo è troppo alto.
 $LINE_4_7_INTRO_30_CHAR	$HEA
 $LINE_4_7_INTRO_30_TEXT	Sei consapevole dei rischi che ti aspettano?
 $LINE_4_7_INTRO_40_CHAR	$HEA
-$LINE_4_7_INTRO_40_TEXT	Non gli consentirò di andare avanti col suo piano, ma lasciarti venire con noi metterà tutto a repentaglio.
+$LINE_4_7_INTRO_40_TEXT	Non gli consentirò di portare avanti il suo piano, ma lasciarti venire con noi metterà tutto a repentaglio.
 $LINE_4_7_INTRO_50_CHAR	$MCG
-$LINE_4_7_INTRO_50_TEXT	Non avrete nessuna possibilità di vittoria se non ci sarò anch'io. Lo sapete bene.
+$LINE_4_7_INTRO_50_TEXT	Non avreste alcuna possibilità di vittoria senza di me. Lo sapete bene.
 $LINE_4_7_INTRO_60_CHAR	$HEA
 $LINE_4_7_INTRO_60_TEXT	Molto bene, è una tua scelta.
 $LINE_4_7_INTRO_70_CHAR	$BER
-$LINE_4_7_INTRO_70_TEXT	Evvai!  È tempo di una bella carica suicida!
+$LINE_4_7_INTRO_70_TEXT	Evvai! È tempo di una bella carica suicida!
 $LINE_4_7_INTRO_80_CHAR	$BER
-$LINE_4_7_INTRO_80_TEXT	Quanto mi piace la violenza!
+$LINE_4_7_INTRO_80_TEXT	Quanto adoro la violenza!
 $LINE_4_7_INTRO_90_CHAR	$MAG
-$LINE_4_7_INTRO_90_TEXT	Sono con te.  Non permetterò a quel mostro di distruggere ciò che resta della mia gente.
+$LINE_4_7_INTRO_90_TEXT	Sono con te. Non permetterò a quel mostro di distruggere ciò che resta della mia gente.
 $LINE_4_7_INTRO_100_CHAR	$DRA
-$LINE_4_7_INTRO_100_TEXT	Il tuo coraggio supera te stessa, mortale.  Ben fatto.
+$LINE_4_7_INTRO_100_TEXT	Il tuo coraggio supera te stessa, mortale. Ben fatto.
 $LINE_4_7_INTRO_110_CHAR	$DRA
 $LINE_4_7_INTRO_110_TEXT	I miei figli non resteranno invendicati.
 $LINE_4_7_INTRO_120_CHAR	$RAN
-$LINE_4_7_INTRO_120_TEXT	È fantastico che tu abbia tutti questi grandi principi morali, ma io taglio la corda.
+$LINE_4_7_INTRO_120_TEXT	È magnifico che tu abbia tutti questi grandi principi morali, ma io taglio la corda.
 $LINE_4_7_INTRO_130_CHAR	$RAN
-$LINE_4_7_INTRO_130_TEXT	Non ho combattuto fin qui solo per gettare via la mia vita tornando indietro all'ultimo momento.
+$LINE_4_7_INTRO_130_TEXT	Non ho combattuto fin qui solo per gettare via la mia vita tornando indietro all'ultimo istante.
 $LINE_4_7_INTRO_140_CHAR	$MCG
-$LINE_4_7_INTRO_140_TEXT	Ti capisco.
+$LINE_4_7_INTRO_140_TEXT	Sì, lo capisco.
 $LINE_4_7_INTRO_150_CHAR	$RAN
 $LINE_4_7_INTRO_150_TEXT	Be'... addio.
 $LINE_4_7_INTRO_160_CHAR	$MCG
@@ -2715,22 +2715,22 @@ $LINE_4_7_INTRO_210_TEXT	Certo.
 $LINE_4_7_INTRO_220_CHAR	$RAN
 $LINE_4_7_INTRO_220_TEXT	Allora... questo non ti fa, non lo so, venire voglia di pensarci due volte?
 $LINE_4_7_INTRO_230_CHAR	$BER
-$LINE_4_7_INTRO_230_TEXT	*Ascolta, $RAN, tu ed io siamo stati dei sopravvissuti per tutta la vita.
+$LINE_4_7_INTRO_230_TEXT	*Ascolta, $RAN, per tutta la vita tu e io siamo stati dei sopravvissuti.
 $LINE_4_7_INTRO_240_CHAR	$BER
-$LINE_4_7_INTRO_240_TEXT	Ma non può continuare per sempre.  Un giorno o l'altro la vita finisce.
+$LINE_4_7_INTRO_240_TEXT	Ma non si può continuare così per sempre. Prima o poi la vita finisce.
 $LINE_4_7_INTRO_250_CHAR	$BER
-$LINE_4_7_INTRO_250_TEXT	Questa è l'occasione per dargli un significato.
+$LINE_4_7_INTRO_250_TEXT	Questa è l'occasione per darle un significato.
 $LINE_4_7_INTRO_260_CHAR	$RAN
 $LINE_4_7_INTRO_260_TEXT	*$BER...
 $LINE_4_7_INTRO_270_CHAR	$BER
-$LINE_4_7_INTRO_270_TEXT	Inoltre, in questo modo non dovrò più restituirti tutta la roba che ti devo.
+$LINE_4_7_INTRO_270_TEXT	E poi, in questo modo non dovrò più restituirti tutta la roba che ti devo.
 $LINE_4_7_INTRO_280_CHAR	$BER
 $LINE_4_7_INTRO_280_TEXT	Ci vediamo!
 $LINE_4_7_INTRO_290_CHAR	$RAN
-$LINE_4_7_INTRO_290_TEXT	...addio...
+$LINE_4_7_INTRO_290_TEXT	... addio...
 $SCENE_4_7_OUTRO_TITLE	Moltitudine
 $LINE_4_7_OUTRO_00_CHAR	$KNI
-$LINE_4_7_OUTRO_00_TEXT	L'avanguardia è sconfitta, ma il corpo principale si sta muovendo per accerchiarci.
+$LINE_4_7_OUTRO_00_TEXT	Abbiamo sconfitto l'avanguardia, ma ora il corpo principale si sta muovendo per accerchiarci.
 $LINE_4_7_OUTRO_10_CHAR	$KNI
 $LINE_4_7_OUTRO_10_TEXT	Se cercheremo di aggirarlo, temo che non riusciremo a raggiungere Zelemir in tempo.
 $LINE_4_7_OUTRO_20_CHAR	$MCG
@@ -2763,7 +2763,7 @@ $LINE_4_8_INTRO_10_TEXT	L'armata principale.
 $LINE_4_8_INTRO_20_CHAR	$BER
 $LINE_4_8_INTRO_20_TEXT	Di sicuro ce ne sono parecchi.
 $LINE_4_8_INTRO_30_CHAR	$MAG
-$LINE_4_8_INTRO_30_TEXT	Io sono la figlia del fuoco, chiunque si opporrà a me brucerà.
+$LINE_4_8_INTRO_30_TEXT	Io sono la Figlia del Fuoco, chiunque si opporrà a me brucerà.
 $LINE_4_8_INTRO_40_CHAR	$BER
 $LINE_4_8_INTRO_40_TEXT	Ragazzi, vorrei proprio avere un grido di battaglia migliore...
 $LINE_4_8_INTRO_50_CHAR	$BER
@@ -2775,11 +2775,11 @@ $LINE_4_8_INTRO_70_TEXT	Dovresti tenerlo.
 $LINE_4_8_INTRO_80_CHAR	$BER
 $LINE_4_8_INTRO_80_TEXT	Ehi. Sei tornata.
 $LINE_4_8_INTRO_90_CHAR	$RAN
-$LINE_4_8_INTRO_90_TEXT	Ehi. A quanto pare.
+$LINE_4_8_INTRO_90_TEXT	Ehi. Sembra di sì.
 $LINE_4_8_INTRO_100_CHAR	$BER
 $LINE_4_8_INTRO_100_TEXT	Lo sai che non ti restituirò niente lo stesso, vero?
 $LINE_4_8_INTRO_110_CHAR	$RAN
-$LINE_4_8_INTRO_110_TEXT	Per il momento concentriamoci solo sulla carica suicida, va bene?
+$LINE_4_8_INTRO_110_TEXT	Per il momento concentriamoci sulla carica suicida, va bene?
 $LINE_4_8_INTRO_120_CHAR	$BER
 $LINE_4_8_INTRO_120_TEXT	Ok, ma prima...!
 $LINE_4_8_INTRO_130_CHAR	$RAN
@@ -2793,7 +2793,7 @@ $LINE_4_8_INTRO_160_TEXT	Perchè siamo così fighi che ci salutiamo battendo i p
 $LINE_4_8_INTRO_170_CHAR	$RAN
 $LINE_4_8_INTRO_170_TEXT	Ok, sono tornata - ma adesso non ti allargare.
 $LINE_4_8_INTRO_180_CHAR	$BER
-$LINE_4_8_INTRO_180_TEXT	...sei una sfigata.
+$LINE_4_8_INTRO_180_TEXT	... sei una sfigata.
 $LINE_4_8_INTRO_190_CHAR	$RAN
 $LINE_4_8_INTRO_190_TEXT	Senti, vediamo di sbrigarci a morire, ok?
 $LINE_4_8_INTRO_200_CHAR	$BER
@@ -2837,7 +2837,7 @@ $LINE_4_9_INTRO_100_TEXT	*$MCG, ho già ucciso milioni di persone...
 $LINE_4_9_INTRO_110_CHAR	ZELEMIR
 $LINE_4_9_INTRO_110_TEXT	Con solo qualche migliaio in più posso fermare tutto questo. Fermare lui.
 $LINE_4_9_INTRO_120_CHAR	ZELEMIR
-$LINE_4_9_INTRO_120_TEXT	Queste vite non saranno altro che una piccola goccia nel mare di cui sono già colpevole.
+$LINE_4_9_INTRO_120_TEXT	Queste morti non saranno altro che una piccola goccia nel mare di cui sono già colpevole.
 $LINE_4_9_INTRO_130_CHAR	$MCG
 $LINE_4_9_INTRO_130_TEXT	Non ne sarò colpevole anch'io!
 $SCENE_4_9_OUTRO_TITLE	Troppo tardi
@@ -2852,11 +2852,11 @@ $LINE_4_9_OUTRO_30_TEXT	Ed ora...
 $LINE_4_9_OUTRO_40_CHAR	ZELEMIR
 $LINE_4_9_OUTRO_40_TEXT	La Valle collasserà...
 $LINE_4_9_OUTRO_50_CHAR	ZELEMIR
-$LINE_4_9_OUTRO_50_TEXT	...e tutti noi daremo la vita per intrappolare per sempre Eztli-Tenoch.
+$LINE_4_9_OUTRO_50_TEXT	... e tutti noi daremo la vita per intrappolare per sempre Eztli-Tenoch.
 $LINE_4_9_OUTRO_60_CHAR	$MCG
 $LINE_4_9_OUTRO_60_TEXT	Non puoi uccidere tutta questa gente...
 $LINE_4_9_OUTRO_70_CHAR	$MCG
-$LINE_4_9_OUTRO_70_TEXT	...no...
+$LINE_4_9_OUTRO_70_TEXT	... no...
 $LINE_4_9_OUTRO_80_CHAR	$MCG
 $LINE_4_9_OUTRO_80_TEXT	NO!
 $SCENE_FINAL_INTRO_TITLE	Eztli-Tenoch
@@ -2903,15 +2903,15 @@ $NARR_ENDING_ZELEMIR_DEAD_90_TEXT	Finalmente sono tutti d'accordo.
 $NARR_ENDING_ZELEMIR_DEAD_100_TEXT	La mia vita è cambiata per sempre.
 $NARR_ENDING_ZELEMIR_DEAD_110_TEXT	E così il mondo.
 $LINE_ENDING_ZELEMIR_DEAD_00_CHAR	$HEA
-$LINE_ENDING_ZELEMIR_DEAD_00_TEXT	...Potremmo non essere in grado di raggiungerlo...
+$LINE_ENDING_ZELEMIR_DEAD_00_TEXT	... Potremmo non essere in grado di raggiungerlo...
 $LINE_ENDING_ZELEMIR_DEAD_10_CHAR	$HEA
-$LINE_ENDING_ZELEMIR_DEAD_10_TEXT	...ma possiamo intrappolarlo!
+$LINE_ENDING_ZELEMIR_DEAD_10_TEXT	... ma possiamo intrappolarlo!
 $LINE_ENDING_ZELEMIR_DEAD_20_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_DEAD_20_TEXT	Reverendo?
 $LINE_ENDING_ZELEMIR_DEAD_30_CHAR	$HEA
 $LINE_ENDING_ZELEMIR_DEAD_30_TEXT	Un nuovo sigillo di sangue, per imprigionarlo nel regno in cui si è rifugiato.
 $LINE_ENDING_ZELEMIR_DEAD_40_CHAR	$MCG
-$LINE_ENDING_ZELEMIR_DEAD_40_TEXT	$HEA, no!
+$LINE_ENDING_ZELEMIR_DEAD_40_TEXT	*$HEA, no!
 $LINE_ENDING_ZELEMIR_DEAD_50_CHAR	$HEA
 $LINE_ENDING_ZELEMIR_DEAD_50_TEXT	È così che deve andare.
 $LINE_ENDING_ZELEMIR_DEAD_60_CHAR	$HEA
@@ -2995,7 +2995,7 @@ $LINE_ENDING_ZELEMIR_DEAD_440_TEXT	Siete rimasti in così pochi...
 $LINE_ENDING_ZELEMIR_DEAD_450_CHAR	$MAG
 $LINE_ENDING_ZELEMIR_DEAD_450_TEXT	Siamo tutto ciò che rimane dell'Impero Quaid.
 $LINE_ENDING_ZELEMIR_DEAD_460_CHAR	$MAG
-$LINE_ENDING_ZELEMIR_DEAD_460_TEXT	Risorgeremo alla gloria, o moriremo tra le rovine del nostro popolo.
+$LINE_ENDING_ZELEMIR_DEAD_460_TEXT	Ritorneremo alla gloria, o moriremo tra le rovine del nostro popolo.
 $LINE_ENDING_ZELEMIR_DEAD_470_CHAR	$MAG
 $LINE_ENDING_ZELEMIR_DEAD_470_TEXT	Non c'è altra possibilità.
 $LINE_ENDING_ZELEMIR_DEAD_480_CHAR	$MCG
@@ -3003,13 +3003,13 @@ $LINE_ENDING_ZELEMIR_DEAD_480_TEXT	Ma senza nessun potere...
 $LINE_ENDING_ZELEMIR_DEAD_490_CHAR	$MAG
 $LINE_ENDING_ZELEMIR_DEAD_490_TEXT	Sono lieta di essermi liberata di quel ghiaccio... anche se...  è strano... ormai mi ci ero abituata.
 $LINE_ENDING_ZELEMIR_DEAD_500_CHAR	$MCG
-$LINE_ENDING_ZELEMIR_DEAD_500_TEXT	Si, mi sento quasi incompleta senza i miei poteri.
+$LINE_ENDING_ZELEMIR_DEAD_500_TEXT	Sì, mi sento quasi incompleta senza i miei poteri.
 $LINE_ENDING_ZELEMIR_DEAD_510_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_DEAD_510_TEXT	Immagino che la magia di Eztli-Tenoch sia sparita con lui.
 $LINE_ENDING_ZELEMIR_DEAD_520_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_DEAD_520_TEXT	Anche i piccoli frammenti che albergavano in noi.
 $LINE_ENDING_ZELEMIR_DEAD_530_CHAR	$MCG
-$LINE_ENDING_ZELEMIR_DEAD_530_TEXT	*Sono sicura che il Reverendo $HEA avrebbe saputo perchè è successo...
+$LINE_ENDING_ZELEMIR_DEAD_530_TEXT	*Sono sicura che il Reverendo $HEA ci avrebbe saputo dire perchè è successo...
 $LINE_ENDING_ZELEMIR_DEAD_540_CHAR	$MAG
 $LINE_ENDING_ZELEMIR_DEAD_540_TEXT	*Era un grande uomo, $MCG.
 $LINE_ENDING_ZELEMIR_DEAD_550_CHAR	$MAG
@@ -3094,12 +3094,12 @@ $LINE_ENDING_ZELEMIR_DEAD_940_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_DEAD_940_TEXT	Datemi solo un momento.
 $LINE_ENDING_ZELEMIR_DEAD_950_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_DEAD_950_TEXT	...
-$SCENE_ENDING_ZELEMIR_WOUNDED_TITLE	  Un epilogo dolceamaro
+$SCENE_ENDING_ZELEMIR_WOUNDED_TITLE	Un epilogo dolceamaro
 $NARR_ENDING_ZELEMIR_WOUNDED_00_TEXT	Discutiamo per giorni.
 $NARR_ENDING_ZELEMIR_WOUNDED_10_TEXT	Le carovane nomadi sono felici di barattare cibo con il nostro oro.
 $NARR_ENDING_ZELEMIR_WOUNDED_20_TEXT	I vari capi dei rifugiati vengono ascoltati.
 $NARR_ENDING_ZELEMIR_WOUNDED_30_TEXT	Ma siamo tutti troppo felici di essere vivi per litigare.
-$NARR_ENDING_ZELEMIR_WOUNDED_40_TEXT	Ci sembra ancora strano respirare di nuovo aria fresca.
+$NARR_ENDING_ZELEMIR_WOUNDED_40_TEXT	Ancora ci sembra strano respirare di nuovo aria fresca.
 $NARR_ENDING_ZELEMIR_WOUNDED_50_TEXT	Finalmente tutti sono d'accordo.
 $LINE_ENDING_ZELEMIR_WOUNDED_00_CHAR	$RAN
 $LINE_ENDING_ZELEMIR_WOUNDED_00_TEXT	*$MCG, la Valle sta collassando!
@@ -3164,13 +3164,13 @@ $LINE_ENDING_ZELEMIR_WOUNDED_280_TEXT	Vi impongo di portare via queste disgustos
 $LINE_ENDING_ZELEMIR_WOUNDED_290_CHAR	$DRA
 $LINE_ENDING_ZELEMIR_WOUNDED_290_TEXT	Puzzano della vostra specie.
 $LINE_ENDING_ZELEMIR_WOUNDED_300_CHAR	$DRA
-$LINE_ENDING_ZELEMIR_WOUNDED_300_TEXT	Non sono degli di una dea.
+$LINE_ENDING_ZELEMIR_WOUNDED_300_TEXT	Non sono degni di una dea.
 $LINE_ENDING_ZELEMIR_WOUNDED_310_CHAR	$MAG
-$LINE_ENDING_ZELEMIR_WOUNDED_310_TEXT	...Grazie...
+$LINE_ENDING_ZELEMIR_WOUNDED_310_TEXT	... Grazie...
 $LINE_ENDING_ZELEMIR_WOUNDED_320_CHAR	$DRA
 $LINE_ENDING_ZELEMIR_WOUNDED_320_TEXT	Cosa? Hai frainteso, mortale! Questo è un ordine!
 $LINE_ENDING_ZELEMIR_WOUNDED_330_CHAR	$DRA
-$LINE_ENDING_ZELEMIR_WOUNDED_330_TEXT	Fate sparire questi obrobri!
+$LINE_ENDING_ZELEMIR_WOUNDED_330_TEXT	Fate sparire questi obbrobri!
 $LINE_ENDING_ZELEMIR_WOUNDED_340_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_WOUNDED_340_TEXT	Certamente, o potente.
 $LINE_ENDING_ZELEMIR_WOUNDED_350_CHAR	$MCG
@@ -3184,7 +3184,7 @@ $LINE_ENDING_ZELEMIR_WOUNDED_380_TEXT	Devo trovare un compagno per allevare i mi
 $LINE_ENDING_ZELEMIR_WOUNDED_390_CHAR	$DRA
 $LINE_ENDING_ZELEMIR_WOUNDED_390_TEXT	Queste ali rovinate non possono più tramandare la gloria del volo.
 $LINE_ENDING_ZELEMIR_WOUNDED_400_CHAR	$MAG
-$LINE_ENDING_ZELEMIR_WOUNDED_400_TEXT	Addio, o Grandissima.  Che la fiamma ti accompagni sempre.
+$LINE_ENDING_ZELEMIR_WOUNDED_400_TEXT	Addio, o grandissima.  Che la fiamma ti accompagni sempre.
 $LINE_ENDING_ZELEMIR_WOUNDED_410_CHAR	$DRA
 $LINE_ENDING_ZELEMIR_WOUNDED_410_TEXT	Anche a voi...
 $LINE_ENDING_ZELEMIR_WOUNDED_420_CHAR	$MAG
@@ -3198,7 +3198,7 @@ $LINE_ENDING_ZELEMIR_WOUNDED_450_TEXT	*$MAG.
 $LINE_ENDING_ZELEMIR_WOUNDED_460_CHAR	$MAG
 $LINE_ENDING_ZELEMIR_WOUNDED_460_TEXT	*$MCG.
 $LINE_ENDING_ZELEMIR_WOUNDED_470_CHAR	$MAG
-$LINE_ENDING_ZELEMIR_WOUNDED_470_TEXT	Mi sembra strano dover dire addio a $HEA...
+$LINE_ENDING_ZELEMIR_WOUNDED_470_TEXT	*Mi sembra strano dover dire addio a $HEA...
 $LINE_ENDING_ZELEMIR_WOUNDED_480_CHAR	$MAG
 $LINE_ENDING_ZELEMIR_WOUNDED_480_TEXT	Gli devo la vita.
 $LINE_ENDING_ZELEMIR_WOUNDED_490_CHAR	$MAG
@@ -3206,7 +3206,7 @@ $LINE_ENDING_ZELEMIR_WOUNDED_490_TEXT	E adesso è andato in un posto in cui non 
 $LINE_ENDING_ZELEMIR_WOUNDED_500_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_WOUNDED_500_TEXT	Credo che il miglior modo di ripagarlo sia risanare le ferite che ha causato...
 $LINE_ENDING_ZELEMIR_WOUNDED_510_CHAR	$MCG
-$LINE_ENDING_ZELEMIR_WOUNDED_510_TEXT	...è quello che lui vorrebbe.
+$LINE_ENDING_ZELEMIR_WOUNDED_510_TEXT	... è quello che lui vorrebbe.
 $LINE_ENDING_ZELEMIR_WOUNDED_520_CHAR	$MAG
 $LINE_ENDING_ZELEMIR_WOUNDED_520_TEXT	Oh, ricostruiremo, amica mia.
 $LINE_ENDING_ZELEMIR_WOUNDED_530_CHAR	$MAG
@@ -3282,7 +3282,7 @@ $LINE_ENDING_ZELEMIR_WOUNDED_870_TEXT	No... ho cambiato idea.
 $LINE_ENDING_ZELEMIR_WOUNDED_880_CHAR	$RAN
 $LINE_ENDING_ZELEMIR_WOUNDED_880_TEXT	È solo che...
 $LINE_ENDING_ZELEMIR_WOUNDED_890_CHAR	$RAN
-$LINE_ENDING_ZELEMIR_WOUNDED_890_TEXT	C'è un mondo intero la fuori.
+$LINE_ENDING_ZELEMIR_WOUNDED_890_TEXT	C'è un mondo intero là fuori.
 $LINE_ENDING_ZELEMIR_WOUNDED_900_CHAR	$RAN
 $LINE_ENDING_ZELEMIR_WOUNDED_900_TEXT	E forse qualche altro Geka è sopravvissuto.
 $LINE_ENDING_ZELEMIR_WOUNDED_910_CHAR	$RAN
@@ -3349,7 +3349,7 @@ $LINE_ENDING_ZELEMIR_UNSCATHED_30_TEXT	Aspetta! Se ho inviato Zelemir nell'altro
 $LINE_ENDING_ZELEMIR_UNSCATHED_40_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_UNSCATHED_40_TEXT	Allora forse posso anche mandare... tutti quanti noi...
 $LINE_ENDING_ZELEMIR_UNSCATHED_50_CHAR	$RAN
-$LINE_ENDING_ZELEMIR_UNSCATHED_50_TEXT	Come, voi dire... dall'altra parte?
+$LINE_ENDING_ZELEMIR_UNSCATHED_50_TEXT	Come, vuoi dire... dall'altra parte?
 $LINE_ENDING_ZELEMIR_UNSCATHED_60_CHAR	$RAN
 $LINE_ENDING_ZELEMIR_UNSCATHED_60_TEXT	Grazie mille, ma preferisco finire spiaccicata nel crollo.
 $LINE_ENDING_ZELEMIR_UNSCATHED_70_CHAR	$MCG
@@ -3549,7 +3549,7 @@ $LINE_ENDING_ZELEMIR_UNSCATHED_970_TEXT	...GLORIOSO TURBANTE DELLA VIOLENZA!
 $LINE_ENDING_ZELEMIR_UNSCATHED_980_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_UNSCATHED_980_TEXT	Mi fa piacere vedere che hai già dei programmi.
 $LINE_ENDING_ZELEMIR_UNSCATHED_990_CHAR	$BER
-$LINE_ENDING_ZELEMIR_UNSCATHED_990_TEXT	Ma guardami, fermo qui a parlare mentre ci sono un sacco di atti di violenza gratuita da perpetuare!
+$LINE_ENDING_ZELEMIR_UNSCATHED_990_TEXT	Ma guardami, fermo qui a parlare mentre ci sono un sacco di atti di violenza gratuita da perpetrare!
 $LINE_ENDING_ZELEMIR_UNSCATHED_1000_CHAR	$MCG
 $LINE_ENDING_ZELEMIR_UNSCATHED_1000_TEXT	Fatti sentire ogni tanto!
 $LINE_ENDING_ZELEMIR_UNSCATHED_1010_CHAR	$MCG
@@ -3753,7 +3753,7 @@ $LINE_SIDEQUEST_1_GET_210_TEXT	Ehi! Aspetta! Non si può scappare via da una fai
 $LINE_SIDEQUEST_1_GET_220_CHAR	$MCG
 $LINE_SIDEQUEST_1_GET_220_TEXT	Tu puoi fare la ladruncola da strapazzo se proprio vuoi, io ora vado a salvare quei bambini.
 $LINE_SIDEQUEST_1_GET_230_CHAR	$RAN
-$LINE_SIDEQUEST_1_GET_230_TEXT	Sei pazza? Tutti i Revenant di Ozimal ci stanno dando la caccia!
+$LINE_SIDEQUEST_1_GET_230_TEXT	Sei pazza? Tutti i revenant di Ozimal ci stanno dando la caccia!
 $LINE_SIDEQUEST_1_GET_240_CHAR	$MCG
 $LINE_SIDEQUEST_1_GET_240_TEXT	E tornare alla prigione è l'ultima cosa che si aspetteranno.
 $LINE_SIDEQUEST_1_GET_250_CHAR	$RAN
@@ -3792,7 +3792,7 @@ $LINE_SIDEQUEST_1_INTRO_110_TEXT	Scommetto un paio di stivali e un pugnale arrug
 $LINE_SIDEQUEST_1_INTRO_120_CHAR	$MCG
 $LINE_SIDEQUEST_1_INTRO_120_TEXT	...
 $LINE_SIDEQUEST_1_INTRO_130_CHAR	$BER
-$LINE_SIDEQUEST_1_INTRO_130_TEXT	Oh, e c'è anche un gruppo di Revenant diretto da questa parte.
+$LINE_SIDEQUEST_1_INTRO_130_TEXT	Oh, e c'è anche un gruppo di revenant diretto da questa parte.
 $LINE_SIDEQUEST_1_INTRO_140_CHAR	$MCG
 $LINE_SIDEQUEST_1_INTRO_140_TEXT	Bello.
 $SCENE_SIDEQUEST_1_OUTRO_TITLE	Faida pratica
@@ -3804,7 +3804,7 @@ $LINE_SIDEQUEST_1_OUTRO_20_CHAR	$BER
 $LINE_SIDEQUEST_1_OUTRO_20_TEXT	Vero? VERO?
 $LINE_SIDEQUEST_1_OUTRO_30_CHAR	$BER
 $LINE_SIDEQUEST_1_OUTRO_30_TEXT	Oh, già, è quello che avete detto.
-$LINE_SIDEQUEST_1_OUTRO_40_CHAR	PRISONER
+$LINE_SIDEQUEST_1_OUTRO_40_CHAR	PRIGIONIERA
 $LINE_SIDEQUEST_1_OUTRO_40_TEXT	Mi scusi signor pazzo, ma cos'è successo qui?
 $LINE_SIDEQUEST_1_OUTRO_50_CHAR	$BER
 $LINE_SIDEQUEST_1_OUTRO_50_TEXT	Li abbiamo obliterati! Prima erano tutti tipo "Aooo, mò te facciamo vedere noi!"
@@ -3814,7 +3814,7 @@ $LINE_SIDEQUEST_1_OUTRO_70_CHAR	$BER
 $LINE_SIDEQUEST_1_OUTRO_70_TEXT	E allora i miei bicipiti facevano tipo "BAM! POW!" e-
 $LINE_SIDEQUEST_1_OUTRO_80_CHAR	$BER
 $LINE_SIDEQUEST_1_OUTRO_80_TEXT	Oh, ehi! Voi dovete essere i prigionieri che siamo qui per salvare!
-$LINE_SIDEQUEST_1_OUTRO_90_CHAR	PRISONER
+$LINE_SIDEQUEST_1_OUTRO_90_CHAR	PRIGIONIERA
 $LINE_SIDEQUEST_1_OUTRO_90_TEXT	Salvare? Vuol dire che non siete uomini di Ozimal?
 $LINE_SIDEQUEST_1_OUTRO_100_CHAR	$BER
 $LINE_SIDEQUEST_1_OUTRO_100_TEXT	Stai scherzando? Non lavorerei mai per uno così!
@@ -3822,7 +3822,7 @@ $LINE_SIDEQUEST_1_OUTRO_110_CHAR	$BER
 $LINE_SIDEQUEST_1_OUTRO_110_TEXT	Puzza di formaggio.
 $LINE_SIDEQUEST_1_OUTRO_120_CHAR	$BER
 $LINE_SIDEQUEST_1_OUTRO_120_TEXT	Anch'io ho dei limiti.
-$LINE_SIDEQUEST_1_OUTRO_130_CHAR	PRISONER
+$LINE_SIDEQUEST_1_OUTRO_130_CHAR	PRIGIONIERA
 $LINE_SIDEQUEST_1_OUTRO_130_TEXT	Quindi siamo liberi di andare? Non ho capito bene cos'è successo.
 $LINE_SIDEQUEST_1_OUTRO_140_CHAR	$BER
 $LINE_SIDEQUEST_1_OUTRO_140_TEXT	Se vuoi capire cos'è successo, probabilmente dovresti parlare con qualcuno che non è me.
@@ -3878,7 +3878,7 @@ $LINE_SIDEQUEST_2_GET_120_TEXT	Ehi!
 $LINE_SIDEQUEST_2_GET_130_CHAR	$BER
 $LINE_SIDEQUEST_2_GET_130_TEXT	Sento già i muscoli atrofizzarsi...
 $LINE_SIDEQUEST_2_GET_140_CHAR	$HEA
-$LINE_SIDEQUEST_2_GET_140_TEXT	Be', una volta avevamo una scorta costante di pesci, ma poi i Revenant hanno infestato il fiume.
+$LINE_SIDEQUEST_2_GET_140_TEXT	Be', una volta avevamo una scorta costante di pesci, ma poi i revenant hanno infestato il fiume.
 $LINE_SIDEQUEST_2_GET_150_CHAR	$BER
 $LINE_SIDEQUEST_2_GET_150_TEXT	Zombi acquatici, hai detto?
 $LINE_SIDEQUEST_2_GET_160_CHAR	$BER
@@ -3892,7 +3892,7 @@ $LINE_SIDEQUEST_2_GET_190_TEXT	Il Luogotenente dei Luoghi Comuni.
 $LINE_SIDEQUEST_2_GET_200_CHAR	$BER
 $LINE_SIDEQUEST_2_GET_200_TEXT	Io navigo l'Oceano della Figaggine; le tue misere battutine si perdono nel suo glorioso ruggito.
 $LINE_SIDEQUEST_2_GET_210_CHAR	$MCG
-$LINE_SIDEQUEST_2_GET_210_TEXT	Se hai finito di sguazzare tra le Acque dell'Autocelebrazione, potremmo andare a combattere qualche Revenant.
+$LINE_SIDEQUEST_2_GET_210_TEXT	Se hai finito di sguazzare tra le Acque dell'Autocelebrazione, potremmo andare a combattere qualche revenant.
 $SCENE_SIDEQUEST_2_INTRO_TITLE	Il Signor Bei Pantaloni
 $LINE_SIDEQUEST_2_INTRO_00_CHAR	$RAN
 $LINE_SIDEQUEST_2_INTRO_00_TEXT	Mi ripeti perchè siamo qui? Perchè Mister Bei Pantaloni non riesce a mandar giù le sue verdurine?
@@ -3939,15 +3939,15 @@ $LINE_SIDEQUEST_2_OUTRO_60_CHAR	$MCG
 $LINE_SIDEQUEST_2_OUTRO_60_TEXT	Praticamente.
 $SCENE_SIDEQUEST_3_GET_TITLE	I legami della parentela
 $LINE_SIDEQUEST_3_GET_00_CHAR	SORELLA
-$LINE_SIDEQUEST_3_GET_00_TEXT	Scusatemi, ma mi sembra di capire che un membro della tribù Geka viaggia insieme a voi?
+$LINE_SIDEQUEST_3_GET_00_TEXT	Scusatemi, ma a quanto ho capito c'è un membro della tribù Geka che sta viaggiando con voi?
 $LINE_SIDEQUEST_3_GET_10_CHAR	$MCG
 $LINE_SIDEQUEST_3_GET_10_TEXT	Più di uno in realtà, se si contano i "membri onorari".
 $LINE_SIDEQUEST_3_GET_20_CHAR	SORELLA
-$LINE_SIDEQUEST_3_GET_20_TEXT	Abbiamo in cura una Geka molto malata, in Convento.
+$LINE_SIDEQUEST_3_GET_20_TEXT	Abbiamo in cura una Geka molto malata, nel convento.
 $LINE_SIDEQUEST_3_GET_30_CHAR	SORELLA
 $LINE_SIDEQUEST_3_GET_30_TEXT	Quando ha saputo che qui c'era un'altra Geka, ha chiesto di vederla.
 $LINE_SIDEQUEST_3_GET_40_CHAR	SORELLA
-$LINE_SIDEQUEST_3_GET_40_TEXT	Se poteste essere così gentili da visitarla... Ci preoccupa che peggiorerà le sue condizioni, se si agiterà ulteriormente.
+$LINE_SIDEQUEST_3_GET_40_TEXT	Se poteste essere così gentili da visitarla... Ci preoccupa che possa peggiorare le sue condizioni agitandosi ulteriormente.
 $LINE_SIDEQUEST_3_GET_50_CHAR	$BER
 $LINE_SIDEQUEST_3_GET_50_TEXT	Non preoccupatevi, ho un effetto incredibilmente calmante sulle persone!
 $LINE_SIDEQUEST_3_GET_60_CHAR	SORELLA
@@ -3955,7 +3955,7 @@ $LINE_SIDEQUEST_3_GET_60_TEXT	Sono spiacente, ma... solo le donne sono ammesse n
 $LINE_SIDEQUEST_3_GET_70_CHAR	$BER
 $LINE_SIDEQUEST_3_GET_70_TEXT	Come? Ma non è -
 $LINE_SIDEQUEST_3_GET_80_CHAR	$RAN
-$LINE_SIDEQUEST_3_GET_80_TEXT	Nya-nya!
+$LINE_SIDEQUEST_3_GET_80_TEXT	Gne-gne!
 $LINE_SIDEQUEST_3_GET_90_CHAR	PAZIENTE
 $LINE_SIDEQUEST_3_GET_90_TEXT	Lei... dov'è?
 $LINE_SIDEQUEST_3_GET_100_CHAR	$RAN
@@ -3965,7 +3965,7 @@ $LINE_SIDEQUEST_3_GET_110_TEXT	Atia... Krikti en Geka.
 $LINE_SIDEQUEST_3_GET_120_CHAR	ATIA
 $LINE_SIDEQUEST_3_GET_120_TEXT	Il mio... logoro filo non durerà... molto tempo...
 $LINE_SIDEQUEST_3_GET_130_CHAR	ATIA
-$LINE_SIDEQUEST_3_GET_130_TEXT	Fuori da quelle mura ho... visto... i nostri compagni Geka.
+$LINE_SIDEQUEST_3_GET_130_TEXT	Fuori da queste mura ho... visto... i nostri compagni Geka.
 $LINE_SIDEQUEST_3_GET_140_CHAR	ATIA
 $LINE_SIDEQUEST_3_GET_140_TEXT	Tra... le file dei... morti senza pace...
 $LINE_SIDEQUEST_3_GET_150_CHAR	ATIA
@@ -3981,17 +3981,17 @@ $LINE_SIDEQUEST_3_GET_190_TEXT	Um... i revenant non possono essere uccisi, dovre
 $LINE_SIDEQUEST_3_GET_200_CHAR	ATIA
 $LINE_SIDEQUEST_3_GET_200_TEXT	*Ho saputo della tua amica... $MCG, e delle sue abilità. Solo la vostra banda ci può riuscire!
 $LINE_SIDEQUEST_3_GET_210_CHAR	$RAN
-$LINE_SIDEQUEST_3_GET_210_TEXT	Mi dispiace, proprio non posso. È un rischio totalmente inutile.
+$LINE_SIDEQUEST_3_GET_210_TEXT	Mi dispiace, ma proprio non posso. È un rischio totalmente inutile.
 $LINE_SIDEQUEST_3_GET_220_CHAR	ATIA
 $LINE_SIDEQUEST_3_GET_220_TEXT	Li abbandonerai?
 $LINE_SIDEQUEST_3_GET_230_CHAR	$RAN
-$LINE_SIDEQUEST_3_GET_230_TEXT	Non voglio diventare una di loro. Loro sarebbero d'accordo.
+$LINE_SIDEQUEST_3_GET_230_TEXT	Non voglio diventare una di loro. E loro sarebbero d'accordo.
 $LINE_SIDEQUEST_3_GET_240_CHAR	ATIA
-$LINE_SIDEQUEST_3_GET_240_TEXT	...la figlia di Takil... sputa in faccia... alla sua famiglia.
+$LINE_SIDEQUEST_3_GET_240_TEXT	... la figlia di Takil... sputa in faccia... alla sua famiglia.
 $LINE_SIDEQUEST_3_GET_250_CHAR	ATIA
 $LINE_SIDEQUEST_3_GET_250_TEXT	Ho vissuto fin troppo a lungo.
 $LINE_SIDEQUEST_3_GET_260_CHAR	$RAN
-$LINE_SIDEQUEST_3_GET_260_TEXT	Non mi farò ammazzare per aiutare qualcuno che è già morto!
+$LINE_SIDEQUEST_3_GET_260_TEXT	Non mi farò uccidere per aiutare qualcuno che è già morto!
 $LINE_SIDEQUEST_3_GET_270_CHAR	ATIA
 $LINE_SIDEQUEST_3_GET_270_TEXT	Sparisci... dalla... mia... vista.
 $LINE_SIDEQUEST_3_GET_280_CHAR	$RAN
@@ -4003,7 +4003,7 @@ $LINE_SIDEQUEST_3_GET_300_TEXT	...i figli di Krast.
 $LINE_SIDEQUEST_3_GET_310_CHAR	$RAN
 $LINE_SIDEQUEST_3_GET_310_TEXT	....
 $LINE_SIDEQUEST_3_GET_320_CHAR	$RAN
-$LINE_SIDEQUEST_3_GET_320_TEXT	...Dannazione.
+$LINE_SIDEQUEST_3_GET_320_TEXT	... dannazione.
 $SCENE_SIDEQUEST_3_INTRO_TITLE	Ripagando un debito
 $LINE_SIDEQUEST_3_INTRO_00_CHAR	$MCG
 $LINE_SIDEQUEST_3_INTRO_00_TEXT	Ehi! Aspetta!
@@ -4012,7 +4012,7 @@ $LINE_SIDEQUEST_3_INTRO_10_TEXT	Che storia è questa, te ne vuoi andare nel dese
 $LINE_SIDEQUEST_3_INTRO_20_CHAR	$RAN
 $LINE_SIDEQUEST_3_INTRO_20_TEXT	Non-morti, e sì, sto andando a... disammazzarli, o qualcosa del genere.
 $LINE_SIDEQUEST_3_INTRO_30_CHAR	$MCG
-$LINE_SIDEQUEST_3_INTRO_30_TEXT	Non credi che forse ti servirà di un po' di aiuto?
+$LINE_SIDEQUEST_3_INTRO_30_TEXT	Non credi che forse avrai bisogno di un po' d'aiuto?
 $LINE_SIDEQUEST_3_INTRO_40_CHAR	$RAN
 $LINE_SIDEQUEST_3_INTRO_40_TEXT	Questa è... una faccenda personale.
 $LINE_SIDEQUEST_3_INTRO_50_CHAR	$MCG
@@ -4022,11 +4022,11 @@ $LINE_SIDEQUEST_3_INTRO_60_TEXT	Sono in debito con loro.
 $LINE_SIDEQUEST_3_INTRO_70_CHAR	$MCG
 $LINE_SIDEQUEST_3_INTRO_70_TEXT	E quindi andrai a farti ammazzare?
 $LINE_SIDEQUEST_3_INTRO_80_CHAR	$MCG
-$LINE_SIDEQUEST_3_INTRO_80_TEXT	Voglio dire, forse te ne sei dimenticata, ma i Revenant sono invincibili a meno che non ci si trovi nel mondo di mezzo.
+$LINE_SIDEQUEST_3_INTRO_80_TEXT	Voglio dire, forse te ne sei dimenticata, ma i revenant sono invincibili a meno che non ci si trovi nel mondo di mezzo.
 $LINE_SIDEQUEST_3_INTRO_90_CHAR	$RAN
 $LINE_SIDEQUEST_3_INTRO_90_TEXT	...Ma tu sei qui, giusto?
 $LINE_SIDEQUEST_3_INTRO_100_CHAR	$MCG
-$LINE_SIDEQUEST_3_INTRO_100_TEXT	...E ci sono anche un paio di Revenant veramente brutti.
+$LINE_SIDEQUEST_3_INTRO_100_TEXT	...E ci sono anche un paio di revenant veramente brutti.
 $SCENE_SIDEQUEST_3_OUTRO_TITLE	I figli di Krast
 $LINE_SIDEQUEST_3_OUTRO_00_CHAR	$RAN
 $LINE_SIDEQUEST_3_OUTRO_00_TEXT	Riposate in pace, figli di Krast.
@@ -4115,7 +4115,7 @@ $LINE_SIDEQUEST_3_OUTRO_410_TEXT	È proprio bello poter fare queste chiaccherate
 $SCENE_SIDEQUEST_4_GET_TITLE	Deserto di Pace
 $NARR_SIDEQUEST_4_GET_00_TEXT	Quella mattina...
 $LINE_SIDEQUEST_4_GET_00_CHAR	$BER
-$LINE_SIDEQUEST_4_GET_00_TEXT	Sono passati due giorni interi dall'ultima volta che ucciso qualcosa...
+$LINE_SIDEQUEST_4_GET_00_TEXT	Sono passati due giorni interi dall'ultima volta che ho ucciso qualcosa...
 $LINE_SIDEQUEST_4_GET_10_CHAR	$BER
 $LINE_SIDEQUEST_4_GET_10_TEXT	Sento la noia rosicchiare la mia forza vitale.
 $LINE_SIDEQUEST_4_GET_20_CHAR	$BER
@@ -4401,13 +4401,13 @@ $LINE_HERMIT_1_INTRO_70_TEXT	Mi preoccupo per lui, in effetti.
 $LINE_HERMIT_1_INTRO_80_CHAR	$MCG
 $LINE_HERMIT_1_INTRO_80_TEXT	Ma solo un pochino, per la cronaca.
 $LINE_HERMIT_1_INTRO_90_CHAR	EREMITA
-$LINE_HERMIT_1_INTRO_90_TEXT	No, non teschi di Revenant! Il tuo squilibrato compatriota può tenerle per sè quelle schifezze.
+$LINE_HERMIT_1_INTRO_90_TEXT	No, non teschi di revenant! Il tuo squilibrato compatriota può tenerle per sè quelle schifezze.
 $LINE_HERMIT_1_INTRO_100_CHAR	EREMITA
 $LINE_HERMIT_1_INTRO_100_TEXT	Sto parlando di...
 $LINE_HERMIT_1_INTRO_110_CHAR	EREMITA
 $LINE_HERMIT_1_INTRO_110_TEXT	TESCHI MAGICI!
 $LINE_HERMIT_1_INTRO_120_CHAR	EREMITA
-$LINE_HERMIT_1_INTRO_120_TEXT	Sono fatti di pietra, bronzo e ossidiana. A volte i Revenant li portano con sè.
+$LINE_HERMIT_1_INTRO_120_TEXT	Sono fatti di pietra, bronzo e ossidiana. A volte i revenant li portano con sè.
 $LINE_HERMIT_1_INTRO_130_CHAR	EREMITA
 $LINE_HERMIT_1_INTRO_130_TEXT	In ogni caso, se ne trovi qualcuno, portali a me. Ti prometto che ne varrà la pena.
 $LINE_HERMIT_1_INTRO_140_CHAR	$MCG
