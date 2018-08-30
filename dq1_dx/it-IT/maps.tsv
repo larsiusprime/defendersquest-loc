@@ -135,7 +135,7 @@ $1_3_COLISEUM_1_50_TEXT	Be', invece di morire, vediamo di prendere a calci qualc
 $1_3_COLISEUM_1_60_TITLE	TALK_$BER_SMILE
 $1_3_COLISEUM_1_60_TEXT	Lo trovo preferibile alla morte, in genere.
 $1_3_COLISEUM_1_70_TITLE	La Cacciatrice
-$1_3_COLISEUM_1_70_TEXT	$MCG può ora scegliere fra due classi, selezionando le schede del Barbari o degli Arcieri.
+$1_3_COLISEUM_1_70_TEXT	$MCG può ora scegliere fra due classi, selezionando le schede dei barbari o degli arcieri.
 $1_3_COLISEUM_1_80_TITLE	
 $1_3_COLISEUM_1_80_TEXT	Muovi il cursore sulle icone delle ondate per ottenere più informazioni sui nemici.
 $1_3_COLISEUM_1_81_TITLE	
@@ -145,7 +145,7 @@ $1_3_COLISEUM_1_90_TEXT	Ad esempio, i nemici ROSSI possono attaccare i tuoi dife
 $1_3_COLISEUM_1_100_TITLE	
 $1_3_COLISEUM_1_100_TEXT	Inoltre, presta attenzione a questi simboli. Indicano il punto della mappa in cui apparirà l'ondata corrispondente.
 $1_4_COLISEUM_2_00_TITLE	
-$1_4_COLISEUM_2_00_TEXT	Se hai reclutato altri Barbari,<N>$MCG potrà evocarli nel mondo di mezzo selezionando il menu dei Barbari.
+$1_4_COLISEUM_2_00_TEXT	Se hai reclutato altri barbari,<N>$MCG potrà evocarli nel mondo di mezzo selezionando il menu dei barbari.
 $1_4_COLISEUM_2_10_TITLE	Consiglio
 $1_4_COLISEUM_2_10_TEXT	$BER è ancora il tuo combattente migliore -<N>potenzialo per fargli usare la tecnica "Doppio Colpo".
 $2_2_UNDEAD_RANGERS_00_TITLE	
@@ -189,7 +189,7 @@ $3_4_ARMORED_CREEPS_10_TEXT	Ehi, pappamolle!  I veri uomini combattono a torso n
 $3_4_ARMORED_CREEPS_20_TITLE	TALK_$RAN_NORMAL
 $3_4_ARMORED_CREEPS_20_TEXT	Ehi, se vogliono vestirsi pesante, lasciali fare.
 $3_4_ARMORED_CREEPS_30_TITLE	TALK_$RAN_NORMAL
-$3_4_ARMORED_CREEPS_30_TEXT	Meno parti zombificate penzolanti mi tocca guardare meglio è.
+$3_4_ARMORED_CREEPS_30_TEXT	Meno schifezze zombificate penzolanti mi tocca guardare meglio è.
 $3_4_ARMORED_CREEPS_40_TITLE	TALK_$BER_SURPRISE
 $3_4_ARMORED_CREEPS_40_TEXT	Lo so che sono strafigo e tutto quanto, ma cosa dovrei fare contro quei cosi inscatolati nelle armature?
 $3_4_ARMORED_CREEPS_50_TITLE	TALK_$HEA_NORMAL
@@ -201,7 +201,7 @@ $3_5_MEET_THE_KNIGHT_00_TEXT	Il cavaliere ha la capacità di infrangere le armat
 $3_5_MEET_THE_KNIGHT_10_TITLE	TALK_$KNI_NORMAL
 $3_5_MEET_THE_KNIGHT_10_TEXT	Posso far saltare via l'armatura di quei demoni!
 $3_5_MEET_THE_KNIGHT_20_TITLE	TALK_$KNI_SQUINT
-$3_5_MEET_THE_KNIGHT_20_TEXT	...o almeno potrei ...se avessi un corpo...
+$3_5_MEET_THE_KNIGHT_20_TEXT	... o almeno potrei... se avessi un corpo...
 $3_5_MEET_THE_KNIGHT_30_TITLE	TALK_$KNI_SQUINT
 $3_5_MEET_THE_KNIGHT_30_TEXT	Cosa sta succedendo?
 $3_6_INTO_THE_CITY_00_TITLE	TALK_$MCG_POWER
@@ -209,13 +209,13 @@ $3_6_INTO_THE_CITY_00_TEXT	$BER, cosa diamine stai facendo?!
 $3_6_INTO_THE_CITY_10_TITLE	TALK_$BER_DERANGED
 $3_6_INTO_THE_CITY_10_TEXT	È così che combatte un vero uomo!
 $3_6_INTO_THE_CITY_20_TITLE	TALK_$MCG_POWER
-$3_6_INTO_THE_CITY_20_TEXT	Rimetti subito i pantaloni.
+$3_6_INTO_THE_CITY_20_TEXT	Rimettiti subito i pantaloni.
 $3_6_INTO_THE_CITY_30_TITLE	TALK_$BER_DERANGED
 $3_6_INTO_THE_CITY_30_TEXT	Mai!
 $3_6_INTO_THE_CITY_40_TITLE	TALK_$MCG_POWER
 $3_6_INTO_THE_CITY_40_TEXT	Fallo subito o ti lascio lì.
 $3_6_INTO_THE_CITY_50_TITLE	TALK_$BER_SMILE
-$3_6_INTO_THE_CITY_50_TEXT	...e va bene.
+$3_6_INTO_THE_CITY_50_TEXT	... e va bene.
 $3_11_CITADEL_BOSS_00_TITLE	TALK_$BER_SMILE
 $3_11_CITADEL_BOSS_00_TEXT	Come faccio a colpire quelle cose se non riesco a vederle?!
 $3_11_CITADEL_BOSS_10_TITLE	TALK_$HEA_NORMAL
@@ -255,11 +255,11 @@ $4_5_RIGHT_HAND_40_TEXT	Revenantini! Siete tornati?!!
 $4_5_RIGHT_HAND_50_TITLE	TALK_$BER_DERANGED
 $4_5_RIGHT_HAND_50_TEXT	Venite qui, lasciatevi ammazzare!
 $4_5_RIGHT_HAND_60_TITLE	TALK_CULTIST_PRIEST
-$4_5_RIGHT_HAND_60_TEXT	Quegli sciocchi credono finita la battaglia...
+$4_5_RIGHT_HAND_60_TEXT	Quegli sciocchi credono che la battaglia sia conclusa...
 $4_5_RIGHT_HAND_70_TITLE	TALK_CULTIST_PRIEST
 $4_5_RIGHT_HAND_70_TEXT	Ma quella miserabile creatura di carne e spirito non è ciò che credono.
 $4_5_RIGHT_HAND_80_TITLE	TALK_CULTIST_PRIEST
-$4_5_RIGHT_HAND_80_TEXT	Inebriato dal potere del Maestro io divento... LA MANO DESTRA DI EZTLI-TENOCH!
+$4_5_RIGHT_HAND_80_TEXT	Inebriato dal potere del mio maestro io divento... LA MANO DESTRA DI EZTLI-TENOCH!
 $4_5_RIGHT_HAND_90_TITLE	TALK_CULTIST_PRIEST
 $4_5_RIGHT_HAND_90_TEXT	IO SONO LA MORTE
 $4_5_RIGHT_HAND_100_TITLE	TALK_ZELEMIR_POWER
@@ -323,7 +323,7 @@ $12_4_FINAL_250_TEXT	Questo è il mio regno!
 $12_4_FINAL_260_TITLE	TALK_EZTLI-TENOCH_NORMAL
 $12_4_FINAL_260_TEXT	Potrai anche essere in grado di incespicare fino a metà del cammino...
 $12_4_FINAL_270_TITLE	TALK_EZTLI-TENOCH_NORMAL
-$12_4_FINAL_270_TEXT	...ma solo io posso percorrere la via dello spirito.
+$12_4_FINAL_270_TEXT	... ma io soltanto posso percorrere la via dello spirito.
 $12_4_FINAL_280_TITLE	TALK_$MCG_POWER
 $12_4_FINAL_280_TEXT	Cosa succede?
 $12_4_FINAL_290_TITLE	TALK_$HEA_NORMAL
@@ -523,15 +523,15 @@ $INDEX_SECOND_LEVEL_111_TEXT	Premi <MOVE_MAP_DOWN> per proseguire.
 $INDEX_LVL_DUDE_120_TITLE	Tutorial
 $INDEX_LVL_DUDE_120_TEXT	Congratulazioni! Un difensore è salito di livello!
 $INDEX_LVL_DUDE_130_TITLE	Tutorial
-$INDEX_LVL_DUDE_130_TEXT	Clicca su quel difensore per migliorarne le abilità.
+$INDEX_LVL_DUDE_130_TEXT	Clicca sul difensore per migliorarne le abilità.
 $INDEX_LVL_DUDE_131_TITLE	Tutorial
 $INDEX_LVL_DUDE_131_TEXT	Premi <MENU_MENU> per selezionare i tuoi personaggi.
 $INDEX_CLICK_DUDE_140_TITLE	Tutorial
 $INDEX_CLICK_DUDE_140_TEXT	Questo è l'"ALBERO" DELLE ABILITÀ del difensore.
 $INDEX_CLICK_DUDE_150_TITLE	Tecniche
 $INDEX_CLICK_DUDE_150_TEXT	Le abilità a forma di CERCHIO sono TECNICHE<N>e vanno usate manualmente in battaglia.
-$INDEX_CLICK_DUDE_160_TITLE	Caratteristiche
-$INDEX_CLICK_DUDE_160_TEXT	Le abilità a forma di QUADRATO sono CARATTERISTICHE passive,<N>sempre funzionanti.
+$INDEX_CLICK_DUDE_160_TITLE	Talenti
+$INDEX_CLICK_DUDE_160_TEXT	Le abilità a forma di QUADRATO sono TALENTI passivi,<N>sempre funzionanti.
 $INDEX_SKILL_DUDE_170_TITLE	Tutorial
 $INDEX_SKILL_DUDE_170_TEXT	Muovere il cursore del mouse sopra l'abilità ti mostra come migliorerà.
 $INDEX_SKILL_DUDE_180_TITLE	Tutorial
@@ -553,21 +553,21 @@ $INDEX_BUY_STUFF_250_TEXT	Puoi comprare equipaggiamento e reclutare nuovi difens
 $INDEX_BUY_STUFF_260_TITLE	
 $INDEX_BUY_STUFF_260_TEXT	Ora dovresti reclutare dei BARBARI e comprare delle ARMI.<N><N>(Nota: ogni nuova recluta è sempre più costosa della precedente).
 $INDEX_HOW_TO_BUY_270_TITLE	Acquistare armi
-$INDEX_HOW_TO_BUY_270_TEXT	Queste sono le armi in vendita.<N>Clicca su un tipo di arma per far apparire il pulsante "Compra".
+$INDEX_HOW_TO_BUY_270_TEXT	Queste sono le armi in vendita.<N>Clicca su un tipo di arma per far apparire il pulsante "compra".
 $INDEX_DIFF_TOWN_280_TITLE	Altre informazioni sui villaggi:
 $INDEX_DIFF_TOWN_280_TEXT	Ogni villaggio offre servizi diversi.
 $INDEX_DIFF_TOWN_290_TITLE	Altre informazioni sui villaggi:
 $INDEX_DIFF_TOWN_290_TEXT	Per esempio, in questo villaggio puoi assoldare degli ARCIERI e comprare ARMATURE.
 $INDEX_DIFF_TOWN_300_TITLE	Altre informazioni sui villaggi:
-$INDEX_DIFF_TOWN_300_TEXT	Ricorda, un seguito più grande è sempre più costoso: ogni nuova recluta costa più dell'ultima.
+$INDEX_DIFF_TOWN_300_TEXT	Ricorda, un seguito più grande è sempre più costoso: ogni nuova recluta costa sempre di più dell'ultima.
 $INDEX_1_1_WHERE_AM_I_TITLE	Il mondo a metà strada
 $INDEX_1_1_WHERE_AM_I_TEXT	Persa e sola, $MCG si ritrova intrappolata tra la vita e la morte.
-$INDEX_1_2_THE_SHADOW_WORLD_TITLE	La Carovana dei Morti
+$INDEX_1_2_THE_SHADOW_WORLD_TITLE	La carovana dei morti
 $INDEX_1_2_THE_SHADOW_WORLD_TEXT	$MCG si imbatte in una carovana mercantile stracolma di oggetti.
 $INDEX_1_3_COLISEUM_1_TITLE	Il Colosseo
 $INDEX_1_3_COLISEUM_1_TEXT	I nostri eroi sono costretti a combattere i revenant nell'arena di Ozimal.
-$INDEX_JAIL_TITLE	Prigione di Ozimal
-$INDEX_JAIL_TEXT	Il vllaggio-prigione di Ozimal per gli schiavi e i gladiatori. Un misto di feccia inqualificabile e vittime innocenti, entrambi ansiosi di scappare.
+$INDEX_JAIL_TITLE	La prigione di Ozimal
+$INDEX_JAIL_TEXT	Il vllaggio-prigione di Ozimal per gli schiavi e i gladiatori. Un misto di feccia inqualificabile e vittime innocenti, tutti egualmente ansiosi di scappare.
 $INDEX_JAIL_DESTROY_TEXT	La prigione è vuota - qualcuno ha aperto una breccia nel muro e tutti i prigionieri sono scappati.
 $INDEX_1_4_COLISEUM_2_TITLE	Ritorno al Colosseo
 $INDEX_1_4_COLISEUM_2_TEXT	Ozimal dà una dimostrazione degli straordinari talenti di $MCG ad uno strano ospite...
@@ -580,75 +580,75 @@ $INDEX_SIDEQUEST_1_TEXT	Durante la fuga da Ozimal, $MCG ritorna per salvare i pr
 $INDEX_RANGER_TOWN_TITLE	Karsk
 $INDEX_RANGER_TOWN_TEXT	Un accampamento di profughi nomadi. Karsk paga a Ozimal un'enorme tassa di 'protezione' per non essere attaccata.
 $INDEX_RANGER_TOWN_DESTROY_TEXT	Tutto ciò che rimane di Karsk è uno spesso strato di cenere. I corpi dei morti sembrano essere spariti.
-$INDEX_2_1_SAVE_RANGER_TOWN_TITLE	La Battaglia di Karsk
+$INDEX_2_1_SAVE_RANGER_TOWN_TITLE	La battaglia di Karsk
 $INDEX_2_1_SAVE_RANGER_TOWN_TEXT	Le forze di Ozimal assediano Karsk.
-$INDEX_2_2_UNDEAD_RANGERS_TITLE	Vecchi Amici, Nuovi Nemici
+$INDEX_2_2_UNDEAD_RANGERS_TITLE	Vecchi amici, nuovi nemici
 $INDEX_2_2_UNDEAD_RANGERS_TEXT	Le vittime dell'attacco a Karsk risorgono come mostri.
-$INDEX_2_3_MONASTERY_GATES_TITLE	I cancelli del Monastero
+$INDEX_2_3_MONASTERY_GATES_TITLE	I cancelli del monastero
 $INDEX_2_3_MONASTERY_GATES_TEXT	Una grande battaglia erompe alle porte del monastero.
 $INDEX_LAKSOS_TITLE	Laksos
 $INDEX_LAKSOS_TEXT	Un campo di rifugiati ai piedi della montagna, frequente bersaglio delle incursioni di Ozimal.
-$INDEX_2_4_MONASTERY_TITLE	L'ascesa al Monastero
+$INDEX_2_4_MONASTERY_TITLE	L'ascesa al monastero
 $INDEX_2_4_MONASTERY_TEXT	Il nemico si lancia all'assalto tra le ripide scale del monastero.
-$INDEX_MONASTERY_TITLE	Il Monastero
+$INDEX_MONASTERY_TITLE	Il monastero
 $INDEX_MONASTERY_TEXT	Una Casa Capitolare Selini, un monastero della religione principale del regno Ashiano.
-$INDEX_SIDEQUEST_2_TITLE	Gita sul fiume
-$INDEX_SIDEQUEST_2_TEXT	$MCG ripulisce il fiume dall'infestazione di revenant, affinchè possa di nuovo essere usato per pescare
-$INDEX_3_1_TO_THE_PASS_TITLE	Verso l'Ospedale
+$INDEX_SIDEQUEST_2_TITLE	Gita lungo il fiume
+$INDEX_SIDEQUEST_2_TEXT	$MCG ripulisce il fiume dall'infestazione di revenant, in modo che possa essere usato di nuovo per pescare
+$INDEX_3_1_TO_THE_PASS_TITLE	Verso l'ospedale
 $INDEX_3_1_TO_THE_PASS_TEXT	$MCG accorre a difendere l'ospedale da un attacco a sorpresa.
-$INDEX_3_2_HOSPITAL_ATTACK_TITLE	Attacco all'Ospedale
+$INDEX_3_2_HOSPITAL_ATTACK_TITLE	Attacco all'ospedale
 $INDEX_3_2_HOSPITAL_ATTACK_TEXT	La compagnia aiuta a difendere l'ospedale assediato.
-$INDEX_HOSPITAL_TITLE	L'Ospedale
+$INDEX_HOSPITAL_TITLE	L'ospedale
 $INDEX_HOSPITAL_TEXT	Una Casa della Misericordia Selini, un luogo di rifugio e cura per i feriti e gli ammalati.
 $INDEX_SIDEQUEST_3_TITLE	I figli di Krast
 $INDEX_SIDEQUEST_3_TEXT	$RAN mantiene controvoglia una promessa fatta a un altro membro della sua tribù.
-$INDEX_SIDEQUEST_4_TITLE	Fra le Ombre
+$INDEX_SIDEQUEST_4_TITLE	Fra le ombre
 $INDEX_SIDEQUEST_4_TEXT	Mentre $MCG e $RAN sono lontane, $BER e $HEA vengono portati via da una donna misteriosa.
 $INDEX_3_3_DESERT_STRONGHOLD_TITLE	L'entrata della Fortezza del Deserto
 $INDEX_3_3_DESERT_STRONGHOLD_TEXT	Inseguiti da una banda di revenant, il gruppo si prepara ad affrontarli prima di entrare nella Fortezza del Deserto.
-$INDEX_3_4_ARMORED_CREEPS_TITLE	La Notte dei Cavalieri Viventi
+$INDEX_3_4_ARMORED_CREEPS_TITLE	La notte dei cavalieri viventi
 $INDEX_3_4_ARMORED_CREEPS_TEXT	Cercando rifugio nella fortezza, i nostri eroi scoprono qualcosa di sinistro nell'oscurità.
 $INDEX_3_5_MEET_THE_KNIGHT_TITLE	Un nobile apriscatole
 $INDEX_3_5_MEET_THE_KNIGHT_TEXT	Un cavaliere solitario si unisce al gruppo, facendo mostra del suo talento nello spaccare armature.
-$INDEX_GUARD_TOWN_TITLE	Nascondiglio delle Guardie
+$INDEX_GUARD_TOWN_TITLE	Nascondiglio delle guardie
 $INDEX_GUARD_TOWN_TEXT	Un forte occupato dalle ex-guardie della Valle, in cerca di rifugio dalla vendetta dei prigionieri sopravvissuti.
-$INDEX_SIDEQUEST_5_TITLE	Ritorno alle Ombre
+$INDEX_SIDEQUEST_5_TITLE	Ritorno alle ombre
 $INDEX_SIDEQUEST_5_TEXT	La misteriosa donna ritorna e rapisce $BER e $KNI.
-$INDEX_3_6_INTO_THE_CITY_TITLE	Nel cuore della Fortezza
+$INDEX_3_6_INTO_THE_CITY_TITLE	Nel cuore della fortezza
 $INDEX_3_6_INTO_THE_CITY_TEXT	$KNI guida la compagnia verso il centro della fortezza, alla ricerca di risposte.
 $INDEX_3_7_UNWELCOME_GUESTS_TITLE	Ospiti indesiderati
 $INDEX_3_7_UNWELCOME_GUESTS_TEXT	Il gruppo trova un insolito alleato nelle profondità delle catacombe.
 $INDEX_3_8_DEFEND_NEST_TITLE	A difesa del nido
 $INDEX_3_8_DEFEND_NEST_TEXT	$DRA accetta di aiutare i nostri eroi, a condizione che essi la aiutino a difendere il suo nido.
-$INDEX_DRAGON_LAIR_TITLE	Antro del Drago
+$INDEX_DRAGON_LAIR_TITLE	Antro del drago
 $INDEX_DRAGON_LAIR_TEXT	Il nido di $DRA, colmo di tesori e casa dei suoi piccoli.
-$INDEX_3_9_GOAT_STEW_TITLE	Assalto alla Pecora
+$INDEX_3_9_GOAT_STEW_TITLE	Assalto alla pecora
 $INDEX_3_9_GOAT_STEW_TEXT	$DRA vuole mangiare. $MCG le offre un'alternativa alla carne umana.
-$INDEX_3_10_THE_CITADEL_TITLE	La Sala dei Registri Reali
+$INDEX_3_10_THE_CITADEL_TITLE	La sala dei registri reali
 $INDEX_3_10_THE_CITADEL_TEXT	I nostri eroi si fanno strada fino all'antica camera degli archivi, sperando in qualche risposta.
 $INDEX_FIRE_SHRINE_TITLE	Tempio del Fuoco
-$INDEX_FIRE_SHRINE_TEXT	Questo è un luogo sacro Quaid dedito al culto del Fuoco
-$INDEX_SIDEQUEST_6_TITLE	Il Tempio in rovina
-$INDEX_SIDEQUEST_6_TEXT	$MAG e $MCG purificano un Tempio del Fuoco Quaid dissacrato
-$INDEX_DESTROYED_RANGER_TOWN_TITLE	Villaggio dei Ranger distrutto
-$INDEX_DESTROYED_RANGER_TOWN_TEXT	Tutto ciò che resta del villagio dei Ranger.  Qualcuno di loro si aggira ancora tra le macerie.
+$INDEX_FIRE_SHRINE_TEXT	Questo è un luogo sacro quaidiano dedito al culto del Fuoco
+$INDEX_SIDEQUEST_6_TITLE	Il tempio in rovina
+$INDEX_SIDEQUEST_6_TEXT	$MAG e $MCG purificano un Tempio del Fuoco quaidiano profanato
+$INDEX_DESTROYED_RANGER_TOWN_TITLE	Villaggio dei cacciatori distrutto
+$INDEX_DESTROYED_RANGER_TOWN_TEXT	Tutto ciò che resta del villagio dei cacciatori.  Qualcuno di loro si aggira ancora tra le macerie.
 $INDEX_3_11_CITADEL_BOSS_TITLE	Fuga nei sotterranei
-$INDEX_3_11_CITADEL_BOSS_TEXT	Il gruppo fugge dalla Cittadella attraverso un condotto fognario, ed è braccato da un gruppo di revenant.
-$INDEX_3_12_TUNNEL_ESCAPE_TITLE	La distruzione della Miniera
-$INDEX_3_12_TUNNEL_ESCAPE_TEXT	$HEA intende detonare la miniera, ma $MCG deve fargli guadagnare abbastanza tempo.
+$INDEX_3_11_CITADEL_BOSS_TEXT	Il gruppo fugge dalla cittadella attraverso un condotto fognario, ed è braccato da un gruppo di revenant.
+$INDEX_3_12_TUNNEL_ESCAPE_TITLE	La distruzione della miniera
+$INDEX_3_12_TUNNEL_ESCAPE_TEXT	$HEA intende far detonare la miniera, ma $MCG deve fargli guadagnare abbastanza tempo.
 $INDEX_3_13_DESTROY_CITY_TITLE	Zelemir fa la sua comparsa
 $INDEX_3_13_DESTROY_CITY_TEXT	Lo stregone si pone fra te e l'uscita.
-$INDEX_GHOST_TOWN_TITLE	Villaggio Fantasma
-$INDEX_GHOST_TOWN_TEXT	Un villaggio quasi del tutto abbandonato, abitato da alcuni mercenari erranti e profughi Quaid.
+$INDEX_GHOST_TOWN_TITLE	Villaggio fantasma
+$INDEX_GHOST_TOWN_TEXT	Un villaggio quasi del tutto abbandonato, abitato da alcuni mercenari erranti e profughi quaidiani.
 $INDEX_4_1_EZTLIS_FORCES_TITLE	I seguaci di Eztli-Tenoch
 $INDEX_4_1_EZTLIS_FORCES_TEXT	Facendosi strada verso la parte orientale della Valle, il gruppo si avventura nel regno di Eztli-Tenoch.
-$INDEX_4_2_WIZARDS_REALM_TITLE	Il Regno del Mago
+$INDEX_4_2_WIZARDS_REALM_TITLE	Il regno del mago
 $INDEX_4_2_WIZARDS_REALM_TEXT	Il gruppo si imbatte nelle antiche rovine di una strana città.  Che cosa sarà questo posto?
-$INDEX_4_3_THE_HALLS_TITLE	Le Sale del Re-Dio
+$INDEX_4_3_THE_HALLS_TITLE	Le sale del Re-Dio
 $INDEX_4_3_THE_HALLS_TEXT	L'antica sala del trono di Eztli-Tenoch in persona, ora teatro di una nuova battaglia.
-$INDEX_TREASURE_CHAMBER_TITLE	Camera del Tesoro
+$INDEX_TREASURE_CHAMBER_TITLE	Camera del tesoro
 $INDEX_TREASURE_CHAMBER_TEXT	La scoperta di $DRA è sia un rifugio sicuro che un luogo dove fare rifornimenti... se te lo puoi permettere.
-$INDEX_SIDEQUEST_7_TITLE	La Regina delle Tenebre
+$INDEX_SIDEQUEST_7_TITLE	La regina delle tenebre
 $INDEX_SIDEQUEST_7_TEXT	L'identità della donna misteriosa viene finalmente svelata.
 $INDEX_4_4_FREEDOM_DASH_TITLE	Una corsa disperata verso la libertà
 $INDEX_4_4_FREEDOM_DASH_TEXT	Precipitandosi verso il passo della montagna, i nostri eroi sono costretti a combattere sulla riva di un fiume.
@@ -672,7 +672,7 @@ $INDEX_HERMIT_3_TITLE	Eremo
 $INDEX_HERMIT_3_TEXT	Un terzo eremita ha la sua dimora nelle profondità della fortezza.
 $INDEX_HERMIT_4_TITLE	Eremo
 $INDEX_HERMIT_4_TEXT	L'ultimo eremita risiede nel deserto.
-$INDEX_OBELISK_TITLE	Strano Monumento
+$INDEX_OBELISK_TITLE	Strano monumento
 $INDEX_OBELISK_TEXT	C'è uno strano monumento nel deserto
 $BLANK	
 $12_4_FINAL_171_TEXT	Ed io che avevo sperato...
@@ -694,9 +694,9 @@ $3_13_DESTROY_CITY_30_TEXT	No, ma il crollo di questa città lo farà.
 $3_13_DESTROY_CITY_40_TITLE	TALK_$HEA_NORMAL
 $3_13_DESTROY_CITY_40_TEXT	Queste miniere verranno sepolte, e con esse la tua follia.
 $3_13_DESTROY_CITY_50_TITLE	TALK_ZELEMIR_POWER
-$3_13_DESTROY_CITY_50_TEXT	Fratello... Tutto ciò che ho fatto... dovresti sape-
+$3_13_DESTROY_CITY_50_TEXT	Fratello... tutto ciò che ho fatto... dovresti sape-
 $3_13_DESTROY_CITY_60_TITLE	TALK_$HEA_NORMAL
-$3_13_DESTROY_CITY_60_TEXT	Ciò che so è che sei un uomo morto.
+$3_13_DESTROY_CITY_60_TEXT	Quello che so è che sei un uomo morto.
 $3_13_DESTROY_CITY_70_TEXT	Sì! Mangiati qualche tonnellata di morte pietrosa, brutto indovino dei miei stivali! Vali meno di un vaso da notte rotto!
 $3_13_DESTROY_CITY_70_TITLE	TALK_$BER_DERANGED
 $3_1_TO_THE_PASS_90_TEXT	È la mia arma migliore.

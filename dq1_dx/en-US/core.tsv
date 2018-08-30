@@ -1239,7 +1239,7 @@ $YOU_GOT_NEW_GAME_PLUS_TITLE	New Game+ Unlocked!
 $YOU_GOT_NO_EQUIP	This item cannot be equipped.
 $YOU_GOT_NO_EQUIP_YET	No one in your party can equip <THING> yet.<N>Don't worry, just keep playing and new characters will show up who can.
 $YOU_GOT_X	<NUM>x <THING>!
-$GAMEPAD_TEMP_SPACER	,,,,,,
+$GAMEPAD_TEMP_SPACER	,,,,
 $GAMEPAD_BUTTON_SPACER	
 $ACTIONS_MENUCONTROLS	Menu
 $ACTIONS_MENUCONTROLSWITHANALOG	Menu

@@ -10,7 +10,7 @@ $CLASS_BERSERKER_PL	Barbari
 $CLASS_HEALER	Guaritore
 $CLASS_HEALER_PL	Guaritori
 $CLASS_MAGE	Maga del Ghiaccio
-$CLASS_MAGE_PL	Maghe del Ghiaccio
+$CLASS_MAGE_PL	Maghe del ghiaccio
 $CLASS_DRAGON	Drago
 $CLASS_DRAGON_PL	Draghi
 $CLASS_SORCEROR	Stregone
@@ -57,7 +57,7 @@ $SKILL_SORCEROR_A_HEALING-Z_DESC	Cura $X PV a tutti i difensori.
 $SKILL_SORCEROR_A_PUSHBACK-Z_DESC	Respinge i nemici di $X caselle verso il loro punto di inizio.
 $SKILL_SORCEROR_A_DRAGON_FIRE-Z_DESC	Provoca $X danni a tutti i nemici sullo schermo e li manda a fuoco per $Y secondi.
 $SKILL_KNIGHT_A_SWING	Colpo di taglio
-$SKILL_KNIGHT_P_ARMOR_PIERCE	Perforazione armatura
+$SKILL_KNIGHT_P_ARMOR_PIERCE	Penetrazione armatura
 $SKILL_KNIGHT_A_SMASH	Colpo pesante
 $SKILL_KNIGHT_P_ARMOR_BREAK	Spacca corazze
 $SKILL_KNIGHT_P_ARMOR_TRAINING	Addestramento armature
@@ -65,10 +65,10 @@ $SKILL_KNIGHT_P_HARD_KNOCK	Contraccolpo
 $SKILL_KNIGHT_A_COUNTER	Contrattacco
 $SKILL_KNIGHT_A_LUNGE	Affondo
 $SKILL_KNIGHT_P_STUN_STAB	Colpo di piatto
-$SKILL_KNIGHT_P_SWORD_TRAINING	Addestramento con la Spada
+$SKILL_KNIGHT_P_SWORD_TRAINING	Addestramento con la spada
 $SKILL_KNIGHT_A_CLEAVE	Fendente
-$SKILL_BERSERKER_A_SLASH	Colpo Semplice
-$SKILL_BERSERKER_A_DOUBLE_HIT	Doppio Colpo
+$SKILL_BERSERKER_A_SLASH	Colpo semplice
+$SKILL_BERSERKER_A_DOUBLE_HIT	Doppio colpo
 $SKILL_BERSERKER_P_SWIFTNESS	Rapidità
 $SKILL_BERSERKER_A_FLURRY	Raffica
 $SKILL_BERSERKER_P_RESILIENCE	Resistenza
@@ -81,36 +81,36 @@ $SKILL_HEALER_A_AID	Soccorso
 $SKILL_HEALER_A_ETHER_FLASH	Lampo Etereo
 $SKILL_HEALER_P_BULK_UP	Tempra
 $SKILL_HEALER_P_BLINDING	Accecamento
-$SKILL_HEALER_A_GROUP_HEAL	Guarigione Multipla
-$SKILL_HEALER_A_HOLY_LIGHT	Luce Sacra
+$SKILL_HEALER_A_GROUP_HEAL	Guarigione multipla
+$SKILL_HEALER_A_HOLY_LIGHT	Luce sacra
 $SKILL_HEALER_A_ZEAL	Zelo
 $SKILL_HEALER_P_INSPIRE	Ispirazione
-$SKILL_MAGE_A_ICE_BALL	Sfera di Ghiaccio
+$SKILL_MAGE_A_ICE_BALL	Sfera di ghiaccio
 $SKILL_MAGE_P_CHILL	Raffredda
-$SKILL_MAGE_A_ICE_SHARD	Scheggia di Ghiaccio
+$SKILL_MAGE_A_ICE_SHARD	Scheggia di ghiaccio
 $SKILL_MAGE_P_FREEZE	Congela
 $SKILL_MAGE_A_SLEET	Nevischio
-$SKILL_MAGE_P_ICE_SPEAR	Lancia di Ghiaccio
-$SKILL_MAGE_A_ICE_SPLASH	Bomba di Ghiaccio
+$SKILL_MAGE_P_ICE_SPEAR	Lancia di ghiaccio
+$SKILL_MAGE_A_ICE_SPLASH	Bomba di ghiaccio
 $SKILL_MAGE_A_BLIZZARD	Bufera
 $SKILL_DRAGON_A_BITE	Morso
 $SKILL_DRAGON_A_CLAW	Zampata
-$SKILL_DRAGON_P_EPIC_HALITOSIS	Alitosi Epica
-$SKILL_DRAGON_A_FIRE_BREATH	Soffio di Fuoco
+$SKILL_DRAGON_P_EPIC_HALITOSIS	Alitosi epica
+$SKILL_DRAGON_A_FIRE_BREATH	Soffio di fuoco
 $SKILL_DRAGON_P_STRENGTH	Forza
 $SKILL_DRAGON_A_ROAR	Ruggito
 $SKILL_DRAGON_P_FATTEN_UP	Ingrassa
 $SKILL_DRAGON_P_NOM	Gnam
-$SKILL_DRAGON_A_FIRE_BALL	Palla di Fuoco
-$SKILL_RANGER_A_BASIC_SHOT	Tiro Normale
+$SKILL_DRAGON_A_FIRE_BALL	Palla di fuoco
+$SKILL_RANGER_A_BASIC_SHOT	Tiro normale
 $SKILL_RANGER_P_SHARP_SHOOTER	Tiratore scelto
-$SKILL_RANGER_A_TRIPLE_SHOT	Colpo Triplo
+$SKILL_RANGER_A_TRIPLE_SHOT	Colpo triplo
 $SKILL_RANGER_P_DEEP_SHOT	Colpo profondo
 $SKILL_RANGER_A_RAPID_SHOT	Raffica
 $SKILL_RANGER_P_RANGE_FOCUS	Gittata
-$SKILL_RANGER_P_PIERCING_SHOT	Frecce Perforanti
-$SKILL_RANGER_P_POISON_SHOT	Frecce Avvelenate
-$SKILL_RANGER_A_SPREAD_SHOT	Frecce Multiple
+$SKILL_RANGER_P_PIERCING_SHOT	Frecce perforanti
+$SKILL_RANGER_P_POISON_SHOT	Frecce avvelenate
+$SKILL_RANGER_A_SPREAD_SHOT	Frecce multiple
 $SKILL_RANGER_A_BLACK_OUT_THE_SUN	Pioggia di frecce
 $TYPE_RANGED	Attacchi a lungo raggio
 $TYPE_MELEE	Attacchi corpo a corpo
